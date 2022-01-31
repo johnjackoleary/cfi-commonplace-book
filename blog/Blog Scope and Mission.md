@@ -8,6 +8,7 @@
 -   Build report with potential students
 -   Find likeminded people for future collaboration 
 -   Portfolio of sorts 
+- Something to send to students for reference
 
   
 
