@@ -1,0 +1,7 @@
+- #TODO: Requirements
+	- Tests
+		- FOI (Fundamentals of Instruction)
+		- Instructor knowledge in both flight and ground elements
+- #TODO: Advice
+- #TODO: Timelines
+- #TODO: Renewal / currency requirements
