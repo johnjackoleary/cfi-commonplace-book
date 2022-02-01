@@ -1,0 +1,1 @@
+https://www.aopa.org/news-and-media/all-news/2021/december/06/training-tip-things-you-cant-practice-too-much
