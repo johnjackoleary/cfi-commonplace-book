@@ -1,4 +1,4 @@
 -   starting business
 -   Liability while teaching
--   Aircraft ownership  [[topics/Purchasing Aircraft]]
+-   Aircraft ownership  [[topics/active-topics/Purchasing Aircraft]]
 -   What is deductible and what is not (Sportys course? Airplane?)*

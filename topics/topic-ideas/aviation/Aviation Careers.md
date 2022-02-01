@@ -1,0 +1,2 @@
+- https://www.aopa.org/training-and-safety/learn-to-fly/flying-for-a-career
+- https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/learn-to-fly/flight-training-infographic.pdf
