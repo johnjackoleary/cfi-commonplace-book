@@ -8,10 +8,7 @@ Ballpark $50k
 
 # Todo
 ## Open Questions
-- Knowing I’d be using this in part to teach, have you heard of flight instructors who are able to write off a purchase like this as a business expense?
-- I’ve heard both the DA40 and Citabria are great planes for the club, because they are just about at critical mass and so should be rented pretty regularly. Do you have an estimate on how many hours I could expect each of these planes to fly?
-- Are there policy documents I can reference from the club about ownership? For instance, I would like to use the DA40 (if I go that route) for long trips back to the midwest occasionally. How does cost-per-hour work as the owner? What about non-flying day rates?
-- Could I teach using the plane if a student was not part of the club?
+[[Questions for WVFC Owner]]
 
 
 # WVFC
