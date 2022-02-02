@@ -1,0 +1,1 @@
+From Nader: San Carlos Flight Center _formerly_ did provide helicopter instruction (circa 2015).  The helicopters are still around in the Bay Area, but not at SCFC anymore.

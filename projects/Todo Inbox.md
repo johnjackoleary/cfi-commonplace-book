@@ -1,0 +1,1 @@
+- Watch https://www.aopa.org/training-and-safety/air-safety-institute/implementing-learn-to-turn-with-rich-stowell
