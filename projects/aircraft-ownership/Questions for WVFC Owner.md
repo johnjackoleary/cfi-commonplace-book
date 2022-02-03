@@ -79,6 +79,7 @@ Talking to James Sloan
 	- WVFC does an ownership
 	- San Carlos has 1-2 on aircraft ownership and several on maintence
 	- Mike Bush does a few on how to make sure it's in good shape, "Savvy Aviation" youtube channel
+- Feel free to reach out in a month or 2 with a whole new batch of questions
 
 
 
