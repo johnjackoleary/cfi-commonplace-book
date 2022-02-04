@@ -1,0 +1,4 @@
+- Set up first lesson overview with things like what I expect from you (feedback, etc) and what I expect of myself
+	- How will lessons work with bad weather?
+	- How long of a lesson should they book at any given part?
+- Perhaps a lesson 'tech tree' of what things we could work on based on weather or other variables
