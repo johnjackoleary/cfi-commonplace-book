@@ -2,3 +2,4 @@
 	- How will lessons work with bad weather?
 	- How long of a lesson should they book at any given part?
 - Perhaps a lesson 'tech tree' of what things we could work on based on weather or other variables
+- Pronouns 
