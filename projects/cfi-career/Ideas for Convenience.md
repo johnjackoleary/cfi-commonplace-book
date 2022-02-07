@@ -1,0 +1,3 @@
+- Aircraft baseball cards with things like R values and GAIT chart and sensors/tech on board 
+	- Could include fuel burn
+	- Also things like FPM translated to get per nm for common speeds 
