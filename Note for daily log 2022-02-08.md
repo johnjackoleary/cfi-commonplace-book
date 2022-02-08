@@ -1,0 +1,4 @@
+-   **Weekly Backlog**17 points
+-   **Daily Sprint**19 points
+-   **Done**18 points
+-   **TOTAL:****54 points**
