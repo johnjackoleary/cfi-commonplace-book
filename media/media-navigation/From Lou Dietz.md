@@ -4,3 +4,5 @@
 [[DietzInstrumentAirplaneSyllabus2018.pdf]]
 [[DietzCommercialAirplaneSyllabus2022.pdf]]
 [[ApproachBriefingWRIMTM_FredSimonds.pdf]]
+182 checklist 
+[[Diverse-Departures-FredSimonds.pdf]]
