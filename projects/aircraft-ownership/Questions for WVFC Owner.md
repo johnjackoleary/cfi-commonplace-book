@@ -26,7 +26,7 @@ Talking to James Sloan
 		- Several number of free hours per month
 	- Can also research online and read law firms publications, etc
 - Did you set up an LLC to purchase this? Do you use the same company for CFI business?
-	- Talk to panel attorney about this
+	- Talk to panel attorney about this - https://pilot-protection-services.aopa.org/for-participants-only
 	- Correct vehicle for protection is insurance
 		- Two important scenarios
 			- You flying airplane, and you did something dumb, and you crash
