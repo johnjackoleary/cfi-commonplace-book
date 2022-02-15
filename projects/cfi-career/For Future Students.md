@@ -3,3 +3,6 @@
 	- How long of a lesson should they book at any given part?
 - Perhaps a lesson 'tech tree' of what things we could work on based on weather or other variables
 - Pronouns 
+- Teach stress limits with actual demo using maybe Newton force on a known material
+- Consider creating key VPs in Bay Area so students can practice in MSFS
+- Role play saying no to guests when weather is bad (like we used to do for secrecy training)
