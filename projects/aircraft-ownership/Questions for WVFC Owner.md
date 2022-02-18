@@ -22,11 +22,11 @@ Talking to James Sloan
 	- So commercial may qualify you for a new trade, but then CFI and beyond can be deducted potentailly (cost of training and cost of airplane)
 	- Probably need to allocate use to personal, business use, and training
 	- AOPA has a bit of a legal service
-		- Can also work with Calidforian licensed panel attoerny
-		- Several number of free hours per month
+		- Can also work with Califorian licensed panel attoerny
+		- Several number of free hours per month (is this true?)
 	- Can also research online and read law firms publications, etc
 - Did you set up an LLC to purchase this? Do you use the same company for CFI business?
-	- Talk to panel attorney about this - https://pilot-protection-services.aopa.org/for-participants-only
+- Talk to panel attorney about this - [[AOPA Panel Attorney]]
 	- Correct vehicle for protection is insurance
 		- Two important scenarios
 			- You flying airplane, and you did something dumb, and you crash
