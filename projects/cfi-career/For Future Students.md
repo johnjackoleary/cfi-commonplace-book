@@ -6,3 +6,4 @@
 - Teach stress limits with actual demo using maybe Newton force on a known material
 - Consider creating key VPs in Bay Area so students can practice in MSFS
 - Role play saying no to guests when weather is bad (like we used to do for secrecy training)
+- weather fronts demo
