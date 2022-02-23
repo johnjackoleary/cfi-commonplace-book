@@ -1,0 +1,1 @@
+https://www.aopa.org/news-and-media/all-news/2006/november/flight-training-magazine/staying-ahead-of-the-airplane
