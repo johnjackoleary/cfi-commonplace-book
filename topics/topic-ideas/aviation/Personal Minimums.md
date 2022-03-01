@@ -1,0 +1,1 @@
+https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/do-the-right-thing/personal-minimums
