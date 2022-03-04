@@ -9,3 +9,4 @@
 [[media/LostComms/LostCommsFredSimonds.pdf]]
 Others in LostComms/
 [[TAF_METAR_decoder.pdf]]
+[[g1000.pdf]]
