@@ -8,3 +8,4 @@
 - Role play saying no to guests when weather is bad (like we used to do for secrecy training)
 - weather fronts demo
 - Tour of VOR station 
+- Take pictures of logbook as you go
