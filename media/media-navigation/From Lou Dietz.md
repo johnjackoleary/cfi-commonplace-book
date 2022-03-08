@@ -10,3 +10,5 @@
 Others in LostComms/
 [[TAF_METAR_decoder.pdf]]
 [[g1000.pdf]]
+[[FAAKnownIcingInterpretationLetter2009.pdf]]
+[[How_to_properly_use_an_Icing_Forecast.pdf]]
