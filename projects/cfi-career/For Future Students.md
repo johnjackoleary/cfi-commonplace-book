@@ -9,3 +9,4 @@
 - weather fronts demo
 - Tour of VOR station 
 - Take pictures of logbook as you go
+- Demo of airplane wind in simple air tunnel
