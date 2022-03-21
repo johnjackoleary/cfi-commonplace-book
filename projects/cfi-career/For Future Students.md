@@ -10,3 +10,4 @@
 - Tour of VOR station 
 - Take pictures of logbook as you go
 - Demo of airplane wind in simple air tunnel
+- Bring balloon in plane to show adabatic cooling and expansion (propane tank as example of expansion cooling from here https://youtu.be/wp4mMkncHcI)
