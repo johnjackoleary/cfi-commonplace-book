@@ -9,3 +9,5 @@
 [[media/LostComms/LostCommsFredSimonds.pdf]]
 Others in LostComms/
 [[TAF_METAR_decoder.pdf]]
+[[G1000DPEInstructorGuide.pdf]]
+[[Getting the Maximum from Personal Minimums.pdf]]
