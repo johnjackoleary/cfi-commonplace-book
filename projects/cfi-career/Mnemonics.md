@@ -3,6 +3,7 @@
 
 ## Other URLs
 - http://www.airman.us/ifr_scanning_6.html
+- https://www.scottsasha.com/aviation/acronyms.html
 
 ## From AVWeb
 [URL](https://www.avweb.com/features/leading-edge-4-checklists-and-flows/)

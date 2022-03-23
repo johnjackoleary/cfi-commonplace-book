@@ -1,1 +1,1 @@
-- Watch https://www.aopa.org/training-and-safety/air-safety-institute/implementing-learn-to-turn-with-rich-stowell
+- add https://reddit.com/r/flying/comments/tgn67t/ive_been_asked_about_this_a_couple_times_so_here/ to cfi resource 
