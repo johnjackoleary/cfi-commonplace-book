@@ -1,0 +1,1 @@
+Rate of turn from IFH p. 4-11
