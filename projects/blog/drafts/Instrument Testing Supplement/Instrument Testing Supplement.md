@@ -1,6 +1,6 @@
 Working with imagemagick after converting pdf to images using [Adobe online tool](https://www.adobe.com/acrobat/online/pdf-to-jpg.html): 
 ```      
-magick '*_9?.jpg' -crop 789x895+0+62 -fuzz 30% -trim thumbnail%03d.jpg
+magick (ls IR_AKTS/* | sort -n -t _ -k 4) -crop 789x895+0+62 -fuzz 30% -trim IR_AKTS_cropped_trimmed/image_%03d.jpg
 ```
 
 # All Figures
