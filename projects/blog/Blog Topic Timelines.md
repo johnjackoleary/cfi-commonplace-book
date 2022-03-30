@@ -1,4 +1,4 @@
-First? [[topics/active-topics/Why I Want to Be A CFI]]
+First? [[Why I Want to Be A CFI]]
 
 
       
