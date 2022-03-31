@@ -126,6 +126,7 @@ Figure 203A: Excerpt from Chart Supplement
 Figure 204: Airport Diagram: New ORLEANS/LAKEFRONT (NEW)
 Figure 205: Airport Diagram: Honolulu Intl (HNL) (PHNL)
 Figure 206: Excerpt from Chart Supplement 
+Blank page
 Figure 208: STELA One Arrival (STELA.STELA1) 
 Figure 209: STELA One Arrival (STELA.STELA1) 
 Figure 210: ILS or LOC RWY 6 (CAT I) (BDL)
