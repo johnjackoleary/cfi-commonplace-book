@@ -1,4 +1,19 @@
-      
+# Latest Draft
+Thesis: 
+Takeaways:
+- I've been teaching for a long time
+- I am a good teacher
+- I enjoy teaching
+- You would excel as a student of mine
+- I hope you reach out to say hello
+
+
+
+
+Teaching has been a favorite pasttime for me from an early age.
+
+# Early Drafts
+			
 
 Intro: Similar to planned before, with ending like “so I’d like to share two stories from that introspection”
 
