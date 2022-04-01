@@ -24,3 +24,5 @@ For this post's plausibly useful idea: Learning, Teaching, and Flying is an exam
 > a writing principle that suggests that a trio of events or characters is more humorous, satisfying, or effective than other numbers. The audience of this form of text is also thereby more likely to remember the information conveyed because having three entities combines both brevity and rhythm with having the smallest amount of information to create a pattern.
 
 
+Until next time!
+Jack
