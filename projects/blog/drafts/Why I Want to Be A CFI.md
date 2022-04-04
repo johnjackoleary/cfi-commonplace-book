@@ -1,4 +1,11 @@
 # Latest Draft
+
+
+
+
+
+
+# Older Draft
 Thesis: 
 Takeaways:
 - I've been teaching for a long time

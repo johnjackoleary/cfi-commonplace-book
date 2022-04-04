@@ -3,6 +3,9 @@ Working with imagemagick after converting pdf to images using [Adobe online tool
 magick (ls IR_AKTS/* | sort -n -t _ -k 4) -crop 789x895+0+62 -fuzz 30% -trim IR_AKTS_cropped_trimmed/image_%03d.jpg
 ```
 
+# Quick Links
+- [Aviation Weather Services](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_00-45h.pdf)
+
 # All Figures
 Figure 2: Wind and Temperatures Aloft Forecast
 Figure 3: Standard Conversion Chart
