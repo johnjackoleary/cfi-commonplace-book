@@ -1,4 +1,11 @@
 # Latest Draft
+Since the previous post set up the blog, perhaps this post 
+
+
+
+
+
+# Older Draft
 Thesis: 
 Takeaways:
 - I've been teaching for a long time
