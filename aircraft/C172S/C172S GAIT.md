@@ -9,43 +9,67 @@
 | **Precision Approach<br>Descent to DA** |    10°    |   \-3°    |  1900   |      90       |     \-450     |
 | **Non-Precision Approach<br>to MDA**    |    10°    |   \-4°    |  1500   |      90       |     \-800     |
 
+
+
 <table>
-<tr><th>Speeds (IAS/RPM/Flaps)</th><th>Reference Numbers</th></tr>
-<tr><td>
+    <tr>
+        <td>V<sub>G</sub></td>
+        <td>68 / idle / 0°</td>
+    </tr>
+    <tr>
+        <td>V<sub>R</sub></td>
+        <td>55 / full / 10°</td>
+    </tr>
+    <tr>
+        <td>V<sub>X(10°)</sub></td>
+        <td>56 / full / 10°</td>
+    </tr>
+    <tr>
+        <td>V<sub>X</sub></td>
+        <td>62 / full / 0°</td>
+    </tr>
+    <tr>
+        <td>V<sub>Y</sub></td>
+        <td>74 / full / 0°</td>
+    </tr>
+    <tr>
+        <td>V<sub>Climb</sub></td>
+        <td>80 / full / 0°</td>
+    </tr>
+    <tr>
+        <td>V<sub>A</sub></td>
+        <td>105 @ max<br>98 @ 2200 lb<br>90 @ 1900 lb</td>
+    </tr>
+    <tr>
+        <td>Down</td>
+        <td>90 / 2000 / 0°</td>
+    </tr>
+    <tr>
+        <td>Abeam \#s</td>
+        <td>80 / 1500 / 10°</td>
+    </tr>
+    <tr>
+        <td>Base</td>
+        <td>70 / 1500 / 20°</td>
+    </tr>
+    <tr>
+        <td>Final</td>
+        <td>65 / 1500 / 30°</td>
+    </tr>
+    <tr>
+        <td>Short Field</td>
+        <td>61 / 1500 / 30°</td>
+    </tr>
+</table>
 
+<table>
+    <tr>
+        <td>V<sub>G</sub></td>
+        <td>68 / idle / 0°</td>
+    </tr>
+    <tr>
+        <td>V<sub>R</sub></td>
+        <td>55 / full / 10°</td>
+    </tr>
+</table>
 
-
-</td><td>
-
-
-| ------------------ |:----------------------------------------- |
-| V<sub>G</sub>      | 68 / idle / 0°                            |
-| V<sub>R</sub>      | 55 / full / 10°                           |
-| V<sub>X(10°)</sub> | 56 / full / 10°                           |
-| V<sub>X</sub>      | 62 / full / 0°                            |
-| V<sub>Y</sub>      | 74 / full / 0°                            |
-| V<sub>Climb</sub>  | 80 / full / 0°                            |
-| V<sub>A</sub>      | 105 @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
-| Down               | 90 / 2000 / 0°                            |
-| Abeam \#s          | 80 / 1500 / 10°                           |
-| Base               | 70 / 1500 / 20°                           |
-| Final              | 65 / 1500 / 30°                           |
-| Short Field        | 61 / 1500 / 30°                           |
-
-</td></tr> </table>
-
-
-| Speed              | IAS/RPM/Flaps                             |
-| ------------------ |:----------------------------------------- |
-| V<sub>G</sub>      | 68 / idle / 0°                            |
-| V<sub>R</sub>      | 55 / full / 10°                           |
-| V<sub>X(10°)</sub> | 56 / full / 10°                           |
-| V<sub>X</sub>      | 62 / full / 0°                            |
-| V<sub>Y</sub>      | 74 / full / 0°                            |
-| V<sub>Climb</sub>  | 80 / full / 0°                            |
-| V<sub>A</sub>      | 105 @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
-| Down               | 90 / 2000 / 0°                            |
-| Abeam \#s          | 80 / 1500 / 10°                           |
-| Base               | 70 / 1500 / 20°                           |
-| Final              | 65 / 1500 / 30°                           |
-| Short Field        | 61 / 1500 / 30°                           |
