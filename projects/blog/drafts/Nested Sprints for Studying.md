@@ -1,5 +1,5 @@
-Title: 
-Subtitle: 
+Title: A Program Manager's Approach to the Mechanical Side of the Hustle
+Subtitle: how to use a daily sprint nested in a weekly sprint to focus on achieving your goals
 Affiliate Line: As an Amazon Associate I earn from qualifying purchases. (maybe don't use this?)
 Tags: #projectmanagement #learning #trello #obsidian #productrecommendation #tools
 
@@ -10,7 +10,7 @@ Plausibly Useful Idea: Story points using Fibonicii sequence, and why that works
 
 Area of Improvement: Multi-step writing process. (I'm testing out a timeline for blog posts -- if it works well, I'll likely write about it later! If it doesn't work well... We'll keep iterating)
 
-### Afflitate Links
+### Affiliate Links
 ```
 <a target="_blank" href="https://www.amazon.com/Guide-Project-Management-Knowledge-PMBOK-C2-AE-ebook-dp-B096KV7FXQ/dp/B096KV7FXQ/ref=mt_other?_encoding=UTF8&amp;me=&amp;qid=1649201975&_encoding=UTF8&tag=cfijack-20&linkCode=ur2&linkId=2e188a0a3417f874082d43c3117da95a&camp=1789&creative=9325">PMBOK</a>
 ```
@@ -63,7 +63,7 @@ It is meant to ensure no tasks are accidentally dropped, and to allow you to foc
 #### Terms
 Cards: 
 Boards:
-Story Points
+Story Points: define ((To choose story point values, don't worry about it too much. a 1 should be a trivial task (whatever the smallest task is for your domain), and everything from there is relative))
 
 #### Workflow
 * As a new task is apparent:
@@ -82,8 +82,14 @@ Story Points
 			* Or don't. Sure, I'll keep a task in "Weekly Backlog" if it needs to be done this week. Just don't get in the habit of having a task sitting in the backlog week after week.
 		* Your board should be clear now
 		* Review the number of story points you were able to complete over however many weeks you have data (if it's your first week, just pick a random budget)
-		* Pull in your "Weekly Backlog" cards from whichever backlogs you're currently prioritizing based on the story point
+		* Pull in your "Weekly Backlog" cards from whichever backlogs you're currently prioritizing based on the story point budget for the week (maybe 80% of the budeet to allow for unexpected work)
 			* I call this "Weekly Backlog" since it's not really a sprint. I've heard it called a (i think?) working area or somethign before, which is a fair description. just cutting down distractions
+			* Give story points to any tickets missing them
+	* And you're set for the week! Now just execute!
 	* ((Sprint goals are a good idea, but...))
 	* ((I use several prioritized backlogs, for instance "Instrument Rating Backlog" or "Blog Backlog". That way I can have a project roughly prioritized for when I want to pick it up, but . You can also have an "On Ice" backlog, which is a way of not loosing the idea, but also putting it in the freezer so you don't have to look at it all the time.))
-	* Periodically review you're backlogs
+	* Periodically review you're backlogs to keep them roughly prioritized, and move anything truly not going to happen to "On Ice"
+
+If you decide to give it a try, I'd love to know what works and doesn't work for you!
+
+Any in any case, for this post's plausibly useful idea: Story points are traditionally done in a Fibonacci sequence (or ascending prime numbers, but we won't go there). This solves two problems: human's are bad at absolute estimates, but great at relative estimates. And golden ratio increases in size are generally perceived as "notably bigger" (find article or something for this). So if a task is worth 5 points vs. 6 points, it's hard to say they're all that much different. But if a task is 5 points vs. 8 points, that's a relative step up. So we use 1,2,3,5,8,13,etc.
