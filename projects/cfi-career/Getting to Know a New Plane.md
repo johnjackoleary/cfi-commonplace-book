@@ -1,3 +1,6 @@
+# Getting Familiar on Ground
+Things like trying out nav system and practicing flows 
+
 # Handling Investigation
 
 
