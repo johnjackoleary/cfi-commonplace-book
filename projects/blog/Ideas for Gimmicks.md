@@ -1,3 +1,4 @@
 - Could do a post with links to other good posts (sort of like I don't want ot just redo these ones, but also you should check them out)
 - Could link to MSFS events as they are posted
 - mental model Mondays?
+- View counts on each post?
