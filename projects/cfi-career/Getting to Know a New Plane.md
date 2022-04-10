@@ -1,6 +1,7 @@
 # Plan Overview
 Should try all checklists by end and feel comfortable with planes handling
 
+* Prep: Estimate performance values and note any unusual checklist items 
 * Day 1: Standard operations
 	* Confirm performance against POH estimates and record things like pitch during climbs
 	* confirm all values of GAIT
