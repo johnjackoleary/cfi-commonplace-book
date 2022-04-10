@@ -1,5 +1,5 @@
 # Plan Overview
-Should try all checklists by end and feel comfortable with planes handling
+Should try all checklists by end and feel comfortable with planes handling. Should probably do this with a CFI (maybe this becomes my lesson plan?)
 
 * Prep: Estimate performance values and note any unusual checklist items 
 * Day 1: Standard operations
