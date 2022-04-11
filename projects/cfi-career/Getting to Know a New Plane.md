@@ -12,7 +12,9 @@ Should try all checklists by end and feel comfortable with planes handling. Shou
 	* confirm all values of GAIT
 	* Feel out handling for departure, en route, and arrival 
 	* Stalls practice to practice slow flight, especially to prep base to final and landing flare 
-	* Pattern practice at altitude then for real 
+	* Pattern practice at altitude then for real
+	* In practice:
+		* depart airport and Fly to practice area 
 * Day 2: Emergencies and abnormal
 	* Short field and soft field 
 	* Engine out
