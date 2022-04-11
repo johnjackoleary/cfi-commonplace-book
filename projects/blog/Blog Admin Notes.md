@@ -1,0 +1,1 @@
+https://search.google.com/search-console/ for indexing sites
