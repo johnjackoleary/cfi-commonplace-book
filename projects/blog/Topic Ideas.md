@@ -1,2 +1,3 @@
 Pirep and reporting trash on highway 
 Dimensional analysis for problems and real world 
+What was in or should've been in my flight back at each stage of my studying
