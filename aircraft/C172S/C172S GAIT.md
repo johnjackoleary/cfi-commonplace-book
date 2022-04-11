@@ -1,4 +1,4 @@
-| **C172S Gaits**         | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
+| **C172S Gaits** v0.2        | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
 | ----------------------- |:---------:|:---------:|:-------:|:-------------:|:-------------:|
 | ⚠️ V<sub>G</sub>           |           |    TBD    |  idle   |      68       |      TBD      |
 | 🛫 V<sub>R</sub>           |    10°    |    TBD    |   max   |      55       |      TBD      |
