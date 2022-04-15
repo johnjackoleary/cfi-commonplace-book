@@ -4,3 +4,4 @@
 - Bay Area history of sfo airspace
 - Practicing Flying in Sim
 - Getting around the Bay from SQL and PAO (this is probably already done)
+- Best flights to do from Bay Area
