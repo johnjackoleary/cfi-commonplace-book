@@ -1,6 +1,5 @@
 Title: A Program Manager's Approach to the Mechanical Side of the Hustle
 Subtitle: using nested daily and weekly sprints to focus execution towards your goals
-Affiliate Line: As an Amazon Associate I earn from qualifying purchases. (maybe don't use this?)
 Tags: #projectmanagement #learning #trello #obsidian #productrecommendation #tools
 Category: #CategoryProductivity
 
