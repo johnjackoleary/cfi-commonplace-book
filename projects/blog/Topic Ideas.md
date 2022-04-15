@@ -2,3 +2,4 @@
 - Dimensional analysis for problems and real world 
 - What was in or should've been in my flight back at each stage of my studying
 - Bay Area history of sfo airspace
+- First flight with family (could read Reddit stories too)
