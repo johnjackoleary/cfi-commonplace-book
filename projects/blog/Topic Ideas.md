@@ -7,3 +7,4 @@
 - Getting around the Bay from SQL and PAO (this is probably already done)
 - sailors perspective on flying 
 - Best flights to do from Bay Area
+- Formation flying
