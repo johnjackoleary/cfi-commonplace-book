@@ -8,3 +8,4 @@
 - sailors perspective on flying 
 - Best flights to do from Bay Area
 - Formation flying
+- Where do pressure systems come from for the bay
