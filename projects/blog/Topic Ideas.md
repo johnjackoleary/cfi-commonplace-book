@@ -8,3 +8,5 @@
 - sailors perspective on flying 
 - Best flights to do from Bay Area
 - Formation flying (maybe using replay tech in MSFS to practice)
+- Where do pressure systems come from for the bay
+>>>>>>> origin/main
