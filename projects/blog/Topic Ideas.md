@@ -9,3 +9,4 @@
 - Best flights to do from Bay Area
 - Formation flying (maybe using replay tech in MSFS to practice)
 - Where do pressure systems come from for the bay (could to TAF to metar comparison). Could just do Bay Area weather patterns in general
+- History of navigational beacons 
