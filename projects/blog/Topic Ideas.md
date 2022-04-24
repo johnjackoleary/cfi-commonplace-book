@@ -12,3 +12,4 @@
 - History of navigational beacons 
 - All equipment codes
 - Illusions in flight, maybe with MSFS examples
+- who can take lessons, how much roughly, ect
