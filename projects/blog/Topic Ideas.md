@@ -12,4 +12,5 @@
 - History of navigational beacons 
 - All equipment codes
 - Illusions in flight, maybe with MSFS examples
-- who can take lessons, how much roughly, ect
+- who can take lessons nationality wise, how much roughly, ect
+- Importance of sunscreen for pilots 
