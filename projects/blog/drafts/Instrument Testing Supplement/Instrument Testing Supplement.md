@@ -1,6 +1,17 @@
+Title: 10 (or N) figures to know for your Airplane Instrument Knowledge Test
+Subtitle: key figures from the knowledge testing supplement to understand closely
+Tags: #forstudents #instrumentrating #ifr
+Category: #CategoryKnowledgeTest (under #CategoryTesting)
+
+Should include legends?
+
+
 Working with imagemagick after converting pdf to images using [Adobe online tool](https://www.adobe.com/acrobat/online/pdf-to-jpg.html): 
+
+Referenced this guide: https://jdhao.github.io/2019/11/20/convert_pdf_to_image_imagemagick/
+
 ```      
-magick (ls IR_AKTS/* | sort -n -t _ -k 4) -crop 789x895+0+62 -fuzz 30% -trim IR_AKTS_cropped_trimmed/image_%03d.jpg
+convert -density 150 /Users/johnoleary/Documents/Development/cfi-commonplace-book/media/instrument_rating_akts.pdf[62-248] -quality 90 -crop 1238x1422+0+99 -fuzz 30% -trim output.jpg
 ```
 
 # Quick Links

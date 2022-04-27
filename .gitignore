@@ -7,6 +7,8 @@
 ehthumbs.db
 Thumbs.db
 
-.obsidian
 *.css
 
+# For Obsidian
+.obsidian/workspace
+media/instrument_rating_akts.pdf

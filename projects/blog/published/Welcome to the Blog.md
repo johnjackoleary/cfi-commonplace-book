@@ -1,7 +1,7 @@
 Title: Hi, Nice to Meet You!
 Subtitle: an overview of this blog
 Tags: #cfi #flying #learning #teaching
-
+Category: #CategoryAboutMe
 
 Hello!
 
