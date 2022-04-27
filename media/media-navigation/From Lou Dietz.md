@@ -16,3 +16,5 @@ Others in LostComms/
 [[How_to_properly_use_an_Icing_Forecast.pdf]]
 Others in checkride writeups
 [[cdfa-ac.pdf]]
+[[DietzPrivateAirplaneSyllabus2018TOC.pdf]]
+[[1219-blackbird letter.pdf]]
