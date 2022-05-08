@@ -15,3 +15,4 @@
 - who can take lessons nationality wise, how much roughly, ect
 - Importance of sunscreen for pilots 
 - Latticework of Mental Models
+- Funny stories from approach plate waypoint names 
