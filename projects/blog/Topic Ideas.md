@@ -16,3 +16,4 @@
 - Importance of sunscreen for pilots 
 - Latticework of Mental Models
 - Funny stories from approach plate waypoint names 
+- what duration (and time of day?) to schedule lessons for certain stages of training 
