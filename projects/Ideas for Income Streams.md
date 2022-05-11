@@ -15,7 +15,7 @@
 -   [BuyMeACoffee.com](http://BuyMeACoffee.com) or Patreon
 -   Host fly ins for each of my lessons (if they can get my location over adsb?)
 -   360 images of each planes cockpit for practicing (could sell to club with a google cardboard like solution)
--   Shoes for pilots 
+-   Shoes for pilots (already exists? https://liftaviationusa.com/collections/shoes)
 -   Webcams for airports or other places? (Maybe not a profitable project, but community building)
 -   Cracks in the foundation product - Program for assessing gaps of knowledge
 -   Book readings during yoga, for the multitasker
