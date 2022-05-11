@@ -16,5 +16,5 @@
 
 | Topic         | Details                                                               |
 | ------------- |:--------------------------------------------------------------------- |
-| Leaning       | Lean for peak EGT<br>Rich < 5000' climbing<br>Rich < 2000' descending |
+| Leaning       | Lean for peak EGT<br>Rich < 5000' climbing<br>Rich < 2000' (AGL) descending |
 | V<sub>A</sub> | 120 mph (max gross); 111 mph (1400 lbs)                                   |
