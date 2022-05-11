@@ -5,7 +5,7 @@
 | V<sub>X</sub>          |   max   |      58       |      TBD      |
 | 🛫 V<sub>Y</sub>       |   max   |      69       |      TBD      |
 | 🛫 V<sub>Climb</sub>   |   max   |      85       |      TBD      |
-| Cruise                 |   TBD   |      125      |      TBD      |
+| Cruise                 |  2600   |      126      |      TBD      |
 | Cruise Descent         |   TBD   |   green arc   |      TBD      |
 | 🛬 Downwind            |  2000   |      85       |      TBD      |
 | 🛬 Abeam Numbers       |   TBD   |      75       |      TBD      |
