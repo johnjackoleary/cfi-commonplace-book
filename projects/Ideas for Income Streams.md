@@ -1,0 +1,32 @@
+-   Pre-work lessons (aimed at earlier riser techies, maybe start at sunrise)
+-   VR of symphonies
+-   Lessons in sim for students 
+-   Could write a book on sim first flying lessons 
+-   VR Tools (for having a vr content to produce). Real money is in the tools
+-   Related, make the process of making incredible things the product
+-   3d printed train tools (like model airplanes eg)
+-   Palo Alto Rotorcraft lessons (with Stuart Bowers)
+-   Talk to Peter Bohacek about learning technology he’s worked on and lessons learned
+-   Affiliate program with blog (e.g. recommend headsets)
+-   Better Apple Watch apps for pilots 
+-   Teaching actors how to fly enough for movie
+-   Geology tours of bay, or other types of tours in connection with Stanford 
+-   Drone instructor/ lessons?
+-   [BuyMeACoffee.com](http://BuyMeACoffee.com) or Patreon
+-   Host fly ins for each of my lessons (if they can get my location over adsb?)
+-   360 images of each planes cockpit for practicing (could sell to club with a google cardboard like solution)
+-   Shoes for pilots (already exists? https://liftaviationusa.com/collections/shoes)
+-   Webcams for airports or other places? (Maybe not a profitable project, but community building)
+-   Cracks in the foundation product - Program for assessing gaps of knowledge
+-   Book readings during yoga, for the multitasker
+-   Quiz on what food you’re in the mood for
+-   Get patent on movie bingo and chores thing
+-   Get people not current back into airplane, if there’s a market big enough for this 
+-   Get company that does testing for proficiency that can test humans or robots, therefore able to sign something off as good enough(e.g. a self-driving car)
+-   Could we create a solution to the closet door opening by putting a small bump in the track of the door
+-   Amazon affiliate program
+-   Helicopter mini lessons for pilots, not tog eat a certificate but to learn basics and be better at working with helis
+-   Puppy socialization day camp 
+-   Flow builder app with 360 cockpit images
+-   Fully electronic airplane with solar panel wings (likely trainer like a Cub) - could buy Reid hills view to be the factory base. Could be WAAS only for nav
+-   Write blogs for AOPA or similar

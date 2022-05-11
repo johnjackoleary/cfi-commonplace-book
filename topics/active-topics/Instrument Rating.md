@@ -5,3 +5,4 @@
 - https://www.aopa.org/training-and-safety/air-safety-institute/safety-centers/ifr-procedures
 - https://www.ipadpilot.io/2018/09/14/how-about-an-ifr-checklist-pilots-love-checklists/
 - https://www.touringmachine.com/Articles/checkride/2457/
+- https://avclicks.com/presentations/Pattern%20B%20by%20the%20Numbers/
