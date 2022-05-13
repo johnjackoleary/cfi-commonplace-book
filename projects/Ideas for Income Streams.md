@@ -30,3 +30,4 @@
 -   Flow builder app with 360 cockpit images
 -   Fully electronic airplane with solar panel wings (likely trainer like a Cub) - could buy Reid hills view to be the factory base. Could be WAAS only for nav
 -   Write blogs for AOPA or similar
+- Blimps for transport along the bay and nearby towns. Only good days but cheap and efficient. Could be a techie perk. Could go fully electric 
