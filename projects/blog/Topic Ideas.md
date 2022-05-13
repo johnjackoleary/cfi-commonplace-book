@@ -19,4 +19,4 @@
 - what duration (and time of day?) to schedule lessons for certain stages of training 
 - ipad overheat in checkride 
 - Aviation Movies
-	- Breaking Through the Clouds: The First Women's National Air Derby
+- Blog on contents of each faa publichation 
