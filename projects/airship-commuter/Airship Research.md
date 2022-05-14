@@ -19,3 +19,6 @@ https://www.eenews.net/articles/airships-known-for-navy-blimp-and-hindenburg-his
 https://en.wikipedia.org/wiki/Hybrid_Air_Vehicles_Airlander_10
 - A production run of the Airlander 10 is now planned for 2025.
 - 
+- 
+
+https://reddit.com/r/bayarea/comments/up0h4t/california_gov_newsom_unveils_historic_975/ 
