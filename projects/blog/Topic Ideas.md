@@ -20,3 +20,4 @@
 - ipad overheat in checkride 
 - Aviation Movies
 - Blog on contents of each faa publichation 
+- Therapy and aviation 
