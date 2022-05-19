@@ -21,3 +21,6 @@
 - Aviation Movies
 - Blog on contents of each faa publichation 
 - Therapy and aviation 
+- Visual points at edge of airspace in Bay
+- Value add of instructors to economy based on career and market 
+- Ten amazing national park MSFS flights
