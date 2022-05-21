@@ -1,30 +1,40 @@
 https://www.google.com/maps/d/u/0/edit?mid=17U2OtCb6fRleeSfkLN1U5zMHGiDUv1lJ&ll=37.69753976440432%2C-122.13000000000001&z=8
 
-using 
+using this in style sheets to hide parts of his page
 ```
 p:nth-of-type(n+18):nth-of-type(-n+921) {display:none}
 p:nth-of-type(n+1314):nth-of-type(-n+1471) {display:none}
 ```
 
 
+For GOogle Earth, suggest turning off 3d Buildings
+
+Wish there was an MBTiles of your favorite old airport? Let me konw and I can try to expand this a bit!
+
+
+
+#### Airport Options (striked through are completed):
 
 http://www.airfields-freeman.com/CA/Airfields_CA_SanFran.htm
-- San Francisco Ferry Building Heliport / San Francisco Downtown Heliport, San Francisco, CA
-- San Mateo Highlands Airfield, San Mateo, CA
-- Bay Meadows Airport
+- ~~San Mateo Highlands Airfield, San Mateo, CA~~
+- ~~Bay Meadows Airport~~
 - (Maybe) treasure island
-- Crisy field
-- Marina
+- (no good photo) Helicopter Pad in SF
+	- Moved location slightly
+- ~~Crissy field~~
+	- Moved location slightly
+- (basically unchanged) Marina
 
 http://www.airfields-freeman.com/CA/Airfields_CA_SanJose.htm
-- Hoover Lake Airstrip 
-- Hiller Aircraft Company Factory Airfield
-- Palo Alto Airport (Original) / Palo Alto School of Aviation Airport / Goddard Airport, Palo Alto, CA
-- Progressive Airport / Mountain View Airport, Mountain View, CA
+- (no good pics) Hoover Lake Airstrip 
+- ~~Hiller Aircraft Company Factory Airfield~~
+- (no good photo) Palo Alto Airport (Original) / Palo Alto School of Aviation Airport / Goddard Airport, Palo Alto, CA
+- ~~Progressive Airport / Mountain View Airport, Mountain View, CA~~
 - (maybe) Santa Clara Valley Airport
 - Sky Sailing Airport
 - Fremont Airport 
 - Hummingbird Haven
+- Morgan Hill
 
 http://www.airfields-freeman.com/CA/Airfields_CA_Oakland.htm
 - Byron Airpark
