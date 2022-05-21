@@ -7,7 +7,9 @@ p:nth-of-type(n+1314):nth-of-type(-n+1471) {display:none}
 ```
 
 
-For GOogle Earth, suggest turning off 3d Buildings
+For GOogle Earth, suggest turning off 3d Buildings under the "Map Style" tab. https://earth.google.com
+Download: https://johnjackoleary.github.io/storage/cfijackblog/abandonedairports/Abandoned%20Bay%20Area%20Airports.kmz
+and import
 
 Wish there was an MBTiles of your favorite old airport? Let me konw and I can try to expand this a bit!
 
