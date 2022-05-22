@@ -25,3 +25,4 @@
 - Value add of instructors to economy based on career and market 
 - Ten amazing national park MSFS flights
 - how to make msfs more realistic
+- Best MSFS addons 
