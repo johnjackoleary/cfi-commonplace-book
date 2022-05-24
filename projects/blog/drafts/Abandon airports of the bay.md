@@ -14,6 +14,18 @@ and import
 Wish there was an MBTiles of your favorite old airport? Let me konw and I can try to expand this a bit!
 
 
+#### Consider messaging Freeman
+* https://en.wikipedia.org/wiki/Tanforan_Racetrack#Air_Meets_and_World_War_I may be worth adding
+* Crissy Field coordinates
+
+
+#### PUI
+```
+zip -r Abandoned\ Bay\ Area\ Airports.zip Abandoned\ Bay\ Area\ Airports/ -x "*/.DS_Store" -x "__MACOSX"
+```
+https://perishablepress.com/remove-macosx-ds-store-zip-files-mac/
+
+or Map Tilers
 
 #### Airport Options (striked through are completed):
 
