@@ -32,3 +32,4 @@
 -   Write blogs for AOPA or similar
 - Blimps for transport along the bay and nearby towns. Only good days but cheap and efficient. Could be a techie perk. Could go fully electric 
 - Restart Pilots Guide to California Airports
+- AR enabled aerial tours
