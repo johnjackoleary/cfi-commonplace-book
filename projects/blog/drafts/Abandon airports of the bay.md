@@ -17,6 +17,7 @@ Wish there was an MBTiles of your favorite old airport? Let me konw and I can tr
 #### Consider messaging Freeman
 * https://en.wikipedia.org/wiki/Tanforan_Racetrack#Air_Meets_and_World_War_I may be worth adding
 * Crissy Field coordinates
+* https://www.sancarlosairport.org/bay-area-airports-in-1950s/ and https://www.sancarlosairport.org/san-carlos-airport-history/
 
 
 #### PUI
