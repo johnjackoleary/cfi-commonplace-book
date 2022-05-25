@@ -26,3 +26,4 @@
 - Ten amazing national park MSFS flights
 - how to make msfs more realistic
 - Best MSFS addons 
+- Push times at SFO and others (from minute 7 ish of airspace video of Sportys)
