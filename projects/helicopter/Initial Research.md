@@ -34,6 +34,7 @@ Ideas research:
 - Heli testing for evtol 
 - AR enabled bay tours
 - Tours for folks with SFO layovers
+- https://jasonblair.net/?p=2326 (fly candidates for office)
 
 
 Cost research:
