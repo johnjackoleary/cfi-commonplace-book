@@ -25,7 +25,7 @@
 -   Get company that does testing for proficiency that can test humans or robots, therefore able to sign something off as good enough(e.g. a self-driving car)
 -   Could we create a solution to the closet door opening by putting a small bump in the track of the door
 -   Amazon affiliate program
--   Helicopter mini lessons for pilots, not tog eat a certificate but to learn basics and be better at working with helis
+-   Helicopter mini lessons for pilots, not to get a certificate but to learn basics and be better at working with helis
 -   Puppy socialization day camp 
 -   Flow builder app with 360 cockpit images
 -   Fully electronic airplane with solar panel wings (likely trainer like a Cub) - could buy Reid hills view to be the factory base. Could be WAAS only for nav

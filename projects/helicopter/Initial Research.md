@@ -24,7 +24,17 @@ Ideas research:
 - Team up with Stanford maybe?
 - Layover tours
 - Could build each tour custom with input from passengers (custom meaning from a roughly preselected list)
-- Teaching students
+- Teaching heli students
+- Geology tours of bay, or other types of tours in connection with Stanford 
+- Drone instructor/ lessons?
+- Host fly ins for each tour (if they can get my location over adsb?), and use that as global word of mouth marketing
+- Helicopter mini lessons for pilots, not to get a certificate but to learn basics and be better at working with helis
+- Teaching actors how to fly enough for movie
+- Helicopter inventions
+- Heli testing for evtol 
+- AR enabled bay tours
+- Tours for folks with SFO layovers
+
 
 Cost research:
 - https://pilotteacher.com/cost-to-buy-a-helicopter-15-most-popular-models/
@@ -54,3 +64,7 @@ Areas of concern:
 - http://www.stophelipad.org/helipads.shtml
 - Noise complaints
 - Plan if engine fails, including what to do with guests
+
+
+Exit strategy:
+- Tbd
