@@ -34,3 +34,5 @@
 - Restart Pilots Guide to California Airports
 - AR enabled aerial tours
 - Aerial real estate 
+- Tours for folks with SFO layovers
+- Formation flying?
