@@ -65,6 +65,7 @@ Areas of concern:
 - http://www.stophelipad.org/helipads.shtml
 - Noise complaints
 - Plan if engine fails, including what to do with guests
+- https://parkplanning.nps.gov/showFile.cfm?projectID=103175&MIMEType=application%252Fpdf&filename=GOGA%2DSAFR%2DPORE%2DMUWO%20ATMP%20Public%20Meeting%5F508%201%2Epdf&sfid=560824 (routes over nps in bay)
 
 
 Exit strategy:
