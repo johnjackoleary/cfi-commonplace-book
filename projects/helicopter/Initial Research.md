@@ -35,6 +35,7 @@ Ideas research:
 - AR enabled bay tours
 - Tours for folks with SFO layovers
 - https://jasonblair.net/?p=2326 (fly candidates for office)
+- Marriages or proposals or similar big life events (where spending money)
 
 
 Cost research:
