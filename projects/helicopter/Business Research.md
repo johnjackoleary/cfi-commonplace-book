@@ -1,0 +1,1 @@
+Good article: https://www.forbes.com/sites/allbusiness/2018/07/15/35-step-guide-entrepreneurs-starting-a-business/?sh=21c72df8184b
