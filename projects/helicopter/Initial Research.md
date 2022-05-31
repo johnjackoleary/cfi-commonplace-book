@@ -33,6 +33,7 @@ Ideas research:
 - Helicopter inventions
 - Heli testing for evtol 
 - AR enabled bay tours
+- Could build out tech as hiller exhibit 
 - Tours for folks with SFO layovers
 - https://jasonblair.net/?p=2326 (fly candidates for office)
 - Marriages or proposals or similar big life events (where spending money)
