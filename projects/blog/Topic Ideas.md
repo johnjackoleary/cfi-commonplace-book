@@ -28,3 +28,4 @@
 - Best MSFS addons 
 - Push times at SFO and others (from minute 7 ish of airspace video of Sportys)
 - WFO Boundaries from Reddit post, especially those in ocean?
+- Example of illegal part 91 commercial operations 
