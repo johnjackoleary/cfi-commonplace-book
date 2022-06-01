@@ -38,6 +38,7 @@ Ideas research:
 - https://jasonblair.net/?p=2326 (fly candidates for office)
 - Marriages or proposals or similar big life events (where spending money)
 - Could look at adbsexchange or similar to see if there's demand for short flights around the bay (e.g. https://www.reddit.com/r/bayarea/comments/ukn27s/elon_doing_his_part_to_reduce_traffic_on_101/)
+- Helicopter rides as gifts among rich people
 
 
 Cost research:
