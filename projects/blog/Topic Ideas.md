@@ -16,7 +16,8 @@
 - Importance of sunscreen for pilots 
 - Latticework of Mental Models
 - Funny stories from approach plate waypoint names 
-- what duration (and time of day?) to schedule lessons for certain stages of training 
+  - From IFR Mag June 2022: The recently published RNAV (RNP) X 33L approach to Boston Logan was designed with the help of community stakeholders to limit noise. It has some waypoints that reflect that objective: PEOPL, CALMM, PCFUL, SRENE, SHUSH, KWIET, and MURMUR.
+- what duration (and time of day?) to schedule lessons  for certain stages of training 
 - ipad overheat in checkride 
 - Aviation Movies
 - Blog on contents of each faa publichation 
