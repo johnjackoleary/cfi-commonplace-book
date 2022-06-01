@@ -91,3 +91,9 @@ Areas of concern:
 
 Exit strategy:
 - Tbd
+
+
+Regultory:
+- https://www.aopa.org/advocacy/advocacy-briefs/regulatory-brief-commercial-air-tour-charity-and-sightseeing-rule
+	-  Helicopter operators must be equipped with fixed floats or an inflatable flotation system if the over-water flight is conducted beyond power-off gliding distance to the shoreline.
+	-  small air tour operators who stay within 25 statute miles of their departure point should be able to continue to fly under Part 91 instead of being forced to operate under much more expensive Part 135 regulations.
