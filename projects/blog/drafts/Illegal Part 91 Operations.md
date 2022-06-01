@@ -1,1 +1,11 @@
 - interesting LLC workaround https://www.dbllawyers.com/not-cleared-for-takeoff/
+- http://jdasolutions.aero/blog/more-and-more-on-holding-out-part-91-and-part-135/ (Blackbird)
+- https://nbaa.org/flight-department-administration/aircraft-operating-ownership-options/hot-topics-how-to-avoid-illegal-charter-operations/ (maybe good content?)
+- https://nbaa.org/flight-department-administration/aircraft-operating-ownership-options/risks-flying-illegal-charter-operators/ (Hincojet LLC). 
+- https://www.fmjlaw.com/are-you-accidentally-operating-an-illegal-charter/
+	- August 21, 2020, the FAA proposed a fine of $576,400 against Bluefin Aviation Services out of Opa-Locka, Florida
+	- On April 3, 2020, the FAA announced a proposed fine against B E L Aviation of Odessa, Texas.
+	- Good examples of three gotchas. 
+- a December 4 press release, the FAA announced a proposed $624,000 civil penalty against [Steele Aviation of Beverly Hills, California](https://www.faa.gov/news/press_releases/news_story.cfm?newsid=23354) 
+- November 13 press release, the DOJ announced that James Johnson of Oklahoma City and his company, [Interstate Helicopters Inc.](https://www.justice.gov/usao-wdok/pr/charter-aircraft-company-and-its-owner-plead-guilty-failing-report-leases-faa)
+- https://youtu.be/YCVtiE5o0ic seems really good
