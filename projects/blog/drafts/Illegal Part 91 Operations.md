@@ -47,3 +47,8 @@ Category:
 
 
 
+1. Sham Dry Lease
+	1. https://www.justice.gov/usao-sdtx/pr/jury-finds-webster-aviation-company-liable-violating-faa-regulations
+2. Holding Out
+	1. Blackbird
+	2. http://jdasolutions.aero/blog/more-and-more-on-holding-out-part-91-and-part-135/
