@@ -62,6 +62,8 @@ Cost research:
 
 Competition research:
 - https://www.flysfo.com/community/noise-abatement/helicopter-operations
+- https://sfhelicopters.com is based in SFO
+	- https://sfhelicopters.com/meet-our-fleet/
 
 
 Steps for starting business:
