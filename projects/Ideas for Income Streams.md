@@ -36,3 +36,4 @@
 - Aerial real estate 
 - Tours for folks with SFO layovers
 - Formation flying?
+- Cloud collectors book or similar (maybe some 3d element? Could do hologram or 3d box creation. Could be way to make 3d monitor thingy)
