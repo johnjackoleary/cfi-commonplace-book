@@ -58,7 +58,8 @@ ACS Tasks:
 1. For All
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
-	3. Establish the recommended entry configuration, power, and airspeed.
+	3. Be careful of overlaying Bravo.
+	4. Establish the recommended entry configuration, power, and airspeed.
 2. Steep Turns (V.A)
 	2. Roll into a coordinated 360° steep turn with approximately a 50° bank.
 	3. Complete turn in other direction.
@@ -76,6 +77,38 @@ ACS Tasks:
 	3. ‡ **30° bank at the steepest point.**
 	4. ‡ At the 180° point, **±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading**.
 	5. Resume straight-and-level flight.
+5. Maneuvering During Slow Flight (VII.A)
+	1. Establish speed just above stall warning.
+	2. ‡ Accomplish coordinated straight-and-level flight, turns, climbs, and descents with the aircraft configured as specified by the evaluator **without a stall warning**.
+	3. ‡ Maintain the specified **altitude, ±50 feet; specified heading, ±10°; airspeed, +5/-0 knots; and specified angle of bank, ±5°**.
+6. Power-Off Stalls (VII.B)
+	1. Configure for landing, including stable descent.
+	2. Pitch up to cause stall.
+	3. ‡ Maintain a specified **heading, ±10° if in straight flight; maintain a specified angle of bank not to exceed 20°, ±5°, if in turning flight**, until an impending or full stall occurs, as specified by the evaluator.
+	4. Verbally acknowledge the cues at the first indication of a stall.
+	5. Recover, accelerate to V<sub>Y</sub>, then return to heading/altitude/airspeed.
+7. Power-On Stalls (VII.C)
+	1. Establish takeoff (or specified) configuration. Set power to not less than 65% power.
+	3. Pitch to induce stall.
+	4. ‡ Verbally acknowledge the cues at the first indication of a stall.
+	5. Recover, accelerate to V<sub>Y</sub>, then return to heading/altitude/airspeed.
+8. Accelerated Stalls (VII.D)
+	1. Must complete task above 3000' AGL.
+	2. ‡ Establish and **maintain a coordinated turn in a 45° bank**, increasing elevator back pressure smoothly and firmly until an impending stall is reached.
+	3. ‡ Verbally acknowledge the cues at the first indication of a stall.
+	4. Recover, accelerate to V<sub>Y</sub>, then return to heading/altitude/airspeed.
+9. Emergency Descent (IX.A)
+	1. Establish airspeed from POH.
+	4. ‡ Use **bank angle between 30° and 45° to maintain positive load factors** during the descent.
+	5. ‡ **Maintain appropriate airspeed, +0/-10 knots, and level off at specified altitude, ±100 feet**.
+10. Emergency Approach and Landing (IX.B)
+	1. ‡ Establish and **maintain the recommended best glide airspeed, ±10 knots**.
+	3. ABCDE for emergency.
+	4. Prepare for landing be getting to key point.
+	5. ‡ **Complete appropriate checklist**.
+11. Systems and Equipment Malfunctions
+	1. Appropriate actions for any of many types of emergency.
+	2. ‡ **Complete appropriate checklist**.
 
 
 ----
