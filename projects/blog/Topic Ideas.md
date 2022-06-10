@@ -34,3 +34,4 @@
 - Bay Area southerly surge events (from boardsports) - http://tornado.sfsu.edu/geosciences/classes/m430/handouts/Southerly_Surge/index.html 
 - Tule fog Of Central Valley 
 - https://en.wikipedia.org/wiki/Horse_latitudes (and maybe how they cause or impact June gloom, could do a catchy title for it)
+- Running the perfect SimAirport
