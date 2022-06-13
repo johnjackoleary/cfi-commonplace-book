@@ -35,3 +35,4 @@
 - Tule fog Of Central Valley 
 - https://en.wikipedia.org/wiki/Horse_latitudes (and maybe how they cause or impact June gloom, could do a catchy title for it)
 - Running the perfect SimAirport
+- Emergency landing in San Francisco Bay tour
