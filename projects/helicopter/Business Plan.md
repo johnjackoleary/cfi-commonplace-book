@@ -22,7 +22,7 @@ TBD
 ### Reputation and Safety
 tbd
 
-### Maintence Overhead
+### Maintenance Overhead
 tbd
 
 ## FAA Regulatory Background
