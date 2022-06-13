@@ -30,7 +30,7 @@
 - Push times at SFO and others (from minute 7 ish of airspace video of Sportys)
 - WFO Boundaries from Reddit post, especially those in ocean?
 - Example of illegal part 91 commercial operations 
-- Bay Area offshore flow events - (from boardsports link above)
+- Bay Area offshore flow events - (fro boardsports link above)
 - Bay Area southerly surge events (from boardsports) - http://tornado.sfsu.edu/geosciences/classes/m430/handouts/Southerly_Surge/index.html 
 - Tule fog Of Central Valley 
 - https://en.wikipedia.org/wiki/Horse_latitudes (and maybe how they cause or impact June gloom, could do a catchy title for it)

@@ -15,6 +15,7 @@ Ideas research:
 - Scuba related..?
 - Stranded pilot services -- could sell as insurance to clubs in the area
 - VTOL training programs 
+- Christmas lights tours
 - Seacoast Helicopters has worked with Great Bay Community College, located on the Pease International Tradeport just down the street from his office, to create a helicopter pilot training program that took 18 months to put together. The business also offers private flight training, does the scenic tours business in the summer, and brings maintenance personnel to remote locations where government-owned towers are often located.
 - https://yourbusiness.azcentral.com/business-ideas-pilots-15770.html
 	- Tourism
