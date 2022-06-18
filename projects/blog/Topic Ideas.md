@@ -36,3 +36,4 @@
 - https://en.wikipedia.org/wiki/Horse_latitudes (and maybe how they cause or impact June gloom, could do a catchy title for it)
 - Running the perfect SimAirport
 - Emergency landing in San Francisco Bay tour
+- Airspace (with restrictions above surface and for gliding) visual in the bay, and maybe best practice areas based on that 
