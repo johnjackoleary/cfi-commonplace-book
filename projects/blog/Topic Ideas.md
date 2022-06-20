@@ -17,6 +17,7 @@
 - Latticework of Mental Models
 - Funny stories from approach plate waypoint names 
   - From IFR Mag June 2022: The recently published RNAV (RNP) X 33L approach to Boston Logan was designed with the help of community stakeholders to limit noise. It has some waypoints that reflect that objective: PEOPL, CALMM, PCFUL, SRENE, SHUSH, KWIET, and MURMUR.
+  - TRUKN departure from SFO has GRTFL and DEDHD
 - what duration (and time of day?) to schedule lessons  for certain stages of training 
 - ipad overheat in checkride 
 - Aviation Movies: It's a Mad, Mad, Mad, Mad World; 
