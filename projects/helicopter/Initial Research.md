@@ -23,6 +23,45 @@ Ideas research:
 	- State and federal contracts
 - Entertainment like fireworks flights 
 - Team up with Stanford maybe?
+- Gyroplane base, later evtols?
+	- http://www.magnigyro.it/en/products/m16-tandem-trainer/
+		- https://inspire.eaa.org/2017/12/07/flying-the-yosemite-valley-in-an-open-cockpit-gyroplane/
+		- dealer in Austin Texas For m16
+		- Info about US distributor: https://magniusa.com/assets/Magni_Thrustline_V2.pdf (Missouri base)
+		- https://magniusa.com/pricing.html
+		- https://magniusa.com/used-magnis.html
+		- https://orbichelicopters.com/gyrocopter-flight-training/
+		- Magni Gyros are certified in the US under the FAA’s Experimental Amateur-Built rules, meaning the new owner actually builds the aircraft that they will fly
+		- Also depends on days of sunshine per year In bay 
+		- https://www.eaa.org/eaa/news-and-publications/eaa-news-and-aviation-news/news/07-08-2021-faa-releases-policy-on-training-in-experimental-primary-and-limited-category-aircraft
+		- http://www.ronsgyros.com/default.html (for my own training)
+		- Maybe https://www.aerodynamicaviation.com/new-gyroplane-pilot-sergey-sinyachkin-pictures/ Would want to work with me?
+		- [https://www.breeseaircraft.com](https://www.breeseaircraft.com/)
+		- gyroplanes handle the strong seasonal trade winds much better than an airplane (Could open base in Costa Rica)
+		- Builders such as Autogyro in Germany, Magni in Italy, and ELA Aviation
+	- Umbaugh gyroplane?
+		- Apparently not great to fly
+	- McCulloch J-2
+	- [https://autogyrousa.com](https://autogyrousa.com/)
+		- AutoGyro is the only gyroplane company in the US to hold a total of THREE Type Certificates and this makes us the only factory-built gyroplanes available in the entire US. 
+		- https://autogyrousa.com/locations/california-petaluma/ looks good for intro flight too 
+		- What is fuel burn? Maybe 4 gph, or a bit more
+	- More on recent enhancements https://magniusa.com/assets/New_Generation.pdf
+	- https://pra.org/upcoming-events/ Upcoming flyin 
+	- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/faa-h-8083-21.pdf
+	- Rotorkites behind a boat for cheap training?
+	- Evtols will be certified as power lift, maybe we do a pipeline?
+	- https://autogyrousa.com/training/
+	- And https://iapgt.org/index for training content
+	- https://www.gyrorev.com/training
+	- Under FAA regulations a gyroplane is in the rotorcraft category. It’s one class. Helicopters are another. Just like single-engine airplane and multiengine airplane are two classes within the airplane category.
+	- Could get a pipeline from my school to helis going
+	- Good article about market https://www.aopa.org/news-and-media/all-news/2022/march/23/gyro-hero-sizing-up-options
+	- Could do sunrise or sunset community flights
+	- Commuting to bay?
+	- Sales in ca and wi https://elaaviacion.com/sales-points/
+		- [https://adventureairla.com](https://adventureairla.com/)
+	- Good practical regulatory info: https://www.aopa.org/news-and-media/all-news/2020/january/pilot/all-around-winner
 - Layover tours
 - Could build each tour custom with input from passengers (custom meaning from a roughly preselected list)
 - Teaching heli students
