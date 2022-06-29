@@ -1,3 +1,5 @@
+Additional Resources: [[]]
+
 Summary: Maneuvers in Traffic Pattern
 Duration: ?
 Preferred Conditions: Cross-Wind
