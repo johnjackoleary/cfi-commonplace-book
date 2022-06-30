@@ -1,4 +1,7 @@
-
+Title: How to convert knots to miles per hour, and other aviation conversion problems
+Subtitle: using dimensional analysis to convert between units types and confirm 
+Tags: #knowledgetest #math
+Category:
 
 
 
