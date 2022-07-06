@@ -1,3 +1,3 @@
-Had lesson yesterday? 
+Had flight yesterday? 
 
 ## Sprint Status
