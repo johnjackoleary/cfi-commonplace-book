@@ -62,6 +62,15 @@ Ideas research:
 	- Sales in ca and wi https://elaaviacion.com/sales-points/
 		- [https://adventureairla.com](https://adventureairla.com/)
 	- Good practical regulatory info: https://www.aopa.org/news-and-media/all-news/2020/january/pilot/all-around-winner
+	- Both Michael Burton and Henry Boger are CA based gyro folks: https://iapgt.org/whoswho
+	- Cost info https://adventureairla.com/flight-training
+	- Could transition to eVTOLs, saying this is a way to gain experience with unual training curriculms in aviation
+	- Risks
+		- https://link.springer.com/article/10.1007/s13272-022-00575-5
+	- Regulations
+		- http://enewbold.com/gyroplaneQA.htm/
+	- Good TBO and others FAQ: http://enewbold.com/gyroplaneQA.htm/
+	- Aircraft for sale: https://www.cierva.aero/aircraft-virtual-brochure
 - Layover tours
 - Could build each tour custom with input from passengers (custom meaning from a roughly preselected list)
 - Teaching heli students
