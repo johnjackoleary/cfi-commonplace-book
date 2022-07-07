@@ -46,6 +46,7 @@ Ideas research:
 		- AutoGyro is the only gyroplane company in the US to hold a total of THREE Type Certificates and this makes us the only factory-built gyroplanes available in the entire US. 
 		- https://autogyrousa.com/locations/california-petaluma/ looks good for intro flight too 
 		- What is fuel burn? Maybe 4 gph, or a bit more
+	- Can use auto fuel on rotox engine apparently
 	- More on recent enhancements https://magniusa.com/assets/New_Generation.pdf
 	- https://pra.org/upcoming-events/ Upcoming flyin 
 	- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/faa-h-8083-21.pdf
@@ -69,8 +70,16 @@ Ideas research:
 		- https://link.springer.com/article/10.1007/s13272-022-00575-5
 	- Regulations
 		- http://enewbold.com/gyroplaneQA.htm/
+		- https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_21-37.pdf
+			- Although a primary category aircraft may be available for rental and flight instruction under certain conditions, the carrying of persons or property for hire is prohibited.
+			- 91.325 says can be rented for personal use or instruction if maintained by FAA-certified mechanic
+		- Could get exception for experimental rental if I'd like: https://www.avweb.com/recent-updates/experimentals/experimental-aircraft-rentals/ (maybe tricky though, not sure)
+	- Could talk with EAA
 	- Good TBO and others FAQ: http://enewbold.com/gyroplaneQA.htm/
 	- Aircraft for sale: https://www.cierva.aero/aircraft-virtual-brochure
+	- Could set up pipeline into Hayward company maybe?
+	- Could work with airlines who have pilots in town for a few days -- get them up flying around the bay	
+	- Could ask E16 person for startup funds
 - Layover tours
 - Could build each tour custom with input from passengers (custom meaning from a roughly preselected list)
 - Teaching heli students
@@ -109,6 +118,7 @@ Cost research:
 		- https://peninsulaairportcommission.org/wp-content/uploads/2020/07/Newport-News-Williamsburg-Airport-Benchmarking-Analysis-of-Hangar-Leasing-Fees-for-publication-1.pdf may have useful starting point info
 		- Another good reference point: https://flyilm.com/wp-content/uploads/2017/12/FBO-Lease-Draft.pdf
 		- https://paloaltoairport.org/directory/
+	- Could do something like a referral bonus, perhaps a lifetime discount on rentals?
 
 Competition research:
 - https://www.flysfo.com/community/noise-abatement/helicopter-operations
