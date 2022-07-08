@@ -38,3 +38,4 @@
 - Running the perfect SimAirport
 - Emergency landing in San Francisco Bay tour
 - Airspace (with restrictions above surface and for gliding) visual in the bay, and maybe best practice areas based on that 
+- How I set up my SmoothTrack + OpenTrack for MSFS
