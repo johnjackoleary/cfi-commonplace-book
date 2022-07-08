@@ -24,11 +24,7 @@ Asks for club:
 
 
 
-Movie ideas:
-- also look at movies in San Carlos aviation store 
-
 
 Movie plan 
 - start with low appeal for first iteration (could start with Amelia movie since permission already given)
-- Second time hit it hard with airplane or similar 
-- 
+- Second time hit it hard with airplane or similar
