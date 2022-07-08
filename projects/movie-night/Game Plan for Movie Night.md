@@ -1,5 +1,7 @@
 Quarterly, second Friday of second month of quarter (although we can just advertise each one as a separate even, not looking for repeat customers)
 
+Who can go: members, their family and friends. Not random people though, someone in the group has to be a member 
+
 Materials:
 - Movie poster
 - Poster hanging strips
