@@ -24,6 +24,7 @@ Ideas research:
 - Entertainment like fireworks flights 
 - Team up with Stanford maybe?
 - Gyroplane base, later evtols?
+	- Would want ul91 access likely for fuel
 	- http://www.magnigyro.it/en/products/m16-tandem-trainer/
 		- https://inspire.eaa.org/2017/12/07/flying-the-yosemite-valley-in-an-open-cockpit-gyroplane/
 		- dealer in Austin Texas For m16
