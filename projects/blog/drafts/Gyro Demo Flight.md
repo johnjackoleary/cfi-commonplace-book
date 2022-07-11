@@ -4,6 +4,9 @@ Pracitcal Differences
 
 
 # What is it like to fly?
+## Compare contrast with airplane
+
+## Compare contrast with heli
 
 # What is required to fly it? (Certs, etc)
 
@@ -11,3 +14,5 @@ Pracitcal Differences
 # Where did I do my demo flight?
 
 
+# Other FAQ
+[[Gyro Questions]]
