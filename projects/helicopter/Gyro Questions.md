@@ -1,0 +1,3 @@
+- Does it have ADS-B? 
+- Can you fly in Bravo airspace?
+- What is glide range like?
