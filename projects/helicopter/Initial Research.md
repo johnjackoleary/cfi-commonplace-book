@@ -24,6 +24,7 @@ Ideas research:
 - Entertainment like fireworks flights 
 - Team up with Stanford maybe?
 - Gyroplane base, later evtols?
+	- Would want ul91 access likely for fuel
 	- http://www.magnigyro.it/en/products/m16-tandem-trainer/
 		- https://inspire.eaa.org/2017/12/07/flying-the-yosemite-valley-in-an-open-cockpit-gyroplane/
 		- dealer in Austin Texas For m16
@@ -77,7 +78,7 @@ Ideas research:
 	- Could talk with EAA
 	- Good TBO and others FAQ: http://enewbold.com/gyroplaneQA.htm/
 	- Aircraft for sale: https://www.cierva.aero/aircraft-virtual-brochure
-	- Could set up pipeline into Hayward company maybe?
+	- Could set up pipeline into Hayward heli company maybe?
 	- Could work with airlines who have pilots in town for a few days -- get them up flying around the bay	
 	- Could ask E16 person for startup funds
 - Layover tours
