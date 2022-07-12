@@ -78,7 +78,7 @@ Ideas research:
 	- Could talk with EAA
 	- Good TBO and others FAQ: http://enewbold.com/gyroplaneQA.htm/
 	- Aircraft for sale: https://www.cierva.aero/aircraft-virtual-brochure
-	- Could set up pipeline into Hayward company maybe?
+	- Could set up pipeline into Hayward heli company maybe?
 	- Could work with airlines who have pilots in town for a few days -- get them up flying around the bay	
 	- Could ask E16 person for startup funds
 - Layover tours
