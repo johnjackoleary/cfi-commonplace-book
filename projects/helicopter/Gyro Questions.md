@@ -24,6 +24,7 @@ Flying Experience:
 - Water versions for lake landings?
 - Big side slip warnings in POH! What's that about?
 - How noisy is it to people below?
+- What do you tell people with safety concerns?
 
 
 Training:
