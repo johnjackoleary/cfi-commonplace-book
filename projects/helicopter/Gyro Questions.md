@@ -11,7 +11,7 @@ Equipment and Capabilities:
 - How often do you find you're canceling flights for weather? Especially compared to how often you're canceling compared to ASEL
 - Why AutoGyro and not the othe big companies (Magni and ELA)
 - Can we look at the three certificated models? Can I sit in them?
-- Rotax 914 vs 915
+- Rotax 914 vs 915 (30 hp differnce and fuel injected), extra horsepower of 914/915 might be nice for hot or high areas. Longer warranty on 915 starting in august 
 
 
 Flying Experience:
@@ -28,8 +28,8 @@ Flying Experience:
 
 
 Training:
-- Recommended certificate path? Could I take passengers?
-- Do you offer a training discount for people purchasing?
+- Recommended certificate path? Could I take passengers? (Sport pilot and LDA)
+- Do you offer a training discount for people purchasing? (Talk to mark, nothing standard)
 
 
 Personal use:
@@ -49,12 +49,13 @@ Professional use:
 
 
 Operations and Cost:
-- What does maintenance look like? What about maintenance costs?
-- Do you all handle maintenance if I were to buy? Where else can do maintenance?
+- What does maintenance look like? What about maintenance costs? (16 hours labor on annual, maybe $400 for spark plugs) (rotor damage can be expensive)
+- Do you all handle maintenance if I were to buy? Where else can do maintenance? (Yes, or could get trained to do own annual)
 - How often do you clean the blades?
-- Does it need to be hangared?
-- What is the purchase process like? 
-- What questions should I be asking that I haven't thought of?
+- Does it need to be hangared? (Yes, composite aircraft)
+- What is the purchase process like? (Talk to mark, lead time is usually 3 months ish, maybe way more)
+- What questions should I be asking that I haven't thought of? (Transportation- can use trailers)
 - How much more expensive to get a certificated model? Is it worth it?
+- insurance (can ask Mark) - 5% of hull cost, 8% if I’d like to teach in it 
 
 
