@@ -12,3 +12,4 @@
 - Demo of airplane wind in simple air tunnel
 - Bring balloon in plane to show adabatic cooling and expansion (propane tank as example of expansion cooling from here https://youtu.be/wp4mMkncHcI)
 - Curriculum for students in your first fights with a new airplane. Could include how to calculate good gait values
+- Club policies
