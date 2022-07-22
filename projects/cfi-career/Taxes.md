@@ -1,7 +1,7 @@
 ## Question for AOPA Tax Consultant
 - Call on [[2022-02-10]]
 	- Questions
-		- How do tax deductitions work for me as I'm training to be a CFI? Is my lessons deductible? Coursework? Does the order I do things in matter?
+		- How do tax deductions work for me as I'm training to be a CFI? Is my lessons deductible? Coursework? Does the order I do things in matter?
 		- Any other records I should be tracking through this transition?
 	- Turns out this is more like a 30 minutes free with panel attorney type question, so need to prep that instead
 	- Given Case # 00059992 in email
