@@ -15,9 +15,10 @@ Talking to Michael Dworkin
 	* Does the order I do things in matter?
 		* E.g. Commercial, then CFI, then by plane?
 	* Any other records I should be tracking through this transition?
-	* What about deducting from my Apple income from the beginning of the year?
+	* What about deducting from my Apple income from the beginning of the year? 
 	* If I purchase an aircraft, and use it to both teach and for personal, how does that work with writing off?
 		* What about ongoing maintenance? 
+		* Options for 2or 5 year fast depreciation?
 	* What else should I be doing now to prepare for next tax season?
 * Insurance
 	* What insurance should I get for myself?
