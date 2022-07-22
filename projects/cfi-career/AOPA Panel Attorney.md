@@ -24,4 +24,5 @@ Talking to Michael Dworkin
 	* Is an LLC worth it?
 	* If I buy an airplane, what insurance should I look at?
 	* If I buy a primary category aircraft, does that change anything?
+* Should my wife be doing anything differnet with her taxes since I'm not making income at the moment?
 * Any other things I should be thinking about as a soon to be full time CFI?
