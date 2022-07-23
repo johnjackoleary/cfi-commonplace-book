@@ -20,3 +20,4 @@
 * https://www.aopa.org/go-fly/aircraft-and-ownership/buying-an-aircraft/the-pilots-guide-to-taxes#1b
 * https://www.aopa.org/go-fly/aircraft-and-ownership/buying-an-aircraft/the-pilots-guide-to-taxes/flight-training-expenses-cases-and-rulings
 * https://www.aopa.org/go-fly/aircraft-and-ownership/buying-an-aircraft/the-pilots-guide-to-taxes
+* https://www.wolterskluwer.com/en/expert-insights/using-personal-assets-to-meet-your-business-equipment-needs
