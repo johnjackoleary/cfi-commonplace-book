@@ -46,7 +46,7 @@ tbd
 ### Known Gaps and Plan to Address
 # Value Proposition
 ## Value Add
-Aviation is a notably expensive pastime to partake in, both for training and ongoing particiation.
+Aviation is a notably expensive pastime to partake in, both for training and ongoing participation.
 
 ### Training Costs
 To help combat this the FAA has created a number of programs, including the Sport Pilot program, to help individuals wishing to fly without the significant time commitment of a full Private Pilots License. These individuals are also limited in the conditions under which they can fly, to primarily good daytime conditions.
