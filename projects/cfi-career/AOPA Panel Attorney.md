@@ -2,6 +2,7 @@ AOPA Legal Services Plan John O'Leary Case: 00059992
 Talking to Michael Dworkin
 
 ## Questions for 30 Minute Discussion (Ordered by Priority)
+* Is this covered by AOPA?
 * My wife has access to EAP financial advisor, will a non-aviation individual have the right knowledge for most tax questions? Or is aviation something you sort of need a specialty?
 * Taxes
 	* How do tax deductions work for me as I'm training to be a CFI? How should I think about business expenses more generally?
@@ -22,6 +23,9 @@ Talking to Michael Dworkin
 	* What else should I be doing now to prepare for next tax season?
 * Insurance
 	* What insurance should I get for myself?
+		* Aircraft insurance?
+		* Life insurance?
+		* Business Insurance?
 	* Is an LLC worth it?
 	* If I buy an airplane, what insurance should I look at?
 	* If I buy a primary category aircraft, does that change anything?
