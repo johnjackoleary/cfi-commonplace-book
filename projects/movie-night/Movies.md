@@ -6,3 +6,7 @@
 - Flying the Feathered Edge:
 	- https://www.thebobhooverproject.com/host-a-screening/
 - The Wind Raises
+- Air Mail (1932)
+- Wings (old Oscar winning, 1927)
+- Hells Angels (1930)
+- The Dawn Patrol (1930/1938)

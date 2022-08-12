@@ -1,0 +1,1 @@
+https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/
