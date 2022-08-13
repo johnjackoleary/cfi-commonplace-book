@@ -15,3 +15,5 @@ Speaker for better audio?
 Align middle of long table with middle pole in room
 
 Plates or bowls for popcorn 
+
+Did we say friends and family welcome in the email?
