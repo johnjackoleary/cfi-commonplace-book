@@ -1,5 +1,17 @@
 About a month out seems right for hype, longer seems like too long 
 
-Placement by tv seems good
+Placement of poster by tv seems good
 
 Poster size seems good 
+
+No sun shades in room
+
+Overestimated snacks budget 
+
+Trash can? None in room currently 
+
+Speaker for better audio?
+
+Align middle of long table with middle pole in room
+
+Plates or bowls for popcorn 
