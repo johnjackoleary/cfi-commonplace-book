@@ -1,0 +1,5 @@
+- Changed climb rate to hit checkpoints on cross country departurE
+- Only did lazy eights, not chandelles
+- moset airwork was at 5500'
+- Used VOR instersects for nav points, and apparently not allowed. Had to change and update plan
+- Gave me an emergency approach at lvk, not power off 180 but basically. Called it an emergency maneuver test, but I think it was so I could bacisally get a practice round in
