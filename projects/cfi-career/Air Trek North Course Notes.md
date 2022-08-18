@@ -15,7 +15,7 @@ Your study materials can be found at:
 
 https://www.airtreknorth.com/cfi-initial-docs.html
 
-Pls make sure you have paper copies of all items on the web page, or downloaded to a device you have access to without an internet connection.
+~~Pls make sure you have paper copies of all items on the web page, or downloaded to a device you have access to without an internet connection.~~
 
 
 If you need a hotel, the Microtel and Holiday Inn Express in Inver Grove Heights or Envision Hotel in South Saint Paul.  All are about 1.5 miles from the airport.
@@ -31,17 +31,17 @@ You can fly in a a Cessna 172, Piper Archer or Piper Warrior.   I’d suggest
  
 Here is the package you should put together prior to arrival.  They can be electronic versions or paper.
 
-FAA Flying Handbook
-FAA Pilot's Handbook of Aeronautical Knowledge
-FAA Risk Management Handbook
-FAA Aviation Instructor's Handbook
-FAA Private Pilot ACS
-FAA Commercial ACS
-FAA Flight Instructor PTS
-MN Chart Supplement (used to be called AFD)
+~~FAA Flying Handbook~~
+~~FAA Pilot's Handbook of Aeronautical Knowledge~~
+~~FAA Risk Management Handbook~~
+~~FAA Aviation Instructor's Handbook~~
+~~FAA Private Pilot ACS~~
+~~FAA Commercial ACS~~
+~~FAA Flight Instructor PTS~~
+~~MN Chart Supplement (used to be called AFD)
 All of the above are available online for free if you don't want to buy the
 books.  You can use electronic copies if you want but they need to be
-available to you during your check ride.
+available to you during your check ride.~~
 
 Paper copies of
 Twin Cities Sectional
