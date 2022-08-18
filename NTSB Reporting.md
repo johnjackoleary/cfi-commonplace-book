@@ -1,1 +1,1 @@
-[](http://www.askacfi.com/32871/ntsb-830.htm)
+http://www.askacfi.com/32871/ntsb-830.html
