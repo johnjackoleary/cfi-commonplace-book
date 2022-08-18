@@ -1,0 +1,2 @@
+Runway Safety Conditions: https://www.youtube.com/watch?v=lHf56Lt2EOU
+New hotspot locations: https://generalaviationnews.com/2022/06/07/new-chart-symbols-aim-to-increase-situational-awareness-about-airport-hotspots/?utm_source=TPOA&utm_medium=email&utm_campaign=20220608
