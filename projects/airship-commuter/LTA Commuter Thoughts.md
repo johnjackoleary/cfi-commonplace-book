@@ -1,4 +1,0 @@
-- usher in the age of lighter-than-air transport
-- let physics do the heavy lifting
-- could they be 'stored' just floating above the bay?
-- What about personal LTA aircraft? Like single commuter options? (https://www.quora.com/How-big-would-a-one-person-airship-have-to-be) - probably not

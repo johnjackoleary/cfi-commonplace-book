@@ -1,1 +1,0 @@
-they’re just people

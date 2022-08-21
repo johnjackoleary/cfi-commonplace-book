@@ -1,3 +1,7 @@
 # CFI Commonplace Book
 
-Copyright ©2022 John O'Leary. All Rights Reserved.
+# Structure
+TBD. Options included:
+- PAVE
+
+![[LICENSE]]

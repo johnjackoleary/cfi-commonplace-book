@@ -1,3 +1,0 @@
-- https://privatejetcardcomparisons.com/2019/12/19/faa-investigation-of-uber-for-private-flights-blackbird-highlights-serious-problems/
-- https://www.forbes.com/sites/douggollan/2020/02/15/surf-air-buys-blackbird-air-as-both-seek-to-shake-off-past-problems/?sh=3a86e6937694
-- https://www.forbes.com/sites/marisagarcia/2019/12/20/faa-warns-against-uber-for-planes-charter-concept-puts-blackbird-air-on-alert/?sh=485738f96440

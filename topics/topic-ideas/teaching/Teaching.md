@@ -1,1 +1,0 @@
-Teaching is the art of helping an individual understand a subject well enough to apply their knowledge to novel situations.
