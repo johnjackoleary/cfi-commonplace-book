@@ -1,6 +1,0 @@
-{
-  "findText": "",
-  "findRegexp": "-   \\*\\*([^\\*:]*)\\D+(\\d+).*",
-  "regexpFlags": "gm",
-  "replace": "$1: $2 points"
-}
