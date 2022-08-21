@@ -1,21 +1,11 @@
-About a month out seems right for hype, longer seems like too long 
-
-Placement of poster by tv seems good
-
-Poster size seems good 
-
-No sun shades in room
-
-Overestimated snacks budget 
-
-Trash can? None in room currently 
-
-Speaker for better audio?
-
-Align middle of long table with middle pole in room
-
-Plates or bowls for popcorn 
-
-Did we say friends and family welcome in the email?
-
-Friday maybe not as good as a Thursday
+- About a month out seems right for hype, longer seems like too long 
+- Placement of poster by tv seems good
+- Poster size seems good 
+- No sun shades in room
+- Overestimated snacks budget 
+- Trash can? None in room currently 
+- Speaker for better audio?
+- Align middle of long table with middle pole in room
+- Plates or bowls for popcorn 
+- Did we say friends and family welcome in the email?
+- Friday maybe not as good as a Thursday
