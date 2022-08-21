@@ -3,6 +3,8 @@ One of my favorite parts of aviation is the community it brings together. This c
 
 My hope is you find my CFI commonplace book useful as a starting point for your own, or that you contribute your own learnings back.
 
+This is fundemantally a way for me to have dialogue with students and the community to improve my teaching over time.
+
 
 # Structure
 TBD. Options included:

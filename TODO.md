@@ -1,1 +1,2 @@
-- Rename to cfi-index-cards
+- Rename to cfi-index-cards or cfi-slip-box
+- Add more info about slip-boxes and how to contribute to this
