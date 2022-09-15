@@ -1,11 +1,13 @@
-<span class='lesson-title'>{{title}}</span>
+---
+cssclass: lesson
+---
+## {{title}}
 
-**Objective:**
-**References:**
-**Schedule:**
+**Objective:** 
+**References:** 
+**Schedule:** 
 **Lesson Elements:**
 
-**Completion Standards:**
+**Completion Standards:** 
 
 *Return to [[~ Lesson Plan Outline|Table of Contents]]^*
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
