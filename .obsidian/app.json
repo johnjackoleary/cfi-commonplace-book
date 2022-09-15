@@ -6,5 +6,8 @@
     "margin": "0",
     "downscalePercent": 80
   },
-  "spellcheck": true
+  "spellcheck": true,
+  "foldIndent": false,
+  "foldHeading": false,
+  "livePreview": false
 }
