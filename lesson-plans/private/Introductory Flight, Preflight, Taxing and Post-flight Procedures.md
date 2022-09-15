@@ -6,6 +6,7 @@ cssclass: lesson
 
 **Objective:** Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
 **References:** : POH, ACS II and XII, WVFC member regulations, AFH Ch. 1-3, PHAK Ch 3-8
+**Builds On:** N/A
 **Schedule:** Ground 1 hour, Flight 1 hour
 **Lesson Elements:**
 1. Preflight
@@ -36,6 +37,10 @@ cssclass: lesson
 	3. While taxiing, not reducing power before braking
 	4. Taxiing too fast, or carrying too much power while taxiing
 	5. Incorrect position of controls relative to wind
+
 **Completion Standards:** Client must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
+
+**Required Homework:** N/A
+**Recommended Homework:** N/A
 
 *Return to [[~ Lesson Plan Outline|Table of Contents]]^*
