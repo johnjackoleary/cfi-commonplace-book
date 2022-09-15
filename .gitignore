@@ -7,7 +7,5 @@
 ehthumbs.db
 Thumbs.db
 
-*.css
-
 # For Obsidian
 .obsidian/workspace

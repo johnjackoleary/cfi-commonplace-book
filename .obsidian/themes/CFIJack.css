@@ -1,0 +1,8 @@
+/* From https://github.com/Dmytro-Shulha/obsidian-css-snippets/blob/master/Snippets/Links.md */
+/* From https://forum.obsidian.md/t/how-do-i-edit-the-appearance-of-a-link/33085/3 */
+.cm-s-obsidian span.cm-hmd-internal-link,
+.markdown-preview-view .internal-link {
+  color: #0097A7;
+  font-style: italic;
+  text-decoration: none !important;
+}
