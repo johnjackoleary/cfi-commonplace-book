@@ -1,3 +1,6 @@
 {
-  "cssTheme": "CFIJack"
+  "cssTheme": "CFIJack",
+  "enabledCssSnippets": [
+    "clean-embeds-all"
+  ]
 }
