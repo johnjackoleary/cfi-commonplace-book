@@ -5,7 +5,7 @@ cssclass: lesson
 
 **Objective:** To become proficient at S&L flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
 **References:** AFH Ch 3, PHAK Ch 1-8
-**Builds On:** N/A
+**Builds On:** [[Introductory Flight, Preflight, Taxing and Post-flight Procedures]]
 **Schedule:** Ground 1 hour, flight 1.5 hours
 **Lesson Elements:**
 1. Straight and Level
@@ -37,7 +37,7 @@ cssclass: lesson
 
 **Completion Standards:** Client must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
 
-**Required Homework:** N/A
+**Required Homework:** None
 **Recommended Homework:** 
 - [ ] Chair fly four fundamentals
 

@@ -40,7 +40,8 @@ cssclass: lesson
 
 **Completion Standards:** Client must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
 
-**Required Homework:** N/A
-**Recommended Homework:** N/A
+**Required Homework:** None
+
+**Recommended Homework:** None
 
 *Return to [[~ Lesson Plan Outline|Table of Contents]]^*

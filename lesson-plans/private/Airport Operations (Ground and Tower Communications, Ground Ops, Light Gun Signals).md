@@ -14,7 +14,8 @@ cssclass: lesson
 	3. Required readbacks: Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc. If in doubt, readback full instructions.
 	4. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
 	5. Mentally rehearse what you will say before keying the mic. If in doubt, ask for clarification or request "say again"
-	6. Stuck microphones -- how to detect, how to respond
+	6. Anticipate the response and pay attention for any unusual elements
+	7. Stuck microphones -- how to detect, how to respond
 2. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
 3. [[Phonetic Alphabet]]
 	1. Memorize them! Alpha through Zulu

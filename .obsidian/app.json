@@ -9,6 +9,6 @@
   "spellcheck": true,
   "foldIndent": false,
   "foldHeading": false,
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true
 }
