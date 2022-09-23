@@ -28,7 +28,7 @@ cssclass: lesson
 	8. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	9. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
 4. Common errors
-	1. Poor ruer coordination, drifting off altitude, heading, etc
+	1. Poor rudder coordination, drifting off altitude, heading, etc
 	2. Using excessive bank angle
 	3. Unintentional stall
 	4. Improper use of trim
