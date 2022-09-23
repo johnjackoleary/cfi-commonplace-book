@@ -10,5 +10,7 @@
   "foldIndent": false,
   "foldHeading": false,
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "media",
+  "newFileLocation": "current"
 }

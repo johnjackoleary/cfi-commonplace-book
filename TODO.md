@@ -1,2 +1,4 @@
 - Rename to cfi-index-cards or cfi-slip-box
 - Add more info about slip-boxes and how to contribute to this
+- Consider adding something to lessons about resources and how to find good info online (maybe value of joining AOPA)
+- #TODO 
