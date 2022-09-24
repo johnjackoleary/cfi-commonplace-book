@@ -16,7 +16,6 @@ $\quad$[[Go-Arounds and Rejected Landings]]
 $\quad$[[Spin Awareness and Spin Recovery]]
 $\quad$[[Forward Slips to Landing]]
 $\quad$[[Navigation Charts and National Airspace System]]
-$\quad$[[Short- and Soft-Field Takeoffs and Landings]]
 $\quad$[[Non-Towered Airport Operations]]
 $\quad$[[Emergency Approaches and Landings]]
 
