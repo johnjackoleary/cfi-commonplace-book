@@ -16,3 +16,7 @@
   position: relative;
   bottom: 0.5em;
 }
+
+span.comm-text {
+  color: DeepSkyBlue;
+}
