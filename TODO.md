@@ -1,4 +1,6 @@
 - Rename to cfi-index-cards or cfi-slip-box
+- Find and create links that are not yet created, for instance in [[Stall Speed]]
 - Add more info about slip-boxes and how to contribute to this
 - Consider adding something to lessons about resources and how to find good info online (maybe value of joining AOPA)
+- Find way to release versions of commonplace-book
 - #TODO 
