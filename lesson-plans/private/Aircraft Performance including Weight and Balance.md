@@ -5,8 +5,9 @@ cssclass: lesson
 
 **Objective:** Develop understanding of aircraft performance and limitations, and the ability to safely and conservatively plan cross-country flights.
 **References:** POH/AFM; PHAK Ch 9 (flight manuals), Ch 9 (Weight and Balance), Ch 10 (aircraft performance)
-**Builds On:** Several generally
+**Builds On:** N/A
 **Schedule:** Ground 2.0
+**CFI Equipment:** E6B Calculator
 **Lesson Elements:**
 1. Organization of POH
 2. Weight and Balance calculations

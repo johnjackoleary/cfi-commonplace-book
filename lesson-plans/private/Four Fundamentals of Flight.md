@@ -37,7 +37,9 @@ cssclass: lesson
 
 **Completion Standards:** Client must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
 
-**Required Homework:** None
+**Required Homework:**
+- [ ] Sign up for ground school if not yet completed (WVFC, Sporty's, etc)
+
 **Recommended Homework:** 
 - [ ] Chair fly four fundamentals
 

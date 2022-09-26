@@ -39,6 +39,6 @@ cssclass: lesson
 **Required Homework:** None
 
 **Recommended Homework:** 
-- [ ] Chair fly entry to non-towered airport from several directions and various winds
+- [ ] Chair fly entry to non-towered airport from several directions and various wind
 
 *Return to [[~ Lesson Plan Outline|Table of Contents]]^*

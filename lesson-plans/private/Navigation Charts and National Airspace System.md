@@ -5,7 +5,7 @@ cssclass: lesson
 
 **Objective:** Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.
 **References:** ACS Sec I Task C-E; PHAK Ch 12-13, 15-16; AIM Ch 3
-**Builds On:** None
+**Builds On:** N/A
 **Schedule:** Ground 2.0 hours
 **Lesson Elements:**
 1. Required Preflight Action (FAR 91.103)
@@ -23,6 +23,7 @@ cssclass: lesson
 **Required Homework:** 
 - [ ] Memorize VFR weather minimums
 - [ ] Memorize VFR altitudes for cruise flights
+- [ ] Purchase paper copies of San Francisco Sectional and San Francisco Terminal Area Chart
 
 **Recommended Homework:** None
 
