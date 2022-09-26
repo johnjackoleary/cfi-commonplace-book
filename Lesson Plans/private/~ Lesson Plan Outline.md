@@ -1,4 +1,4 @@
-Private Pilot Airplane Single-Engine, Lesson Plan Outline
+### Private Pilot Airplane Single-Engine, Lesson Plan Outline
 John O'Leary (CFI Jack); Based on [[DietzPrivateAirplaneSyllabus2018TOC.pdf|Lou Dietz Lessons, March 2021]]
 
 #### Stage 1: Pre-Solo
