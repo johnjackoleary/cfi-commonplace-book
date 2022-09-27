@@ -27,4 +27,4 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 #airtreknorthhwday2
 
-*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
