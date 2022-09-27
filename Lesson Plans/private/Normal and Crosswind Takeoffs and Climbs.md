@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Normal and Crosswind Takeoffs and Climbs
 
@@ -11,7 +12,7 @@ cssclass: lesson
 1. Takeoffs (no flaps used in most trainers)
 	1. Effect of wind and density altitude
 	2. Weather minimums
-		1. #TODO review
+		1. #TODO :: review
 	3. Takeoff distance from aircraft performance charts
 	4. Pre-takeoff checks, and traffic checks
 	5. Go/No-go location picked out ahead of time. Call out rotate and climb speeds. Recite emergency landing options.

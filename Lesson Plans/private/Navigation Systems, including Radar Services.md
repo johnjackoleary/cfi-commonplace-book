@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Navigation Systems, including Radar Services
 

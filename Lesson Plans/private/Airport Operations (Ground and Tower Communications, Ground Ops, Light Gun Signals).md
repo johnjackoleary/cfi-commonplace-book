@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)
 

@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Normal and Crosswind Approaches and Landings
 

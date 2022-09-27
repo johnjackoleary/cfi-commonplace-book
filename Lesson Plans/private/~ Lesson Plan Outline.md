@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl
 ---
 ### Private Pilot Airplane Single-Engine, Lesson Plan Outline
 John O'Leary (CFI Jack); Based on [[DietzPrivateAirplaneSyllabus2018TOC.pdf|Lou Dietz Lessons, March 2021]]

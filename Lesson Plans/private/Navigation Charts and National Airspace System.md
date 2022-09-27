@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Navigation Charts and National Airspace System
 

@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 
 ## Introductory Flight, Preflight, Taxing and Post-flight Procedures

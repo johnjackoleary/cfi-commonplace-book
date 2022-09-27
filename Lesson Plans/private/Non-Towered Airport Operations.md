@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Non-Towered Airport Operations
 
@@ -32,7 +33,7 @@ cssclass: lesson
 	2. Selecting wrong runway or inappropriate entry procedure to pattern
 	3. Lack of awareness of other aircraft
 
-#TODO add airport images from AOPA and PHAK entry diagrams
+#TODO :: add airport images from AOPA and PHAK entry diagrams
 
 **Completion Standards:** Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 

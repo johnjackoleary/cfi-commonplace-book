@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes
 

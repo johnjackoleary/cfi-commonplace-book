@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl
 ---
 ![[~ Lesson Plan Outline]]
 

@@ -8,7 +8,8 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "\"cssclass: lesson\"",
+      "query": "\"cssclass: lesson
+tags: ppl, lesson\"",
       "color": {
         "a": 1,
         "rgb": 5431380

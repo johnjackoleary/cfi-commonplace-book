@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Example Radio Calls for Palo Alto operations
 1. Don’t forget to listen to ATIS prior to first call (before taxi, or before calling tower upon return to airport).

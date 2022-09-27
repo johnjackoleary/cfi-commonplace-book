@@ -1,5 +1,6 @@
 ---
 cssclass: lesson
+tags: ppl, lesson
 ---
 ## Performance Maneuvers - Ground Reference Maneuvers
 
