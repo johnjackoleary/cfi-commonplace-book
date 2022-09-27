@@ -2,7 +2,7 @@
 cssclass: lesson
 tags: ppl
 ---
-![[~ Lesson Plan Outline]]
+![[Lesson Plans/private/~ Lesson Plan Outline]]
 
 ----
 

@@ -30,4 +30,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] Many GPS devices have a free simulator to practice with, which is useful to build proficiency
 
-*Return to [[~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*

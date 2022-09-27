@@ -42,4 +42,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] Chair fly entry to non-towered airport from several directions and various wind
 
-*Return to [[~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*

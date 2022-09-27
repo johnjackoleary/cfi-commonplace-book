@@ -44,4 +44,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] Chair fly four fundamentals
 
-*Return to [[~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*

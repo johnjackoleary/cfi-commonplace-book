@@ -51,4 +51,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] Chair fly all emergencies in POH
 
-*Return to [[~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*

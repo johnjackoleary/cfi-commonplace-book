@@ -56,4 +56,4 @@ tags: ppl, lesson
 - [ ] Chair fly power-on stalls
 - [ ] Chair fly power-off stalls
 
-*Return to [[~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*
