@@ -1,6 +1,6 @@
 ```dataview
-TABLE WITHOUT ID quote AS "Quote", author AS "Author" 
+TABLE WITHOUT ID file.link AS Link, file.date AS Date, quote AS "Quote", author AS "Author" 
 FROM #quote AND !"Templates"
-SORT author DESC
+SORT file.date
 ```
 

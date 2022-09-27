@@ -12,5 +12,6 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "media",
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox"
 }
