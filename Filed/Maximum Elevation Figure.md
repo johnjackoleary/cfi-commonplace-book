@@ -1,3 +1,4 @@
+***Meaning*** :: <u>M</u>aximum <u>E</u>levation <u>F</u>igure
 ***Definition***    :: Represents the
 highest elevation within a quadrant, including terrain and
 other vertical obstacles (towers, trees, etc.). A quadrant on
@@ -9,4 +10,4 @@ the last two digits of the number are not shown. 
 
 ![[MEF.png]]
 
-#glossary
+#glossary #acronym

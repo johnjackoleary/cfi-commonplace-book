@@ -2,27 +2,29 @@
 
 **A.1 Prerequisites for practical test: Title 14 of the Code of Federal Regulations (14 CFR) part 61, § 61.39(a)(6)(i) and (ii).**
 
-I certify that \[First name, MI, Last name\] has received and logged training time within 2 calendar-months preceding the month of application in preparation for the practical test and \[he or she\] is prepared for the required practical test for the issuance of \[applicable\] certificate.
+I certify that \[First name, MI, Last name\] has received and logged training time within 2 calendar-months preceding the month of application in preparation for the practical test and \[he or she\] is prepared for the required practical test for the issuance of Private Pilot Airplane Single Engine Land (ASEL) certificate.
 
 ----
 
 **A.2 Review of deficiencies identified on airman knowledge test: § 61.39(a)(6)(iii), as required.**
 
-I certify that \[First name, MI, Last name\] has demonstrated satisfactory knowledge of the subject areas in which \[he or she\] was deficient on the \[applicable\] airman knowledge test.
+I certify that \[First name, MI, Last name\] has demonstrated satisfactory knowledge of the subject areas in which \[he or she\] was deficient on the Private Pilot Airplane (PAR) airman knowledge test.
 
 ----
 
 **A.32 Aeronautical knowledge test: §§ 61.35(a)(1), 61.103(d), and 61.105.**
 
-I certify that \[First name, MI, Last name\] has received the required training in accordance with § 61.105. I have determined \[he or she\] is prepared for the \[name of\] knowledge test.
+I certify that \[First name, MI, Last name\] has received the required training in accordance with § 61.105. I have determined \[he or she\] is prepared for the Private Pilot Airplane (PAR) knowledge test.
 
 ---
 
 **A.33 Flight proficiency/practical test: §§ 61.103(f), 61.107(b), and 61.109.** The endorsement for a practical test is required in addition to the § 61.39 endorsements provided in paragraphs A.1 and A.2.
 
-I certify that \[First name, MI, Last name\] has received the required training in accordance with §§ 61.107 and 61.109. I have determined \[he or she\] is prepared for the \[name of\] practical test.
+I certify that \[First name, MI, Last name\] has received the required training in accordance with §§ 61.107 and 61.109. I have determined \[he or she\] is prepared for the Private Pilot Airplane Single Engine Land (ASEL) practical test.
 
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
+
+#airtreknorthhwday1
 
 *Return to [[~ Lesson Plan Outline|Table of Contents]]^*
