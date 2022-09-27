@@ -1,5 +1,5 @@
-***Link***      ::
-***Author*** ::
+***Link***      :: 
+***Author*** :: 
 
 ***Key Quotes***:
 * 
