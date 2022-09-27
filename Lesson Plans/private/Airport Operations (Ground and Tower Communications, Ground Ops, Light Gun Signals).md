@@ -40,4 +40,4 @@ tags: ppl, lesson
 - [ ] Listen to www.liveatc.net for KPAO or KSQL
 
 
-*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

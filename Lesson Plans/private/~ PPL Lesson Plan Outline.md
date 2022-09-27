@@ -44,5 +44,5 @@ $\quad$[[Review and Checkride Preparation]]
 (Private Pilot Quiz and Private Pilot Phase Check)
 
 #### Appendices
-[[Appendix A - Part 61 Training Requirements]]
+[[Appendix A - Part 61 Private Pilot Training Requirements]]
 [[Appendix B - Private Pilot Endorsements]]

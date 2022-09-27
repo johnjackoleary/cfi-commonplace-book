@@ -1,4 +1,0 @@
----
-cssclass: lesson
-tags: cpl
----

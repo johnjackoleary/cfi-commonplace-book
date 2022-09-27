@@ -2,7 +2,7 @@
 cssclass: lesson
 tags: ppl
 ---
-![[Lesson Plans/private/~ Lesson Plan Outline]]
+![[~ PPL Lesson Plan Outline]]
 
 ----
 
@@ -124,7 +124,7 @@ tags: ppl
 ----
 
 # Appendices
-![[Appendix A - Part 61 Training Requirements]]
+![[Appendix A - Part 61 Private Pilot Training Requirements]]
 
 ----
 

@@ -6,7 +6,7 @@ tags: ppl, lesson
 
 **Objective:** Prepare for practical test oral and flight portions.
 **References:** ACS – all sections, AFH (descriptions of maneuvers), POH/AFM, FAR parts 91 and 61, AIM, Chart Supplements
-**Builds On:** [[Lesson Plans/private/~ Lesson Plan Outline|All Lessons]]
+**Builds On:** [[~ PPL Lesson Plan Outline|All Lessons]]
 **Schedule:** Ground 3 hours, Flight as necessary
 **Lesson Elements:**
 1. Thorough review of ACS
@@ -36,4 +36,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] Chair fly ACS maneuvers
 
-*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

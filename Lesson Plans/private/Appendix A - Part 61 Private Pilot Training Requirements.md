@@ -55,4 +55,4 @@ From FAR 61.109:
 	- [ ] 1 solo XC 150 NM distance, 50+NM leg, 3 points FS 61.109(a)(5)(ii)
 	- [ ] 3 solo TO/LDG full-stop at airport with operating control tower 61.109(a)(5)(iii)
 
-*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -40,4 +40,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] Chair fly four fundamentals using image of instruments. What do you expect to see changing in each for each maneuver? 
 
-*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

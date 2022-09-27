@@ -45,4 +45,4 @@ tags: ppl, lesson
 
 **Recommended Homework:** None
 
-*Return to [[Lesson Plans/private/~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
