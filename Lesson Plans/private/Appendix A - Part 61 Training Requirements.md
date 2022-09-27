@@ -1,3 +1,5 @@
+## Appendix A - Part 61 Training Requirements
+
 **Solo Requirements for Student Pilots:**
 FAR 61.87(d) *Maneuvers and procedures for pre-solo flight training in a single engine airplane.*
 
@@ -36,6 +38,7 @@ A student pilot who is receiving training for cross-country flight in a single-e
 - [ ] Climbs at best angle and best rate; and
 - [ ] Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives. For student pilots seeking a sport pilot certificate, the provisions of this paragraph only apply when receiving training for cross-country flight in an airplane that has a VH greater than 87 knots CAS.
 
+
 **Private Pilot Aeronautical Experience (prior to checkride)**
 From FAR 61.109:
 - [ ] 40 hours of flight time (any CC) (\*) 61.109(a)
@@ -51,3 +54,5 @@ From FAR 61.109:
 	- [ ] 5 hours solo XC 61.109(a)(5)(i)
 	- [ ] 1 solo XC 150 NM distance, 50+NM leg, 3 points FS 61.109(a)(5)(ii)
 	- [ ] 3 solo TO/LDG full-stop at airport with operating control tower 61.109(a)(5)(iii)
+
+*Return to [[~ Lesson Plan Outline|Table of Contents]]^*

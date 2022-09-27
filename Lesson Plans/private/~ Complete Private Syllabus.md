@@ -119,3 +119,13 @@ tags: ppl
 ----
 
 (Private Pilot Quiz and Private Pilot Phase Check)
+
+
+----
+
+# Appendices
+![[Appendix A - Part 61 Training Requirements]]
+
+----
+
+![[Appendix B - Private Pilot Endorsements]]

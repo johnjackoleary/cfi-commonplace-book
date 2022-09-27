@@ -45,3 +45,4 @@ $\quad$[[Review and Checkride Preparation]]
 
 #### Appendices
 [[Appendix A - Part 61 Training Requirements]]
+[[Appendix B - Private Pilot Endorsements]]
