@@ -26,7 +26,9 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "Inbox"
+      "Inbox",
+      "Templates",
+      "Sources"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
