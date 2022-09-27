@@ -25,7 +25,9 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "Inbox"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
