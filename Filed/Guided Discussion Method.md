@@ -7,6 +7,7 @@ Guided Discussion Method (types of questions to ask)
 5. Direct
 6. Reverse
 7. Relay
+<!--SR:!2022-09-28,1,230-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

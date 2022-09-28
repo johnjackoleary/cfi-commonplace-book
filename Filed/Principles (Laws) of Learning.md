@@ -5,7 +5,7 @@ Principles (Laws) of Learning
 3. Effect
 4. Primacy
 5. Intensity
-6. Receny
+6. Recency
 
 Source: [[Air Trek North FOI Flashcards]]
 

@@ -6,7 +6,7 @@ Learning New Skills
 4. Duration
 5. Performing
 6. Physical
-7. Patters
+7. Patterns
 8. Progress
 9. Knowledge
 

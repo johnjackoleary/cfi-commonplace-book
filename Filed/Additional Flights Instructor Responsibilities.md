@@ -8,7 +8,7 @@ Additional Flights Instructor Responsibilities
 6. See & Avoid Thinking
 7. Pre-Solo Thinking
 8. Proficiency
-<!--SR:!2022-09-27,1,230-->
+<!--SR:!2022-09-28,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
