@@ -23,12 +23,27 @@ Similarly, dynamic stability can be positive, neutral, or negative depending on 
 
 
 ### Stability Around Each Axis
+#### Lateral Stability
+***Definition***: `= [[Lateral Stability]].definition`
+
+A major goal of [[Lateral Stability]] is to have the aircraft's wings tend to return to straight and level flight.
+
+There are four design factors that make an aircraft laterally stable:
+- [[Dihedral]]: `= [[Dihedral]].definition`
+- 
+
 #### Longitudinal Stability
 ***Definition***: `= [[Longitudinal Stability]].definition`
 
-The goal in [[longitudinal stability]] is to have the aircraft's nose return to safe flying attitude if a force pushes the nose up or down.
+A major goal of [[longitudinal stability]] is to have the aircraft's nose return to safe flying attitude if a force pushes the nose up or down.
 
-This is accomplished by having a [[CG]] forward of the [[CL]]
+This is accomplished by having a [[CG]] forward of the [[CL]], and using a downward force from [[downwash]] on the [[horizontal stabilizer]] while the aircraft is in steady flight.^[This is also why a CG which is too far back can be dangerous: without the tendency for the nose to return to safe flight, the aircraft may try to put itself into an ever-increasing stall.]
+
+![[Longitudinal Stability.png]]
+
+If power is reduced on the aircraft, less downwash is created, and there is less downward force on the horizontal stabilizer. This causes the nose to drop. But when the nose drops, the aircraft starts to gain speed until the downwash is again leveling the plane. These oscillations continue with positive dynamic stability, until the aircraft settles to a new attitude.
+
+[[Thrust]] line placement, either below or above the [[CG]], can also effect longitudinal stability when power is changed.
 
 and how your airplane is designed. Should demonstrate knowledge of static stability (pos, neg, neutral), also [[Dihedral]] for [[Lateral Stability]] (5-17, 5-18 PHAK) and what helps with [[Longitudinal Stability]] 5-15 thru 17 PHAK) and [[Directional Stability]] 5-19 PHAK? (3)
 
