@@ -1,4 +1,4 @@
-***Link***      :: [Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/09_phak_ch7.pdf)
+***Link***      :: [Pilot's Handbook of Aeronautical Knowledge, Chapter 5: Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf)
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
