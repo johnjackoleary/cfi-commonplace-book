@@ -26,11 +26,13 @@ Similarly, dynamic stability can be positive, neutral, or negative depending on 
 #### Lateral Stability
 ***Definition***: `= [[Lateral Stability]].definition`
 
-A major goal of [[Lateral Stability]] is to have the aircraft's wings tend to return to straight and level flight.
+A major goal of [[Lateral Stability]] is to have the aircraft's wings tend to return to wings level.
 
 There are four design factors that make an aircraft laterally stable:
-- [[Dihedral]]: `= [[Dihedral]].definition`
-- 
+1. [[Dihedral]]: `= [[Dihedral]].definition` (See `= [[Dihedral]].media` for more information.)
+2. [[Sweepback]]: `= [[Sweepback]].definition` When a disturbance causes a wing to drop, the low wing presents a more perpendicular relative airflow, causing more lift and a return to wings level.
+3. [[Keel Effect]]: `= [[Keel Effect]].definition`
+4. ***Weight Distribution***: Having more keel area above the [[CG]] encourages the [[Keel Effect]].
 
 #### Longitudinal Stability
 ***Definition***: `= [[Longitudinal Stability]].definition`
@@ -44,6 +46,11 @@ This is accomplished by having a [[CG]] forward of the [[CL]], and using a downw
 If power is reduced on the aircraft, less downwash is created, and there is less downward force on the horizontal stabilizer. This causes the nose to drop. But when the nose drops, the aircraft starts to gain speed until the downwash is again leveling the plane. These oscillations continue with positive dynamic stability, until the aircraft settles to a new attitude.
 
 [[Thrust]] line placement, either below or above the [[CG]], can also effect longitudinal stability when power is changed.
+
+#### Directional Stability
+***Definition***: `= [[Directional Stability]].definition`
+
+A major goal of [[Directional Stability]] is to have the aircraft's nose return to safe flying attitude if a force pushes the nose up or down.
 
 and how your airplane is designed. Should demonstrate knowledge of static stability (pos, neg, neutral), also [[Dihedral]] for [[Lateral Stability]] (5-17, 5-18 PHAK) and what helps with [[Longitudinal Stability]] 5-15 thru 17 PHAK) and [[Directional Stability]] 5-19 PHAK? (3)
 
