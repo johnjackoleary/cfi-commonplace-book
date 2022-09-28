@@ -40,7 +40,7 @@ There are four design factors that make an aircraft laterally stable:
 #### Longitudinal Stability
 ***Definition***: `= [[Longitudinal Stability]].definition`
 
-A major goal of [[longitudinal stability]] is to have the aircraft's nose return to safe flying attitude if a force pushes the nose up or down.
+A major goal of [[Longitudinal Stability]] is to have the aircraft's nose return to safe flying attitude if a force pushes the nose up or down.
 
 This is accomplished by having a [[CG]] forward of the [[CL]], and using a downward force from [[downwash]] on the [[horizontal stabilizer]] while the aircraft is in steady flight.^[This is also why a CG which is too far back can be dangerous: without the tendency for the nose to return to safe flight, the aircraft may try to put itself into an ever-increasing stall.] [[Thrust]] line placement, either below or above the [[CG]], can also effect longitudinal stability when power is changed.
 
@@ -54,7 +54,7 @@ But when the nose drops, the aircraft starts to gain speed until the downwash is
 #### Directional or Yawing Stability
 ***Definition***: `= [[Directional Stability]].definition`
 
-A major goal of [[directional stability]] is to minimize yawing at keep the plane pointed into the relative wind. Like an arrow or weather vane, if the plane yaws during flight, the [[fuselage]] and fin will help to keep the airplane return.^[Remember that a body free to rotate always turns about its CG.]
+A major goal of [[Directional Stability]] is to minimize yawing at keep the plane pointed into the relative wind. Like an arrow or weather vane, if the plane yaws during flight, the [[fuselage]] and fin will help to keep the airplane return.^[Remember that a body free to rotate always turns about its CG.]
 
 ![[Fuselage and Fin for Directional Stability.jpeg]]
 
