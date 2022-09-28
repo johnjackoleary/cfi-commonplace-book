@@ -3,8 +3,6 @@
 
 ***Key Quotes***:
 * [[Runway Incursion]] and [[Surface Incident]] definitions
-* 4 categories of Runway Incursions
+* 4 categories (A-D) of Runway Incursions, from most to least severe.
 
 #source
-
-#todo :: add key quotes
