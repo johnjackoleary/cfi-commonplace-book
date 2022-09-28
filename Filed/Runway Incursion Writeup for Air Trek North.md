@@ -2,7 +2,7 @@
 [[Runway Incursion]] - `= [[Runway Incursion]].Definition`
 
 #### Example
-In 2017 at an airport in Orange County (KSNA), [Harrison Ford](https://en.wikipedia.org/wiki/Harrison_Ford "Harrison Ford") accidentally landed on taxiway Charlie, to the left of runway 20L. A [Boeing 737](https://en.wikipedia.org/wiki/Boeing_737 "Boeing 737") was holding short of 20L on the taxiway when Ford overflew them.
+In 2017 at an airport in Orange County (KSNA), Harrison Ford accidentally landed on taxiway Charlie, to the left of runway 20L. A Boeing 737 was holding short of 20L on the taxiway when Ford overflew them.
 
 From *[Aviation International News](https://www.ainonline.com/aviation-news/general-aviation/2017-05-16/faa-opts-out-punishment-harrison-ford-taxiway-landing)*:
 > After a long period of silence [after landing]—about two minutes—on the recording, Ford asks: “Tower, 9HU, was that airliner airplane supposed to be underneath me?”
@@ -23,10 +23,9 @@ From *[Aviation International News](https://www.ainonline.com/aviation-news/gene
 
 **Mitigations:**
 In short: better planning and preparation.
-- Understand likely taxi routes through airport
-- Review and understand [[Hotspot|hotspots]], which can be found in airport diagrams, the Airport/Facility Directory (A/FD), and instrument approach books
-![[KSNA Airport Diagram with Hotspots.pdf]]
-- Know and watch for runway hold position markings. If you haven't been cleared to cross it (or you aren't sure), hold short and ask.
+- Understand airport diagram and likely taxi routes through airport
+- Review and understand [[Hotspot|hotspots]], which can be found in airport diagrams ([[KSNA Airport Diagram with Hotspots.pdf|example]]), the Airport/Facility Directory (A/FD) ([[KSNA Hotspot Descriptions.jpeg|example]]), and instrument approach books
+- Know and watch for runway hold position markings ([[Runway Hold Position Marking.png|image]]). If you haven't been cleared to cross it (or you aren't sure), hold short and ask.
 - If in doubt about your route or where you are: **STOP!** It's ok to ask the controller or request [[progressive taxi]] instructions.
 
 ***Source***: [[Runway Safety]], [[FAA Website on Runway Incursions]], [[Air Trek North CFI Homework]]
