@@ -9,4 +9,4 @@ Note:  These are the same as hyperventilation
 
 Source: [[AIM 8-1]], [[Air Trek North FIA Flashcards]]
 
-#fia-flashcards
+#airtreknorth-flashcards/fia

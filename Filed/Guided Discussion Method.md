@@ -11,4 +11,4 @@ Guided Discussion Method (types of questions to ask)
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

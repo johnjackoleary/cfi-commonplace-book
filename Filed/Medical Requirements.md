@@ -13,4 +13,4 @@ Basic Med not authorized for Commercial Ops
 
 Source: [[Air Trek North FIA Flashcards]]
 
-#fia-flashcards
+#airtreknorth-flashcards/fia

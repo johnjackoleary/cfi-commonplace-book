@@ -10,4 +10,4 @@ Definition of Professionalism
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

@@ -6,4 +6,4 @@ Pilot Performed Preventive Maintenance (CFR 43-App A)
 
 Source: [[Air Trek North FIA Flashcards]]
 
-#fia-flashcards
+#airtreknorth-flashcards/fia

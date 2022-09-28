@@ -8,4 +8,4 @@ Developing Instructor Communication Skills
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

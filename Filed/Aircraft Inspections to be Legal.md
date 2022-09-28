@@ -9,4 +9,4 @@ E - ELT every 12 calendar months or 1/2 battery life (91.207)
 
 Source: [[Air Trek North FIA Flashcards]]
 
-#fia-flashcards
+#airtreknorth-flashcards/fia

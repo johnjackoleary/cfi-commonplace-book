@@ -9,4 +9,4 @@ Corrective action: Turn off heater, open fresh air vents, side windows, oxygen i
 
 Source: [[AIM 8-1]], [[Air Trek North FIA Flashcards]]
 
-#fia-flashcards
+#airtreknorth-flashcards/fia

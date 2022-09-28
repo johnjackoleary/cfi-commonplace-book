@@ -9,4 +9,4 @@ Characteristics of Good Oral Questions
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

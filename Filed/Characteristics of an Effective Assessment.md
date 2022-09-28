@@ -12,4 +12,4 @@ Characteristics of an Effective Assessment
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

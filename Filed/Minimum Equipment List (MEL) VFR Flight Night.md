@@ -4,4 +4,4 @@ Minimum Equipment List (MEL) VFR Flight Night ([[FLAPS]])
 
 Source: [[Air Trek North FIA Flashcards]]
 
-#fia-flashcards
+#airtreknorth-flashcards/fia

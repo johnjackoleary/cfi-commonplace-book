@@ -12,4 +12,4 @@ Additional Flights Instructor Responsibilities
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi
