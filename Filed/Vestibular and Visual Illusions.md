@@ -45,4 +45,6 @@ Visual illusions are especially hazardous because pilots rely on their eyes for 
 - [[False Horizon]]: `= [[False Horizon]].definition`
 - [[Autokinesis|Autokinesis (aka UFO Syndrome)]]: `= [[Autokinesis]].definition`
 
+#todo :: Add upslope/downslope runway, wide/narrow runway, and [[Empty Field Myopia]]
+
 #airtreknorthhwday3 
