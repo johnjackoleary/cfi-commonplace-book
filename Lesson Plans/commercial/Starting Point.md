@@ -1,1 +1,0 @@
-![[DietzCommercialAirplaneSyllabus2022.pdf]]

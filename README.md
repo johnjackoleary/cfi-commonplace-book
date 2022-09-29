@@ -1,9 +1,9 @@
 # CFI Commonplace Book
-One of my favorite parts of aviation is the community it brings together. This collection of index cards is meant to empower others in the community to contrinubte ideas, resources, etc for their own flying. I'll also use it to teach students and hope that students will contrinbute their own insights as they learn.
+One of my favorite parts of aviation is the community it brings together. This collection of index cards is meant to empower others in the community to contribute ideas, resources, etc for their own flying. I'll also use it to teach students and hope that students will contribute their own insights as they learn.
 
 My hope is you find my CFI commonplace book useful as a starting point for your own, or that you contribute your own learnings back.
 
-This is fundemantally a way for me to have dialogue with students and the community to improve my teaching over time.
+This is fundamentally a way for me to have dialogue with students and the community to improve my teaching over time.
 
 
 # Structure

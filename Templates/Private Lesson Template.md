@@ -19,4 +19,4 @@ tags: ppl, lesson
 **Recommended Homework:** 
 - [ ] 
 
-*Return to [[~ Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

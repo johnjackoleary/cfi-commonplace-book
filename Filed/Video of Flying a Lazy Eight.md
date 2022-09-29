@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=6oQOUiHhjaY on how to fly a [[Lazy Eight]] by [[The Finer Points]]

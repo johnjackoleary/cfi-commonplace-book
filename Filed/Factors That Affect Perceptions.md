@@ -7,4 +7,4 @@ Factors That Affect Perceptions
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

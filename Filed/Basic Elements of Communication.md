@@ -6,4 +6,4 @@ Basic Elements of Communication
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

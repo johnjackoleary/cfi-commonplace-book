@@ -9,4 +9,4 @@ Oral Questions to Avoid
 
 Source: [[Air Trek North FOI Flashcards]]
 
-#foi-flashcards
+#airtreknorth-flashcards/foi

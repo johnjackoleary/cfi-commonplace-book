@@ -5,15 +5,15 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#flashcards",
-      "#foi-flashcards",
-      "#fia-flashcards"
+      "#airtreknorth-flashcards/foi",
+      "#airtreknorth-flashcards/fia"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
-    "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 40,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
     "showFileNameInFileLink": false,
     "randomizeCardOrder": true,
     "convertHighlightsToClozes": true,
@@ -41,6 +41,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-09-26",
+  "buryDate": "2022-09-28",
   "buryList": []
 }

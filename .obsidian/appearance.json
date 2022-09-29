@@ -2,5 +2,6 @@
   "cssTheme": "CFIJack",
   "enabledCssSnippets": [
     "clean-embeds-all"
-  ]
+  ],
+  "baseFontSize": 18
 }

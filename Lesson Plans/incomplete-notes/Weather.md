@@ -1,1 +1,0 @@
-What is a thunderstorm called the moment before lightning strikes? Sometimes forecasters will put moderate rain as a tip-off in the forecast, but they can’t call it a thunderstorm until lightning strikes 
