@@ -4,7 +4,6 @@ Characteristics of Learning
 2. Experience
 3. Active process
 4. Multi-faceted
-<!--SR:!2022-09-30,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

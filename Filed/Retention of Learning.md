@@ -5,7 +5,6 @@ Retention of Learning
 3. Meaningful repeatition
 4. Praise stimulates remembering
 5. More senses help
-<!--SR:!2022-09-30,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

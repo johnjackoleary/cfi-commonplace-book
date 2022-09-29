@@ -6,7 +6,6 @@ Carbon Monoxide Poisoning (AIM 8-1-4)
 4. Dizziness
 5. Drowsiness
 Corrective action: Turn off heater, open fresh air vents, side windows, oxygen if available.
-<!--SR:!2022-09-30,1,230-->
 
 Source: [[AIM 8-1]], [[Air Trek North FIA Flashcards]]
 

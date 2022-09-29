@@ -6,7 +6,6 @@ Hypoxia Symptoms (Lack of Oxygen) (AIM 8-1-4)
 4. Drowsiness
 5. Lightheaded
 Note:  These are the same as hyperventilation
-<!--SR:!2022-09-30,1,230-->
 
 Source: [[AIM 8-1]], [[Air Trek North FIA Flashcards]]
 

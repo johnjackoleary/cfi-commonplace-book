@@ -5,7 +5,6 @@ Characteristics of Good Oral Questions
 3. Apply to subject being taught
 4. Brief and concise
 5. Challenge the student
-<!--SR:!2022-09-30,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
