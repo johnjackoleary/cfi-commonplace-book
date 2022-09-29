@@ -3,7 +3,7 @@ Basic Elements of Communication
 1. Speaker
 2. Content or Symbol
 3. Receiver
-<!--SR:!2022-09-28,1,230-->
+<!--SR:!2022-09-30,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

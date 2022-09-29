@@ -5,7 +5,7 @@ Demonstration Performance Model
 3. Student performs while...
 4. Instructor supervises
 5. Evaluations 
-<!--SR:!2022-09-28,1,230-->
+<!--SR:!2022-10-02,3,230-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

@@ -8,7 +8,7 @@ Defense Mechanisms
 6. Reaction Formation^["Form a reaction"]
 7. Fantasy
 8. Displacement
-<!--SR:!2022-09-28,1,230-->
+<!--SR:!2022-09-30,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

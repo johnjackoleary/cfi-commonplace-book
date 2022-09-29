@@ -7,7 +7,7 @@ Characteristics of a Professional
 5. Profanity (none)
 6. Accepting of the learner
 7. Safety
-<!--SR:!2022-09-28,1,210-->
+<!--SR:!2022-09-30,1,190-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
