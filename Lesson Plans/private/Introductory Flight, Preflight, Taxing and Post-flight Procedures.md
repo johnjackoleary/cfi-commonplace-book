@@ -11,7 +11,7 @@ tags: ppl, lesson
 **Schedule:** Ground 1 hour, Flight 1 hour
 **Lesson Elements:**
 1. Preflight
-	1. Preflight the pilot also! - IMSAFE checklist (Illness, Medication, Stress, Alcohol, Fatigue, Emotion)
+	1. Preflight the pilot also! - [[IMSAFE]] checklist (`= [[IMSAFE]].meaning`)
 	2. Weather and TFRs (temporary flight restrictions)
 	3. Walk-around inspection, use of checklists
 	4. Fuel sampling and fuel level

@@ -9,7 +9,7 @@
   "spellcheck": true,
   "foldIndent": false,
   "foldHeading": false,
-  "livePreview": true,
+  "livePreview": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "media",
   "newFileLocation": "folder",
