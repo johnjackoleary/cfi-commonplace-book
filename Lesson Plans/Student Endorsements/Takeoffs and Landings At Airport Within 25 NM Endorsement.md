@@ -1,5 +1,7 @@
 Endorsements in [[Pre-Solo Endorsements]], and
 
+---
+
 **A.8 Solo takeoffs and landings at another airport within 25 nautical miles (NM): § 61.93(b)(1).**
 
 I certify that \[First name, MI, Last name\] has received the required training of
