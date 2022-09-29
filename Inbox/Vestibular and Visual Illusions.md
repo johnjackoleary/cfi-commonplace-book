@@ -12,15 +12,13 @@ From [[PHAK Ch17]]:
 > - Unless a pilot has many hours of training in instrument flight, **flight should be avoided in reduced visibility** or at night when the horizon is not visible.
 > - A pilot can reduce susceptibility to disorienting illusions through **training and awareness** and **learning to rely totally on flight instruments**.
 
-As my grandpa used to say: *Trust your instruments!*
+As my grandpa used to say:  *Trust your instruments!*
 
 ## Illusions To Watch Out For
 ### Vestibular Illusions
 
-The Leans
-
-A condition called the leans, is the most common illusion during flight and is caused by a sudden return to level flight following a gradual and prolonged turn that went unnoticed by the pilot. The reason a pilot can be unaware of such a gradual turn is that human exposure to a rotational acceleration of 2 degrees per second or lower is below the detection threshold of the semicircular canals. [Figure 17-4] Leveling the wings after such a turn may cause an illusion that the aircraft is banking in the opposite direction. In response to such an illusion, a pilot may lean in the direction of the original turn in a corrective attempt to regain the perception of a correct vertical posture.
-
+- [[The Leans]]: `= [[The Leans]].definition`
+- [[Coriolis Illusion]]: `= [[Coriolis Illusion]].definition`
 Coriolis Illusion
 
 The “coriolis illusion” occurs when a pilot has been in a turn long enough for the fluid in the ear canal to move at the same speed as the canal. A movement of the head in a different plane, such as looking at something in a different part of the flight deck, may set the fluid moving, creating the illusion of turning or accelerating on an entirely different axis. This action causes the pilot to think the aircraft is performing a maneuver it is not. The disoriented pilot may maneuver the aircraft into a dangerous attitude in an attempt to correct the aircraft’s perceived attitude.
@@ -46,14 +44,9 @@ Elevator Illusion
 An abrupt upward vertical acceleration, as can occur in an updraft, can stimulate the otolith organs to create the illusion of being in a climb. This is known as “elevator illusion.” The disoriented pilot may push the aircraft into a nose-low attitude. An abrupt downward vertical acceleration, usually in a downdraft, has the opposite effect with the disoriented pilot pulling the aircraft into a nose-up attitude.
 
 ### Visual Illusions
-Visual illusions are especially hazardous because pilots rely on their eyes for correct information. Two illusions that lead to spatial disorientation, false horizon and autokinesis, affect the visual system only.
+Visual illusions are especially hazardous because pilots rely on their eyes for correct information.
 
-False Horizon
-
-A sloping cloud formation, an obscured horizon, an aurora borealis, a dark scene spread with ground lights and stars, and certain geometric patterns of ground lights can provide inaccurate visual information, or “false horizon,” when attempting to align the aircraft with the actual horizon. The disoriented pilots as a result may place the aircraft in a dangerous attitude.
-
-Autokinesis
-
-When flying in the dark, a stationary light may appear to move if it is stared at for a prolonged period of time. As a result, a pilot may attempt to align the aircraft with the perceived moving light potentially causing him/her to lose control of the aircraft. This illusion is known as “autokinesis.”
+1. [[False Horizon]]: `= [[False Horizon]].definition`
+2. [[Autokinesis|Autokinesis (aka UFO Syndrome)]]: `= [[Autokinesis]].definition`
 
 #airtreknorthhwday3 
