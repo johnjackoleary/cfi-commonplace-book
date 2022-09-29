@@ -17,7 +17,7 @@ tags: ppl, lesson
 	5. Possibility of wake turbulence
 	6. Wind shear or gusty crosswind
 	7. Bounced landing, or ballooning during flare
-2. Go-around procedure ([[CCCCC]])
+2. Go-around procedure ([[5 C's (Going Missed)]])
 	1. Full power (throttle and prop), smooth but rapid, carb heat off
 	2. Pitch to Vx or Vy climb attitude by visual reference to horizon
 	3. Immediately retract flaps to climb setting
