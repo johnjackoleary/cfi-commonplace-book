@@ -1,6 +1,5 @@
 Summary: Maneuvers in Traffic Pattern
-Duration: ?
-Preferred Conditions: Cross-Wind
+Preferred Conditions: Cross-Wind; A Variety of Conditions
 
 ACS Tasks:
 1. Normal Takeoff and Climb (IV.A)
@@ -50,8 +49,29 @@ ACS Tasks:
 
 ----
 
-Summary: ?
-Duration: ?
+Summary: Ground Reference Maneuvers 
+Preferred Conditions: Winds Aloft
+
+ACS Tasks:
+1. For All
+	1. Clear the area.
+	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
+2. Steep Spiral (V.B)
+	1. Start with enough altitude to complete three 360° turns.
+	2. Establish and maintain a steep spiral by closing throttle and hitting V<sub>G</sub>
+	3. ‡ Apply wind-drift correction to **track a constant radius circle around selected reference point with bank not to exceed 60°** at steepest point in turn.
+	4. ‡ Maintain the specified **airspeed, ±10 knots and roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ AGL**.
+3. Eights on Pylons
+	1. State pivotal altitude. Pivotal altitude may be approximated by squaring groundspeed (knots), then dividing by 11.3.
+	2. Pick two pylons that will allow straight-and-level flight between the pylons, preferably perpendicular to wind, and with good landing spot nearby.
+	3. Enter crosswind so first turn is into the wind.
+	4. Establish the correct bank angle for the conditions, **not to exceed 40°**.
+	5. Keep line of sight on pylon while dividing attention outside and inside.
+	6. Keep coordinated flight.	
+
+----
+
+Summary: Remaining Maneuvers 
 Preferred Conditions: Any
 
 ACS Tasks:
@@ -109,27 +129,3 @@ ACS Tasks:
 11. Systems and Equipment Malfunctions
 	1. Appropriate actions for any of many types of emergency.
 	2. ‡ **Complete appropriate checklist**.
-
-
-----
-
-Summary: ?
-Duration: ?
-Preferred Conditions: Winds Aloft
-
-ACS Tasks:
-1. For All
-	1. Clear the area.
-	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
-2. Steep Spiral (V.B)
-	1. Start with enough altitude to complete three 360° turns.
-	2. Establish and maintain a steep spiral by closing throttle and hitting V<sub>G</sub>
-	3. ‡ Apply wind-drift correction to **track a constant radius circle around selected reference point with bank not to exceed 60°** at steepest point in turn.
-	4. ‡ Maintain the specified **airspeed, ±10 knots and roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ AGL**.
-3. Eights on Pylons
-	1. State pivotal altitude. Pivotal altitude may be approximated by squaring groundspeed (knots), then dividing by 11.3.
-	2. Pick two pylons that will allow straight-and-level flight between the pylons, preferably perpendicular to wind, and with good landing spot nearby.
-	3. Enter crosswind so first turn is into the wind.
-	4. Establish the correct bank angle for the conditions, **not to exceed 40°**.
-	5. Keep line of sight on pylon while dividing attention outside and inside.
-	6. Keep coordinated flight.	
