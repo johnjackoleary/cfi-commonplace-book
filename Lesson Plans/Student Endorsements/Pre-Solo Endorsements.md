@@ -14,7 +14,7 @@ I certify that \[First name, MI, Last name\] has received and logged pre-solo fl
 
 **A.6 Solo flight (first 90 calendar-day period): § 61.87(n).**
 
-I certify that \[First name, MI, Last name\] has received the required training to qualify for solo flying. I have determined \[he or she\] meets the applicable requirements of § 61.87(n) and is proficient to make solo flights in \[make and model\], wi
+I certify that \[First name, MI, Last name\] has received the required training to qualify for solo flying. I have determined \[he or she\] meets the applicable requirements of § 61.87(n) and is proficient to make solo flights in \[make and model\], with the following limitations \[limitations\].
 
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]

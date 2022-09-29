@@ -1,3 +1,7 @@
+*One time endorsement*
+
+---
+
 Endorsements in [[Pre-Solo Endorsements]], and
 
 ---
