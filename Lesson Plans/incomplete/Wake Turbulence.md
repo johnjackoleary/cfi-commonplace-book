@@ -1,1 +1,0 @@
-https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_4.html

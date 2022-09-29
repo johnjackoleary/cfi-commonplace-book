@@ -1,1 +1,0 @@
-Runway Safety Conditions: https://www.youtube.com/watch?v=lHf56Lt2EOU
