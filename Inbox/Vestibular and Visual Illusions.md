@@ -1,8 +1,12 @@
 ## Sensing Our Orientation and Movement
-Our body relies on the inner ear sensors ([[vestibular system]]), body/nerves ([[somatosensory system]]), and eyes ([[visual system]]) to track our orientation and movement in space.
+Our body relies on three key systems to track our orientation and movement in space. They are: 
+1. the inner ear sensors ([[vestibular system]])
+2. body/nerves ([[somatosensory system]]), and
+3. eyes ([[visual system]])
 
-- In [[VMC]], our eyes are the major orientation source, and will win out if other senses provide conflicting information.
-- In [[IMC]], however, visual references are unavailable and we become susceptible to many types of illusions. 
+In [[VMC]], our eyes are the major orientation source, and will win out if other senses provide conflicting information.
+
+In [[IMC]], however, visual references are unavailable and we become susceptible to many types of illusions. 
 
 ## Preventing Spatial Disorientation
 If we are unsure of our orientation, we are suffering from [[spatial disorientation]]. This is most likely to occur when we loose visual reference to the horizon.
@@ -19,34 +23,15 @@ As my grandpa used to say:  *Trust your instruments!*
 
 - [[The Leans]]: `= [[The Leans]].definition`
 - [[Coriolis Illusion]]: `= [[Coriolis Illusion]].definition`
-Coriolis Illusion
-
-The “coriolis illusion” occurs when a pilot has been in a turn long enough for the fluid in the ear canal to move at the same speed as the canal. A movement of the head in a different plane, such as looking at something in a different part of the flight deck, may set the fluid moving, creating the illusion of turning or accelerating on an entirely different axis. This action causes the pilot to think the aircraft is performing a maneuver it is not. The disoriented pilot may maneuver the aircraft into a dangerous attitude in an attempt to correct the aircraft’s perceived attitude.
-
-For this reason, it is important that pilots develop an instrument cross-check or scan that involves minimal head movement. Take care when retrieving charts and other objects in the flight deck—if something is dropped, retrieve it with minimal head movement and be alert for the coriolis illusion.
-
-Graveyard Spiral
-
-As in other illusions, a pilot in a prolonged coordinated, constant-rate turn may experience the illusion of not turning. During the recovery to level flight, the pilot will then experience the sensation of turning in the opposite
-
-direction causing the disoriented pilot to return the aircraft to its original turn. Because an aircraft tends to lose altitude in turns unless the pilot compensates for the loss in lift, the pilot may notice a loss of altitude. The absence of any sensation of turning creates the illusion of being in a level descent. The pilot may pull back on the controls in an attempt to climb or stop the descent. This action tightens the spiral and increases the loss of altitude; this illusion is referred to as a “graveyard spiral.” [Figure 17-5] This may lead to a loss of aircraft control.
-
-Somatogravic Illusion
-
-A rapid acceleration, such as experienced during takeoff, stimulates the otolith organs in the same way as tilting the head backwards. This action may create what is known as the “somatogravic illusion” of being in a nose-up attitude, especially in conditions with poor visual references. The disoriented pilot may push the aircraft into a nose-low or dive attitude. A rapid deceleration by quick reduction of the throttle(s) can have the opposite effect, with the disoriented pilot pulling the aircraft into a nose-up or stall attitude.
-
-Inversion Illusion
-
-An abrupt change from climb to straight-and-level flight can stimulate the otolith organs enough to create the illusion of tumbling backwards, known as “inversion illusion.” The disoriented pilot may push the aircraft abruptly into a nose- low attitude, which may intensify this illusion.
-
-Elevator Illusion
-
-An abrupt upward vertical acceleration, as can occur in an updraft, can stimulate the otolith organs to create the illusion of being in a climb. This is known as “elevator illusion.” The disoriented pilot may push the aircraft into a nose-low attitude. An abrupt downward vertical acceleration, usually in a downdraft, has the opposite effect with the disoriented pilot pulling the aircraft into a nose-up attitude.
+- [[Graveyard Spiral]]: `= [[Graveyard Spiral]].definition`
+- [[Somatogravic Illusion]]: `= [[Somatogravic Illusion]].definition`
+- [[Inversion Illusion]]: `= [[Inversion Illusion]].definition`
+- [[Elevator Illusion]]: `= [[Elevator Illusion]].definition`
 
 ### Visual Illusions
 Visual illusions are especially hazardous because pilots rely on their eyes for correct information.
 
-1. [[False Horizon]]: `= [[False Horizon]].definition`
-2. [[Autokinesis|Autokinesis (aka UFO Syndrome)]]: `= [[Autokinesis]].definition`
+- [[False Horizon]]: `= [[False Horizon]].definition`
+- [[Autokinesis|Autokinesis (aka UFO Syndrome)]]: `= [[Autokinesis]].definition`
 
 #airtreknorthhwday3 

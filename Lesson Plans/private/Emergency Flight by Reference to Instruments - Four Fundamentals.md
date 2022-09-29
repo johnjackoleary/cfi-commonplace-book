@@ -26,7 +26,7 @@ tags: ppl, lesson
 	3. Straight climbs and descents (IFH 7-14)
 	4. Turns (IFH 7-19)
 3. Common errors
-	1. Spatial disorientation
+	1. Spatial disorientation (see [[Vestibular and Visual Illusions]])
 	2. Distraction
 	3. Fixation or omission
 	4. While turning -- watch the turn, and do nothing else until complete
