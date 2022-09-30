@@ -1,6 +1,6 @@
-| **C172N Gaits** v0.1 | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
+| **C172N Gaits** v0.2 | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
 | -------------------- |:---------:|:---------:|:-------:|:-------------:|:-------------:|
-| ⚠️ V<sub>G</sub>     |           |    TBD    |  idle   |      68       |      TBD      |
+| ⚠️ V<sub>G</sub>     |           |    TBD    |  idle   |      65       |      TBD      |
 | 🛫 V<sub>R</sub>     |    10°    |    TBD    |   max   |      55       |      TBD      |
 | V<sub>X(10°)</sub>   |    10°    |    +8°    |   max   |      59       |      TBD      |
 | V<sub>X</sub>        |           |    TBD    |   max   |      59       |      TBD      |
@@ -12,7 +12,7 @@
 | 🛬 Abeam \#s     |    10°    |    TBD    |  1400   |      80       |      TBD      |
 | 🛬 Base              |    20°    |    TBD    |  1400   |      70       |      TBD      |
 | 🛬 Final             |    30°    |    TBD    | as req  |      60       |      TBD      |
-| Short                |    40°    |    TBD    | as req  |      60       |      TBD      |
+| Short                |    40°    |    TBD    | as req  |      55       |      TBD      |
 | Soft                 |    20°    |    TBD    |  1200   |      65       |      TBD      |
 
 
