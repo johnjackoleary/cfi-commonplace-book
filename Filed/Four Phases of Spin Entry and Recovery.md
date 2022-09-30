@@ -1,3 +1,5 @@
+Four Phases of Spin
+?
 1. Entry
 	1. Similar to a power-off stall. When approaching stall, apply rudder full in direction of desired spin.
 2. Incipient
@@ -13,6 +15,6 @@
 
 ![[Phases of Spin Entry.jpeg]]
 
-#airtreknorthhwday5 
+#airtreknorthhwday5 #airtreknorth-flashcards/fia 
 
 ***Source***: [[AFH Ch5]]
