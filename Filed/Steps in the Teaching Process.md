@@ -4,6 +4,7 @@ Steps in the Teaching Process
 2. Presentation
 3. Application of Knowledge/Skills by Learner
 4. Review
+<!--SR:!2022-09-30,1,230-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
