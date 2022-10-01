@@ -18,5 +18,6 @@
 
 | Topic         | Details                                  |
 | ------------- |:---------------------------------------- |
-| Leaning       | TBD                                      | 
+| Leaning       | 50°F ROP                                 |
 | V<sub>A</sub> | 97 @ max<br>89 @ 1950 lb<br>80 @ 1600 lb |
+| Pivotal Alt   |                                          |
