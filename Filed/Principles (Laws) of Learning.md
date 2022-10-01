@@ -1,5 +1,6 @@
 Principles (Laws) of Learning
 ?
+(RERIPE)
 1. Readiness
 2. Exercise
 3. Effect
