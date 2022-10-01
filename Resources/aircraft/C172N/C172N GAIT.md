@@ -1,4 +1,4 @@
-| **C172N Gaits** v0.2 | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
+| **C172N Gaits** v1.0 | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
 | -------------------- |:---------:|:---------:|:-------:|:-------------:|:-------------:|
 | ⚠️ V<sub>G</sub>     |           |    TBD    |  idle   |      65       |      TBD      |
 | 🛫 V<sub>R</sub>     |    10°    |    TBD    |   max   |      55       |      TBD      |
@@ -16,8 +16,8 @@
 | Soft                 |    20°    |    TBD    |  1200   |      65       |      TBD      |
 
 
-| Topic         | Details                                  |
-| ------------- |:---------------------------------------- |
-| Leaning       | 50°F ROP                                 |
-| V<sub>A</sub> | 97 @ max<br>89 @ 1950 lb<br>80 @ 1600 lb |
-| Pivotal Alt   |                                          |
+| Topic         | Details                              |
+| ------------- |:------------------------------------ |
+| Leaning       | 50°F ROP                             |
+| V<sub>A</sub> | 97 @ max; 89 @ 1950 lb; 80 @ 1600 lb |
+| Pivotal Alt   | 800'@95kts; 640'@85kts; 980'@105kts  | 
