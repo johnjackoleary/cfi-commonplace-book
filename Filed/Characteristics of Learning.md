@@ -1,7 +1,7 @@
 Characteristics of Learning
 ?
 1. Purposeful
-2. Experience
+2. Result of Experience
 3. Active process
 4. Multi-faceted
 <!--SR:!2022-10-01,1,210-->
