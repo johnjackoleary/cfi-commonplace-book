@@ -6,6 +6,7 @@ Definition of Professionalism
 4. Extended Training
 5. Reasoning logically/accurately
 6. Study to maintain knowledge
+<!--SR:!2022-09-30,1,230-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

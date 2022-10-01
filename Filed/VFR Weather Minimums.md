@@ -6,6 +6,7 @@ Weather Minimums
 3. Class G (sfc-1200' AGL): 1mi, Clear of Clouds
 4. Class G (1200' - 10k'): 1-152
 5. Class G night within 1/2 mi of runway centerline: 1mi, Clear of Clouds
+<!--SR:!2022-10-02,3,250-->
 
 Source: [[Air Trek North FIA Flashcards]]
 
