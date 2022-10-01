@@ -7,7 +7,7 @@ Minimizing Learner Frustration
 5. Constructive criticism
 6. Consistency
 7. Admit errors
-<!--SR:!2022-09-30,1,230-->
+<!--SR:!2022-10-01,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
