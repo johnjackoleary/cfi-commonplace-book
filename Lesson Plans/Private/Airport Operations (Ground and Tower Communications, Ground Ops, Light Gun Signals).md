@@ -17,15 +17,16 @@ tags: ppl, lesson
 	5. Mentally rehearse what you will say before keying the mic. If in doubt, ask for clarification or request "say again"
 	6. Anticipate the response and pay attention for any unusual elements
 	7. Stuck microphones -- how to detect, how to respond
-2. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
-3. [[Phonetic Alphabet]]
+2. [[Runway Incursions Overview, Risks, and Mitigations]]
+3. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
+4. [[Phonetic Alphabet]]
 	1. Memorize them! Alpha through Zulu
 	2. Special number pronunciations: "Tree" and "Niner"
-4. Light Gun Signals
+5. Light Gun Signals
 	1. Debugging common radio issues
 	2. Study and memorize the signals
 	3. Also, put a copy onto your kneeboard (people forget in the stress of the moment!)
-5. Common Errors
+6. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight
