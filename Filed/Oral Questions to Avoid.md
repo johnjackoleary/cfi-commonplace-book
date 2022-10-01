@@ -6,7 +6,7 @@ Oral Questions to Avoid
 4. Puzzle
 5. Irrelevant
 6. Trick
-<!--SR:!2022-09-30,1,230-->
+<!--SR:!2022-10-01,1,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

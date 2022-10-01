@@ -6,7 +6,7 @@ Human Needs
 4. Self-Esteem
 5. Cognitive & Aesthetic
 6. Self-Actualization
-<!--SR:!2022-09-30,1,230-->
+<!--SR:!2022-10-02,2,230-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
