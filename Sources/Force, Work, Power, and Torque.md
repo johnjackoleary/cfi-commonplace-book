@@ -1,6 +1,6 @@
 ***Link***      :: https://www.aircraftsystemstech.com/2021/06/force-work-power-and-torque-aviation.html
-***Description***      :: `= this.link`
-***Author*** ::
+***Description***      :: Overview of Force, Work, Power, and Torque
+***Author*** :: [[Aviation Physics]]
 
 ***Key Quotes***:
 * [[Work]], in the mechanical sense of the term, is done when a resistance is overcome by force acting through a measurable distance. Two factors are involved: (1) force and (2) movement through a distance.

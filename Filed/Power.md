@@ -2,6 +2,6 @@
 ***Source***         :: [[Feynman Lectures]]
 
 ***See Also***:
-- [[Force, Work, Power, and Torque - Aviation Physics]]
+- [[Force, Work, Power, and Torque]]
 
 #glossary

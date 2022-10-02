@@ -1,2 +1,2 @@
 ***Quote***: "If someone asked the average person if he or she could lift one million pounds 5 feet off the ground, the answer most assuredly would be no. This person would probably assume that he or she is to lift it all at once. What if he or she is given 365 days to lift it, and could lift small amounts of weight at a time? The [[work]] involved would be the same, regardless of how long it took to lift the weight, but the power required is different. If the weight is to be lifted in a shorter period of time, it will take more [[Power]]."
-***Source***: [[Force, Work, Power, and Torque - Aviation Physics]]
+***Source***: [[Force, Work, Power, and Torque]]
