@@ -29,14 +29,20 @@ tags: ppl, lesson
 	1. Complete pre-landing checklist
 	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
 	3. Soft-field landing
-		1. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying gust factor ()
+		1. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference) +10/-5 knots
+		2. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushin descent and touchdown
+		3. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions
+	4. Short-field landing
+		1. Establish POH-recommended approach configuration and airspeed, adjust pitch and power as required
+		2. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying gust factor (add half of gust difference) +10/-5 kts
+		3. Touch down smoothly, with minimal float, at or within 200 feet beyond the specified touchdown point
+		4. Apply brakes as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
-**Completion Standards:** 
+**Completion Standards:** Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
 
-**Required Homework:** 
-- [ ] 
+**Required Homework:** None
 
 **Recommended Homework:** 
-- [ ] 
+- [ ] Chair fly short- and soft-field takeoffs and landings
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
