@@ -26,7 +26,7 @@ tags: ppl, lesson
 4. Other safety concerns
 	1. Right of Way rules
 	2. Wake turbulence from helicopters, and heavy aircraft
-		1. #TODO link helicopter video
+		1. #TODO :: link helicopter video
 	3. Awareness of other operations, such as parachuting
 5. Common Errors
 	1. Lack of planning ahead, staying ahead of the airplane

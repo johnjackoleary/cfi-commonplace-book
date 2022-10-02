@@ -11,13 +11,12 @@ tags: ppl, lesson
 **Lesson Elements:**
 1. Takeoffs (no flaps used in most trainers)
 	1. Effect of wind and density altitude
-	2. Weather minimums
-		1. #TODO :: review
+	2. Weather minimums ([[VFR Weather Minimums]])
 	3. Takeoff distance from aircraft performance charts
 	4. Pre-takeoff checks, and traffic checks
 	5. Go/No-go location picked out ahead of time. Call out rotate and climb speeds. Recite emergency landing options.
 	6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
-	7. Taking the runway -- Check for traffic, and "Lights, Camera, Action, Time"
+	7. Taking the runway -- Check for traffic, and "[[Lights, Camera, Action, Time]]"
 	8. Setting controls for cross-wind
 	9. Feet off brakes, gentle power application, last check of instruments
 	10. Dancing on the rudder pedals to maintain directional control, right rudder as necessary to offset left-turning tendency (P-factor)
