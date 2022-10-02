@@ -17,7 +17,7 @@ tags: ppl, lesson
 	2. Ground replies: “Citabria Six Juliet Romeo, hold short Yankee One, contact Tower”. Readback: “Six Juliet Romeo, hold short Yankee One, contact Tower”
 	4. Contact tower for takeoff clearance: “Palo Alto Tower, Citabria Five-NinerSix-Juliet-Romeo, Ready for takeoff”. Expect to hear: “Citabria Five-NinerSix-Juliet-Romeo, Palo Alto Tower, hold short Runway Three-One”. Readback: “Tower, Citabria Six-Juliet-Romeo, holding short Three-One”. And then maybe something like: “Citabria Six-Juliet-Romeo, cleared for takeoff runway Three One, left Dumbarton Departure, follow Cessna on upwind”. Readback: “Six-Juliet-Romeo, cleared for takeoff Three-One, left Dumbarton Departure, following Cessna”.
 5. Initial call when returning for landing:
-	1. “Palo Alto Tower, Citabria Five-Niner-Six-Juliet-Romeo, SLAC, inbound with Bravo”
+	1. “Palo Alto Tower, Citabria Five-Niner-Six-Juliet-Romeo, [[SLAC]], inbound with Bravo”
 	2. Expect reply: “Citabria Five-Niner-Six-Juliet-Romeo, Palo Alto Tower, make left traffic runway Three One, traffic departing Palo Alto to the south climbing through 2000’”
 	3. Readback: “Six Juliet Romeo, left traffic Three One, looking for traffic”
 6. Arriving on downwind:
