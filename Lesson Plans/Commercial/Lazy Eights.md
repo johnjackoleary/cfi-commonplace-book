@@ -7,13 +7,13 @@ tags: cpl, lesson
 **Objective:** The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
 **References:** [[AFH Chap10]], [[Commercial ACS]]
 **Additional Resources:** [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE), [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
-**Builds On:** [[Performance Maneuvers - Ground Reference Maneuvers]]
+**Builds On:** [[Performance Maneuvers - Ground Reference Maneuvers]], [[Maneuvering During Slow Flight]]
 **Schedule:** 
 **Lesson Elements:**
 1. Concepts in a lazy eight
 	1. Similar to an S-Turn, a lazy eight is two or more opposing 180° turns. The lazy eight adds both a climb and descent to each 180° segment (first 90° is the climb, the second 90° is the descent).
 	2. As we climb, we lose airspeed, which results in a smaller radius turn. This smaller radius turn causes a more pronounced [[Overbanking Tendency]]. Normally we counter this with opposite aileron, but in a lazy eight, we use it to slowly increase bank through the maneuver.
-	3. The slower airspeed also results in additional required rudder, especially in right turns
+	3. The slower airspeed, climb, and bank requires attention on the rudder due to the [[four left turning tendencies]]. This is especially pronounced in in right turns.
 2. Maneuver setup
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
@@ -41,17 +41,16 @@ tags: cpl, lesson
 	10. Not scanning for other traffic during the maneuver
 	11. Performing by reference to the flight instruments rather than visual references 
 
-![[Lazy Eight]]
+![[Lazy Eight.jpeg]]
 
 **Completion Standards:** Client must fly maneuver to [[ACS]] standards: 
 - Approximately 30° bank at the steepest point.
 - Constant change of pitch and roll rate and airspeed.
 - At the 180° point: ±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading.
 
-**Required Homework:** 
-- [ ] 
+**Required Homework:** None
 
 **Recommended Homework:** 
-- [ ] 
+- [ ] Chair fly lazy eights
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
