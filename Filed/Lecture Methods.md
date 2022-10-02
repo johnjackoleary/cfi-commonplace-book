@@ -4,7 +4,7 @@ Lecture Methods
 2. Formal
 3. Illustrated
 4. Teaching Lecture
-<!--SR:!2022-10-01,1,210-->
+<!--SR:!2022-10-02,1,190-->
 
 Source: [[Air Trek North FOI Flashcards]]
 

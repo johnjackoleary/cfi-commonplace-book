@@ -6,7 +6,7 @@ Good Written Test Questions
 4. Objectivity (no bias)
 5. Comprehension (measures overall)
 6. Discrimination (between good and poor)
-<!--SR:!2022-10-01,1,210-->
+<!--SR:!2022-10-02,1,190-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
