@@ -11,7 +11,7 @@
       "query": "path:Sources",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 3282941
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3804659825463052,
+  "scale": 0.35320954810508237,
   "close": false
 }
