@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Normal and Crosswind Approaches and Landings
 
 **Objective:** Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
-**References:** ACS Sec IV-B, AFH Ch. 8, POH
+**References:** [[Private Pilot ACS]] Sec IV-B, AFH Ch8, POH
 **Builds On:** [[Maneuvering During Slow Flight]], [[Power-On and Power-Off Stalls]], [[Normal and Crosswind Takeoffs and Climbs]]
 **Schedule:** 0.5 hours ground, multiple flights to practice as necessary
 **Lesson Elements:**

@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Power-On and Power-Off Stalls
 
 **Objective:** Develop knowledge, risk management, and skills associated with power-on and power-off stalls
-**References:** ACS Sec VII-B and -C, AFH Ch 4, PHAK Ch 5, POH
+**References:** [[Private Pilot ACS]] Sec VII-B and -C, AFH Ch4, PHAK Ch 5, POH
 **Builds On:** [[Maneuvering During Slow Flight]]
 **Schedule:** 0.5-hour ground, 1.0-hour flight, with practice on multiple flights
 **Lesson Elements:**

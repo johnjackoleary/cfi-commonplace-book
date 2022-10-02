@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)
 
 **Objective:** To understand airport operations, including communications, traffic patterns, and light gun signals
-**References:** ACS Sec III, AFH Ch. 2, PHAK Ch 14, Southwest Chart Supplement, AIM Ch 2, Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
+**References:** [[Private Pilot ACS]] Sec III, AFH Ch2, PHAK Ch 14, Southwest Chart Supplement, AIM Ch 2, Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
 **Builds On:** N/A
 **Schedule:** Ground 1.5 hours
 **Lesson Elements:**

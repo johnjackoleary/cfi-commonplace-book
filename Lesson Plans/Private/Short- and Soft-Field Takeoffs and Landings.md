@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Short- and Soft-Field Takeoffs and Landings
 
 **Objective:** Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
-**References:** ACS Sec IV Task E-F; AFH Ch 5, 8
+**References:** [[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
 **Builds On:** [[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
 **Schedule:** Ground 1.0; Flight – multiple flights, with frequent practice
 **Lesson Elements:**

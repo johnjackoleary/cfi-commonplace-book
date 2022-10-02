@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Maneuvering During Slow Flight
 
 **Objective:** Develop knowledge, risk management and skills associated with maneuvers during slow flight. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
-**References:** ACS Sec VII, AFH Ch. 4, PHAK Ch. 5
+**References:** [[Private Pilot ACS]] Sec VII, AFH Ch4, PHAK Ch. 5
 **Builds On:** [[Four Fundamentals of Flight]]
 **Schedule:** 1-hour ground, 1.5 hours flight
 **Lesson Elements:**

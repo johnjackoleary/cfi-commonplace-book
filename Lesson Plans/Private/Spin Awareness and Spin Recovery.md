@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Spin Awareness and Spin Recovery
 
 **Objective:** Develop knowledge, risk management and skills associated with spins, flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
-**References:** ACS Sec VII-D, AFH Ch 4, PHAK Ch 5, POH, AC 61-67C
+**References:** [[Private Pilot ACS]] Sec VII-D, AFH Ch4, PHAK Ch 5, POH, AC 61-67C
 **Builds On:** [[Maneuvering During Slow Flight]]
 **Schedule:** 0.5-hour ground, 1.0-hour flight
 **Lesson Elements:** 
@@ -14,7 +14,7 @@ tags: ppl, lesson
 	2. At spin entry, trying to lift the down wing with aileron deepens the stall and accelerates stall entry!
 	3. Relationship to CG -- If CG is too far aft (e.g. aft of utility category limits) spin may not be recoverable!
 2. What aircraft are approved for spins?
-	1. Check POH. Some airp;anes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
+	1. Check POH. Some airplanes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
 	2. Normal category planes are test to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
 	3. Note: Parachutes are NOT required for spin training. See FitzpatrickSpartan College interpretation from FAA Chief Counsel in Feb 2018.
 3. Situations where unintentional spins may occur
