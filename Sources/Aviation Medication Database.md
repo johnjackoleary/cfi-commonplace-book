@@ -1,4 +1,5 @@
 ***Link***      :: [Medications Database](https://www.aopa.org/go-fly/medical-resources/medications-database)
+***Description***      :: `= this.link`
 ***Author*** :: [[AOPA]]
 
 ***Key Quotes***:
