@@ -30,7 +30,7 @@ tags: ppl, lesson
 	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
 	3. Soft-field landing
 		1. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference) +10/-5 knots
-		2. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushin descent and touchdown
+		2. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushion descent and touchdown
 		3. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions
 	4. Short-field landing
 		1. Establish POH-recommended approach configuration and airspeed, adjust pitch and power as required
