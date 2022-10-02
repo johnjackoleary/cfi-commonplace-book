@@ -7,5 +7,3 @@
 - To prevent LOC-I accidents, it is important for pilots to recognize and maintain a heightened awareness of situations that increase the risk of loss of control.
 
 #source #afh
-
-#todo :: add key quotes

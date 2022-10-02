@@ -5,7 +5,7 @@ tags: cpl, lesson
 ## Lazy Eights
 
 **Objective:** The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
-**References:** [[AFH Chap10]], [[Commercial ACS]]
+**References:** [[AFH Ch10]], [[Commercial ACS]]
 **Additional Resources:** [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE), [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
 **Builds On:** [[Performance Maneuvers - Ground Reference Maneuvers]], [[Maneuvering During Slow Flight]]
 **Schedule:** 
