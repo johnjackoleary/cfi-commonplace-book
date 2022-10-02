@@ -1,3 +1,5 @@
+Four Phases of Spin
+?
 1. Entry
 	1. Similar to a power-off stall. When approaching stall, apply rudder full in direction of desired spin.
 2. Incipient
@@ -10,9 +12,10 @@
 	1. [[PARE]]
 	2. Wings regain lift
 	3. Training aircraft usually recover in about 1/4 to 1/2 turns after inputs applied
+<!--SR:!2022-10-03,2,230-->
 
 ![[Phases of Spin Entry.jpeg]]
 
-#airtreknorthhwday5 
+#airtreknorthhwday5 #airtreknorth-flashcards/fia 
 
 ***Source***: [[AFH Ch5]]

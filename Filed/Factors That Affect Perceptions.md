@@ -4,7 +4,7 @@ Factors That Affect Perceptions
 2. Goals & Values
 3. Time & Opportunity
 4. Element of Threat
-<!--SR:!2022-09-30,1,230-->
+<!--SR:!2022-10-03,2,210-->
 
 Source: [[Air Trek North FOI Flashcards]]
 
