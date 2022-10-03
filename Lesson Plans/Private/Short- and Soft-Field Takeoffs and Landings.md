@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Short- and Soft-Field Takeoffs and Landings
 
 **Objective:** Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
-**References:** ACS Sec IV Task E-F; AFH Ch 5, 8
+**References:** [[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
 **Builds On:** [[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
 **Schedule:** Ground 1.0; Flight – multiple flights, with frequent practice
 **Lesson Elements:**
@@ -30,7 +30,7 @@ tags: ppl, lesson
 	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
 	3. Soft-field landing
 		1. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference) +10/-5 knots
-		2. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushin descent and touchdown
+		2. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushion descent and touchdown
 		3. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions
 	4. Short-field landing
 		1. Establish POH-recommended approach configuration and airspeed, adjust pitch and power as required

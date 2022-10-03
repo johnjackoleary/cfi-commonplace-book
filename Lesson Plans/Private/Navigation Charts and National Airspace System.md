@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Navigation Charts and National Airspace System
 
 **Objective:** Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.
-**References:** ACS Sec I Task C-E; PHAK Ch 12-13, 15-16; AIM Ch 3
+**References:** [[Private Pilot ACS]] Sec I Task C-E; [[PHAK Ch12]]-[[PHAK Ch13|13]], [[PHAK Ch15|15]]-[[PHAK Ch16|16]]; AIM Ch 3
 **Builds On:** N/A
 **Schedule:** Ground 2.0 hours
 **Lesson Elements:**

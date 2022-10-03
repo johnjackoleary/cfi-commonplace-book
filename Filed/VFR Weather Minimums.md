@@ -1,4 +1,4 @@
-Weather Minimums
+VFR Weather Minimums
 ?
 **5 Exceptions to the 3-152 Rule**
 1. Class B: 3mi, Clear of Clouds

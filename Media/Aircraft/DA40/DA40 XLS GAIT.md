@@ -1,3 +1,6 @@
+---
+tags: [gait]
+---
 <br>
 
 | DA40 XLS Gaits                   | Flaps | Pitch | MP<br/>" | RPM  | A/S<br/>(KIAS) | VSI<br/>(fpm) |

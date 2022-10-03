@@ -1,3 +1,7 @@
+---
+tags: [gait, msfs]
+---
+
 | DA40 NG (MSFS - Unmodded) Gaits      | Flaps | Pitch | Power/Max RMP | A/S<br/>(KIAS) | VSI<br/>(fpm) |
 | ------------------------------------ |:-----:| ----- |:-------------:|:--------------:|:-------------:|
 | Initial Climb Vy                     |  50%  | TBD   |   92%/2100    |       72       |     +1000     |
