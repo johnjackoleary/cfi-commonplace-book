@@ -3,7 +3,9 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-- 
+- How the pilot coordinates the throttle and elevator to achieve and maintain desired 
+altitude and airspeed targets as well as avoid energy "crises" is at the core of energy management and is elaborated in the rest of the 
+chapter.
 
 #source #afh
 
