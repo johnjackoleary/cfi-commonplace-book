@@ -30,6 +30,10 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 I certify that \[First name, MI, Last name\] has received the required training of § 61.183(i) in \[an airplane, a glider\]. I have determined that \[he or she\] is competent and possesses instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures.
 
+---
+
+Also need to make sure ground training is logged somewhere.
+
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
 
