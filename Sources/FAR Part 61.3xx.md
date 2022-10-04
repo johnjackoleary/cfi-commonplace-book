@@ -3,6 +3,6 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* This subpart prescribes... requirements that apply to a sport pilot certificate
+* This subpart prescribes... requirements that apply to a [[sport pilot]] certificate
 
 #source #far

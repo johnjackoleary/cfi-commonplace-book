@@ -1,7 +1,7 @@
 Basic [[Sport Pilot]] Privileges include:
 -   You can only fly when visibility is 3 miles or greater
 -   You can carry a passenger
--   You can fly in class E and G airspace
+-   You can fly in class E and G airspace, and fly unlimited distancss within the US
 -   You can fly aircraft that meet the definition of light-sport aircraft (LSA)
 
 Some limitations include:
@@ -18,4 +18,4 @@ With additional endorsements, Sport Pilots can get privileges to:
 
 
 ***Source:*** [Sport Pilot FAQ](https://www.usua.org/SportPilot/SportPilotFAQ.html)
-***Additional Information:*** [[FAR Part 61.3xx]], specifically [61.315](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-J/section-61.315)
+***Additional Information:*** [[FAR Part 61.3xx]], specifically [61.315](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-J/section-61.315), [[A CFI’s Guide to Sport Pilot and Light Sort Aircraft]]

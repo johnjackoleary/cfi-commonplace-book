@@ -9,7 +9,7 @@ Medical Requirements (61.23)
 	- <40yrs      60 calendar months
 	- \>= 40 yrs  24 calendar months
 - Basic Med not authorized for Commercial Ops
-<!--SR:!2022-10-09,7,250-->
+
 
 Source: [[Air Trek North FIA Flashcards]]
 

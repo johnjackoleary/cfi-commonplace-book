@@ -9,7 +9,7 @@ Learning New Skills
 7. Patterns - 
 8. Progress - 
 9. Knowledge - 
-<!--SR:!2022-10-03,1,170-->
+
 
 Source: [[Air Trek North FOI Flashcards]]
 
