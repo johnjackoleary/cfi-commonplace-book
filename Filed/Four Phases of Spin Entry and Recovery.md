@@ -12,6 +12,7 @@ Four Phases of Spin
 	1. [[PARE]]
 	2. Wings regain lift
 	3. Training aircraft usually recover in about 1/4 to 1/2 turns after inputs applied
+<!--SR:!2022-10-06,3,250-->
 
 
 ![[Phases of Spin Entry.jpeg]]
