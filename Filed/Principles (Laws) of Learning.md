@@ -7,6 +7,7 @@ Principles (Laws) of Learning
 4. Primacy
 5. Intensity
 6. Recency
+<!--SR:!2022-10-04,1,230-->
 
 
 Source: [[Air Trek North FOI Flashcards]]
