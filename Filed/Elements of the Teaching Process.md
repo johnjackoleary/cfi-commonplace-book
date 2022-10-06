@@ -4,7 +4,8 @@ Elements of the Teaching Process
 2. Presentation (Lecture, Demo)
 3. Application (Student uses)
 4. Review and Evaluate
-<!--SR:!2022-10-08,6,250-->
+<!--SR:!2022-10-06,3,250-->
+
 
 Source: [[Air Trek North FOI Flashcards]]
 

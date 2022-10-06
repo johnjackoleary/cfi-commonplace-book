@@ -4,7 +4,8 @@ Developing Instructor Communication Skills
 2. More Instructing
 3. Listening to others
 4. Receiving more instruction
-<!--SR:!2022-10-07,5,230-->
+<!--SR:!2022-10-06,3,250-->
+
 
 Source: [[Air Trek North FOI Flashcards]]
 

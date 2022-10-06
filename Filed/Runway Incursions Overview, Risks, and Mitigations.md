@@ -1,3 +1,7 @@
+---
+tags: [airtreknorthhwday2]
+---
+
 #### Definition
 [[Runway Incursion]] - `= [[Runway Incursion]].Definition`
 
@@ -29,5 +33,4 @@ In short: better planning and preparation.
 - If in doubt about your route or where you are: **STOP!** It's ok to ask the controller or request [[progressive taxi]] instructions.
 
 ***Source***: [[Runway Safety]], [[FAA Website on Runway Incursions]], [[Air Trek North CFI Homework]]
-
-#airtreknorthhwday2 
+ 
