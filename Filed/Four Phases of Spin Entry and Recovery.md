@@ -17,6 +17,6 @@ Four Phases of Spin
 
 ![[Phases of Spin Entry.jpeg]]
 
-#airtreknorthhwday5 #airtreknorth-flashcards/fia 
+#airtreknorthhw #airtreknorth-flashcards/fia 
 
 ***Source***: [[AFH Ch5]]
