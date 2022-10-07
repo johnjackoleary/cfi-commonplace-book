@@ -2,4 +2,4 @@
 ***Description***      :: `= this.link`
 ***Author*** :: [[Air Trek North]]
 
-#source #airtreknorthhwday1 #airtreknorthhwday2 #airtreknorthhwday3 #airtreknorthhwday4 #airtreknorthhwday5 #airtreknorthhwday6 #airtreknorth-flashcards/foi
+#source #airtreknorthhw #airtreknorth-flashcards/foi
