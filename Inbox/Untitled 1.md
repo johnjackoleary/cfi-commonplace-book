@@ -1,0 +1,7 @@
+-   [Chapter: 1. Departure Procedures](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_1.pdf) (PDF)
+-   [Chapter: 2. En Route Operations](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_2.pdf) (PDF)
+-   [Chapter: 3. Arrivals](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_3.pdf) (PDF)
+-   [Chapter: 4. Approaches](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_4.pdf) (PDF)
+-   [Chapter: 5. Improvement Plans](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_5.pdf) (PDF)
+-   [Chapter: 6. Airborne Navigation Databases](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_6.pdf) (PDF)
+-   [Chapter: 7. Helicopter Instrument Procedures](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B_Chapter_7.pdf) (PDF)
