@@ -4,7 +4,8 @@ Barriers to Effective Communication
 2. Lack of Common Experience
 3. Overuse of Abstracts
 4. Confusion between Symbol and the Thing being Symbolized
-<!--SR:!2022-09-30,1,230-->
+<!--SR:!2022-10-04,1,230-->
+
 
 Source: [[Air Trek North FOI Flashcards]]
 

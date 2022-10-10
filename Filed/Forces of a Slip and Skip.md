@@ -4,4 +4,4 @@ A [[slipping turn]] and [[skidding turn]] have unequal [[horizontal lift]] and [
 
 ***Source***: [[PHAK Ch5]]
 
-#airtreknorthhwday5 
+#airtreknorthhw 

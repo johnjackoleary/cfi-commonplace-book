@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Forward Slips to Landing
 
 **Objective:** Develop knowledge, risk management, and skills associated with forward slips to landing.
-**References:** ACS Sec IV-M, AFH Ch 8, POH
+**References:** [[Private Pilot ACS]] Sec IV-M, AFH Ch8, POH
 **Builds On:** [[Normal and Crosswind Approaches and Landings]]
 **Schedule:** Ground 0.5, multiple flights to practice this maneuver frequently
 **Lesson Elements:**

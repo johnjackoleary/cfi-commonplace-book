@@ -6,7 +6,7 @@ other vertical obstacles (towers, trees, etc.). A quadrant on
 30 [[minutes]] of [[latitude]] and each 30 minutes of [[longitude]].
 [[MEF]] figures are rounded up to the nearest 100’ value and
 the last two digits of the number are not shown. 
-***Source***         :: [[Chart Users' Guide -Visual]]
+***Source***         :: [[Chart Users' Guide - Visual]]
 
 ![[MEF.png]]
 

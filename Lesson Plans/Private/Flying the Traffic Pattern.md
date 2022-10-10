@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Flying the Traffic Pattern
 
 **Objective:** Develop knowledge of airport traffic patterns (towered and non-towered), skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern and approach to landing
-**References:** ACS Sec III, AFH Ch 7, AIM 4-3
+**References:** [[Private Pilot ACS]] Sec III, AFH Ch7, AIM 4-3
 **Builds On:** [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Performance Maneuvers - Ground Reference Maneuvers]]
 **CFI Equipment:** GPS/Sentry/ADS-B In
 **Schedule:** 1-hour ground, 1.5 hours flight
@@ -26,7 +26,7 @@ tags: ppl, lesson
 4. Other safety concerns
 	1. Right of Way rules
 	2. Wake turbulence from helicopters, and heavy aircraft
-		1. #TODO link helicopter video
+		1. #TODO :: link helicopter video
 	3. Awareness of other operations, such as parachuting
 5. Common Errors
 	1. Lack of planning ahead, staying ahead of the airplane

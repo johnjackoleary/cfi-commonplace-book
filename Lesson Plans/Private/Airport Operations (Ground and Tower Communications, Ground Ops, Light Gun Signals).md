@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)
 
 **Objective:** To understand airport operations, including communications, traffic patterns, and light gun signals
-**References:** ACS Sec III, AFH Ch. 2, PHAK Ch 14, Southwest Chart Supplement, AIM Ch 2, Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
+**References:** [[Private Pilot ACS]] Sec III, AFH Ch2, PHAK Ch 14, Southwest Chart Supplement, AIM Ch 2, Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
 **Builds On:** N/A
 **Schedule:** Ground 1.5 hours
 **Lesson Elements:**
@@ -17,15 +17,16 @@ tags: ppl, lesson
 	5. Mentally rehearse what you will say before keying the mic. If in doubt, ask for clarification or request "say again"
 	6. Anticipate the response and pay attention for any unusual elements
 	7. Stuck microphones -- how to detect, how to respond
-2. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
-3. [[Phonetic Alphabet]]
+2. [[Runway Incursions Overview, Risks, and Mitigations]]
+3. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
+4. [[Phonetic Alphabet]]
 	1. Memorize them! Alpha through Zulu
 	2. Special number pronunciations: "Tree" and "Niner"
-4. Light Gun Signals
+5. Light Gun Signals
 	1. Debugging common radio issues
 	2. Study and memorize the signals
 	3. Also, put a copy onto your kneeboard (people forget in the stress of the moment!)
-5. Common Errors
+6. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight

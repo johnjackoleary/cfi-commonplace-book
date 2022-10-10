@@ -8,7 +8,8 @@ Characteristics of an Effective Assessment
 6. Objective
 7. Constructive
 8. Organized
-<!--SR:!2022-09-30,1,230-->
+<!--SR:!2022-10-04,1,230-->
+
 
 Source: [[Air Trek North FOI Flashcards]]
 

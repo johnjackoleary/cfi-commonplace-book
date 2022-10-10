@@ -5,6 +5,8 @@ What Are the Hazardous Attitudes and Antidotes?
 3. Invulnerability: It could happen to me.
 4. Impulsivity: Not so fast. Think first.
 5. Resignation: I'm not helpless. I can make a difference.
+<!--SR:!2022-10-06,3,250-->
+
 
 ***Source:*** [[Air Trek North FOI Memorization Items]]
 

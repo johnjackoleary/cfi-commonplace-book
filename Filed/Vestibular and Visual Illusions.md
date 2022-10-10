@@ -47,4 +47,4 @@ Visual illusions are especially hazardous because pilots rely on their eyes for 
 
 #todo :: Add upslope/downslope runway, wide/narrow runway, and [[Empty Field Myopia]]
 
-#airtreknorthhwday3 
+#airtreknorthhw 

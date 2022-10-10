@@ -9,4 +9,4 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
 
-#airtreknorthhwday4
+#airtreknorthhw

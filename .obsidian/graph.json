@@ -1,25 +1,17 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-\"^+ \" -\"^~ \"",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "\"cssclass: lesson
-tags: ppl, lesson\"",
+      "query": "path:Sources",
       "color": {
         "a": 1,
-        "rgb": 5431380
-      }
-    },
-    {
-      "query": "file: \"~ \"",
-      "color": {
-        "a": 1,
-        "rgb": 16756495
+        "rgb": 1179806
       }
     }
   ],
@@ -33,6 +25,6 @@ tags: ppl, lesson\"",
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4098257384363227,
-  "close": true
+  "scale": 0.24687957225462984,
+  "close": false
 }

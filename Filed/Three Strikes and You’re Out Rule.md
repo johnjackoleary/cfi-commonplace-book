@@ -5,5 +5,5 @@ A way of recognizing when you're not fit to fly; a way to break the chain of pro
 ***Related To***:
 - [[PAVE]]
 
-#pave #safety
+#safety
  
