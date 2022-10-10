@@ -1,0 +1,3 @@
+```dataview
+LIST FROM "Media"
+```
