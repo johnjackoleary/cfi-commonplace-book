@@ -1,3 +1,0 @@
-```dataview
-LIST FROM "Media"
-```
