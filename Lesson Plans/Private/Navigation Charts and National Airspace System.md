@@ -9,7 +9,7 @@ tags: ppl, lesson
 **Builds On:** N/A
 **Schedule:** Ground 2.0 hours
 **Lesson Elements:**
-1. Required Preflight Action (FAR 91.103)
+1. Required Preflight Action ([[FAR 91.103]])
 	1. Weather reports and forecasts
 	2. Fuel requirements and available alternatives, traffic delays
 	3. Runway lengths, takeoff and landing distance, aircraft performance vs airport elevation, gross weight, wind and temperatures
@@ -17,7 +17,7 @@ tags: ppl, lesson
 3. Chart Supplements (formerly Airports/Facility Directory, still called A/FD in ForeFlight)
 4. Types of airspace -- Class A, B, C, D, E, G
 5. VFR Weather Minimums (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf) and [pyramid form](https://cdn.shopify.com/s/files/1/0519/7057/files/Machado_Airspace_Mem_Aid.jpg?1748080978600201088))
-6. Altitudes for cruise flight, minimum altitudes
+6. Altitudes for cruise flight, minimum altitudes ([[FAR 91.119]])
 
 **Completion Standards:** Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
 
