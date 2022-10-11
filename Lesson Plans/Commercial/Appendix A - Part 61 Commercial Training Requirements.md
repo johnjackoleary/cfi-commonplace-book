@@ -15,6 +15,6 @@ From FAR 61.129(a):
 - [ ] 10 hours solo OR 10 hours PIC with instructor on board, on the areas of operation listed in FAR 61.127(b)(1) that include:
 	- [ ] One cross-country flight of not less than 300 nautical miles total distance, with landings at a minimum of three points, one of which is a straight-line distance of at least 250 nautical miles from the original departure point.
 	- [ ] 5 hours in night VFR conditions with 10 takeoffs and 10 landings (with each landing involving a flight in the traffic pattern) at an airport with an operating control tower.
-	- [ ] <span style="color:red;">(Note: BOTH of the above bullet items must be accomplished either SOLO or WITH INSTRUCTOR. You can’t mix SOLO and DUAL for these.)</span>
+	- [ ] <span style="color:red;">(Note: BOTH of the above bullet items must be accomplished either SOLO or WITH INSTRUCTOR. You can’t mix SOLO and DUAL for these. See [[Grannis 2016 Legal Interpretation]])</span>
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
