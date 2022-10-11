@@ -16,7 +16,7 @@ tags: ppl, lesson
 2. Terminal and Sectional charts, chart symbology
 3. Chart Supplements (formerly Airports/Facility Directory, still called A/FD in ForeFlight)
 4. Types of airspace -- Class A, B, C, D, E, G
-5. VFR Weather Minimums (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf) and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
+5. VFR Weather Minimums (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
 6. Altitudes for cruise flight, minimum altitudes ([[FAR 91.119]])
 
 **Completion Standards:** Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
