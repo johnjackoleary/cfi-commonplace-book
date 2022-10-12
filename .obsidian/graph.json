@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "file:-/^[+]/ ",
+  "collapse-filter": true,
+  "search": "file:-/^[+]/ -path:Template",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.21713154581238758,
+  "scale": 0.23074729207417952,
   "close": false
 }
