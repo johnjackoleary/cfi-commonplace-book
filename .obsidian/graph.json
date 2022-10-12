@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-\"^+ \" -\"^~ \"",
+  "collapse-filter": false,
+  "search": "file:-/^[+]/ ",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24687957225462961,
+  "scale": 0.21713154581238758,
   "close": false
 }
