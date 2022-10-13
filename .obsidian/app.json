@@ -11,7 +11,7 @@
   "foldHeading": false,
   "livePreview": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "media",
+  "attachmentFolderPath": "Media",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox"
 }
