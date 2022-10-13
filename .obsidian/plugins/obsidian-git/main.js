@@ -24162,7 +24162,7 @@ var SimpleGit = class extends GitManager {
     const status2 = await this.git.status();
     const trackingBranch = status2.tracking;
     const currentBranch2 = status2.current;
-    const remoteChangedFiles = (await this.git.diffSummary([currentBranch2, trackingBranch], (err) => this.onError(err))).changed;
+    const remoteChangedFiles = (await this.git.diffSummary([currentBranch2, trackingBranch, "--"], (err) => this.onError(err))).changed;
     this.plugin.setState(PluginState.push);
     if (this.plugin.settings.updateSubmodules) {
       await this.git.env({ ...process.env, "OBSIDIAN_GIT": 1 }).subModule(["foreach", "--recursive", `tracking=$(git for-each-ref --format='%(upstream:short)' "$(git symbolic-ref -q HEAD)"); echo $tracking; if [ ! -z "$(git diff --shortstat $tracking)" ]; then git push; fi`], (err) => this.onError(err));
@@ -24177,7 +24177,7 @@ var SimpleGit = class extends GitManager {
     const status2 = await this.git.status((err) => this.onError(err));
     const trackingBranch = status2.tracking;
     const currentBranch2 = status2.current;
-    const remoteChangedFiles = (await this.git.diffSummary([currentBranch2, trackingBranch])).changed;
+    const remoteChangedFiles = (await this.git.diffSummary([currentBranch2, trackingBranch, "--"])).changed;
     return remoteChangedFiles !== 0;
   }
   async checkRequirements() {
@@ -24472,7 +24472,7 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
       plugin.settings.refreshSourceControl = value;
       plugin.saveSettings();
     }));
-    new import_obsidian7.Setting(containerEl).setName("Source Control View refresh interval").setDesc("Milliseconds two wait after file change before refreshing the Source Control View").addText((toggle) => toggle.setValue(plugin.settings.refreshSourceControlTimer.toString()).setPlaceholder("7000").onChange((value) => {
+    new import_obsidian7.Setting(containerEl).setName("Source Control View refresh interval").setDesc("Milliseconds to wait after file change before refreshing the Source Control View").addText((toggle) => toggle.setValue(plugin.settings.refreshSourceControlTimer.toString()).setPlaceholder("7000").onChange((value) => {
       plugin.settings.refreshSourceControlTimer = Math.max(parseInt(value), 500);
       plugin.saveSettings();
       plugin.setRefreshDebouncer();
@@ -26734,6 +26734,13 @@ function set_data(text2, data) {
 function set_input_value(input, value) {
   input.value = value == null ? "" : value;
 }
+function set_style(node, key2, value, important) {
+  if (value === null) {
+    node.style.removeProperty(key2);
+  } else {
+    node.style.setProperty(key2, value, important ? "important" : "");
+  }
+}
 function toggle_class(element2, name, toggle) {
   element2.classList[toggle ? "add" : "remove"](name);
 }
@@ -27306,7 +27313,7 @@ var DiscardModal = class extends import_obsidian17.Modal {
 
 // src/ui/sidebar/components/fileComponent.svelte
 function add_css(target) {
-  append_styles(target, "svelte-1furf50", "main.svelte-1furf50.svelte-1furf50.svelte-1furf50{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-1furf50 .path.svelte-1furf50.svelte-1furf50{color:var(--text-muted);white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-1furf50:hover .path.svelte-1furf50.svelte-1furf50{color:var(--text-normal);transition:all 200ms}main.svelte-1furf50 .tools.svelte-1furf50.svelte-1furf50{display:flex;align-items:center}main.svelte-1furf50 .tools .type.svelte-1furf50.svelte-1furf50{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-1furf50 .tools .type[data-type=M].svelte-1furf50.svelte-1furf50{color:orange}main.svelte-1furf50 .tools .type[data-type=D].svelte-1furf50.svelte-1furf50{color:red}main.svelte-1furf50 .tools .buttons.svelte-1furf50.svelte-1furf50{display:flex}main.svelte-1furf50 .tools .buttons.svelte-1furf50>.svelte-1furf50{color:var(--text-faint);height:16px;width:16px;margin:0;transition:all 0.2s;border-radius:2px;margin-right:1px}main.svelte-1furf50 .tools .buttons.svelte-1furf50>.svelte-1furf50:hover{color:var(--text-normal);background-color:var(--interactive-accent)}");
+  append_styles(target, "svelte-w0sx5s", "main.svelte-w0sx5s.svelte-w0sx5s.svelte-w0sx5s{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-w0sx5s .path.svelte-w0sx5s.svelte-w0sx5s{color:var(--text-muted);padding-top:2px;padding-left:10px;padding-bottom:2px;white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-w0sx5s.svelte-w0sx5s.svelte-w0sx5s:hover{color:var(--nav-item-color-active);background-color:var(--nav-item-background-active);font-weight:var(--nav-item-weight-active)}main.svelte-w0sx5s .tools.svelte-w0sx5s.svelte-w0sx5s{display:flex;align-items:center}main.svelte-w0sx5s .tools .type.svelte-w0sx5s.svelte-w0sx5s{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-w0sx5s .tools .type[data-type=M].svelte-w0sx5s.svelte-w0sx5s{color:orange}main.svelte-w0sx5s .tools .type[data-type=D].svelte-w0sx5s.svelte-w0sx5s{color:red}main.svelte-w0sx5s .tools .buttons.svelte-w0sx5s.svelte-w0sx5s{display:flex}main.svelte-w0sx5s .tools .buttons.svelte-w0sx5s>.svelte-w0sx5s{color:var(--text-faint);height:16px;width:16px;margin:0;transition:all 0.2s;border-radius:2px;margin-right:1px}main.svelte-w0sx5s .tools .buttons.svelte-w0sx5s>.svelte-w0sx5s:hover{color:var(--text-normal);background-color:var(--interactive-accent)}");
 }
 function create_if_block(ctx) {
   let div;
@@ -27317,7 +27324,7 @@ function create_if_block(ctx) {
       div = element("div");
       attr(div, "data-icon", "go-to-file");
       attr(div, "aria-label", "Open File");
-      attr(div, "class", "svelte-1furf50");
+      attr(div, "class", "svelte-w0sx5s");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -27380,20 +27387,20 @@ function create_fragment(ctx) {
       t4 = space();
       span1 = element("span");
       t5 = text(t5_value);
-      attr(span0, "class", "path svelte-1furf50");
+      attr(span0, "class", "path svelte-w0sx5s");
       attr(span0, "aria-label-position", ctx[3]);
       attr(span0, "aria-label", span0_aria_label_value = ctx[0].vault_path.split("/").last() != ctx[0].vault_path ? ctx[0].vault_path : "");
       attr(div0, "data-icon", "skip-back");
       attr(div0, "aria-label", "Discard");
-      attr(div0, "class", "svelte-1furf50");
+      attr(div0, "class", "svelte-w0sx5s");
       attr(div1, "data-icon", "plus");
       attr(div1, "aria-label", "Stage");
-      attr(div1, "class", "svelte-1furf50");
-      attr(div2, "class", "buttons svelte-1furf50");
-      attr(span1, "class", "type svelte-1furf50");
+      attr(div1, "class", "svelte-w0sx5s");
+      attr(div2, "class", "buttons svelte-w0sx5s");
+      attr(span1, "class", "type svelte-w0sx5s");
       attr(span1, "data-type", span1_data_type_value = ctx[0].working_dir);
-      attr(div3, "class", "tools svelte-1furf50");
-      attr(main, "class", "svelte-1furf50");
+      attr(div3, "class", "tools svelte-w0sx5s");
+      attr(main, "class", "svelte-w0sx5s");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -27583,7 +27590,7 @@ var fileComponent_default = FileComponent;
 init_polyfill_buffer();
 var import_obsidian19 = __toModule(require("obsidian"));
 function add_css2(target) {
-  append_styles(target, "svelte-1pr4yz5", "main.svelte-1pr4yz5.svelte-1pr4yz5{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-1pr4yz5 .path.svelte-1pr4yz5{color:var(--text-muted);white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-1pr4yz5:hover .path.svelte-1pr4yz5{color:var(--text-normal);transition:all 200ms}main.svelte-1pr4yz5 .tools.svelte-1pr4yz5{display:flex;align-items:center}main.svelte-1pr4yz5 .tools .type.svelte-1pr4yz5{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-1pr4yz5 .tools .type[data-type=M].svelte-1pr4yz5{color:orange}main.svelte-1pr4yz5 .tools .type[data-type=D].svelte-1pr4yz5{color:red}");
+  append_styles(target, "svelte-1cbf013", "main.svelte-1cbf013.svelte-1cbf013{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-1cbf013 .path.svelte-1cbf013{color:var(--text-muted);padding-top:2px;padding-left:10px;padding-bottom:2px;white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-1cbf013.svelte-1cbf013:hover{color:var(--nav-item-color-active);background-color:var(--nav-item-background-active);font-weight:var(--nav-item-weight-active)}main.svelte-1cbf013 .tools.svelte-1cbf013{display:flex;align-items:center}main.svelte-1cbf013 .tools .type.svelte-1cbf013{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-1cbf013 .tools .type[data-type=M].svelte-1cbf013{color:orange}main.svelte-1cbf013 .tools .type[data-type=D].svelte-1cbf013{color:red}");
 }
 function create_fragment2(ctx) {
   var _a2;
@@ -27609,13 +27616,13 @@ function create_fragment2(ctx) {
       div = element("div");
       span1 = element("span");
       t2 = text(t2_value);
-      attr(span0, "class", "path svelte-1pr4yz5");
+      attr(span0, "class", "path svelte-1cbf013");
       attr(span0, "aria-label-position", ctx[1]);
       attr(span0, "aria-label", span0_aria_label_value = ctx[0].vault_path.split("/").last() != ctx[0].vault_path ? ctx[0].vault_path : "");
-      attr(span1, "class", "type svelte-1pr4yz5");
+      attr(span1, "class", "type svelte-1cbf013");
       attr(span1, "data-type", span1_data_type_value = ctx[0].working_dir);
-      attr(div, "class", "tools svelte-1pr4yz5");
-      attr(main, "class", "svelte-1pr4yz5");
+      attr(div, "class", "tools svelte-1cbf013");
+      attr(main, "class", "svelte-1cbf013");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -27706,7 +27713,7 @@ var pulledFileComponent_default = PulledFileComponent;
 init_polyfill_buffer();
 var import_obsidian20 = __toModule(require("obsidian"));
 function add_css3(target) {
-  append_styles(target, "svelte-15heedx", "main.svelte-15heedx.svelte-15heedx.svelte-15heedx{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-15heedx .path.svelte-15heedx.svelte-15heedx{color:var(--text-muted);white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-15heedx:hover .path.svelte-15heedx.svelte-15heedx{color:var(--text-normal);transition:all 200ms}main.svelte-15heedx .tools.svelte-15heedx.svelte-15heedx{display:flex;align-items:center}main.svelte-15heedx .tools .type.svelte-15heedx.svelte-15heedx{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-15heedx .tools .type[data-type=M].svelte-15heedx.svelte-15heedx{color:orange}main.svelte-15heedx .tools .type[data-type=D].svelte-15heedx.svelte-15heedx{color:red}main.svelte-15heedx .tools .type[data-type=A].svelte-15heedx.svelte-15heedx{color:yellowgreen}main.svelte-15heedx .tools .type[data-type=R].svelte-15heedx.svelte-15heedx{color:violet}main.svelte-15heedx .tools .buttons.svelte-15heedx.svelte-15heedx{display:flex}main.svelte-15heedx .tools .buttons.svelte-15heedx>.svelte-15heedx{color:var(--text-faint);height:16px;width:16px;margin:0;transition:all 0.2s;border-radius:2px;margin-right:1px}main.svelte-15heedx .tools .buttons.svelte-15heedx>.svelte-15heedx:hover{color:var(--text-normal);background-color:var(--interactive-accent)}");
+  append_styles(target, "svelte-y7l3xn", "main.svelte-y7l3xn.svelte-y7l3xn.svelte-y7l3xn{cursor:pointer;background-color:var(--background-secondary);border-radius:4px;width:98%;display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:2px}main.svelte-y7l3xn .path.svelte-y7l3xn.svelte-y7l3xn{color:var(--text-muted);padding-top:2px;padding-left:10px;padding-bottom:2px;white-space:nowrap;max-width:75%;overflow:hidden;text-overflow:ellipsis}main.svelte-y7l3xn.svelte-y7l3xn.svelte-y7l3xn:hover{color:var(--nav-item-color-active);background-color:var(--nav-item-background-active);font-weight:var(--nav-item-weight-active)}main.svelte-y7l3xn .tools.svelte-y7l3xn.svelte-y7l3xn{display:flex;align-items:center}main.svelte-y7l3xn .tools .type.svelte-y7l3xn.svelte-y7l3xn{height:16px;width:16px;margin:0;display:flex;align-items:center;justify-content:center}main.svelte-y7l3xn .tools .type[data-type=M].svelte-y7l3xn.svelte-y7l3xn{color:orange}main.svelte-y7l3xn .tools .type[data-type=D].svelte-y7l3xn.svelte-y7l3xn{color:red}main.svelte-y7l3xn .tools .type[data-type=A].svelte-y7l3xn.svelte-y7l3xn{color:yellowgreen}main.svelte-y7l3xn .tools .type[data-type=R].svelte-y7l3xn.svelte-y7l3xn{color:violet}main.svelte-y7l3xn .tools .buttons.svelte-y7l3xn.svelte-y7l3xn{display:flex}main.svelte-y7l3xn .tools .buttons.svelte-y7l3xn>.svelte-y7l3xn{color:var(--text-faint);height:16px;width:16px;margin:0;transition:all 0.2s;border-radius:2px;margin-right:1px}main.svelte-y7l3xn .tools .buttons.svelte-y7l3xn>.svelte-y7l3xn:hover{color:var(--text-normal);background-color:var(--interactive-accent)}");
 }
 function create_if_block2(ctx) {
   let div;
@@ -27717,7 +27724,7 @@ function create_if_block2(ctx) {
       div = element("div");
       attr(div, "data-icon", "go-to-file");
       attr(div, "aria-label", "Open File");
-      attr(div, "class", "svelte-15heedx");
+      attr(div, "class", "svelte-y7l3xn");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -27773,17 +27780,17 @@ function create_fragment3(ctx) {
       t3 = space();
       span1 = element("span");
       t4 = text(t4_value);
-      attr(span0, "class", "path svelte-15heedx");
+      attr(span0, "class", "path svelte-y7l3xn");
       attr(span0, "aria-label-position", ctx[4]);
       attr(span0, "aria-label", span0_aria_label_value = ctx[3].split("/").last() != ctx[3] ? ctx[3] : "");
       attr(div0, "data-icon", "minus");
       attr(div0, "aria-label", "Unstage");
-      attr(div0, "class", "svelte-15heedx");
-      attr(div1, "class", "buttons svelte-15heedx");
-      attr(span1, "class", "type svelte-15heedx");
+      attr(div0, "class", "svelte-y7l3xn");
+      attr(div1, "class", "buttons svelte-y7l3xn");
+      attr(span1, "class", "type svelte-y7l3xn");
       attr(span1, "data-type", span1_data_type_value = ctx[0].index);
-      attr(div2, "class", "tools svelte-15heedx");
-      attr(main, "class", "svelte-15heedx");
+      attr(div2, "class", "tools svelte-y7l3xn");
+      attr(main, "class", "svelte-y7l3xn");
     },
     m(target, anchor) {
       insert(target, main, anchor);
@@ -27947,7 +27954,7 @@ var stagedFileComponent_default = StagedFileComponent;
 // src/ui/sidebar/components/treeComponent.svelte
 init_polyfill_buffer();
 function add_css4(target) {
-  append_styles(target, "svelte-pgmdei", '@charset "UTF-8";main.svelte-pgmdei.svelte-pgmdei:not(.topLevel){margin-left:5px}.opener.svelte-pgmdei.svelte-pgmdei{display:flex;justify-content:space-between;align-items:center;padding:0 4px}.opener.svelte-pgmdei .collapse-icon.svelte-pgmdei::after{content:"\xA0"}.opener.svelte-pgmdei div.svelte-pgmdei{display:flex}.opener.svelte-pgmdei svg.svelte-pgmdei{transform:rotate(-90deg)}.opener.open.svelte-pgmdei svg.svelte-pgmdei{transform:rotate(0)}.opener.svelte-pgmdei span.svelte-pgmdei{font-size:0.8rem}.file-view.svelte-pgmdei.svelte-pgmdei{margin-left:5px}');
+  append_styles(target, "svelte-4ks1hq", '@charset "UTF-8";main.svelte-4ks1hq.svelte-4ks1hq:not(.topLevel){margin-left:5px}.opener.svelte-4ks1hq.svelte-4ks1hq{display:flex;justify-content:space-between;align-items:center;padding:0 4px}.opener.svelte-4ks1hq .collapse-icon.svelte-4ks1hq::after{content:"\xA0"}.opener.svelte-4ks1hq div.svelte-4ks1hq{display:flex}.opener.svelte-4ks1hq svg.svelte-4ks1hq{transform:rotate(-90deg)}.opener.open.svelte-4ks1hq svg.svelte-4ks1hq{transform:rotate(0)}.opener.svelte-4ks1hq span.svelte-4ks1hq{font-size:0.8rem}.file-view.svelte-4ks1hq.svelte-4ks1hq{margin-left:9px}');
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -27976,7 +27983,7 @@ function create_else_block(ctx) {
       div2 = element("div");
       div1 = element("div");
       div0 = element("div");
-      div0.innerHTML = `<svg viewBox="0 0 100 100" class="right-triangle svelte-pgmdei" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg>`;
+      div0.innerHTML = `<svg viewBox="0 0 100 100" class="right-triangle svelte-4ks1hq" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg>`;
       t0 = space();
       span = element("span");
       t1 = text(t1_value);
@@ -27984,11 +27991,14 @@ function create_else_block(ctx) {
       if (if_block)
         if_block.c();
       if_block_anchor = empty();
-      attr(div0, "class", "tree-item-icon collapse-icon svelte-pgmdei");
+      attr(div0, "class", "tree-item-icon collapse-icon svelte-4ks1hq");
       attr(div0, "style", "");
-      attr(span, "class", "svelte-pgmdei");
-      attr(div1, "class", "svelte-pgmdei");
-      attr(div2, "class", "opener tree-item-self is-clickable svelte-pgmdei");
+      attr(span, "class", "svelte-4ks1hq");
+      set_style(div1, "padding-left", "10px");
+      set_style(div1, "padding-bottom", "2px");
+      set_style(div1, "padding-top", "2px");
+      attr(div1, "class", "svelte-4ks1hq");
+      attr(div2, "class", "opener tree-item-self is-clickable svelte-4ks1hq");
       toggle_class(div2, "open", !ctx[5][ctx[7].title]);
     },
     m(target, anchor) {
@@ -28085,7 +28095,7 @@ function create_if_block3(ctx) {
       if (if_block)
         if_block.c();
       t = space();
-      attr(div, "class", "file-view svelte-pgmdei");
+      attr(div, "class", "file-view svelte-4ks1hq");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -28163,7 +28173,7 @@ function create_if_block_4(ctx) {
       div = element("div");
       create_component(treecomponent.$$.fragment);
       t = space();
-      attr(div, "class", "file-view svelte-pgmdei");
+      attr(div, "class", "file-view svelte-4ks1hq");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -28420,7 +28430,7 @@ function create_fragment4(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(main, "class", "svelte-pgmdei");
+      attr(main, "class", "svelte-4ks1hq");
       toggle_class(main, "topLevel", ctx[4]);
     },
     m(target, anchor) {
@@ -28518,7 +28528,7 @@ var treeComponent_default = TreeComponent;
 
 // src/ui/sidebar/gitView.svelte
 function add_css5(target) {
-  append_styles(target, "svelte-1f0ksxd", '@charset "UTF-8";.commit-msg.svelte-1f0ksxd.svelte-1f0ksxd{width:100%;min-height:1.9em;height:1.9em;resize:vertical;padding:2px 5px;background-color:var(--background-modifier-form-field)}.search-input-container.svelte-1f0ksxd.svelte-1f0ksxd{width:100%}.file-view.svelte-1f0ksxd.svelte-1f0ksxd{margin-left:5px}.opener.svelte-1f0ksxd.svelte-1f0ksxd{display:flex;justify-content:space-between;align-items:center;padding:0 4px}.opener.svelte-1f0ksxd .collapse-icon.svelte-1f0ksxd::after{content:"\xA0"}.opener.svelte-1f0ksxd div.svelte-1f0ksxd{display:flex}.opener.svelte-1f0ksxd svg.svelte-1f0ksxd{transform:rotate(-90deg)}.opener.open.svelte-1f0ksxd svg.svelte-1f0ksxd{transform:rotate(0)}.git-view-body.svelte-1f0ksxd.svelte-1f0ksxd{overflow-y:auto;padding-left:10px}main.svelte-1f0ksxd.svelte-1f0ksxd{display:flex;flex-direction:column;height:100%;overflow-y:hidden}.nav-buttons-container.svelte-1f0ksxd.svelte-1f0ksxd{justify-content:space-between}.group.svelte-1f0ksxd.svelte-1f0ksxd{display:flex}');
+  append_styles(target, "svelte-1nrj6yk", '@charset "UTF-8";.commit-msg.svelte-1nrj6yk.svelte-1nrj6yk{width:100%;min-height:33px;height:30px;resize:vertical;padding:7px 5px;background-color:var(--background-modifier-form-field)}.file-view.svelte-1nrj6yk.svelte-1nrj6yk{margin-left:5px}.opener.svelte-1nrj6yk.svelte-1nrj6yk{padding-left:10px;padding-bottom:2px;padding-top:2px;display:flex;justify-content:space-between;align-items:center}.opener.svelte-1nrj6yk .collapse-icon.svelte-1nrj6yk::after{content:"\xA0"}.opener.svelte-1nrj6yk div.svelte-1nrj6yk{display:flex}.opener.svelte-1nrj6yk svg.svelte-1nrj6yk{transform:rotate(-90deg)}.opener.open.svelte-1nrj6yk svg.svelte-1nrj6yk{transform:rotate(0)}.git-view-body.svelte-1nrj6yk.svelte-1nrj6yk{overflow-y:auto;padding-left:10px}main.svelte-1nrj6yk.svelte-1nrj6yk{display:flex;flex-direction:column;height:100%;overflow-y:hidden}.nav-buttons-container.svelte-1nrj6yk.svelte-1nrj6yk{justify-content:space-between}.group.svelte-1nrj6yk.svelte-1nrj6yk{display:flex}');
 }
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -28593,7 +28603,7 @@ function create_if_block4(ctx) {
       div3 = element("div");
       div2 = element("div");
       div1 = element("div");
-      div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1f0ksxd" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1f0ksxd" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
+      div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1nrj6yk" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1nrj6yk" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
 						<span>Staged Changes</span>`;
       t2 = space();
       span1 = element("span");
@@ -28605,7 +28615,7 @@ function create_if_block4(ctx) {
       div7 = element("div");
       div6 = element("div");
       div5 = element("div");
-      div5.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1f0ksxd" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1f0ksxd" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
+      div5.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1nrj6yk" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1nrj6yk" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
 						<span>Changes</span>`;
       t8 = space();
       span3 = element("span");
@@ -28617,14 +28627,14 @@ function create_if_block4(ctx) {
       if (if_block2)
         if_block2.c();
       if_block2_anchor = empty();
-      attr(div1, "class", "svelte-1f0ksxd");
+      attr(div1, "class", "svelte-1nrj6yk");
       attr(span1, "class", "tree-item-flair");
-      attr(div2, "class", "opener tree-item-self is-clickable svelte-1f0ksxd");
+      attr(div2, "class", "opener tree-item-self is-clickable svelte-1nrj6yk");
       toggle_class(div2, "open", ctx[13]);
       attr(div3, "class", "staged");
-      attr(div5, "class", "svelte-1f0ksxd");
+      attr(div5, "class", "svelte-1nrj6yk");
       attr(span3, "class", "tree-item-flair");
-      attr(div6, "class", "opener tree-item-self is-clickable svelte-1f0ksxd");
+      attr(div6, "class", "opener tree-item-self is-clickable svelte-1nrj6yk");
       toggle_class(div6, "open", ctx[12]);
       attr(div7, "class", "changes");
     },
@@ -28785,7 +28795,7 @@ function create_if_block_6(ctx) {
     c() {
       div = element("div");
       if_block.c();
-      attr(div, "class", "file-view svelte-1f0ksxd");
+      attr(div, "class", "file-view svelte-1nrj6yk");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -29022,7 +29032,7 @@ function create_if_block_42(ctx) {
     c() {
       div = element("div");
       if_block.c();
-      attr(div, "class", "file-view svelte-1f0ksxd");
+      attr(div, "class", "file-view svelte-1nrj6yk");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -29259,7 +29269,7 @@ function create_if_block_12(ctx) {
       div3 = element("div");
       div2 = element("div");
       div1 = element("div");
-      div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1f0ksxd" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1f0ksxd" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
+      div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-1nrj6yk" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-1nrj6yk" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
 							<span>Recently Pulled Changes</span>`;
       t2 = space();
       span1 = element("span");
@@ -29267,9 +29277,9 @@ function create_if_block_12(ctx) {
       t4 = space();
       if (if_block)
         if_block.c();
-      attr(div1, "class", "svelte-1f0ksxd");
+      attr(div1, "class", "svelte-1nrj6yk");
       attr(span1, "class", "tree-item-flair");
-      attr(div2, "class", "opener tree-item-self is-clickable svelte-1f0ksxd");
+      attr(div2, "class", "opener tree-item-self is-clickable svelte-1nrj6yk");
       toggle_class(div2, "open", ctx[14]);
       attr(div3, "class", "pulled");
     },
@@ -29354,7 +29364,7 @@ function create_if_block_22(ctx) {
     c() {
       div = element("div");
       if_block.c();
-      attr(div, "class", "file-view svelte-1f0ksxd");
+      attr(div, "class", "file-view svelte-1nrj6yk");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -29573,6 +29583,7 @@ function create_each_block2(ctx) {
 function create_fragment5(ctx) {
   let main;
   let div9;
+  let div8;
   let div6;
   let div0;
   let t0;
@@ -29588,11 +29599,11 @@ function create_fragment5(ctx) {
   let t5;
   let div7;
   let t6;
-  let div8;
+  let div10;
   let textarea;
   let t7;
   let t8;
-  let div10;
+  let div11;
   let current;
   let mounted;
   let dispose;
@@ -29602,6 +29613,7 @@ function create_fragment5(ctx) {
     c() {
       main = element("main");
       div9 = element("div");
+      div8 = element("div");
       div6 = element("div");
       div0 = element("div");
       t0 = space();
@@ -29617,57 +29629,59 @@ function create_fragment5(ctx) {
       t5 = space();
       div7 = element("div");
       t6 = space();
-      div8 = element("div");
+      div10 = element("div");
       textarea = element("textarea");
       t7 = space();
       if (if_block0)
         if_block0.c();
       t8 = space();
-      div10 = element("div");
+      div11 = element("div");
       if (if_block1)
         if_block1.c();
       attr(div0, "id", "commit-btn");
       attr(div0, "data-icon", "check");
-      attr(div0, "class", "nav-action-button");
+      attr(div0, "class", "clickable-icon nav-action-button");
       attr(div0, "aria-label", "Commit");
       attr(div1, "id", "stage-all");
-      attr(div1, "class", "nav-action-button");
+      attr(div1, "class", "clickable-icon nav-action-button");
       attr(div1, "data-icon", "plus-circle");
       attr(div1, "aria-label", "Stage all");
       attr(div2, "id", "unstage-all");
-      attr(div2, "class", "nav-action-button");
+      attr(div2, "class", "clickable-icon nav-action-button");
       attr(div2, "data-icon", "minus-circle");
       attr(div2, "aria-label", "Unstage all");
       attr(div3, "id", "push");
-      attr(div3, "class", "nav-action-button");
+      attr(div3, "class", "clickable-icon nav-action-button");
       attr(div3, "data-icon", "upload");
       attr(div3, "aria-label", "Push");
       attr(div4, "id", "pull");
-      attr(div4, "class", "nav-action-button");
+      attr(div4, "class", "clickable-icon nav-action-button");
       attr(div4, "data-icon", "download");
       attr(div4, "aria-label", "Pull");
       attr(div5, "id", "layoutChange");
-      attr(div5, "class", "nav-action-button");
+      attr(div5, "class", "clickable-icon nav-action-button");
       attr(div5, "aria-label", "Change Layout");
-      attr(div6, "class", "group svelte-1f0ksxd");
+      attr(div6, "class", "group svelte-1nrj6yk");
       attr(div7, "id", "refresh");
-      attr(div7, "class", "nav-action-button");
+      attr(div7, "class", "clickable-icon nav-action-button");
       attr(div7, "data-icon", "refresh-cw");
       attr(div7, "aria-label", "Refresh");
       toggle_class(div7, "loading", ctx[4]);
-      attr(textarea, "class", "commit-msg svelte-1f0ksxd");
+      attr(div8, "class", "nav-buttons-container svelte-1nrj6yk");
+      attr(div9, "class", "nav-header");
+      attr(textarea, "class", "commit-msg svelte-1nrj6yk");
       attr(textarea, "type", "text");
       attr(textarea, "spellcheck", "true");
       attr(textarea, "placeholder", "Commit Message");
-      attr(div8, "class", "search-input-container svelte-1f0ksxd");
-      attr(div9, "class", "nav-buttons-container svelte-1f0ksxd");
-      attr(div10, "class", "git-view-body svelte-1f0ksxd");
-      attr(main, "class", "svelte-1f0ksxd");
+      attr(div10, "class", "search-input-container");
+      attr(div11, "class", "git-view-body svelte-1nrj6yk");
+      attr(main, "class", "svelte-1nrj6yk");
     },
     m(target, anchor) {
       insert(target, main, anchor);
       append2(main, div9);
-      append2(div9, div6);
+      append2(div9, div8);
+      append2(div8, div6);
       append2(div6, div0);
       ctx[20](div0);
       append2(div6, t0);
@@ -29685,20 +29699,20 @@ function create_fragment5(ctx) {
       append2(div6, t4);
       append2(div6, div5);
       ctx[25](div5);
-      append2(div9, t5);
-      append2(div9, div7);
+      append2(div8, t5);
+      append2(div8, div7);
       ctx[27](div7);
-      append2(div9, t6);
-      append2(div9, div8);
-      append2(div8, textarea);
-      set_input_value(textarea, ctx[7]);
-      append2(div8, t7);
-      if (if_block0)
-        if_block0.m(div8, null);
-      append2(main, t8);
+      append2(main, t6);
       append2(main, div10);
+      append2(div10, textarea);
+      set_input_value(textarea, ctx[7]);
+      append2(div10, t7);
+      if (if_block0)
+        if_block0.m(div10, null);
+      append2(main, t8);
+      append2(main, div11);
       if (if_block1)
-        if_block1.m(div10, null);
+        if_block1.m(div11, null);
       current = true;
       if (!mounted) {
         dispose = [
@@ -29727,7 +29741,7 @@ function create_fragment5(ctx) {
         } else {
           if_block0 = create_if_block_8(ctx2);
           if_block0.c();
-          if_block0.m(div8, null);
+          if_block0.m(div10, null);
         }
       } else if (if_block0) {
         if_block0.d(1);
@@ -29743,7 +29757,7 @@ function create_fragment5(ctx) {
           if_block1 = create_if_block4(ctx2);
           if_block1.c();
           transition_in(if_block1, 1);
-          if_block1.m(div10, null);
+          if_block1.m(div11, null);
         }
       } else if (if_block1) {
         group_outros();
@@ -30118,12 +30132,16 @@ var ObsidianGit = class extends import_obsidian23.Plugin {
       name: "Open source control view",
       callback: async () => {
         const leafs = this.app.workspace.getLeavesOfType(GIT_VIEW_CONFIG.type);
+        let leaf;
         if (leafs.length === 0) {
-          await this.app.workspace.getRightLeaf(false).setViewState({
+          leaf = this.app.workspace.getRightLeaf(false);
+          await leaf.setViewState({
             type: GIT_VIEW_CONFIG.type
           });
+        } else {
+          leaf = leafs.first();
         }
-        this.app.workspace.revealLeaf(leafs.first());
+        this.app.workspace.revealLeaf(leaf);
         dispatchEvent(new CustomEvent("git-refresh"));
       }
     });

@@ -114,7 +114,7 @@ tags: ppl
 
 ----
 
-![[Review and Checkride Preparation]]
+![[Lesson Plans/Private/Review and Checkride Preparation]]
 
 ----
 

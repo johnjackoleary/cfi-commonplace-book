@@ -40,7 +40,7 @@ $\quad$[[Emergency Flight by Reference to Instruments - Recovery from Unusual Fl
 #### Stage III: Night Flying and Checkride Preparation
 $\quad$[[Night Operations and Night Cross Country]]
 $\quad$[[Emergency Operations]]
-$\quad$[[Review and Checkride Preparation]]
+$\quad$[[Lesson Plans/Private/Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)
 
