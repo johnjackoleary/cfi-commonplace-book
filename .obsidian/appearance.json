@@ -4,5 +4,6 @@
     "clean-embeds-all"
   ],
   "baseFontSize": 18,
-  "theme": "system"
+  "theme": "system",
+  "accentColor": ""
 }
