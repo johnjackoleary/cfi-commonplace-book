@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Radio Communications from Steve.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Radio Communications from Steve.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Radio Communications from Steve.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Radio Communications from Steve.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "ae5640d7b8ea5aae",
   "lastOpenFiles": [
+    "Inbox/Radio Communications from Steve.md",
     "Inbox/Quick note from mountain checkout.md",
     "Filed/LHAND.md",
     "Inbox/If you haven’t reached 70% of rotation by 50% of the runway, you should abort.md",
@@ -176,7 +177,6 @@
     "Filed/FLAPS.md",
     "Filed/A GOOSE A CAT.md",
     "Filed/Aircraft Documents to be Legal.md",
-    "Filed/CRAFT.md",
-    "+ Todo.md"
+    "Filed/CRAFT.md"
   ]
 }
