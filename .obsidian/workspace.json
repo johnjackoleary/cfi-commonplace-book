@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dae67a150e8d96c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Mnemonics To File.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Mnemonics To File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Inbox/Mnemonics To File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Inbox/Mnemonics To File.md"
               }
             }
           },
@@ -166,8 +178,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae5640d7b8ea5aae",
+  "active": "dae67a150e8d96c0",
   "lastOpenFiles": [
+    "README.md",
     "Inbox/Radio Communications from Steve.md",
     "Inbox/Quick note from mountain checkout.md",
     "Filed/LHAND.md",
@@ -176,7 +189,6 @@
     "Filed/APES.md",
     "Filed/FLAPS.md",
     "Filed/A GOOSE A CAT.md",
-    "Filed/Aircraft Documents to be Legal.md",
-    "Filed/CRAFT.md"
+    "Filed/Aircraft Documents to be Legal.md"
   ]
 }
