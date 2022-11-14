@@ -30,21 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "dae67a150e8d96c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Mnemonics To File.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Mnemonics To File.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Mnemonics To File.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Mnemonics To File.md"
+                "file": "README.md"
               }
             }
           },
@@ -178,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dae67a150e8d96c0",
+  "active": "ae5640d7b8ea5aae",
   "lastOpenFiles": [
+    "Inbox/Mnemonics To File.md",
     "README.md",
     "Inbox/Radio Communications from Steve.md",
     "Inbox/Quick note from mountain checkout.md",
@@ -188,7 +177,6 @@
     "Sources/The Bias Bundle Bomb.md",
     "Filed/APES.md",
     "Filed/FLAPS.md",
-    "Filed/A GOOSE A CAT.md",
-    "Filed/Aircraft Documents to be Legal.md"
+    "Filed/A GOOSE A CAT.md"
   ]
 }
