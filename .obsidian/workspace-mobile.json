@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2022-10-20 210230.md",
+                "file": "Filed/Principles (Laws) of Learning.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "profess",
+            "query": "reripe",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "c4cf76a670f8b07d",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/2022-10-20 210230.md",
+            "file": "Filed/Principles (Laws) of Learning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/2022-10-20 210230.md",
+            "file": "Filed/Principles (Laws) of Learning.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/2022-10-20 210230.md"
+            "file": "Filed/Principles (Laws) of Learning.md"
           }
         }
       },
@@ -129,20 +129,17 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "1febc00b08cf4d18",
   "lastOpenFiles": [
+    "Inbox/Trivial pursuit for aviation studying for new students prepping for stidies.md",
+    "Filed/Principles (Laws) of Learning.md",
+    "Inbox/2022-10-20 210230.md",
     "Filed/Best to Fly PAPI or VASI into landing flare when available.md",
     "Filed/Definition of Professionalism.md",
     "Filed/Characteristics of a Professional.md",
     "Filed/Defense Mechanisms.md",
     "Filed/Learning New Skills.md",
     "Sources/Air Trek North FOI Flashcards.md",
-    "Inbox/2022-09-23 092451.md",
-    "lesson-plans/commercial/Starting Point.md",
-    "lesson-plans/commercial/Overview.md",
-    "projects/blog/Blog Topic Timelines.md"
+    "Inbox/2022-09-23 092451.md"
   ]
 }
