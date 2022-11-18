@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "ae5640d7b8ea5aae",
   "lastOpenFiles": [
-    "Inbox/Mnemonics To File.md",
+    "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Four Fundamentals.md",
+    "Lesson Plans/Private/~ Complete PPL Syllabus.md",
+    "+ Todo.md",
+    "+ Quotes.md",
+    "+ Glossary.md",
+    "Lesson Plans/Instrument/Review and Checkride Preparation.md",
     "README.md",
+    "Inbox/Mnemonics To File.md",
     "Inbox/Radio Communications from Steve.md",
-    "Inbox/Quick note from mountain checkout.md",
-    "Filed/LHAND.md",
-    "Inbox/If you haven’t reached 70% of rotation by 50% of the runway, you should abort.md",
-    "Sources/The Bias Bundle Bomb.md",
-    "Filed/APES.md",
-    "Filed/FLAPS.md",
-    "Filed/A GOOSE A CAT.md"
+    "Inbox/Quick note from mountain checkout.md"
   ]
 }
