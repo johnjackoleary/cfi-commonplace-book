@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
+                "file": "Inbox/2022-11-18 103924.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
+                "file": "Inbox/2022-11-18 103924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
+                "file": "Inbox/2022-11-18 103924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md"
+                "file": "Inbox/2022-11-18 103924.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "ae5640d7b8ea5aae",
   "lastOpenFiles": [
+    "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md",
     "Lesson Plans/Private/Emergency Flight by Reference to Instruments - Four Fundamentals.md",
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
     "+ Todo.md",
@@ -176,7 +177,6 @@
     "Lesson Plans/Instrument/Review and Checkride Preparation.md",
     "README.md",
     "Inbox/Mnemonics To File.md",
-    "Inbox/Radio Communications from Steve.md",
-    "Inbox/Quick note from mountain checkout.md"
+    "Inbox/Radio Communications from Steve.md"
   ]
 }
