@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sources/AC 61-67C.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2bfc09da1d377bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Source Template.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Source Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Source Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Source Template.md"
               }
             }
           },
@@ -166,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae5640d7b8ea5aae",
+  "active": "2bfc09da1d377bed",
   "lastOpenFiles": [
-    "Inbox/Mnemonics To File.md",
-    "README.md",
-    "Inbox/Radio Communications from Steve.md",
-    "Inbox/Quick note from mountain checkout.md",
-    "Filed/LHAND.md",
+    "Templates/Private Lesson Template.md",
+    "Templates/Reading List Template.md",
+    "Inbox/+ MOC.md",
+    "Filed/Untitled.md",
+    "Sources/AC 61-67C.md",
+    "Sources/+ Table of Contents.md",
+    "Sources/AC 61-65H.md",
+    "Inbox/2022-09-28 154140.md",
     "Inbox/If you haven’t reached 70% of rotation by 50% of the runway, you should abort.md",
-    "Sources/The Bias Bundle Bomb.md",
-    "Filed/APES.md",
-    "Filed/FLAPS.md",
-    "Filed/A GOOSE A CAT.md"
+    "Templates/Author Template.md"
   ]
 }

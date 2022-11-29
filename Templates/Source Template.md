@@ -2,8 +2,13 @@
 ***Description***      :: `= this.link`
 ***Author*** :: 
 
-***Key Quotes***:
+#### Key Quotes
 * 
+
+#### Relevant Notes
+```dataview
+LIST WHERE contains(this.file.inlinks, file.link)
+```
 
 #source
 
