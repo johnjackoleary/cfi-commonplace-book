@@ -30,21 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "2bfc09da1d377bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Source Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Source Template.md",
+                "file": "Sources/AC 61-67C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Source Template.md",
+                "file": "Sources/AC 61-67C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Source Template.md"
+                "file": "Sources/AC 61-67C.md"
               }
             }
           },
@@ -178,8 +166,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bfc09da1d377bed",
+  "active": "ae5640d7b8ea5aae",
   "lastOpenFiles": [
+    "Templates/Source Template.md",
     "Templates/Private Lesson Template.md",
     "Templates/Reading List Template.md",
     "Inbox/+ MOC.md",
@@ -188,7 +177,6 @@
     "Sources/+ Table of Contents.md",
     "Sources/AC 61-65H.md",
     "Inbox/2022-09-28 154140.md",
-    "Inbox/If you haven’t reached 70% of rotation by 50% of the runway, you should abort.md",
-    "Templates/Author Template.md"
+    "Inbox/If you haven’t reached 70% of rotation by 50% of the runway, you should abort.md"
   ]
 }
