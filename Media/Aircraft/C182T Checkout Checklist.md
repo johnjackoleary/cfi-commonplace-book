@@ -1,4 +1,6 @@
-While not the only way, here is how I prefer to checkout a new aircraft.
+Based on [[Suggested Aircraft Checkout Process]]
+
+---
 
 ### Ground Work Before First Flight
 - [ ] Read [[POH]] for this aircraft and its avionics
