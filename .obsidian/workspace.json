@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/AC 61-67C.md",
+                "file": "Media/Aircraft/C182T/C182T Checkout Checklist.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c5ea498963a3a299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Aircraft/C182T/C182T GAIT.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "000b0c3b8bfd14ea",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/AC 61-67C.md",
+                "file": "Media/Aircraft/C182T/C182T GAIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/AC 61-67C.md",
+                "file": "Media/Aircraft/C182T/C182T GAIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/AC 61-67C.md"
+                "file": "Media/Aircraft/C182T/C182T GAIT.md"
               }
             }
           },
@@ -163,20 +176,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ae5640d7b8ea5aae",
+  "active": "c5ea498963a3a299",
   "lastOpenFiles": [
+    "Media/Aircraft/C172N/C172N GAIT.md",
+    "Media/Aircraft/C182T/C182T GAIT.md",
+    "Media/Aircraft/C182T/C182T Checkout Checklist.md",
+    "Sources/AC 61-67C.md",
     "Templates/Source Template.md",
     "Templates/Private Lesson Template.md",
     "Templates/Reading List Template.md",
     "Inbox/+ MOC.md",
     "Filed/Untitled.md",
-    "Sources/AC 61-67C.md",
-    "Sources/+ Table of Contents.md",
-    "Sources/AC 61-65H.md",
-    "Inbox/2022-09-28 154140.md",
-    "Inbox/If you haven’t reached 70% of rotation by 50% of the runway, you should abort.md"
+    "Sources/+ Table of Contents.md"
   ]
 }
