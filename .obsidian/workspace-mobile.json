@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filed/Principles (Laws) of Learning.md",
+                "file": "Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "82e1f87b927d67ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filed/FCCGUMPS.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "reripe",
+            "query": "fccg",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filed/Principles (Laws) of Learning.md",
+            "file": "Filed/FCCGUMPS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filed/Principles (Laws) of Learning.md",
+            "file": "Filed/FCCGUMPS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filed/Principles (Laws) of Learning.md"
+            "file": "Filed/FCCGUMPS.md"
           }
         }
       },
@@ -129,17 +142,17 @@
     ],
     "currentTab": 0
   },
-  "active": "1febc00b08cf4d18",
+  "active": "82e1f87b927d67ca",
   "lastOpenFiles": [
-    "Inbox/Trivial pursuit for aviation studying for new students prepping for stidies.md",
+    "Media/Aircraft/C182T Checkout Checklist.md",
+    "Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md",
     "Filed/Principles (Laws) of Learning.md",
+    "Inbox/Trivial pursuit for aviation studying for new students prepping for stidies.md",
     "Inbox/2022-10-20 210230.md",
     "Filed/Best to Fly PAPI or VASI into landing flare when available.md",
     "Filed/Definition of Professionalism.md",
     "Filed/Characteristics of a Professional.md",
     "Filed/Defense Mechanisms.md",
-    "Filed/Learning New Skills.md",
-    "Sources/Air Trek North FOI Flashcards.md",
-    "Inbox/2022-09-23 092451.md"
+    "Filed/Learning New Skills.md"
   ]
 }
