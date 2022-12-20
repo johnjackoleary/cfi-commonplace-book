@@ -10,13 +10,13 @@ tags: [gait]
 | V<sub>X</sub>        |           |    TBD    | max      |  2400   | 65            |      TBD      |
 | 🛫 V<sub>Y</sub>     |           |    TBD    | max      |  2400   | 80            |      TBD      |
 | 🛫 V<sub>Climb</sub> |           |    TBD    | 23       |  2400   | 90            |      TBD      |
-| Cruise               |           |    TBD    | 24       |  2400   |               |       0       |
+| Cruise               |           |    TBD    | 23       |  2300   |      |       0       |
 | Cruise Descent       |           |    TBD    |          |   TBD   |               |     \-500     |
 | 🛬 Downwind          |           |    TBD    | 16       |   TBD   | 90            |       0       |
 | 🛬 Abeam \#s         | 10°       |    TBD    | 13       |   TBD   | 80            |      TBD      |
 | 🛬 Base              | 20°       |    TBD    | 13       |   TBD   | 70            |      TBD      |
-| 🛬 Final             | 40°       |    TBD    |          | as req  | 65            |      TBD      |
-| Short                |           |    TBD    |          | as req  | 60            |      TBD      |
+| 🛬 Final             | Full      |    TBD    | 13       | as req  | 65            |      TBD      |
+| Short                | Full      |    TBD    | 13       | as req  | 60            |      TBD      |
 
 
 | Topic         | Details                              |
