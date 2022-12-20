@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Aircraft/DA40/DA40 XLS GAIT.md",
+                "file": "Media/Aircraft/C172S/C172S GAIT.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "000b0c3b8bfd14ea",
@@ -187,13 +188,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c5ea498963a3a299",
   "lastOpenFiles": [
-    "Media/Aircraft/DA40/DA40 XLS GAIT.md",
-    "Media/Aircraft/C182T/C182T GAIT.md",
     "Media/Aircraft/C172S/C172S GAIT.md",
+    "Media/Aircraft/C182T/C182T GAIT.md",
+    "Media/Aircraft/DA40/DA40 XLS GAIT.md",
     "Media/Aircraft/C172N/C172N GAIT.md",
     "Media/Aircraft/C182T/C182T Checkout Checklist.md",
     "Sources/AC 61-67C.md",
