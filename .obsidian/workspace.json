@@ -54,9 +54,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "947e410dee280419",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Aircraft/C182T/C182T GAIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Aircraft/C182T/C182T GAIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/Aircraft/C182T/C182T GAIT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,10 +195,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5ea498963a3a299",
+  "active": "947e410dee280419",
   "lastOpenFiles": [
-    "Inbox/Don't crush the egg.md",
     "Media/Aircraft/C182T/C182T GAIT.md",
+    "Inbox/Don't crush the egg.md",
     "Media/Aircraft/C172S/C172S GAIT.md",
     "Media/Aircraft/DA40/DA40 XLS GAIT.md",
     "Media/Aircraft/C172N/C172N GAIT.md",
