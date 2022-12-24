@@ -62,9 +62,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ba45c5b9406a1f43",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -207,7 +217,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "947e410dee280419",
+  "active": "ba45c5b9406a1f43",
   "lastOpenFiles": [
     "Media/Aircraft/C182T/C182T GAIT.md",
     "Inbox/Don't crush the egg.md",
