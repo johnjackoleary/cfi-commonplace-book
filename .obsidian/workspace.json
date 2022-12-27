@@ -67,9 +67,11 @@
             "id": "ba45c5b9406a1f43",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -124,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "000b0c3b8bfd14ea",
@@ -141,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md"
+              }
             }
           },
           {
