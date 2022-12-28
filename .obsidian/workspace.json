@@ -69,8 +69,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Plans/Private/Introductory Flight, Preflight, Taxing and Post-flight Procedures.md",
-                "mode": "source",
+                "file": "Lesson Plans/Private/Performance Maneuvers - Steep Turns.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Plans/Private/Introductory Flight, Preflight, Taxing and Post-flight Procedures.md",
+                "file": "Lesson Plans/Private/Performance Maneuvers - Steep Turns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Plans/Private/Introductory Flight, Preflight, Taxing and Post-flight Procedures.md",
+                "file": "Lesson Plans/Private/Performance Maneuvers - Steep Turns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Plans/Private/Introductory Flight, Preflight, Taxing and Post-flight Procedures.md"
+                "file": "Lesson Plans/Private/Performance Maneuvers - Steep Turns.md"
               }
             }
           },
@@ -225,14 +225,14 @@
   "active": "ba45c5b9406a1f43",
   "lastOpenFiles": [
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
+    "Lesson Plans/Private/Four Fundamentals of Flight.md",
+    "Lesson Plans/Private/Introductory Flight, Preflight, Taxing and Post-flight Procedures.md",
     "Media/Aircraft/C182T/C182T GAIT.md",
     "Inbox/Don't crush the egg.md",
     "Media/Aircraft/C172S/C172S GAIT.md",
     "Media/Aircraft/DA40/DA40 XLS GAIT.md",
     "Media/Aircraft/C172N/C172N GAIT.md",
     "Media/Aircraft/C182T/C182T Checkout Checklist.md",
-    "Sources/AC 61-67C.md",
-    "Templates/Source Template.md",
-    "Templates/Private Lesson Template.md"
+    "Sources/AC 61-67C.md"
   ]
 }
