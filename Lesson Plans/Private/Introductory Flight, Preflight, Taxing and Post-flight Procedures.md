@@ -22,14 +22,14 @@ tags: ppl, lesson
 	9. Engine start, including use of primer and propeller safety
 2. Taxiing Procedure
 	1. Airport and taxiway familiarization (See [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)|Lesson 3]])
-	2. Stick full aft
+	2. Stick full aft (for tailwheel)
 	3. Position of controls relative to wind while taxiing
 	4. Minimum use of brakes
 3. Before Takeoff Check
 	1. CIGARS acronym
 	2. Confirm with checklist
 4. Post-flight Procedures
-	1. Tie-down technique
+	1. Tie-down technique (including with rope?)
 	2. Securing aircraft
 	3. Documenting flight time and squawks/observations
 5. Common Errors
