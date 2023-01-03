@@ -9,9 +9,14 @@ To become proficient at S&L flight, turns, climbs, and descents, controlling the
 
 ### References
 AFH Ch3, PHAK Ch 1-8
-**Builds On:** [[Introductory Flight, Preflight, Taxing, and Post-flight Procedures]]
-**Schedule:** Ground 1 hour, flight 1.5 hours
-**Lesson Elements:**
+
+### Builds On
+[[Introductory Flight, Preflight, Taxing, and Post-flight Procedures]]
+
+### Schedule
+Ground 1 hour, flight 1.5 hours
+
+### Lesson Elements
 1. Straight and Level
 	1. Scanning for traffic!
 	2. Visual horizon to maintain direction and pitch attitude
@@ -39,7 +44,7 @@ AFH Ch3, PHAK Ch 1-8
 	4. Too firm grip on controls - relax, use fingertip pressure
 	5. Lack of rudder coordination
 
-**Completion Standards:** Client must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
+### Completion StandardsClient must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
 
 **Required Homework:**
 - [ ] Sign up for ground school if not yet completed (WVFC, Sporty's, etc)

@@ -9,10 +9,15 @@ Develop knowledge and skills required for emergency flight by reference to instr
 
 ### References
 Instrument Flying Handbook Ch 6-7; AFH Ch17; [[Private Pilot ACS]] Section VIII
-**Builds On:** [[Four Fundamentals of Flight]]
-**Schedule:** Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
+
+### Builds On
+[[Four Fundamentals of Flight]]
+
+### Schedule
+Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
 **CFI Equipment:** Hood or foggles
-**Lesson Elements:**
+
+### Lesson Elements
 1. Introduction to Instrument Scan (ground portion)
 	1. Primary and supporting instruments
 	2. Instrument Scan
@@ -36,7 +41,7 @@ Instrument Flying Handbook Ch 6-7; AFH Ch17; [[Private Pilot ACS]] Section VIII
 	5. Heavy touching, over-controlling
 	6. Improper trim control
 
-**Completion Standards:** Client must demonstrate basic attitude instrument flying skills, to ACS standards (&plusmn;200 feet, heading &plusmn;20 degrees, airspeed &plusmn;10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
+### Completion StandardsClient must demonstrate basic attitude instrument flying skills, to ACS standards (&plusmn;200 feet, heading &plusmn;20 degrees, airspeed &plusmn;10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
 
 **Required Homework:** None
 

@@ -9,9 +9,14 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 
 ### References
 [[Private Pilot ACS]] Sec VII-D, [[AFH Ch4]], [[PHAK Ch5]], [[POH]], [[AC 61-67C]]
-**Builds On:** [[Maneuvering During Slow Flight]]
-**Schedule:** 0.5-hour ground, 1.0-hour flight
-**Lesson Elements:** 
+
+### Builds On
+[[Maneuvering During Slow Flight]]
+
+### Schedule
+0.5-hour ground, 1.0-hour flight
+
+### Lesson Elements 
 1. Aerodynamics of spins
 	1. Spins are stalls, but with one wing "more stalled" than the other, causing rapid autorotation and descent. The nose may be pointing near the ground, but angle of attack is high, airspeed is slow, and descent rate is moderate.
 	2. At spin entry, trying to lift the down wing with aileron deepens the stall and accelerates stall entry!
@@ -47,7 +52,7 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 	5. Recovering from dive too abruptly, causing secondary stall
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
-**Completion Standards:** The client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
+### Completion StandardsThe client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
 
 **Required Homework:** None. 
 

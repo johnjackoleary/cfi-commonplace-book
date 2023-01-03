@@ -9,9 +9,14 @@ Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and
 
 ### References
 [[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
-**Builds On:** [[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
-**Schedule:** Ground 1.0; Flight – multiple flights, with frequent practice
-**Lesson Elements:**
+
+### Builds On
+[[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
+
+### Schedule
+Ground 1.0; Flight – multiple flights, with frequent practice
+
+### Lesson Elements
 1. Overview of short- and soft-field operations
 2. Takeoffs and Climb Procedures
 	1. Set flaps according to POH/AFM
@@ -41,7 +46,7 @@ Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and
 		3. Touch down smoothly, with minimal float, at or within 200 feet beyond the specified touchdown point
 		4. Apply brakes as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
-**Completion Standards:** Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
+### Completion StandardsClient should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
 
 **Required Homework:** None
 

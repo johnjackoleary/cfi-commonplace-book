@@ -9,9 +9,14 @@ Develop knowledge and skills associated with emergency approaches and landings, 
 
 ### References
 AFM/POH; [[Private Pilot ACS]] Section IX; [[AFH Ch17]] (Emergency Procedures)
-**Builds On:** [[Normal and Crosswind Approaches and Landings]], [[Forward Slips to Landing]]
-**Schedule:** Ground 1.0, Flight 1.0, frequent practice on multiple flights
-**Lesson Elements:**
+
+### Builds On
+[[Normal and Crosswind Approaches and Landings]], [[Forward Slips to Landing]]
+
+### Schedule
+Ground 1.0, Flight 1.0, frequent practice on multiple flights
+
+### Lesson Elements
 1. Types of emergency landings: forced landing, precautionary landing, ditching
 2. Aviate, Navigate, Communicate
 3. ABCDE
@@ -46,7 +51,7 @@ AFM/POH; [[Private Pilot ACS]] Section IX; [[AFH Ch17]] (Emergency Procedures)
 	3. Lack of situational awareness. Be aware of positions and options.
 	4. Failure to use checklist
 
-**Completion Standards:** Client should develop knowledge of emergency situations and procedures, and demonstrate ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
+### Completion StandardsClient should develop knowledge of emergency situations and procedures, and demonstrate ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
 
 **Required Homework:** 
 - [ ] Memorize engine out restart flow

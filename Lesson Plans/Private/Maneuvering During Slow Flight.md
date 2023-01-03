@@ -9,9 +9,14 @@ Develop knowledge, risk management and skills associated with maneuvers during s
 
 ### References
 [[Private Pilot ACS]] Sec VII, AFH Ch4, PHAK Ch. 5
-**Builds On:** [[Four Fundamentals of Flight]]
-**Schedule:** 1-hour ground, 1.5 hours flight
-**Lesson Elements:**
+
+### Builds On
+[[Four Fundamentals of Flight]]
+
+### Schedule
+1-hour ground, 1.5 hours flight
+
+### Lesson Elements
 1. What is slow flight? Why do we practice this?
 	1. Flight at high AOA, close to stall, or stall warning
 	2. We experience this during takeoffs, landings, go-arounds
@@ -37,7 +42,7 @@ Develop knowledge, risk management and skills associated with maneuvers during s
 	3. Unintentional stall
 	4. Improper use of trim
 
-**Completion Standards:** Client should be profiecient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude &plusmn;100feet, heading &plusmn;10 degrees, airspeed +10/-0 knots, bank angle &plusmn;10 degrees.
+### Completion StandardsClient should be profiecient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude &plusmn;100feet, heading &plusmn;10 degrees, airspeed +10/-0 knots, bank angle &plusmn;10 degrees.
 
 **Required Homework:** None
 

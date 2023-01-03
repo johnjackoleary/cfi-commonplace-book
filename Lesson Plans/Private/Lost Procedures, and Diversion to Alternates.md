@@ -9,9 +9,14 @@ Develop skills and procedures to identify aircraft location, with on-board chart
 
 ### References
 PHAK Ch. 16; ACS VI-C (diversion) and VI-D (lost procedures)
-**Builds On:** [[Pilotage and Dead Reckoning]], [[Weather Information and Cross-Country Flight Planning]], [[Navigation Charts and National Airspace System]], [[Navigation Systems, including Radar Services]]
-**Schedule:** Ground 1.0, Flight 1.0, frequent practice on multiple flights
-**Lesson Elements:**
+
+### Builds On
+[[Pilotage and Dead Reckoning]], [[Weather Information and Cross-Country Flight Planning]], [[Navigation Charts and National Airspace System]], [[Navigation Systems, including Radar Services]]
+
+### Schedule
+Ground 1.0, Flight 1.0, frequent practice on multiple flights
+
+### Lesson Elements
 1. Lost procedures
 	1. Might be appropriate to circle and/or gain altitude for better view of landmarks. Some use the 5 C's: Climb, Circle, Conserve (fuel), Communicate/Confess, Comply
 	2. Use of charts and pilotage to find location
@@ -26,7 +31,7 @@ PHAK Ch. 16; ACS VI-C (diversion) and VI-D (lost procedures)
 	1. CFI will get learner "lost", typically after maneuvering with the hood during simulated instrument flight
 	2. Learner will demonstrate ability to find location, plan route to an alternate airport, and fly to and land at alternate.
 
-**Completion Standards:** Client should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
+### Completion StandardsClient should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
 
 **Required Homework:** None
 

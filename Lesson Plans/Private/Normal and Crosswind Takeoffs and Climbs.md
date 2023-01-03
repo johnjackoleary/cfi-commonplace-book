@@ -9,9 +9,14 @@ To understand and become proficient at the procedures used for normal takeoffs a
 
 ### References
 [[Private Pilot ACS]] Sec IV, AFH Ch5, PHAK Ch 11, POH
-**Builds On:** [[Four Fundamentals of Flight]], [[Maneuvering During Slow Flight]]
-**Schedule:** Ground 0.5 hour; airplane ~1 hour, practice every flight
-**Lesson Elements:**
+
+### Builds On
+[[Four Fundamentals of Flight]], [[Maneuvering During Slow Flight]]
+
+### Schedule
+Ground 0.5 hour; airplane ~1 hour, practice every flight
+
+### Lesson Elements
 1. Takeoffs (no flaps used in most trainers)
 	1. Effect of wind and density altitude
 	2. Weather minimums ([[VFR Weather Minimums]])
@@ -37,7 +42,7 @@ To understand and become proficient at the procedures used for normal takeoffs a
 	2. Drifting from centerline during takeoff roll
 	3. Drifting from centerline during climb out
 
-**Completion Standards:** Client must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.
+### Completion StandardsClient must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.
 
 **Required Homework:** None
 

@@ -9,9 +9,14 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 
 ### References
 [[Private Pilot ACS]] Sec VII-B and -C, AFH Ch4, PHAK Ch 5, POH
-**Builds On:** [[Maneuvering During Slow Flight]]
-**Schedule:** 0.5-hour ground, 1.0-hour flight, with practice on multiple flights
-**Lesson Elements:**
+
+### Builds On
+[[Maneuvering During Slow Flight]]
+
+### Schedule
+0.5-hour ground, 1.0-hour flight, with practice on multiple flights
+
+### Lesson Elements
 1. Aerodynamics of stalls
 	1. Stall occurs at critical angle of attack
 	2. Stall can occur at ANY airspeed, attitude, or power setting!
@@ -52,7 +57,7 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 			2. Delay in stall recovery, causing excessive altitude loss or spin entry
 			3. Secondary stall due to aggressive pitch up during recovery
 
-**Completion Standards:** Client must be able to demonstrate power-off and power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading &plusmn;10 degrees before stall, or specified bank angle &plusmn;10 degrees, recognize stall and recover promptly with proper procedure.
+### Completion StandardsClient must be able to demonstrate power-off and power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading &plusmn;10 degrees before stall, or specified bank angle &plusmn;10 degrees, recognize stall and recover promptly with proper procedure.
 
 **Required Homework:** None
 **Recommended Homework:** 

@@ -9,9 +9,14 @@ To understand airport operations, including communications, traffic patterns, an
 
 ### References
 [[Private Pilot ACS]] Sec III, AFH Ch2, PHAK Ch 14, Southwest Chart Supplement, AIM Ch 2, Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
-**Builds On:** N/A
-**Schedule:** Ground 1.5 hours
-**Lesson Elements:**
+
+### Builds On
+N/A
+
+### Schedule
+Ground 1.5 hours
+
+### Lesson Elements
 1. Radio communications
 	1. Frequencies to memorize for Palo Alto: ATIS 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
 	2. Format for all radio calls: WHO you're calling, WHO you are, WHERE you are (in 3D space), WHAT you want
@@ -34,7 +39,7 @@ To understand airport operations, including communications, traffic patterns, an
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight
 
-**Completion Standards:** Client must demonstrate good radio communications and etiquette as specified in the AIM, understand the Palo Alto airport ground and pattern environment, and how to use light signals in case of radio/electrical failure.
+### Completion StandardsClient must demonstrate good radio communications and etiquette as specified in the AIM, understand the Palo Alto airport ground and pattern environment, and how to use light signals in case of radio/electrical failure.
 
 **Required Homework:** 
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands

@@ -9,9 +9,14 @@ Prepare for practical test oral and flight portions.
 
 ### References
 ACS – all sections, AFH (descriptions of maneuvers), POH/AFM, FAR parts 91 and 61, AIM, Chart Supplements
-**Builds On:** [[~ PPL Lesson Plan Outline|All Lessons]]
-**Schedule:** Ground 3 hours, Flight as necessary
-**Lesson Elements:**
+
+### Builds On
+[[~ PPL Lesson Plan Outline|All Lessons]]
+
+### Schedule
+Ground 3 hours, Flight as necessary
+
+### Lesson Elements
 1. Thorough review of ACS
 2. Choice of DPE and location of checkride
 	1. May require DPE to be scheduled months in advance!
@@ -31,7 +36,7 @@ ACS – all sections, AFH (descriptions of maneuvers), POH/AFM, FAR parts 91 and
 		2. Emergency approach and landing
 5. Simulated practical test (optional) with senior CFI
 
-**Completion Standards:** Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
+### Completion StandardsClient should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
 
 **Required Homework:** 
 - [ ] Study and practice

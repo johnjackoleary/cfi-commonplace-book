@@ -9,9 +9,14 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 
 ### References
 [[Private Pilot ACS]] Sec IV-B, [[AFH Ch8]], [[POH]]
-**Builds On:** [[Maneuvering During Slow Flight]], [[Power-On and Power-Off Stalls]], [[Normal and Crosswind Takeoffs and Climbs]]
-**Schedule:** 0.5 hours ground, multiple flights to practice as necessary
-**Lesson Elements:**
+
+### Builds On
+[[Maneuvering During Slow Flight]], [[Power-On and Power-Off Stalls]], [[Normal and Crosswind Takeoffs and Climbs]]
+
+### Schedule
+0.5 hours ground, multiple flights to practice as necessary
+
+### Lesson Elements
 1. Determining landing performance and limitations
 2. Awareness of traffic, obstructions, hazards, wake turbulence
 3. Importance of Stabilized Approach to landing
@@ -53,7 +58,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 	5. Poor directional control or drifting off centerline
 	6. Excessive braking!
 
-**Completion Standards:** Client must become proficient at flying  stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
+### Completion StandardsClient must become proficient at flying  stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
 
 **Required Homework:** None
 

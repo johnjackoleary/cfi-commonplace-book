@@ -9,9 +9,14 @@ Develop knowledge, risk management, and skills associated with forward slips to 
 
 ### References
 [[Private Pilot ACS]] Sec IV-M, AFH Ch8, POH
-**Builds On:** [[Normal and Crosswind Approaches and Landings]]
-**Schedule:** Ground 0.5, multiple flights to practice this maneuver frequently
-**Lesson Elements:**
+
+### Builds On
+[[Normal and Crosswind Approaches and Landings]]
+
+### Schedule
+Ground 0.5, multiple flights to practice this maneuver frequently
+
+### Lesson Elements
 1. Overview of forward slips
 	1. Purpose - lose altitude quickly, without gaining airspeed. Allows for steeper gliding descent for short-field or emergency landing
 	2. Forward Slips vs Side Slips? Side slips are the usual technique for cross-wind landing, where heading parallel to runway. Forward slips are steeper than side slips, with exaggerated bank (into the wind) and opposite rudder, with heading significantly different than runway heading, but ground track aligned with runway centerline.
@@ -31,7 +36,7 @@ Develop knowledge, risk management, and skills associated with forward slips to 
 	3. Failure to maintain stable forward slip, allowing bank and heading to wander
 	4. Failure to go around if the approach becomes unstable
 
-**Completion Standards:** Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
+### Completion StandardsClient must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
 
 **Required Homework:** None
 

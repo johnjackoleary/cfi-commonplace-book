@@ -9,9 +9,14 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 
 ### References
 [[Private Pilot ACS]] Section VI; PHAK Ch. 15 (Navigation), Manuals for all installed equipment in the plane.
-**Builds On:** [[Navigation Charts and National Airspace System]]
-**Schedule:** Ground 1.0
-**Lesson Elements:**
+
+### Builds On
+[[Navigation Charts and National Airspace System]]
+
+### Schedule
+Ground 1.0
+
+### Lesson Elements
 1. Compass and compass errors
 2. Radio navigation equipment
 	1. VOR
@@ -26,7 +31,7 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 	1. Flight Following
 	2. ASR (airport surveillance radar) and PAR (precision approach radar) capabilities
 
-**Completion Standards:** Client should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
+### Completion StandardsClient should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
 
 **Required Homework:** 
 - [ ] Memorize compass error acronyms: ANDS, UNOS, NOSE

@@ -9,10 +9,15 @@ Develop knowledge and skill in recognition of and recovery from unusual attitude
 
 ### References
 IFH Ch 7
-**Builds On:** [[Emergency Flight by Reference to Instruments - Four Fundamentals]]
-**Schedule:** Ground 1.5 hour, sim/airplane 1.5 hours
+
+### Builds On
+[[Emergency Flight by Reference to Instruments - Four Fundamentals]]
+
+### Schedule
+Ground 1.5 hour, sim/airplane 1.5 hours
 **CFI Equipment:** Hood or foggles
-**Lesson Elements:**
+
+### Lesson Elements
 1. Causes of unusual flight attitudes
 	1. Failure to properly trim the controls
 	2. Distraction, or fixation
@@ -40,7 +45,7 @@ IFH Ch 7
 	2. Dependency on sense other than instrument indications
 	3. Failure to use proper recovery sequence, i.d. power-pitch-bank for nose-high, and power-bank-pitch for nose low
 
-**Completion Standards:** Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
+### Completion StandardsStudent demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
 **Required Homework:** 
 - [ ] Memorize and rehearse recovery from nose-high and nose-low

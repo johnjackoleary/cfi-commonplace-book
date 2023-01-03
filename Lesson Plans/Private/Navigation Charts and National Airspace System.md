@@ -9,9 +9,14 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 
 ### References
 [[Private Pilot ACS]] Sec I Task C-E; [[PHAK Ch12]]-[[PHAK Ch13|13]], [[PHAK Ch15|15]]-[[PHAK Ch16|16]]; AIM Ch 3
-**Builds On:** N/A
-**Schedule:** Ground 2.0 hours
-**Lesson Elements:**
+
+### Builds On
+N/A
+
+### Schedule
+Ground 2.0 hours
+
+### Lesson Elements
 1. Required Preflight Action ([[FAR 91.103]])
 	1. Weather reports and forecasts
 	2. Fuel requirements and available alternatives, traffic delays
@@ -22,7 +27,7 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 5. VFR Weather Minimums (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
 6. Altitudes for cruise flight, minimum altitudes ([[FAR 91.119]])
 
-**Completion Standards:** Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
+### Completion StandardsClient should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
 
 **Required Homework:** 
 - [ ] Memorize VFR weather minimums

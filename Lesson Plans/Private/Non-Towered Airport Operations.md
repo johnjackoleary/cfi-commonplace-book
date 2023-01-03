@@ -9,9 +9,14 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 
 ### References
 [[Private Pilot ACS]] Section III Task B; [[PHAK Ch14]]; [[AIM 4-3]], [[AC 90-66B]]; [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf)
-**Builds On:** [[Flying the Traffic Pattern]], [[Navigation Charts and National Airspace System]]
-**Schedule:** Ground 1.0
-**Lesson Elements:**
+
+### Builds On
+[[Flying the Traffic Pattern]], [[Navigation Charts and National Airspace System]]
+
+### Schedule
+Ground 1.0
+
+### Lesson Elements
 1. Sources for airport information and data (chart supplements, [[EFB]]), [[NOTAM|NOTAMs]]
 2. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 3. Tower airports become non-towered when tower closed
@@ -37,7 +42,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 	3. Lack of awareness of other aircraft
 
 
-**Completion Standards:** Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
+### Completion StandardsClient should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 
 **Required Homework:** None
 

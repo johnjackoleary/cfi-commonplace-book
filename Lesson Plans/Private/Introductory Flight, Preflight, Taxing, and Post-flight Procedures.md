@@ -10,9 +10,14 @@ Develop skills associated with preparation for safe flight, including preflight 
 
 ### References
 POH, ACS II and XII, [[WVFC Member Regulations]], AFH Ch1-3, PHAK Ch 3-8
-**Builds On:** N/A
-**Schedule:** Ground 1 hour, Flight 1 hour
-**Lesson Elements:**
+
+### Builds On
+N/A
+
+### Schedule
+Ground 1 hour, Flight 1 hour
+
+### Lesson Elements
 1. Preflight
 	1. Preflight the pilot also! - [[IMSAFE]] checklist (`= [[IMSAFE]].meaning`)
 	2. Weather and TFRs (temporary flight restrictions)
@@ -42,7 +47,7 @@ POH, ACS II and XII, [[WVFC Member Regulations]], AFH Ch1-3, PHAK Ch 3-8
 	4. Taxiing too fast, or carrying too much power while taxiing
 	5. Incorrect position of controls relative to wind
 
-**Completion Standards:** Client must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
+### Completion StandardsClient must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
 
 **Required Homework:** None
 
