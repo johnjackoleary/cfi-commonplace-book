@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Aircraft Performance including Weight and Balance
 
-**Objective:** Develop understanding of aircraft performance and limitations, and the ability to safely and conservatively plan cross-country flights.
-**References:** [[POH]]/[[AFM]]; [[PHAK Ch9]] (flight manuals), [[PHAK Ch10]] (Weight and Balance), [[PHAK Ch11]] (aircraft performance)
+### Objective
+Develop understanding of aircraft performance and limitations, and the ability to safely and conservatively plan cross-country flights.
+
+### References
+[[POH]]/[[AFM]]; [[PHAK Ch9]] (flight manuals), [[PHAK Ch10]] (Weight and Balance), [[PHAK Ch11]] (aircraft performance)
 **Builds On:** N/A
 **Schedule:** Ground 2.0
 **CFI Equipment:** E6B Calculator or App

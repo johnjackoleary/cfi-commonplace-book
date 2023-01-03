@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Night Operations and Night Cross Country
 
-**Objective:** Develop knowledge and skill pertaining to night flight.
-**References:** [[Private Pilot ACS]] Section XI; AFH Ch10 (night operations), PHAK Ch. 14 (airport lighting), Ch. 17 (night vision)
+### Objective
+Develop knowledge and skill pertaining to night flight.
+
+### References
+[[Private Pilot ACS]] Section XI; AFH Ch10 (night operations), PHAK Ch. 14 (airport lighting), Ch. 17 (night vision)
 **Builds On:** [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Navigation Charts and National Airspace System]], [[Pilotage and Dead Reckoning]]
 **Schedule:** Ground 1.5 hour, flight 3 hours
 **Lesson Elements:**

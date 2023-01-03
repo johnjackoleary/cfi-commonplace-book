@@ -6,7 +6,7 @@ tags: ppl
 John O'Leary (CFI Jack); Based on [[DietzPrivateAirplaneSyllabus2018TOC.pdf|Lou Dietz Lessons, March 2021]]
 
 #### Stage 1: Pre-Solo
-$\quad$[[Introductory Flight, Preflight, Taxing and Post-flight Procedures]]
+$\quad$[[Introductory Flight, Preflight, Taxing, and Post-flight Procedures]]
 $\quad$[[Four Fundamentals of Flight]]
 $\quad$[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]]
 $\quad$[[Performance Maneuvers - Steep Turns]]

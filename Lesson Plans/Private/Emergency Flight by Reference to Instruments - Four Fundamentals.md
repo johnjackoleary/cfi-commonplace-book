@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Emergency Flight by Reference to Instruments - Four Fundamentals
 
-**Objective:** Develop knowledge and skills required for emergency flight by reference to instruments.
-**References:** Instrument Flying Handbook Ch 6-7; AFH Ch17; [[Private Pilot ACS]] Section VIII
+### Objective
+Develop knowledge and skills required for emergency flight by reference to instruments.
+
+### References
+Instrument Flying Handbook Ch 6-7; AFH Ch17; [[Private Pilot ACS]] Section VIII
 **Builds On:** [[Four Fundamentals of Flight]]
 **Schedule:** Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
 **CFI Equipment:** Hood or foggles

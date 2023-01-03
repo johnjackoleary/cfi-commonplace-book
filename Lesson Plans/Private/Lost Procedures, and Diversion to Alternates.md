@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Lost Procedures, and Diversion to Alternates
 
-**Objective:** Develop skills and procedures to identify aircraft location, with on-board charts or equipment or with ATC help, and plan diversion to an appropriate alternate airport.
-**References:** PHAK Ch. 16; ACS VI-C (diversion) and VI-D (lost procedures)
+### Objective
+Develop skills and procedures to identify aircraft location, with on-board charts or equipment or with ATC help, and plan diversion to an appropriate alternate airport.
+
+### References
+PHAK Ch. 16; ACS VI-C (diversion) and VI-D (lost procedures)
 **Builds On:** [[Pilotage and Dead Reckoning]], [[Weather Information and Cross-Country Flight Planning]], [[Navigation Charts and National Airspace System]], [[Navigation Systems, including Radar Services]]
 **Schedule:** Ground 1.0, Flight 1.0, frequent practice on multiple flights
 **Lesson Elements:**

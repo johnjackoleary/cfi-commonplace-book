@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Normal and Crosswind Takeoffs and Climbs
 
-**Objective:** To understand and become proficient at the procedures used for normal takeoffs and climbs. 
-**References:** [[Private Pilot ACS]] Sec IV, AFH Ch5, PHAK Ch 11, POH
+### Objective
+To understand and become proficient at the procedures used for normal takeoffs and climbs. 
+
+### References
+[[Private Pilot ACS]] Sec IV, AFH Ch5, PHAK Ch 11, POH
 **Builds On:** [[Four Fundamentals of Flight]], [[Maneuvering During Slow Flight]]
 **Schedule:** Ground 0.5 hour; airplane ~1 hour, practice every flight
 **Lesson Elements:**

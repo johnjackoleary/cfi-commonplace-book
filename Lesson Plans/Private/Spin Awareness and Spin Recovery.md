@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Spin Awareness and Spin Recovery
 
-**Objective:** Develop knowledge, risk management and skills associated with spins, flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
-**References:** [[Private Pilot ACS]] Sec VII-D, [[AFH Ch4]], [[PHAK Ch5]], [[POH]], [[AC 61-67C]]
+### Objective
+Develop knowledge, risk management and skills associated with spins, flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
+
+### References
+[[Private Pilot ACS]] Sec VII-D, [[AFH Ch4]], [[PHAK Ch5]], [[POH]], [[AC 61-67C]]
 **Builds On:** [[Maneuvering During Slow Flight]]
 **Schedule:** 0.5-hour ground, 1.0-hour flight
 **Lesson Elements:** 

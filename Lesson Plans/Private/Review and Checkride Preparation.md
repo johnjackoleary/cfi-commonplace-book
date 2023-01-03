@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Review and Checkride Preparation
 
-**Objective:** Prepare for practical test oral and flight portions.
-**References:** ACS – all sections, AFH (descriptions of maneuvers), POH/AFM, FAR parts 91 and 61, AIM, Chart Supplements
+### Objective
+Prepare for practical test oral and flight portions.
+
+### References
+ACS – all sections, AFH (descriptions of maneuvers), POH/AFM, FAR parts 91 and 61, AIM, Chart Supplements
 **Builds On:** [[~ PPL Lesson Plan Outline|All Lessons]]
 **Schedule:** Ground 3 hours, Flight as necessary
 **Lesson Elements:**

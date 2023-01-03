@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Non-Towered Airport Operations
 
-**Objective:** Develop knowledge of operations and traffic patterns at non-towered airports.
-**References:** [[Private Pilot ACS]] Section III Task B; [[PHAK Ch14]]; [[AIM 4-3]], [[AC 90-66B]]; [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf)
+### Objective
+Develop knowledge of operations and traffic patterns at non-towered airports.
+
+### References
+[[Private Pilot ACS]] Section III Task B; [[PHAK Ch14]]; [[AIM 4-3]], [[AC 90-66B]]; [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf)
 **Builds On:** [[Flying the Traffic Pattern]], [[Navigation Charts and National Airspace System]]
 **Schedule:** Ground 1.0
 **Lesson Elements:**

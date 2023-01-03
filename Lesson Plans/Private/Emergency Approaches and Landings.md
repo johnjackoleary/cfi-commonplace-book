@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Emergency Approaches and Landings
 
-**Objective:** Develop knowledge and skills associated with emergency approaches and landings, and ability to handle various systems and equipment failures.
-**References:** AFM/POH; [[Private Pilot ACS]] Section IX; [[AFH Ch17]] (Emergency Procedures)
+### Objective
+Develop knowledge and skills associated with emergency approaches and landings, and ability to handle various systems and equipment failures.
+
+### References
+AFM/POH; [[Private Pilot ACS]] Section IX; [[AFH Ch17]] (Emergency Procedures)
 **Builds On:** [[Normal and Crosswind Approaches and Landings]], [[Forward Slips to Landing]]
 **Schedule:** Ground 1.0, Flight 1.0, frequent practice on multiple flights
 **Lesson Elements:**

@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Performance Maneuvers - Ground Reference Maneuvers
 
-**Objective:** Develop risk management and skills associated with ground referene maneuvers, including rectangular patterns, S-turns and turns around a point.
-**References:** [[Private Pilot ACS]] Sec V-B, [[AFH Ch7]]
+### Objective
+Develop risk management and skills associated with ground referene maneuvers, including rectangular patterns, S-turns and turns around a point.
+
+### References
+[[Private Pilot ACS]] Sec V-B, [[AFH Ch7]]
 **Builds On:** [[Four Fundamentals of Flight]]
 **Schedule:** Ground 1.0 hours, Flight 1.0 hours
 **CFI Equipment:** GPS/Sentry/ADS-B In

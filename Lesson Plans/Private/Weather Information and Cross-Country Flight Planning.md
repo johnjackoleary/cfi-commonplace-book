@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Weather Information and Cross-Country Flight Planning
 
-**Objective:** Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data for flight planning.
-**References:** PHAK, Ch 12 (weather theory); ACS I-C (Weather Information), Aviation Weather (AC 00-6B), and Aviation Weather Services (AC 00-45H), “Pilot’s Guide to a Preflight Briefing” (AC 91-92)
+### Objective
+Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data for flight planning.
+
+### References
+PHAK, Ch 12 (weather theory); ACS I-C (Weather Information), Aviation Weather (AC 00-6B), and Aviation Weather Services (AC 00-45H), “Pilot’s Guide to a Preflight Briefing” (AC 91-92)
 **Builds On:** N/A
 **Schedule:** Ground 1.0, frequent practice on multiple flights
 **Lesson Elements:**

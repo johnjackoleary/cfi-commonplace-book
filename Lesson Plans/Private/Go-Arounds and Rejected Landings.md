@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Go-Arounds and Rejected Landings
 
-**Objective:** Develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
-**References:** [[Private Pilot ACS]] Sec IV N, AFH Ch8, POH
+### Objective
+Develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
+
+### References
+[[Private Pilot ACS]] Sec IV N, AFH Ch8, POH
 **Builds On:** [[Normal and Crosswind Approaches and Landings]]
 **Schedule:** Ground 0.5, multiple flights to practice this maneuver frequently
 **Lesson Elements:**

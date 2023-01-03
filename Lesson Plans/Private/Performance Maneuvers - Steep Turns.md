@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Performance Maneuvers - Steep Turns
 
-**Objective:** Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
-**References:** [[Private Pilot ACS]] Sec V-A, [[AFH Ch10]]
+### Objective
+Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
+
+### References
+[[Private Pilot ACS]] Sec V-A, [[AFH Ch10]]
 **Builds On:** [[Four Fundamentals of Flight]]
 **Schedule:** Ground 0.5 hours, Flight 1.0 hours
 **Lesson Elements:**

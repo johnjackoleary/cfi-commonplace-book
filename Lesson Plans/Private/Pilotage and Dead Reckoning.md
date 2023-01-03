@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Pilotage and Dead Reckoning
 
-**Objective:** Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.
-**References:** PHAK Ch 16 (Navigation)
+### Objective
+Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.
+
+### References
+PHAK Ch 16 (Navigation)
 **Builds On:** [[Navigation Charts and National Airspace System]]
 **Schedule:** Ground 1.0, Flight – multiple during dual cross-country flights
 **CFI Equipment:** E6-B

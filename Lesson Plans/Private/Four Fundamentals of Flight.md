@@ -4,9 +4,12 @@ tags: ppl, lesson
 ---
 ## Four Fundamentals of Flight
 
-**Objective:** To become proficient at S&L flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
-**References:** AFH Ch3, PHAK Ch 1-8
-**Builds On:** [[Introductory Flight, Preflight, Taxing and Post-flight Procedures]]
+### Objective
+To become proficient at S&L flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
+
+### References
+AFH Ch3, PHAK Ch 1-8
+**Builds On:** [[Introductory Flight, Preflight, Taxing, and Post-flight Procedures]]
 **Schedule:** Ground 1 hour, flight 1.5 hours
 **Lesson Elements:**
 1. Straight and Level

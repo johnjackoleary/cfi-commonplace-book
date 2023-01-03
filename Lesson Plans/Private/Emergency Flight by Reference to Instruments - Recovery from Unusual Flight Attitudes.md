@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes
 
-**Objective:** Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
-**References:** IFH Ch 7
+### Objective
+Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
+
+### References
+IFH Ch 7
 **Builds On:** [[Emergency Flight by Reference to Instruments - Four Fundamentals]]
 **Schedule:** Ground 1.5 hour, sim/airplane 1.5 hours
 **CFI Equipment:** Hood or foggles

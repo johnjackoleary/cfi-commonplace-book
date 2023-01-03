@@ -3,10 +3,13 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 
-## Introductory Flight, Preflight, Taxing and Post-flight Procedures
+## Introductory Flight, Preflight, Taxing, and Post-flight Procedures
 
-**Objective:** Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
-**References:** POH, ACS II and XII, [[WVFC Member Regulations]], AFH Ch1-3, PHAK Ch 3-8
+### Objective
+Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
+
+### References
+POH, ACS II and XII, [[WVFC Member Regulations]], AFH Ch1-3, PHAK Ch 3-8
 **Builds On:** N/A
 **Schedule:** Ground 1 hour, Flight 1 hour
 **Lesson Elements:**

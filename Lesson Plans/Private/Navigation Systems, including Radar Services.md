@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Navigation Systems, including Radar Services
 
-**Objective:** Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of ATC capabilities and ability to use ATC assistance with radar vectors.
-**References:** [[Private Pilot ACS]] Section VI; PHAK Ch. 15 (Navigation), Manuals for all installed equipment in the plane.
+### Objective
+Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of ATC capabilities and ability to use ATC assistance with radar vectors.
+
+### References
+[[Private Pilot ACS]] Section VI; PHAK Ch. 15 (Navigation), Manuals for all installed equipment in the plane.
 **Builds On:** [[Navigation Charts and National Airspace System]]
 **Schedule:** Ground 1.0
 **Lesson Elements:**

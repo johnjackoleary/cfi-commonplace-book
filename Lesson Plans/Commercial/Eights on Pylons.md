@@ -4,8 +4,11 @@ tags: cpl, lesson
 ---
 ## Eights on Pylons
 
-**Objective:** To develop knowledge of pivotal altitude and the skill to maneuver the airplane accurately, while dividing attention between the flight path and the selected pylons.
-**References:** [[Commercial ACS]], [[AFH Ch6]]
+### Objective
+To develop knowledge of pivotal altitude and the skill to maneuver the airplane accurately, while dividing attention between the flight path and the selected pylons.
+
+### References
+[[Commercial ACS]], [[AFH Ch6]]
 **Builds On:** [[Performance Maneuvers - Ground Reference Maneuvers]]
 **Schedule:** Ground 0.5, Flight 1.0
 **Lesson Elements:** 

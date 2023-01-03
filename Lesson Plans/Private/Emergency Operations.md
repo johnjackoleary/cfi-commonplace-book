@@ -4,8 +4,11 @@ tags: ppl, lesson
 ---
 ## Emergency Operations
 
-**Objective:** Develop knowledge of all abnormal and emergency procedures for the training aircraft in use, including all ACS risk management and skill tasks.
-**References:** AFM/POH; [[Private Pilot ACS]] Section IX; AFH Ch17 (Emergency Procedures)
+### Objective
+Develop knowledge of all abnormal and emergency procedures for the training aircraft in use, including all ACS risk management and skill tasks.
+
+### References
+AFM/POH; [[Private Pilot ACS]] Section IX; AFH Ch17 (Emergency Procedures)
 **Builds On:** [[Emergency Approaches and Landings]]
 **Schedule:** Ground 1.5 hour, flight practice as necessary
 **Lesson Elements:**

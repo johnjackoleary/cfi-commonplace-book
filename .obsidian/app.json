@@ -7,8 +7,8 @@
     "downscalePercent": 80
   },
   "spellcheck": true,
-  "foldIndent": false,
-  "foldHeading": false,
+  "foldIndent": true,
+  "foldHeading": true,
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Media",
