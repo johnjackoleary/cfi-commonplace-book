@@ -54,7 +54,7 @@ Ground 1 hour, Flight 1 hour
 Client must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
 
 ### Required Homework
- None
+None
 
 ### Recommended Homework
 None
