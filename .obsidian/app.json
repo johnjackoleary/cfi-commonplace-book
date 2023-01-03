@@ -9,9 +9,10 @@
   "spellcheck": true,
   "foldIndent": false,
   "foldHeading": false,
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Media",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "defaultViewMode": "preview"
 }
