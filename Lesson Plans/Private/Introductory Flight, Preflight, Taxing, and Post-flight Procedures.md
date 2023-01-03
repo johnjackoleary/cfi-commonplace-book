@@ -20,13 +20,13 @@ Ground 1 hour, Flight 1 hour
 ### Lesson Elements
 1. Preflight
 	1. Preflight the pilot also! - [[IMSAFE]] checklist (`= [[IMSAFE]].meaning`)
-	2. Weather and TFRs (temporary flight restrictions)
+	2. Weather and [[TFR]]s (`= [[TFR]].meaning`s)
 	3. Walk-around inspection, use of checklists
 	4. Fuel sampling and fuel level
-	5. Introduction to Weight and Balance
-	6. Required documents on board - AROW
+	5. Introduction to Weight & Balance
+	6. Required documents on board - [[AR(R)OW]]
 	7. Flight deck organization
-	8. Tuning radio, receiving and recording ATIS
+	8. Tuning radio, receiving and recording [[ATIS]]
 	9. Engine start, including use of primer and propeller safety
 2. Taxiing Procedure
 	1. Airport and taxiway familiarization (See [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)|Lesson 3]])
