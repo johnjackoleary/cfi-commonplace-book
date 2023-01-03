@@ -91,8 +91,12 @@
             "id": "ec067d3f719b4e07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -146,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "000b0c3b8bfd14ea",
@@ -162,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md"
+              }
             }
           },
           {
@@ -240,6 +249,7 @@
   },
   "active": "855bea8af3fd836a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Inbox/When are you established.md",
     "Lesson Plans/Private/Performance Maneuvers - Steep Turns.md",
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
@@ -248,7 +258,6 @@
     "Media/Aircraft/C182T/C182T GAIT.md",
     "Inbox/Don't crush the egg.md",
     "Media/Aircraft/C172S/C172S GAIT.md",
-    "Media/Aircraft/DA40/DA40 XLS GAIT.md",
-    "Media/Aircraft/C172N/C172N GAIT.md"
+    "Media/Aircraft/DA40/DA40 XLS GAIT.md"
   ]
 }
