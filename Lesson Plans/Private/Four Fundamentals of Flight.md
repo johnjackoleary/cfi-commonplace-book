@@ -11,7 +11,7 @@ To become proficient at S&L flight, turns, climbs, and descents, controlling the
 AFH Ch3, PHAK Ch 1-8
 
 ### Builds On
-[[Introductory Flight, Preflight, Taxing, and Post-flight Procedures]]
+[[Introductory Flight, Preflight, Taxiing, and Post-flight Procedures]]
 
 ### Schedule
 Ground 1 hour, flight 1.5 hours
