@@ -24,7 +24,7 @@ Ground 1 hour, Flight 1 hour
 	3. Walk-around inspection, use of checklists
 	4. Fuel sampling and fuel level
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/rya4YFDpsPs?start=193"  frameborder="0"></iframe>
-		2. From "Aircraft Systems - 05 - Fuel System" by [@ERAUSpecialVFR](https://www.youtube.com/@ERAUSpecialVFR)
+		2. From *[Aircraft Systems - 05 - Fuel System](https://www.youtube.com/watch?v=rya4YFDpsPs)* by [@ERAUSpecialVFR](https://www.youtube.com/@ERAUSpecialVFR)
 	5. Introduction to Weight & Balance
 	6. Required documents on board - [[AR(R)OW]]
 	7. Flight deck organization
