@@ -37,7 +37,8 @@ Ground 1 hour, Flight 1 hour
 	1. CIGARS acronym
 	2. Confirm with checklist
 4. Post-flight Procedures
-	1. Tie-down technique (including with rope?)
+	1. Tie-down technique (chains, ropes) 
+		1. #todo :: may be better to teach rope knot as part of a future lesson
 	2. Securing aircraft
 	3. Documenting flight time and squawks/observations
 5. Common Errors
