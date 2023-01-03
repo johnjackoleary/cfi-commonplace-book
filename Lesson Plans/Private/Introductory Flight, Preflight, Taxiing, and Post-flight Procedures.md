@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 
-## Introductory Flight, Preflight, Taxing, and Post-flight Procedures
+## Introductory Flight, Preflight, Taxiing, and Post-flight Procedures
 
 ### Objective
 Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
@@ -33,10 +33,10 @@ Ground 1 hour, Flight 1 hour
 2. Taxiing Procedure
 	1. Airport and taxiway familiarization (See [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)|Lesson 3]])
 	2. Stick full aft (for tailwheel)
-	3. Position of controls relative to wind while taxiing
+	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|Image]])
 	4. Minimum use of brakes
 3. Before Takeoff Check
-	1. CIGARS acronym
+	1. [[CIGAR TIP]] acronym
 	2. Confirm with checklist
 4. Post-flight Procedures
 	1. Tie-down technique (chains, ropes) 
