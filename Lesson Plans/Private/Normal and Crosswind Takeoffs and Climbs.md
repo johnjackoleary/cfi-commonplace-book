@@ -42,11 +42,13 @@ Ground 0.5 hour; airplane ~1 hour, practice every flight
 	2. Drifting from centerline during takeoff roll
 	3. Drifting from centerline during climb out
 
-### Completion StandardsClient must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.
+### Completion Standards
+Client must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly takeoffs
 - [ ] Rehearse takeoff emergency plans
 

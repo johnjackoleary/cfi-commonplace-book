@@ -44,10 +44,12 @@ Ground 0.5 hours, Flight 1.0 hours
 	5. Not adding power to maintain airspeed
 	6. Rolling out on wrong heading
 
-### Completion StandardsClient must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
+### Completion Standards
+Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
 
-**Required Homework:** None
-**Recommended Homework:** 
+### Required Homework
+ None
+### Recommended Homework 
 - [ ] Chair fly steep turns
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

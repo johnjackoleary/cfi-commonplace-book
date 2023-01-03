@@ -42,11 +42,13 @@ Develop knowledge, risk management and skills associated with maneuvers during s
 	3. Unintentional stall
 	4. Improper use of trim
 
-### Completion StandardsClient should be profiecient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude &plusmn;100feet, heading &plusmn;10 degrees, airspeed +10/-0 knots, bank angle &plusmn;10 degrees.
+### Completion Standards
+Client should be profiecient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude &plusmn;100feet, heading &plusmn;10 degrees, airspeed +10/-0 knots, bank angle &plusmn;10 degrees.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly slow flight
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

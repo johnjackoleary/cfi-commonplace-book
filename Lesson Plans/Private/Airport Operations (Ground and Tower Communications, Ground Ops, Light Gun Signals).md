@@ -39,13 +39,15 @@ Ground 1.5 hours
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight
 
-### Completion StandardsClient must demonstrate good radio communications and etiquette as specified in the AIM, understand the Palo Alto airport ground and pattern environment, and how to use light signals in case of radio/electrical failure.
+### Completion Standards
+Client must demonstrate good radio communications and etiquette as specified in the AIM, understand the Palo Alto airport ground and pattern environment, and how to use light signals in case of radio/electrical failure.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands
 - [ ] Print light gun signals for kneeboard
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Listen to www.liveatc.net for KPAO or KSQL
 
 

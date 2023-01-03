@@ -51,14 +51,16 @@ The lazy eight is a maneuver that is designed to develop the proper coordination
 
 ![[Lazy Eight.jpeg]]
 
-### Completion StandardsClient must fly maneuver to [[ACS]] standards: 
+### Completion Standards
+Client must fly maneuver to [[ACS]] standards: 
 - Approximately 30° bank at the steepest point.
 - Constant change of pitch and roll rate and airspeed.
 - At the 180° point: ±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly lazy eights
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*

@@ -28,11 +28,14 @@ Ground 2.0
 	3. Power settings for cruise, airspeed and fuel burn
 4. Flight planning for cross-country flights
 
-### Completion StandardsClient should develop knowledge of POH/AFM organization, and ability to use POH to safely and conservatively plan cross country flights, including weight and balance calculations.
+### Completion Standards
+Client should develop knowledge of POH/AFM organization, and ability to use POH to safely and conservatively plan cross country flights, including weight and balance calculations.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize sections of POH
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

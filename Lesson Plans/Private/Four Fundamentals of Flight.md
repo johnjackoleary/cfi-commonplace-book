@@ -44,12 +44,14 @@ Ground 1 hour, flight 1.5 hours
 	4. Too firm grip on controls - relax, use fingertip pressure
 	5. Lack of rudder coordination
 
-### Completion StandardsClient must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
+### Completion Standards
+Client must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
 
-**Required Homework:**
+### Required Homework
+
 - [ ] Sign up for ground school if not yet completed (WVFC, Sporty's, etc)
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly four fundamentals
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

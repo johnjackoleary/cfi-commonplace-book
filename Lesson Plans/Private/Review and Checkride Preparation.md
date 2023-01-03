@@ -36,12 +36,14 @@ Ground 3 hours, Flight as necessary
 		2. Emergency approach and landing
 5. Simulated practical test (optional) with senior CFI
 
-### Completion StandardsClient should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
+### Completion Standards
+Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Study and practice
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly ACS maneuvers
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -39,11 +39,14 @@ Ground 1.0, frequent practice on multiple flights
 	2. How to file
 	3. How to activate and close
 
-### Completion StandardsClient should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
+### Completion Standards
+Client should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Make a 1800wxbrief.com account, and start to use it for pre-flight weather briefings
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

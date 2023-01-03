@@ -36,10 +36,13 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 	3. Failure to maintain stable forward slip, allowing bank and heading to wander
 	4. Failure to go around if the approach becomes unstable
 
-### Completion StandardsClient must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
+### Completion Standards
+Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** None 
+### Recommended Homework
+None 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

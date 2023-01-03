@@ -31,11 +31,13 @@ Ground 1.0, Flight 1.0, frequent practice on multiple flights
 	1. CFI will get learner "lost", typically after maneuvering with the hood during simulated instrument flight
 	2. Learner will demonstrate ability to find location, plan route to an alternate airport, and fly to and land at alternate.
 
-### Completion StandardsClient should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
+### Completion Standards
+Client should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Many GPS devices have a free simulator to practice with, which is useful to build proficiency
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

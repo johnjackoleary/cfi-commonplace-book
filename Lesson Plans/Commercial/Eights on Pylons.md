@@ -55,12 +55,14 @@ Ground 0.5, Flight 1.0
 	5. Lack of rudder coordination, using rudder to yaw plane to maintain pivot point.
 	6. Lack of wind drift correction between pylons
 
-### Completion StandardsClient must calculate and enter at pivotal altitude, select suitable pylons which allow straight-and-level flight between (3-5 seconds), establish a bank angle <40°, and maintain pylon in line-of-sight without slips/skids. Client must be able to divide attention inside and outside aircraft.
+### Completion Standards
+Client must calculate and enter at pivotal altitude, select suitable pylons which allow straight-and-level flight between (3-5 seconds), establish a bank angle <40°, and maintain pylon in line-of-sight without slips/skids. Client must be able to divide attention inside and outside aircraft.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize pivotal altitude formula
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly maneuver
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*

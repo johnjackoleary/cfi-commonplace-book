@@ -9,7 +9,7 @@ tags: ppl, lesson
 Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
 
 ### References
-POH, ACS II and XII, [[WVFC Member Regulations]], AFH Ch1-3, PHAK Ch 3-8
+[[POH]]; [[ACS]] II and XII; [[WVFC Member Regulations]], AFH Ch [[AFH Ch1|1]], [[AFH Ch2|2]], [[AFH Ch3|3]]; PHAK Ch [[PHAK Ch3|3]], [[PHAK Ch4|4]], [[PHAK Ch5|5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
 
 ### Builds On
 N/A
@@ -47,10 +47,13 @@ Ground 1 hour, Flight 1 hour
 	4. Taxiing too fast, or carrying too much power while taxiing
 	5. Incorrect position of controls relative to wind
 
-### Completion StandardsClient must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
+### Completion Standards
+Client must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -31,11 +31,14 @@ Ground 1.0
 	1. Flight Following
 	2. ASR (airport surveillance radar) and PAR (precision approach radar) capabilities
 
-### Completion StandardsClient should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
+### Completion Standards
+Client should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize compass error acronyms: ANDS, UNOS, NOSE
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -14,5 +14,6 @@
   "attachmentFolderPath": "Media",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showInlineTitle": true
 }

@@ -44,11 +44,13 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 	5. Drifting from runway centerline (unless offsetting for conflicting traffic)
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
 
-### Completion StandardsClient must demonstrate judgement about when to initiate go-around, and meet ACS skill standards. Maintain takeoff power and proper climb configuration at Vx or Vy, +10/-0 knots.
+### Completion Standards
+Client must demonstrate judgement about when to initiate go-around, and meet ACS skill standards. Maintain takeoff power and proper climb configuration at Vx or Vy, +10/-0 knots.
 
-**Required Homework:** None.
+### Required Homework
+ None.
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly go-arounds
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

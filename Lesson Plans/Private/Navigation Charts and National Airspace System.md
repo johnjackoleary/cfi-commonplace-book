@@ -27,13 +27,16 @@ Ground 2.0 hours
 5. VFR Weather Minimums (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
 6. Altitudes for cruise flight, minimum altitudes ([[FAR 91.119]])
 
-### Completion StandardsClient should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
+### Completion Standards
+Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize VFR weather minimums
 - [ ] Memorize VFR altitudes for cruise flights
 - [ ] Purchase paper copies of San Francisco Sectional and San Francisco Terminal Area Chart
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

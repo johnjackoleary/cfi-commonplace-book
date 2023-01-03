@@ -51,12 +51,14 @@ Ground 1.0, Flight 1.0, frequent practice on multiple flights
 	3. Lack of situational awareness. Be aware of positions and options.
 	4. Failure to use checklist
 
-### Completion StandardsClient should develop knowledge of emergency situations and procedures, and demonstrate ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
+### Completion Standards
+Client should develop knowledge of emergency situations and procedures, and demonstrate ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize engine out restart flow
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly all emergencies in POH
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

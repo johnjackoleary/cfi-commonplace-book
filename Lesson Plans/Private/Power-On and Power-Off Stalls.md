@@ -57,10 +57,12 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 			2. Delay in stall recovery, causing excessive altitude loss or spin entry
 			3. Secondary stall due to aggressive pitch up during recovery
 
-### Completion StandardsClient must be able to demonstrate power-off and power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading &plusmn;10 degrees before stall, or specified bank angle &plusmn;10 degrees, recognize stall and recover promptly with proper procedure.
+### Completion Standards
+Client must be able to demonstrate power-off and power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading &plusmn;10 degrees before stall, or specified bank angle &plusmn;10 degrees, recognize stall and recover promptly with proper procedure.
 
-**Required Homework:** None
-**Recommended Homework:** 
+### Required Homework
+ None
+### Recommended Homework 
 - [ ] Chair fly power-on stalls
 - [ ] Chair fly power-off stalls
 

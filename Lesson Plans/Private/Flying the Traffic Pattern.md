@@ -41,12 +41,14 @@ Develop knowledge of airport traffic patterns (towered and non-towered), skill a
 	2. Lack of situation awareness or awareness of other traffic
 	3. Improper radio usage, forgetting radio calls at non-towered airports
 
-### Completion StandardsClient must demonstrate proficiency at planning and flying pattern approaches and departures, at towered and non-towered airports, complying with AIM recommended procedures, maintaining awareness of and proper spacing from other aircraft. Maintain traffic pattern altitude &plusmn;100 feet, and airspeed &plusmn;10 knots (or mph).
+### Completion Standards
+Client must demonstrate proficiency at planning and flying pattern approaches and departures, at towered and non-towered airports, complying with AIM recommended procedures, maintaining awareness of and proper spacing from other aircraft. Maintain traffic pattern altitude &plusmn;100 feet, and airspeed &plusmn;10 knots (or mph).
 
-**Required Homework:**
+### Required Homework
+
 - [ ] Memorize power settings/airspeeds for pattern #TODO add these for C152/C172/PA28/DA40
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly traffic pattern entry
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

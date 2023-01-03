@@ -25,11 +25,14 @@ Ground 1.5 hour, flight practice as necessary
 	1. Failure to use flow patterns or memory items
 	2. Failure to use checklists, or improper use
 
-### Completion StandardsClient demonstrates appropriate knowledge of aircraft systems, abnormal and emergency procedures, and the ability to perform emergency procedures to ACS standards.
+### Completion Standards
+Client demonstrates appropriate knowledge of aircraft systems, abnormal and emergency procedures, and the ability to perform emergency procedures to ACS standards.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize emergency flows (you may wish to rent an aircraft and practice on the ground, although a picture also works)
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

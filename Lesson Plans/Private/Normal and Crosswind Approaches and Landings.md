@@ -58,11 +58,13 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 	5. Poor directional control or drifting off centerline
 	6. Excessive braking!
 
-### Completion StandardsClient must become proficient at flying  stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
+### Completion Standards
+Client must become proficient at flying  stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly landings
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -41,11 +41,13 @@ Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
 	5. Heavy touching, over-controlling
 	6. Improper trim control
 
-### Completion StandardsClient must demonstrate basic attitude instrument flying skills, to ACS standards (&plusmn;200 feet, heading &plusmn;20 degrees, airspeed &plusmn;10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
+### Completion Standards
+Client must demonstrate basic attitude instrument flying skills, to ACS standards (&plusmn;200 feet, heading &plusmn;20 degrees, airspeed &plusmn;10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly four fundamentals using image of instruments. What do you expect to see changing in each for each maneuver? 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

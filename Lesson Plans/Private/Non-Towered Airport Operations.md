@@ -42,11 +42,13 @@ Ground 1.0
 	3. Lack of awareness of other aircraft
 
 
-### Completion StandardsClient should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
+### Completion Standards
+Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport from several directions and various wind
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

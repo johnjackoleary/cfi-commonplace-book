@@ -45,11 +45,14 @@ Ground 1.5 hour, sim/airplane 1.5 hours
 	2. Dependency on sense other than instrument indications
 	3. Failure to use proper recovery sequence, i.d. power-pitch-bank for nose-high, and power-bank-pitch for nose low
 
-### Completion StandardsStudent demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
+### Completion Standards
+Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize and rehearse recovery from nose-high and nose-low
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

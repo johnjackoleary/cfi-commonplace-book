@@ -52,10 +52,13 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 	5. Recovering from dive too abruptly, causing secondary stall
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
-### Completion StandardsThe client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
+### Completion Standards
+The client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
 
-**Required Homework:** None. 
+### Required Homework
+ None. 
 
-**Recommended Homework:** None. 
+### Recommended Homework
+None. 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

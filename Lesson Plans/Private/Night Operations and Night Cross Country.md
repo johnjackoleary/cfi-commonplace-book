@@ -45,11 +45,14 @@ Ground 1.5 hour, flight 3 hours
 	3. Getting low on final approach, due to black hole illusion
 	4. Inadvertent flight into clouds is possible
 
-### Completion StandardsClient demonstrates the knowledge and skills to safely fly and navigate at night.
+### Completion Standards
+Client demonstrates the knowledge and skills to safely fly and navigate at night.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Plan >101nm night cross-country flight
 
-**Recommended Homework:** None 
+### Recommended Homework
+None 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
