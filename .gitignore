@@ -8,4 +8,4 @@ ehthumbs.db
 Thumbs.db
 
 # For Obsidian
-.obsidian/workspace
+.obsidian/workspace*

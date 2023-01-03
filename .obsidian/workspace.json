@@ -86,9 +86,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ec067d3f719b4e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/When are you established.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/When are you established.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/When are you established.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -234,8 +246,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "75a7d720e810c267",
+  "active": "ec067d3f719b4e07",
   "lastOpenFiles": [
+    "Inbox/When are you established.md",
     "Lesson Plans/Private/Performance Maneuvers - Steep Turns.md",
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
     "Lesson Plans/Private/Four Fundamentals of Flight.md",
@@ -244,7 +257,6 @@
     "Inbox/Don't crush the egg.md",
     "Media/Aircraft/C172S/C172S GAIT.md",
     "Media/Aircraft/DA40/DA40 XLS GAIT.md",
-    "Media/Aircraft/C172N/C172N GAIT.md",
-    "Media/Aircraft/C182T/C182T Checkout Checklist.md"
+    "Media/Aircraft/C172N/C172N GAIT.md"
   ]
 }
