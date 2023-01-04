@@ -8,20 +8,20 @@ tags: ppl, lesson
 To become proficient at S&L flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
 
 ### References
-AFH Ch3, PHAK Ch 1-8
+[[AFH Ch3]], PHAK Ch [[PHAK Ch1|1]], [[PHAK Ch2|2]], [[PHAK Ch3|3]], [[PHAK Ch4|4]], [[PHAK Ch5|5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
 
 ### Builds On
 [[Introductory Flight, Preflight, Taxiing, and Post-flight Procedures]]
 
 ### Schedule
-Ground 1 hour, flight 1.5 hours
+Ground 1 hour, Flight 1.5 hours
 
 ### Lesson Elements
 1. Straight and Level
 	1. Scanning for traffic!
 	2. Visual horizon to maintain direction and pitch attitude
 	3. Wingtip reference for level flight
-	4. Periodic cross-check of altimeter (not too often)
+	4. Periodic cross-check of altimeter (not too often, roughly 90/10 split)
 	5. Use of trim
 2. Climbs
 	1. To initiate climb: power -- pitch -- trim
@@ -32,7 +32,7 @@ Ground 1 hour, flight 1.5 hours
 	2. Pitch attitude for cruise descent and pattern descent
 	3. Trim for desired descent rate or speed
 4. Turns
-	1. Check for traffic (high wing plane - lift wing slight before banking)
+	1. Check for traffic (high wing plane - lift wing slightly before banking)
 	2. Adverse yaw
 	3. Rudder coordination, slips, skids, the ball
 	4. Use of rudder to initiate and exit turn (cancel out adverse yaw)
