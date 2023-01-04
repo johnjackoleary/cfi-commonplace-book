@@ -23,7 +23,7 @@ Ground 1 hour, Flight 1.5 hours
 	3. Wingtip reference for level flight
 	4. Periodic cross-check of altimeter (not too often, roughly 90/10 split)
 	5. Use of trim
-2. Climbs
+2. Constant Speed Climbs
 	1. To initiate climb: power -- pitch -- trim
 	2. Pitch attitudes for climb at Vy and Vx
 		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
@@ -31,9 +31,8 @@ Ground 1 hour, Flight 1.5 hours
 	4. To level off:
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
 		2. pitch -- power -- trim
-3. Descents
-	1. To initiate descent: pitch -- power -- trim
-		1. #todo :: confirm this order, mixed input from past instructors
+3. Constant Speed Descents
+	1. To initiate 500FPM/constant speed descent: power -- pitch (occurs naturally) -- trim
 	2. Pitch attitude for cruise descent and pattern descent
 	3. Trim for desired descent rate or speed
 	4. To level off:
