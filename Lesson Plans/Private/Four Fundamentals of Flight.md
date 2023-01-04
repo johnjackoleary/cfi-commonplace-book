@@ -26,7 +26,9 @@ Ground 1 hour, Flight 1.5 hours
 2. Climbs
 	1. To initiate climb: power -- pitch -- trim
 	2. Pitch attitudes for climb at Vy and Vx
+		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
 	3. Use of trim
+	4. To level off: pitch -- power -- trim
 3. Descents
 	1. To initiate descent: Pitch -- power -- trim
 	2. Pitch attitude for cruise descent and pattern descent
