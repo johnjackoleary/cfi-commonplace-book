@@ -40,7 +40,7 @@ Ground 1 hour, Flight 1 hour
 	2. Confirm with checklist
 4. Post-flight Procedures
 	1. Tie-down technique (chains, ropes) 
-		2. #todo :: may be better to teach rope knot as part of a future lesson
+		1. #todo :: may be better to teach rope knot as part of a future lesson
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
 5. Common Errors
