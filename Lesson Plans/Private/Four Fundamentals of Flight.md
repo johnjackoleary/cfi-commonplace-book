@@ -32,7 +32,8 @@ Ground 1 hour, Flight 1.5 hours
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
 		2. pitch -- power -- trim
 3. Descents
-	1. To initiate descent: Pitch -- power -- trim
+	1. To initiate descent: pitch -- power -- trim
+		1. #todo :: confirm this order, mixed input from past instructors
 	2. Pitch attitude for cruise descent and pattern descent
 	3. Trim for desired descent rate or speed
 	4. To level off:
