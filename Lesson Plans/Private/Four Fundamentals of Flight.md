@@ -28,11 +28,16 @@ Ground 1 hour, Flight 1.5 hours
 	2. Pitch attitudes for climb at Vy and Vx
 		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
 	3. Use of trim
-	4. To level off: pitch -- power -- trim
+	4. To level off:
+		1. lead by 10% vertical velocity, so 50ft at 500FPM
+		2. pitch -- power -- trim
 3. Descents
 	1. To initiate descent: Pitch -- power -- trim
 	2. Pitch attitude for cruise descent and pattern descent
 	3. Trim for desired descent rate or speed
+	4. To level off:
+		1. lead by 10% vertical velocity, so 50ft at 500FPM
+		2. power -- pitch (occurs naturally) -- trim
 4. Turns
 	1. Check for traffic (high wing plane - lift wing slightly before banking)
 	2. Adverse yaw
