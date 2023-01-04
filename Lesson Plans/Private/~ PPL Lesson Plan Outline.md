@@ -1,9 +1,10 @@
 ---
 cssclass: lesson
 tags: ppl
+based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 ---
 ### Private Pilot Airplane Single-Engine, Lesson Plan Outline
-John O'Leary (CFI Jack); Based on [[DietzPrivateAirplaneSyllabus2018TOC.pdf|Lou Dietz Lessons, March 2021]]
+John O'Leary (CFI Jack)
 
 #### Stage 1: Pre-Solo
 $\quad$[[Introductory Flight, Preflight, Taxiing, and Post-flight Procedures]]
