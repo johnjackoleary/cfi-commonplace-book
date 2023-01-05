@@ -2,6 +2,7 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
+#todo:: Consider breaking this into a demo flight and a later flight with the detail portions. Demo flight should just be about getting up in the air.
 
 ## Introductory Flight, Preflight, Taxiing, and Post-flight Procedures
 
