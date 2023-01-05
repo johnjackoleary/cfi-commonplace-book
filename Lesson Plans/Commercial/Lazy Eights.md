@@ -4,12 +4,20 @@ tags: cpl, lesson
 ---
 ## Lazy Eights
 
-**Objective:** The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
-**References:** [[AFH Ch10]], [[Commercial ACS]]
+### Objective
+The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
+
+### References
+[[AFH Ch10]], [[Commercial ACS]]
 **Additional Resources:** [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE), [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
-**Builds On:** [[Performance Maneuvers - Ground Reference Maneuvers]], [[Maneuvering During Slow Flight]]
-**Schedule:** 
-**Lesson Elements:**
+
+### Builds On
+[[Performance Maneuvers - Ground Reference Maneuvers]], [[Maneuvering During Slow Flight]]
+
+### Schedule
+
+
+### Lesson Elements
 1. Concepts in a lazy eight
 	1. Similar to an S-Turn, a lazy eight is two or more opposing 180° turns. The lazy eight adds both a climb and descent to each 180° segment (first 90° is the climb, the second 90° is the descent).
 	2. As we climb, we lose airspeed, which results in a smaller radius turn. This smaller radius turn causes a more pronounced [[Overbanking Tendency]]. Normally we counter this with opposite aileron, but in a lazy eight, we use it to slowly increase bank through the maneuver.
@@ -43,14 +51,16 @@ tags: cpl, lesson
 
 ![[Lazy Eight.jpeg]]
 
-**Completion Standards:** Client must fly maneuver to [[ACS]] standards: 
+### Completion Standards
+Client must fly maneuver to [[ACS]] standards: 
 - Approximately 30° bank at the steepest point.
 - Constant change of pitch and roll rate and airspeed.
 - At the 180° point: ±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly lazy eights
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*

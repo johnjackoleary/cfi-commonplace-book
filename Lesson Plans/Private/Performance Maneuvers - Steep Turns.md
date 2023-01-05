@@ -4,11 +4,19 @@ tags: ppl, lesson
 ---
 ## Performance Maneuvers - Steep Turns
 
-**Objective:** Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
-**References:** [[Private Pilot ACS]] Sec V-A, [[AFH Ch10]]
-**Builds On:** [[Four Fundamentals of Flight]]
-**Schedule:** Ground 0.5 hours, Flight 1.0 hours
-**Lesson Elements:**
+### Objective
+Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
+
+### References
+[[Private Pilot ACS]] Sec V-A, [[AFH Ch10]]
+
+### Builds On
+[[Four Fundamentals of Flight]]
+
+### Schedule
+Ground 0.5 hours, Flight 1.0 hours
+
+### Lesson Elements
 1. Aerodynamics of steep turns
 	1. Adverse yaw and rudder usage to compensate for it
 	2. Rudder usage during turn entry, steady turn, and turn exit
@@ -36,10 +44,12 @@ tags: ppl, lesson
 	5. Not adding power to maintain airspeed
 	6. Rolling out on wrong heading
 
-**Completion Standards:** Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
+### Completion Standards
+Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
 
-**Required Homework:** None
-**Recommended Homework:** 
+### Required Homework
+ None
+### Recommended Homework 
 - [ ] Chair fly steep turns
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

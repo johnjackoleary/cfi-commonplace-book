@@ -4,11 +4,19 @@ tags: ppl, lesson
 ---
 ## Normal and Crosswind Approaches and Landings
 
-**Objective:** Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
-**References:** [[Private Pilot ACS]] Sec IV-B, [[AFH Ch8]], [[POH]]
-**Builds On:** [[Maneuvering During Slow Flight]], [[Power-On and Power-Off Stalls]], [[Normal and Crosswind Takeoffs and Climbs]]
-**Schedule:** 0.5 hours ground, multiple flights to practice as necessary
-**Lesson Elements:**
+### Objective
+Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
+
+### References
+[[Private Pilot ACS]] Sec IV-B, [[AFH Ch8]], [[POH]]
+
+### Builds On
+[[Maneuvering During Slow Flight]], [[Power-On and Power-Off Stalls]], [[Normal and Crosswind Takeoffs and Climbs]]
+
+### Schedule
+0.5 hours ground, multiple flights to practice as necessary
+
+### Lesson Elements
 1. Determining landing performance and limitations
 2. Awareness of traffic, obstructions, hazards, wake turbulence
 3. Importance of Stabilized Approach to landing
@@ -50,11 +58,13 @@ tags: ppl, lesson
 	5. Poor directional control or drifting off centerline
 	6. Excessive braking!
 
-**Completion Standards:** Client must become proficient at flying  stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
+### Completion Standards
+Client must become proficient at flying  stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly landings
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

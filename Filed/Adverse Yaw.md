@@ -2,4 +2,6 @@
 ***Remedies:*** Use rudder to keep coordinated.
 ***Source***         :: [[AFH Ch3]]
 
+![[Adverse Yaw.jpeg]]
+
 #glossary #airtreknorthhw 

@@ -4,11 +4,19 @@ tags: ppl, lesson
 ---
 ## Go-Arounds and Rejected Landings
 
-**Objective:** Develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
-**References:** [[Private Pilot ACS]] Sec IV N, AFH Ch8, POH
-**Builds On:** [[Normal and Crosswind Approaches and Landings]]
-**Schedule:** Ground 0.5, multiple flights to practice this maneuver frequently
-**Lesson Elements:**
+### Objective
+Develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
+
+### References
+[[Private Pilot ACS]] Sec IV N, AFH Ch8, POH
+
+### Builds On
+[[Normal and Crosswind Approaches and Landings]]
+
+### Schedule
+Ground 0.5, multiple flights to practice this maneuver frequently
+
+### Lesson Elements
 1. Situations requiring a go-around.
 	1. Be prepared constantly for go-around. Every landing is a potential go-around! Go-around sooner, rather than later. Don't let things get out of hand!
 	2. Too high to land in first third of runway
@@ -36,11 +44,13 @@ tags: ppl, lesson
 	5. Drifting from runway centerline (unless offsetting for conflicting traffic)
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
 
-**Completion Standards:** Client must demonstrate judgement about when to initiate go-around, and meet ACS skill standards. Maintain takeoff power and proper climb configuration at Vx or Vy, +10/-0 knots.
+### Completion Standards
+Client must demonstrate judgement about when to initiate go-around, and meet ACS skill standards. Maintain takeoff power and proper climb configuration at Vx or Vy, +10/-0 knots.
 
-**Required Homework:** None.
+### Required Homework
+ None.
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly go-arounds
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

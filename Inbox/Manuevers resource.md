@@ -1,0 +1,1 @@
+https://download.aopa.org/121010av-adventures.pdf

@@ -4,12 +4,20 @@ tags: ppl, lesson
 ---
 ## Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes
 
-**Objective:** Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
-**References:** IFH Ch 7
-**Builds On:** [[Emergency Flight by Reference to Instruments - Four Fundamentals]]
-**Schedule:** Ground 1.5 hour, sim/airplane 1.5 hours
+### Objective
+Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
+
+### References
+IFH Ch 7
+
+### Builds On
+[[Emergency Flight by Reference to Instruments - Four Fundamentals]]
+
+### Schedule
+Ground 1.5 hour, sim/airplane 1.5 hours
 **CFI Equipment:** Hood or foggles
-**Lesson Elements:**
+
+### Lesson Elements
 1. Causes of unusual flight attitudes
 	1. Failure to properly trim the controls
 	2. Distraction, or fixation
@@ -37,11 +45,14 @@ tags: ppl, lesson
 	2. Dependency on sense other than instrument indications
 	3. Failure to use proper recovery sequence, i.d. power-pitch-bank for nose-high, and power-bank-pitch for nose low
 
-**Completion Standards:** Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
+### Completion Standards
+Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Memorize and rehearse recovery from nose-high and nose-low
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

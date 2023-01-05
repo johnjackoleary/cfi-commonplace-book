@@ -4,12 +4,20 @@ tags: ppl, lesson
 ---
 ## Flying the Traffic Pattern
 
-**Objective:** Develop knowledge of airport traffic patterns (towered and non-towered), skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern and approach to landing
-**References:** [[Private Pilot ACS]] Sec III, AFH Ch7, AIM 4-3
-**Builds On:** [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Performance Maneuvers - Ground Reference Maneuvers]]
+### Objective
+Develop knowledge of airport traffic patterns (towered and non-towered), skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern and approach to landing
+
+### References
+[[Private Pilot ACS]] Sec III, AFH Ch7, AIM 4-3
+
+### Builds On
+[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Performance Maneuvers - Ground Reference Maneuvers]]
 **CFI Equipment:** GPS/Sentry/ADS-B In
-**Schedule:** 1-hour ground, 1.5 hours flight
-**Lesson Elements:**
+
+### Schedule
+1-hour ground, 1.5 hours flight
+
+### Lesson Elements
 1. Review charted information on Sectionals, Chart Supplements, other information sources
 2. Palo Alto traffic procedures (as example of airport with Control Tower)
 	1. Pattern altitude: 800' on east side, 1000' on west side
@@ -33,12 +41,14 @@ tags: ppl, lesson
 	2. Lack of situation awareness or awareness of other traffic
 	3. Improper radio usage, forgetting radio calls at non-towered airports
 
-**Completion Standards:** Client must demonstrate proficiency at planning and flying pattern approaches and departures, at towered and non-towered airports, complying with AIM recommended procedures, maintaining awareness of and proper spacing from other aircraft. Maintain traffic pattern altitude &plusmn;100 feet, and airspeed &plusmn;10 knots (or mph).
+### Completion Standards
+Client must demonstrate proficiency at planning and flying pattern approaches and departures, at towered and non-towered airports, complying with AIM recommended procedures, maintaining awareness of and proper spacing from other aircraft. Maintain traffic pattern altitude &plusmn;100 feet, and airspeed &plusmn;10 knots (or mph).
 
-**Required Homework:**
+### Required Homework
+
 - [ ] Memorize power settings/airspeeds for pattern #TODO add these for C152/C172/PA28/DA40
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly traffic pattern entry
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

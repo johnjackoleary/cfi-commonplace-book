@@ -4,11 +4,19 @@ tags: ppl, lesson
 ---
 ## Weather Information and Cross-Country Flight Planning
 
-**Objective:** Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data for flight planning.
-**References:** PHAK, Ch 12 (weather theory); ACS I-C (Weather Information), Aviation Weather (AC 00-6B), and Aviation Weather Services (AC 00-45H), “Pilot’s Guide to a Preflight Briefing” (AC 91-92)
-**Builds On:** N/A
-**Schedule:** Ground 1.0, frequent practice on multiple flights
-**Lesson Elements:**
+### Objective
+Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data for flight planning.
+
+### References
+PHAK, Ch 12 (weather theory); ACS I-C (Weather Information), Aviation Weather (AC 00-6B), and Aviation Weather Services (AC 00-45H), “Pilot’s Guide to a Preflight Briefing” (AC 91-92)
+
+### Builds On
+N/A
+
+### Schedule
+Ground 1.0, frequent practice on multiple flights
+
+### Lesson Elements
 1. Weather theory -- sources of information for study
 2. Sources of weather information
 	1. Flight Service: 1-800-WXBrief
@@ -31,11 +39,14 @@ tags: ppl, lesson
 	2. How to file
 	3. How to activate and close
 
-**Completion Standards:** Client should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
+### Completion Standards
+Client should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Make a 1800wxbrief.com account, and start to use it for pre-flight weather briefings
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

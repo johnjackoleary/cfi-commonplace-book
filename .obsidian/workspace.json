@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "07374a2093142553",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "c5ea498963a3a299",
             "type": "leaf",
             "state": {
@@ -51,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Aircraft/C182T/C182T Checkout Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Aircraft/C182T/C182T Checkout Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Media/Aircraft/C182T/C182T Checkout Checklist.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,7 +202,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ae5640d7b8ea5aae",
+  "active": "07374a2093142553",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Media/Aircraft/C182T/C182T Checkout Checklist.md",

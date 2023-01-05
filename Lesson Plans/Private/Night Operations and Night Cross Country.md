@@ -4,11 +4,19 @@ tags: ppl, lesson
 ---
 ## Night Operations and Night Cross Country
 
-**Objective:** Develop knowledge and skill pertaining to night flight.
-**References:** [[Private Pilot ACS]] Section XI; AFH Ch10 (night operations), PHAK Ch. 14 (airport lighting), Ch. 17 (night vision)
-**Builds On:** [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Navigation Charts and National Airspace System]], [[Pilotage and Dead Reckoning]]
-**Schedule:** Ground 1.5 hour, flight 3 hours
-**Lesson Elements:**
+### Objective
+Develop knowledge and skill pertaining to night flight.
+
+### References
+[[Private Pilot ACS]] Section XI; AFH Ch10 (night operations), PHAK Ch. 14 (airport lighting), Ch. 17 (night vision)
+
+### Builds On
+[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Navigation Charts and National Airspace System]], [[Pilotage and Dead Reckoning]]
+
+### Schedule
+Ground 1.5 hour, flight 3 hours
+
+### Lesson Elements
 1. Regulations pertaining to night flight
 	1. Navigation lights required sunset—sunrise
 	2. Logging night flight -- after civil twilight
@@ -37,11 +45,14 @@ tags: ppl, lesson
 	3. Getting low on final approach, due to black hole illusion
 	4. Inadvertent flight into clouds is possible
 
-**Completion Standards:** Client demonstrates the knowledge and skills to safely fly and navigate at night.
+### Completion Standards
+Client demonstrates the knowledge and skills to safely fly and navigate at night.
 
-**Required Homework:** 
+### Required Homework
+ 
 - [ ] Plan >101nm night cross-country flight
 
-**Recommended Homework:** None 
+### Recommended Homework
+None 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

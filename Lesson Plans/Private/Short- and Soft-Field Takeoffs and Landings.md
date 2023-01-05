@@ -4,11 +4,19 @@ tags: ppl, lesson
 ---
 ## Short- and Soft-Field Takeoffs and Landings
 
-**Objective:** Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
-**References:** [[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
-**Builds On:** [[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
-**Schedule:** Ground 1.0; Flight – multiple flights, with frequent practice
-**Lesson Elements:**
+### Objective
+Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
+
+### References
+[[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
+
+### Builds On
+[[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
+
+### Schedule
+Ground 1.0; Flight – multiple flights, with frequent practice
+
+### Lesson Elements
 1. Overview of short- and soft-field operations
 2. Takeoffs and Climb Procedures
 	1. Set flaps according to POH/AFM
@@ -38,11 +46,13 @@ tags: ppl, lesson
 		3. Touch down smoothly, with minimal float, at or within 200 feet beyond the specified touchdown point
 		4. Apply brakes as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
-**Completion Standards:** Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
+### Completion Standards
+Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** 
+### Recommended Homework 
 - [ ] Chair fly short- and soft-field takeoffs and landings
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

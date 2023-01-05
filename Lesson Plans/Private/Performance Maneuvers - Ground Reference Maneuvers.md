@@ -4,12 +4,20 @@ tags: ppl, lesson
 ---
 ## Performance Maneuvers - Ground Reference Maneuvers
 
-**Objective:** Develop risk management and skills associated with ground referene maneuvers, including rectangular patterns, S-turns and turns around a point.
-**References:** [[Private Pilot ACS]] Sec V-B, [[AFH Ch7]]
-**Builds On:** [[Four Fundamentals of Flight]]
-**Schedule:** Ground 1.0 hours, Flight 1.0 hours
+### Objective
+Develop risk management and skills associated with ground referene maneuvers, including rectangular patterns, S-turns and turns around a point.
+
+### References
+[[Private Pilot ACS]] Sec V-B, [[AFH Ch7]]
+
+### Builds On
+[[Four Fundamentals of Flight]]
+
+### Schedule
+Ground 1.0 hours, Flight 1.0 hours
 **CFI Equipment:** GPS/Sentry/ADS-B In
-**Lesson Elements:**
+
+### Lesson Elements
 1. Effect of wind during ground reference maneuvers
 	1. Effects of wind on ground track and crab angle![[Wind Drift.jpeg]]
 	2. Effect of bank angle and groundspeed on rate and radius of turn (relative to ground)![[Effect of Wind on Turn.jpeg]]
@@ -35,10 +43,13 @@ tags: ppl, lesson
 	4. Lack of rudder coordination
 	5. Failure to maintain altitude or airspeed throughout the maneuver
 
-**Completion Standards:** Client must demonstrate the ability to choose an approriate location, select a safe entry speed, and perform the maneuvers to ACS standards. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
+### Completion Standards
+Client must demonstrate the ability to choose an approriate location, select a safe entry speed, and perform the maneuvers to ACS standards. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
 
-**Required Homework:** None
+### Required Homework
+ None
 
-**Recommended Homework:** None
+### Recommended Homework
+None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
