@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Four Fundamentals of Flight
 
 ### Objective
-To become proficient at S&L flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
+To become proficient at straight and level (S&L) flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
 
 ### References
 [[AFH Ch3]], PHAK Ch [[PHAK Ch1|1]], [[PHAK Ch2|2]], [[PHAK Ch3|3]], [[PHAK Ch4|4]], [[PHAK Ch5|5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
