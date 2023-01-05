@@ -20,7 +20,7 @@ Ground 1 hour, Flight 1.5 hours
 
 ### Lesson Elements
 1. Four Forces
-	1. #todo :: add this
+	1. [[Forces in Stabilized Flight]]
 2. Straight and Level
 	1. Scanning for traffic!
 	2. Visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
@@ -29,12 +29,13 @@ Ground 1 hour, Flight 1.5 hours
 	5. Use of trim
 3. Climbs
 	1. To initiate climb:
-		1. pitch (to Vy, approximately 10°)
+		1. pitch (to Vclimb, approximately 7° / 90kts)
 			1. #todo :: verify this degree
 		2. power (full)
 		3. trim (to relieve control pressure, after aircraft stabilizes)
 	2. Pitch attitudes for climb at Vy and Vx
 		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
+		2. #todo :: move to later lesson
 	3. Use of trim
 	4. To level off:
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
