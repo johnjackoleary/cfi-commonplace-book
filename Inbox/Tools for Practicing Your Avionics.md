@@ -2,4 +2,4 @@ While [[MSFS]] can be helpful in some cases, the incorrect avionics software is 
 
 Here are some better alternatives.
 
-- GNS 530: [Free 400/500 Series & GNS 480 Simulators from Garmin](https://www8.garmin.com/include/SimulatorPopup.html)
+- GNS 530: [400W/500W Series Trainer - WAAS software version 3.00](https://www8.garmin.com/support/download_details.jsp?id=3531)
