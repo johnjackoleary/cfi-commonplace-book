@@ -44,6 +44,7 @@ Ground 1 hour, Flight 1.5 hours
 	1. To initiate 500FPM/constant speed descent: 
 		1. power (2000 RPM in C172SP)
 		2. pitch (occurs naturally)
+			1. #todo :: add image
 		3. trim (to relieve control pressure, may need little/none here)
 	2. Pitch attitude for cruise descent and pattern descent
 	3. Trim for desired descent rate or speed
