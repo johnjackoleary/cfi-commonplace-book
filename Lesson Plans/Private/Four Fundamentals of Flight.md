@@ -24,7 +24,7 @@ Ground 1 hour, Flight 1.5 hours
 	4. Periodic cross-check of altimeter (not too often, roughly 90/10 split)
 	5. Use of trim
 2. Constant Speed Climbs
-	1. To initiate climb: power -- pitch -- trim
+	1. To initiate climb: pitch -- power -- trim
 	2. Pitch attitudes for climb at Vy and Vx
 		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
 	3. Use of trim
