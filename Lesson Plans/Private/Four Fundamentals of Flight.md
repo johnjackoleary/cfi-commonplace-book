@@ -21,7 +21,7 @@ Ground 1 hour, Flight 1.5 hours
 ### Lesson Elements
 1. Straight and Level
 	1. Scanning for traffic!
-	2. Visual horizon to maintain direction and pitch attitude ()
+	2. Visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
 	3. Wingtip reference for level flight
 	4. Periodic cross-check of altimeter ([[90%-10% Outside vs Inside for Integrated Flight Instruction|aim for 90-10 split of time looking outside vs inside]])
 	5. Use of trim
