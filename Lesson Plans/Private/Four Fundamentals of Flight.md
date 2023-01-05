@@ -19,13 +19,15 @@ To become proficient at S&L flight, turns, climbs, and descents, controlling the
 Ground 1 hour, Flight 1.5 hours
 
 ### Lesson Elements
-1. Straight and Level
+1. Four Forces
+	1. #todo :: add this
+2. Straight and Level
 	1. Scanning for traffic!
 	2. Visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
 	3. Wingtip reference for level flight
 	4. Periodic cross-check of altimeter ([[90%-10% Outside vs Inside for Integrated Flight Instruction|aim for 90-10 split of time looking outside vs inside]])
 	5. Use of trim
-2. Climbs
+3. Climbs
 	1. To initiate climb:
 		1. pitch (to Vy, approximately 10°)
 			1. #todo :: verify this degree
@@ -37,7 +39,7 @@ Ground 1 hour, Flight 1.5 hours
 	4. To level off:
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
 		2. pitch -- power -- trim
-3. Constant Speed Descents
+4. Constant Speed Descents
 	1. To initiate 500FPM/constant speed descent: 
 		1. power (2000 RPM in C172SP)
 		2. pitch (occurs naturally)
@@ -47,13 +49,15 @@ Ground 1 hour, Flight 1.5 hours
 	4. To level off:
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
 		2. power -- pitch (occurs naturally) -- trim
-4. Turns
+5. Turns
 	1. Check for traffic (high wing plane - lift wing slightly before banking)
-	2. Adverse yaw
+	2. [[Adverse Yaw]]
+		1. #todo :: add picture
 	3. Rudder coordination, slips, skids, the ball
 	4. Use of rudder to initiate and exit turn (cancel out adverse yaw)
 	5. Load factor, aft pressure to maintain altitude
-5. Common errors
+		1. #todo :: add picture
+6. Common errors
 	1. Forgetting to scan for traffic
 	2. Overcontrolling - use pressure, not movement, of controls
 	3. Chasing the instruments - looking at the instruments too often
