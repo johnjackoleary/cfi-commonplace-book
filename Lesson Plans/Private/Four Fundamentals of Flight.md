@@ -10,6 +10,8 @@ To become proficient at S&L flight, turns, climbs, and descents, controlling the
 ### References
 [[AFH Ch3]], PHAK Ch [[PHAK Ch1|1]], [[PHAK Ch2|2]], [[PHAK Ch3|3]], [[PHAK Ch4|4]], [[PHAK Ch5|5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
 
+#todo :: trim these references to minimum set
+
 ### Builds On
 [[Introductory Flight, Preflight, Taxiing, and Post-flight Procedures]]
 
@@ -19,12 +21,16 @@ Ground 1 hour, Flight 1.5 hours
 ### Lesson Elements
 1. Straight and Level
 	1. Scanning for traffic!
-	2. Visual horizon to maintain direction and pitch attitude
+	2. Visual horizon to maintain direction and pitch attitude ()
 	3. Wingtip reference for level flight
-	4. Periodic cross-check of altimeter (not too often, roughly 90/10 split)
+	4. Periodic cross-check of altimeter ([[90%-10% Outside vs Inside for Integrated Flight Instruction|aim for 90-10 split of time looking outside vs inside]])
 	5. Use of trim
-2. Constant Speed Climbs
-	1. To initiate climb: pitch -- power -- trim
+2. Climbs
+	1. To initiate climb:
+		1. pitch (to Vy, approximately 10°)
+			1. #todo :: verify this degree
+		2. power (full)
+		3. trim (to relieve control pressure, after aircraft stabilizes)
 	2. Pitch attitudes for climb at Vy and Vx
 		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
 	3. Use of trim
@@ -32,7 +38,10 @@ Ground 1 hour, Flight 1.5 hours
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
 		2. pitch -- power -- trim
 3. Constant Speed Descents
-	1. To initiate 500FPM/constant speed descent: power -- pitch (occurs naturally) -- trim
+	1. To initiate 500FPM/constant speed descent: 
+		1. power (2000 RPM in C172SP)
+		2. pitch (occurs naturally)
+		3. trim (to relieve control pressure, may need little/none here)
 	2. Pitch attitude for cruise descent and pattern descent
 	3. Trim for desired descent rate or speed
 	4. To level off:
