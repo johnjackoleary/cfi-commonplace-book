@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "857c3f7d7b3e9d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Key Radio Frequencies for Bay Area.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Tools for Practicing Your Avionics.md",
+                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Tools for Practicing Your Avionics.md",
+                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Tools for Practicing Your Avionics.md"
+                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md"
               }
             }
           },
@@ -181,8 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "132e4ca745387a89",
+  "active": "d5858647135b45d7",
   "lastOpenFiles": [
+    "Inbox/Key Radio Frequencies for Bay Area.md",
+    "Inbox/Tools for Practicing Your Avionics.md",
     "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
     "Lesson Plans/Private/Four Fundamentals of Flight.md",
@@ -190,8 +204,6 @@
     "Filed/Forces of a Slip and Skip.md",
     "Sources/PHAK Ch5.md",
     "Sources/PHAK Ch4.md",
-    "Sources/PHAK Ch8.md",
-    "Sources/PHAK Ch7.md",
-    "Sources/PHAK Ch6.md"
+    "Sources/PHAK Ch8.md"
   ]
 }

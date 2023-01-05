@@ -18,7 +18,7 @@ Ground 1.5 hours
 
 ### Lesson Elements
 1. Radio communications
-	1. Frequencies to memorize for Palo Alto: ATIS 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
+	1. Memorize frequencies for Palo Alto: ATIS 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
 	2. Format for all radio calls: WHO you're calling, WHO you are, WHERE you are (in 3D space), WHAT you want
 	3. Required readbacks: Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc. If in doubt, readback full instructions.
 	4. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
@@ -45,6 +45,7 @@ Client must demonstrate good radio communications and etiquette as specified in 
 ### Required Homework
  
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands
+- [ ] Memorize Palo Alto frequencies
 - [ ] Print light gun signals for kneeboard
 
 ### Recommended Homework 
