@@ -2,7 +2,7 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-#todo:: Consider breaking this into a demo flight and a later flight with the detail portions. Demo flight should just be about getting up in the air.
+#todo:: Break this into a demo flight and a later flight with the detail portions, and perhaps pull some of the deeper discussions (e.g. PAVE topics) into future lessons. Demo flight should just be about getting up in the air and seeing if they like to fly.
 
 ## Introductory Flight, Preflight, Taxiing, and Post-flight Procedures
 
