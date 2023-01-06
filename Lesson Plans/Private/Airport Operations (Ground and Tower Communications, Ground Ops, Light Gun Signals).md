@@ -8,7 +8,9 @@ tags: ppl, lesson
 To understand airport operations, including communications, traffic patterns, and light gun signals
 
 ### References
-[[Private Pilot ACS]] Sec III, AFH Ch2, PHAK Ch 14, Southwest Chart Supplement, [[AIM 2]], Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
+- [[Private Pilot ACS]] Sec III
+- [[AFH Ch2]]
+- [[PHAK Ch 14]], Southwest Chart Supplement, [[AIM 2]], Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
 
 ### Builds On
 N/A
@@ -17,24 +19,31 @@ N/A
 Ground 1.5 hours
 
 ### Lesson Elements
-1. Radio communications
+1. Airport Features
+	1. Wind Direction Indicators
+	2. Signs and Markings
+2. Radio communications
 	1. Memorize frequencies for Palo Alto: ATIS 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
 	2. Format for all radio calls: WHO you're calling, WHO you are, WHERE you are (in 3D space), WHAT you want
-	3. Required readbacks: Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc. If in doubt, readback full instructions.
+	3. Required readbacks: 
+		1. Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc.
+		2. Sometimes specific request for readback in the ATIS
+		3. If in doubt, readback full instructions.
 	4. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
-	5. Mentally rehearse what you will say before keying the mic. If in doubt, ask for clarification or request "say again"
-	6. Anticipate the response and pay attention for any unusual elements
-	7. Stuck microphones -- how to detect, how to respond
-2. [[Runway Incursions Overview, Risks, and Mitigations]]
-3. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
-4. [[Phonetic Alphabet]]
+	5. Mentally rehearse what you will say before keying the mic.
+	6. If in doubt, ask for clarification or request "say again"
+	7. Anticipate the response and pay attention for any unusual elements
+	8. Stuck microphones -- how to detect, how to respond
+3. [[Runway Incursions Overview, Risks, and Mitigations]]
+4. Radio communications practice: listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
+5. [[Phonetic Alphabet]]
 	1. Memorize them! Alpha through Zulu
 	2. Special number pronunciations: "Tree" and "Niner"
-5. Light Gun Signals
-	1. Debugging common radio issues
+6. Light Gun Signals
+	1. Debugging common radio issues (volume low, cable disconnect)
 	2. Study and memorize the signals
-	3. Also, put a copy onto your kneeboard (people forget in the stress of the moment!)
-6. Common Errors
+	3. Put a copy onto your kneeboard (people forget in the stress of the moment!)
+7. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight

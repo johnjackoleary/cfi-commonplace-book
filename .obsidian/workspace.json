@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c84c088f733c157e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Plans/Private/Optional Introductory or Demo Flight.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0bd0a93bad4a0fad",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a8e387455a2989c1",
@@ -203,15 +190,15 @@
   },
   "active": "4d3c3991fec02153",
   "lastOpenFiles": [
-    "Inbox/Elements to be sorted.md",
-    "Lesson Plans/Private/Optional Introductory or Demo Flight.md",
-    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
-    "Lesson Plans/Commercial/Lazy Eights.md",
-    "Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md",
-    "Lesson Plans/Commercial/Eights on Pylons.md",
-    "Inbox/Commercial Pilot Certificate.md",
-    "Templates/Commercial Lesson Template.md",
+    "Inbox/PHAK Ch 14.md",
+    "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
     "Lesson Plans/Private/Four Fundamentals of Flight.md",
-    "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md"
+    "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
+    "Sources/AFH Ch2.md",
+    "Inbox/Elements to be sorted.md",
+    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
+    "Lesson Plans/Private/Optional Introductory or Demo Flight.md",
+    "Lesson Plans/Commercial/Lazy Eights.md",
+    "Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md"
   ]
 }

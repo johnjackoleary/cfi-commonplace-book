@@ -33,7 +33,7 @@ Ground 1 hour, Flight 1 hour
 	1. Steer with feet
 	4. Minimum use of brakes (don't use power if using brakes)
 3. Before Takeoff Checks
-	1. Following checklist as a do-list
+	1. Follow checklist as a do-list
 4. Flight
 	1. Following roughly the [[Optional Introductory or Demo Flight]] lesson
 5. Post-flight Procedures
@@ -51,7 +51,7 @@ Ground 1 hour, Flight 1 hour
 Client must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
 
 ### Required Logbook Notes
-
+None
 
 ### Required Homework
 None

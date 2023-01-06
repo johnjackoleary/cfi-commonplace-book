@@ -31,14 +31,13 @@ Ground 1 hour, Flight 2 hours
 	3. Rudder coordination, slips, skids, the ball ![[Indications of Slip and Skid.jpeg]]
 	4. Use of rudder to initiate and exit turn (cancel out adverse yaw)
 	5. Load factor, aft pressure to maintain altitude ![[Forces in Level Turn.jpeg]]
-4. Climbs
+4. Cruise Climbs
 	1. To initiate climb:
-		1. pitch (to Vclimb, approximately 7° / 90kts)
-			1. #todo :: verify this degree
+		1. pitch
 		2. power (full)
 		3. trim (to relieve control pressure, after aircraft stabilizes)
-	3. Use of trim
-	4. To level off:
+	2. Use of trim
+	3. To level off:
 		1. lead by 10% vertical velocity, so 50ft at 500FPM
 		2. pitch -- power -- trim
 5. Constant Speed Descents
@@ -60,7 +59,10 @@ Ground 1 hour, Flight 2 hours
 	5. Lack of rudder coordination
 
 ### Completion Standards
-Client must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Client must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
+Learner must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Learner must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
+
+### Required Logbook Notes
+For [[FAR 61.87]]: Straight and level flight, and turns in both directions; Climbs and climbing turns;
 
 ### Required Homework
 

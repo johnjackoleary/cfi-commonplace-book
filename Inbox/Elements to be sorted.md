@@ -22,6 +22,9 @@ Refilling oil
 
 #todo :: which lesson covers aircraft stability ?
 
+Flight instruments
+
+Airport, Runway, and Taxiway lights
 
 
 
@@ -37,10 +40,7 @@ I. Preflight Preparation
 II. Preflight Procedures
 	A. Preflight Assessment
 	B. Flight Deck Management
-	C. Engine Starting
 	D. Taxiing (ASEL, AMEL)
-	E. Taxiing and Sailing (ASES, AMES)
-	F. Before Takeoff Check
 III. Airport and Seaplane Base Operations
 	A. Communications, Light Signals, and Runway Lighting Systems
 	B. Traffic Patterns
@@ -51,12 +51,6 @@ IV. Takeoffs,Landings,andGo-Arounds
 	D. Soft-Field Approach and Landing (ASEL)
 	E. Short-Field Takeoff and Maximum Performance Climb (ASEL, AMEL)
 	F. Short-Field Approach and Landing (ASEL, AMEL)
-	G. Confined Area Takeoff and Maximum Performance Climb (ASES, AMES)
-	H. Confined Area Approach and Landing (ASES, AMES)
-	I. Glassy Water Takeoff and Climb (ASES, AMES)
-	J. Glassy Water Approach and Landing (ASES, AMES)
-	K. Rough Water Takeoff and Climb (ASES, AMES)
-	L. Rough Water Approach and Landing (ASES, AMES)
 	M. Forward Slip to a Landing (ASEL, ASES)
 	N. Go-Around/Rejected Landing
 V. Performance and Ground Reference Maneuvers
@@ -84,16 +78,8 @@ IX. EmergencyOperations
 	B. Emergency Approach and Landing (Simulated) (ASEL, ASES)
 	C. Systems and Equipment Malfunctions
 	D. Emergency Equipment and Survival Gear
-	E. Engine Failure During Takeoff Before VMC (Simulated) (AMEL, AMES)
-	F. Engine Failure After Liftoff (Simulated) (AMEL, AMES)
-	G. Approach and Landing with an Inoperative Engine (Simulated) (AMEL, AMES)
-	X. Multiengine Operations A. Maneuvering with One Engine Inoperative (AMEL, AMES) B. VMC Demonstration (AMEL, AMES)
-	C. One Engine Inoperative (Simulated) (solely by Reference to Instruments) During Straight-and-
-	Level Flight and Turns (AMEL, AMES)
-	D. Instrument Approach and Landing with an Inoperative Engine (Simulated) (solely by Reference to Instruments) (AMEL, AMES)
 XI. Night Operations A. Night Preparation XII. Postflight Procedures
 	A. After Landing, Parking and Securing (ASEL, AMEL)
-	B. Seaplane Post-Landing Procedures (ASES, AMES)
 
 
 
@@ -106,10 +92,6 @@ A student pilot who is receiving training for a single-engine airplane rating or
 (2) Taxiing or surface operations, including runups; 
 
 (3) Takeoffs and landings, including normal and crosswind; 
-
-(4) Straight and level flight, and turns in both directions; 
-
-(5) Climbs and climbing turns; 
 
 (6) Airport traffic patterns, including entry and departure procedures; 
 
