@@ -5,7 +5,7 @@ tags: ppl, lesson
 ## Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)
 
 ### Objective
-To understand airport operations, including communications, traffic patterns, and light gun signals
+To understand airport operations, including communications, traffic patterns, and light gun signals.
 
 ### References
 - [[AFH Ch2]]
@@ -20,27 +20,31 @@ N/A
 ### Schedule
 Ground 1.5 hours
 
+#todo :: palo alto pattern here or future lesson, also the AF/D
+
 ### Lesson Elements
 1. Airport Features
 	1. Wind Direction Indicators ![[Wind Direction Indicators.jpeg]]
 	2. Signs and Markings from [[PHAK Ch14]] and [[AIM 2-3]]
 		1. Good summary at [CFI Notebook](https://www.cfinotebook.net/notebook/aircraft-operations/terminal/airport-markings-and-signs)
 		2. <iframe src="https://www.cfinotebook.net/notebook/aircraft-operations/terminal/airport-markings-and-signs" width=640 height=480></iframe>
-4. Radio communications
-	1. Memorize frequencies for Palo Alto: ATIS 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
+4. Radio communications #todo :: reorder
+	1. Memorize frequencies for Palo Alto: [[ATIS]] 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
 	2. Format for all radio calls: WHO you're calling, WHO you are, WHERE you are (in 3D space), WHAT you want
-	3. Required readbacks: 
+	4. Required readbacks:
 		1. Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc.
 		2. Sometimes specific request for readback in the ATIS
 		3. If in doubt, readback full instructions.
-	4. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
-	5. Mentally rehearse what you will say before keying the mic.
-	6. If in doubt, ask for clarification or request "say again"
-	7. Anticipate the response and pay attention for any unusual elements
-	8. Stuck microphones -- how to detect, how to respond
+	5. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
+	6. Mentally rehearse what you will say before keying the mic.
+	7. If in doubt, ask for clarification or request "say again"
+	8. Anticipate the response and pay attention for any unusual elements
+	9. Stuck microphones -- how to detect, how to respond
 7. Radio communications practice (ATC phraseology):
 	1. [[Example Radio Calls]]
-	2. Listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
+	2. #todo :: populate standard phraseology (wilco, roger, say again)
+	3. #todo :: add note on double click of radio
+	4. Listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
 8. Taxiing Procedure
 	1. Airport and taxiway familiarization
 	2. Taxi instructions/clearances
@@ -49,6 +53,7 @@ Ground 1.5 hours
 9. [[Phonetic Alphabet]]
 	1. Memorize them! Alpha through Zulu
 	2. Special number pronunciations: "Tree" and "Niner"
+	3. #todo :: move earlier
 10. [[Light Gun Signals]]
 	1. Example
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
