@@ -7,42 +7,42 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 John O'Leary (CFI Jack)
 
 #### Stage 1: Pre-Solo
-$\quad$[[Optional Introductory or Demo Flight]]
-$\quad$[[Preflight, Taxiing, and Post-flight Procedures]]
-$\quad$[[Four Fundamentals of Flight]]
-$\quad$[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]]
-$\quad$[[Performance Maneuvers - Steep Turns]]
-$\quad$[[Maneuvering During Slow Flight]]
-$\quad$[[Power-On and Power-Off Stalls]]
-$\quad$[[Normal and Crosswind Takeoffs and Climbs]]
-$\quad$[[Performance Maneuvers - Ground Reference Maneuvers]]
-$\quad$[[Flying the Traffic Pattern]]
-$\quad$[[Normal and Crosswind Approaches and Landings]]
-$\quad$[[Go-Arounds and Rejected Landings]]
-$\quad$[[Spin Awareness and Spin Recovery]]
-$\quad$[[Forward Slips to Landing]]
-$\quad$[[Navigation Charts and National Airspace System]]
-$\quad$[[Short- and Soft-Field Takeoffs and Landings]]
-$\quad$[[Non-Towered Airport Operations]]
-$\quad$[[Emergency Approaches and Landings]]
+[[Optional Introductory or Demo Flight]]
+[[Preflight, Taxiing, and Post-flight Procedures]]
+[[Four Fundamentals of Flight]]
+[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]]
+[[Performance Maneuvers - Steep Turns]]
+[[Maneuvering During Slow Flight]]
+[[Power-On and Power-Off Stalls]]
+[[Normal and Crosswind Takeoffs and Climbs]]
+[[Performance Maneuvers - Ground Reference Maneuvers]]
+[[Flying the Traffic Pattern]]
+[[Normal and Crosswind Approaches and Landings]]
+[[Go-Arounds and Rejected Landings]]
+[[Spin Awareness and Spin Recovery]]
+[[Forward Slips to Landing]]
+[[Navigation Charts and National Airspace System]]
+[[Short- and Soft-Field Takeoffs and Landings]]
+[[Non-Towered Airport Operations]]
+[[Emergency Approaches and Landings]]
 
-$\quad$(Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
+(Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
-$\quad$[[Navigation Systems, including Radar Services]]
-$\quad$[[Aircraft Performance including Weight and Balance]]
-$\quad$[[Weather Information and Cross-Country Flight Planning]]
-$\quad$[[Pilotage and Dead Reckoning]]
-$\quad$[[Lost Procedures, and Diversion to Alternates]]
-$\quad$[[Emergency Flight by Reference to Instruments - Four Fundamentals]]
-$\quad$[[Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
+[[Navigation Systems, including Radar Services]]
+[[Aircraft Performance including Weight and Balance]]
+[[Weather Information and Cross-Country Flight Planning]]
+[[Pilotage and Dead Reckoning]]
+[[Lost Procedures, and Diversion to Alternates]]
+[[Emergency Flight by Reference to Instruments - Four Fundamentals]]
+[[Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
 
 (Cross Country Phase Check and Solo Cross Countries)
 
 #### Stage III: Night Flying and Checkride Preparation
-$\quad$[[Night Operations and Night Cross Country]]
-$\quad$[[Emergency Operations]]
-$\quad$[[Lesson Plans/Private/Review and Checkride Preparation]]
+[[Night Operations and Night Cross Country]]
+[[Emergency Operations]]
+[[Lesson Plans/Private/Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)
 
