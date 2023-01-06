@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "079b205521e9dd0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c84c088f733c157e",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a8e387455a2989c1",
@@ -61,8 +49,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4d3c3991fec02153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "000b0c3b8bfd14ea",
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Elements to be sorted.md",
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Elements to be sorted.md",
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Elements to be sorted.md"
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md"
               }
             }
           },
@@ -199,17 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bd0a93bad4a0fad",
+  "active": "4d3c3991fec02153",
   "lastOpenFiles": [
-    "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
     "Inbox/Elements to be sorted.md",
-    "Inbox/Outline of PPL ACS.md",
-    "Sources/Private Pilot ACS.md",
-    "Inbox/Adjusting seat height.md",
-    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
     "Lesson Plans/Private/Optional Introductory or Demo Flight.md",
-    "Lesson Plans/Private/~ Complete PPL Syllabus.md",
-    "Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md",
-    "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md"
+    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
+    "Lesson Plans/Commercial/Lazy Eights.md",
+    "Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md",
+    "Lesson Plans/Commercial/Eights on Pylons.md",
+    "Inbox/Commercial Pilot Certificate.md",
+    "Templates/Commercial Lesson Template.md",
+    "Lesson Plans/Private/Four Fundamentals of Flight.md",
+    "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md"
   ]
 }

@@ -5,19 +5,17 @@ tags: ppl, lesson
 ## Four Fundamentals of Flight
 
 ### Objective
-To become proficient at straight and level (S&L) flight, turns, climbs, and descents, controlling the airplane's attitude by visual reference to the horizon.
+To begin learning the fundamentals of straight and level (S&L) flight, turns, climbs, and descents; and controlling the airplane's attitude by visual reference to the horizon.
 
 ### References
 - [[AFH Ch3]]
 - [[PHAK Ch5]]
 
-#todo :: which lesson covers aircraft stability ?
-
 ### Builds On
 [[Preflight, Taxiing, and Post-flight Procedures]]
 
 ### Schedule
-Ground 1 hour, Flight 1.5 hours
+Ground 1 hour, Flight 2 hours
 
 ### Lesson Elements
 1. [[Forces in Stabilized Flight]]
@@ -39,9 +37,6 @@ Ground 1 hour, Flight 1.5 hours
 			1. #todo :: verify this degree
 		2. power (full)
 		3. trim (to relieve control pressure, after aircraft stabilizes)
-	2. Pitch attitudes for climb at Vy and Vx
-		1. #todo :: make sure convergence of Vx and Vy as altitude increases is captured in later lesson
-		2. #todo :: move to later lesson
 	3. Use of trim
 	4. To level off:
 		1. lead by 10% vertical velocity, so 50ft at 500FPM

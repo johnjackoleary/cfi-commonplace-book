@@ -20,6 +20,7 @@
 
 Refilling oil
 
+#todo :: which lesson covers aircraft stability ?
 
 
 
@@ -93,3 +94,39 @@ IX. EmergencyOperations
 XI. Night Operations A. Night Preparation XII. Postflight Procedures
 	A. After Landing, Parking and Securing (ASEL, AMEL)
 	B. Seaplane Post-Landing Procedures (ASES, AMES)
+
+
+
+
+## Pre-solo maneuvers from [[FAR 61.87]]
+A student pilot who is receiving training for a single-engine airplane rating or privileges must receive and log flight training for the following maneuvers and procedures: 
+
+(1) Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems; 
+
+(2) Taxiing or surface operations, including runups; 
+
+(3) Takeoffs and landings, including normal and crosswind; 
+
+(4) Straight and level flight, and turns in both directions; 
+
+(5) Climbs and climbing turns; 
+
+(6) Airport traffic patterns, including entry and departure procedures; 
+
+(7) Collision avoidance, windshear avoidance, and wake turbulence avoidance; 
+
+(8) Descents, with and without turns, using high and low drag configurations; 
+
+(9) Flight at various airspeeds from cruise to slow flight; 
+
+(10) Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall; 
+
+(11) Emergency procedures and equipment malfunctions; 
+
+(12) Ground reference maneuvers; 
+
+(13) Approaches to a landing area with simulated engine malfunctions; 
+
+(14) Slips to a landing; and 
+
+(15) Go-arounds.
