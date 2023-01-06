@@ -6,11 +6,6 @@
 	4. Tuning radio, receiving and recording [[ATIS]]
 
 
-2. Taxiing Procedure
-	1. Airport and taxiway familiarization (See [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)|Lesson 3]])
-	2. Stick full aft (for tailwheel)
-	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|Image]])
-
 
 3. Before Takeoff Check
 	1. [[CIGAR TIP]] acronym
