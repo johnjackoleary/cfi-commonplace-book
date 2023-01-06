@@ -8,7 +8,7 @@ tags: ppl, lesson
 To understand airport operations, including communications, traffic patterns, and light gun signals
 
 ### References
-[[Private Pilot ACS]] Sec III, AFH Ch2, PHAK Ch 14, Southwest Chart Supplement, AIM Ch 2, Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
+[[Private Pilot ACS]] Sec III, AFH Ch2, PHAK Ch 14, Southwest Chart Supplement, [[AIM 2]], Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
 
 ### Builds On
 N/A
@@ -43,7 +43,6 @@ Ground 1.5 hours
 Client must demonstrate good radio communications and etiquette as specified in the AIM, understand the Palo Alto airport ground and pattern environment, and how to use light signals in case of radio/electrical failure.
 
 ### Required Homework
- 
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands
 - [ ] Memorize Palo Alto frequencies
 - [ ] Print light gun signals for kneeboard
