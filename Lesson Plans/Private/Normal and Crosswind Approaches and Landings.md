@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Normal and Crosswind Approaches and Landings
-
 ### Objective
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
 

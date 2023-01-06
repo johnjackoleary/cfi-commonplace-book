@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Spin Awareness and Spin Recovery
-
 ### Objective
 Develop knowledge, risk management and skills associated with spins, flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
 

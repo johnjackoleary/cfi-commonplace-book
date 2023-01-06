@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Flying the Traffic Pattern
-
 ### Objective
 Develop knowledge of airport traffic patterns (towered and non-towered), skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern and approach to landing
 

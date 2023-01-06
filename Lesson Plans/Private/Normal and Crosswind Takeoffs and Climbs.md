@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Normal and Crosswind Takeoffs and Climbs
-
 ### Objective
 To understand and become proficient at the procedures used for normal takeoffs and climbs. 
 

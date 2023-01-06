@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Go-Arounds and Rejected Landings
-
 ### Objective
 Develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
 

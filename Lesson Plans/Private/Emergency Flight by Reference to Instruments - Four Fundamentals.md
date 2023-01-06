@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Emergency Flight by Reference to Instruments - Four Fundamentals
-
 ### Objective
 Develop knowledge and skills required for emergency flight by reference to instruments.
 

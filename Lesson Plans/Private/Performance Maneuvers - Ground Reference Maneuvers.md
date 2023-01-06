@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Performance Maneuvers - Ground Reference Maneuvers
-
 ### Objective
 Develop risk management and skills associated with ground referene maneuvers, including rectangular patterns, S-turns and turns around a point.
 

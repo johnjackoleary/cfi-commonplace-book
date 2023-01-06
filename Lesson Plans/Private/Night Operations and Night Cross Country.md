@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Night Operations and Night Cross Country
-
 ### Objective
 Develop knowledge and skill pertaining to night flight.
 

@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Power-On and Power-Off Stalls
-
 ### Objective
 Develop knowledge, risk management, and skills associated with power-on and power-off stalls
 

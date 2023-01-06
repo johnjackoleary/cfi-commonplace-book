@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Maneuvering During Slow Flight
-
 ### Objective
 Develop knowledge, risk management and skills associated with maneuvers during slow flight. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
 

@@ -2,22 +2,25 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-UPDATE BEFORE NEXT USE
-## {{title}}
+### Objective
 
-**Objective:** 
-**References:** 
-**Builds On:** 
-**Schedule:** 
-**Lesson Elements:**
+### References
+
+### Builds On
+
+### Schedule
+
+### Lesson Elements
 
 
-**Completion Standards:** 
+### Completion Standards
 
-**Required Homework:** 
+### Required Logbook Phraseology
+
+### Required Homework
 - [ ] 
 
-**Recommended Homework:** 
+### Recommended Homework
 - [ ] 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)
-
 ### Objective
 To understand airport operations, including communications, traffic patterns, and light gun signals.
 

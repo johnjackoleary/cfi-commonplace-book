@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Non-Towered Airport Operations
-
 ### Objective
 Develop knowledge of operations and traffic patterns at non-towered airports.
 

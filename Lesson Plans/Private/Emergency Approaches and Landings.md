@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Emergency Approaches and Landings
-
 ### Objective
 Develop knowledge and skills associated with emergency approaches and landings, and ability to handle various systems and equipment failures.
 

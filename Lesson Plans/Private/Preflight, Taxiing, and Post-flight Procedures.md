@@ -2,9 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-
-## Introductory Flight, Preflight, Taxiing, and Post-flight Procedures
-
 ### Objective
 Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
 

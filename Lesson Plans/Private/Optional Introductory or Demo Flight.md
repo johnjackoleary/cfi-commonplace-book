@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Introductory or Demo Flight
-
 ### Objective
 Get a feel for flying by actually taking the controls once airborne.
 

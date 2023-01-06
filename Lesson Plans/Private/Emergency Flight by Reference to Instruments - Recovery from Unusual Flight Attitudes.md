@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes
-
 ### Objective
 Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
 

@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Weather Information and Cross-Country Flight Planning
-
 ### Objective
 Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data for flight planning.
 

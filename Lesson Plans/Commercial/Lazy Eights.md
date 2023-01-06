@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: cpl, lesson
 ---
-## Lazy Eights
-
 ### Objective
 The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
 

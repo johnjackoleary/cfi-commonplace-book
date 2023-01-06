@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Forward Slips to Landing
-
 ### Objective
 Develop knowledge, risk management, and skills associated with forward slips to landing.
 

@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Review and Checkride Preparation
-
 ### Objective
 Prepare for practical test oral and flight portions.
 

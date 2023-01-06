@@ -2,8 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-## Aircraft Performance including Weight and Balance
-
 ### Objective
 Develop understanding of aircraft performance and limitations, and the ability to safely and conservatively plan cross-country flights.
 
