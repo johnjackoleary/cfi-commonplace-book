@@ -5,7 +5,7 @@
 	3. Introduction to Weight & Balance
 	4. Tuning radio, receiving and recording [[ATIS]]
 
-
+Taxiing at night 
 
 3. Before Takeoff Check
 	1. [[CIGAR TIP]] acronym
@@ -21,6 +21,13 @@ Flight instruments
 
 Airport, Runway, and Taxiway lights
 
+Lost communication procedures.
+
+National Transportation Safety Board (NTSB) accident/incident reporting.
+
+Runway Status Lighting Systems.
+
+
 
 
 I. Preflight Preparation
@@ -35,9 +42,7 @@ I. Preflight Preparation
 II. Preflight Procedures
 	A. Preflight Assessment
 	B. Flight Deck Management
-	D. Taxiing (ASEL, AMEL)
 III. Airport and Seaplane Base Operations
-	A. Communications, Light Signals, and Runway Lighting Systems
 	B. Traffic Patterns
 IV. Takeoffs,Landings,andGo-Arounds
 	A. Normal Takeoff and Climb
@@ -73,7 +78,9 @@ IX. EmergencyOperations
 	B. Emergency Approach and Landing (Simulated) (ASEL, ASES)
 	C. Systems and Equipment Malfunctions
 	D. Emergency Equipment and Survival Gear
-XI. Night Operations A. Night Preparation XII. Postflight Procedures
+XI. Night Operations 
+	A. Night Preparation 
+XII. Postflight Procedures
 	A. After Landing, Parking and Securing (ASEL, AMEL)
 
 

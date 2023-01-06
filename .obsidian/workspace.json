@@ -34,13 +34,13 @@
               "type": "markdown",
               "state": {
                 "file": "Lesson Plans/Private/Four Fundamentals of Flight.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4d3c3991fec02153",
+            "id": "39145299f86ce411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md"
+                "file": "Lesson Plans/Private/Four Fundamentals of Flight.md"
               }
             }
           },
@@ -190,17 +189,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d3c3991fec02153",
+  "active": "036754e2aeba71a6",
   "lastOpenFiles": [
-    "Lesson Plans/Private/Four Fundamentals of Flight.md",
     "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
     "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
+    "Lesson Plans/Private/Four Fundamentals of Flight.md",
+    "Lesson Plans/Private/Light Gun Signals.md",
     "Inbox/Elements to be sorted.md",
+    "Filed/Phonetic Alphabet.md",
     "Inbox/AIM 2-3.md",
     "Sources/PHAK Ch14.md",
-    "Inbox/PHAK Ch 14.md",
-    "Sources/AFH Ch2.md",
-    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
-    "Lesson Plans/Private/Optional Introductory or Demo Flight.md"
+    "Inbox/PHAK Ch 14.md"
   ]
 }

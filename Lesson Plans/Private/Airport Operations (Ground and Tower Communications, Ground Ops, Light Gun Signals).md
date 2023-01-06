@@ -38,22 +38,25 @@ Ground 1.5 hours
 	6. If in doubt, ask for clarification or request "say again"
 	7. Anticipate the response and pay attention for any unusual elements
 	8. Stuck microphones -- how to detect, how to respond
-5. Taxiing Procedure
+7. Radio communications practice (ATC phraseology):
+	1. [[Example Radio Calls]]
+	2. Listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
+8. Taxiing Procedure
 	1. Airport and taxiway familiarization
 	2. Taxi instructions/clearances
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|Image]])
 6. [[Runway Incursions Overview, Risks, and Mitigations]]
-7. Radio communications practice:
-	1. [[Example Radio Calls]]
-	2. Listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
-8. [[Phonetic Alphabet]]
+9. [[Phonetic Alphabet]]
 	1. Memorize them! Alpha through Zulu
 	2. Special number pronunciations: "Tree" and "Niner"
-9. [[Light Gun Signals]]
-	1. Debugging common radio issues (volume low, cable disconnect)
-	2. Study and memorize the signals
-	3. Put a copy onto your kneeboard (people forget in the stress of the moment!)
-10. Common Errors
+10. [[Light Gun Signals]]
+	1. Example
+		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
+		2. From *[Real Light Gun Signals | ATC Tower](https://www.youtube.com/watch?v=nxoakUa8UqQ)* by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199)
+	2. Debugging common radio issues (volume low, cable disconnect)
+	3. Study and memorize the signals
+	4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
+12. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight
@@ -61,8 +64,8 @@ Ground 1.5 hours
 ### Completion Standards
 Client must demonstrate good radio communications and etiquette as specified in the AIM, understand the Palo Alto airport ground and pattern environment, and how to use light signals in case of radio/electrical failure.
 
-### 
-For [[FAR 61.87]]: Taxiing or surface operations, including runups;
+### Required Logbook Phraseology
+None
 
 ### Required Homework
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands

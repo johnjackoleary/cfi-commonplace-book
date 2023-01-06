@@ -50,8 +50,8 @@ Ground 1 hour, Flight 1 hour
 ### Completion Standards
 Client must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
 
-### Required Logbook Notes
-None
+### Required Logbook Phraseology
+For [[FAR 61.87]]: Taxiing or surface operations, including runups;
 
 ### Required Homework
 None

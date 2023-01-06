@@ -61,7 +61,7 @@ Ground 1 hour, Flight 2 hours
 ### Completion Standards
 Learner must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Learner must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: &plusmn;10 knots, &plusmn;10 degrees, &plusmn;100 feet)
 
-### Required Logbook Notes
+### Required Logbook Phraseology
 For [[FAR 61.87]]: Straight and level flight, and turns in both directions; Climbs and climbing turns;
 
 ### Required Homework
