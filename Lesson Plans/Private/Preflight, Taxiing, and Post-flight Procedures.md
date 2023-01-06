@@ -2,7 +2,6 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
-#todo:: Break this into a demo flight and a later flight with the detail portions, and perhaps pull some of the deeper discussions (e.g. PAVE topics) into future lessons. Demo flight should just be about getting up in the air and seeing if they like to fly.
 
 ## Introductory Flight, Preflight, Taxiing, and Post-flight Procedures
 
@@ -20,31 +19,30 @@ Ground 1 hour, Flight 1 hour
 
 ### Lesson Elements
 1. Preflight
-	1. Preflight the pilot also! - [[IMSAFE]] checklist (`= [[IMSAFE]].meaning`)
-	2. Weather and [[TFR]]s (`= [[TFR]].meaning`s)
-	3. Walk-around inspection, use of checklists
-	4. Fuel sampling and fuel level
+	1. Walk-around inspection, use of checklists
+	2. Fuel sampling and fuel level
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/rya4YFDpsPs?start=193"  frameborder="0"></iframe>
-		2. From *[Aircraft Systems - 05 - Fuel System](https://www.youtube.com/watch?v=rya4YFDpsPs)* by [@ERAUSpecialVFR](https://www.youtube.com/@ERAUSpecialVFR)
-	5. Introduction to Weight & Balance
-	6. Required documents on board - [[AR(R)OW]]
-	7. Flight deck organization
-	8. Tuning radio, receiving and recording [[ATIS]]
-	9. Engine start, including use of primer and propeller safety
+		1. From *[Aircraft Systems - 05 - Fuel System](https://www.youtube.com/watch?v=rya4YFDpsPs)* by [@ERAUSpecialVFR](https://www.youtube.com/@ERAUSpecialVFR)
+		2.
+
+	3. Oil levels
+	4. Required documents on board - [[AR(R)OW]]
+	5. Flight deck organization
+	6. Seat adjustments
+	7. Engine start, including use of primer and propeller safety
 2. Taxiing Procedure
-	1. Airport and taxiway familiarization (See [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)|Lesson 3]])
-	2. Stick full aft (for tailwheel)
-	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|Image]])
-	4. Minimum use of brakes
+	1. Steer with feet
+	4. Minimum use of brakes (don't use power if using brakes)
 3. Before Takeoff Check
 	1. [[CIGAR TIP]] acronym
 	2. Confirm with checklist
-4. Post-flight Procedures
+4. Flight, following roughly the [[Optional Introductory or Demo Flight]] lesson
+5. Post-flight Procedures
 	1. Tie-down technique (chains, ropes) 
 		1. #todo :: may be better to teach rope knot as part of a future lesson
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
-5. Common Errors
+6. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking

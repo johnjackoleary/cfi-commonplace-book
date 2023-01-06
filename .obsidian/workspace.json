@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e387455a2989c1",
+        "id": "60364619154fcdbf",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
+                "file": "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
+          {
+            "id": "c84c088f733c157e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Plans/Private/Optional Introductory or Demo Flight.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0bd0a93bad4a0fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Elements to be sorted.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a8e387455a2989c1",
+        "type": "tabs",
+        "children": [
           {
             "id": "036754e2aeba71a6",
             "type": "leaf",
@@ -30,21 +61,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "f81c81f1b00c3c25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Plans/Private/Introductory or Demo Flight.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Plans/Private/Introductory or Demo Flight.md",
+                "file": "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Plans/Private/Introductory or Demo Flight.md",
+                "file": "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Plans/Private/Introductory or Demo Flight.md"
+                "file": "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md"
               }
             }
           },
@@ -181,17 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f81c81f1b00c3c25",
+  "active": "036754e2aeba71a6",
   "lastOpenFiles": [
+    "Inbox/Elements to be sorted.md",
     "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
-    "Lesson Plans/Private/Introductory or Demo Flight.md",
+    "Inbox/Adjusting seat height.md",
+    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
+    "Lesson Plans/Private/Optional Introductory or Demo Flight.md",
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
     "Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md",
     "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
     "Inbox/AIM 2.md",
-    "Sources/AIM 4-3.md",
-    "Inbox/FAR 61.87.md",
-    "Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md",
-    "Inbox/Tools for Practicing Your Avionics.md"
+    "Sources/AIM 4-3.md"
   ]
 }
