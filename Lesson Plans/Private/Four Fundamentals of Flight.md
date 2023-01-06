@@ -14,7 +14,7 @@ To become proficient at straight and level (S&L) flight, turns, climbs, and desc
 #todo :: which lesson covers aircraft stability ?
 
 ### Builds On
-[[Introductory Flight, Preflight, Taxiing, and Post-flight Procedures]]
+[[Preflight, Taxiing, and Post-flight Procedures]]
 
 ### Schedule
 Ground 1 hour, Flight 1.5 hours

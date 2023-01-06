@@ -18,5 +18,6 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
+See also [[FAR 61.87]]
 
 #airtreknorthhw

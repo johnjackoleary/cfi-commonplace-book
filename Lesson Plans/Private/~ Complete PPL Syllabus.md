@@ -7,7 +7,7 @@ tags: ppl
 ----
 
 # Stage 1: Pre-Solo
-![[Introductory Flight, Preflight, Taxiing, and Post-flight Procedures]]
+![[Preflight, Taxiing, and Post-flight Procedures]]
 
 ----
 

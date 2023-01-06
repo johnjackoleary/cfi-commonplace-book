@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a56ba51c9b92289",
+            "id": "079b205521e9dd0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lesson Plans/Private/~ Complete PPL Syllabus.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "d5858647135b45d7",
+            "id": "036754e2aeba71a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+                "file": "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "0ac3563ff13ef7e1",
+            "id": "f81c81f1b00c3c25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/AIM 2.md",
+                "file": "Lesson Plans/Private/Introductory or Demo Flight.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "903faeb3cc646497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/AIM 4-3.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+                "file": "Lesson Plans/Private/Introductory or Demo Flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+                "file": "Lesson Plans/Private/Introductory or Demo Flight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md"
+                "file": "Lesson Plans/Private/Introductory or Demo Flight.md"
               }
             }
           },
@@ -193,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5858647135b45d7",
+  "active": "f81c81f1b00c3c25",
   "lastOpenFiles": [
-    "Inbox/AIM 2.md",
-    "Inbox/Tools for Practicing Your Avionics.md",
-    "Inbox/Key Radio Frequencies for Bay Area.md",
-    "Sources/AIM 4-3.md",
-    "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
-    "Lesson Plans/Private/Example Radio Calls.md",
+    "Lesson Plans/Private/Preflight, Taxiing, and Post-flight Procedures.md",
+    "Lesson Plans/Private/Introductory or Demo Flight.md",
     "Lesson Plans/Private/~ Complete PPL Syllabus.md",
-    "Lesson Plans/Private/Four Fundamentals of Flight.md",
-    "Lesson Plans/Private/Bank Versus Stall Speed and Load Factor.md",
-    "Filed/Forces of a Slip and Skip.md"
+    "Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md",
+    "Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md",
+    "Inbox/AIM 2.md",
+    "Sources/AIM 4-3.md",
+    "Inbox/FAR 61.87.md",
+    "Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md",
+    "Inbox/Tools for Practicing Your Avionics.md"
   ]
 }
