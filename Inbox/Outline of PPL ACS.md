@@ -1,28 +1,4 @@
-
-1. Preflight
-	1. Preflight the pilot also! - [[IMSAFE]] checklist (`= [[IMSAFE]].meaning`)
-	2. Weather and [[TFR]]s (`= [[TFR]].meaning`s)
-	3. Introduction to Weight & Balance
-	4. Tuning radio, receiving and recording [[ATIS]]
-
-
-2. Taxiing Procedure
-	1. Airport and taxiway familiarization (See [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)|Lesson 3]])
-	2. Stick full aft (for tailwheel)
-	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|Image]])
-
-
-3. Before Takeoff Check
-	1. [[CIGAR TIP]] acronym
-
-
-		1. #todo :: may be better to teach rope knot as part of a future lesson
-
-Refilling oil
-
-
-
-
+See also [[Private Pilot ACS]]
 
 I. Preflight Preparation
 	A. Pilot Qualifications
@@ -33,6 +9,7 @@ I. Preflight Preparation
 	F. Performance and Limitations
 	G. Operation of Systems
 	H. Human Factors
+	I. Water and Seaplane Characteristics, Seaplane Bases, Maritime Rules, and Aids to Marine Navigation (ASES, AMES)
 II. Preflight Procedures
 	A. Preflight Assessment
 	B. Flight Deck Management

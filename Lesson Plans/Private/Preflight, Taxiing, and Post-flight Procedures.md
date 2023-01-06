@@ -24,7 +24,6 @@ Ground 1 hour, Flight 1 hour
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/rya4YFDpsPs?start=193"  frameborder="0"></iframe>
 		1. From *[Aircraft Systems - 05 - Fuel System](https://www.youtube.com/watch?v=rya4YFDpsPs)* by [@ERAUSpecialVFR](https://www.youtube.com/@ERAUSpecialVFR)
 		2.
-
 	3. Oil levels
 	4. Required documents on board - [[AR(R)OW]]
 	5. Flight deck organization
@@ -33,13 +32,12 @@ Ground 1 hour, Flight 1 hour
 2. Taxiing Procedure
 	1. Steer with feet
 	4. Minimum use of brakes (don't use power if using brakes)
-3. Before Takeoff Check
-	1. [[CIGAR TIP]] acronym
-	2. Confirm with checklist
-4. Flight, following roughly the [[Optional Introductory or Demo Flight]] lesson
+3. Before Takeoff Checks
+	1. Following checklist as a do-list
+4. Flight
+	1. Following roughly the [[Optional Introductory or Demo Flight]] lesson
 5. Post-flight Procedures
-	1. Tie-down technique (chains, ropes) 
-		1. #todo :: may be better to teach rope knot as part of a future lesson
+	1. Tie-down technique
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
 6. Common Errors
@@ -50,7 +48,10 @@ Ground 1 hour, Flight 1 hour
 	5. Incorrect position of controls relative to wind
 
 ### Completion Standards
-Client must become proficient at preflight inspection, engine start, safe taxiing techniques, before takeoff check, and post-flight procedures.
+Client must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
+
+### Required Logbook Notes
+
 
 ### Required Homework
 None
