@@ -2,6 +2,9 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
+
+#todo :: Maybe split into ground and airport operations
+
 ### Objective
 To understand airport operations, including communications, traffic patterns, and light gun signals.
 
