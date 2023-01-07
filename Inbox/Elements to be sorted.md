@@ -21,6 +21,8 @@ left turning tendencies
 
 Flight instruments
 
+Vx, Vy
+
 Airport, Runway, and Taxiway lights
 
 Lost communication procedures.

@@ -14,8 +14,6 @@
 		{"id":"de7dc795fc9dfc1a","x":527,"y":-845,"width":450,"height":60,"color":"3","type":"text","text":"Collision avoidance, windshear avoidance, and wake turbulence avoidance;"},
 		{"id":"24fdd1061b8b3646","x":1057,"y":-1288,"width":450,"height":60,"color":"3","type":"text","text":"Approaches to a landing area with simulated engine malfunctions;"},
 		{"id":"56299b1faba63274","x":1057,"y":-1003,"width":450,"height":60,"color":"3","type":"text","text":"Takeoffs and landings, including normal and crosswind;"},
-		{"id":"6c37e30d30c8825b","x":1836,"y":-1136,"width":450,"height":60,"color":"5","type":"text","text":"Steep Turns"},
-		{"id":"c40c70874a376675","x":937,"y":-2584,"width":450,"height":60,"color":"2","type":"text","text":"Climbs at best angle and best rate; and "},
 		{"id":"d8a54b75e46a5a31","x":937,"y":-2484,"width":450,"height":60,"color":"2","type":"text","text":"Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications; "},
 		{"id":"6377149171e23c0b","x":937,"y":-2384,"width":450,"height":60,"color":"2","type":"text","text":"Use of aircraft performance charts pertaining to cross-country flight; "},
 		{"id":"c8d837a3142bbfb5","x":937,"y":-2284,"width":450,"height":60,"color":"2","type":"text","text":"Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach; "},
@@ -55,7 +53,6 @@
 		{"id":"55d47b73841152a4","x":-799,"y":1229,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Emergency Flight by Reference to Instruments - Four Fundamentals.md"},
 		{"id":"a9714f44019e6228","x":-319,"y":1229,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md"},
 		{"id":"a6babaf23b85bb18","x":-799,"y":2189,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Pilotage and Dead Reckoning.md"},
-		{"id":"983b24f8304bc455","x":-799,"y":1709,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Navigation Charts and National Airspace System.md"},
 		{"id":"1da73f6d452b2fce","x":3078,"y":3749,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Optional Introductory or Demo Flight.md"},
 		{"id":"d977536e0370a3b3","x":3262,"y":2709,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Maneuvering During Slow Flight.md"},
 		{"id":"8ebe62802d9f64f8","x":3262,"y":3349,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Four Fundamentals of Flight.md"},
@@ -70,7 +67,10 @@
 		{"id":"d31131a99b9a078e","x":3838,"y":1509,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Normal and Crosswind Takeoffs and Climbs.md"},
 		{"id":"6b51f73707f99fbe","x":3262,"y":1109,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Go-Arounds and Rejected Landings.md"},
 		{"id":"23bd6872665d2ea8","x":2585,"y":573,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Emergency Approaches and Landings.md"},
-		{"id":"85436140e73fd7f4","x":-2239,"y":773,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Non-Towered Airport Operations.md"}
+		{"id":"85436140e73fd7f4","x":-2239,"y":773,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Non-Towered Airport Operations.md"},
+		{"id":"983b24f8304bc455","x":1861,"y":573,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Navigation Charts and National Airspace System.md"},
+		{"id":"c40c70874a376675","x":1057,"y":-1453,"width":450,"height":60,"color":"2","type":"text","text":"Climbs at best angle and best rate; and "},
+		{"id":"6c37e30d30c8825b","x":937,"y":-2584,"width":450,"height":60,"color":"5","type":"text","text":"Steep Turns"}
 	],
 	"edges":[
 		{"id":"13b0451f33a2f9e2","fromNode":"7f55f6ce1e40fb82","fromSide":"top","toNode":"b70cb975e13d3618","toSide":"bottom"},
