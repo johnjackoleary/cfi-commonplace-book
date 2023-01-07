@@ -7,9 +7,9 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 John O'Leary (CFI Jack)
 
 #### Stage 1: Pre-Solo
-[[Optional Introductory or Demo Flight]]
-[[Preflight, Taxiing, and Post-flight Procedures]]
-[[Four Fundamentals of Flight]]
+[[0. Optional Introductory or Demo Flight]]
+[[1. Preflight, Taxiing, and Post-flight Procedures]]
+[[2. Four Fundamentals of Flight]]
 [[Towered Airport Operations]]
 [[Performance Maneuvers - Steep Turns]]
 [[Maneuvering During Slow Flight]]

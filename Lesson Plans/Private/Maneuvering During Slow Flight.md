@@ -9,7 +9,7 @@ Develop knowledge, risk management and skills associated with maneuvers during s
 [[Private Pilot ACS]] Sec VII, AFH Ch4, PHAK Ch. 5
 
 ### Builds On
-[[Four Fundamentals of Flight]]
+[[2. Four Fundamentals of Flight]]
 
 ### Schedule
 1-hour ground, 1.5 hours flight

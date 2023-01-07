@@ -7,15 +7,15 @@ tags: ppl
 ----
 
 # Stage 1: Pre-Solo
-![[Optional Introductory or Demo Flight]]
+![[0. Optional Introductory or Demo Flight]]
 
 ----
 
-![[Preflight, Taxiing, and Post-flight Procedures]]
+![[1. Preflight, Taxiing, and Post-flight Procedures]]
 
 ----
 
-![[Four Fundamentals of Flight]]
+![[2. Four Fundamentals of Flight]]
 
 ----
 
