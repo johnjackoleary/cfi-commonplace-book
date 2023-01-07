@@ -10,9 +10,10 @@ Complete the [[FAR 61.87]] required pre-solo knowledge test, ensure pre-solo doc
 - 
 
 ### Builds On
-
+All pre-solo lessons
 
 ### Schedule
+1hr ground; 2hr flight
 
 ### Lesson Elements
 
