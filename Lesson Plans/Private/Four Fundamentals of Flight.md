@@ -10,7 +10,7 @@ To begin learning the fundamentals of straight and level (S&L) flight, turns, cl
 - [[PHAK Ch5]]
 
 ### Builds On
-[[Preflight, Taxiing, and Post-flight Procedures]]
+N/A
 
 ### Schedule
 Ground 1 hour, Flight 2 hours
