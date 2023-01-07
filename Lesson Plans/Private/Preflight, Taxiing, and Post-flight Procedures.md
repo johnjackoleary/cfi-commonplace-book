@@ -8,6 +8,9 @@ Develop skills associated with preparation for safe flight, including preflight 
 ### References
 [[POH]]; [[ACS]] II and XII; [[WVFC Member Regulations]], AFH Ch [[AFH Ch1|1]], [[AFH Ch2|2]], [[AFH Ch3|3]]; PHAK Ch [[PHAK Ch3|3]], [[PHAK Ch4|4]], [[PHAK Ch5|5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
 
+#todo :: clean up references
+#todo :: add to this so preflight explicitly mets 61.87 requirements
+
 ### Builds On
 N/A
 

@@ -16,7 +16,7 @@ All pre-solo lessons
 1hr ground; 2hr flight
 
 ### Lesson Elements
-1. Documentation and paperwork
+1. Documentation and paperwor
 
 ### Completion Standards
 
