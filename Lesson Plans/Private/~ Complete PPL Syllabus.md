@@ -19,7 +19,7 @@ tags: ppl
 
 ----
 
-![[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]]
+![[Towered Airport Operations]]
 
 ----
 

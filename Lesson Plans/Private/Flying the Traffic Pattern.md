@@ -9,7 +9,7 @@ Develop knowledge of airport traffic patterns (towered and non-towered), skill a
 [[Private Pilot ACS]] Sec III, AFH Ch7, AIM 4-3
 
 ### Builds On
-[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Performance Maneuvers - Ground Reference Maneuvers]]
+[[Towered Airport Operations]], [[Performance Maneuvers - Ground Reference Maneuvers]]
 
 ### CFI Equipment
 GPS/Sentry/ADS-B In

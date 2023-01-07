@@ -10,7 +10,7 @@ John O'Leary (CFI Jack)
 [[Optional Introductory or Demo Flight]]
 [[Preflight, Taxiing, and Post-flight Procedures]]
 [[Four Fundamentals of Flight]]
-[[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]]
+[[Towered Airport Operations]]
 [[Performance Maneuvers - Steep Turns]]
 [[Maneuvering During Slow Flight]]
 [[Power-On and Power-Off Stalls]]
