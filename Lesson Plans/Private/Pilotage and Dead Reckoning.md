@@ -13,7 +13,9 @@ PHAK Ch 16 (Navigation)
 
 ### Schedule
 Ground 1.0, Flight – multiple during dual cross-country flights
-**CFI Equipment:** E6-B
+
+### CFI Equipment
+E6-B
 
 ### Lesson Elements
 1. Pilotage

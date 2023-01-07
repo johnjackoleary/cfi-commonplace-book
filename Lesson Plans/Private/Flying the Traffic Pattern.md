@@ -10,7 +10,9 @@ Develop knowledge of airport traffic patterns (towered and non-towered), skill a
 
 ### Builds On
 [[Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals)]], [[Performance Maneuvers - Ground Reference Maneuvers]]
-**CFI Equipment:** GPS/Sentry/ADS-B In
+
+### CFI Equipment
+GPS/Sentry/ADS-B In
 
 ### Schedule
 1-hour ground, 1.5 hours flight

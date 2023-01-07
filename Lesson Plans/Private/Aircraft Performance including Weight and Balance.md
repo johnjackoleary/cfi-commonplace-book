@@ -13,7 +13,9 @@ N/A
 
 ### Schedule
 Ground 2.0
-**CFI Equipment:** E6B Calculator or App
+
+### CFI Equipment
+E6B Calculator or App
 
 ### Lesson Elements
 1. Organization of POH

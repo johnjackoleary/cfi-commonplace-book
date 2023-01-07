@@ -13,7 +13,9 @@ Develop risk management and skills associated with ground referene maneuvers, in
 
 ### Schedule
 Ground 1.0 hours, Flight 1.0 hours
-**CFI Equipment:** GPS/Sentry/ADS-B In
+
+### CFI Equipment
+GPS/Sentry/ADS-B In
 
 ### Lesson Elements
 1. Effect of wind during ground reference maneuvers

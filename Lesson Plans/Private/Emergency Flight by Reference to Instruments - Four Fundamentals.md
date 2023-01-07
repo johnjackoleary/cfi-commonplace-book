@@ -13,7 +13,9 @@ Instrument Flying Handbook Ch 6-7; AFH Ch17; [[Private Pilot ACS]] Section VIII
 
 ### Schedule
 Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
-**CFI Equipment:** Hood or foggles
+
+### CFI Equipment
+Hood or foggles
 
 ### Lesson Elements
 1. Introduction to Instrument Scan (ground portion)
@@ -27,7 +29,7 @@ Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
 			3. Scan primary instruments
 			4. Scan all instruments
 2. Attitude instrument flight pasics
-	1. Power-Pitch-Time sequence to initiate climb, Pitch-Power-Trim for descent.
+	1. Power-Pitch-Trim sequence to initiate climb, Pitch-Power-Trim for descent.
 	2. Straight and Level flight (IFH 7-2)
 	3. Straight climbs and descents (IFH 7-14)
 	4. Turns (IFH 7-19)

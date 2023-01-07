@@ -13,7 +13,9 @@ IFH Ch 7
 
 ### Schedule
 Ground 1.5 hour, sim/airplane 1.5 hours
-**CFI Equipment:** Hood or foggles
+
+### CFI Equipment
+Hood or foggles
 
 ### Lesson Elements
 1. Causes of unusual flight attitudes
