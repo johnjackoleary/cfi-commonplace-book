@@ -1,7 +1,7 @@
 ## Appendix A - Part 61 Training Requirements
 
 **Solo Requirements for Student Pilots:**
-FAR 61.87(d) *Maneuvers and procedures for pre-solo flight training in a single engine airplane.*
+[[FAR 61.87]](d) *Maneuvers and procedures for pre-solo flight training in a single engine airplane.*
 
 A student pilot who is receiving training for a single-engine airplane rating or privileges must receive and log flight training for the following maneuvers and procedures:
 - [ ] Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems;
@@ -22,7 +22,7 @@ A student pilot who is receiving training for a single-engine airplane rating or
 
 
 **Solo Cross-Country Requirements for Student Pilots:**
-FAR 61.93 (e) *Maneuvers and procedures for cross-country flight training in a single-engine airplane.*
+[[FAR 61.93]] (e) *Maneuvers and procedures for cross-country flight training in a single-engine airplane.*
 
 A student pilot who is receiving training for cross-country flight in a single-engine airplane must receive and log flight training in the following maneuvers and procedures:
 - [ ] Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass;
@@ -40,7 +40,7 @@ A student pilot who is receiving training for cross-country flight in a single-e
 
 
 **Private Pilot Aeronautical Experience (prior to checkride)**
-From FAR 61.109:
+From [[FAR 61.109]]:
 - [ ] 40 hours of flight time (any CC) (\*) 61.109(a)
 - [ ] 20 hours of flight training (dual) (any CC) (\*) 61.109(a)
 - [ ] 10 hours of solo flight time (any CC) (\*) 61.109(a)
