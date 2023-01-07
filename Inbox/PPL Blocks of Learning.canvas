@@ -38,11 +38,9 @@
 		{"id":"2b19d8e86e977135","x":1467,"y":-2893,"width":450,"height":60,"color":"1","type":"text","text":"Solo long XC"},
 		{"id":"c18b3e992299978a","x":1957,"y":-2893,"width":450,"height":60,"color":"1","type":"text","text":"Solo landings at towered"},
 		{"id":"0a4c939a0225b349","x":2447,"y":-2893,"width":450,"height":60,"color":"1","type":"text","text":"Several hour minimums"},
-		{"id":"4f4b66c8759bed47","x":1427,"y":-2584,"width":450,"height":60,"color":"2","type":"text","text":"Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives."},
 		{"id":"ae75b3c156b7f6c7","x":1427,"y":-2484,"width":450,"height":60,"color":"2","type":"text","text":"Use of radios for VFR navigation and two-way communication"},
 		{"id":"8e7a8bc93ac47d97","x":1427,"y":-2384,"width":450,"height":60,"color":"2","type":"text","text":"Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight; "},
 		{"id":"8a83497b4deffc0a","x":-2719,"y":1229,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Aircraft Performance including Weight and Balance.md"},
-		{"id":"302e29821a51994c","x":-2239,"y":1229,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md"},
 		{"id":"5345dd42c4367946","x":-2719,"y":1709,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Emergency Operations.md"},
 		{"id":"cde8850ed177a137","x":-2719,"y":2189,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Navigation Systems, including Radar Services.md"},
 		{"id":"5696b5fdcf8ae0a3","x":-2239,"y":2189,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Night Operations and Night Cross Country.md"},
@@ -70,7 +68,9 @@
 		{"id":"85436140e73fd7f4","x":-2239,"y":773,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Non-Towered Airport Operations.md"},
 		{"id":"983b24f8304bc455","x":1861,"y":573,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Navigation Charts and National Airspace System.md"},
 		{"id":"c40c70874a376675","x":1057,"y":-1453,"width":450,"height":60,"color":"2","type":"text","text":"Climbs at best angle and best rate; and "},
-		{"id":"6c37e30d30c8825b","x":937,"y":-2584,"width":450,"height":60,"color":"5","type":"text","text":"Steep Turns"}
+		{"id":"6c37e30d30c8825b","x":937,"y":-2584,"width":450,"height":60,"color":"5","type":"text","text":"Steep Turns"},
+		{"id":"4f4b66c8759bed47","x":1578,"y":-1453,"width":450,"height":60,"color":"2","type":"text","text":"Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives."},
+		{"id":"302e29821a51994c","x":3662,"y":3349,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/Airport Operations (Ground and Tower Communications, Ground Ops, Light Gun Signals).md"}
 	],
 	"edges":[
 		{"id":"13b0451f33a2f9e2","fromNode":"7f55f6ce1e40fb82","fromSide":"top","toNode":"b70cb975e13d3618","toSide":"bottom"},

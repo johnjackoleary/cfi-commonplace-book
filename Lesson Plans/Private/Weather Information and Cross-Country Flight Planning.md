@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data for flight planning.
+Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data.
 
 ### References
 PHAK, Ch 12 (weather theory); ACS I-C (Weather Information), Aviation Weather (AC 00-6B), and Aviation Weather Services (AC 00-45H), “Pilot’s Guide to a Preflight Briefing” (AC 91-92)
