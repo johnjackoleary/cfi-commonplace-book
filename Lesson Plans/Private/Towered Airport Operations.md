@@ -23,6 +23,8 @@ Ground 1.5 hours
 
 #todo :: palo alto pattern here or future lesson, also the AF/D
 
+#todo :: consider pulling wind lindicators to Non-Towered lesson
+
 ### Lesson Elements
 1. Airport Features
 	1. Wind Direction Indicators ![[Wind Direction Indicators.jpeg]]
