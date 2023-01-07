@@ -15,6 +15,8 @@ Taxiing at night
 
 Refilling oil
 
+left turning tendencies
+
 #todo :: which lesson covers aircraft stability ?
 
 Flight instruments

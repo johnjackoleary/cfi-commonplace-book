@@ -36,13 +36,13 @@
 		{"id":"8fa75ac2a61a9d2a","x":-1363,"y":266,"width":450,"height":60,"color":"3","type":"text","text":"Airport traffic patterns, including entry and departure procedures;"},
 		{"id":"2a6a67287ec47351","x":-279,"y":326,"width":450,"height":60,"color":"3","type":"text","text":"Ground reference maneuvers;"},
 		{"id":"de7dc795fc9dfc1a","x":-1363,"y":150,"width":450,"height":60,"color":"3","type":"text","text":"Collision avoidance, windshear avoidance, and wake turbulence avoidance;"},
-		{"id":"6c37e30d30c8825b","x":171,"y":-38,"width":450,"height":60,"color":"5","type":"text","text":"Steep Turns"},
 		{"id":"1723f8a3dcbb20da","x":1260,"y":-1359,"width":270,"height":372,"type":"group","label":"Legend"},
 		{"id":"2928bc5d9e6725ae","x":1285,"y":-1336,"width":220,"height":50,"color":"6","type":"text","text":"Milestones"},
 		{"id":"e7769af5cc30e151","x":1285,"y":-1268,"width":220,"height":50,"color":"3","type":"text","text":"[[FAR 61.87]] Explicit"},
 		{"id":"73dcbd8bcb42af8a","x":1285,"y":-1200,"width":220,"height":50,"color":"2","type":"text","text":"[[FAR 61.93]] Explicit"},
 		{"id":"352e8c95ff78660f","x":1285,"y":-1132,"width":220,"height":50,"color":"1","type":"text","text":"[[FAR 61.109]] Explicit"},
-		{"id":"a3d1f52e79e217dd","x":1285,"y":-1066,"width":220,"height":50,"color":"5","type":"text","text":"[[Private Pilot ACS]]"}
+		{"id":"a3d1f52e79e217dd","x":1285,"y":-1066,"width":220,"height":50,"color":"5","type":"text","text":"[[Private Pilot ACS]]"},
+		{"id":"6c37e30d30c8825b","x":-54,"y":-141,"width":450,"height":60,"color":"5","type":"text","text":"Steep Turns"}
 	],
 	"edges":[
 		{"id":"13b0451f33a2f9e2","fromNode":"7f55f6ce1e40fb82","fromSide":"top","toNode":"b70cb975e13d3618","toSide":"bottom"},
