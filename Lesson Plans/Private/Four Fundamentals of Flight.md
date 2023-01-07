@@ -65,6 +65,7 @@ For [[FAR 61.87]]: Straight and level flight, and turns in both directions; Clim
 ### Required Homework
 
 - [ ] Sign up for ground school if not yet completed (WVFC, Sporty's, etc)
+- [ ] Consider completing 3rd class medical now
 
 ### Recommended Homework 
 - [ ] Chair fly four fundamentals
