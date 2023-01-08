@@ -15,7 +15,7 @@ John O'Leary (CFI Jack)
 [[3. Maneuvering During Slow Flight]]
 [[4. Power-On and Power-Off Stalls]]
 [[6. Normal and Crosswind Takeoffs and Climbs]]
-[[7. Performance Maneuvers - Ground Reference Maneuvers]]
+[[7. Ground Reference Maneuvers]]
 [[8. Flying the Traffic Pattern]]
 [[10. Normal and Crosswind Approaches and Landings]]
 [[9. Go-Arounds and Rejected Landings]]

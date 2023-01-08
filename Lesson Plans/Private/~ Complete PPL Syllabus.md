@@ -39,7 +39,7 @@ tags: ppl
 
 ----
 
-![[7. Performance Maneuvers - Ground Reference Maneuvers]]
+![[7. Ground Reference Maneuvers]]
 
 ----
 
