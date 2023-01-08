@@ -19,19 +19,19 @@ tags: ppl
 
 ----
 
-![[5. Towered Airport Operations]]
-
-----
-
-![[Performance Maneuvers - Steep Turns]]
-
-----
-
 ![[3. Maneuvering During Slow Flight]]
 
 ----
 
 ![[4. Power-On and Power-Off Stalls]]
+
+----
+
+![[5. Towered Airport Operations]]
+
+----
+
+![[Performance Maneuvers - Steep Turns]]
 
 ----
 

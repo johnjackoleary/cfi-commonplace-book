@@ -11,6 +11,10 @@ Review parts of solo quiz
 
 Review parts of solo phase check
 
+best glide
+
+ground effect
+
 3. Before Takeoff Check
 	1. [[CIGAR TIP]] acronym
 

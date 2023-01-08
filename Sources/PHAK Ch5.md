@@ -5,6 +5,8 @@
 ***Key Quotes***:
 * 
 
+![[Angle of Attack vs Speed.jpeg]]
+
 #source #phak 
 
 #todo :: add key quotes
