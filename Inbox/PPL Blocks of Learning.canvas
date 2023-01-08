@@ -39,8 +39,6 @@
 		{"id":"de866b91749aa9dc","x":-2263,"y":-4270,"width":450,"height":60,"color":"6","type":"text","text":"Solo Cross Country"},
 		{"id":"c18b3e992299978a","x":-2263,"y":-4370,"width":450,"height":60,"color":"1","type":"text","text":"Solo landings at towered"},
 		{"id":"0a4c939a0225b349","x":-1773,"y":-4370,"width":450,"height":60,"color":"1","type":"text","text":"Several hour minimums"},
-		{"id":"e2959087e6d8887b","x":1762,"y":534,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/8. Flying the Traffic Pattern.md"},
-		{"id":"6b51f73707f99fbe","x":1762,"y":1094,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/9. Go-Arounds and Rejected Landings.md"},
 		{"id":"cffed4d65a047db1","x":1762,"y":-586,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/11. Spin Awareness and Spin Recovery.md"},
 		{"id":"5345dd42c4367946","x":1762,"y":-3386,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/16. Emergency Operations.md"},
 		{"id":"23bd6872665d2ea8","x":1762,"y":-2826,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/15. Emergency Approaches and Landings.md"},
@@ -59,8 +57,6 @@
 		{"id":"a13a0bcf34a84907","x":2312,"y":3504,"width":450,"height":60,"color":"3","type":"text","text":"Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;"},
 		{"id":"56299b1faba63274","x":2312,"y":2384,"width":450,"height":60,"color":"3","type":"text","text":"Takeoffs, including normal and crosswind;"},
 		{"id":"2a6a67287ec47351","x":2312,"y":1824,"width":450,"height":60,"color":"3","type":"text","text":"Ground reference maneuvers;"},
-		{"id":"a00f315b6f03cfcb","x":2312,"y":1264,"width":450,"height":60,"color":"3","type":"text","text":"Go-arounds."},
-		{"id":"de7dc795fc9dfc1a","x":2312,"y":704,"width":450,"height":60,"color":"3","type":"text","text":"Collision avoidance, windshear avoidance, and wake turbulence avoidance;"},
 		{"id":"e2d3ce68ea8712a3","x":2312,"y":144,"width":450,"height":60,"color":"3","type":"text","text":"Landings, including normal and crosswind;"},
 		{"id":"8fa75ac2a61a9d2a","x":2312,"y":-2096,"width":450,"height":60,"color":"3","type":"text","text":"Airport traffic patterns, including entry and departure procedures;"},
 		{"id":"7f55f6ce1e40fb82","x":2312,"y":-976,"width":450,"height":60,"color":"3","type":"text","text":"Slips to a landing; and"},
@@ -70,10 +66,14 @@
 		{"id":"302e29821a51994c","x":1220,"y":2774,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/5. Towered Airport Operations.md"},
 		{"id":"8ebe62802d9f64f8","x":1762,"y":4454,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/2. Four Fundamentals of Flight.md"},
 		{"id":"d977536e0370a3b3","x":1762,"y":3924,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/3. Maneuvering During Slow Flight.md"},
-		{"id":"72b2967abd20adcc","x":1762,"y":3334,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/4. Power-On and Power-Off Stalls.md"},
 		{"id":"24fdd1061b8b3646","x":2312,"y":-2656,"width":450,"height":60,"color":"3","type":"text","text":"Approaches to a landing area with simulated engine malfunctions;"},
 		{"id":"b70cb975e13d3618","x":2312,"y":-3216,"width":450,"height":60,"color":"3","type":"text","text":"Emergency procedures and equipment malfunctions;"},
-		{"id":"c527ccbb74fca1e9","x":2312,"y":-3776,"width":450,"height":60,"color":"3","type":"text","text":"Pre-solo knowledge test"}
+		{"id":"c527ccbb74fca1e9","x":2312,"y":-3776,"width":450,"height":60,"color":"3","type":"text","text":"Pre-solo knowledge test"},
+		{"id":"72b2967abd20adcc","x":1762,"y":3334,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/4. Power-On and Power-Off Stalls.md"},
+		{"id":"6b51f73707f99fbe","x":1762,"y":564,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/9. Go-Arounds and Rejected Landings.md"},
+		{"id":"e2959087e6d8887b","x":1762,"y":1094,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/8. Flying the Traffic Pattern.md"},
+		{"id":"de7dc795fc9dfc1a","x":2312,"y":1264,"width":450,"height":60,"color":"3","type":"text","text":"Collision avoidance, windshear avoidance, and wake turbulence avoidance;"},
+		{"id":"a00f315b6f03cfcb","x":2312,"y":734,"width":450,"height":60,"color":"3","type":"text","text":"Go-arounds."}
 	],
 	"edges":[
 		{"id":"fb8e7cf93c3d2e6a","fromNode":"8ebe62802d9f64f8","fromSide":"top","toNode":"d977536e0370a3b3","toSide":"bottom"},
@@ -90,8 +90,6 @@
 		{"id":"5e6b023b101ab5b2","fromNode":"5345dd42c4367946","fromSide":"right","toNode":"b70cb975e13d3618","toSide":"left"},
 		{"id":"d6031efb4413ee6e","fromNode":"72b2967abd20adcc","fromSide":"top","toNode":"d31131a99b9a078e","toSide":"bottom"},
 		{"id":"a39d17b018389b13","fromNode":"d31131a99b9a078e","fromSide":"right","toNode":"56299b1faba63274","toSide":"left"},
-		{"id":"4f7664e184f65ec6","fromNode":"72b2967abd20adcc","fromSide":"top","toNode":"6b51f73707f99fbe","toSide":"bottom"},
-		{"id":"a440e6a9ce35c076","fromNode":"72b2967abd20adcc","fromSide":"top","toNode":"0a38eecc18722527","toSide":"bottom"},
 		{"id":"5995b87c14efb8a1","fromNode":"0a38eecc18722527","fromSide":"top","toNode":"eff00821bee42fb0","toSide":"bottom"},
 		{"id":"2cbaa20254be4a0f","fromNode":"cffed4d65a047db1","fromSide":"top","toNode":"eff00821bee42fb0","toSide":"bottom"},
 		{"id":"f4e2b68fef90331f","fromNode":"eff00821bee42fb0","fromSide":"top","toNode":"23bd6872665d2ea8","toSide":"bottom"},
@@ -109,6 +107,8 @@
 		{"id":"bc4dfa609150fbe4","fromNode":"d977536e0370a3b3","fromSide":"left","toNode":"cffed4d65a047db1","toSide":"left"},
 		{"id":"dfb00de8c418dace","fromNode":"dd23f614c0342f67","fromSide":"top","toNode":"8ebe62802d9f64f8","toSide":"bottom"},
 		{"id":"c50e6e1e30b770b6","fromNode":"23bd6872665d2ea8","fromSide":"right","toNode":"24fdd1061b8b3646","toSide":"left"},
-		{"id":"d82de39605c5253e","fromNode":"e99b55f6e99740cb","fromSide":"right","toNode":"c527ccbb74fca1e9","toSide":"left"}
+		{"id":"d82de39605c5253e","fromNode":"e99b55f6e99740cb","fromSide":"right","toNode":"c527ccbb74fca1e9","toSide":"left"},
+		{"id":"e93cb725ce032b26","fromNode":"72b2967abd20adcc","fromSide":"left","toNode":"6b51f73707f99fbe","toSide":"left"},
+		{"id":"cc683f063c88f877","fromNode":"72b2967abd20adcc","fromSide":"left","toNode":"0a38eecc18722527","toSide":"left"}
 	]
 }
