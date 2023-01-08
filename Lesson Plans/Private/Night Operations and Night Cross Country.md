@@ -9,7 +9,7 @@ Develop knowledge and skill pertaining to night flight.
 [[Private Pilot ACS]] Section XI; AFH Ch10 (night operations), PHAK Ch. 14 (airport lighting), Ch. 17 (night vision)
 
 ### Builds On
-[[Towered Airport Operations]], [[Navigation Charts and National Airspace System]], [[Pilotage and Dead Reckoning]]
+[[5. Towered Airport Operations]], [[Navigation Charts and National Airspace System]], [[Pilotage and Dead Reckoning]]
 
 ### Schedule
 Ground 1.5 hour, flight 3 hours

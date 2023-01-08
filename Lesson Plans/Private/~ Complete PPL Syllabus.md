@@ -19,7 +19,7 @@ tags: ppl
 
 ----
 
-![[Towered Airport Operations]]
+![[5. Towered Airport Operations]]
 
 ----
 
@@ -27,39 +27,39 @@ tags: ppl
 
 ----
 
-![[Maneuvering During Slow Flight]]
+![[3. Maneuvering During Slow Flight]]
 
 ----
 
-![[Power-On and Power-Off Stalls]]
+![[4. Power-On and Power-Off Stalls]]
 
 ----
 
-![[Normal and Crosswind Takeoffs and Climbs]]
+![[6. Normal and Crosswind Takeoffs and Climbs]]
 
 ----
 
-![[Performance Maneuvers - Ground Reference Maneuvers]]
+![[7. Performance Maneuvers - Ground Reference Maneuvers]]
 
 ----
 
-![[Flying the Traffic Pattern]]
+![[8. Flying the Traffic Pattern]]
 
 ----
 
-![[Normal and Crosswind Approaches and Landings]]
+![[10. Normal and Crosswind Approaches and Landings]]
 
 ----
 
-![[Go-Arounds and Rejected Landings]]
+![[9. Go-Arounds and Rejected Landings]]
 
 ----
 
-![[Spin Awareness and Spin Recovery]]
+![[11. Spin Awareness and Spin Recovery]]
 
 ----
 
-![[Forward Slips to Landing]]
+![[12. Forward Slips to Landing]]
 
 ----
 

@@ -9,7 +9,7 @@ Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and
 [[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
 
 ### Builds On
-[[Normal and Crosswind Takeoffs and Climbs]], [[Normal and Crosswind Approaches and Landings]], [[Go-Arounds and Rejected Landings]]
+[[6. Normal and Crosswind Takeoffs and Climbs]], [[10. Normal and Crosswind Approaches and Landings]], [[9. Go-Arounds and Rejected Landings]]
 
 ### Schedule
 Ground 1.0; Flight – multiple flights, with frequent practice

@@ -9,7 +9,7 @@ To develop knowledge of pivotal altitude and the skill to maneuver the airplane 
 [[Commercial ACS]], [[AFH Ch6]]
 
 ### Builds On
-[[Performance Maneuvers - Ground Reference Maneuvers]]
+[[7. Performance Maneuvers - Ground Reference Maneuvers]]
 
 ### Schedule
 Ground 0.5, Flight 1.0
