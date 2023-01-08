@@ -21,10 +21,12 @@ John O'Leary (CFI Jack)
 [[9. Go-Arounds and Rejected Landings]]
 [[11. Spin Awareness and Spin Recovery]]
 [[12. Forward Slips to Landing]]
-[[Navigation Charts and National Airspace System]]
+[[13. Navigation Charts and National Airspace System]]
 [[Short- and Soft-Field Takeoffs and Landings]]
-[[Non-Towered Airport Operations]]
-[[Emergency Approaches and Landings]]
+[[14. Non-Towered Airport Operations]]
+[[15. Emergency Approaches and Landings]]
+[[16. Emergency Operations]]
+[[17. Pre-Solo Knowledge Test and Review]]
 
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
@@ -41,7 +43,7 @@ John O'Leary (CFI Jack)
 
 #### Stage III: Night Flying and Checkride Preparation
 [[Night Operations and Night Cross Country]]
-[[Emergency Operations]]
+[[16. Emergency Operations]]
 [[Lesson Plans/Private/Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)

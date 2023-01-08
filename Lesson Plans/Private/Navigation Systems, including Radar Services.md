@@ -9,7 +9,7 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 [[Private Pilot ACS]] Section VI; PHAK Ch. 15 (Navigation), Manuals for all installed equipment in the plane.
 
 ### Builds On
-[[Navigation Charts and National Airspace System]]
+[[13. Navigation Charts and National Airspace System]]
 
 ### Schedule
 Ground 1.0

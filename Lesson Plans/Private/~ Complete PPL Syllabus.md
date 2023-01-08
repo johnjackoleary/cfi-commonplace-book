@@ -63,17 +63,23 @@ tags: ppl
 
 ----
 
-![[Navigation Charts and National Airspace System]]
+![[13. Navigation Charts and National Airspace System]]
 
 ----
 
-![[Non-Towered Airport Operations]]
+![[14. Non-Towered Airport Operations]]
 
 ----
 
-![[Emergency Approaches and Landings]]
+![[15. Emergency Approaches and Landings]]
 
 ----
+
+![[16. Emergency Operations]]
+
+---
+
+![[17. Pre-Solo Knowledge Test and Review]]
 
 
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
@@ -114,7 +120,7 @@ tags: ppl
 
 ----
 
-![[Emergency Operations]]
+![[16. Emergency Operations]]
 
 ----
 

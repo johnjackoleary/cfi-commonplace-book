@@ -7,6 +7,10 @@
 
 Taxiing at night 
 
+Review parts of solo quiz
+
+Review parts of solo phase check
+
 3. Before Takeoff Check
 	1. [[CIGAR TIP]] acronym
 
