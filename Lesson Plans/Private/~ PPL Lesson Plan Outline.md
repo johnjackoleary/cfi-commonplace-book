@@ -13,7 +13,6 @@ John O'Leary (CFI Jack)
 [[3. Maneuvering During Slow Flight]]
 [[4. Power-On and Power-Off Stalls]]
 [[5. Towered Airport Operations]]
-[[Performance Maneuvers - Steep Turns]]
 [[6. Normal and Crosswind Takeoffs and Climbs]]
 [[7. Ground Reference Maneuvers]]
 [[8. Flying the Traffic Pattern]]
@@ -22,7 +21,6 @@ John O'Leary (CFI Jack)
 [[11. Spin Awareness and Spin Recovery]]
 [[12. Forward Slips to Landing]]
 [[13. Navigation Charts and National Airspace System]]
-[[Short- and Soft-Field Takeoffs and Landings]]
 [[14. Non-Towered Airport Operations]]
 [[15. Emergency Approaches and Landings]]
 [[16. Emergency Operations]]
@@ -31,6 +29,8 @@ John O'Leary (CFI Jack)
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
+[[Performance Maneuvers - Steep Turns]]
+[[Short- and Soft-Field Takeoffs and Landings]]
 [[Navigation Systems, including Radar Services]]
 [[Aircraft Performance including Weight and Balance]]
 [[Weather Information and Cross-Country Flight Planning]]
