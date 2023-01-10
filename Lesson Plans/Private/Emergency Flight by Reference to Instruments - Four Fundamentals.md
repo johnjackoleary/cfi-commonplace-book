@@ -42,7 +42,7 @@ Hood or foggles
 	6. Improper trim control
 
 ### Completion Standards
-Client must demonstrate basic attitude instrument flying skills, to ACS standards (&plusmn;200 feet, heading &plusmn;20 degrees, airspeed &plusmn;10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
+Client must demonstrate basic attitude instrument flying skills, to ACS standards (±200 feet, heading ±20 degrees, airspeed ±10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
 
 ### Required Homework
  None

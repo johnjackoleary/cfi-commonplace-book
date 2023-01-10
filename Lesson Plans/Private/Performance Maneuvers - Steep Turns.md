@@ -36,10 +36,10 @@ Ground 0.5 hours, Flight 1.0 hours
 	2. The actual turn
 		1. Establish turn with 45 degree bank, add power as necessary to maintain airspeed
 		2. Use of rudder to initiate, maintain, and exit turn (cancel out adverse yaw)
-		3. Use of elevator aft pressure to maintain altitude &plusmn;100 feet (don't trim during turn)
+		3. Use of elevator aft pressure to maintain altitude ±100 feet (don't trim during turn)
 		4. use outside reference of horizon to maintain bank and pitch, with occasional cross-check of altitude and airspeed
 		5. May notice (subtle) opposite aileron during turn to prevent over-banking tendency
-		6. Roll out of turn on entry heading &plusmn;10 degrees
+		6. Roll out of turn on entry heading ±10 degrees
 	3. Repeat 360-degree turn in other direction
 	4. Release back pressure and reduce power during rollout
 5. Common errors
@@ -51,7 +51,7 @@ Ground 0.5 hours, Flight 1.0 hours
 	6. Rolling out on wrong heading
 
 ### Completion Standards
-Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: &plusmn;100 feet, &plusmn;10 knots, &plusmn;5 degrees bank, &plusmn;10 degrees heading on rollout.
+Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: ±100 feet, ±10 knots, ±5 degrees bank, ±10 degrees heading on rollout.
 
 ### Required Homework
  None

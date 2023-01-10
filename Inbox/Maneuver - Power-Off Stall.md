@@ -20,3 +20,8 @@ config: "[[Maneuvers Config]]"
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
 - Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-for-stall-recover`, then up. Climb Vy (`= this.config.aircraft.Vy`kts)
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
+
+### Additional Details
+- Use rudder to maintain coordinated flight (ball in center); poor coordination causes wing to drop during stall, entering spin
+- In recovery, level wings primarily with rudder, ailerons also as airspeed increases
+- Avoid secondary stall due to aggressive pitch up during recovery

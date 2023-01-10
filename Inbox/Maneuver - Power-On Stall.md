@@ -20,3 +20,7 @@ config: "[[Maneuvers Config]]"
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
 - Recover: pitch down, full power. Climb Vy (`= this.config.aircraft.Vy`kts)
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
+
+### Additional Details
+- Use rudder to maintain coordinated flight (ball in center); poor coordination causes wing to drop during stall, entering spin
+- Avoid secondary stall due to aggressive pitch up during recovery
