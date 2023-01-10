@@ -1,6 +1,7 @@
 model :: C172SP
 
 ### V Speeds
+Vx :: 62
 Vy :: 74
 Vref :: 65
 Vshort :: 61

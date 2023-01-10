@@ -4,10 +4,10 @@ tags: [maneuver, ppl, cpl]
 altitude-limits: \>3000' AGL
 acs:
   ppl: 
-    section: "VII.B"
+    section: "VII.C"
     standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±10°</font>"
   cpl: 
-    section: "VII.B"
+    section: "VII.C"
     standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±5°</font>"
 config: "[[Maneuvers Config]]"
 ---
@@ -16,8 +16,12 @@ config: "[[Maneuvers Config]]"
 - Altitude `= this.altitude-limits`
 - Power - `= this.config.aircraft.slow-flight-power`; Hold altitude; Slow to `= this.config.aircraft.Vref`kts w/ flaps as for landing
 - Descend power-off at `= this.config.aircraft.Vref`kts
-- Pitch up slowly for full stall
+- Pitch up slowly for stall
 - Verbally acknowledge stall horn
-- Continue pitch up for stall break
+- `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
 - Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-on-stall-recover`, then up. Climb Vy
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
+
+### Additional Details
+- Verbally acknowledge the cues at the first indication of a stall.
+- Recover, accelerate to Vy, then return to heading/altitude/airspeed.

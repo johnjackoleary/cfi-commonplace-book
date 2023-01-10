@@ -98,7 +98,7 @@ ACS Tasks:
 	4. ‡ At the 180° point, **±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading**.
 	5. Resume straight-and-level flight.
 5. [[Maneuver - Slow Flight]]
-6. Power-Off Stalls (VII.B)
+6. [[Maneuver - Power-Off Stall]]
 	1. Configure for landing, including stable descent.
 	2. Pitch up to cause stall.
 	3. ‡ Maintain a specified **heading, ±10° if in straight flight; maintain a specified angle of bank not to exceed 20°, ±5°, if in turning flight**, until an impending or full stall occurs, as specified by the evaluator.
