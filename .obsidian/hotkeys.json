@@ -18,5 +18,15 @@
       ],
       "key": "W"
     }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }
