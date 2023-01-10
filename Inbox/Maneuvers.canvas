@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"bf4554b05972283d","x":-200,"y":-200,"width":400,"height":400,"type":"file","file":"Inbox/Maneuver - Slow Flight.md"},
 		{"id":"636c0d2761364d28","x":200,"y":-200,"width":400,"height":400,"type":"file","file":"Inbox/Maneuver - Power-Off Stall.md"},
-		{"id":"0ea39e79f180587d","x":-200,"y":-250,"width":800,"height":50,"type":"file","file":"Inbox/Manuevers - Set-Up Maneuver.md"}
+		{"id":"0ea39e79f180587d","x":-200,"y":-250,"width":800,"height":50,"type":"file","file":"Inbox/Maneuvers - Set-Up.md"}
 	],
 	"edges":[]
 }

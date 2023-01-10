@@ -1,4 +1,5 @@
 ---
 tags: [maneuver]
 ---
-Always: `= ![[Manuevers - Set-Up Maneuver]]`
+### Set-Up
+![[Maneuvers - Set-Up]]
