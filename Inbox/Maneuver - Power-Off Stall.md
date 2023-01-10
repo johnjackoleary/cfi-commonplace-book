@@ -6,7 +6,7 @@ acs:
   ppl: 
     section: "VII.B"
     standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±10°</font>"
-  cpl: 
+  cpl:
     section: "VII.B"
     standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±5°</font>"
 config: "[[Maneuvers Config]]"
@@ -18,5 +18,5 @@ config: "[[Maneuvers Config]]"
 - Descend power-off at `= this.config.aircraft.Vref`kts
 - Pitch up slowly for full stall; Verbally acknowledge stall horn
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
-- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-for-stall-recover`, then up. Climb Vy
+- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-for-stall-recover`, then up. Climb Vy (`= this.config.aircraft.Vy`kts)
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`

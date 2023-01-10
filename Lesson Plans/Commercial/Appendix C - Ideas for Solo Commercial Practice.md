@@ -99,16 +99,7 @@ ACS Tasks:
 	5. Resume straight-and-level flight.
 5. [[Maneuver - Slow Flight]]
 6. [[Maneuver - Power-Off Stall]]
-	1. Configure for landing, including stable descent.
-	2. Pitch up to cause stall.
-	3. ‡ Maintain a specified **heading, ±10° if in straight flight; maintain a specified angle of bank not to exceed 20°, ±5°, if in turning flight**, until an impending or full stall occurs, as specified by the evaluator.
-	4. Verbally acknowledge the cues at the first indication of a stall.
-	5. Recover, accelerate to V<sub>Y</sub>, then return to heading/altitude/airspeed.
-7. Power-On Stalls (VII.C)
-	1. Establish takeoff (or specified) configuration. Set power to not less than 65% power.
-	3. Pitch to induce stall.
-	4. ‡ Verbally acknowledge the cues at the first indication of a stall.
-	5. Recover, accelerate to V<sub>Y</sub>, then return to heading/altitude/airspeed.
+7. [[Maneuver - Power-On Stall]]
 8. Accelerated Stalls (VII.D)
 	1. Must complete task above 3000' AGL.
 	2. ‡ Establish and **maintain a coordinated turn in a 45° bank**, increasing elevator back pressure smoothly and firmly until an impending stall is reached.

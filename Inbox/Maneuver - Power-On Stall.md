@@ -18,5 +18,5 @@ config: "[[Maneuvers Config]]"
 - Add >65% power (`= this.config.aircraft.power-on-stall-power`)
 - Pitch up slowly for stall; Verbally acknowledge stall horn
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
-- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-for-stall-recover`, then up. Climb Vy
+- Recover: pitch down, full power. Climb Vy (`= this.config.aircraft.Vy`kts)
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
