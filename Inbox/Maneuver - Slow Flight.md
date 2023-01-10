@@ -8,14 +8,12 @@ ppl-acs:
 cpl-acs: 
   section: "VII.A"
   standards: "<font color=\"red\">Altitude ±50 feet; heading ±10°; airspeed +5/-0kts; bank ±5° - without a stall warning</font>"
-aircraft-datasheet: 
-  C172S: "[[C172S Datasheet]]"
-  PA28-181: "[[PA28-181 Datasheet]]"
+aircraft-datasheet-source: "[[Maneuver Set-Up]]"
 ---
-### Overview For `= this.aircraft-datasheet.C172S.model`
+### Overview For `= this.aircraft-datasheet-source.aircraft-datasheet.model`
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
-- Power - `= this.aircraft-datasheet.C172S.slow-flight-power`; Hold altitude; Add power < Vy (`= this.aircraft-datasheet.C172S.vy`kt)
+- Power - `= this.aircraft-datasheet.slow-flight-power`; Hold altitude; Add power < Vy (`= this.aircraft-datasheet.vy`kt)
 - Slow to stall horn, then +5kts
 - Power as needed to hold altitude
 - PPL: `= this.ppl-acs.standards`
