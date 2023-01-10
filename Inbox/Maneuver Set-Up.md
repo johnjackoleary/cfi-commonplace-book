@@ -1,5 +1,7 @@
 ---
 tags: [maneuver]
-content: "<font color=\"yellow\">Clearing Turns (2 x 90°) · ID Emgcy Field · Mixture Rich · Carb Heat On (If Below Green)</font>"
+config: "[[Maneuvers Config]]"
+content: "<font color=\"yellow\">Clearing Turns (2 x 90°) · ID Emgcy Field · Mixture{carb-heat}</font>"
+carb-heat-text :: " · Carb Heat On (If Below Green)"
 ---
-`= this.content`
+`= this.content.replace({carb-heat}`
