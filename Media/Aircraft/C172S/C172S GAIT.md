@@ -19,8 +19,8 @@ tags: [gait]
 | 🛬 Downwind             |           |    TBD    |  2000   |             90             |       0       |
 | 🛬 Abeam Numbers        |    10°    |    TBD    |  1500   |             80             |      TBD      |
 | 🛬 Base                 |    20°    |    TBD    |  1500   |             70             |      TBD      |
-| 🛬 Final                |    30°    |    TBD    |  1500   |             65             |      TBD      |
-| Short                   |    30°    |    TBD    |  1500   |             61             |      TBD      |
+| 🛬 Final                |    30°    |    TBD    |  1500   |             `= [[C172S Datasheet]].vref`             |      TBD      |
+| Short                   |    30°    |    TBD    |  1500   |             `= [[C172S Datasheet]].vshort`             |      TBD      |
 
 | Topic              | Details                                   |
 | ------------------ |:----------------------------------------- |
