@@ -97,10 +97,7 @@ ACS Tasks:
 	3. ‡ **30° bank at the steepest point.**
 	4. ‡ At the 180° point, **±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading**.
 	5. Resume straight-and-level flight.
-5. Maneuvering During Slow Flight (VII.A)
-	1. Establish speed just above stall warning.
-	2. ‡ Accomplish coordinated straight-and-level flight, turns, climbs, and descents with the aircraft configured as specified by the evaluator **without a stall warning**.
-	3. ‡ Maintain the specified **altitude, ±50 feet; specified heading, ±10°; airspeed, +5/-0 knots; and specified angle of bank, ±5°**.
+5. [[Maneuver - Slow Flight]]
 6. Power-Off Stalls (VII.B)
 	1. Configure for landing, including stable descent.
 	2. Pitch up to cause stall.

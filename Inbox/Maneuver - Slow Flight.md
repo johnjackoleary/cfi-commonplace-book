@@ -9,6 +9,7 @@ cpl-acs:
   standards: "<font color=\"red\">Altitude ±50 feet; heading ±10°; airspeed +5/-0kts; bank ±5° - without a stall warning</font>"
 aircraft-datasheet: "[[C172S Datasheet]]"
 ---
+### Overview
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
 - Power - `= this.aircraft-datasheet.slow-flight-power`; Hold altitude; Add power < Vy
@@ -16,7 +17,7 @@ aircraft-datasheet: "[[C172S Datasheet]]"
 - Power as needed to hold altitude
 - `= this.cpl-acs.standards`
 
-## Additional Details
+### Additional Details
 - Extend gear and flaps at appropriate speeds (if applicable)
 - Accomplish coordinated straight-and-level flight, turns, climbs, and descents with the aircraft configured as specified by the evaluator.
 
