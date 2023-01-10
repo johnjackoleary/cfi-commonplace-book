@@ -7,18 +7,25 @@ ppl-acs:
 cpl-acs: 
   section: "VII.A"
   standards: "<font color=\"red\">Altitude ±50 feet; heading ±10°; airspeed +5/-0kts; bank ±5° - without a stall warning</font>"
-aircraft-datasheet: "[[C172S Datasheet]]"
+aircraft-datasheet: 
+  C172S: "[[C172S Datasheet]]"
 ---
-### Overview
+### PPL Overview For `= this.aircraft-datasheet.C172S.model`
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
-- Power - `= this.aircraft-datasheet.slow-flight-power`; Hold altitude; Add power < Vy
+- Power - `= this.aircraft-datasheet.C172S.slow-flight-power`; Hold altitude; Add power < Vy (`= this.aircraft-datasheet.C172S.vy`)
 - Slow to stall horn, then +5 knots
+- Power as needed to hold altitude
+- PPL: `= this.ppl-acs.standards`
+
+### CPL Overview For `= this.aircraft-datasheet.C172S.model`
+- `= [[Maneuver Set-Up]].content`
+- Altitude `= this.altitude-limits`
+- Power - `= this.aircraft-datasheet.C172S.slow-flight-power`; Hold altitude; Add power < Vy (`= this.aircraft-datasheet.C172S.vy`)
+- Slow to stall horn, then +3 knots
 - Power as needed to hold altitude
 - `= this.cpl-acs.standards`
 
 ### Additional Details
 - Extend gear and flaps at appropriate speeds (if applicable)
 - Accomplish coordinated straight-and-level flight, turns, climbs, and descents with the aircraft configured as specified by the evaluator.
-
-#todo :: Figure out how to differentiate CPL from PPL criteria

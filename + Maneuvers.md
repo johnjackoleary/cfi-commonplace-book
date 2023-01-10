@@ -4,4 +4,4 @@ FROM #maneuver AND !"Templates"
 ```
 
 ---
-![[Maneuvers.canvas]]
+![[PPL Maneuvers.canvas]]
