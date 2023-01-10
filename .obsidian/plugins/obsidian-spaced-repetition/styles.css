@@ -3,16 +3,24 @@
     text-decoration: underline;
     cursor: pointer;
     margin-bottom: 16px;
+    width: max-content;
     display: inline-block;
 }
 
 .sr-response {
     display: inline-grid;
     width: 100%;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto;
     position: absolute;
     bottom: 0;
 }
+
+.sr-ignorestats-btn {
+    /* Bit of a hack, but it works. */
+    margin: 0px !important;
+    margin-right: 12px !important;
+}
+
 .sr-ignorestats-response {
     grid-template-columns: auto auto !important;
 }
@@ -21,11 +29,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .sr-deck-counts {
     color: #ffffff;
     margin-left: 4px;
+    padding: 4px;
+}
+
+.sr-back-btn {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    cursor: pointer;
+    display: block;
 }
 
 #sr-show-answer {
@@ -39,6 +57,7 @@
     background-color: #2196f3;
     color: #ffffff;
     border-radius: 4px;
+    user-select: text;
 }
 
 #sr-hr-card-divide {
@@ -53,6 +72,7 @@
     height: 48px;
     margin: auto;
     color: #ffffff;
+    cursor: pointer;
 }
 
 #sr-hard-btn {
@@ -74,17 +94,26 @@
 }
 
 #sr-flashcard-view {
+    font-size: var(--font-text-size);
     overflow-y: auto;
     height: 80%;
+    user-select: text;
 }
 
-.sr-ignorestats-btn {
-    /* Bit of a hack, but it works. */
-    margin: 0px !important;
-    margin-right: 12px !important;
+#chartPeriod {
+    appearance: menulist;
+    border-right: 8px solid transparent;
 }
 
 @media only screen and (max-width: 600px) {
+    .sr-back-btn {
+        width: initial !important;
+    }
+
+    .sr-modal-content {
+        width: 98% !important;
+    }
+
     .sr-modal-content::-webkit-scrollbar,
     #sr-flashcard-view::-webkit-scrollbar {
         display: none;
@@ -92,7 +121,8 @@
 
     .sr-response,
     #sr-show-answer {
-        width: 95% !important;
+        width: 93.5% !important;
+        line-height: 60px;
     }
 
     #sr-hard-btn,
