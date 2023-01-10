@@ -8,20 +8,15 @@ acs:
     standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±10°</font>"
   cpl: 
     section: "VII.C"
-    standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±5°</font>"
+    standards: "<font color=\"red\">Heading ±10°, or bank (<20°) ±10°</font>"
 config: "[[Maneuvers Config]]"
 ---
 ### Overview For `= this.config.aircraft.model` (`= upper(this.config.cert)`)
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
-- Power - `= this.config.aircraft.slow-flight-power`; Hold altitude; Slow to `= this.config.aircraft.Vref`kts w/ flaps as for landing
-- Descend power-off at `= this.config.aircraft.Vref`kts
-- Pitch up slowly for stall
-- Verbally acknowledge stall horn
+- Power - `= this.config.aircraft.slow-flight-power`; Hold altitude; Slow to Vx (`= this.config.aircraft.Vx`kts)
+- Add >65% power (`= this.config.aircraft.power-on-stall-power`)
+- Pitch up slowly for stall; Verbally acknowledge stall horn
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
-- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-on-stall-recover`, then up. Climb Vy
+- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-for-stall-recover`, then up. Climb Vy
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
-
-### Additional Details
-- Verbally acknowledge the cues at the first indication of a stall.
-- Recover, accelerate to Vy, then return to heading/altitude/airspeed.

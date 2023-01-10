@@ -7,4 +7,5 @@ Vref :: 65
 Vshort :: 61
 
 slow-flight-power :: 1500 RPM
-flaps-on-stall-recover :: 20°
+power-on-stall-power :: 2100 RPM
+flaps-for-stall-recover :: 20°

@@ -16,8 +16,7 @@ config: "[[Maneuvers Config]]"
 - Altitude `= this.altitude-limits`
 - Power - `= this.config.aircraft.slow-flight-power`; Hold altitude; Slow to `= this.config.aircraft.Vref`kts w/ flaps as for landing
 - Descend power-off at `= this.config.aircraft.Vref`kts
-- Pitch up slowly for full stall
-- Verbally acknowledge stall horn
-- Continue pitch up for stall break
-- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-on-stall-recover`, then up. Climb Vy
+- Pitch up slowly for full stall; Verbally acknowledge stall horn
+- `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
+- Recover: pitch down, full power, flaps `= this.config.aircraft.flaps-for-stall-recover`, then up. Climb Vy
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
