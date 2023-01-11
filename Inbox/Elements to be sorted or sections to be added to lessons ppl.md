@@ -7,7 +7,7 @@
 
 Taxiing at night 
 
-POH sections and what is in them
+POH sections and what is in them (currently have a request to read in [[6. Normal and Crosswind Takeoffs and Climbs]])
 
 Review parts of solo quiz
 
