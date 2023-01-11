@@ -5,6 +5,7 @@
 ***Key Quotes***:
 * 
 
+![[Axes of Airplane.jpeg]]
 ![[Angle of Attack vs Speed.jpeg]]
 
 #source #phak 
