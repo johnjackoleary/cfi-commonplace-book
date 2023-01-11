@@ -22,7 +22,7 @@ Ground 1.0; Flight – multiple flights, with frequent practice
 	3. Soft-field takeoff
 		1. Taxi into takeoff position without stopping, with [[Smooth Power Application|smooth power application]] for takeoff
 		2. Establish pitch attitude to rapidly transfer weight from wheels to wings
-		3. Lift off at lowest possible airspeed, accelerate to Vx or Vy in [[ground effect]]
+		3. Lift off at lowest possible airspeed, accelerate to Vx or Vy in [[Ground Effect]]
 		4. Establish pitch attitude and airspeed for Vx or Vy climb
 		5. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
 	4. Short-field takeoff
