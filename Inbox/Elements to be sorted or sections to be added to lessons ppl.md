@@ -7,6 +7,8 @@
 
 Taxiing at night 
 
+POH sections and what is in them
+
 Review parts of solo quiz
 
 Review parts of solo phase check
