@@ -15,6 +15,8 @@ Review parts of solo phase check
 
 best glide
 
+propellers
+
 ground effect
 
 3. Before Takeoff Check
