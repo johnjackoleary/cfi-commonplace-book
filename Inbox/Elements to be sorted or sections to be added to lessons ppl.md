@@ -15,6 +15,8 @@ Review parts of solo phase check
 
 best glide
 
+gust factor addition on landing
+
 propellers
 
 ground effect
