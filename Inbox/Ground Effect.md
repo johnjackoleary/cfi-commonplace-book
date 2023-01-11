@@ -2,6 +2,8 @@
 ***Additional Info:*** When the wing is under the influence of ground effect, there is a reduction in upwash, downwash, and wingtip vortices. As a result of the reduced wingtip vortices, induced drag is reduced.
 ***Source***         :: [[PHAK Ch5]]
 
-
+![[Ground Effect on Airflow.jpeg]]
+![[Ground Effect on Drag and Lift.jpeg]]
+![[Takeoff in Ground Effect.jpeg]]
 
 #glossary
