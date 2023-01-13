@@ -7,6 +7,12 @@ Induced drag is a byproduct of generating lift. Anytime lift is generated, there
 
 
 ## What is the Impact to Flying?
+Where parasite drag is most pronounced at faster speeds, induced drag is most pronounced as slow speeds.
+
+This means 
+
+## How is it mitigated?
+
 
 
 
