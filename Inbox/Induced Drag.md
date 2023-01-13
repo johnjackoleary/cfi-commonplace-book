@@ -1,3 +1,8 @@
+Key Takeaways:
+- Induced drag is the rearward component of lift. It is present whenever lift is.
+- Induced drag is stronger at slower airspeeds.
+- Ground effect reduces induced drag, making the airplane seem to fly better.
+
 ## What Is It?
 There are two main forms of drag on an aircraft: [[Parasite Drag]] and [[Induced Drag]].
 
