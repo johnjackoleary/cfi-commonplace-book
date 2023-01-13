@@ -6,9 +6,9 @@ Induced drag is a byproduct of generating lift. In fact, induced drag can be tho
 Anytime lift is generated, so is induced drag.
 
 ## What Causes It?
-An airstream flowing over the wing generates lift perpendicular to the 
+An airstream flowing over the wing generates lift perpendicular to the relative airstream.
 
-When air passes around a wing generating lift, it is deflected downward. (**Note**: Start video at 53 seconds.)
+When air passes around a wing generating lift, that relative airstream is deflected downward. (**Note**: Start video at 53 seconds.)
 <iframe src="https://commons.wikimedia.org/wiki/File:Flow_over_aerofoils.webm?embedplayer=yes" width="320" height="240" frameborder="0"></iframe>
 
 <cite>Holger Babinsky, University of Cambridge, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons</cite>
@@ -33,12 +33,20 @@ This is why the aircraft requires so much power to maintain slow flight, and why
 ### Flight in Ground Effect
 [[Ground effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend as much. This mean the lift vector does not tip backward as much, and there is less induced drag.
 
+![[Difference in Induced Drag at Altitude vs Ground.jpeg]]
+
 This impact to ground effect is why it's important to rotate and climb out at the [[POH]] recommended speed during takeoff.
 
 It is also the reason the airplane cane feel like it suddenly wants to float as you approach to land.
 
-## What about wing tip vortices?
+## What about wingtip vortices?
+Wingtip vortices are created by the higher pressure air below the wing rushing around the end of the wing to the lower pressure air above the wing. This creates a vortex.
 
+![[Wingtip Vortices.jpeg]]
+
+Wingtip vortices increase downwash, therefore further tipping the lift vector backwards and increasing the rearward component of lift. This rearward component of lift is induced drag, meaning wingtip vortices increase induced drag.
+
+Wingtip vortices can be mitigated with 
 
 ## Additional Resources
 - [[PHAK Ch5]]
