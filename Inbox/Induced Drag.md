@@ -1,16 +1,18 @@
-Key Takeaways:
-- Induced drag is the rearward component of lift. It is present whenever lift is.
+# Key Takeaways
+- Induced drag exists whenever lift is created. It is the portion of lift which is directed backwards.
 - Induced drag is stronger at slower airspeeds.
-- Ground effect reduces induced drag, making the airplane seem to fly better.
+- Ground effect reduces induced drag, making the airplane perform better.
 
-## What Is It?
+# Details
+## What It Is
 There are two main forms of drag on an aircraft: [[Parasite Drag]] and [[Induced Drag]].
 
-Induced drag is a byproduct of generating lift. In fact, induced drag can be thought of as the rearward component of lift.
+- **Parasite drag** is drag caused by the friction of air moving over the aircraft structure. 
+- **Induced drag** is a byproduct of generating lift. It can be thought of as the rearward component of lift.
 
-Anytime lift is generated, so is induced drag.
+Where parasite drag is most pronounced at faster speeds, induced drag is most pronounced as slow speeds.
 
-## What Causes It?
+## What Causes It
 An airstream flowing over the wing generates lift perpendicular to the relative airstream.
 
 When air passes around a wing generating lift, that relative airstream is deflected downward. (**Note**: Start video at 53 seconds.)
@@ -22,9 +24,9 @@ That deflected airstream, or '[[downwash]]', has the same effect as bending the 
 
 ![[Induced Drag Due to Downwash.jpeg]]
 
-## What is the Impact to Flying?
-Where parasite drag is most pronounced at faster speeds, induced drag is most pronounced as slow speeds.
+Anytime lift is generated, so is induced drag.
 
+## How It Impacts Flying
 ### Cruise Speeds
 At high speeds, induced drag drops significantly and is a negligible factor.
 ![[Drag vs Speed.jpeg]]
