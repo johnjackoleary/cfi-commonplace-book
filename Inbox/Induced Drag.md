@@ -15,7 +15,7 @@ When air passes around a wing generating lift, it is deflected downward. (**Note
 
 That deflected airstream, or '[[downwash]]', has the same effect as bending the lift vector rearward, creating a rearward lift component. This is induced drag.
 
-A greater [[angle of attack]] for the same airspeed deflects the airflow more strongly, thus creating additional induced drag.
+![[Induced Drag Due to Downwash.jpeg]]
 
 ## What is the Impact to Flying?
 Where parasite drag is most pronounced at faster speeds, induced drag is most pronounced as slow speeds.
@@ -28,8 +28,16 @@ At high speeds, induced drag drops significantly and is a negligible factor.
 From [[PHAK Ch5]]:
 > the lower the airspeed, the greater the AOA required to produce lift equal to the aircraft’s weight and, therefore, the greater induced drag. The amount of induced drag varies inversely with the square of the airspeed.
 
+This is why the aircraft requires so much power to maintain slow flight, and why it can actually fly faster with less power as you accelerate to a speed with less induced drag.
+
 ### Flight in Ground Effect
-[[Ground Effect]]
+[[Ground effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend as much. This mean the lift vector does not tip backward as much, and there is less induced drag.
+
+This impact to ground effect is why it's important to rotate and climb out at the [[POH]] recommended speed during takeoff.
+
+It is also the reason the airplane cane feel like it suddenly wants to float as you approach to land.
+
+## What about wing tip vortices?
 
 
 ## Additional Resources
