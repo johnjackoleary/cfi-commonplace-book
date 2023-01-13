@@ -40,13 +40,13 @@ From [[PHAK Ch5]]:
 This is why the aircraft requires so much power to maintain slow flight, and why it can actually fly faster with less power as you accelerate to a speed with less induced drag.
 
 ### Flight in Ground Effect
-[[Ground effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend down as much. This mean the lift vector does not tip backward as much, and there is less induced drag.
+[[Ground effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend down as much. This means the lift vector does not tip backward as much, and there is less induced drag.
 
 ![[Difference in Induced Drag at Altitude vs Ground.jpeg]]
 
-This impact to ground effect is why it's important to rotate and climb out at the [[POH]] recommended speed during takeoff.
+This improved performance in ground effect is why it's important to rotate and climb out at the [[POH]] recommended speed during takeoff. Otherwise, once you leave ground effect, the performance loss may cause the airplane to settle back on the runway.
 
-It is also the reason the airplane cane feel like it wants to keep floating as you approach to land -- especially if you approach with more airspeed than the POH recommends.
+Ground effect can also cause the airplane to keep floating as you approach to land -- especially if you approach with more airspeed than the POH recommends.
 
 ## How Wingtip Vortices Contribute
 Wingtip vortices are created by the higher pressure air below the wing rushing around the end of the wing to the lower pressure air above the wing. This creates a vortex.
