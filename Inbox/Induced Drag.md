@@ -39,14 +39,14 @@ This impact to ground effect is why it's important to rotate and climb out at th
 
 It is also the reason the airplane cane feel like it suddenly wants to float as you approach to land.
 
-## What about wingtip vortices?
+## What About Wingtip Vortices?
 Wingtip vortices are created by the higher pressure air below the wing rushing around the end of the wing to the lower pressure air above the wing. This creates a vortex.
 
 ![[Wingtip Vortices.jpeg]]
 
 Wingtip vortices increase downwash, therefore further tipping the lift vector backwards and increasing the rearward component of lift. This rearward component of lift is induced drag, meaning wingtip vortices increase induced drag.
 
-Wingtip vortices can be mitigated with 
+Wingtip vortex development is also interrupted in ground effect, further contributing to the reduction in induced drag near the ground.
 
 ## Additional Resources
 - [[PHAK Ch5]]
@@ -56,7 +56,7 @@ Wingtip vortices can be mitigated with
 
 ---
 
-## Definition
+## FAA Definition
 ***Definition***    :: Drag caused by the same factors that produce lift; its amount varies inversely with airspeed. As airspeed decreases, the angle of attack must increase, in turn increasing induced drag.
 ***Source***         :: [[PHAK Glossary]]
 
