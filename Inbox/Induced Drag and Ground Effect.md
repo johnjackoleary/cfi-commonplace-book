@@ -1,4 +1,4 @@
-***Link***      :: [# Induced Drag and Ground Effect](https://www.youtube.com/watch?v=GHQvAQiIcoE)
+***Link***      :: [Induced Drag and Ground Effect](https://www.youtube.com/watch?v=GHQvAQiIcoE)
 ***Description***      :: `= this.link`
 ***Author*** :: [[Rod Machado]]
 

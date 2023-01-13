@@ -42,7 +42,7 @@ There are four design factors that make an aircraft laterally stable:
 
 A major goal of [[Longitudinal Stability]] is to have the aircraft's nose return to safe flying attitude if a force pushes the nose up or down.
 
-This is accomplished by having a [[CG]] forward of the [[CL]], and using a downward force from [[downwash]] on the [[horizontal stabilizer]] while the aircraft is in steady flight.^[This is also why a CG which is too far back can be dangerous: without the tendency for the nose to return to safe flight, the aircraft may try to put itself into an ever-increasing stall.] [[Thrust]] line placement, either below or above the [[CG]], can also effect longitudinal stability when power is changed.
+This is accomplished by having a [[CG]] forward of the [[CL]], and using a downward force from [[Downwash]] on the [[horizontal stabilizer]] while the aircraft is in steady flight.^[This is also why a CG which is too far back can be dangerous: without the tendency for the nose to return to safe flight, the aircraft may try to put itself into an ever-increasing stall.] [[Thrust]] line placement, either below or above the [[CG]], can also effect longitudinal stability when power is changed.
 
 ![[Longitudinal Stability.png]]
 

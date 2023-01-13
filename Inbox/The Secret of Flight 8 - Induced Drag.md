@@ -1,4 +1,4 @@
-***Link***      :: [# The Secret of Flight 8: The Induced Drag](https://www.youtube.com/watch?v=aP8jvyD1Ovc)
+***Link***      :: [The Secret of Flight 8: The Induced Drag](https://www.youtube.com/watch?v=aP8jvyD1Ovc)
 ***Description***      :: `= this.link`
 ***Author*** :: [[Alexander Lippisch]]
 
