@@ -1,4 +1,4 @@
 ***Definition***    :: [[Maneuvering Speed]]
-***Source***         :: [[]]
+***Source***         :: [[PHAK Ch5]]
 
-#glossary
+#glossary #v-speed 
