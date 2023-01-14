@@ -50,4 +50,4 @@
 	3. Class E airspace?
 	4. Class G airspace?
 19. What causes the four effects known as “left-turning tendencies” and when do they act?
-20. When viewed by someone on the ground, what would a stabilized approach look like, sound like?
+20. When viewed by someone on the ground, what would a [[Stabilized Approach]] look like, sound like?
