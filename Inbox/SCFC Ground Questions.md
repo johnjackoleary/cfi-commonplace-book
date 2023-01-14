@@ -1,8 +1,16 @@
-1. What makes lift? Newton, Bernoulli
-2. What is Density Altitude? (Not how you calculate it!)
+1. What makes lift?
+	1. Newton
+	2. Bernoulli
+2. What is [[Density Altitude]]? (Not how you calculate it!)
+	1. Pressure altitude corrected for non-standard tempurature
+	2. What the plane thinks it's flying
+	3. `= [[Density Altitude]].definition`
 3. What are the units of Density Altitude?
+	1. MSL
 4. What factors affect Density Altitude?
-5. What is Pressure Altitude?
+		1. High, Hot, Humid
+5. What is [[Pressure Altitude]]?
+	1. Indicated altitude when altimeter is set to 29.92"hg
 6. What are the units of Pressure Altitude?
 7. If automated weather at the airport reports altimeter setting 29.84, what exactly does that mean?
 8. If an aircraft flies from an area that is 15° warmer than standard to an area that is only 5° warmer than standard, how does the altimeter read? (too high, too low, or correctly)
