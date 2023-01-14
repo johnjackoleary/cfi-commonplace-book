@@ -27,9 +27,13 @@
 11. What is induced drag?
 	1. `=[[Induced Drag]].definition`
 12. In what flight conditions is induced drag dramatically reduced?
-13. How does weight impact fuel burn?
+	1. Ground effect and higher speeds
+13. How does [[Weight]] impact fuel burn?
+	1. See [[Weight]]
 14. Why does the airplane have a limit to how high it can fly?
+	1. High altitudes require higher speed to generate the same lift. This higher sped requires more thrust, and eventually the aircraft engine will not be able to output the thrust required to generate additional lift.
 15. How do V​X​ and V​Y​ change with altitude?
+	1. Vx moves closer to Vy (increases), and Vy closer to Vx. At absolute ceiling, they are equal
 16. How does V​A​ change with weight? Why?
 17. Using an aeronautical chart, locate a point in the country where the floor of Class Echo airspace is found at
 	1. 1,200 ft AGL.
