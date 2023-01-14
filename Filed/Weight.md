@@ -3,13 +3,13 @@
 ### Maneuvering Speed ([[Va]])
 [[Maneuvering speed]] is: `= [[Maneuvering Speed]].definition`
 
-Put another way, maneuvering speed (Va) is meant to ensure the airplane stalls before exceeding the [[load limit factor]].
+Put another way, maneuvering speed (Va) is meant to ensure the airplane stalls before exceeding the [[limit load factor]].
 
 In level flight, we're at 1G [[load factor]]. If we double, triple, or quadruple the angle of attack, we increase our G-force by double, triple, or quadruple.
 
-If we increase our G-force beyong the [[load limit factor]]
+If we increase our G-force beyond the [[limit load factor]], we can cause structural damage. So we need to ensure we don't want to exceed +3.8 Gs.
 
-ince at higher weights we need more lift, we need to fly at a higher [[angle of attack]]. 
+But, since at higher weights we need more lift, we need to fly at a higher [[angle of attack]]. Below maneuver speed, 4x-ing that angle of attack would cause a stall by exceeding the critical angle of attack. At the same airspeed and a lower weight, we'd cruise at a lower angle of attack, and 4x-ing that angle may not cause a stall.
 
 For another explanation, see [[Why Maneuvering Speed Changes With Weight]]
 
