@@ -4,8 +4,8 @@ has-carb-heat :: false
 ### V Speeds
 Vx :: 62
 Vy :: 74
-Va-mgw :: 
-Va-mgw :: 
+Va-mgw :: 105
+Va-dual-student :: 100
 Vref :: 65
 Vshort :: 61
 

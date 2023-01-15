@@ -26,4 +26,4 @@ data: "[[C172S Datasheet]]"
 | Topic              | Details                                   |
 | ------------------ |:----------------------------------------- |
 | Leaning            | 50° ROP when above 3000'                  | 
-| V<sub>A</sub>      | 105 @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
+| V<sub>A</sub>      | `= this.data.va-mgw` @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
