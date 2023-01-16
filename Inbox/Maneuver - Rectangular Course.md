@@ -16,7 +16,7 @@ config: "[[Maneuvers Config]]"
 - Altitude `= this.altitude-limits`
 - Select suitable reference
 - Enter 45° to the downwind leg, left or right traffic
-- Aim for 1/2 mile from reference, account for wind
+- Aim for ~1/2 mile from reference, account for wind
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
 ### Additional Details
