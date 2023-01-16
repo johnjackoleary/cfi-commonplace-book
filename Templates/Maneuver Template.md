@@ -4,7 +4,7 @@ tags: [maneuver, ppl, cpl]
 altitude-limits: 
 acs:
   ppl: 
-    section: 
+    section: ""
     standards: "<font color=\"red\"></font>"
   cpl: 
     section: ""

@@ -15,7 +15,7 @@ config: "[[Maneuvers Config]]"
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
 - Power - `= this.config.aircraft.slow-flight-rpm`; Hold altitude; Slow to Vx (`= this.config.aircraft.Vx`kts)
-- Add >65% power (`= this.config.aircraft.power-on-stall-power`)
+- Add >65% power (`= this.config.aircraft.power-on-stall-rpm`)
 - Pitch up slowly for stall; Verbally acknowledge stall horn
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`
 - Recover: pitch down, full power. Climb Vy (`= this.config.aircraft.Vy`kts)

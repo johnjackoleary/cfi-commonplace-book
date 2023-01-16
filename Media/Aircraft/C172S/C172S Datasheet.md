@@ -14,5 +14,5 @@ pattern-downwind-kias :: 90
 pattern-downwind-rpm :: 2000
 slow-flight-rpm :: 1500
 Va-rpm :: 2200
-power-on-stall-power :: 2100 RPM
+power-on-stall-rpm :: 2100
 flaps-for-stall-recover :: 20°
