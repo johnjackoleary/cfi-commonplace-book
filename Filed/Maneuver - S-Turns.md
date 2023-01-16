@@ -16,13 +16,15 @@ config: "[[Maneuvers Config]]"
 - Altitude `= this.altitude-limits`
 - Power - `= this.config.aircraft.Va-dual-rpm` (`= this.config.aircraft.Va-dual`kts)
 - Select suitable reference, perpendicular to wind
-- Enter downwind; Radius 1/2mi
+- Enter downwind
+- Tailwind: Steeper bank
+- Headwind: Shallower bank
 - Use 5 points on S-turn to help maintain correct 1/2mi radius
-- Aim for 1/4-1/2 mile from reference, account for wind
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
 ### Additional Details
-- 
+- Divide attention between airplane control, traffic, and ground references.
+- Be aware of low altitude hazards like wires.
 ![[S-Turns.jpeg]]
 
 ### Related Notes

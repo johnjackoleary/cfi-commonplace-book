@@ -16,14 +16,16 @@ config: "[[Maneuvers Config]]"
 - Altitude `= this.altitude-limits`
 - Power - `= this.config.aircraft.Va-dual-rpm` (`= this.config.aircraft.Va-dual`kts)
 - Select suitable reference
-- Enter 45° to the downwind leg, left or right traffic
-- Aim for 1/4-1/2 mile from reference, account for wind
+- Enter downwind
+- Tailwind: Steeper bank
+- Headwind: Shallower bank
+- Use 4 points along circle to help maintain correct 1/2mi radius
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
 ### Additional Details
-- This maneuver simulates flying the traffic pattern.
-- Turn crosswind from downwind when you are abeam the crosswind reference line.
-![[Rectangular Course.jpeg]]
+- Divide attention between airplane control, traffic, and ground references.
+- Be aware of low altitude hazards like wires.
+![[Turns Around a Point.jpeg]]
 
 ### Related Notes
 ```dataview
