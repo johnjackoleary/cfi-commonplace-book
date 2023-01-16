@@ -25,4 +25,4 @@ Increased weight requires more lift to counteract, thus more engine power goes t
 ***Definition***    :: The force exerted by an aircraft from the pull of gravity.
 ***Source***         :: [[PHAK Glossary]]
 
-#glossary #four-forces
+#glossary #four-forces #concept 

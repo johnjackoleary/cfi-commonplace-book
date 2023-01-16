@@ -1,3 +1,5 @@
+#todo :: Update this, should be that induced drag is from downwash of wingtip vortices, not deflection of relative wind
+
 # Key Takeaways
 - Induced drag exists whenever lift is created. It is the portion of lift which is directed backwards.
 - Induced drag increases rapidly at slower airspeeds.
@@ -66,4 +68,4 @@ Wingtip vortex development is also interrupted in ground effect, further contrib
 ***Definition***    :: Drag caused by the same factors that produce lift; its amount varies inversely with airspeed. As airspeed decreases, the angle of attack must increase, in turn increasing induced drag.
 ***Source***         :: [[PHAK Glossary]]
 
-#glossary
+#glossary #concept

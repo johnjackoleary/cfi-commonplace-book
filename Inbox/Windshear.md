@@ -1,11 +1,9 @@
-
-
 # Key Takeaways
 
 # Details
 
 # Additional Resources
-- [Example of Accident from Helicopter Wake Turbulence](https://www.youtube.com/watch?v=9YvL62T3Hm0)
+- 
 
 ## FAA Definition
 ***Definition***    :: 

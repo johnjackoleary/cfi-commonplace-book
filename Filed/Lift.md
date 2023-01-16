@@ -9,4 +9,4 @@
 ***Definition***    :: A component of the total aerodynamic force on an airfoil and acts perpendicular to the [[relative wind]].
 ***Source***         :: [[PHAK Glossary]]
 
-#glossary #four-forces
+#glossary #four-forces #concept
