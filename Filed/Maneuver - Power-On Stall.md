@@ -14,7 +14,7 @@ config: "[[Maneuvers Config]]"
 ### Overview For `= this.config.aircraft.model` (`= upper(this.config.cert)`)
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
-- Power - `= this.config.aircraft.slow-flight-power`; Hold altitude; Slow to Vx (`= this.config.aircraft.Vx`kts)
+- Power - `= this.config.aircraft.slow-flight-rpm`; Hold altitude; Slow to Vx (`= this.config.aircraft.Vx`kts)
 - Add >65% power (`= this.config.aircraft.power-on-stall-power`)
 - Pitch up slowly for stall; Verbally acknowledge stall horn
 - `= choice(this.config.cert = "ppl", "Continue pitch up to full stall", "Recover at first indication")`

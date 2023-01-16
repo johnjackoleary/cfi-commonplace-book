@@ -17,7 +17,7 @@ data: "[[C172S Datasheet]]"
 | 🌫️ IAF Inbound Descent  |           |   \-2°    |               1700                |          90          |     \-800     |
 | 🌫️ Prec Appr to DA      |    10°    |   \-3°    |               1900                |          90          |     \-450     |
 | 🌫️ Non-Prec Appr to MDA |    10°    |   \-4°    |               1500                |          90          |     \-800     |
-| 🛬 Downwind             |           |    TBD    | `=this.data.pattern-downwind-rpm` |          `=this.data.pattern-downwind-speed`          |       0       |
+| 🛬 Downwind             |           |    TBD    | `=this.data.pattern-downwind-rpm` |          `=this.data.pattern-downwind-kias`          |       0       |
 | 🛬 Abeam Numbers        |    10°    |    TBD    |               1500                |          80          |      TBD      |
 | 🛬 Base                 |    20°    |    TBD    |               1500                |          70          |      TBD      |
 | 🛬 Final                |    30°    |    TBD    |               1500                |  `= this.data.vref`  |      TBD      |
