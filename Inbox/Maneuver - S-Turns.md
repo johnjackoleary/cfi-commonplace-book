@@ -15,15 +15,15 @@ config: "[[Maneuvers Config]]"
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
 - Power - `= this.config.aircraft.Va-dual-rpm` (`= this.config.aircraft.Va-dual`kts)
-- Select suitable reference
-- Enter 45° to the downwind leg, left or right traffic
+- Select suitable reference, perpendicular to wind
+- Enter downwind; Radius 1/2mi
+- Use 5 points on S-turn to help maintain correct 1/2mi radius
 - Aim for 1/4-1/2 mile from reference, account for wind
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
 ### Additional Details
-- This maneuver simulates flying the traffic pattern.
-- Turn crosswind from downwind when you are abeam the crosswind reference line.
-![[Rectangular Course.jpeg]]
+- 
+![[S-Turns.jpeg]]
 
 ### Related Notes
 ```dataview

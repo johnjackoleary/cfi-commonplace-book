@@ -5,7 +5,7 @@ has-carb-heat :: false
 Vx :: 62
 Vy :: 74
 Va-mgw :: 105
-Va-dual-student :: 100
+Va-dual :: 100
 Vref :: 65
 Vshort :: 61
 
@@ -13,6 +13,6 @@ Vshort :: 61
 pattern-downwind-kias :: 90
 pattern-downwind-rpm :: 2000
 slow-flight-rpm :: 1500
-Va-rpm :: 2200
+Va-dual-rpm :: 2200
 power-on-stall-rpm :: 2100
 flaps-for-stall-recover :: 20°
