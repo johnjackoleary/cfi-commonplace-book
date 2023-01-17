@@ -18,9 +18,9 @@ data: "[[C172S Datasheet]]"
 | 🌫️ Prec Appr to DA      |    10°    |   \-3°    |               1900                |          90          |     \-450     |
 | 🌫️ Non-Prec Appr to MDA |    10°    |   \-4°    |               1500                |          90          |     \-800     |
 | 🛬 Downwind             |           |    TBD    | `=this.data.pattern-downwind-rpm` |          `=this.data.pattern-downwind-kias`          |       0       |
-| 🛬 Abeam Numbers        |    10°    |    TBD    |               1500                |          80          |      TBD      |
-| 🛬 Base                 |    20°    |    TBD    |               1500                |          70          |      TBD      |
-| 🛬 Final                |    30°    |    TBD    |               1500                |  `= this.data.vref`  |      TBD      |
+| 🛬 Abeam Numbers        |    `=this.data.pattern-abeam-flaps`    |    TBD    |               `=this.data.pattern-abeam-rpm`                |          `=this.data.pattern-abeam-kias`          |      TBD      |
+| 🛬 Base                 |    `=this.data.pattern-base-flaps`    |    TBD    |               `=this.data.pattern-base-rpm`                |          `=this.data.pattern-base-kias`          |      TBD      |
+| 🛬 Final                |    `=this.data.pattern-final-flaps`    |    TBD    |               `=this.data.pattern-final-rpm`                |  `= this.data.vref`  |      TBD      |
 | Short                   |    30°    |    TBD    |               1500                | `= this.data.vshort` |      TBD      |
 
 | Topic              | Details                                   |

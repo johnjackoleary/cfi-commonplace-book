@@ -26,6 +26,7 @@ pattern-base-kias :: 70
 pattern-base-rpm :: 1500
 pattern-base-flaps :: 20°
 pattern-final-kias :: 65
+#todo :: Should I use vref instead?
 pattern-final-rpm :: 1500
 pattern-final-flaps :: 40°
 
