@@ -51,10 +51,6 @@ tags: ppl
 
 ----
 
-![[9. Go-Arounds and Rejected Landings]]
-
-----
-
 ![[10. Spin Awareness and Spin Recovery]]
 
 ----

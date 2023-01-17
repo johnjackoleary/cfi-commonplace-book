@@ -17,7 +17,6 @@ John O'Leary (CFI Jack)
 [[7. Ground Reference Maneuvers]]
 [[8. Flying the Traffic Pattern and Go-Arounds]]
 [[9. Normal and Crosswind Approaches and Landings]]
-[[9. Go-Arounds and Rejected Landings]]
 [[10. Spin Awareness and Spin Recovery]]
 [[11. Forward Slips to Landing]]
 [[12. Navigation Charts and National Airspace System]]
