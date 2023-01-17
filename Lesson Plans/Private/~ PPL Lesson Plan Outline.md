@@ -15,7 +15,7 @@ John O'Leary (CFI Jack)
 [[5. Towered Airport Operations]]
 [[6. Normal and Crosswind Takeoffs and Climbs]]
 [[7. Ground Reference Maneuvers]]
-[[8. Flying the Traffic Pattern]]
+[[8. Flying the Traffic Pattern and Go-Arounds]]
 [[10. Normal and Crosswind Approaches and Landings]]
 [[9. Go-Arounds and Rejected Landings]]
 [[11. Spin Awareness and Spin Recovery]]

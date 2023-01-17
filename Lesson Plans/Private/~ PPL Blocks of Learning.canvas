@@ -74,7 +74,7 @@
 		{"id":"85436140e73fd7f4","x":1220,"y":-2266,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/14. Non-Towered Airport Operations.md"},
 		{"id":"983b24f8304bc455","x":1220,"y":-1706,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/13. Navigation Charts and National Airspace System.md"},
 		{"id":"6b51f73707f99fbe","x":1762,"y":564,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/9. Go-Arounds and Rejected Landings.md"},
-		{"id":"e2959087e6d8887b","x":1762,"y":1094,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/8. Flying the Traffic Pattern.md"}
+		{"id":"e2959087e6d8887b","x":1762,"y":1094,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/8. Flying the Traffic Pattern and Go-Arounds.md"}
 	],
 	"edges":[
 		{"id":"fb8e7cf93c3d2e6a","fromNode":"8ebe62802d9f64f8","fromSide":"top","toNode":"d977536e0370a3b3","toSide":"bottom"},
