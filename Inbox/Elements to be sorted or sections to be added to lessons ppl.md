@@ -13,6 +13,8 @@ Review parts of solo quiz
 
 Review parts of solo phase check
 
+minimum altitude
+
 best glide
 
 gust factor addition on landing

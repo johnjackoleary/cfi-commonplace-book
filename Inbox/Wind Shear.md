@@ -1,19 +1,22 @@
 # Key Takeaways
-* Wind shear is a change in wind speed and/or direction over a short distance. 
-* Four common sources of low-level wind shear are—
-	1. Frontal activity.
-	2. Thunderstorms.
-	3. Temperature inversions.
-	4. Surface obstructions.
-1. Best ways a pilot can prevent a hazardous encounter with wind shear:
+- Wind shear is a change in wind speed and/or direction over a short distance. 
+- Four common sources of low-level wind shear are—
+	1. [[Wind Shear Along Front.jpeg|Frontal activity]]
+	2. [[Thunderstorm Up and Downdrafts.jpeg|Thunderstorms]]
+	3. [[Wind Shear from Tempurature Inversion.jpeg|Temperature inversions]]
+	4. Surface obstructions
+- Best ways a pilot can prevent a hazardous encounter with wind shear:
 	- Know wind shear is there.
 	- Know the magnitude of the change.
 	- Be prepared to correct or go around immediately.
+- Always be alert to the possibility of wind shear, especially when flying in and around thunderstorms and frontal systems.
 
 # Details
-Wind shear is a change in wind speed and/or direction over a short distance. It can occur either horizontally or vertically and is most often associated with strong temperature inversions or density gradients.
+Wind shear can occur either horizontally or vertically and is most often associated with strong temperature inversions or density gradients.
 
 While wind shear can occur at any altitude, low-level wind shear is especially hazardous due to the proximity of an aircraft to the ground.
+
+![[Strong Wind Shear At Low Altitude.jpeg]]
 
 Low-level wind shear is commonly associated with passing frontal systems, thunderstorms, temperature inversions, and strong upper level winds (greater than 25 knots).
 
@@ -29,7 +32,7 @@ A typical microburst:
 - Lasts about 5–15 minutes during 
 - Can produce downdrafts of up to 6,000 feet per minute (fpm) and headwind losses of 30–90 knots
 
-
+![[Effect of Microburst.jpeg]]
 
 
 # Additional Resources
