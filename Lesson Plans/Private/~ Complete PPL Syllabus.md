@@ -47,7 +47,7 @@ tags: ppl
 
 ----
 
-![[10. Normal and Crosswind Approaches and Landings]]
+![[9. Normal and Crosswind Approaches and Landings]]
 
 ----
 
@@ -55,31 +55,31 @@ tags: ppl
 
 ----
 
-![[11. Spin Awareness and Spin Recovery]]
+![[10. Spin Awareness and Spin Recovery]]
 
 ----
 
-![[12. Forward Slips to Landing]]
+![[11. Forward Slips to Landing]]
 
 ----
 
-![[13. Navigation Charts and National Airspace System]]
+![[12. Navigation Charts and National Airspace System]]
 
 ----
 
-![[14. Non-Towered Airport Operations]]
+![[13. Non-Towered Airport Operations]]
 
 ----
 
-![[15. Emergency Approaches and Landings]]
+![[14. Emergency Approaches and Landings]]
 
 ----
 
-![[16. Emergency Operations]]
+![[15. Emergency Operations]]
 
 ---
 
-![[17. Pre-Solo Knowledge Test and Review]]
+![[16. Pre-Solo Knowledge Test and Review]]
 
 
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
@@ -120,7 +120,7 @@ tags: ppl
 
 ----
 
-![[16. Emergency Operations]]
+![[15. Emergency Operations]]
 
 ----
 
