@@ -12,6 +12,9 @@
 - Always be alert to the possibility of wind shear, especially when flying in and around thunderstorms and frontal systems.
 
 # Details
+
+#todo :: add sources to know about wind shear
+
 Wind shear can occur either horizontally or vertically and is most often associated with strong temperature inversions or density gradients.
 
 While wind shear can occur at any altitude, low-level wind shear is especially hazardous due to the proximity of an aircraft to the ground.
