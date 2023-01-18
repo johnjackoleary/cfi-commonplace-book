@@ -11,8 +11,12 @@
             "id": "086dfc517707a0d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Filed/Maneuver - Turns Around a Point.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Filed/Maneuver - Turns Around a Point.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Filed/Maneuver - Turns Around a Point.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +113,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Filed/Maneuver - Turns Around a Point.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "active": "086dfc517707a0d7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "+ Maneuvers.md"
+  ]
 }
