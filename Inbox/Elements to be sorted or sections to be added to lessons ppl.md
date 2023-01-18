@@ -19,6 +19,8 @@ best glide
 
 gust factor addition on landing
 
+slips and skids
+
 propellers
 
 ground effect
