@@ -25,6 +25,7 @@ From *[Aviation International News](https://www.ainonline.com/aviation-news/gene
 
 **Mitigations:**
 In short: better planning and preparation.
+#todo :: add sterile cockpit
 - Understand airport diagram and likely taxi routes through airport
 - Review and understand [[Filed/Hotspot|hotspots]], which can be found in airport diagrams ([[KSNA Airport Diagram with Hotspots.pdf|example]]), the Airport/Facility Directory (A/FD) ([[KSNA Hotspot Descriptions.jpeg|example]]), and instrument approach books
 - Know and watch for runway hold position markings ([[Runway Hold Position Marking.png|image]]). If you haven't been cleared to cross it (or you aren't sure), hold short and ask.
