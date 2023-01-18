@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "fdcf5b7cf6098f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e75a1f2ee8c0862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "086dfc517707a0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filed/Maneuver - Turns Around a Point.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "984f4bbdb87a67c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34f7d124e6a21701",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e91803d49815f0e7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9c6d8848f86b64d2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8186695694fc45b7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d363dee4d02df0b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a814f92ace96a44b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Filed/Maneuver - Turns Around a Point.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "545cb86f4f6bfedf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Filed/Maneuver - Turns Around a Point.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1114ac4c8822bc40",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Filed/Maneuver - Turns Around a Point.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "086dfc517707a0d7",
+  "lastOpenFiles": [
+    "+ Maneuvers.md"
+  ]
+}
