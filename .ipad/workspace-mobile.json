@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca726924b0b3e4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filed/Maneuver - Turns Around a Point.md",
+            "file": "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filed/Maneuver - Turns Around a Point.md",
+            "file": "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,15 +127,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filed/Maneuver - Turns Around a Point.md"
+            "file": "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "086dfc517707a0d7",
+  "active": "ca726924b0b3e4df",
   "lastOpenFiles": [
+    "Filed/Maneuver - Turns Around a Point.md",
     "+ Maneuvers.md"
   ]
 }
