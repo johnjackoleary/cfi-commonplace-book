@@ -17,8 +17,6 @@ minimum altitude
 
 best glide
 
-gust factor addition on landing
-
 Talk about the different V speeds, per FlyingTrd request
 
 slips and skids
@@ -41,8 +39,6 @@ left turning tendencies
 
 Flight instruments
 
-Vx, Vy
-
 Airport, Runway, and Taxiway lights
 
 Lost communication procedures.
@@ -55,6 +51,7 @@ National Transportation Safety Board (NTSB) accident/incident reporting.
 
 Runway Status Lighting Systems.
 
+compass errors
 
 
 
