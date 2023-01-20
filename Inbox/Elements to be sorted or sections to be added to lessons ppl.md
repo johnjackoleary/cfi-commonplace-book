@@ -17,6 +17,22 @@ minimum altitude
 
 best glide
 
+ Better way to explain parasitic and induced drag
+
+roll out of turn at 1/2 of bank
+
+Whern to take off with tailwind
+
+rate of turn vs bank angle
+
+- true and magnetic (and if we should talk winds aloft)
+	- include some resources on magnetic and true north
+	- resources also for use in Sim
+- Compass errors?
+
+
+Regulation about attitude of aircraft
+
 Regulation about attitude of aircraft
 
 Talk about the different V speeds, per FlyingTrd request
@@ -24,6 +40,8 @@ Talk about the different V speeds, per FlyingTrd request
 slips and skids
 
 propellers
+
+1000' AGL over populated areas
 
 ground effect
 
