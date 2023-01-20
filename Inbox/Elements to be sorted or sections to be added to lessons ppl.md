@@ -17,6 +17,8 @@ minimum altitude
 
 best glide
 
+Regulation about attitude of aircraft
+
 Talk about the different V speeds, per FlyingTrd request
 
 slips and skids
