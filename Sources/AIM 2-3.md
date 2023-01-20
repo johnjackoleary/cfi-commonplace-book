@@ -3,8 +3,6 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* Airport pavement markings and signs provide information that is useful to a pilot during takeoff, landing, and taxiing.
 
 #source #aim
-
-#todo :: add key quotes

@@ -22,7 +22,7 @@ When air passes around a wing generating lift, that relative airstream is deflec
 
 <cite>Holger Babinsky, University of Cambridge, CC BY-SA 3.0, via Wikimedia Commons</cite>
 
-That deflected airstream, or '[[downwash]]', has the same effect as bending the lift vector rearward, creating a rearward lift component. This is induced drag.
+That deflected airstream, or '[[Downwash]]', has the same effect as bending the lift vector rearward, creating a rearward lift component. This is induced drag.
 
 ![[Induced Drag Due to Downwash.jpeg]]
 
