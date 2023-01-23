@@ -15,6 +15,8 @@ Review parts of solo phase check
 
 Use of seat belts
 
+Purchase current FAR/AIM
+
 minimum altitude
 
 best glide

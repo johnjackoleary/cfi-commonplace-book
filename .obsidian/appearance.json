@@ -1,7 +1,8 @@
 {
   "cssTheme": "",
   "enabledCssSnippets": [
-    "clean-embeds-all"
+    "clean-embeds-all",
+    "radio-comms"
   ],
   "baseFontSize": 18,
   "theme": "system",
