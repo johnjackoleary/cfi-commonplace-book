@@ -13,8 +13,7 @@ Review parts of solo quiz
 
 Weather at an airport (MVFR, VFR, IFR, etc)
 
-
-
+Figure out if airport lighting should be grouped with markings/wind indicators (from [[5. Towered Airport Operations]] and [[13. Non-Towered Airport Operations]]) into a whole new lesson
 
 Review parts of solo phase check
 
