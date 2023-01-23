@@ -13,6 +13,8 @@ Review parts of solo quiz
 
 Review parts of solo phase check
 
+Use of seat belts
+
 minimum altitude
 
 best glide
