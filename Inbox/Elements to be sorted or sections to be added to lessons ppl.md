@@ -11,6 +11,8 @@ POH sections and what is in them (currently have a request to read in [[6. Norma
 
 Review parts of solo quiz
 
+Weather at an airport (MVFR, VFR, IFR, etc)
+
 Review parts of solo phase check
 
 Use of seat belts
