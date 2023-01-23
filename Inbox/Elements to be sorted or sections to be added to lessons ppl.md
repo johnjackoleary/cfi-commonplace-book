@@ -13,6 +13,9 @@ Review parts of solo quiz
 
 Weather at an airport (MVFR, VFR, IFR, etc)
 
+
+
+
 Review parts of solo phase check
 
 Use of seat belts
