@@ -2,6 +2,7 @@
 - The US uses class A, B, C, D, E, G airspace, listed from most to least restrictive.
 - All except Class G are controlled airspace.
 - Class D airspace may revert to Class E or G when the tower is closed.
+#todo :: add mode c veil
 
 # Details
 ## Overview
