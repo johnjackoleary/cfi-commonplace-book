@@ -51,10 +51,11 @@ See [[FAR 91.155 VFR Weather Minimums]].
 
 # Additional Resources
 - [[AIM 3]]
+- [[PHAK Ch15]]
 - [[Sectional Chart]]
 
 ## FAA Definition
-***Definition***    :: 
-***Source***         :: [[PHAK Ch15]]
+***Definition***    :: The common network of United States airspace—air navigation facilities, equipment and services, airports or landing areas; aeronautical charts, information and services; rules, regulations and procedures, technical information; and manpower and material.
+***Source***         :: [[PHAK Glossary]]
 
 #glossary #concept
