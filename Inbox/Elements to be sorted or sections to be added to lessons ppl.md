@@ -30,7 +30,12 @@ rate of turn vs bank angle
 - true and magnetic (and if we should talk winds aloft)
 	- include some resources on magnetic and true north
 	- resources also for use in Sim
-- Compass errors?
+
+
+4. [[Compass Errors]]
+	1. [[Variation]] - [[Compass Variation Across US.jpeg]], [[Effect of Compass Variation.jpeg]], [[Magnetic Meridians.jpeg]]
+	2. [[Deviation]] - [[Compass Deviation Card.jpeg]], [[Compass Deviation Explanation.jpeg]]
+	3. [[Magnetic Dip]]
 
 
 Regulation about attitude of aircraft
