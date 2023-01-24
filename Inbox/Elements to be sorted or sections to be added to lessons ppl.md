@@ -33,6 +33,8 @@ Whern to take off with tailwind
 
 rate of turn vs bank angle
 
+91.123 Compliance with ATC clearances and instructions.
+
 - true and magnetic (and if we should talk winds aloft)
 	- include some resources on magnetic and true north
 	- resources also for use in Sim
