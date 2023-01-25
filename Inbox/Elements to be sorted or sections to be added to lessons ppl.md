@@ -7,6 +7,8 @@
 
 Taxiing at night 
 
+![[Vx vs Vy at Higher Altitudes.jpeg]]
+
 POH sections and what is in them (currently have a request to read in [[6. Normal and Crosswind Takeoffs and Climbs]])
 
 Review parts of solo quiz
