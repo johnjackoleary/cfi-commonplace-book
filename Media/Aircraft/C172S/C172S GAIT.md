@@ -5,7 +5,7 @@ data: "[[C172S Datasheet]]"
 
 | **C172S Gaits** v0.3    | **Flaps** | **Pitch** |              **RPM**              |    **IAS (kts)**     | **VSI (fpm)** |
 | ----------------------- |:---------:|:---------:|:---------------------------------:|:--------------------:|:-------------:|
-| ⚠️ V<sub>G</sub>        |           |    TBD    |               idle                |          68          |      TBD      |
+| ⚠️ V<sub>G</sub>        |           |    TBD    |               idle                |          `= this.data.Vg`          |      TBD      |
 | 🛫 V<sub>R</sub>        |    10°    |    TBD    |                max                |          55          |      TBD      |
 | V<sub>X(10°)</sub>      |    10°    |    TBD    |                max                |          56          |      TBD      |
 | V<sub>X</sub>           |           |    TBD    |                max                |   `= this.data.Vx`   |      TBD      |

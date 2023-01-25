@@ -61,9 +61,8 @@
 		{"id":"cffed4d65a047db1","x":1762,"y":-586,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md"},
 		{"id":"a00f315b6f03cfcb","x":2312,"y":1264,"width":450,"height":60,"color":"3","type":"text","text":"Go-arounds."},
 		{"id":"b70cb975e13d3618","x":2312,"y":-3216,"width":450,"height":60,"color":"3","type":"text","text":"Emergency procedures and equipment malfunctions;"},
-		{"id":"5345dd42c4367946","x":1762,"y":-3386,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/15. Emergency Operations.md"},
 		{"id":"24fdd1061b8b3646","x":2312,"y":-2656,"width":450,"height":60,"color":"3","type":"text","text":"Approaches to a landing area with simulated engine malfunctions;"},
-		{"id":"23bd6872665d2ea8","x":1762,"y":-2826,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/14. Emergency Approaches and Landings.md"},
+		{"id":"23bd6872665d2ea8","x":1762,"y":-2826,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/14. Emergency Landings.md"},
 		{"id":"c527ccbb74fca1e9","x":2312,"y":-3776,"width":450,"height":60,"color":"3","type":"text","text":"Pre-solo knowledge test"},
 		{"id":"e99b55f6e99740cb","x":1762,"y":-3946,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/16. Pre-Solo Knowledge Test and Review.md"},
 		{"id":"9eeee7d72bd7f12d","x":2412,"y":-496,"width":250,"height":220,"color":"6","type":"text","text":"Arrows are meant to depict potential alternate orders for lessons. The order selected is meant to build logically, but is not the only way"},
@@ -71,9 +70,10 @@
 		{"id":"e2d3ce68ea8712a3","x":2312,"y":114,"width":450,"height":60,"color":"3","type":"text","text":"Landings, including normal and crosswind;"},
 		{"id":"de7dc795fc9dfc1a","x":2312,"y":174,"width":450,"height":60,"color":"3","type":"text","text":"Collision avoidance, windshear avoidance, and wake turbulence avoidance;"},
 		{"id":"302e29821a51994c","x":1220,"y":2774,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/5. Towered Airport Operations.md"},
-		{"id":"e769398784c09086","x":1200,"y":-1811,"width":440,"height":5011,"color":"#c89c51","type":"group","label":"Ground-Only"},
+		{"id":"e769398784c09086","x":1200,"y":-3457,"width":440,"height":6657,"color":"#c89c51","type":"group","label":"Ground-Only"},
 		{"id":"983b24f8304bc455","x":1220,"y":-1706,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/12. Navigation Charts and National Airspace System.md"},
-		{"id":"85436140e73fd7f4","x":1762,"y":-2266,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/13. Non-Towered Airport Operations.md"}
+		{"id":"85436140e73fd7f4","x":1762,"y":-2266,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/13. Non-Towered Airport Operations.md"},
+		{"id":"5345dd42c4367946","x":1220,"y":-3386,"width":400,"height":400,"type":"file","file":"Lesson Plans/Private/15. Emergency Operations.md"}
 	],
 	"edges":[
 		{"id":"fb8e7cf93c3d2e6a","fromNode":"8ebe62802d9f64f8","fromSide":"top","toNode":"d977536e0370a3b3","toSide":"bottom"},
