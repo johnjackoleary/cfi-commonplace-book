@@ -23,13 +23,11 @@ Purchase current FAR/AIM
 
 minimum altitude
 
-best glide
-
- Better way to explain parasitic and induced drag
+Better way to explain parasitic and induced drag
 
 roll out of turn at 1/2 of bank
 
-Whern to take off with tailwind
+When to take off with tailwind
 
 rate of turn vs bank angle
 
@@ -45,8 +43,6 @@ rate of turn vs bank angle
 	2. [[Deviation]] - [[Compass Deviation Card.jpeg]], [[Compass Deviation Explanation.jpeg]]
 	3. [[Magnetic Dip]]
 
-
-Regulation about attitude of aircraft
 
 Regulation about attitude of aircraft
 
@@ -87,6 +83,8 @@ National Transportation Safety Board (NTSB) accident/incident reporting.
 Runway Status Lighting Systems.
 
 compass errors
+
+mixture and correctly leaning
 
 
 
