@@ -2,6 +2,7 @@ model :: C172SP
 has-carb-heat :: false
 
 ### V Speeds (KIAS)
+Vg :: 68
 Vx :: 62
 Vy :: 74
 Va-mgw :: 105

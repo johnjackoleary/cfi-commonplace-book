@@ -31,6 +31,8 @@ When to take off with tailwind
 
 rate of turn vs bank angle
 
+aircraft systems (perhaps as a required reading, then ask questions of student?)
+
 91.123 Compliance with ATC clearances and instructions.
 
 - true and magnetic (and if we should talk winds aloft)

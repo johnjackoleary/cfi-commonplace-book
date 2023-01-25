@@ -67,7 +67,7 @@ tags: ppl
 
 ----
 
-![[14. Emergency Approaches and Landings]]
+![[14. Emergency Landings]]
 
 ----
 

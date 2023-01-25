@@ -21,7 +21,7 @@ John O'Leary (CFI Jack)
 [[11. Forward Slips to Landing]]
 [[12. Navigation Charts and National Airspace System]]
 [[13. Non-Towered Airport Operations]]
-[[14. Emergency Approaches and Landings]]
+[[14. Emergency Landings]]
 [[15. Emergency Operations]]
 [[16. Pre-Solo Knowledge Test and Review]]
 
