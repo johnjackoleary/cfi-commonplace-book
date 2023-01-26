@@ -10,6 +10,9 @@ Va-dual :: 100
 Vref :: 65
 Vshort :: 61
 
+### Weights
+mgw :: 2550
+
 ### Maneuvering
 slow-flight-rpm :: 1600
 Va-dual-rpm :: 2200
