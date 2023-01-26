@@ -29,6 +29,8 @@ Better way to explain parasitic and induced drag
 
 roll out of turn at 1/2 of bank
 
+Emergencies with instrument failures (e.g. what if pitot tube is covered)
+
 When to take off with tailwind
 
 rate of turn vs bank angle
