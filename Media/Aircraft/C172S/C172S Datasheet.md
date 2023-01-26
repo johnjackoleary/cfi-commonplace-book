@@ -19,6 +19,9 @@ Va-dual-rpm :: 2200
 power-on-stall-rpm :: 2100
 flaps-for-stall-recover :: 20°
 
+### Emergency
+engine-fire-speed :: 100
+
 ### Pattern Speeds
 #todo :: Update [[C172S GAIT]] to use these formulas
 pattern-downwind-kias :: 90
