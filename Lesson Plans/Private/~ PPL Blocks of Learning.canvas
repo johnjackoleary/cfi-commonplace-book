@@ -35,7 +35,7 @@
 		{"id":"1723f8a3dcbb20da","x":4160,"y":-2354,"width":270,"height":372,"type":"group","label":"Legend"},
 		{"id":"36f980e1675f8f5e","x":2312,"y":4594,"width":450,"height":60,"color":"3","type":"text","text":"Climbs and climbing turns;"},
 		{"id":"c5bae0710b76dfaf","x":2312,"y":4684,"width":450,"height":60,"color":"3","type":"text","text":"Straight and level flight, and turns in both directions;"},
-		{"id":"e7769af5cc30e151","x":4185,"y":-2263,"width":220,"height":50,"color":"3","type":"text","text":"[[FAR 61.87]] Explicit"},
+		{"id":"e7769af5cc30e151","x":4185,"y":-2263,"width":220,"height":50,"color":"3","type":"text","text":"[[FAR 61.87 Student Pilot Solo Reqs]] Explicit"},
 		{"id":"2928bc5d9e6725ae","x":4185,"y":-2331,"width":220,"height":50,"color":"6","type":"text","text":"Milestones"},
 		{"id":"73dcbd8bcb42af8a","x":4185,"y":-2195,"width":220,"height":50,"color":"2","type":"text","text":"[[FAR 61.93]] Explicit"},
 		{"id":"352e8c95ff78660f","x":4185,"y":-2127,"width":220,"height":50,"color":"1","type":"text","text":"[[FAR 61.109]] Explicit"},
