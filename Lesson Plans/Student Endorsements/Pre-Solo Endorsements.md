@@ -16,6 +16,16 @@ I certify that \[First name, MI, Last name\] has received and logged pre-solo fl
 
 I certify that \[First name, MI, Last name\] has received the required training to qualify for solo flying. I have determined \[he or she\] meets the applicable requirements of § 61.87(n) and is proficient to make solo flights in \[make and model\], with the following limitations \[limitations\].
 
+---
+
+**Solo takeoffs and landings at another airport within 25 nautical miles (NM): § 61.93(b)(1).**
+
+I certify that \[First name, MI, Last name\] has received the required training of § 61.93(b)(1). I have determined that \[he or she\] is proficient to practice solo takeoffs and landings at \[airport name\]. The takeoffs and landings at \[airport name\] are subject to the following conditions: \[List any applicable conditions or limitations.\]
+
+---
+
+#todo endorsement of U.S. citizenship? (1552.3(h))
+
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
 See also [[FAR 61.87 Student Pilot Solo Reqs]]
