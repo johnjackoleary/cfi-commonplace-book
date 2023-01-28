@@ -23,8 +23,12 @@
             "id": "ca726924b0b3e4df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2023-01-28 151047.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Inbox/2023-01-28 151047.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Inbox/2023-01-28 151047.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Inbox/2023-01-28 151047.md"
+          }
         }
       }
     ],
