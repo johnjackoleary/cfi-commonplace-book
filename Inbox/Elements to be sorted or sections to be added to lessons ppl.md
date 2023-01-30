@@ -12,6 +12,18 @@ Figure out if airport lighting should be grouped with markings/wind indicators (
 
 Purchase current FAR/AIM
 
+* Perhaps calculate the expected descent rate in pattern legs as well, and figure out RPM from there?
+* standard images for drawing on
+* static port
+* fuel burn and MIXTURE setting
+* Don't do all of pre-flight briefing all at once, some elements in each and build up over time
+* always use full n number for early lessons (update comms example)
+
+- always use full n number for early lessons (update comms example)
+- talk about crosswind component for takeof
+- trailing edge of wing? how to describe start of stall spreading
+- - does sim use magnetic heading?
+
 Better way to explain parasitic and induced drag. ground effect.
 
 Emergencies with instrument failures (e.g. what if pitot tube is covered)
