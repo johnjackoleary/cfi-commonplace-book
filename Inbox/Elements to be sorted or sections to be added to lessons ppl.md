@@ -1,9 +1,5 @@
 
-1. Preflight
-	1. Preflight the pilot also! - [[IMSAFE]] checklist (`= [[IMSAFE]].meaning`)
-	2. Weather and [[TFR]]s (`= [[TFR]].meaning`s)
-	3. Introduction to Weight & Balance
-	4. Tuning radio, receiving and recording [[ATIS]]
+#todo :: Make sure these elements are all addressed in syllabus
 
 Lots pulled into [[16. Pre-Solo Knowledge Test and Review]]
 
