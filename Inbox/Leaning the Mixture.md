@@ -4,7 +4,7 @@
 	- prevent spark plug fouling from lead deposits
 - 
 # Details
-Engines burn fuel best at a particular ratio of volume of fuel to volume of air. But at high altitudes, we have less dense air. The mixture control allows us to reduce the volume of fuel to keep the proper ratio. 
+Engines burn fuel best at a particular ratio of weight of fuel to weight of air. But at high altitudes, we have less dense air. The mixture control allows us to reduce the weight of fuel to keep the proper ratio. 
 
 ## Why to Lean
 From [[Engine Operation for Pilots]]:
