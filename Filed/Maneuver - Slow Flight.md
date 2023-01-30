@@ -22,3 +22,5 @@ config: "[[Maneuvers Config]]"
 ### Additional Details
 - Extend gear and flaps at appropriate speeds (if applicable)
 - Accomplish coordinated straight-and-level flight, turns, climbs, and descents with the aircraft configured as specified by the evaluator.
+
+#todo :: Pull in notes from [[3. Maneuvering During Slow Flight]]

@@ -8,7 +8,7 @@ John O'Leary (CFI Jack)
 
 #### Stage 1: Pre-Solo
 [[0. Optional Introductory or Demo Flight]]
-[[1. Preflight, Taxiing, and Post-flight Procedures]]
+[[1. Aircraft Preflight, Taxiing, and Post-flight Procedures]]
 [[2. Four Fundamentals of Flight]]
 [[3. Maneuvering During Slow Flight]]
 [[4. Power-On and Power-Off Stalls]]
