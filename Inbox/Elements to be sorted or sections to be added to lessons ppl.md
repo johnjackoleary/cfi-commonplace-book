@@ -5,29 +5,18 @@
 	3. Introduction to Weight & Balance
 	4. Tuning radio, receiving and recording [[ATIS]]
 
+Lots pulled into [[16. Pre-Solo Knowledge Test and Review]]
+
 Taxiing at night 
 
 ![[Vx vs Vy at Higher Altitudes.jpeg]]
 
-POH sections and what is in them (currently have a request to read in [[6. Normal and Crosswind Takeoffs and Climbs]])
-
-Review parts of solo quiz
-
-Weather at an airport (MVFR, VFR, IFR, etc)
 
 Figure out if airport lighting should be grouped with markings/wind indicators (from [[5. Towered Airport Operations]] and [[13. Non-Towered Airport Operations]]) into a whole new lesson
 
-Review parts of solo phase check
-
-Use of seat belts
-
 Purchase current FAR/AIM
 
-minimum altitude
-
-Better way to explain parasitic and induced drag
-
-roll out of turn at 1/2 of bank
+Better way to explain parasitic and induced drag. ground effect.
 
 Emergencies with instrument failures (e.g. what if pitot tube is covered)
 
@@ -36,8 +25,6 @@ When to take off with tailwind
 rate of turn vs bank angle
 
 aircraft systems (perhaps as a required reading, then ask questions of student?)
-
-91.123 Compliance with ATC clearances and instructions.
 
 - true and magnetic (and if we should talk winds aloft)
 	- include some resources on magnetic and true north
@@ -58,21 +45,9 @@ slips and skids
 
 propellers
 
-1000' AGL over populated areas
-
-ground effect
-
 3. Before Takeoff Check
 	1. [[CIGAR TIP]] acronym
-
-
 		1. #todo :: may be better to teach rope knot as part of a future lesson
-
-Refilling oil
-
-left turning tendencies
-
-#todo :: which lesson covers aircraft stability ?
 
 Flight instruments
 
@@ -86,11 +61,8 @@ demonstration stalls?
 
 National Transportation Safety Board (NTSB) accident/incident reporting.
 
-Runway Status Lighting Systems.
+Runway Status Lighting Systems
 
-compass errors
-
-mixture and correctly leaning
 
 
 
