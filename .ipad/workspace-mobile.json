@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baf3058442051f45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,16 +144,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Untitled.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "821747381619a8de",
+  "active": "baf3058442051f45",
   "lastOpenFiles": [
+    "Untitled.md",
     "Inbox/2023-01-28 151047.md",
     "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
     "Filed/Maneuver - Turns Around a Point.md",
