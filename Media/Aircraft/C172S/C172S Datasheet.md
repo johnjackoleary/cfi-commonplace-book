@@ -14,7 +14,6 @@ Vshort :: 61
 mgw :: 2550
 
 ### Maneuvering
-slow-flight-rpm :: 1600
 Va-dual-rpm :: 2200
 power-on-stall-rpm :: 2100
 flaps-for-stall-recover :: 20°
