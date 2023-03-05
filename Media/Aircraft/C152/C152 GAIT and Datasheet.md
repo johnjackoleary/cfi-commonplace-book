@@ -1,10 +1,10 @@
 ---
 tags: [gait]
 has-carb-heat: true
-Vs:
-Vs0:
+Vs: 40
+Vs0: 35
 cool-procedure: N/A for C152
-engine-fire-speed:
+engine-fire-speed: 
 power-on-stall-rpm: 
 ---
 
@@ -13,20 +13,20 @@ power-on-stall-rpm:
 | **(model::C152) Gaits** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |
 | ---------------------------- |:-----------------------:|:-------------------------:|:--------------------------:|
 | ⚠️ V<sub>G</sub>             |                         |           idle            |          (Vg::60)          |
-| 🛫 V<sub>R</sub>             |                         |            max            |           (Vr::)           |
-| V<sub>X(10°)</sub>           |           10°           |            max            |           (Vx10::)           | 
-| V<sub>X</sub>                |                         |            max            |           (Vx::)           |
-| 🛫 V<sub>Y</sub>             |                         |            max            |           (Vy::)           |
-| 🛫 V<sub>Climb</sub>         |                         |            max            |      (cruise-climb::)      |
-| Cruise                       |                         |      (cruise-rpm::)       |      (cruise-kias::)       |
-| Cruise Descent               |                         |    `=this.cruise-rpm`     |  (cruise-descent-kias::)   |
-| 🛬 Downwind                  |                         | (pattern-downwind-rpm:: ) | (pattern-downwind-kias:: ) |
-| 🛬 Abeam Numbers             | (pattern-abeam-flaps::) |   (pattern-abeam-rpm::)   |   (pattern-abeam-kias::)   |
-| 🛬 Base                      | (pattern-base-flaps::)  |   (pattern-base-rpm::)    |   (pattern-base-kias::)    |
-| 🛬 Final                     | (pattern-final-flaps::) |  (pattern-final-rpm:: )   |          (Vref::)          |
-| Short                        | (pattern-short-flaps::) |   (pattern-short-rpm::)   |         (Vshort::)         |
+| 🛫 V<sub>R</sub>             |                         |            max            |           (Vr::50)           |
+| V<sub>X(10°)</sub>           |           10°           |            max            |           (Vx10::54)           | 
+| V<sub>X</sub>                |                         |            max            |           (Vx::55)           |
+| 🛫 V<sub>Y</sub>             |                         |            max            |           (Vy::67)           |
+| 🛫 V<sub>Climb</sub>         |                         |            max            |      (cruise-climb::80)      |
+| Cruise                       |                         |      (cruise-rpm::2400)       |      (cruise-kias::100)       |
+| Cruise Descent               |                         |    `=this.cruise-rpm`     |  (cruise-descent-kias::TBD)   |
+| 🛬 Downwind                  |                         | (pattern-downwind-rpm::2100) | (pattern-downwind-kias::80) |
+| 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |   (pattern-abeam-rpm::1600)   |   (pattern-abeam-kias::80)   |
+| 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1600)    |   (pattern-base-kias::70)    |
+| 🛬 Final                     | (pattern-final-flaps::30°) |  (pattern-final-rpm::as req)   |          (Vref::65)          |
+| Short                        | (pattern-short-flaps::30°) |   (pattern-short-rpm::as req)   |         (Vshort::54)         |
 
 | Topic              | Details                                   |
 | ------------------ |:----------------------------------------- |
 | Leaning            | 50° ROP when above 3000'                  | 
-| V<sub>A</sub>      | (va-mgw::) @ [mgw::]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (dual-single::) lb |
+| V<sub>A</sub>      | (va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (dual-single::1350) lb |
