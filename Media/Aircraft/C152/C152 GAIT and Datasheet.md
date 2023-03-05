@@ -4,11 +4,9 @@ has-carb-heat: true
 Vs: 40
 Vs0: 35
 cool-procedure: N/A for C152
-engine-fire-speed: 
+engine-fire-kias: 85
 power-on-stall-rpm: 
 ---
-
-#todo confirm fire speed
 
 | **(model::C152) Gaits** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |
 | ---------------------------- |:-----------------------:|:-------------------------:|:--------------------------:|
