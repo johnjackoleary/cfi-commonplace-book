@@ -27,4 +27,4 @@ power-on-stall-rpm: 2300
 | Topic         | Details                                                                                                       |
 | ------------- |:------------------------------------------------------------------------------------------------------------- |
 | Leaning       | Lean to RPM drop when above 3000'                                                                           | 
-| V<sub>A</sub> | (va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (dual-single::1350) lb |
+| V<sub>A</sub> | (Va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (dual-single::1350) lb |
