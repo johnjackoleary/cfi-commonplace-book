@@ -26,20 +26,6 @@ Ground 0.5 hours, Flight 1.0 hours
 	6. Most light aircraft designed for 3.8 positive g max (corresponds to 75-degree bank level turn)
 	7. [[Maneuvering speed]] Va - define and discuss entry speed for steep turn
 2. Flying the maneuver: ![[Maneuver - Steep Turn]]
-	1. Setting Up
-		1. Select area free of traffic and with emergency landing options
-		2. Clear area and check for traffic (high wing plane - lift wing slightly before banking)
-		3. Configure for speed <= Va, fast enough to avoid stall at 60 degree bank ($1.4*$Vs)
-		4. Pick reference point in distance for initial/final heading; bug the heading
-	2. The actual turn
-		1. Establish turn with 45 degree bank, add power as necessary to maintain airspeed
-		2. Use of rudder to initiate, maintain, and exit turn (cancel out adverse yaw)
-		3. Use of elevator aft pressure to maintain altitude ±100 feet (don't trim during turn)
-		4. use outside reference of horizon to maintain bank and pitch, with occasional cross-check of altitude and airspeed
-		5. May notice (subtle) opposite aileron during turn to prevent over-banking tendency
-		6. Roll out of turn on entry heading ±10 degrees
-	3. Repeat 360-degree turn in other direction
-	4. Release back pressure and reduce power during rollout
 3. Common errors
 	1. Forgetting to scan for traffic or locating emergency field
 	2. Using airspeed greater than Va

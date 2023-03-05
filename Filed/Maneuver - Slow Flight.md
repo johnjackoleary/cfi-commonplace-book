@@ -1,24 +1,23 @@
 ---
 cssclass: maneuver
 tags: [maneuver, ppl, cpl]
-altitude-limits: \>3000' AGL
+altitude-limits: ≥3000' AGL
 acs:
   ppl: 
     section: "VII.A"
     airspeed: 10
-    standards: "<font color=\"red\">Altitude ±100 feet; heading ±10°; airspeed +`=this.acs.ppl.airspeed`/-0kts; bank ±10° - without a stall warning</font>"
+    standards: "<font color=\"red\">Altitude ±100 feet; heading ±10°; airspeed +`=this.acs.ppl.airspeed`/-0kts; bank ±10°; no stall warning</font>"
   cpl: 
     section: "VII.A"
     airspeed: 5
-    standards: "<font color=\"red\">Altitude ±50 feet; heading ±10°; airspeed +5/-0kts; bank ±5° - without a stall warning</font>"
+    standards: "<font color=\"red\">Altitude ±50 feet; heading ±10°; airspeed +5/-0kts; bank ±5°; no stall warning</font>"
 config: "[[Maneuvers Config]]"
 ---
 ### Overview For `= this.config.aircraft.model` (`= upper(this.config.cert)`)
 - `= [[Maneuver Set-Up]].content`
-- Altitude `= this.altitude-limits`
-- Power - `= this.config.aircraft.pattern-base-rpm`; Hold altitude; Add power < Vy (`= this.config.aircraft.vy`kt)
-- Slow to stall horn, then +`=choice(this.config.cert = "ppl", this.acs.ppl.airspeed, this.acs.cpl.airspeed)/2`kts
-- Power as needed to hold altitude
+- **A:** `= this.altitude-limits`; **P:** `= this.config.aircraft.pattern-base-rpm`; **A:** Any
+- Hold altitude; add power approaching specified speed, then as needed to hold alt
+- If slowing to stall horn, find it and fly  +`=choice(this.config.cert = "ppl", this.acs.ppl.airspeed, this.acs.cpl.airspeed)/2`kts
 - `=choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
 ### Additional Details

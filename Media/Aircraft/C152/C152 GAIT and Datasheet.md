@@ -6,8 +6,8 @@ Vs0: 35
 cool-procedure: N/A for C152
 engine-fire-kias: 85
 power-on-stall-rpm: 2300
-maneuvers-rpm: ~2300
-maneuvers-kias: 90
+maneuver-rpm: ~2300
+maneuver-kias: 90
 ---
 
 | **(model::C152) Gaits** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |

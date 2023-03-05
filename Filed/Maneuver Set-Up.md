@@ -1,7 +1,9 @@
 ---
 tags: [maneuver]
 config: "[[Maneuvers Config]]"
-content: "<font color=\"goldenrod\">APAMCO · ID Emgcy Field`=choice(this.config.aircraft.has-carb-heat, [[Maneuver Set-Up]].carb-heat-opt-text, \"\")`</font>"
+content: "<font color=\"goldenrod\">APAMCO · ID Emgcy Field</font>"
 carb-heat-opt-text :: " · Carb Heat On (If Below Green)"
 ---
 `= this.content`
+
+%%Previous portion of content: `=choice(this.config.aircraft.has-carb-heat, [[Maneuver Set-Up]].carb-heat-opt-text, \"\")`%%

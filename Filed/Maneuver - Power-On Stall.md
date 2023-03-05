@@ -1,7 +1,7 @@
 ---
 cssclass: maneuver
 tags: [maneuver, ppl, cpl]
-altitude-limits: \>3000' AGL
+altitude-limits: ≥3000' AGL
 acs:
   ppl: 
     section: "VII.C"
