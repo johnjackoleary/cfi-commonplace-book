@@ -13,7 +13,7 @@ config: "[[Maneuvers Config]]"
 ---
 ### Overview For `= this.config.aircraft.model` (`= upper(this.config.cert)`)
 - `= [[Maneuver Set-Up]].content`
-- Altitude `= this.altitude-limits`
+- - **A:** `= this.altitude-limits`; **P:** `=this.config.aircraft.maneuver-rpm` RPM; **A:** `=this.config.aircraft.maneuver-kias`kts
 - 
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
