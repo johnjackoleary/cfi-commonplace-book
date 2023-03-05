@@ -24,7 +24,7 @@ power-on-stall-rpm:
 | 🛬 Final                     | (pattern-final-flaps::30°) |  (pattern-final-rpm::as req)   |          (Vref::65)          |
 | Short                        | (pattern-short-flaps::30°) |   (pattern-short-rpm::as req)   |         (Vshort::54)         |
 
-| Topic              | Details                                   |
-| ------------------ |:----------------------------------------- |
-| Leaning            | 50° ROP when above 3000'                  | 
-| V<sub>A</sub>      | (va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (dual-single::1350) lb |
+| Topic         | Details                                                                                                       |
+| ------------- |:------------------------------------------------------------------------------------------------------------- |
+| Leaning       | Lean to RPM drop when above 3000'; or peak RPM                                                                             | 
+| V<sub>A</sub> | (va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (dual-single::1350) lb |
