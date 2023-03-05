@@ -1,5 +1,21 @@
 /*See https://github.com/blacksmithgu/obsidian-dataview/blob/a9be8540881b9715595ee902cfdb176ddde2c881/styles.css*/
 
+.dataview.inline-field-key {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-family: var(--font-monospace);
+    background-color: var(--background-secondary);
+    color: var(--text-nav-selected);
+}
+
+.dataview.inline-field-value {
+    padding-left: 8px;
+    padding-right: 0px;
+    font-family: var(--font-monospace);
+    background-color: var(--background-primary);
+    color: var(--text-nav-selected);
+}
+
 .dataview.inline-field-standalone-value {
     padding-left: 0px;
     padding-right: 0px;
