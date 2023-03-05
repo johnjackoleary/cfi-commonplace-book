@@ -25,9 +25,7 @@ Ground 0.5 hours, Flight 1.0 hours
 	5. Stall speed varies with square root of load factor![[Bank Versus Stall Speed and Load Factor]]
 	6. Most light aircraft designed for 3.8 positive g max (corresponds to 75-degree bank level turn)
 	7. [[Maneuvering speed]] Va - define and discuss entry speed for steep turn
-2. Setting up for any maneuver
-	1. #todo :: add to this, maybe a distinct note I can reuse
-3. Flying the maneuver
+2. Flying the maneuver: ![[Maneuver - Steep Turn]]
 	1. Setting Up
 		1. Select area free of traffic and with emergency landing options
 		2. Clear area and check for traffic (high wing plane - lift wing slightly before banking)
@@ -42,7 +40,7 @@ Ground 0.5 hours, Flight 1.0 hours
 		6. Roll out of turn on entry heading ±10 degrees
 	3. Repeat 360-degree turn in other direction
 	4. Release back pressure and reduce power during rollout
-5. Common errors
+3. Common errors
 	1. Forgetting to scan for traffic or locating emergency field
 	2. Using airspeed greater than Va
 	3. Letting altitude or bank angle drift during turn
