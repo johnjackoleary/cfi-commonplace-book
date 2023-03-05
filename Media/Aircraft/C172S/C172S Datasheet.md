@@ -31,9 +31,8 @@ pattern-abeam-flaps :: 10°
 pattern-base-kias :: 70
 pattern-base-rpm :: 1600
 pattern-base-flaps :: 20°
-pattern-final-kias :: 65
-#todo :: Should I use vref instead?
-pattern-final-rpm :: 1600
+Vref :: 65
+pattern-final-rpm :: as req
 pattern-final-flaps :: 40°
 
 cool-procedure :: N/A for C172SP
