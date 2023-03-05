@@ -4,7 +4,7 @@
     "clean-embeds-all",
     "dataview-inline-fields"
   ],
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "theme": "system",
   "accentColor": "",
   "showViewHeader": true

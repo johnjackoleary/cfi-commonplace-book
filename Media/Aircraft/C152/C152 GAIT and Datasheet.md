@@ -5,7 +5,7 @@ Vs: 40
 Vs0: 35
 cool-procedure: N/A for C152
 engine-fire-kias: 85
-power-on-stall-rpm: 
+power-on-stall-rpm: 2300
 ---
 
 | **(model::C152) Gaits** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |
@@ -26,5 +26,5 @@ power-on-stall-rpm:
 
 | Topic         | Details                                                                                                       |
 | ------------- |:------------------------------------------------------------------------------------------------------------- |
-| Leaning       | Lean to RPM drop when above 3000'; or peak RPM                                                                             | 
+| Leaning       | Lean to RPM drop when above 3000'                                                                           | 
 | V<sub>A</sub> | (va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (dual-single::1350) lb |
