@@ -1,10 +1,9 @@
 {
   "cssTheme": "",
   "enabledCssSnippets": [
-    "clean-embeds-all",
-    "dataview-inline-fields"
+    "clean-embeds-all"
   ],
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "theme": "system",
   "accentColor": "",
   "showViewHeader": true
