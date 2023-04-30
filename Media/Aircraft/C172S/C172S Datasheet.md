@@ -3,6 +3,7 @@ has-carb-heat :: false
 
 ### V Speeds (KIAS)
 Vg :: 68
+Vr :: 55
 Vx :: 62
 Vy :: 74
 Va-mgw :: 105
@@ -34,5 +35,4 @@ pattern-base-flaps :: 20°
 Vref :: 65
 pattern-final-rpm :: as req
 pattern-final-flaps :: 40°
-
-cool-procedure :: N/A for C172SP
+Whyycool-procedure :: N/A for C172SP
