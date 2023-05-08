@@ -29,4 +29,4 @@ maneuver-kias:
 | Topic         | Details                                                                                                       |
 | ------------- |:------------------------------------------------------------------------------------------------------------- |
 | Leaning       | Lean to RPM drop when above 3000'                                                                           | 
-| V<sub>A</sub> | (Va-mgw::) @ [mgw::]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (dual-single::) lb |
+| V<sub>A</sub> | (Va-mgw::) @ [mgw::3100]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (dual-single::) lb |
