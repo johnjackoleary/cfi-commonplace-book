@@ -10,7 +10,7 @@ maneuver-rpm: ~2300
 maneuver-kias: 90
 ---
 
-| **(model::C152) Gaits** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |
+| **(model::C152) Gaits** v1.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |
 | ---------------------------- |:-----------------------:|:-------------------------:|:--------------------------:|
 | ⚠️ V<sub>G</sub>             |                         |           idle            |          (Vg::60)          |
 | 🛫 V<sub>R</sub>             |                         |            max            |           (Vr::50)           |
@@ -20,10 +20,10 @@ maneuver-kias: 90
 | 🛫 V<sub>Climb</sub>         |                         |            max            |      (cruise-climb::80)      |
 | Cruise                       |                         |      (cruise-rpm::2400)       |      (cruise-kias::100)       |
 | Cruise Descent               |                         |    `=this.cruise-rpm`     |  (cruise-descent-kias::TBD)   |
-| 🛬 Downwind                  |                         | (pattern-downwind-rpm::2100) | (pattern-downwind-kias::80) |
-| 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |   (pattern-abeam-rpm::1600)   |   (pattern-abeam-kias::80)   |
-| 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1600)    |   (pattern-base-kias::70)    |
-| 🛬 Final                     | (pattern-final-flaps::30°) |  (pattern-final-rpm::as req)   |          (Vref::65)          |
+| 🛬 Downwind                  |                         | (pattern-downwind-rpm::2100) | (pattern-downwind-kias::as req) |
+| 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |   (pattern-abeam-rpm::1600)   |   (pattern-abeam-kias::70)   |
+| 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1600)    |   (pattern-base-kias::65)    |
+| 🛬 Final                     | (pattern-final-flaps::30°) |  (pattern-final-rpm::as req)   |          (Vref::60)          |
 | Short                        | (pattern-short-flaps::30°) |   (pattern-short-rpm::as req)   |         (Vshort::54)         |
 
 | Topic         | Details                                                                                                       |
