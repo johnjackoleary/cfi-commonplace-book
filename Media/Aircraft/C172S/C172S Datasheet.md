@@ -1,5 +1,6 @@
 model :: C172SP
 has-carb-heat :: false
+speed-units :: kts
 
 ### V Speeds (KIAS)
 Vg :: 68
@@ -20,16 +21,16 @@ power-on-stall-rpm :: 2100
 flaps-for-stall-recover :: 20°
 
 ### Emergency
-engine-fire-kias :: 100
+engine-fire-speed :: 100
 
 ### Pattern Speeds
 #todo :: Update [[C172S GAIT]] to use these formulas
-pattern-downwind-kias :: 90
+pattern-downwind-speed :: 90
 pattern-downwind-rpm :: 2000
-pattern-abeam-kias :: 80
+pattern-abeam-speed :: 80
 pattern-abeam-rpm :: 1600
 pattern-abeam-flaps :: 10°
-pattern-base-kias :: 70
+pattern-base-speed :: 70
 pattern-base-rpm :: 1600
 pattern-base-flaps :: 20°
 Vref :: 65

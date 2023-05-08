@@ -15,7 +15,7 @@ config: "[[Maneuvers Config]]"
 - `= [[Maneuver Set-Up]].content`
 - Altitude `= this.altitude-limits`
 - Simulate engine fire flow (touch each control)
-- Start descent (bank 30°-45°; airspeed >=`= this.config.aircraft.engine-fire-kias`kts)
+- Start descent (bank 30°-45°; airspeed >=`= this.config.aircraft.engine-fire-speed` `=this.config.aircraft.speed-units`)
 - Execute forced landing
 - `= choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 

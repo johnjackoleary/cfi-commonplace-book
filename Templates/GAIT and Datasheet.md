@@ -4,10 +4,10 @@ has-carb-heat:
 Vs:
 Vs0:
 cool-procedure:
-engine-fire-kias:
+engine-fire-speed:
 power-on-stall-rpm:
 maneuver-rpm:
-maneuver-kias:
+maneuver-speed:
 ---
 
 | **(model::) Gaits** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (kts)**        |
@@ -18,15 +18,15 @@ maneuver-kias:
 | V<sub>X</sub>                |                         |            max            |           (Vx::)           |
 | 🛫 V<sub>Y</sub>             |                         |            max            |           (Vy::)           |
 | 🛫 V<sub>Climb</sub>         |                         |            max            |      (cruise-climb::)      |
-| Cruise                       |                         |      (cruise-rpm::)       |      (cruise-kias::)       |
-| Cruise Descent               |                         |    `=this.cruise-rpm`     |  (cruise-descent-kias::)   |
-| 🛬 Downwind                  |                         | (pattern-downwind-rpm::) | (pattern-downwind-kias::) |
-| 🛬 Abeam Numbers             | (pattern-abeam-flaps::) |   (pattern-abeam-rpm::)   |   (pattern-abeam-kias::)   |
-| 🛬 Base                      | (pattern-base-flaps::)  |   (pattern-base-rpm::)    |   (pattern-base-kias::)    |
+| Cruise                       |                         |      (cruise-rpm::)       |      (cruise-speed::)       |
+| Cruise Descent               |                         |    `=this.cruise-rpm`     |  (cruise-descent-speed::)   |
+| 🛬 Downwind                  |                         | (pattern-downwind-rpm::) | (pattern-downwind-speed::) |
+| 🛬 Abeam Numbers             | (pattern-abeam-flaps::) |   (pattern-abeam-rpm::)   |   (pattern-abeam-speed::)   |
+| 🛬 Base                      | (pattern-base-flaps::)  |   (pattern-base-rpm::)    |   (pattern-base-speed::)    |
 | 🛬 Final                     | (pattern-final-flaps::) |  (pattern-final-rpm:: req)   |          (Vref::)          |
 | Short                        | (pattern-short-flaps::) |   (pattern-short-rpm:: req)   |         (Vshort::)         |
 
 | Topic         | Details                                                                                                       |
 | ------------- |:------------------------------------------------------------------------------------------------------------- |
-| Leaning       | Lean to RPM drop when above 3000'                                                                           | 
-| V<sub>A</sub> | (Va-mgw::) @ [mgw::]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (dual-single::) lb |
+| Leaning       | TBD                                                                           | 
+| V<sub>A</sub> | (Va-mgw::) @ [mgw::]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (single-weight::) lb |
