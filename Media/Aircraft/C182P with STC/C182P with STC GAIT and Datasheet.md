@@ -1,10 +1,10 @@
 ---
 tags: [gait]
-has-carb-heat:
+has-carb-heat: true
 Vs:
 Vs0:
 cool-procedure: 23", <2450RPM, cowl open
-engine-fire-speed:
+engine-fire-speed: 100
 power-on-stall-rpm:
 maneuver-rpm:
 maneuver-speed:
