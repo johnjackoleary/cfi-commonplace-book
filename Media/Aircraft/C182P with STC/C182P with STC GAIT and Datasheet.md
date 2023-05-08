@@ -3,7 +3,7 @@ tags: [gait]
 has-carb-heat:
 Vs:
 Vs0:
-cool-procedure:
+cool-procedure: 23", <2450RPM, cowl open
 engine-fire-speed:
 power-on-stall-rpm:
 maneuver-rpm:
@@ -16,8 +16,8 @@ speed-units: mph
 | ⚠️ V<sub>G</sub>                  |                         |           idle            |         (Vg::86)          |
 | 🛫 V<sub>R</sub>                  |                         |            max            |          (Vr::)           |
 | V<sub>X(10°)</sub>                |           10°           |            max            |         (Vx10::)          |
-| V<sub>X</sub>                     |                         |            max            |          (Vx::)           |
-| 🛫 V<sub>Y</sub>                  |                         |            max            |          (Vy::)           |
+| V<sub>X</sub>                     |                         |            max            |          (Vx::70)           |
+| 🛫 V<sub>Y</sub>                  |                         |            max            |          (Vy::89)           |
 | 🛫 V<sub>Climb</sub>              |                         |            max            |     (cruise-climb::)      |
 | Cruise                            |                         |      (cruise-rpm::)       |      (cruise-speed::)      |
 | Cruise Descent                    |                         |    `=this.cruise-rpm`     |  (cruise-descent-speed::)  |
