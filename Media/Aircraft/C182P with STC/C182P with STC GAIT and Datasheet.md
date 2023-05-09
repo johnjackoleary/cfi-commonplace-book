@@ -14,8 +14,8 @@ speed-units: mph
 | **(model::C182P-STC)** v0.0 |        **Flaps**        |          **RPM**          |       **IAS (`=this.speed-units`)**       |
 | --------------------------------- |:-----------------------:|:-------------------------:|:-------------------------:|
 | ⚠️ V<sub>G</sub>                  |                         |           idle            |         (Vg::86)          |
-| 🛫 V<sub>R</sub>                  |                         |            max            |          (Vr::)           |
-| V<sub>X(10°)</sub>                |           10°           |            max            |         (Vx10::)          |
+| 🛫 V<sub>R</sub>                  |                         |            max            |          (Vr::60)           |
+| V<sub>X(10°)</sub>                |           20°           |            max            |         (Vx10::60)          |
 | V<sub>X</sub>                     |                         |            max            |          (Vx::70)           |
 | 🛫 V<sub>Y</sub>                  |                         |            max            |          (Vy::89)           |
 | 🛫 V<sub>Climb</sub>              |                         |            max            |     (cruise-climb::)      |

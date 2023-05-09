@@ -14,7 +14,7 @@ maneuver-speed:
 | ---------------------------- |:-----------------------:|:-------------------------:|:--------------------------:|
 | ⚠️ V<sub>G</sub>             |                         |           idle            |          (Vg::)          |
 | 🛫 V<sub>R</sub>             |                         |            max            |           (Vr::)           |
-| V<sub>X(10°)</sub>           |           10°           |            max            |           (Vx10::)           | 
+| V<sub>X(10°)</sub>           |           TBD           |            max            |           (Vx10::)           | 
 | V<sub>X</sub>                |                         |            max            |           (Vx::)           |
 | 🛫 V<sub>Y</sub>             |                         |            max            |           (Vy::)           |
 | 🛫 V<sub>Climb</sub>         |                         |            max            |      (cruise-climb::)      |
