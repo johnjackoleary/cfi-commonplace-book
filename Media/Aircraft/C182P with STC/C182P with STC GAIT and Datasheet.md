@@ -29,5 +29,5 @@ speed-units: mph
 
 | Topic         | Details                                                                                                       |
 | ------------- |:------------------------------------------------------------------------------------------------------------- |
-| Leaning       |                                                                           | 
+| Leaning       |     Peak EGT –75° F                                                                      | 
 | V<sub>A</sub> | (Va-mgw::128) @ [mgw::3100]; (Va-dual::115) @ (dual-weight::2500) lb; (Va-single::105) @ (single-weight::2100) lb |
