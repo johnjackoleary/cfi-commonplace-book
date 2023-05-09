@@ -20,11 +20,11 @@ speed-units: mph
 | 🛫 V<sub>Y</sub>            |                            |                             |            max            |           (Vy::89)            |
 | 🛫 V<sub>Climb</sub>        |                            |             23              |           2450            |      (cruise-climb::105)      |
 | Cruise                      |                            |       (cruise-mp::23)       |    (cruise-rpm::2300)     |       (cruise-speed::)        |
-| Cruise Descent              |                            |     `=this.cruise-rpm`      |    `=this.cruise-rpm`     |  (cruise-descent-speed::90)   |
+| Cruise Descent              |                            |     `=this.cruise-mp`      |    `=this.cruise-rpm`     |  (cruise-descent-speed::90)   |
 | 🛬 Downwind                 |                            |   (pattern-downwind-mp::)   | (pattern-downwind-rpm::)  | (pattern-downwind-speed::90)  |
 | 🛬 Abeam Numbers            | (pattern-abeam-flaps::10°) |    (pattern-abeam-mp::)     |   (pattern-abeam-rpm::)   |   (pattern-abeam-speed::80)   |
 | 🛬 Base                     | (pattern-base-flaps::20°)  |     (pattern-base-mp::)     |   (pattern-base-rpm::)    |   (pattern-base-speed::70)    |
-| 🛬 Final                    | (pattern-final-flaps::40°) | (pattern-final-mp:: as req) | (pattern-final-rpm::max)  |          (Vref::70)           |
+| 🛬 Final                    | (pattern-final-flaps::40°) | (pattern-final-mp::as req) | (pattern-final-rpm::max)  |          (Vref::70)           |
 | Short                       | (pattern-short-flaps::40°) | (pattern-short-mp::as req)  | (pattern-short-rpm:: max) |         (Vshort::69)          |
 
 | Topic         | Details                                                                                                       |
