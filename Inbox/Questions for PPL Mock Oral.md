@@ -22,7 +22,7 @@
 # Cross Country
 - Show me a cross country you’ve been on and tell me about it
 - What preflight action is required by the FARs? (91.103)
-- What to do if you get lost (5 C)
+- What to do if you get lost (5 Cs)
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
@@ -39,3 +39,4 @@
 # Scenarios
 - You have friends coming to town in a few weeks. They’ll only be here a couple of days, and are excited to go to Napa. You’ve offered to fly them there, and they’re also excited about flying over the Golden Gate Bridge. What do you do in the days leading up to the flight to set yourself up for success relative to PAVE?
 - You just got your private pilot certificate...the ink is still wet. A buddy wants you to fly him and his girlfriend to Key West, he says he will pay for the rental of the aircraft. Can you take this flight?
+- The examiner tells you to 
