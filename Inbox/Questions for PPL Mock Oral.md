@@ -4,7 +4,7 @@
 - What other weather products do you use for assessing if a flight can go or not?
 
 # Regulations
-- You and 6 friends want to go to a football game. You’ve offered to fly everyone down. What are the concerns 
+- Documents 
 
 # ADM
 - What is ADM?
