@@ -22,6 +22,9 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 I certify that \[First name, MI, Last name\] has received the required training in accordance with §§ 61.107 and 61.109. I have determined \[he or she\] is prepared for the Private Pilot Airplane Single Engine Land (ASEL) practical test.
 
+---
+
+Must also be endorsed for solo flight!
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
 
