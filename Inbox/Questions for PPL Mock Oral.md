@@ -38,7 +38,7 @@
 # ADM
 - What is ADM?
 - IMSAFE and why we use it (when do you do your IMSAFE check?)
-- 
+- how do you know a me
 
 # Scenarios
 - You have friends coming to town in a few weeks. They’ll only be here a couple of days, and are excited to go to Napa. You’ve offered to fly them there, and they’re also excited about flying over the Golden Gate Bridge. What do you do in the days leading up to the flight to set yourself up for success relative to PAVE?
