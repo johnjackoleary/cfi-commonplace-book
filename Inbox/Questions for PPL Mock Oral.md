@@ -12,6 +12,7 @@
 - How often does the TAF come out?
 - What does the current METAR mean?
 - What other weather products do you use for assessing if a flight can go or not?
+- What factors affect air density? (PHAK 10-4)
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
