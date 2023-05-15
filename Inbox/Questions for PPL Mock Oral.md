@@ -25,7 +25,7 @@
 - What to do if you get lost (5 Cs)
 - What are some runway illusions to be careful of
 - What are hot spots? Where to find them?
-- What are MOAs? Can you fly
+- What are MOAs? Can you fly in them?
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
