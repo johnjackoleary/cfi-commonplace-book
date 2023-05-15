@@ -5,7 +5,7 @@
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
-- 
+- What privileges and limitations apply to private pilot? (61.113) (91.146)
 
 # ADM
 - What is ADM?
