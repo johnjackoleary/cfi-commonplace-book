@@ -12,6 +12,7 @@
 # Weather and Reports
 - How often does the TAF come out?
 - What does the current METAR mean?
+- What is the crosswind 
 - What other weather products do you use for assessing if a flight can go or not?
 - What factors affect air density? (PHAK 10-4)
 
