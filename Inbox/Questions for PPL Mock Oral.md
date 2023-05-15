@@ -3,6 +3,7 @@
 - What are four forces?
 - Two types of drag, and tell me more.
 - What are the six pack instruments and how do they work?
+- Vy vs Vx
 - What is a stall?
 - How does VOR work? GPS?
 - AROW?
