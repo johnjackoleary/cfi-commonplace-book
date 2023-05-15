@@ -1,3 +1,9 @@
+# Airplane
+- How does an airplane fly?
+- What are the six pack instruments and how do they work?
+- How does VOR work? GPS?
+- 
+
 # Weather and Reports
 - How often does the TAF come out?
 - What does the current METAR mean?
