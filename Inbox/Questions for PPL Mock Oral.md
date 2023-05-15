@@ -3,7 +3,7 @@
 - What are four forces?
 - Two types of drag, and tell me more.
 - What are the six pack instruments and how do they work?
-- What is a stal
+- What is a stall?
 - How does VOR work? GPS?
 - AROW?
 - Who is responsible for ensuring an aircraft is maintained in an airworthy condition? (91.403)
@@ -15,13 +15,15 @@
 - What other weather products do you use for assessing if a flight can go or not?
 - What factors affect air density? (PHAK 10-4)
 
+# Cross Country
+- Show me a cross country you’ve been on and tell me about it
+
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
 - What privileges and limitations apply to private pilot? (61.113) (91.146)
 - Who says we have to follow the POH? (91.9)
 - Minimum altitudes?
 - Currency requirements?
-- 
 
 # ADM
 - What is ADM?
