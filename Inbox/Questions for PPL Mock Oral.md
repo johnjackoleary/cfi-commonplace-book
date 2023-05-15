@@ -21,6 +21,7 @@
 
 # Cross Country
 - Show me a cross country you’ve been on and tell me about it
+- What preflight action is requir
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
