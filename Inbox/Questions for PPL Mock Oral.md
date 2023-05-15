@@ -5,7 +5,7 @@
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
-- Legal
+- 
 
 # ADM
 - What is ADM?
