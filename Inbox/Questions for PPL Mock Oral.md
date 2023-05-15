@@ -3,6 +3,7 @@
 - What are four forces?
 - Two types of drag, and tell me more.
 - What are the six pack instruments and how do they work?
+- What is a stal
 - How does VOR work? GPS?
 - AROW?
 - Who is responsible for ensuring an aircraft is maintained in an airworthy condition? (91.403)
