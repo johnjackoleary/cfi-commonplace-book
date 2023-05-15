@@ -24,6 +24,7 @@
 - What preflight action is required by the FARs? (91.103)
 - What to do if you get lost (5 Cs)
 - What are some runway illusions to be careful of
+- What are h
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
