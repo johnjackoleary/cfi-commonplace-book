@@ -22,6 +22,7 @@
 # Cross Country
 - Show me a cross country you’ve been on and tell me about it
 - What preflight action is required by the FARs? (91.103)
+- What to do if you get lost (5 C)
 
 # Regulations
 - personal documents needed to be in plane for you to fly? (61.3)
