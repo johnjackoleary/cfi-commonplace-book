@@ -2,6 +2,8 @@
 - How does an airplane fly?
 - What are four forces?
 - Two types of drag, and tell me more.
+- Tell me about the engine in this plane
+- What does mixt
 - What are the six pack instruments and how do they work?
 - Vy vs Vx
 - What is a stall?
