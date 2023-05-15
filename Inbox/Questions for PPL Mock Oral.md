@@ -3,8 +3,7 @@
 - What are the six pack instruments and how do they work?
 - How does VOR work? GPS?
 - AROW?
-- Who is responsible for ensuring an aircraft is maintained in an airworthy condition?
-(91.403)
+- Who is responsible for ensuring an aircraft is maintained in an airworthy condition? (91.403)
 
 # Weather and Reports
 - How often does the TAF come out?
