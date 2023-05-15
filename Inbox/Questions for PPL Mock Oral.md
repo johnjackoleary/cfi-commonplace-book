@@ -37,7 +37,7 @@
 
 # ADM
 - What is ADM?
-- IMSAFE and why we use it
+- IMSAFE and why we use it (when do you do your IMSAFE check?)
 - 
 
 # Scenarios
