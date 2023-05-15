@@ -14,7 +14,9 @@
 - personal documents needed to be in plane for you to fly? (61.3)
 - What privileges and limitations apply to private pilot? (61.113) (91.146)
 - Who says we have to follow the POH? (91.9)
-- Minimum altidute
+- Minimum altitudes?
+- Currency requirements?
+- 
 
 # ADM
 - What is ADM?
