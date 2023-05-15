@@ -4,7 +4,8 @@
 - What other weather products do you use for assessing if a flight can go or not?
 
 # Regulations
-- Documents 
+- personal documents needed to be in plane for you to fly? (61.3)
+- Legal
 
 # ADM
 - What is ADM?
