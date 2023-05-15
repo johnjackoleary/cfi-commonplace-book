@@ -1,6 +1,7 @@
 # Airplane
 - How does an airplane fly?
-- What are 
+- What are four forces?
+- Two types of drag. 
 - What are the six pack instruments and how do they work?
 - How does VOR work? GPS?
 - AROW?
