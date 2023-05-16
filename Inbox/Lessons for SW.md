@@ -1,2 +1,7 @@
 Before leaving:
-- co
+- continue through ground reference maneuvers
+
+
+On trip:
+- 4a **Learn the Airport Traffic Pattern and the Rules for Operating Around Airports**
+- 4B
