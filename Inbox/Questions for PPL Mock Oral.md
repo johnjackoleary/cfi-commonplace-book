@@ -12,6 +12,7 @@
 - AROW?
 - Who is responsible for ensuring an aircraft is maintained in an airworthy condition? (91.403)
 - Why do we have an envelope for weight and balance? What happens if we go outside the envelope?
+- Inoperative 
 
 # Weather and Reports
 - How often does the TAF come out?
