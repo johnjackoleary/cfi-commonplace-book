@@ -12,4 +12,6 @@ On trip:
 - 8C
 - 8D
 - 8E
-- 
+- 8F
+- 8G
+- Maybe 9C
