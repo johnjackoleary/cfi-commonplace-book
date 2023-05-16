@@ -3,7 +3,7 @@ Before leaving:
 
 
 On trip:
-- 4a **Learn the Airport Traffic Pattern and the Rules for Operating Around Airports**
+- 4A
 - 4B
 - 7A
 - 7
