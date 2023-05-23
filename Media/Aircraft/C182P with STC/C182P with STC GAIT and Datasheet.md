@@ -3,7 +3,7 @@ tags: [gait]
 has-carb-heat: true
 Vs:
 Vs0:
-cool-procedure: 23", <2450RPM, cowl open
+cool-procedure: 23", <2450RPM, cowl open, CHT <380 (max 400)
 engine-fire-speed: 100
 power-on-stall-rpm:
 maneuver-rpm:
@@ -11,7 +11,7 @@ maneuver-speed:
 speed-units: mph
 ---
 
-| **(model::C182P-STC)** v0.0 |         **Flaps**          |          **MP "**           |          **RPM**          | **IAS (`=this.speed-units`)** |
+| **(model::C182P-STC)** v0.1 |         **Flaps**          |          **MP "**           |          **RPM**          | **IAS (`=this.speed-units`)** |
 | --------------------------- |:--------------------------:|:---------------------------:|:-------------------------:|:-----------------------------:|
 | ⚠️ V<sub>G</sub>            |                            |                             |           idle            |           (Vg::86)            |
 | 🛫 V<sub>R</sub>            |                            |                             |            max            |           (Vr::60)            |
@@ -27,7 +27,8 @@ speed-units: mph
 | 🛬 Final                    | (pattern-final-flaps::40°) | (pattern-final-mp::as req) | (pattern-final-rpm::max)  |          (Vref::70)           |
 | Short                       | (pattern-short-flaps::40°) | (pattern-short-mp::as req)  | (pattern-short-rpm:: max) |         (Vshort::69)          |
 
-| Topic         | Details                                                                                                       |
-| ------------- |:------------------------------------------------------------------------------------------------------------- |
-| Leaning       |     Peak EGT –75° F                                                                      | 
-| V<sub>A</sub> | (Va-mgw::128) @ [mgw::3100]; (Va-dual::115) @ (dual-weight::2500) lb; (Va-single::105) @ (single-weight::2100) lb |
+| Topic         | Details                                                                                                           |
+| ------------- |:----------------------------------------------------------------------------------------------------------------- |
+| Leaning       | Peak EGT –75° F                                                                                                   |
+| Cooling       | `=this.cooling-procedure`                                                                                                                  |
+| V<sub>A</sub> | (Va-mgw::128) @ [mgw::3100]; (Va-dual::115) @ (dual-weight::2500) lb; (Va-single::105) @ (single-weight::2100) lb -> start with 18"-2300RPM |
