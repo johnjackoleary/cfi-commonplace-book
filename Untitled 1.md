@@ -1,0 +1,1 @@
+https://www.boldmethod.com/learn-to-fly/aerodynamics/dihedral-keeping-your-wings-level/#:~:text=Dihedral%20is%20the%20upward%20angle%20of%20an%20aircraft%27s%20wings%2C%20which,hands%20off%2C%20even%20in%20turbulence

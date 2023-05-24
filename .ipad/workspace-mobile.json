@@ -47,8 +47,12 @@
             "id": "baf3058442051f45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,14 +150,28 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Untitled 1.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "baf3058442051f45",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
     "Inbox/2023-01-28 151047.md",
     "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
