@@ -6,8 +6,8 @@ Vs0:
 cool-procedure: 23", <2450RPM, cowl open, CHT <380 (max 400)
 engine-fire-speed: 100
 power-on-stall-rpm:
-maneuver-rpm:
-maneuver-speed:
+maneuver-rpm: 18"-2300RPM
+maneuver-speed: 
 speed-units: mph
 ---
 
