@@ -15,8 +15,8 @@ config: "[[Maneuvers Config]]"
 ---
 ### Overview For `= this.config.aircraft.model` (`= upper(this.config.cert)`)
 - `= [[Maneuver Set-Up]].content`
-- **A:** `= this.altitude-limits`; **P:** `= this.config.aircraft.pattern-base-rpm`; **A:** Any
-- Hold altitude; add power approaching specified speed, then as needed to hold alt
+- **A:** `= this.altitude-limits`; **P:** Any; **A:** Any
+- Power `= this.config.aircraft.pattern-base-rpm`rpm; hold altitude; add power approaching specified speed, then as needed to hold alt
 - If slowing to stall horn, find it and fly  +`=choice(this.config.cert = "ppl", this.acs.ppl.airspeed, this.acs.cpl.airspeed)/2`kts
 - `=choice(this.config.cert = "ppl", this.acs.ppl.standards, this.acs.cpl.standards)`
 
