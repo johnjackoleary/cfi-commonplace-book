@@ -22,8 +22,8 @@ speed-units: kts
 | Cruise                       |                         |      (cruise-rpm::2400)       |      (cruise-speed::100)       |
 | Cruise Descent               |                         |    `=this.cruise-rpm`     |  (cruise-descent-speed::TBD)   |
 | 🛬 Downwind                  |                         | (pattern-downwind-rpm::2100) | (pattern-downwind-speed::as req) |
-| 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |   (pattern-abeam-rpm::1600)   |   (pattern-abeam-speed::70)   |
-| 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1600)    |   (pattern-base-speed::65)    |
+| 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |   (pattern-abeam-rpm::1500)   |   (pattern-abeam-speed::70)   |
+| 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1500)    |   (pattern-base-speed::65)    |
 | 🛬 Final                     | (pattern-final-flaps::30°) |  (pattern-final-rpm::as req)   |          (Vref::60)          |
 | Short                        | (pattern-short-flaps::30°) |   (pattern-short-rpm::as req)   |         (Vshort::54)         |
 
