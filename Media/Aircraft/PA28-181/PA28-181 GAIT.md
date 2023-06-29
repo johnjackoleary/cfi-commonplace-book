@@ -12,9 +12,9 @@ tags: [gait]
 | 🛫 V<sub>Climb</sub>    |           |    +5°    |   max   |         TBD         |     +500      |
 | Cruise                  |           |    0°     |  2500   |        TBD         |       0       |
 | Cruise Descent          |           |  \-2.5°   |  2500   |        TBD         |     \-500     |
-| 🌫️ IAF Inbound Level    |           |    +2°    |  TBD   |         90         |       0       |
+| 🌫️ IAF Inbound Level    |           |    +2°    |  2200   |         90         |       0       |
 | 🌫️ IAF Inbound Descent  |           |   \-2°    |  TBD   |         90         |     \-800     |
-| 🌫️ Prec Appr to DA      |    10°    |   \-3°    |  TBD   |         90         |     \-450     |
+| 🌫️ Prec Appr to DA      |    10°    |   \-3°    |  2000   |         90         |     \-450     |
 | 🌫️ Non-Prec Appr to MDA |    10°    |   \-4°    |  TBD   |         90         |     \-800     |
 | 🛬 Downwind             |           |    TBD    |  2000   |         90         |       0       |
 | 🛬 Abeam Numbers        |    10°    |    TBD    |  1400?   |         75         |      TBD      |
