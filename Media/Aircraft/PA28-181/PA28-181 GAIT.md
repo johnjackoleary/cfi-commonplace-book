@@ -2,7 +2,7 @@
 tags: [gait]
 ---
 
-| **PA28-181 Gait** v0.1  | **Flaps** | **Pitch** | **RPM** |   **IAS (kts)**    | **VSI (fpm)** |
+| **PA28-181 Gait** v0.2 | **Flaps** | **Pitch** | **RPM** |   **IAS (kts)**    | **VSI (fpm)** |
 | ----------------------- |:---------:|:---------:|:-------:|:------------------:|:-------------:|
 | ⚠️ V<sub>G</sub>        |           |    TBD    |  idle   | 76 MGW/61 1631 lbs |      TBD      |
 | 🛫 V<sub>R</sub>        |           |    TBD    |   max   |         59         |      TBD      |
