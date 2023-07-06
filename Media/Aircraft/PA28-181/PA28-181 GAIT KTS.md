@@ -17,7 +17,7 @@ speed-units: kts
 | 🛫 V<sub>R</sub>        |                            |           |             max              |           (Vr::59)            |               |
 | V<sub>X(25°)</sub>      |            25°             |           |             max              |          (Vx25::50)           |               |
 | V<sub>X</sub>           |                            |           |             max              |           (Vx::64)            |               |
-| 🛫 V<sub>Y</sub>        |                            |   +10°    |             max              |            (Vy::76)            |     +600      |
+| 🛫 V<sub>Y</sub>        |                            |   +10°    |             max              |           (Vy::76)            |     +600      |
 | 🛫 V<sub>Climb</sub>    |                            |    +5°    |             max              |                               |     +500      |
 | Cruise                  |                            |    0°     |             2500             |                               |       0       |
 | Cruise Descent          |                            |  \-2.5°   |             2500             |                               |     \-500     |
@@ -34,4 +34,4 @@ speed-units: kts
 | Topic         | Details                             |
 | ------------- |:----------------------------------- |
 | Leaning       | 100° ROP when above 5000'           | 
-| V<sub>A</sub> | (Va-mgw::113) @ [mgw::2550]; (Va-dual::) @ (dual-weight::2100) lb; (Va-single::) @ (single-weight::1900) lb -> start with `=this.maneuver-rpm` |
+| V<sub>A</sub> | (Va-mgw::113) @ [mgw::2550]; (Va-dual::103) @ (dual-weight::2100) lb; (Va-single::100) @ (single-weight::1950) lb -> start with `=this.maneuver-rpm` |
