@@ -8,10 +8,10 @@ engine-fire-speed: TBD
 power-on-stall-rpm: TBD
 maneuver-rpm: 2000rpm
 maneuver-speed: 
-speed-units: kts
+speed-units: mph
 ---
 
-| **PA28-181  Gait** v1.0kts |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
+| **PA28-181 Gait** v1.0mph |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
 | ----------------------- |:--------------------------:|:---------:|:----------------------------:|:-----------------------------:|:-------------:|
 | ⚠️ V<sub>G</sub>        |                            |           |             idle             |   (Vg::76 MGW/61 1631 lbs)    |               |
 | 🛫 V<sub>R</sub>        |                            |           |             max              |           (Vr::59)            |               |
