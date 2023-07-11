@@ -25,10 +25,10 @@ speed-units: mph
 | 🌫️ IAF Inbound Descent    |                            |   \-2°    |             TBD              |              90               |     \-800     |
 | 🌫️ Prec Appr to DA        |            10°             |   \-3°    |             2000             |              90               |     \-450     |
 | 🌫️ Non-Prec Appr to MDA   |            10°             |   \-4°    |             TBD              |              90               |     \-800     |
-| 🛬 Downwind               |                            |           | (pattern-downwind-rpm::2000) | (pattern-downwind-speed::90)  |       0       |
-| 🛬 Abeam Numbers          | (pattern-abeam-flaps::10°) |           |            1400?             |   (pattern-abeam-speed::75)   |               |
-| 🛬 Base                   | (pattern-base-flaps::25°)  |           |            1400?             |   (pattern-base-speed::70)    |               |
-| 🛬 Final                  | (pattern-final-flaps::40°) |           |            1400?             |          (Vref::66)           |               |
+| 🛬 Downwind               |                            |           | (pattern-downwind-rpm::2000) | (pattern-downwind-speed::105)  |       0       |
+| 🛬 Abeam Numbers          | (pattern-abeam-flaps::10°) |           |            1400?             |   (pattern-abeam-speed::95)   |               |
+| 🛬 Base                   | (pattern-base-flaps::25°)  |           |            1400?             |   (pattern-base-speed::85)    |               |
+| 🛬 Final                  | (pattern-final-flaps::40°) |           |            1400?             |          (Vref::76)           |               |
 | Short                     | (pattern-short-flaps::40°) |           |            1400?             |         (Vshort::61)          |               |
 
 | Topic         | Details                                                                                                                                              |
