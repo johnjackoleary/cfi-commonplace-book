@@ -6,7 +6,7 @@ Vs0:
 cool-procedure:
 engine-fire-speed: TBD
 power-on-stall-rpm: TBD
-maneuver-rpm: 2000rpm
+maneuver-rpm: 2100rpm
 maneuver-speed: 
 speed-units: mph
 ---
@@ -22,16 +22,16 @@ speed-units: mph
 | Cruise                    |                            |    0°     |             2500             |                               |       0       |
 | Cruise Descent            |                            |  \-2.5°   |             2500             |                               |     \-500     |
 | 🌫️ IAF Inbound Level      |                            |    +2°    |             2200             |              105              |       0       |
-| 🌫️ IAF Inbound Descent    |                            |   \-2°    |             TBD              |              105              |     \-800     |
+| 🌫️ IAF Inbound Descent    |                            |   \-2°    |             2200              |              105              |     \-800     |
 | 🌫️ Prec Appr to DA        |            10°             |   \-3°    |             2000             |              105              |     \-450     |
-| 🌫️ Non-Prec Appr to MDA   |            10°             |   \-4°    |             TBD              |              105              |     \-800     |
+| 🌫️ Non-Prec Appr to MDA   |            10°             |   \-4°    |             2000              |              105              |     \-800     |
 | 🛬 Downwind               |                            |           | (pattern-downwind-rpm::2000) | (pattern-downwind-speed::105) |       0       |
 | 🛬 Abeam Numbers          | (pattern-abeam-flaps::10°) |           |            1400?             |   (pattern-abeam-speed::95)   |               |
 | 🛬 Base                   | (pattern-base-flaps::25°)  |           |            1400?             |   (pattern-base-speed::85)    |               |
 | 🛬 Final                  | (pattern-final-flaps::40°) |           |            1400?             |          (Vref::76)           |               |
-| Short                     | (pattern-short-flaps::40°) |           |            1400?             |         (Vshort::61)          |               |
+| Short                     | (pattern-short-flaps::40°) |           |            1400?             |         (Vshort::70?)          |               |
 
 | Topic         | Details                                                                                                                                              |
 | ------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Leaning       | 100° ROP when above 5000'                                                                                                                            |
-| V<sub>A</sub> | (Va-mgw::124) @ [mgw::2550]lb; (Va-dual::113) @ (dual-weight::2100)lb; (Va-single::108) @ (single-weight::1950)lb->start with `=this.maneuver-rpm` |
+| V<sub>A</sub> | (Va-mgw::124) @ [mgw::2550]lb; (Va-dual::113) @ (dual-weight::2100)lb; (Va-single::108) @ (single-weight::1950)lb -> start with `=this.maneuver-rpm` |
