@@ -17,7 +17,7 @@ mgw :: 2550
 
 ### Maneuvering
 Va-dual-rpm :: 2200
-power-on-stall-rpm :: 2100
+power-on-stall-rpm :: 2400 RPM
 flaps-for-stall-recover :: 20°
 
 ### Emergency

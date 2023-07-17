@@ -5,7 +5,7 @@ Vs:
 Vs0:
 cool-procedure:
 engine-fire-speed: TBD
-power-on-stall-rpm: TBD
+power-on-stall-rpm: 2400 RPM
 maneuver-rpm: 2100rpm
 maneuver-speed: 
 speed-units: kts
