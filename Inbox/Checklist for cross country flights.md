@@ -1,1 +1,1 @@
-Idea for helping students prep
+Idea for helping students prep, especially for day of
