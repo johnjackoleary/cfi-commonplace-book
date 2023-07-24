@@ -3,8 +3,8 @@
   "pdfExportSettings": {
     "pageSize": "A5",
     "landscape": false,
-    "margin": "1",
-    "downscalePercent": 80
+    "margin": "0",
+    "downscalePercent": 95
   },
   "spellcheck": true,
   "foldIndent": true,
