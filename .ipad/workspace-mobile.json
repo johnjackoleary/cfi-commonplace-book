@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Stick and Rudder.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/Stick and Rudder.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/Stick and Rudder.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/Stick and Rudder.md"
+            "file": "README.md"
           }
         }
       }
@@ -161,12 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e0e5d44601b9dac",
+  "active": "34f7d124e6a21701",
   "lastOpenFiles": [
-    "Inbox/Altitude and speed as bank and pocket change.md",
-    "Inbox/Stick and Rudder.md",
-    "Inbox/Untitled 3.md",
     "~ How You Can Help Improve This Content.md",
+    "+ Acronyms.md",
+    "+ Glossary.md",
+    "+ Maneuvers.md",
+    "+ Quotes.md",
+    "+ Todo.md",
+    "Sources/Stick and Rudder.md",
+    "Inbox/Altitude and speed as bank and pocket change.md",
+    "Inbox/Untitled 3.md",
     "Filed/Maneuver - Turns Around a Point.md",
     "Filed/Maneuver Set-Up.md",
     "Inbox/2023-01-28 151047.md",
@@ -182,7 +187,6 @@
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf",
     "Inbox/2023-05-25 101306.md",
     "Untitled 1.md",
-    "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
-    "+ Maneuvers.md"
+    "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md"
   ]
 }
