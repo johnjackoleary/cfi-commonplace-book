@@ -1,4 +1,6 @@
 {
   "livePreview": false,
-  "attachmentFolderPath": "Sou"
+  "attachmentFolderPath": "Media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox"
 }
