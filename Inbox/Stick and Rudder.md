@@ -1,6 +1,6 @@
 ***Link***      :: https://en.wikipedia.org/wiki/Stick_and_Rudder
 ***Description***      :: An Explanation of the Art of Flying
-***Author*** :: 
+***Author*** :: [[Wolfgang Langewiesche]]
 
 #### Key Quotes
 * 
