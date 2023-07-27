@@ -1,5 +1,5 @@
 ***Link***      :: https://en.wikipedia.org/wiki/Stick_and_Rudder
-***Description***      :: `= this.link`
+***Description***      :: An Explanation of the Art of Flying
 ***Author*** :: 
 
 #### Key Quotes
