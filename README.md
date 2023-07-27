@@ -1,4 +1,4 @@
-## CFI Commonplace Book
+# CFI Commonplace Book
 One of my favorite parts of aviation is the community it brings together. This collection of index cards is meant to empower others in the community to contribute ideas, resources, etc for their own flying. I'll also use it to teach students and hope that students will contribute their own insights as they learn.
 
 My hope is you find my CFI commonplace book useful as a starting point for your own, or that you contribute your own learnings back.
@@ -14,6 +14,10 @@ This is fundamentally a way for me to have dialogue with students and the commun
 All plugins are meant to be optional, although Dataview is heavily used.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) is used heavily for aggregating files and reformatting raw data. Most unusual symbols in the Markdown, especially in files like Gait Charts (e.g. [[C152 GAIT and Datasheet]]), are for Dataview.
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) is for convenience in editing tables. This is totally optional but very helpful.
+- [Git](https://github.com/denolehov/obsidian-git) for easy vault backups. 
+	- #todo :: Figure out better Git approach if allowing folks to contribute
+- [Text Format](https://github.com/Benature/obsidian-text-format) convenience for  formatting with keyboard shortcuts.
+- (Disabled) [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) for creating flashcards to study. This was useful for checkride prep, and could be revisited. Only disabled because it was no longer used.
 
 
 ## Odds and Ends Todo

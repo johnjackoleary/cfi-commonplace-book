@@ -11,7 +11,7 @@ maneuver-speed:
 speed-units: kts
 ---
 
-| **PA28-181  Gait** v1.0kts |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
+| **PA28-181  Gait** v1.1kts |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
 | -------------------------- |:--------------------------:|:---------:|:----------------------------:|:-----------------------------:|:-------------:|
 | ⚠️ V<sub>G</sub>           |                            |           |             idle             |           (Vg::76)            |               |
 | 🛫 V<sub>R</sub>           |                            |           |             max              |           (Vr::59)            |               |
@@ -21,10 +21,10 @@ speed-units: kts
 | 🛫 V<sub>Climb</sub>       |                            |    +5°    |             max              |                               |     +500      |
 | Cruise                     |                            |    0°     |             2500             |                               |       0       |
 | Cruise Descent             |                            |  \-2.5°   |             2500             |                               |     \-500     |
-| 🌫️ IAF Inbound Level       |                            |    +2°    |             2200             |              90               |       0       |
-| 🌫️ IAF Inbound Descent     |                            |   \-2°    |             2200             |              90               |     \-800     |
+| 🌫️ IAF Inbound Level       |                            |    +2°    |             2400             |              90               |       0       |
+| 🌫️ IAF Inbound Descent     |                            |   \-2°    |             1900             |              90               |     \-700     |
 | 🌫️ Prec Appr to DA         |            10°             |   \-3°    |             2000             |              90               |     \-450     |
-| 🌫️ Non-Prec Appr to MDA    |            10°             |   \-4°    |             200              |              90               |     \-800     |
+| 🌫️ Non-Prec Appr to MDA    |            10°             |   \-4°    |             2000              |              90               |     \-800     |
 | 🛬 Downwind                |                            |           | (pattern-downwind-rpm::2000) | (pattern-downwind-speed::90)  |       0       |
 | 🛬 Abeam Numbers           | (pattern-abeam-flaps::10°) |           |            1400?             |   (pattern-abeam-speed::75)   |               |
 | 🛬 Base                    | (pattern-base-flaps::25°)  |           |            1400?             |   (pattern-base-speed::70)    |               |
