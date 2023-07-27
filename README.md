@@ -10,6 +10,9 @@ This is fundamentally a way for me to have dialogue with students and the commun
 - Files starting with "~ " are meant to show up on top of the list, likely they are MOCs or overviews. 
 - Files starting wtih "+ " are aggregator files, which have no custom content but pull information about the files using dataview.
 
+## Obsidian Plug-ins Used
+- 
+
 
 ## Odds and Ends Todo
 #todo :: Find and create links that are not yet created, for instance in [[Stall Speed]]

@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -161,7 +161,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34f7d124e6a21701",
+  "active": "8e0e5d44601b9dac",
   "lastOpenFiles": [
     "~ How You Can Help Improve This Content.md",
     "+ Acronyms.md",
