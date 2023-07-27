@@ -11,6 +11,8 @@ This is fundamentally a way for me to have dialogue with students and the commun
 - Files starting wtih "+ " are aggregator files, which have no custom content but pull information about the files using dataview.
 
 ## Obsidian Plug-ins Used
+All plugins are meant to be optional, although Dataview is heavily used.
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) is used heavily for aggregating files and reformatting raw data. Most unusual symbols in the Markdown, especially in files like Gait Charts (e.g. [[C152 GAIT and Datasheet]]), are for Dataview.
 - 
 
 
