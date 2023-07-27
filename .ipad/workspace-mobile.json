@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filed/Static vs Dynamic Stability and How Trainer Planes Are Designed.md",
+                "file": "Inbox/Useful Bay Webcams.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,6 +108,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "b70ed668adac78ca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -122,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filed/Maneuver - Turns Around a Point.md",
+            "file": "Inbox/Useful Bay Webcams.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filed/Maneuver - Turns Around a Point.md",
+            "file": "Inbox/Useful Bay Webcams.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filed/Maneuver - Turns Around a Point.md"
+            "file": "Inbox/Useful Bay Webcams.md"
           }
         }
       }
@@ -169,17 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e91803d49815f0e7",
+  "active": "baf3058442051f45",
   "lastOpenFiles": [
+    "Inbox/Afterfiring.md",
+    "Inbox/2023-05-11 170441.md",
+    "Inbox/2023-05-25 104026.md",
+    "Inbox/2023-05-30 093119.md",
+    "Inbox/2023-07-12 201345.md",
+    "Inbox/2023-07-01 122613.md",
+    "Filed/Maneuver - Turns Around a Point.md",
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf",
-    "Inbox/2023-05-25 104026.md",
     "Inbox/2023-05-25 101306.md",
     "Untitled 1.md",
     "Untitled.md",
     "Inbox/2023-01-28 151047.md",
     "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md",
-    "Filed/Maneuver - Turns Around a Point.md",
     "+ Maneuvers.md"
   ]
 }
