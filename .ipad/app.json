@@ -2,5 +2,6 @@
   "livePreview": false,
   "attachmentFolderPath": "Media",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox"
+  "newFileFolderPath": "Inbox",
+  "alwaysUpdateLinks": true
 }

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stick and Rudder.md",
+                "file": "Inbox/Stick and Rudder.md",
                 "mode": "source",
                 "source": true
               }
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stick and Rudder.md",
+            "file": "Inbox/Stick and Rudder.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stick and Rudder.md",
+            "file": "Inbox/Stick and Rudder.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stick and Rudder.md"
+            "file": "Inbox/Stick and Rudder.md"
           }
         }
       }
@@ -163,7 +163,7 @@
   },
   "active": "8e0e5d44601b9dac",
   "lastOpenFiles": [
-    "Stick and Rudder.md",
+    "Inbox/Stick and Rudder.md",
     "Inbox/Untitled 3.md",
     "~ How You Can Help Improve This Content.md",
     "Filed/Maneuver - Turns Around a Point.md",
