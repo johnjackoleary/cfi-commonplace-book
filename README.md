@@ -13,7 +13,7 @@ This is fundamentally a way for me to have dialogue with students and the commun
 
 ## Structure
 - Files starting with "~ " are meant to show up on top of the list, likely they are MOCs or overviews. 
-- Files starting wtih "+ " are aggregator files, which have no custom content but pull information about the files using dataview.
+- Files starting with "+ " are aggregator files, which have no custom content but pull information about the files using dataview.
 
 ## Obsidian Plug-ins Used
 All plugins are meant to be optional, although Dataview is heavily used.
