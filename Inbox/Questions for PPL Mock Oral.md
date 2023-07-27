@@ -1,6 +1,6 @@
 # Airplane
 - How does an airplane fly?
-- What are four forces?
+- What are the four forces?
 - Two types of drag, and tell me more.
 - Tell me about the engine in this plane
 - How do magnetos work?
