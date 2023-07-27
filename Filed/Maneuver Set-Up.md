@@ -1,7 +1,7 @@
 ---
 tags: [maneuver]
 config: "[[Maneuvers Config]]"
-content: "<font color=\"goldenrod\">APAMCO · ID Emgcy Field</font>"
+content: "<font color=\"goldenrod\">Clearing Turns · ID Emgcy Field</font>"
 carb-heat-opt-text :: " · Carb Heat On (If Below Green)"
 ---
 `= this.content`
