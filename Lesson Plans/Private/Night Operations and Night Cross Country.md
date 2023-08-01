@@ -18,7 +18,7 @@ Ground 1.5 hour, flight 3 hours
 1. Regulations pertaining to night flight
 	1. Navigation lights required sunset—sunrise
 	2. Logging night flight -- after civil twilight
-	3. Night currency for carrying passengers -- 3 takeoffs and landings within 90 days, >1 hour after sunset
+	3. Night currency for carrying passengers -- 3 (fullstop) takeoffs and landings within 90 days, >1 hour after sunset
 2. Aircraft lighting
 	1. Anti-collision lights -- strobes and/or beacon
 	2. Navigation lights
