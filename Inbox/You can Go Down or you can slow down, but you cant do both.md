@@ -1,0 +1,1 @@
+Quote from [[Scott Rohlfing]] in SCFC Webinar "What Every Student Pilot Needs to Know Before Their Checkride"
