@@ -38,9 +38,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6ea326c7afa0abb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/National Airspace System.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +77,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Airspace",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -102,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d363dee4d02df0b2",
@@ -114,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md",
+            "file": "Inbox/National Airspace System.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md",
+            "file": "Inbox/National Airspace System.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md"
+            "file": "Inbox/National Airspace System.md"
           }
         }
       }
@@ -161,8 +173,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34f7d124e6a21701",
+  "active": "6ea326c7afa0abb8",
   "lastOpenFiles": [
+    "Lesson Plans/Private/12. Navigation Charts and National Airspace System.md",
+    "Inbox/Untitled 3.md",
     "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
     "Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md",
     "README.md",
@@ -174,7 +188,6 @@
     "+ Todo.md",
     "Sources/Stick and Rudder.md",
     "Inbox/Altitude and speed as bank and pocket change.md",
-    "Inbox/Untitled 3.md",
     "Filed/Maneuver - Turns Around a Point.md",
     "Filed/Maneuver Set-Up.md",
     "Inbox/2023-01-28 151047.md",
@@ -189,7 +202,6 @@
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf",
     "Inbox/2023-05-25 101306.md",
-    "Untitled 1.md",
-    "Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md"
+    "Untitled 1.md"
   ]
 }
