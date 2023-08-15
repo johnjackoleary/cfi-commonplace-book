@@ -18,4 +18,4 @@ Others in LostComms/
 Others in checkride writeups
 [[cdfa-ac.pdf]]
 [[DietzPrivateAirplaneSyllabus2018TOC.pdf]]
-[[1219-blackbird letter.pdf]]
+[[1219-Blackbird letter.pdf]]

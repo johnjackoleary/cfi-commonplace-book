@@ -1,1 +1,4 @@
-Based on SCFC Syllabus
+Before First Flight:
+- Logbook
+
+
