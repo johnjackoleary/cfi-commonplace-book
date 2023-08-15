@@ -8,6 +8,8 @@ Environmental control system or Cabin control system
 Fuel systems
 Propulsion systems
 
+See IX.C
+
 # Others not in most trainers
 Engine bleed air system
 
