@@ -29,7 +29,7 @@
 		- Temperatures heating up
 			- Scenario was little airplane in hot day, raising temps and what to do about it
 		- Not articulate on alternator vs battery, and what you can troubleshoot about it
-	- National Airspace System
+	- [[National Airspace System]]
 		- Radio Comms, Equipment, and Weather
 		- Airspace violations - what are requirements for entry
 			- Understanding what two-way radio communications is
