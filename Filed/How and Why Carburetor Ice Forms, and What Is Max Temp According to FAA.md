@@ -10,6 +10,6 @@ Carburetor icing is most likely to occur at temperatures below 70°F and the rel
 
 
 ***Source:*** [[PHAK Ch7]], [[Air Trek North CFI Homework]]
-***Additional Resources:*** [Don't Let Carburetor Ice Happen To You](https://www.boldmethod.com/learn-to-fly/aircraft-systems/dont-let-carb-ice-happen-to-you/)
+***Additional Resources:*** [Don't Let Carburetor Ice Happen To You](https://www.boldmethod.com/learn-to-fly/aircraft-systems/dont-let-carb-ice-happen-to-you/), https://youtu.be/65djenNI_Ho
 
 #airtreknorthhw 
