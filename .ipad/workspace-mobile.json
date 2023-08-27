@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/National Airspace System.md",
+                "file": "Inbox/2023-08-26 181625.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "d363dee4d02df0b2",
@@ -126,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/National Airspace System.md",
+            "file": "Inbox/2023-08-26 181625.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/National Airspace System.md",
+            "file": "Inbox/2023-08-26 181625.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/National Airspace System.md"
+            "file": "Inbox/2023-08-26 181625.md"
           }
         }
       }
@@ -175,6 +175,7 @@
   },
   "active": "6ea326c7afa0abb8",
   "lastOpenFiles": [
+    "Inbox/National Airspace System.md",
     "Lesson Plans/Private/12. Navigation Charts and National Airspace System.md",
     "Inbox/Untitled 3.md",
     "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
@@ -201,7 +202,6 @@
     "Inbox/2023-07-01 122613.md",
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf",
-    "Inbox/2023-05-25 101306.md",
-    "Untitled 1.md"
+    "Inbox/2023-05-25 101306.md"
   ]
 }
