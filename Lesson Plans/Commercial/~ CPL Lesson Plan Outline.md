@@ -2,7 +2,7 @@
 cssclass: lesson
 tags: cpl
 ---
-### Private Pilot Airplane Single-Engine, Lesson Plan Outline
+### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 John O'Leary (CFI Jack); Based on [[DietzCommercialAirplaneSyllabus2022.pdf|Lou Dietz Lessons, 2022]]
 
 Outline of All ACS Tasks:
