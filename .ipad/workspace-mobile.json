@@ -50,9 +50,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a72087a50f325c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/CFI-I Battle Plan.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/2023-08-26 181625.md",
+            "file": "Inbox/CFI-I Battle Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/2023-08-26 181625.md",
+            "file": "Inbox/CFI-I Battle Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/2023-08-26 181625.md"
+            "file": "Inbox/CFI-I Battle Plan.md"
           }
         }
       }
@@ -173,8 +185,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ea326c7afa0abb8",
+  "active": "a72087a50f325c94",
   "lastOpenFiles": [
+    "Inbox/2023-08-26 181625.md",
     "Inbox/National Airspace System.md",
     "Lesson Plans/Private/12. Navigation Charts and National Airspace System.md",
     "Inbox/Untitled 3.md",
@@ -201,7 +214,6 @@
     "Inbox/2023-07-12 201345.md",
     "Inbox/2023-07-01 122613.md",
     "Filed/process_jotform.py",
-    "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf",
-    "Inbox/2023-05-25 101306.md"
+    "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf"
   ]
 }
