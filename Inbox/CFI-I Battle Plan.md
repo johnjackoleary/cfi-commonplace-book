@@ -33,5 +33,5 @@
 | Mon    | V.A, V.B, IX.A                     | Short flight  (approaches)       | 
 | Tues   | Ground Portions for Flight (7.7hr), plan flight tomorrow | N/A                              |
 | Weds   | Flight Portions                    | 8hr (4hr each)                   |
-| Thurs  | III.C, III.B, IX.B                   | 4hr (2hr each) on any weak spots                             |
+| Thurs  | III.C (am) -- (pm) III.B, IX.B                   | 4hr (2hr each) on any weak spots                             |
 | Friday |       II.A, II.C (11hr)           |  N/A |
