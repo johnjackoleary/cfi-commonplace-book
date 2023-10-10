@@ -5,3 +5,5 @@
 For [[VASI]].
 
 ![[VASI.jpeg]]
+
+#memoryaid 

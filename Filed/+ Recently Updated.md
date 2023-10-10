@@ -4,9 +4,15 @@
     - [[Filed/A CFI’s Guide to Sport Pilot and Light Sport Aircraft.md|A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]
     - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
     - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
+    - [[Filed/Maneuvers Config.md|Maneuvers Config]]
     - [[Filed/STC.md|STC]]
     - [[Filed/Sport Pilot Privileges and Limitations.md|Sport Pilot Privileges and Limitations]]
     - [[Filed/WRIMTMS.md|WRIMTMS]]
+    - [[Filed/Weight.md|Weight]]
+    - [[Filed/Maneuver - Soft-Field Takeoff and Landings.md|Maneuver - Soft-Field Takeoff and Landings]]
+    - [[Filed/Maneuver - Short-Field Takeoff and Landings.md|Maneuver - Short-Field Takeoff and Landings]]
+    - [[Filed/White Over White, Red Over White, Red Over Red.md|White Over White, Red Over White, Red Over Red]]
+    - [[Filed/Leaning the Mixture.md|Leaning the Mixture]]
 
 - September 25, 2023: 
     - [[Filed/Airport Advisory Area.md|Airport Advisory Area]]
@@ -28,9 +34,6 @@
 
 - July 02, 2023: 
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
-
-- May 12, 2023: 
-    - [[Filed/Maneuvers Config.md|Maneuvers Config]]
 
 - May 08, 2023: 
     - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
@@ -62,6 +65,9 @@
 
 - January 26, 2023: 
     - [[Filed/AIM 6.md|AIM 6]]
+    - [[Filed/Squawk 7700.md|Squawk 7700]]
+    - [[Filed/Squawk 7500.md|Squawk 7500]]
+    - [[Filed/Squawk 7600.md|Squawk 7600]]
 
 - January 24, 2023: 
     - [[Filed/AFM.md|AFM]]
@@ -84,6 +90,8 @@
     - [[Filed/METAR.md|METAR]]
     - [[Filed/SIGMET.md|SIGMET]]
     - [[Filed/Weather Brief.md|Weather Brief]]
+    - [[Filed/FAR 91.151 VFR Fuel Reqs.md|FAR 91.151 VFR Fuel Reqs]]
+    - [[Filed/FAR 91.155 VFR Weather Minimums.md|FAR 91.155 VFR Weather Minimums]]
 
 - January 20, 2023: 
     - [[Filed/4 Types of MEL's.md|4 Types of MEL's]]
@@ -415,7 +423,6 @@
     - [[Filed/WVFC Member Regulations.md|WVFC Member Regulations]]
     - [[Filed/WVFC.md|WVFC]]
     - [[Filed/Wake Turbulence.md|Wake Turbulence]]
-    - [[Filed/Weight.md|Weight]]
     - [[Filed/Wes Irish.md|Wes Irish]]
     - [[Filed/What Are the Hazardous Attitudes and Antidotes.md|What Are the Hazardous Attitudes and Antidotes]]
     - [[Filed/What is learning.md|What is learning]]
@@ -425,4 +432,5 @@
     - [[Filed/Wind Shear.md|Wind Shear]]
     - [[Filed/Wing Lift (xkcd).md|Wing Lift (xkcd)]]
     - [[Filed/bhp.md|bhp]]
+    - [[Filed/Load Factor.md|Load Factor]]
 

@@ -5,7 +5,7 @@
 
 Put another way, maneuvering speed (Va) is meant to ensure the airplane stalls before exceeding the [[limit load factor]].
 
-In level flight, we're at 1G [[load factor]]. If we double, triple, or quadruple the angle of attack, we increase our G-force by double, triple, or quadruple.
+In level flight, we're at 1G [[Load Factor]]. If we double, triple, or quadruple the angle of attack, we increase our G-force by double, triple, or quadruple.
 
 If we increase our G-force beyond the [[limit load factor]], we can cause structural damage. So we need to ensure we don't want to exceed +3.8 Gs.
 

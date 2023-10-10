@@ -97,11 +97,12 @@ tags: ppl
 
 ----
 
-![[Lost Procedures, and Diversion to Alternates]]
+![[Emergency Flight by Reference to Instruments - Four Fundamentals]]
 
 ----
 
-![[Emergency Flight by Reference to Instruments - Four Fundamentals]]
+![[Lost Procedures, and Diversion to Alternates]]
+
 
 ----
 

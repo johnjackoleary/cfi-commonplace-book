@@ -2,6 +2,8 @@
 
 - October 10, 2023: 
     - [[Filed/WRIMTMS.md|WRIMTMS]]
+    - [[Filed/Maneuver - Soft-Field Takeoff and Landings.md|Maneuver - Soft-Field Takeoff and Landings]]
+    - [[Filed/Maneuver - Short-Field Takeoff and Landings.md|Maneuver - Short-Field Takeoff and Landings]]
 
 - September 25, 2023: 
     - [[Filed/Airport Advisory Area.md|Airport Advisory Area]]
@@ -50,6 +52,9 @@
 - March 05, 2023: 
     - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
 
+- January 30, 2023: 
+    - [[Filed/Leaning the Mixture.md|Leaning the Mixture]]
+
 - January 29, 2023: 
     - [[Filed/Categorical Outlooks.md|Categorical Outlooks]]
     - [[Filed/FAR 61.85 Student Application.md|FAR 61.85 Student Application]]
@@ -60,10 +65,14 @@
 - January 26, 2023: 
     - [[Filed/AIM 6.md|AIM 6]]
     - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
+    - [[Filed/Squawk 7700.md|Squawk 7700]]
+    - [[Filed/Squawk 7500.md|Squawk 7500]]
+    - [[Filed/Squawk 7600.md|Squawk 7600]]
 
 - January 24, 2023: 
     - [[Filed/AFM.md|AFM]]
     - [[Filed/FAR 91.3 PIC Responsibility and Authority.md|FAR 91.3 PIC Responsibility and Authority]]
+    - [[Filed/White Over White, Red Over White, Red Over Red.md|White Over White, Red Over White, Red Over Red]]
 
 - January 23, 2023: 
     - [[Filed/Active Runway.md|Active Runway]]
@@ -79,6 +88,8 @@
     - [[Filed/METAR.md|METAR]]
     - [[Filed/SIGMET.md|SIGMET]]
     - [[Filed/Weather Brief.md|Weather Brief]]
+    - [[Filed/FAR 91.151 VFR Fuel Reqs.md|FAR 91.151 VFR Fuel Reqs]]
+    - [[Filed/FAR 91.155 VFR Weather Minimums.md|FAR 91.155 VFR Weather Minimums]]
 
 - January 20, 2023: 
     - [[Filed/4 Types of MEL's.md|4 Types of MEL's]]
@@ -431,4 +442,5 @@
     - [[Filed/Wing Lift (xkcd).md|Wing Lift (xkcd)]]
     - [[Filed/bhp.md|bhp]]
     - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
+    - [[Filed/Load Factor.md|Load Factor]]
 

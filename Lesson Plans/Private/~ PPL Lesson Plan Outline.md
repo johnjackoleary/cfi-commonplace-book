@@ -34,8 +34,8 @@ John O'Leary (CFI Jack)
 [[Aircraft Performance including Weight and Balance]]
 [[Weather Information and Cross-Country Flight Planning]]
 [[Pilotage and Dead Reckoning]]
-[[Lost Procedures, and Diversion to Alternates]]
 [[Emergency Flight by Reference to Instruments - Four Fundamentals]]
+[[Lost Procedures, and Diversion to Alternates]]
 [[Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
 
 (Cross Country Phase Check and Solo Cross Countries)

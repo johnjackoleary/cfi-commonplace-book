@@ -6,6 +6,9 @@ speed-units :: kts
 Vg :: 68
 Vr :: 55
 Vx :: 62
+Vx-short :: 56
+short-takeoff-flaps :: 10°
+soft-takeoff-flaps :: 10°
 Vy :: 74
 Va-mgw :: 105
 Va-dual :: 100
@@ -33,7 +36,6 @@ pattern-abeam-flaps :: 10°
 pattern-base-speed :: 70
 pattern-base-rpm :: 1600
 pattern-base-flaps :: 20°
-Vref :: 65
 pattern-final-rpm :: as req
 pattern-final-flaps :: 40°
-Whyycool-procedure :: N/A for C172SP
+cool-procedure :: N/A for C172SP
