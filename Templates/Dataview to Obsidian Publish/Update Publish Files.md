@@ -1,6 +1,7 @@
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
+const exportCanvasToImage = app.commands.commands["canvas:export-as-image"].callback;
 
 const fileAndQuery = new Map([
   [

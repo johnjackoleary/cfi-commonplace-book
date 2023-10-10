@@ -114,9 +114,6 @@ tags: ppl
 # Stage III: Night Flying and Checkride Preparation
 ![[Night Operations and Night Cross Country]]
 
-----
-
-![[15. Emergency Operations]]
 
 ----
 

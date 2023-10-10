@@ -6,10 +6,13 @@ tags: ppl, lesson
 Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
 
 ### References
-[[Private Pilot ACS]] Sec IV Task E-F; AFH Ch5, 8
+- [[Private Pilot ACS]] Sec IV Task E-F
+- [[AFH Ch5]]
+- [[AFH Ch8]]
 
 ### Builds On
-[[6. Normal and Crosswind Takeoffs and Climbs]], [[9. Normal and Crosswind Approaches and Landings]]
+- [[6. Normal and Crosswind Takeoffs and Climbs]]
+- [[9. Normal and Crosswind Approaches and Landings]]
 
 ### Schedule
 Ground 1.0; Flight – multiple flights, with frequent practice

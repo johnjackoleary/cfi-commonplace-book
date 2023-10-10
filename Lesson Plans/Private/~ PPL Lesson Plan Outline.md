@@ -42,7 +42,6 @@ John O'Leary (CFI Jack)
 
 #### Stage III: Night Flying and Checkride Preparation
 [[Night Operations and Night Cross Country]]
-[[15. Emergency Operations]]
 [[Lesson Plans/Private/Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)
