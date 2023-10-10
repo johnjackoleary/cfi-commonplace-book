@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 10, 2023: 
+    - [[Filed/WRIMTMS.md|WRIMTMS]]
+
 - September 25, 2023: 
     - [[Filed/Airport Advisory Area.md|Airport Advisory Area]]
 
@@ -199,7 +202,6 @@
     - [[Filed/Loss of Control In-Flight.md|Loss of Control In-Flight]]
     - [[Filed/Lost Communication Procedure Practice.md|Lost Communication Procedure Practice]]
     - [[Filed/Lost Procedures (5 C's).md|Lost Procedures (5 C's)]]
-    - [[Filed/Lou Dietz.md|Lou Dietz]]
     - [[Filed/MEL.md|MEL]]
     - [[Filed/Magnetos In Detail.md|Magnetos In Detail]]
     - [[Filed/Magneto.md|Magneto]]
@@ -302,7 +304,6 @@
     - [[Filed/Vx.md|Vx]]
     - [[Filed/Video of Flying a Lazy Eight.md|Video of Flying a Lazy Eight]]
     - [[Filed/Vy.md|Vy]]
-    - [[Filed/WRIMTMS.md|WRIMTMS]]
     - [[Filed/WVFC.md|WVFC]]
     - [[Filed/Weight.md|Weight]]
     - [[Filed/Wes Irish.md|Wes Irish]]

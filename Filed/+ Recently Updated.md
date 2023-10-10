@@ -3,6 +3,7 @@
 - October 10, 2023: 
     - [[Filed/STC.md|STC]]
     - [[Filed/Sport Pilot Privileges and Limitations.md|Sport Pilot Privileges and Limitations]]
+    - [[Filed/WRIMTMS.md|WRIMTMS]]
     - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
     - [[Filed/A CFI’s Guide to Sport Pilot and Light Sport Aircraft.md|A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]
     - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
@@ -204,7 +205,6 @@
     - [[Filed/Loss of Control In-Flight.md|Loss of Control In-Flight]]
     - [[Filed/Lost Communication Procedure Practice.md|Lost Communication Procedure Practice]]
     - [[Filed/Lost Procedures (5 C's).md|Lost Procedures (5 C's)]]
-    - [[Filed/Lou Dietz.md|Lou Dietz]]
     - [[Filed/MEL.md|MEL]]
     - [[Filed/Magnetos In Detail.md|Magnetos In Detail]]
     - [[Filed/Maneuver - S-Turns.md|Maneuver - S-Turns]]
@@ -301,7 +301,6 @@
     - [[Filed/Vx.md|Vx]]
     - [[Filed/Video of Flying a Lazy Eight.md|Video of Flying a Lazy Eight]]
     - [[Filed/Vy.md|Vy]]
-    - [[Filed/WRIMTMS.md|WRIMTMS]]
     - [[Filed/WVFC.md|WVFC]]
     - [[Filed/Weight.md|Weight]]
     - [[Filed/Wes Irish.md|Wes Irish]]

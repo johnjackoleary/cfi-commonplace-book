@@ -1,4 +1,6 @@
 ---
+
+
 aliases: [Supplemental Type Certificate]
 ---
 ***Meaning*** :: <u>S</u>upplemental <u>T</u>ype <u>C
