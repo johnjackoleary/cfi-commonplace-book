@@ -1,4 +1,4 @@
 ```dataview
-TABLE todo as "Todo" FROM #todo
+TABLE todo as "Todo" FROM #todo AND !"Templates"
 ```
 
