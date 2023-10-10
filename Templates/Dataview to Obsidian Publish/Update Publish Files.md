@@ -1,4 +1,5 @@
 
+
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
@@ -7,6 +8,10 @@ const fileAndQuery = new Map([
   [
     "Filed/+ Created On",
     'LIST rows.file.link WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") AND file.folder = "Filed" GROUP BY (file.cday) AS Date SORT Date DESC',
+  ],
+  [
+    "Filed/+ Recently Updated",
+    'LIST rows.file.link WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") AND file.folder = "Filed" GROUP BY (file.mday) AS Modified SORT Modified DESC',
   ],
   ["+ Acronyms", 'TABLE WITHOUT ID file.link AS "Acronyms: ", meaning AS "Meaning" FROM #acronym AND !"Templates" SORT file.link ASC'],
   ["+ Glossary", 'TABLE WITHOUT ID file.link AS "", definition AS "Definition", source AS "Source" FROM #glossary AND !"Templates" SORT file.link'],

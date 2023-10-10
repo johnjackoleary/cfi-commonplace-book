@@ -1,8 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
-- [[Inbox/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
-- [[Inbox/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
-- [[Inbox/Four Fundamentals.md|Four Fundamentals]]
+- [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
+- [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
+- [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
 - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
 - [[Filed/Maneuver - Power-On Stall.md|Maneuver - Power-On Stall]]
 - [[Filed/Maneuver - Power-Off Stall.md|Maneuver - Power-Off Stall]]

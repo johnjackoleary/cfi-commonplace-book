@@ -23,6 +23,7 @@ config: "[[Maneuvers Config]]"
 
 
 # Instruments
+#todo :: Add instruments for control-performance method or primary-supporting method
 
 
 # References

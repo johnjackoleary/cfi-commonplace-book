@@ -1,7 +1,9 @@
 {
   "siteId": "8c1cc57d0f904156ae2126ef68b60dc9",
   "host": "publish-01.obsidian.md",
-  "included": [],
+  "included": [
+    "Filed"
+  ],
   "excluded": [
     "Inbox",
     "Templates",

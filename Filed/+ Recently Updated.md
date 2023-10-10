@@ -1,30 +1,29 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 10, 2023: 
+    - [[Filed/STC.md|STC]]
+    - [[Filed/Sport Pilot Privileges and Limitations.md|Sport Pilot Privileges and Limitations]]
+    - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
+    - [[Filed/A CFI’s Guide to Sport Pilot and Light Sport Aircraft.md|A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]
+    - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
+
 - September 25, 2023: 
     - [[Filed/Airport Advisory Area.md|Airport Advisory Area]]
-
-- September 14, 2023: 
-    - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
 
 - August 17, 2023: 
     - [[Filed/How and Why Carburetor Ice Forms, and What Is Max Temp According to FAA.md|How and Why Carburetor Ice Forms, and What Is Max Temp According to FAA]]
 
 - August 15, 2023: 
-    - [[Filed/FAR 91.207 Emergency Locator Transmitters.md|FAR 91.207 Emergency Locator Transmitters]]
-
-- August 08, 2023: 
     - [[Filed/121.5 for ELT Usage Regs.md|121.5 for ELT Usage Regs]]
-
-- August 02, 2023: 
+    - [[Filed/Asking for Winds, Clouds, Trends.md|Asking for Winds, Clouds, Trends]]
+    - [[Filed/FAR 91.207 Emergency Locator Transmitters.md|FAR 91.207 Emergency Locator Transmitters]]
+    - [[Filed/Magneto.md|Magneto]]
     - [[Filed/You Can Go Down or You Can Slow Down, but You Cant Do Both.md|You Can Go Down or You Can Slow Down, but You Cant Do Both]]
 
 - July 27, 2023: 
     - [[Filed/Maneuver Set-Up.md|Maneuver Set-Up]]
     - [[Filed/Useful Bay Webcams.md|Useful Bay Webcams]]
     - [[Filed/Stick and Rudder.md|Stick and Rudder]]
-
-- July 09, 2023: 
-    - [[Filed/Asking for Winds, Clouds, Trends.md|Asking for Winds, Clouds, Trends]]
 
 - July 02, 2023: 
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
@@ -34,6 +33,8 @@
 
 - May 08, 2023: 
     - [[Filed/Maneuver - Power-On Stall.md|Maneuver - Power-On Stall]]
+    - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
+    - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
 
 - April 23, 2023: 
     - [[Filed/C172 Land-O-Matic Ad.md|C172 Land-O-Matic Ad]]
@@ -45,26 +46,31 @@
     - [[Filed/FAR 91.119.md|FAR 91.119]]
 
 - March 05, 2023: 
-    - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
+    - [[Filed/Maneuver - Power-Off Stall.md|Maneuver - Power-Off Stall]]
+
+- February 27, 2023: 
+    - [[Filed/Avoid Saying Takeoff Unless Actually Cleared.md|Avoid Saying Takeoff Unless Actually Cleared]]
 
 - January 29, 2023: 
     - [[Filed/Categorical Outlooks.md|Categorical Outlooks]]
     - [[Filed/FAR Part 61.3 Cert and Rating Reqs.md|FAR Part 61.3 Cert and Rating Reqs]]
+    - [[Filed/Static vs Dynamic Stability and How Trainer Planes Are Designed.md|Static vs Dynamic Stability and How Trainer Planes Are Designed]]
     - [[Filed/FAR 61.85 Student Application.md|FAR 61.85 Student Application]]
     - [[Filed/FAR 91.107 Use of Seat Belts.md|FAR 91.107 Use of Seat Belts]]
     - [[Filed/FAR 91.123 Compliance with ATC.md|FAR 91.123 Compliance with ATC]]
 
 - January 26, 2023: 
     - [[Filed/AIM 6.md|AIM 6]]
-    - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
 
 - January 24, 2023: 
     - [[Filed/AFM.md|AFM]]
+    - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
     - [[Filed/FAR 91.3 PIC Responsibility and Authority.md|FAR 91.3 PIC Responsibility and Authority]]
 
 - January 23, 2023: 
     - [[Filed/Active Runway.md|Active Runway]]
     - [[Filed/CTAF.md|CTAF]]
+    - [[Filed/Radio Usage at Non-Towered Airports.md|Radio Usage at Non-Towered Airports]]
     - [[Filed/Unicom.md|Unicom]]
     - [[Filed/Pilot-Controller Glossary.md|Pilot-Controller Glossary]]
 
@@ -72,6 +78,7 @@
     - [[Filed/AIRMET.md|AIRMET]]
     - [[Filed/AWOS.md|AWOS]]
     - [[Filed/ASOS.md|ASOS]]
+    - [[Filed/FARs are Written in Blood.md|FARs are Written in Blood]]
     - [[Filed/METAR.md|METAR]]
     - [[Filed/SIGMET.md|SIGMET]]
     - [[Filed/Weather Brief.md|Weather Brief]]
@@ -100,7 +107,6 @@
     - [[Filed/Angle of Attack.md|Angle of Attack]]
     - [[Filed/Autokinesis.md|Autokinesis]]
     - [[Filed/Aviation Instructors Responsibilty.md|Aviation Instructors Responsibilty]]
-    - [[Filed/Avoid Saying Takeoff Unless Actually Cleared.md|Avoid Saying Takeoff Unless Actually Cleared]]
     - [[Filed/Barriers to Effective Communication.md|Barriers to Effective Communication]]
     - [[Filed/Basic Elements of Communication.md|Basic Elements of Communication]]
     - [[Filed/Best to Fly PAPI or VASI into landing flare when available.md|Best to Fly PAPI or VASI into landing flare when available]]
@@ -147,7 +153,6 @@
     - [[Filed/Exhaust Stroke.md|Exhaust Stroke]]
     - [[Filed/FAA Chief Counsel.md|FAA Chief Counsel]]
     - [[Filed/FAA.md|FAA]]
-    - [[Filed/FARs are Written in Blood.md|FARs are Written in Blood]]
     - [[Filed/FCCGUMPS.md|FCCGUMPS]]
     - [[Filed/FLAPS.md|FLAPS]]
     - [[Filed/Factors How People Learn.md|Factors How People Learn]]
@@ -202,13 +207,11 @@
     - [[Filed/Lou Dietz.md|Lou Dietz]]
     - [[Filed/MEL.md|MEL]]
     - [[Filed/Magnetos In Detail.md|Magnetos In Detail]]
-    - [[Filed/Magneto.md|Magneto]]
     - [[Filed/Maneuver - S-Turns.md|Maneuver - S-Turns]]
     - [[Filed/Maneuver - Rectangular Course.md|Maneuver - Rectangular Course]]
     - [[Filed/Maneuver - Turns Around a Point.md|Maneuver - Turns Around a Point]]
     - [[Filed/Maneuverability.md|Maneuverability]]
     - [[Filed/Maneuvering Speed.md|Maneuvering Speed]]
-    - [[Filed/Maneuver - Power-Off Stall.md|Maneuver - Power-Off Stall]]
     - [[Filed/Maximum Elevation Figure.md|Maximum Elevation Figure]]
     - [[Filed/Medical Requirements.md|Medical Requirements]]
     - [[Filed/Medication Examples for Pilots.md|Medication Examples for Pilots]]
@@ -245,14 +248,12 @@
     - [[Filed/Principles (Laws) of Learning.md|Principles (Laws) of Learning]]
     - [[Filed/Pupil Dilation Based Card Trick.md|Pupil Dilation Based Card Trick]]
     - [[Filed/Reason Versus Emotion.md|Reason Versus Emotion]]
-    - [[Filed/Radio Usage at Non-Towered Airports.md|Radio Usage at Non-Towered Airports]]
     - [[Filed/Retention of Learning.md|Retention of Learning]]
     - [[Filed/Rod Machado.md|Rod Machado]]
     - [[Filed/Runway Incursion.md|Runway Incursion]]
     - [[Filed/Runway Conditions and Runway Condition Assessment Matrix.md|Runway Conditions and Runway Condition Assessment Matrix]]
     - [[Filed/SLAC.md|SLAC]]
     - [[Filed/SMGCS.md|SMGCS]]
-    - [[Filed/STC.md|STC]]
     - [[Filed/Scott Rohling's Advice on Lost Comms.md|Scott Rohling's Advice on Lost Comms]]
     - [[Filed/Power.md|Power]]
     - [[Filed/Scuba Dive Times.md|Scuba Dive Times]]
@@ -263,7 +264,6 @@
     - [[Filed/Smooth Power Application.md|Smooth Power Application]]
     - [[Filed/Somatosensory System.md|Somatosensory System]]
     - [[Filed/Someone Doesn't Get the Word.md|Someone Doesn't Get the Word]]
-    - [[Filed/Sport Pilot Privileges and Limitations.md|Sport Pilot Privileges and Limitations]]
     - [[Filed/Stability affects Maneuverability and Controllability.md|Stability affects Maneuverability and Controllability]]
     - [[Filed/Stages of Acquiring a Skill.md|Stages of Acquiring a Skill]]
     - [[Filed/Stabilized Approach.md|Stabilized Approach]]
@@ -273,7 +273,6 @@
     - [[Filed/Stall.md|Stall]]
     - [[Filed/Static Stability.md|Static Stability]]
     - [[Filed/Somatogravic Illusion.md|Somatogravic Illusion]]
-    - [[Filed/Static vs Dynamic Stability and How Trainer Planes Are Designed.md|Static vs Dynamic Stability and How Trainer Planes Are Designed]]
     - [[Filed/Step on the Ball.md|Step on the Ball]]
     - [[Filed/Steps in the Teaching Process.md|Steps in the Teaching Process]]
     - [[Filed/Supplemental Oxygen.md|Supplemental Oxygen]]
@@ -315,7 +314,6 @@
     - [[Filed/Wake Turbulence.md|Wake Turbulence]]
     - [[Filed/Wing Lift (xkcd).md|Wing Lift (xkcd)]]
     - [[Filed/bhp.md|bhp]]
-    - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
     - [[Filed/WVFC Member Regulations.md|WVFC Member Regulations]]
     - [[Filed/AC 60-28.md|AC 60-28]]
     - [[Filed/AC 61-65H.md|AC 61-65H]]
@@ -325,7 +323,6 @@
     - [[Filed/AC 90-66B.md|AC 90-66B]]
     - [[Filed/AC 91-37B Truth in Leasing.md|AC 91-37B Truth in Leasing]]
     - [[Filed/AC 120-57B.md|AC 120-57B]]
-    - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
     - [[Filed/Aerodynamics for Naval Aviators.md|Aerodynamics for Naval Aviators]]
     - [[Filed/AFH Ch1.md|AFH Ch1]]
     - [[Filed/AFH Ch2.md|AFH Ch2]]
@@ -428,6 +425,5 @@
     - [[Filed/Runway Safety.md|Runway Safety]]
     - [[Filed/Stabilized Approach and Landing.md|Stabilized Approach and Landing]]
     - [[Filed/The Bias Bundle Bomb.md|The Bias Bundle Bomb]]
-    - [[Filed/A CFI’s Guide to Sport Pilot and Light Sport Aircraft.md|A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]
     - [[Filed/How Much Does the Atmosphere Weigh.md|How Much Does the Atmosphere Weigh]]
 

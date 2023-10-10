@@ -5,7 +5,7 @@
 		{"type":"file","file":"Filed/Maneuver Set-Up.md","id":"0ea39e79f180587d","x":-100,"y":-250,"width":460,"height":50},
 		{"type":"file","file":"Filed/Maneuver - Power-Off Stall.md","id":"636c0d2761364d28","x":-200,"y":60,"width":400,"height":280},
 		{"type":"file","file":"Filed/Maneuver - Power-On Stall.md","id":"526d68f660ffc06e","x":-200,"y":380,"width":400,"height":268},
-		{"id":"eff527dfcf5cbb9c","x":220,"y":-164,"width":400,"height":134,"type":"file","file":"Inbox/Maneuver - Steep Turn.md"}
+		{"id":"eff527dfcf5cbb9c","x":220,"y":-164,"width":400,"height":134,"type":"file","file":"Filed/Maneuver - Steep Turn.md"}
 	],
 	"edges":[]
 }
