@@ -20,7 +20,7 @@
 	- Lights
 
 ***Purpose:*** Items to brief before [[IFR]] [[approach]]
-***Source:*** [[Lou Dietz]]
+***Source:***
 
 #acronym
 
