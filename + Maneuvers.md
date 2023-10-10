@@ -1,6 +1,5 @@
 ```dataview
-LIST
-FROM #maneuver AND !"Templates"
+LIST FROM #maneuver AND !"Templates"
 ```
 
 ---
