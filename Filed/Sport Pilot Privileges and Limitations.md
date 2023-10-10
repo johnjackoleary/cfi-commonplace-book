@@ -18,4 +18,4 @@ With additional endorsements, Sport Pilots can get privileges to:
 
 
 ***Source:*** [Sport Pilot FAQ](https://www.usua.org/SportPilot/SportPilotFAQ.html)
-***Additional Information:*** [[FAR Part 61.3xx]], specifically [61.315](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-J/section-61.315), [[A CFI’s Guide to Sport Pilot and Light Sort Aircraft]]
+***Additional Information:*** [[FAR Part 61.3xx]], specifically [61.315](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-J/section-61.315), [[A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]

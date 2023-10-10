@@ -1,4 +1,4 @@
-***Link***      :: [A CFI’s Guide to Sport Pilot and Light Sort Aircraft](https://chesapeakesportpilot.com/wp-content/uploads/2018/08/NAFI-CFI-Sport-Guide.pdf)
+***Link***      :: [A CFI’s Guide to Sport Pilot and Light Sport Aircraft](https://chesapeakesportpilot.com/wp-content/uploads/2018/08/NAFI-CFI-Sport-Guide.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[EAA]], [[NAFI]], [[ASA]]
 ***Related To:*** [[FAR Part 61.3xx]]
