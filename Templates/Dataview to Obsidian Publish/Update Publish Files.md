@@ -1,6 +1,3 @@
-// Based on https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/// Based on https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/
-
-
 
 <%*
 const dv = app.plugins.plugins["dataview"].api;
@@ -13,7 +10,9 @@ const fileAndQuery = new Map([
   ],
   ["+ Acronyms", 'TABLE WITHOUT ID file.link AS "Acronyms: ", meaning AS "Meaning" FROM #acronym AND !"Templates" SORT file.link ASC'],
   ["+ Glossary", 'TABLE WITHOUT ID file.link AS "", definition AS "Definition", source AS "Source" FROM #glossary AND !"Templates" SORT file.link'],
-  ["+ Maneuvers", 'LIST FROM #maneuver AND !"Templates"']
+  ["+ Maneuvers", 'LIST FROM #maneuver AND !"Templates"'],
+  ["+ Quotes", 'TABLE WITHOUT ID "[["+file.path+"|...]]" AS "", quote AS "Quote", author AS "Author" FROM #quote AND !"Templates" SORT file.mtime DESC'],
+  ["+ Sources", 'TABLE WITHOUT ID file.link AS "Sources: ", choice(Description = [[Source Template]].Description, regexreplace(substring(Link, 1), "\].*", ""), Description) as "Description" FROM #source AND !"Templates" WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") SORT regexreplace(file.name, "Ch(\d)$", "Ch0$1")'],
 ]);
 
 await fileAndQuery.forEach(async (query, filename) => {

@@ -38,5 +38,15 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:Templates/Dataview to Obsidian Publish/Update Publish Files.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

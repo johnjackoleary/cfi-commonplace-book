@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Media/Dataview to Obsidian Publish",
+  "templates_folder": "Templates/Dataview to Obsidian Publish",
   "templates_pairs": [
     [
       "",
@@ -22,7 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Media/Dataview to Obsidian Publish/Update Publish Files.md"
+    "Templates/Dataview to Obsidian Publish/Update Publish Files.md"
   ],
   "startup_templates": [
     ""
