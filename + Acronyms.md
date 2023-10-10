@@ -4,3 +4,6 @@ FROM #acronym AND !"Templates"
 SORT file.link ASC
 ```
 
+```query
+tag:#acronym -path:Template
+```

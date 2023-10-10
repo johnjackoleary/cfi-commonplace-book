@@ -23,6 +23,7 @@ All plugins are meant to be optional, although Dataview is heavily used.
 	- #todo :: Figure out better Git approach if allowing folks to contribute
 - [Text Format](https://github.com/Benature/obsidian-text-format) convenience for  formatting with keyboard shortcuts.
 - (Disabled) [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) for creating flashcards to study. This was useful for checkride prep, and could be revisited. Only disabled because it was no longer used.
+- [Templater](https://silentvoid13.github.io/Templater/) for Obsidian Publish to work with Dataview (see article [here](https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/))
 
 
 ## Odds and Ends Todo
