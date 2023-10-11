@@ -5,8 +5,8 @@ const exportCanvasToImage = app.commands.commands["canvas:export-as-image"].call
 
 const fileAndQuery = new Map([
   [
-    "Filed/+ Recently Updated",
-    'LIST rows.file.link WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") AND file.folder = "Filed" GROUP BY (file.mday) AS Modified SORT Modified DESC LIMIT 10',
+    "+ Recently Updated",
+    'LIST rows.file.link WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") AND file.folder != "Templates" AND file.folder != "Inbox" GROUP BY (file.mday) AS Modified SORT Modified DESC LIMIT 10',
   ],
   ["+ Acronyms", 'TABLE WITHOUT ID file.link AS "Acronyms: ", meaning AS "Meaning" FROM #acronym AND !"Templates" SORT file.link ASC'],
   ["+ Glossary", 'TABLE WITHOUT ID file.link AS "", definition AS "Definition", source AS "Source" FROM #glossary AND !"Templates" SORT file.link'],
