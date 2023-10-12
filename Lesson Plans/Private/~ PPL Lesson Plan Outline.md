@@ -4,7 +4,7 @@ tags: ppl
 based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 ---
 ### Private Pilot Airplane Single-Engine, Lesson Plan Outline
-> [!warning] Note
+> [!note]
 > “Lessons” will often consist of multiple ground and/or flight sessions.
 
 #### Stage 1: Pre-Solo
