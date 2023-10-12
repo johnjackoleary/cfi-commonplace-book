@@ -19,11 +19,11 @@ tags: ppl
 
 ----
 
-![[3. Maneuvering During Slow Flight]]
+![[6. Maneuvering During Slow Flight]]
 
 ----
 
-![[4. Power-On and Power-Off Stalls]]
+![[8. Power-On and Power-Off Stalls]]
 
 ----
 
@@ -35,31 +35,31 @@ tags: ppl
 
 ----
 
-![[6. Normal and Crosswind Takeoffs and Climbs]]
+![[4. Normal and Crosswind Takeoffs and Climbs]]
 
 ----
 
-![[7. Ground Reference Maneuvers]]
+![[9. Ground Reference Maneuvers]]
 
 ----
 
-![[8. Flying the Traffic Pattern and Go-Arounds]]
+![[10. Flying the Traffic Pattern and Go-Arounds]]
 
 ----
 
-![[9. Normal and Crosswind Approaches and Landings]]
+![[11. Normal and Crosswind Approaches and Landings]]
 
 ----
 
-![[10. Spin Awareness and Spin Recovery]]
+![[12. Spin Awareness and Spin Recovery]]
 
 ----
 
-![[11. Forward Slips to Landing]]
+![[13. Forward Slips to Landing]]
 
 ----
 
-![[12. Navigation Charts and National Airspace System]]
+![[7. Navigation Charts and National Airspace System]]
 
 ----
 

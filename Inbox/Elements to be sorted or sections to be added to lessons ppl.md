@@ -130,7 +130,7 @@ XII. Postflight Procedures
 
 
 
-## Pre-solo maneuvers from [[FAR 61.87 Student Pilot Solo Reqs]]
+## Pre-solo maneuvers from [[FAR 61.87 Student Solo Reqs]]
 A student pilot who is receiving training for a single-engine airplane rating or privileges must receive and log flight training for the following maneuvers and procedures: 
 
 (1) Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems; 

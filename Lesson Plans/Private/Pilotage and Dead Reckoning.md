@@ -9,7 +9,7 @@ Develop knowledge and skills associated with pilotage navigation by reference to
 PHAK Ch 16 (Navigation)
 
 ### Builds On
-[[12. Navigation Charts and National Airspace System]]
+[[7. Navigation Charts and National Airspace System]]
 
 ### Schedule
 Ground 1.0, Flight – multiple during dual cross-country flights

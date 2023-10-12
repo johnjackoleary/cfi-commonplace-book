@@ -11,8 +11,8 @@ Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and
 - [[AFH Ch8]]
 
 ### Builds On
-- [[6. Normal and Crosswind Takeoffs and Climbs]]
-- [[9. Normal and Crosswind Approaches and Landings]]
+- [[4. Normal and Crosswind Takeoffs and Climbs]]
+- [[11. Normal and Crosswind Approaches and Landings]]
 
 ### Schedule
 Ground 1.0; Flight – multiple flights, with frequent practice
