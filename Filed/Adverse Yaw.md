@@ -4,4 +4,4 @@
 
 ![[Adverse Yaw.jpeg]]
 
-#glossary #airtreknorthhw 
+#glossary  

@@ -61,4 +61,4 @@ A major goal of [[Directional Stability]] is to minimize yawing at keep the plan
 
 ***Source***: [[PHAK Ch5]]
 
-#airtreknorthhw 
+ 

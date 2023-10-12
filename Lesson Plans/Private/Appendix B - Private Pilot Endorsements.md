@@ -28,6 +28,6 @@ Must also be endorsed for solo flight!
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
 
-#airtreknorthhw
+
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

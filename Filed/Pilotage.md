@@ -1,5 +1,5 @@
-***Definition***    :: Land Mark to Land Mark Flying
-***Source***         :: [[Air Trek North FIA Flashcards]]
+***Definition***    :: Landmark to Landmark Flying
+***Source***         :: [[Air Trek North FIA Flashcards]] #fia
 
 #glossary
 

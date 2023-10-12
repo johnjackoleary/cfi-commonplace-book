@@ -4,4 +4,3 @@ The airplane stalls from the back of the wing to the front.
 
 ***Source***: [[AFH Ch1]], [[Air Trek North CFI Homework]]
 
-#airtreknorthhw

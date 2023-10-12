@@ -7,9 +7,9 @@
 
 ## Are You A...
 ### Student Interested in a Syllabus
-- [[~ PPL Lesson Plan Outline]]
-- [[~ CPL Lesson Plan Outline]]
-- #todo:: Complete and add Instrument Rating syllabus
+- Private Pilot: [[~ PPL Lesson Plan Outline]]
+- Commercial Pilot: [[~ CPL Lesson Plan Outline]]
+- Instrument Rating: [[~ IRA Lesson Plan Outline]]
 
 ### Instructor Interested in Resources
 - [[+ Sources]]

@@ -4,4 +4,3 @@ I certify that \[First name, MI, Last name\], \[grade of pilot certificate\], \[
 
 ***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
 
-#airtreknorthhw

@@ -1,5 +1,3 @@
-Characteristics of an Effective Assessment
-?
 1. Flexible
 2. Acceptable to Learner
 3. Specific
@@ -8,9 +6,8 @@ Characteristics of an Effective Assessment
 6. Objective
 7. Constructive
 8. Organized
-<!--SR:!2022-10-04,1,230-->
 
 
-Source: [[Air Trek North FOI Flashcards]]
 
-#airtreknorth-flashcards/foi
+Source: [[Air Trek North FOI Flashcards]] #foi
+

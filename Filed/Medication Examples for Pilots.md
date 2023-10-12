@@ -15,4 +15,3 @@ Some examples:
 ***Source***: [[Aviation Medication Database]]
 ***Additional Information***: https://www.faa.gov/licenses_certificates/medical_certification/media/OTCMedicationsforPilots.pdf
 
-#airtreknorthhw

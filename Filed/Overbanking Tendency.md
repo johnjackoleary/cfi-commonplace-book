@@ -2,4 +2,4 @@
 ***Remedies:*** Aileron opposite the turn may be required to hold a constant bank.
 ***Source***         :: [[AFH Ch3]]
 
-#glossary #airtreknorthhw 
+#glossary  
