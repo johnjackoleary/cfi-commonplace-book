@@ -2,9 +2,9 @@
 
 - October 11, 2023: 
     - [[Filed/CFI.md|CFI]]
-    - [[12. Spin Awareness and Spin Recovery|12. Spin Awareness and Spin Recovery]]
+    - [[10. Spin Awareness and Spin Recovery|10. Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/1. Aircraft Preflight, Taxiing, and Post-flight Procedures.md|1. Aircraft Preflight, Taxiing, and Post-flight Procedures]]
-    - [[Lesson Plans/Private/15. Emergency Operations.md|15. Emergency Operations]]
+    - [[24. Emergency Operations|24. Emergency Operations]]
     - [[6. Maneuvering During Slow Flight|6. Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/16. Pre-Solo Knowledge Test and Review.md|16. Pre-Solo Knowledge Test and Review]]
     - [[8. Power-On and Power-Off Stalls|8. Power-On and Power-Off Stalls]]
@@ -32,8 +32,8 @@
     - [[Filed/Weight.md|Weight]]
     - [[Filed/White Over White, Red Over White, Red Over Red.md|White Over White, Red Over White, Red Over Red]]
     - [[Lesson Plans/Private/2. Four Fundamentals of Flight.md|2. Four Fundamentals of Flight]]
-    - [[Lesson Plans/Private/Performance Maneuvers - Steep Turns.md|Performance Maneuvers - Steep Turns]]
-    - [[Lesson Plans/Private/Short- and Soft-Field Takeoffs and Landings.md|Short- and Soft-Field Takeoffs and Landings]]
+    - [[21. Performance Maneuvers - Steep Turns|21. Performance Maneuvers - Steep Turns]]
+    - [[15. Short- and Soft-Field Takeoffs and Landings|15. Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/~ Complete PPL Syllabus.md|~ Complete PPL Syllabus]]
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
     - [[Media/Aircraft/C152/C152 GAIT and Datasheet.md|C152 GAIT and Datasheet]]
@@ -63,7 +63,7 @@
     - [[UnsortedMedia/~ From Lou Dietz.md|~ From Lou Dietz]]
 
 - August 05, 2023: 
-    - [[Lesson Plans/Private/Night Operations and Night Cross Country.md|Night Operations and Night Cross Country]]
+    - [[27. Night Operations and Night Cross Country|27. Night Operations and Night Cross Country]]
 
 - July 27, 2023: 
     - [[Filed/Maneuver Set-Up.md|Maneuver Set-Up]]

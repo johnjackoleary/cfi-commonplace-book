@@ -31,7 +31,7 @@ tags: ppl
 
 ----
 
-![[Performance Maneuvers - Steep Turns]]
+![[21. Performance Maneuvers - Steep Turns]]
 
 ----
 
@@ -43,15 +43,15 @@ tags: ppl
 
 ----
 
-![[10. Flying the Traffic Pattern and Go-Arounds]]
+![[11. Flying the Traffic Pattern and Go-Arounds]]
 
 ----
 
-![[11. Normal and Crosswind Approaches and Landings]]
+![[12. Normal and Crosswind Approaches and Landings]]
 
 ----
 
-![[12. Spin Awareness and Spin Recovery]]
+![[10. Spin Awareness and Spin Recovery]]
 
 ----
 
@@ -63,7 +63,7 @@ tags: ppl
 
 ----
 
-![[13. Non-Towered Airport Operations]]
+![[18. Non-Towered Airport Operations]]
 
 ----
 
@@ -71,7 +71,7 @@ tags: ppl
 
 ----
 
-![[15. Emergency Operations]]
+![[24. Emergency Operations]]
 
 ---
 
@@ -81,44 +81,44 @@ tags: ppl
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 # Stage II: Navigation and Cross-Country Flight
-![[Navigation Systems, including Radar Services]]
+![[17. Navigation Systems, including Radar Services]]
 
 ----
 
-![[Aircraft Performance including Weight and Balance]]
+![[19. Aircraft Performance including Weight and Balance]]
 
 ----
 
-![[Weather Information and Cross-Country Flight Planning]]
+![[20. Weather Information and Cross-Country Flight Planning]]
 
 ----
 
-![[Pilotage and Dead Reckoning]]
+![[22. Pilotage and Dead Reckoning]]
 
 ----
 
-![[Emergency Flight by Reference to Instruments - Four Fundamentals]]
+![[23. Emergency Flight by Reference to Instruments - Four Fundamentals]]
 
 ----
 
-![[Lost Procedures, and Diversion to Alternates]]
+![[25. Lost Procedures, and Diversion to Alternates]]
 
 
 ----
 
-![[Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
+![[26. Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
 
 ----
 
 (Cross Country Phase Check and Solo Cross Countries)
 
 # Stage III: Night Flying and Checkride Preparation
-![[Night Operations and Night Cross Country]]
+![[27. Night Operations and Night Cross Country]]
 
 
 ----
 
-![[Lesson Plans/Private/Review and Checkride Preparation]]
+![[28. Review and Checkride Preparation]]
 
 ----
 
