@@ -32,18 +32,18 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 [[17. Navigation Systems, including Radar Services]]
 [[18. Non-Towered Airport Operations]]
 [[19. Aircraft Performance including Weight and Balance]]
-[[Suggestions for XC Destinations]]
+~ [[Suggestions for XC Destinations]]
 [[20. Weather Information and Cross-Country Flight Planning]]
 [[21. Performance Maneuvers - Steep Turns]]
 [[22. Pilotage and Dead Reckoning]]
 [[23. Emergency Flight by Reference to Instruments - Four Fundamentals]]
 [[24. Emergency Operations]]
 [[25. Lost Procedures, and Diversion to Alternates]]
-[[26. Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
 
 (Cross Country Phase Check and Solo Cross Countries)
 
 #### Stage III: Night Flying and Checkride Preparation
+[[26. Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
 [[27. Night Operations and Night Cross Country]]
 [[28. Review and Checkride Preparation]]
 
