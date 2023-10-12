@@ -18,8 +18,7 @@
 ### Aviation Fan Interested in Growing Your Knowledge
 - [[+ Maneuvers]]
 - [[+ Concepts]]
-- Obsidian Graph View
-	- #todo :: Is there a way to link to the graph view? Finding the button is also fine but not as clean.
+- Check out the Obsidian Graph View
 
 ### Anyone Else Looking to Contribute
 - Checkout [[~ How You Can Help Improve This Content]] to get started.

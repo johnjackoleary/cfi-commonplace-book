@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 12, 2023: 
+    - [[~ Start Here.md|~ Start Here]]
+
 - October 11, 2023: 
     - [[Filed/CFI.md|CFI]]
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
@@ -36,7 +39,6 @@
     - [[README.md|README]]
     - [[Templates/Dataview to Obsidian Publish/Update Publish Files.md|Update Publish Files]]
     - [[~ How You Can Help Improve This Content.md|~ How You Can Help Improve This Content]]
-    - [[~ Start Here.md|~ Start Here]]
     - [[Todo.md|Todo]]
 
 - October 10, 2023: 
@@ -91,9 +93,4 @@
 
 - May 15, 2023: 
     - [[Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md|Appendix B - Private Pilot Endorsements]]
-
-- May 08, 2023: 
-    - [[Filed/Maneuver - Power-On Stall.md|Maneuver - Power-On Stall]]
-    - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
-    - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
 
