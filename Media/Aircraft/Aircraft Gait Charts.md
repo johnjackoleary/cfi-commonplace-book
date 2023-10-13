@@ -2,6 +2,7 @@
 > Aggregating here since Obsidian Publish does show PDFs otherwise.
 
 [[7GCAA GAIT.pdf]]
+[[C152 GAIT.pdf]]
 [[C172N GAIT.pdf]]
 [[C172S GAIT.pdf]]
 [[PA28-181 GAIT KTS.pdf]]

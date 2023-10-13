@@ -4,6 +4,7 @@ has-carb-heat: true
 Vs:
 Vs0:
 cool-procedure:
+soft-takeoff-flaps :: 25°
 engine-fire-speed: TBD
 power-on-stall-rpm: 2400 RPM
 maneuver-rpm: 2100rpm

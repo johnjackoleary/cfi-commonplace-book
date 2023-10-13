@@ -28,6 +28,7 @@ speed-units: kts
 | 🛬 Final                     | (pattern-final-flaps::30°) | (pattern-final-rpm::as req)  |            (Vref::60)            |
 | Short                        | (pattern-short-flaps::30°) | (pattern-short-rpm::as req)  |           (Vshort::54)           |
 
+
 | Topic         | Details                                                                                                       |
 | ------------- |:------------------------------------------------------------------------------------------------------------- |
 | Leaning       | Lean to RPM drop when above 3000'                                                                           | 
