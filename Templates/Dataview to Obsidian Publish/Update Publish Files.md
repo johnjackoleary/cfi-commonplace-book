@@ -9,6 +9,7 @@ const fileAndQuery = new Map([
     'LIST rows.file.link WHERE !contains(file.name, "+ ") AND file.folder != "Templates" AND file.folder != "Inbox" GROUP BY (file.mday) AS Modified SORT Modified DESC LIMIT 10',
   ],
   ["+ Acronyms", 'TABLE WITHOUT ID file.link AS "Acronyms: ", meaning AS "Meaning" FROM #acronym AND !"Templates" SORT file.link ASC'],
+  ["+ Concepts", 'List FROM #concept AND "Filed" SORT file.name'],
   ["+ Glossary", 'TABLE WITHOUT ID file.link AS "", definition AS "Definition", source AS "Source" FROM #glossary AND !"Templates" SORT file.link'],
   ["+ Maneuvers", 'LIST FROM #maneuver AND !"Templates"'],
   ["+ Quotes", 'TABLE WITHOUT ID "[["+file.path+"|...]]" AS "", quote AS "Quote", author AS "Author" FROM #quote AND !"Templates" SORT file.mtime DESC'],

@@ -52,3 +52,4 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 #### Appendices
 [[Appendix A - Part 61 Private Pilot Training Requirements]]
 [[Appendix B - Private Pilot Endorsements]]
+[[Appendix C - When to Acquire Various Equipment]]

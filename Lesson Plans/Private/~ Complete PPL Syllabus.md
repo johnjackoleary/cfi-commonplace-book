@@ -19,19 +19,7 @@ tags: ppl
 
 ----
 
-![[6. Maneuvering During Slow Flight]]
-
-----
-
-![[8. Power-On and Power-Off Stalls]]
-
-----
-
-![[5. Towered Airport Operations]]
-
-----
-
-![[21. Performance Maneuvers - Steep Turns]]
+![[3. Weather Briefs and Preflight]]
 
 ----
 
@@ -39,7 +27,27 @@ tags: ppl
 
 ----
 
+![[5. Towered Airport Operations]]
+
+----
+
+![[6. Maneuvering During Slow Flight]]
+
+----
+
+![[7. Navigation Charts and National Airspace System]]
+
+----
+
+![[8. Power-On and Power-Off Stalls]]
+
+----
+
 ![[9. Ground Reference Maneuvers]]
+
+----
+
+![[10. Spin Awareness and Spin Recovery]]
 
 ----
 
@@ -51,19 +59,7 @@ tags: ppl
 
 ----
 
-![[10. Spin Awareness and Spin Recovery]]
-
-----
-
 ![[13. Forward Slips to Landing]]
-
-----
-
-![[7. Navigation Charts and National Airspace System]]
-
-----
-
-![[18. Non-Towered Airport Operations]]
 
 ----
 
@@ -71,7 +67,7 @@ tags: ppl
 
 ----
 
-![[24. Emergency Operations]]
+![[15. Short- and Soft-Field Takeoffs and Landings]]
 
 ---
 
@@ -85,11 +81,19 @@ tags: ppl
 
 ----
 
+![[18. Non-Towered Airport Operations]]
+
+----
+
 ![[19. Aircraft Performance including Weight and Balance]]
 
 ----
 
 ![[20. Weather Information and Cross-Country Flight Planning]]
+
+----
+
+![[21. Performance Maneuvers - Steep Turns]]
 
 ----
 
@@ -101,8 +105,11 @@ tags: ppl
 
 ----
 
-![[25. Lost Procedures, and Diversion to Alternates]]
+![[24. Emergency Operations]]
 
+----
+
+![[25. Lost Procedures, and Diversion to Alternates]]
 
 ----
 
@@ -133,3 +140,7 @@ tags: ppl
 ----
 
 ![[Appendix B - Private Pilot Endorsements]]
+
+----
+
+![[Appendix C - When to Acquire Various Equipment]]

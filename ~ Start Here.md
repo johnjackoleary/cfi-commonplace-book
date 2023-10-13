@@ -23,4 +23,4 @@
 ### Anyone Else Looking to Contribute
 - Checkout [[~ How You Can Help Improve This Content]] to get started.
 - There's always something interesting to tackle in [[Todo]]
-- And thank you!
+- Thank you!
