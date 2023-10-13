@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 13, 2023: 
+    - [[Lesson Plans/Private/15. Short- and Soft-Field Takeoffs and Landings.md|15. Short- and Soft-Field Takeoffs and Landings]]
+
 - October 12, 2023: 
     - [[Filed/4 Types of MEL's.md|4 Types of MEL's]]
     - [[Filed/90%-10% Outside vs Inside for Integrated Flight Instruction.md|90%-10% Outside vs Inside for Integrated Flight Instruction]]
@@ -114,7 +117,6 @@
     - [[Lesson Plans/Private/12. Normal and Crosswind Approaches and Landings.md|12. Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/13. Forward Slips to Landing.md|13. Forward Slips to Landing]]
     - [[Lesson Plans/Private/14. Emergency Landings.md|14. Emergency Landings]]
-    - [[Lesson Plans/Private/15. Short- and Soft-Field Takeoffs and Landings.md|15. Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/16. Pre-Solo Knowledge Test and Review.md|16. Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/17. Navigation Systems, including Radar Services.md|17. Navigation Systems, including Radar Services]]
     - [[Lesson Plans/Private/18. Non-Towered Airport Operations.md|18. Non-Towered Airport Operations]]
@@ -184,7 +186,4 @@
     - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
     - [[Filed/Maneuver - Power-On Stall.md|Maneuver - Power-On Stall]]
     - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
-
-- April 23, 2023: 
-    - [[Filed/C172 Land-O-Matic Ad.md|C172 Land-O-Matic Ad]]
 
