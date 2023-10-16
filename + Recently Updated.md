@@ -128,7 +128,7 @@
     - [[Lesson Plans/Private/25. Lost Procedures, and Diversion to Alternates.md|25. Lost Procedures, and Diversion to Alternates]]
     - [[Lesson Plans/Private/26. Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|26. Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/27. Night Operations and Night Cross Country.md|27. Night Operations and Night Cross Country]]
-    - [[Lesson Plans/Private/3. Weather Briefs and Preflight.md|3. Weather Briefs and Preflight]]
+    - [[3. Weather Briefs and Preflight Planning|3. Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/4. Normal and Crosswind Takeoffs and Climbs.md|4. Normal and Crosswind Takeoffs and Climbs]]
     - [[Lesson Plans/Private/5. Towered Airport Operations.md|5. Towered Airport Operations]]
     - [[Lesson Plans/Private/6. Maneuvering During Slow Flight.md|6. Maneuvering During Slow Flight]]

@@ -19,7 +19,7 @@ tags: ppl
 
 ----
 
-![[3. Weather Briefs and Preflight]]
+![[3. Weather Briefs and Preflight Planning]]
 
 ----
 

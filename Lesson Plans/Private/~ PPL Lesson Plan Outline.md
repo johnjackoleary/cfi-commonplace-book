@@ -11,7 +11,7 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 [[0. Optional Introductory or Demo Flight]]
 [[1. Aircraft Preflight, Taxiing, and Post-flight Procedures]]
 [[2. Four Fundamentals of Flight]]
-[[3. Weather Briefs and Preflight]]
+[[3. Weather Briefs and Preflight Planning]]
 [[4. Normal and Crosswind Takeoffs and Climbs]]
 [[5. Towered Airport Operations]]
 [[6. Maneuvering During Slow Flight]]

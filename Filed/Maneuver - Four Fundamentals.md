@@ -21,6 +21,8 @@ config: "[[Maneuvers Config]]"
 | Initiate Descent | | Power &#x21D3; | wait for natural Pitch &#x21D3; | wait until stable | tune, then trim |  
 | Level Off Descent | lead by 10% of VSI | Power &#x21BA; | wait for natural Pitch &#x21D2; | wait until cruise speed | tune, then trim |
 
+## Details
+![[Reduced Power Pitches Down.jpeg]]
 
 # Instruments
 #todo :: Add instruments for control-performance method or primary-supporting method

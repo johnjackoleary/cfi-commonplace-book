@@ -1,7 +1,6 @@
 {
   "cssTheme": "",
   "enabledCssSnippets": [
-    "clean-embeds-all",
     "dataview-inline-fields"
   ],
   "baseFontSize": 18,
