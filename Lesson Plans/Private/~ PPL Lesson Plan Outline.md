@@ -53,3 +53,7 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 [[Appendix A - Part 61 Private Pilot Training Requirements]]
 [[Appendix B - Private Pilot Endorsements]]
 [[Appendix C - When to Acquire Various Equipment]]
+
+### Blocks of Learning
+![[~ PPL Blocks of Learning.png]]
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Oct 15, 2023.

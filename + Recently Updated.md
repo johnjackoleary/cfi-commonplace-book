@@ -1,5 +1,9 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 15, 2023: 
+    - [[Lesson Plans/Private/Appendix A - Part 61 Private Pilot Training Requirements.md|Appendix A - Part 61 Private Pilot Training Requirements]]
+    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
+
 - October 13, 2023: 
     - [[Lesson Plans/Private/15. Short- and Soft-Field Takeoffs and Landings.md|15. Short- and Soft-Field Takeoffs and Landings]]
 
@@ -14,8 +18,8 @@
     - [[Filed/Air Trek North FOI Flashcards.md|Air Trek North FOI Flashcards]]
     - [[Filed/Aircraft Documents to be Legal.md|Aircraft Documents to be Legal]]
     - [[Filed/Aircraft Inspections to be Legal.md|Aircraft Inspections to be Legal]]
-    - [[Filed/Appendix C - When to Acquire Various Equipment.md|Appendix C - When to Acquire Various Equipment]]
     - [[Filed/Aviation Instructors Responsibilty.md|Aviation Instructors Responsibilty]]
+    - [[Filed/Appendix C - When to Acquire Various Equipment.md|Appendix C - When to Acquire Various Equipment]]
     - [[Filed/Barriers to Effective Communication.md|Barriers to Effective Communication]]
     - [[Filed/Basic Elements of Communication.md|Basic Elements of Communication]]
     - [[Filed/Carbon Monoxide Poisoning.md|Carbon Monoxide Poisoning]]
@@ -44,8 +48,8 @@
     - [[Filed/Guided Discussion Method.md|Guided Discussion Method]]
     - [[Filed/How and Why Carburetor Ice Forms, and What Is Max Temp According to FAA.md|How and Why Carburetor Ice Forms, and What Is Max Temp According to FAA]]
     - [[Filed/How to Transfer Learning to Long-Term Memory.md|How to Transfer Learning to Long-Term Memory]]
-    - [[Filed/Hypoxia Symptoms (Lack of Oxygen).md|Hypoxia Symptoms (Lack of Oxygen)]]
     - [[Filed/Human Needs.md|Human Needs]]
+    - [[Filed/Hypoxia Symptoms (Lack of Oxygen).md|Hypoxia Symptoms (Lack of Oxygen)]]
     - [[Filed/Instructional Knowledge.md|Instructional Knowledge]]
     - [[Filed/Learning New Skills.md|Learning New Skills]]
     - [[Filed/Learning Theory.md|Learning Theory]]
@@ -82,28 +86,27 @@
     - [[Filed/VFR Weather Minimums List Memory Aid.md|VFR Weather Minimums List Memory Aid]]
     - [[Filed/Van Nuys Airport.md|Van Nuys Airport]]
     - [[Filed/Vestibular and Visual Illusions.md|Vestibular and Visual Illusions]]
-    - [[Filed/What Are the Hazardous Attitudes and Antidotes.md|What Are the Hazardous Attitudes and Antidotes]]
     - [[Filed/What is learning.md|What is learning]]
+    - [[Filed/What Are the Hazardous Attitudes and Antidotes.md|What Are the Hazardous Attitudes and Antidotes]]
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
     - [[Lesson Plans/Commercial/Appendix B - Commercial Pilot Endorsements.md|Appendix B - Commercial Pilot Endorsements]]
+    - [[Lesson Plans/Complex/Complex Endorsement.md|Complex Endorsement]]
     - [[Lesson Plans/Flight Instructor/CFI Endorsements.md|CFI Endorsements]]
     - [[Lesson Plans/Flight Review/Flight Review Endorsement.md|Flight Review Endorsement]]
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
     - [[Lesson Plans/Instrument/~ IRA Lesson Plan Outline.md|~ IRA Lesson Plan Outline]]
-    - [[Lesson Plans/Complex/Complex Endorsement.md|Complex Endorsement]]
     - [[Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md|10. Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md|Appendix B - Private Pilot Endorsements]]
     - [[Lesson Plans/Private/~ Complete PPL Syllabus.md|~ Complete PPL Syllabus]]
-    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
     - [[Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md|Pre-Solo Endorsements]]
     - [[Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md|Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
     - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
     - [[Lesson Plans/Student Endorsements/Takeoffs and Landings At Airport Within 25 NM Endorsement.md|Takeoffs and Landings At Airport Within 25 NM Endorsement]]
     - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
-    - [[Media/Aircraft/C152/C152 GAIT and Datasheet.md|C152 GAIT and Datasheet]]
     - [[Media/Aircraft/MSFS/README.md|README]]
     - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait and Datasheet.md|PA28-181 MPH Gait and Datasheet]]
+    - [[Media/Aircraft/C152/C152 GAIT and Datasheet.md|C152 GAIT and Datasheet]]
     - [[Templates/Dataview to Obsidian Publish/Update Publish Files.md|Update Publish Files]]
     - [[~ Start Here.md|~ Start Here]]
 
@@ -130,7 +133,6 @@
     - [[Lesson Plans/Private/5. Towered Airport Operations.md|5. Towered Airport Operations]]
     - [[Lesson Plans/Private/6. Maneuvering During Slow Flight.md|6. Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/8. Power-On and Power-Off Stalls.md|8. Power-On and Power-Off Stalls]]
-    - [[Lesson Plans/Private/Appendix A - Part 61 Private Pilot Training Requirements.md|Appendix A - Part 61 Private Pilot Training Requirements]]
     - [[Lesson Plans/Private/Suggestions for XC Destinations.md|Suggestions for XC Destinations]]
     - [[Lesson Plans/Spins/Spin Lesson Plan.md|Spin Lesson Plan]]
     - [[Media/README.md|README]]
@@ -181,9 +183,4 @@
 
 - May 30, 2023: 
     - [[Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.md|C182P with STC GAIT and Datasheet]]
-
-- May 08, 2023: 
-    - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
-    - [[Filed/Maneuver - Power-On Stall.md|Maneuver - Power-On Stall]]
-    - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
 

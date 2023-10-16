@@ -40,7 +40,7 @@ A student pilot who is receiving training for cross-country flight in a single-e
 
 
 **Private Pilot Aeronautical Experience (prior to checkride)**
-From [[FAR 61.109]]:
+From [[FAR 61.109 Private Pilot Reqs]]:
 - [ ] 40 hours of flight time (any CC) (\*) 61.109(a)
 - [ ] 20 hours of flight training (dual) (any CC) (\*) 61.109(a)
 - [ ] 10 hours of solo flight time (any CC) (\*) 61.109(a)
