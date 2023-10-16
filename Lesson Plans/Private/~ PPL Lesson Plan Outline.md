@@ -32,7 +32,6 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 [[17. Navigation Systems, including Radar Services]]
 [[18. Non-Towered Airport Operations]]
 [[19. Aircraft Performance including Weight and Balance]]
-~ [[Suggestions for XC Destinations]]
 [[20. Weather Information and Cross-Country Flight Planning]]
 [[21. Performance Maneuvers - Steep Turns]]
 [[22. Pilotage and Dead Reckoning]]
@@ -53,6 +52,9 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 [[Appendix A - Part 61 Private Pilot Training Requirements]]
 [[Appendix B - Private Pilot Endorsements]]
 [[Appendix C - When to Acquire Various Equipment]]
+[[Appendix D - Suggestions for Solo Flight Practice]]
+[[Appendix E - Suggestions for XC Destinations]]
+
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
