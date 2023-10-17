@@ -25,3 +25,4 @@ XC flights must be >50nm. We'll aim for >51nm.
 | L53         | 56          | Short Field                                                                                                                          |
 | 1C9         | ~~50~~      | Grass Runway (Note: distance too short for XC logging)                                                                               |
 
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -3,3 +3,6 @@
 
 Nearing Checkride:
 - Practice everything from the [[All Maneuvers Quick Reference]], making sure to understand and achieve [[ACS]] standards.
+
+
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

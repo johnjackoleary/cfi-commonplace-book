@@ -18,3 +18,5 @@ Before Starting XC:
 Before Night Flights:
 - Headlamp with red light
 - Backup flashlight (preferably red)
+
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
