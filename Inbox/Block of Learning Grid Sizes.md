@@ -7,4 +7,4 @@ somethingx440 for labels
 
 160 between columns
 
-20 between edge of groups
+20 between side edge of groups, 40 between top edge of groups
