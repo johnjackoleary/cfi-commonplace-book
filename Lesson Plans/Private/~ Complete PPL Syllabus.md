@@ -43,57 +43,57 @@ tags: ppl
 
 ----
 
-![[9. Ground Reference Maneuvers]]
+![[10. Ground Reference Maneuvers]]
 
 ----
 
-![[10. Spin Awareness and Spin Recovery]]
+![[11. Spin Awareness and Spin Recovery]]
 
 ----
 
-![[11. Flying the Traffic Pattern and Go-Arounds]]
+![[12. Flying the Traffic Pattern and Go-Arounds]]
 
 ----
 
-![[12. Normal and Crosswind Approaches and Landings]]
+![[13. Normal and Crosswind Approaches and Landings]]
 
 ----
 
-![[13. Forward Slips to Landing]]
+![[14. Forward Slips to Landing]]
 
 ----
 
-![[14. Emergency Landings]]
+![[15. Emergency Landings]]
 
 ----
 
-![[15. Short- and Soft-Field Takeoffs and Landings]]
+![[16. Short- and Soft-Field Takeoffs and Landings]]
 
 ---
 
-![[16. Pre-Solo Knowledge Test and Review]]
+![[17. Pre-Solo Knowledge Test and Review]]
 
 
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 # Stage II: Navigation and Cross-Country Flight
-![[17. Navigation Systems, including Radar Services]]
+![[18. Navigation Systems, including Radar Services]]
 
 ----
 
-![[18. Non-Towered Airport Operations]]
+![[19. Non-Towered Airport Operations]]
 
 ----
 
-![[19. Aircraft Performance including Weight and Balance]]
+![[20. Aircraft Performance including Weight and Balance]]
 
 ----
 
-![[20. Weather Information and Cross-Country Flight Planning]]
+![[21. Weather Information and Cross-Country Flight Planning]]
 
 ----
 
-![[21. Performance Maneuvers - Steep Turns]]
+![[9. Performance Maneuvers - Steep Turns]]
 
 ----
 

@@ -3,12 +3,12 @@
 - October 16, 2023: 
     - [[Lesson Plans/Private/0. Optional Introductory or Demo Flight.md|0. Optional Introductory or Demo Flight]]
     - [[Lesson Plans/Private/1. Aircraft Preflight, Taxiing, and Post-flight Procedures.md|1. Aircraft Preflight, Taxiing, and Post-flight Procedures]]
-    - [[Lesson Plans/Private/16. Pre-Solo Knowledge Test and Review.md|16. Pre-Solo Knowledge Test and Review]]
-    - [[Lesson Plans/Private/14. Emergency Landings.md|14. Emergency Landings]]
-    - [[Lesson Plans/Private/17. Navigation Systems, including Radar Services.md|17. Navigation Systems, including Radar Services]]
-    - [[Lesson Plans/Private/19. Aircraft Performance including Weight and Balance.md|19. Aircraft Performance including Weight and Balance]]
+    - [[17. Pre-Solo Knowledge Test and Review|17. Pre-Solo Knowledge Test and Review]]
+    - [[15. Emergency Landings|15. Emergency Landings]]
+    - [[18. Navigation Systems, including Radar Services|18. Navigation Systems, including Radar Services]]
+    - [[20. Aircraft Performance including Weight and Balance|20. Aircraft Performance including Weight and Balance]]
     - [[Lesson Plans/Private/2. Four Fundamentals of Flight.md|2. Four Fundamentals of Flight]]
-    - [[Lesson Plans/Private/20. Weather Information and Cross-Country Flight Planning.md|20. Weather Information and Cross-Country Flight Planning]]
+    - [[21. Weather Information and Cross-Country Flight Planning|21. Weather Information and Cross-Country Flight Planning]]
     - [[Lesson Plans/Private/28. Review and Checkride Preparation.md|28. Review and Checkride Preparation]]
     - [[Lesson Plans/Private/4. Normal and Crosswind Takeoffs and Climbs.md|4. Normal and Crosswind Takeoffs and Climbs]]
     - [[Lesson Plans/Private/5. Towered Airport Operations.md|5. Towered Airport Operations]]
@@ -34,7 +34,7 @@
     - [[Lesson Plans/Private/Appendix A - Part 61 Private Pilot Training Requirements.md|Appendix A - Part 61 Private Pilot Training Requirements]]
 
 - October 13, 2023: 
-    - [[Lesson Plans/Private/15. Short- and Soft-Field Takeoffs and Landings.md|15. Short- and Soft-Field Takeoffs and Landings]]
+    - [[16. Short- and Soft-Field Takeoffs and Landings|16. Short- and Soft-Field Takeoffs and Landings]]
 
 - October 12, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
@@ -45,7 +45,7 @@
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
     - [[Lesson Plans/Instrument/~ IRA Lesson Plan Outline.md|~ IRA Lesson Plan Outline]]
-    - [[Lesson Plans/Private/10. Spin Awareness and Spin Recovery.md|10. Spin Awareness and Spin Recovery]]
+    - [[11. Spin Awareness and Spin Recovery|11. Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md|Appendix B - Private Pilot Endorsements]]
     - [[Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md|Pre-Solo Endorsements]]
     - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
@@ -138,10 +138,10 @@
 - October 11, 2023: 
     - [[Lesson Plans/Commercial/Eights on Pylons.md|Eights on Pylons]]
     - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
-    - [[Lesson Plans/Private/11. Flying the Traffic Pattern and Go-Arounds.md|11. Flying the Traffic Pattern and Go-Arounds]]
-    - [[Lesson Plans/Private/12. Normal and Crosswind Approaches and Landings.md|12. Normal and Crosswind Approaches and Landings]]
-    - [[Lesson Plans/Private/13. Forward Slips to Landing.md|13. Forward Slips to Landing]]
-    - [[Lesson Plans/Private/18. Non-Towered Airport Operations.md|18. Non-Towered Airport Operations]]
+    - [[12. Flying the Traffic Pattern and Go-Arounds|12. Flying the Traffic Pattern and Go-Arounds]]
+    - [[13. Normal and Crosswind Approaches and Landings|13. Normal and Crosswind Approaches and Landings]]
+    - [[14. Forward Slips to Landing|14. Forward Slips to Landing]]
+    - [[19. Non-Towered Airport Operations|19. Non-Towered Airport Operations]]
     - [[Lesson Plans/Private/22. Pilotage and Dead Reckoning.md|22. Pilotage and Dead Reckoning]]
     - [[Lesson Plans/Private/24. Emergency Operations.md|24. Emergency Operations]]
     - [[Lesson Plans/Private/25. Lost Procedures, and Diversion to Alternates.md|25. Lost Procedures, and Diversion to Alternates]]
@@ -157,7 +157,7 @@
     - [[~ How You Can Help Improve This Content.md|~ How You Can Help Improve This Content]]
 
 - October 10, 2023: 
-    - [[Lesson Plans/Private/21. Performance Maneuvers - Steep Turns.md|21. Performance Maneuvers - Steep Turns]]
+    - [[9. Performance Maneuvers - Steep Turns|9. Performance Maneuvers - Steep Turns]]
     - [[Filed/A CFI’s Guide to Sport Pilot and Light Sport Aircraft.md|A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]
     - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
     - [[Filed/Leaning the Mixture.md|Leaning the Mixture]]
