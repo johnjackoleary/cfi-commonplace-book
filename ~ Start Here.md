@@ -13,7 +13,7 @@
 
 ### Instructor Interested in Resources
 - [[+ Sources]]
-- Variety of gait charts for commonly used airplanes under [[Media/README|README]]
+- Variety of gait charts for commonly used airplanes under [[Aircraft Gait Charts]]
 
 ### Aviation Fan Interested in Growing Your Knowledge
 - [[+ Maneuvers]]
