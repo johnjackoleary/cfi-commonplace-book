@@ -2,6 +2,7 @@
 
 - October 17, 2023: 
     - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
+    - [[Filed/TAF.md|TAF]]
     - [[Lesson Plans/Commercial/Eights on Pylons.md|Eights on Pylons]]
     - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
     - [[Lesson Plans/Private/12. Flying the Traffic Pattern and Go-Arounds.md|12. Flying the Traffic Pattern and Go-Arounds]]
@@ -31,7 +32,6 @@
     - [[Filed/POH.md|POH]]
     - [[Filed/Private Pilot ACS.md|Private Pilot ACS]]
     - [[Filed/AME.md|AME]]
-    - [[Filed/TAF.md|TAF]]
     - [[Lesson Plans/Private/0. Optional Introductory or Demo Flight.md|0. Optional Introductory or Demo Flight]]
     - [[Lesson Plans/Private/18. Navigation Systems, including Radar Services.md|18. Navigation Systems, including Radar Services]]
     - [[Lesson Plans/Private/2. Four Fundamentals of Flight.md|2. Four Fundamentals of Flight]]

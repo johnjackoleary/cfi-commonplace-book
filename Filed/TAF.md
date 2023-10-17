@@ -4,7 +4,7 @@
 
 #glossary
 > [!note]
-> Only relavent to the 5sm radius
+> Only explicitly relevant to a 5sm radius from the airport center, but still a useful resource.
 
 ## Example from PHAK
 [[PHAK Ch13]]
