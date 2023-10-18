@@ -1,4 +1,4 @@
-- Fly the traffic pattern. Practice [[4. Normal and Crosswind Takeoffs and Climbs]], [[13. Normal and Crosswind Approaches and Landings]], and[[16. Short- and Soft-Field Takeoffs and Landings]].
+- Fly the traffic pattern. Practice [[PPL.4 Normal and Crosswind Takeoffs and Climbs]], [[PPL.13 Normal and Crosswind Approaches and Landings]], and[[PPL.16 Short- and Soft-Field Takeoffs and Landings]].
 - Leave for the practice area, work on [[Maneuver - Slow Flight]] and [[Maneuver - Four Fundamentals]], then return to traffic pattern
 
 Nearing Checkride:

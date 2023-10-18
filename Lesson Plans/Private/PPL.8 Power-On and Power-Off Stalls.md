@@ -14,7 +14,7 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 - [[POH]]
 
 ### Builds On
-[[6. Maneuvering During Slow Flight]]
+[[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight, with practice on multiple flights

@@ -13,7 +13,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 - [[Private Pilot ACS]] Sec VII
 
 ### Builds On
-[[2. Four Fundamentals of Flight]]
+[[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight

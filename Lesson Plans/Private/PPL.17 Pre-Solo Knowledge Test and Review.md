@@ -70,7 +70,7 @@ All pre-solo lessons
 	1. [[Categorical Outlooks]]
 	2. POH sections and what is in them
 		1. Part of [[PHAK Ch9]]
-		2. (currently have a request to read in [[4. Normal and Crosswind Takeoffs and Climbs]] and [[15. Emergency Landings]])
+		2. (currently have a request to read in [[PPL.4 Normal and Crosswind Takeoffs and Climbs]] and [[PPL.15 Emergency Landings]])
 	3. Standard Phraseology - https://wiki.flightgear.org/ATC_phraseology
 		1. [[AIM 4-2]]
 		2. Student pilot identification

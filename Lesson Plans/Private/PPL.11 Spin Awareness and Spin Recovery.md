@@ -17,8 +17,8 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 - [[Private Pilot ACS]] Sec VII-D
 
 ### Builds On
-- [[6. Maneuvering During Slow Flight]]
-- [[8. Power-On and Power-Off Stalls]]
+- [[PPL.6 Maneuvering During Slow Flight]]
+- [[PPL.8 Power-On and Power-Off Stalls]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` (optional) flight

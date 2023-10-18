@@ -18,8 +18,8 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 - [skyvector.com](http://www.skyvector.com)
 
 ### Builds On
-- [[5. Towered Airport Operations]]
-- [[10. Ground Reference Maneuvers]]
+- [[PPL.5 Towered Airport Operations]]
+- [[PPL.10 Ground Reference Maneuvers]]
 
 ### CFI Equipment
 GPS/Sentry/ADS-B In

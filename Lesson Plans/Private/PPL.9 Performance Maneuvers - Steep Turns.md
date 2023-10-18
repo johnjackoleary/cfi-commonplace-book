@@ -10,7 +10,7 @@ Develop knowledge of the aerodynamics of steep turns, including load factor and 
 - [[AFH Ch10]]
 
 ### Builds On
-[[2. Four Fundamentals of Flight]]
+[[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
 Ground 0.5 hours, Flight 1.0 hours

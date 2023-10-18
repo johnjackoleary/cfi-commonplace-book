@@ -9,7 +9,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 PHAK, Ch 12 (weather theory); ACS I-C (Weather Information), Aviation Weather (AC 00-6B), and Aviation Weather Services (AC 00-45H), “Pilot’s Guide to a Preflight Briefing” (AC 91-92)
 
 ### Builds On
-- [[3. Weather Briefs and Preflight Planning]]
+- [[PPL.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 1.0, frequent practice on multiple flights

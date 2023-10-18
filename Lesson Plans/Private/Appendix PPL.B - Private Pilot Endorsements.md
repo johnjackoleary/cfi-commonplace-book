@@ -1,5 +1,3 @@
-## Appendix B - Private Pilot Endorsements
-
 **A.1 Prerequisites for practical test: Title 14 of the Code of Federal Regulations (14 CFR) part 61, § 61.39(a)(6)(i) and (ii).**
 
 I certify that \[First name, MI, Last name\] has received and logged training time within 2 calendar-months preceding the month of application in preparation for the practical test and \[he or she\] is prepared for the required practical test for the issuance of Private Pilot Airplane Single Engine Land (ASEL) certificate.

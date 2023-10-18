@@ -16,9 +16,9 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[Private Pilot ACS]] Section III Task B
 
 ### Builds On
-- [[5. Towered Airport Operations]]
-- [[12. Flying the Traffic Pattern and Go-Arounds]]
-- [[7. Navigation Charts and National Airspace System]]
+- [[PPL.5 Towered Airport Operations]]
+- [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]
+- [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight
@@ -33,7 +33,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 	5. Airport markings
 		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
 		3. Wind indicators: sock, tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
-		4. Runway and taxi markings - See [[5. Towered Airport Operations]]
+		4. Runway and taxi markings - See [[PPL.5 Towered Airport Operations]]
 	6. Airport lighting
 		1. Airport beacons ![[Rotating Beacon.jpeg]]
 		3. Pilot controlled lighting
@@ -54,7 +54,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
 	2. [[Radio Usage at Non-Towered Airports]]
 	3. Some aircraft don't have radios
-	4. Reminder of safety considerations from [[13. Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
+	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 3. Common errors
 	1. Forgetting radio calls
 	2. Selecting wrong runway or inappropriate entry procedure to pattern

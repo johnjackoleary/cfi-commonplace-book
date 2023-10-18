@@ -9,7 +9,7 @@ Develop knowledge and skill in recognition of and recovery from unusual attitude
 IFH Ch 7
 
 ### Builds On
-[[23. Emergency Flight by Reference to Instruments - Four Fundamentals]]
+[[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
 
 ### Schedule
 Ground 1.5 hour, sim/airplane 1.5 hours

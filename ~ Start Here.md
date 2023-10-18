@@ -9,7 +9,7 @@
 ### Student Interested in a Syllabus
 - Private Pilot: [[~ PPL Lesson Plan Outline]]
 - Commercial Pilot: [[~ CPL Lesson Plan Outline]]
-- Instrument Rating: [[~ IRA Lesson Plan Outline]]
+- Instrument Rating: [[~ IR Lesson Plan Outline]]
 
 ### Instructor Interested in Resources
 - [[+ Sources]]

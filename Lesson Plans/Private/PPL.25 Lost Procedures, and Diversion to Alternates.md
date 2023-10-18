@@ -9,7 +9,7 @@ Develop skills and procedures to identify aircraft location, with on-board chart
 PHAK Ch. 16; ACS VI-C (diversion) and VI-D (lost procedures)
 
 ### Builds On
-[[22. Pilotage and Dead Reckoning]], [[21. Weather Information and Cross-Country Flight Planning]], [[7. Navigation Charts and National Airspace System]], [[18. Navigation Systems, including Radar Services]]
+[[PPL.22 Pilotage and Dead Reckoning]], [[PPL.21 Weather Information and Cross-Country Flight Planning]], [[PPL.7 Navigation Charts and National Airspace System]], [[PPL.18 Navigation Systems, including Radar Services]]
 
 ### Schedule
 Ground 1.0, Flight 1.0, frequent practice on multiple flights

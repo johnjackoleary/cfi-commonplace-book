@@ -10,7 +10,7 @@ The lazy eight is a maneuver that is designed to develop the proper coordination
 **Additional Resources:** [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE), [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
 
 ### Builds On
-[[10. Ground Reference Maneuvers]], [[6. Maneuvering During Slow Flight]]
+[[PPL.10 Ground Reference Maneuvers]], [[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
 

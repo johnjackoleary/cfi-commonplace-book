@@ -14,10 +14,10 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 - [[POH]]
 
 ### Builds On
-- [[6. Maneuvering During Slow Flight]]
-- [[8. Power-On and Power-Off Stalls]]
-- [[4. Normal and Crosswind Takeoffs and Climbs]]
-- [[12. Flying the Traffic Pattern and Go-Arounds]]
+- [[PPL.6 Maneuvering During Slow Flight]]
+- [[PPL.8 Power-On and Power-Off Stalls]]
+- [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]
+- [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight, multiple flights to practice as necessary

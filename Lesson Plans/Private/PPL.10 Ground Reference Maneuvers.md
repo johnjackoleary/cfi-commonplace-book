@@ -13,7 +13,7 @@ Develop risk management and skills associated with ground reference maneuvers, i
 - [[Private Pilot ACS]] Sec V-B
 
 ### Builds On
-[[2. Four Fundamentals of Flight]]
+[[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight

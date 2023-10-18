@@ -12,8 +12,8 @@ To understand and become proficient at the procedures used for normal/crosswind 
 - [[POH]]
 
 ### Builds On
-- [[2. Four Fundamentals of Flight]]
-- [[6. Maneuvering During Slow Flight]]
+- [[PPL.2 Four Fundamentals of Flight]]
+- [[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
 1 hour ground, 2 hour flight, practice every flight

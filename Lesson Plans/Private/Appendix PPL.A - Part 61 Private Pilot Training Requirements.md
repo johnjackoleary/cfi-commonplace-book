@@ -1,5 +1,3 @@
-## Appendix A - Part 61 Training Requirements
-
 **Solo Requirements for Student Pilots:**
 [[FAR 61.87 Student Solo Reqs]](d) *Maneuvers and procedures for pre-solo flight training in a single engine airplane.*
 

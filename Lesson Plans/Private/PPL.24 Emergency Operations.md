@@ -16,7 +16,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 - [[Private Pilot ACS]] Section IX
 
 ### Builds On
-- [[15. Emergency Landings]]
+- [[PPL.15 Emergency Landings]]
 
 ### Schedule
 `= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, flight practice as necessary
@@ -34,7 +34,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	3. Wing Tip Fire
 6. Failure
 	1. Engine
-		1. During flight: see [[15. Emergency Landings]]
+		1. During flight: see [[PPL.15 Emergency Landings]]
 		2. During takeoff roll
 		3. Immediately after takeoff: Land straight ahead!
 	2. Electrical

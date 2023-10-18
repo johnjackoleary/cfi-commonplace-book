@@ -34,7 +34,7 @@ N/A
 3. Before Takeoff Checks
 	1. Follow checklist as a do-list
 4. Flight
-	1. Following roughly the [[0. Optional Introductory or Demo Flight]] lesson
+	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
 5. Post-flight Procedures
 	1. Tie-down technique
 	3. Securing aircraft
