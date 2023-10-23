@@ -35,7 +35,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 			1. 10° at a time
 			2. Key points in pattern
 		3. [[FAR 91.113 Right-of-Way Rules]]
-		4. [[Runway Incursion]] ([[Runway Incursions Overview, Risks, and Mitigations]])
+		4. [[Runway Incursions]] ([[Runway Incursions Overview, Risks, and Mitigations]])
 			1. #todo :: Dedup these
 		5. Awareness of other operations, such as parachuting
 	2. [[Wake Turbulence]] from helicopters, and heavy aircraft

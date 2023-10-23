@@ -1,9 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 2
-local-dual-hr: 1
-datasheet: "[[C172S Datasheet]]"
 ---
 ### Objective
 Develop knowledge of operations and traffic patterns at non-towered airports.
@@ -21,7 +18,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight
+2 hours ground, 1 hour flight
 
 ### Lesson Elements
 1. Pre-Flight
@@ -54,7 +51,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
 	2. [[Radio Usage at Non-Towered Airports]]
 	3. Some aircraft don't have radios
-	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
+	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursions]], awareness of other operations, etc)
 3. Common errors
 	1. Forgetting radio calls
 	2. Selecting wrong runway or inappropriate entry procedure to pattern
@@ -65,7 +62,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 
 ### Required Homework
-None
+- [ ] Read [[AC 90-66B]]
 
 ### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport, from several directions and various wind, with radio calls

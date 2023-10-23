@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-To begin learning the fundamentals of straight and level (S&L) flight, turns, climbs, and descents; and controlling the airplane's attitude by visual reference to the horizon.
+Practice the fundamentals of straight and level (S&L) flight, turns, climbs, and descents; and controlling the airplane's attitude by visual reference to the horizon.
 
 ### References
 - [[AFH Ch3]]
@@ -16,6 +16,8 @@ N/A
 1 hour ground, 2 hours flight
 
 ### Lesson Elements
+> [!tip] 
+> Pitch + Power = Performance
 
 #### Straight and Level
 1. Scanning for traffic!
@@ -50,7 +52,7 @@ Establish climb or descent, then initiate turn.
 Learner must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Learner must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: ±10 knots, ±10 degrees, ±100 feet)
 
 ### Required Logbook Phraseology
-For [[FAR 61.87]]: 
+For [[FAR 61.87 Student Solo Reqs]]: 
 - Straight and level flight, and turns in both directions;
 - Climbs and climbing turns;
 - Descents, with and without turns, using high and low drag configurations;

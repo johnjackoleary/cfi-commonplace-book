@@ -50,7 +50,8 @@ All pre-solo lessons
 		1. Received and logged flight training for the maneuvers and procedures...
 		2. Demonstrated satisfactory proficiency and safety...
 3. [[FAR 61.89 Student Pilot Limitations]]
-4. Logging Solo Flight Time - FAR 61.51 
+4. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
+5. Logging Solo Flight Time - FAR 61.51 
    > [!quote] A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs]]; and (iii) Is undergoing training for a pilot certificate or rating.
 5. [[WVFC Member Regulations]]
 	1. No primary student touch-and-goes are allowed in Club aircraft on any runway less than 4000 feet unless accompanied by a Club flight instructor.
@@ -59,24 +60,12 @@ All pre-solo lessons
 ### Bonus Content
 #todo :: Additional Content to be Added to Pre-Solo Lessons:
 1. Regulations
-	1. 
 	3. Read through [[FAR 91.123 Compliance with ATC]]
 2. Operations
 	1. [[Categorical Outlooks]]
 	2. POH sections and what is in them
 		1. Part of [[PHAK Ch9]]
 		2. (currently have a request to read in [[PPL.4 Normal and Crosswind Takeoffs and Climbs]] and [[PPL.15 Emergency Landings]])
-	3. Standard Phraseology - https://wiki.flightgear.org/ATC_phraseology
-		1. [[AIM 4-2]]
-		2. Student pilot identification
-		3. Few you may hear
-			1. Roger - I heard (although typically you will just say your N-number instead)
-			2. Wilco - I heard and will comply, when a readback is not needed
-			3. Affirmative / Negative - Yes/No
-			4. (No) Contact - I (do not) have the aircraft in sight
-			5. Say Again - Please repeat
-			6. Standby - Please wait, and there's no need to acknowledge this standby
-			7. Unable, *reason* - I cannot do that request because of *reason*
 4. Aircraft
 	3. [[Four Left Turning Tendencies]]
 	4. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]

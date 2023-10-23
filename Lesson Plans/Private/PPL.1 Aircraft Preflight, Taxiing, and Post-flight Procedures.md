@@ -52,13 +52,13 @@ N/A
 	4. Taxiing too fast, or carrying too much power while taxiing
 	5. Incorrect position of controls relative to wind
 
-### Completion Standards
-Client must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
-
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 
 - Taxiing or surface operations, including runups;
 - Proper flight preparation procedures, including... powerplant operation, and aircraft systems;
+
+### Completion Standards
+Learner must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
 
 ### Required Homework
 - [ ] Read through [[POH]] Section 1, 2

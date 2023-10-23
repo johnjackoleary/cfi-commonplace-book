@@ -8,8 +8,8 @@ To understand airport operations, including communications, traffic patterns, an
 
 ### References
 - [[AFH Ch2]]
-- [[PHAK Ch14]], 
-- [[AIM 2-3]],
+- [[PHAK Ch14]]
+- [[AIM 2-3]]
 - Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
 - [[Private Pilot ACS]] Sec III
 
@@ -19,40 +19,40 @@ N/A
 ### Schedule
 3 hours ground
 
-#todo :: palo alto pattern here or future lesson, also the AF/D
-
-#todo :: consider pulling wind indicators to Non-Towered lesson
-
 ### Lesson Elements
 1. Airport Features
-	1. Wind Direction Indicators ![[Wind Direction Indicators.jpeg]]
-	2. Signs and Markings from [[PHAK Ch14]] and [[AIM 2-3]]
-	3. Good review from [[AOPA]]: https://www.nxtbook.com/nxtbooks/aopa/runwaysafetyflashcard/index.php#/p/1
-2. Radio communications #todo :: reorder
-	1. Memorize frequencies for Palo Alto: [[ATIS]] 135.275, Ground 125.0, Tower 118.6, Emergency 121.5
-	2. Format for all radio calls: WHO you're calling, WHO you are, WHERE you are (in 3D space), WHAT you want
+	2. Signs and Markings
+	3. Flashcards from [[AOPA]] ([slideshow](https://www.nxtbook.com/nxtbooks/aopa/runwaysafetyflashcard/index.php#/p/1) or [cards](https://www.aopa.org/-/media/FIles/AOPA/Home/Online-Education/Flash-Cards/RWcards_lo.pdf))
+2. Radio communications
+	1. [[Phonetic Alphabet]]
+		1. Memorize them! Alpha through Zulu
+		2. Special number pronunciations: "Tree" and "Niner"
+	2. Memorize frequencies for training airport ([[Bay Area Radio Frequencies]])
+	3. Format for all radio calls: YOU (who you're calling), ME (who you are), WHERE you are (in 3D space), WHAT you want
 	4. Required readbacks:
 		1. Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc.
 		2. Sometimes specific request for readback in the ATIS
-		3. If in doubt, readback full instructions.
+		3. If in doubt, readback full instructions
 	5. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
 	6. Mentally rehearse what you will say before keying the mic.
 	7. If in doubt, ask for clarification or request "say again"
 	8. Anticipate the response and pay attention for any unusual elements
 	9. Stuck microphones -- how to detect, how to respond
-3. Radio communications practice (ATC phraseology):
-	1. [[Example Radio Calls]]
-	2. #todo :: populate standard phraseology (wilco, roger, say again)
-	3. #todo :: add note on double click of radio
-	4. Listen to KPAO tower on handheld radio, or online at www.liveatc.net (KPAO tower or KSQL tower and ground, for example)
-4. Taxiing Procedure
+4.  Taxiing Procedure
 	1. Airport and taxiway familiarization
 	2. Taxi instructions/clearances
-5. [[Runway Incursions Overview, Risks, and Mitigations]]
-6. [[Phonetic Alphabet]]
-	1. Memorize them! Alpha through Zulu
-	2. Special number pronunciations: "Tree" and "Niner"
-	3. #todo :: move earlier
+	3. [[Runway Incursions]]
+5. Radio communications practice (ATC phraseology):
+	1. [[Example Radio Calls]]
+	2. Standard Phraseology in [[AIM 4-2]]
+	3. Few you may hear
+		1. Roger - I understand (although typically you will just say your N-number instead)
+		2. Wilco - I understand and will comply (when a readback is not needed)
+		3. Affirmative / Negative - Yes / No
+		4. (Negative) Contact - I (do not) have the aircraft in sight
+		5. Say Again - Please repeat
+		6. Standby - Please wait, and there's no need to acknowledge this standby
+		7. Unable, *reason* - I cannot do that request because of *reason*
 7. [[Light Gun Signals]]
 	1. Example
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
@@ -66,18 +66,18 @@ N/A
 	3. Not scanning for traffic, or keeping traffic to follow in sight
 
 ### Completion Standards
-Client must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.
+Learner must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.
 
 ### Required Logbook Phraseology
 None
 
 ### Required Homework
-- [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands
+- [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands, or practicing license plates on drive
 - [ ] Memorize training airport frequencies
 - [ ] Print light gun signals for kneeboard
 
 ### Recommended Homework 
-- [ ] Listen to www.liveatc.net for training airport
+- [ ] Listen to www.liveatc.net tower + ground for training airport
 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
