@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge of operations and traffic patterns at non-towered airports.
 
 ### References
-- [[AC 90-66B]]
+- [[AC 90-66]]
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf)
 - [[PHAK Ch14]]
 - [[AIM 4-3]]
@@ -62,7 +62,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 
 ### Required Homework
-- [ ] Read [[AC 90-66B]]
+- [ ] Read [[AC 90-66]]
 
 ### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport, from several directions and various wind, with radio calls

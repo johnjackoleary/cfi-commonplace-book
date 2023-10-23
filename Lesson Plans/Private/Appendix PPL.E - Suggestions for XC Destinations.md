@@ -1,5 +1,3 @@
-XC flights must be >50nm. We'll aim for >51nm.
-
 # From KPAO
 | Destination | Distance To | Notable Draws                                                                                                                        |
 | ----------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -24,5 +22,8 @@ XC flights must be >50nm. We'll aim for >51nm.
 | O20         | 55          | Self-Serve Fuel, Runway Backtaxi                                                                                                     |
 | L53         | 56          | Short Field                                                                                                                          |
 | 1C9         | ~~50~~      | Grass Runway (Note: distance too short for XC logging)                                                                               |
+
+> [!note] 
+> XC flights must be >50nm. We'll aim for >51nm.
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

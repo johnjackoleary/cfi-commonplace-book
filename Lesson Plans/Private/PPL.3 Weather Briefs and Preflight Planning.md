@@ -12,7 +12,8 @@ Develop initial knowledge of and sources for preflight briefings.
 ### References
 - [[POH]]/[[AFM]]
 - [[PHAK Ch13]]
-- [[WVFC Member Regulations]]
+- [[AC 91-92]]
+- [[Aviation Weather Handbook]]
 
 ### Builds On
 [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
@@ -31,11 +32,11 @@ Develop initial knowledge of and sources for preflight briefings.
 	2. [[NOTAM]]s
 	3. Weather reports and forecasts
 		1. [[Weather Brief]]
-		2. [[METAR]]
 		3. [[PIREP]]s
-		4. [[ATIS]], [[AWOS]]/[[ASOS]]
+		4.  [[ATIS]]/[[METAR]]s (towered airports), [[AWOS]]/[[ASOS]] (non-towered)
 		5. [[TAF]]
 		6. [[AIRMET]] / [[SIGMET]]
+		7. [[Categorical Outlooks]]
 	4. Known traffic delays
 	5. Runway lengths
 	6. Available alternatives

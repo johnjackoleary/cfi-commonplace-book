@@ -88,4 +88,4 @@ It’s nice to include the taxiway if there are multiple ways to get there.
 
 # Related
 - [[Example Radio Calls]]
-- [[AC 90-66B]]
+- [[AC 90-66]]

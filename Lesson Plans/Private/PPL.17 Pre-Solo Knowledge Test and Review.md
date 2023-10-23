@@ -9,9 +9,6 @@ Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, e
 - West Valley Flying Club Solo Phase Check
 - [[POH]]
 
-#todo :: Likely missing some AIM chapters
-#todo :: confirm all topics from presolo phase check are covered
-
 ### Builds On
 All pre-solo lessons
 
@@ -24,7 +21,17 @@ All pre-solo lessons
 	2. Student Pilot Certificate [[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]]
 	3. Government Issued ID [[FAR Part 61.3 Cert and Rating Reqs]]
 	4. Medical Certificate [[FAR 61.113]] 
-2. [[FAR 61.87 Student Solo Reqs]]
+2. Aircraft Systems
+	1. Primary/Secondary flight controls
+	2. Powerplant and propeller
+	3. Landing gear
+	4. Fuel, oil, and hydraulic
+	5. Electrical
+	6. Avionics
+	7. Pitot-static, vacuum/pressure, and associated flight instruments
+	8. Environmental
+	9. Deicing and anti-icing
+3. [[FAR 61.87 Student Solo Reqs]]
 	1. Knowledge Test
 		1. Sample Questions
 			1. Regulations
@@ -49,37 +56,22 @@ All pre-solo lessons
 	2. Pre-Solo Flight Training
 		1. Received and logged flight training for the maneuvers and procedures...
 		2. Demonstrated satisfactory proficiency and safety...
-3. [[FAR 61.89 Student Pilot Limitations]]
-4. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
-5. Logging Solo Flight Time - FAR 61.51 
-   > [!quote] A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs]]; and (iii) Is undergoing training for a pilot certificate or rating.
+4. [[FAR 61.89 Student Pilot Limitations]]
+5. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
+6. Logging Solo Flight Time - FAR 61.51 
+   > [!quote] 
+   > A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs|FAR 61.87]]; and (iii) Is undergoing training for a pilot certificate or rating.
 5. [[WVFC Member Regulations]]
 	1. No primary student touch-and-goes are allowed in Club aircraft on any runway less than 4000 feet unless accompanied by a Club flight instructor.
 	2. Members are required to plan to land with a minimum of one hour of fuel (assuming cruise flight conditions).
-
-### Bonus Content
-#todo :: Additional Content to be Added to Pre-Solo Lessons:
-1. Regulations
-	3. Read through [[FAR 91.123 Compliance with ATC]]
-2. Operations
-	1. [[Categorical Outlooks]]
-	2. POH sections and what is in them
-		1. Part of [[PHAK Ch9]]
-		2. (currently have a request to read in [[PPL.4 Normal and Crosswind Takeoffs and Climbs]] and [[PPL.15 Emergency Landings]])
-4. Aircraft
-	3. [[Four Left Turning Tendencies]]
-	4. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
-	5. [[Leaning the Mixture]]
-	6. Equipment
-5. Rest of syllabus
 
 ### Completion Standards
 Client has completed pre-solo knowledge test and received all necessary endorsements.
 
 ### Required Homework
-- [ ] Read the relevant part 61 FARs
-- [ ] Read the relevant part 91 FARs
-- [ ] Read [[WVFC Member Regulations]]
+- [ ] Read relevant part 61 FARs
+- [ ] Read relevant part 91 FARs
+- [ ] Read Member Regulations, if applicable
 - [ ] Read [[POH]] Section 7, 8
 - [ ] Schedule Solo Phase Check
 
@@ -87,7 +79,7 @@ Client has completed pre-solo knowledge test and received all necessary endorsem
 - [ ] Review past lessons
 - [ ] Review pre-solo ground school content
 - [ ] Review [[POH]]
-- [ ] After phase check, schedule a flight to the practice area 
-- [ ] After phase check, schedule a flight in the pattern
+- [ ] After phase check, schedule a solo flight to the practice area 
+- [ ] After phase check, schedule a solo flight in the pattern
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

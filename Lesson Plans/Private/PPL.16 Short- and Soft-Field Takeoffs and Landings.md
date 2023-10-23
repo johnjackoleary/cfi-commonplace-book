@@ -30,7 +30,7 @@ Overview of short- and soft-field operations
 Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
 
 ### Required Homework
- None
+- [ ] Complete solo quiz
 
 ### Recommended Homework 
 - [ ] Chair fly short- and soft-field takeoffs and landings

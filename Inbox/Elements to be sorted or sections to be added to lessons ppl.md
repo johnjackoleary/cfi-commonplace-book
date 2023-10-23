@@ -8,7 +8,7 @@ Taxiing at night
 ![[Vx vs Vy at Higher Altitudes.jpeg]]
 
 
-Figure out if airport lighting should be grouped with markings/wind indicators (from [[PPL.5 Towered Airport Operations]] and [[PPL.19 Non-Towered Airport Operations]]) into a whole new lesson
+Figure out if airport lighting should be grouped with markings/wind indicators (from [[PPL.5 Towered Airport Operations]] and [[PPL.18 Non-Towered Airport Operations]]) into a whole new lesson
 
 Purchase current FAR/AIM
 

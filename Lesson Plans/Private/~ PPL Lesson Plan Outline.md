@@ -30,10 +30,10 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
-[[PPL.18 Navigation Systems, including Radar Services]]
-[[PPL.19 Non-Towered Airport Operations]]
+[[PPL.19 Navigation Systems and Other Equipment]]
+[[PPL.18 Non-Towered Airport Operations]]
 [[PPL.20 Aircraft Performance including Weight and Balance]]
-[[PPL.21 Weather Information and Cross-Country Flight Planning]]
+[[PPL.21 Advanced Weather Briefs and Preflight Planning]]
 [[PPL.22 Pilotage and Dead Reckoning]]
 [[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
 [[PPL.24 Emergency Operations]]

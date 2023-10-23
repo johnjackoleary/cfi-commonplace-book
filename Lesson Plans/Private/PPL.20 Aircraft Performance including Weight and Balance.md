@@ -6,13 +6,16 @@ tags: ppl, lesson
 Develop understanding of aircraft performance and limitations, and the ability to safely and conservatively plan cross-country flights.
 
 ### References
-[[POH]]/[[AFM]]; [[PHAK Ch9]] (flight manuals), [[PHAK Ch10]] (Weight and Balance), [[PHAK Ch11]] (aircraft performance)
+- [[POH]]/[[AFM]]
+- [[PHAK Ch9]]
+- [[PHAK Ch10]]
+- [[PHAK Ch11]]
 
 ### Builds On
 N/A
 
 ### Schedule
-Ground 2.0
+3 hours ground
 
 ### CFI Equipment
 E6B Calculator or App
@@ -26,13 +29,13 @@ E6B Calculator or App
 	1. Takeoff and landing distances for ground roll and obstacle clearance
 	2. Rate of climb and time to climb
 	3. Power settings for cruise, airspeed and fuel burn
-4. Flight planning for cross-country flights
+4. [[Leaning the Mixture]]
+5. Flight planning for cross-country flights
 
 ### Completion Standards
 Client should develop knowledge of POH/AFM organization, and ability to use POH to safely and conservatively plan cross country flights, including weight and balance calculations.
 
 ### Required Homework
- 
 - [ ] Memorize sections of POH
 - [ ] Read [[POH]] Section 5, 6
 

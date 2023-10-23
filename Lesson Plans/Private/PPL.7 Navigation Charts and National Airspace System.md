@@ -1,24 +1,20 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 2
 ---
 ### Objective
 Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.
 
 ### References
 - [[AIM 3]]
-- [[PHAK Ch12]]
-- [[PHAK Ch13]]
 - [[PHAK Ch15]]
 - [[PHAK Ch16]]
-- [[Private Pilot ACS]] Sec I Task C-E
 
 ### Builds On
 [[PPL.5 Towered Airport Operations]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground
+3 hours ground
 
 ### Lesson Elements
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts
@@ -32,13 +28,13 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 		2. https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/various-safety-pdfs/airspace2011.pdf
 	4. Altitudes for cruise flight ([[FAR 91.159 VFR Altitudes]])
 	5. Minimum safe altitudes ([[FAR 91.119 Minimum Altitudes]])
-6. Useful review from [[AOPA]]: https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1
+6. Airspace around home airport, and relevant departure/arrival procedures
+7. Useful review from [[AOPA]]: https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1
 
 ### Completion Standards
 Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
 
 ### Required Homework
- 
 - [ ] Memorize VFR weather minimums
 - [ ] Memorize required equipment
 - [ ] Memorize VFR altitudes for cruise flights

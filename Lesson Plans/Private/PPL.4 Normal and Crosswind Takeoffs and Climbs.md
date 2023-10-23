@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-To understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 
+Understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 
 
 ### References
 - [[AFH Ch5]]
@@ -27,7 +27,8 @@ To understand and become proficient at the procedures used for normal/crosswind 
 	5. Crosswind component of wind
 	6. Max demo'd crosswind ([[POH]])
 	7. Takeoff distance from aircraft performance charts ([[POH]], section V)
-3. Practice
+	8. [[Four Left Turning Tendencies]]
+2. Practice
 	1. Procedure from [[POH]]
 	2. Pre-takeoff checks, and traffic checks
 	3. Go/No-go location picked out ahead of time. Call out rotate and climb speeds. Recite emergency landing options.
@@ -39,18 +40,22 @@ To understand and become proficient at the procedures used for normal/crosswind 
 	9. Crosswind: transition from side-slip to wings-level crab for climb
 		1. ![[Crosswind Takeoff.jpeg]]
 		2. ![[Crosswind Slip to Crab.jpeg]]
-4. Normal Climbs 
+3. Normal Climbs 
 	1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
 	2. No turns below 400' typically
 	3. Awareness of noise abatement rules/recommendations (at Palo Alto, turn right 10 degrees for climb out on 31)
-5. Emergency Considerations
+4. Emergency Considerations
 	1. Plans for rejected takeoff. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
 	2. Emergency plans must be in mind BEFORE TAKEOFF
 	3. Engine failure on upwind climb -- LAND STRAIGHT AHEAD
-6. Common Errors
+5. Common Errors
 	1. Ignoring crosswind
 	2. Drifting from centerline during takeoff roll
 	3. Drifting from centerline during climb out
+
+### Required Logbook Phraseology
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Takeoffs, including normal and crosswind
 
 ### Completion Standards
 Client must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.

@@ -6,13 +6,15 @@ tags: ppl, lesson
 Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of ATC capabilities and ability to use ATC assistance with radar vectors.
 
 ### References
-[[Private Pilot ACS]] Section VI; PHAK Ch. 15 (Navigation), Manuals for all installed equipment in the plane.
+- [[Private Pilot ACS]] Section 6
+- [[PHAK Ch16]]
+- Manuals for all installed equipment in the plane.
 
 ### Builds On
 [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-Ground 1.0
+3 hours ground
 
 ### Lesson Elements
 1. Compass and compass errors
@@ -28,14 +30,12 @@ Ground 1.0
 6. ATC services and assistance available
 	1. Flight Following
 	2. ASR (airport surveillance radar) and PAR (precision approach radar) capabilities
-
-#todo :: here or elsewhere, inop equipment 
+7. Inoperative Equipment
 
 ### Completion Standards
 Client should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
 
 ### Required Homework
- 
 - [ ] Memorize compass error acronyms: ANDS, UNOS, NOSE
 
 ### Recommended Homework

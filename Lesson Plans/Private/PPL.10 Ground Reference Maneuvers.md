@@ -1,9 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 1
-local-dual-hr: 1.5
-datasheet: "[[C172S Datasheet]]"
 ---
 ### Objective
 Develop risk management and skills associated with ground reference maneuvers, including rectangular patterns, S-turns, and turns around a point.
@@ -16,7 +13,7 @@ Develop risk management and skills associated with ground reference maneuvers, i
 [[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight
+1 hour ground, 2 hours flight
 
 ### CFI Equipment
 GPS/Sentry/ADS-B In
@@ -27,7 +24,6 @@ GPS/Sentry/ADS-B In
 	2. Effect of bank angle and groundspeed on rate and radius of turn (relative to ground)![[Effect of Wind on Turn.jpeg]]
 2. Use [[Maneuvering Speed]]
 	1. This speed changes with weight -- more weight raises maneuvering speed
-	2. For our `= this.datasheet.model`, we'll use `= this.datasheet.Va-dual`kts
 3. Rate of turn and bank angle
 4. Flying all maneuvers
 	1. Select location without excessive traffic, and with suitable emergency landing fields

@@ -1,8 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 1
-local-dual-hr: 1.5
 ---
 ### Objective
 Develop knowledge, risk management and skills associated with maneuvers during [[slow flight]]. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
@@ -16,7 +14,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 [[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight
+1.5 hours ground, 1.5 hours flight
 
 ### Lesson Elements
 1. What is slow flight? Why do we practice this?
@@ -33,6 +31,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	3. Stall warning devices
 	4. Difference between attitude and AOA
 	5. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
+	6. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
 3. Slow flight maneuvering
 	1. ![[Maneuver - Slow Flight]]
 	3. Set Up

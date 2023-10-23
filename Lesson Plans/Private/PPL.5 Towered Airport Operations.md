@@ -4,7 +4,7 @@ tags: ppl, lesson
 ---
 
 ### Objective
-To understand airport operations, including communications, traffic patterns, and light gun signals.
+Understand airport operations, including communications, traffic patterns, and light gun signals.
 
 ### References
 - [[AFH Ch2]]
@@ -53,14 +53,15 @@ N/A
 		5. Say Again - Please repeat
 		6. Standby - Please wait, and there's no need to acknowledge this standby
 		7. Unable, *reason* - I cannot do that request because of *reason*
-7. [[Light Gun Signals]]
+	4. [[FAR 91.123 Compliance with ATC]]
+6. [[Light Gun Signals]]
 	1. Example
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
 		2. From *[Real Light Gun Signals | ATC Tower](https://www.youtube.com/watch?v=nxoakUa8UqQ)* by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199)
 	2. Debugging common radio issues (volume low, cable disconnect)
 	3. Study and memorize the signals
 	4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
-8. Common Errors
+7. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight
