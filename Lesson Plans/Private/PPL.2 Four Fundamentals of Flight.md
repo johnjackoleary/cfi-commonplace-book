@@ -56,8 +56,7 @@ For [[FAR 61.87]]:
 - Descents, with and without turns, using high and low drag configurations;
 
 ### Required Homework
-- [ ] Sign up for ground school if not yet completed (WVFC, Sporty's, etc)
-- [ ] Complete 3rd class medical (See [[Finding an AME]])
+None
 
 ### Recommended Homework 
 - [ ] Chair fly four fundamentals

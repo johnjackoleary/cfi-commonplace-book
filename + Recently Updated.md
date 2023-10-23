@@ -1,5 +1,10 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 23, 2023: 
+    - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
+    - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures]]
+    - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
+
 - October 18, 2023: 
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
     - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
@@ -7,7 +12,6 @@
     - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
     - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
-    - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
@@ -53,8 +57,6 @@
     - [[Filed/POH.md|POH]]
     - [[Filed/Private Pilot ACS.md|Private Pilot ACS]]
     - [[Filed/AME.md|AME]]
-    - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
-    - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
     - [[Lesson Plans/Private/PPL.20 Aircraft Performance including Weight and Balance.md|PPL.20 Aircraft Performance including Weight and Balance]]
     - [[Lesson Plans/Private/Appendix PPL.E - Suggestions for XC Destinations.md|Appendix PPL.E - Suggestions for XC Destinations]]
     - [[Lesson Plans/Private/Appendix PPL.C - When to Acquire Various Equipment.md|Appendix PPL.C - When to Acquire Various Equipment]]
@@ -192,9 +194,4 @@
     - [[Filed/You Can Go Down or You Can Slow Down, but You Cant Do Both.md|You Can Go Down or You Can Slow Down, but You Cant Do Both]]
     - [[UnsortedMedia/~ From Lou Dietz.md|~ From Lou Dietz]]
     - [[UnsortedMedia/~ Commercial.md|~ Commercial]]
-
-- July 27, 2023: 
-    - [[Filed/Maneuver Set-Up.md|Maneuver Set-Up]]
-    - [[Filed/Stick and Rudder.md|Stick and Rudder]]
-    - [[Filed/Useful Bay Webcams.md|Useful Bay Webcams]]
 

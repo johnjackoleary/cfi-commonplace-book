@@ -14,10 +14,11 @@ Develop skills associated with preparation for safe flight, including preflight 
 N/A
 
 ### Schedule
-2 hours ground, 1 hour flight (optional)
+2.5 hours ground, 0.5 hour flight (optional)
 
 ### Lesson Elements
-1. Preflight
+1. Onboarding paperwork (new student info, dispatch procedure, aircraft selection and scheduling, TSA)
+2. Preflight
 	1. Walk-around inspection, use of checklists
 	2. Fuel sampling and fuel level
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/rya4YFDpsPs?start=193"  frameborder="0"></iframe>
@@ -27,19 +28,19 @@ N/A
 	5. Flight deck organization
 	6. Seat adjustments
 	7. Engine start, including use of primer and propeller safety
-2. Taxiing Procedure
+3. Taxiing Procedure
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
-3. Before Takeoff Checks
+4. Before Takeoff Checks
 	1. Follow checklist as a do-list
-4. Flight
+5. Flight
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
-5. Post-flight Procedures
+6. Post-flight Procedures
 	1. Tie-down technique
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
-6. Common Errors
+7. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
@@ -56,6 +57,9 @@ For [[FAR 61.87 Student Solo Reqs]]:
 
 ### Required Homework
 - [ ] Read through [[POH]] Section 1, 2
+- [ ] Application for Student Pilot Certificate
+- [ ] Sign up for ground school if not yet completed (WVFC, Sporty's, etc)
+- [ ] Complete 3rd class medical (See [[Finding an AME]])
 
 ### Recommended Homework
 None

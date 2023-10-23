@@ -17,8 +17,10 @@ Ground 15 min, Flight 30 min
 ### Lesson Elements
 1. Discussion of any questions before the flight
 2. Instructor flies to practice area
-3. Learner tries flying the plane through straight and level, turns, climbs, and descents
-4. Instructor flies back to airport
+3. Learner tries using all primary and secondary control surfaces
+4. Learner tries flying the plane through straight and level, turns, climbs, and descents
+5. Learner tries simulated engine out glide, if interested
+6. Instructor flies back to airport
 
 ### Completion Standards
 Learner tries flying!
