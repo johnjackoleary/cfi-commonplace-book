@@ -1,8 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 1
-local-dual-hr: 1
 ---
 ### Objective
 Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, ensure pre-solo documentation is filed, and identify any remaining areas for practice.
@@ -18,7 +16,7 @@ Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, e
 All pre-solo lessons
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight
+2 hour ground, 1 hour flight
 
 ### Lesson Elements
 1. Documentation and paperwork
@@ -61,10 +59,7 @@ All pre-solo lessons
 ### Bonus Content
 #todo :: Additional Content to be Added to Pre-Solo Lessons:
 1. Regulations
-	1. [[FAR 91.107 Use of Seat Belts]]
-	2. Airworthiness (who determines, who is responsible for)
-		1. Who is responbile for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403]]
-		2. Who determines airworthiness? Pilot-In-Command - [[FAR 91.7]]
+	1. 
 	3. Read through [[FAR 91.123 Compliance with ATC]]
 2. Operations
 	1. [[Categorical Outlooks]]

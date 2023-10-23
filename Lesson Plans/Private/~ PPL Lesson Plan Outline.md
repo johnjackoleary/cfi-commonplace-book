@@ -9,7 +9,7 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 
 #### Stage 1: Pre-Solo
 [[PPL.0 Optional Introductory or Demo Flight]]
-[[PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures]]
+[[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
 [[PPL.2 Four Fundamentals of Flight]]
 [[PPL.3 Weather Briefs and Preflight Planning]]
 [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]

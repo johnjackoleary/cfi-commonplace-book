@@ -2,7 +2,7 @@
 
 - October 23, 2023: 
     - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
-    - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures]]
+    - [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
     - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
 
 - October 18, 2023: 

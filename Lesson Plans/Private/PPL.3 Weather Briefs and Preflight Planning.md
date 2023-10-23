@@ -15,7 +15,7 @@ Develop initial knowledge of and sources for preflight briefings.
 - [[WVFC Member Regulations]]
 
 ### Builds On
-[[PPL.1 Aircraft Preflight, Taxiing, and Post-flight Procedures]]
+[[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
 
 ### Schedule
 3 hour ground
