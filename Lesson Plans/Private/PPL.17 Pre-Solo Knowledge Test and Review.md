@@ -6,7 +6,7 @@ tags: ppl, lesson
 Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, ensure pre-solo documentation is filed, and identify any remaining areas for practice.
 
 ### References
-- West Valley Flying Club Solo Phase Check
+- Phase Check Form (if applicable)
 - [[POH]]
 
 ### Builds On

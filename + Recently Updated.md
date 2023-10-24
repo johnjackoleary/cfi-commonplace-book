@@ -1,5 +1,13 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 24, 2023: 
+    - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
+    - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
+    - [[Lesson Plans/Private/PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals.md|PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
+    - [[Lesson Plans/Private/PPL.25 Lost Procedures, and Diversion to Alternates.md|PPL.25 Lost Procedures, and Diversion to Alternates]]
+    - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
+    - [[Lesson Plans/Private/PPL.27 Night Operations and Night Cross Country.md|PPL.27 Night Operations and Night Cross Country]]
+
 - October 23, 2023: 
     - [[Filed/AC 91-92.md|AC 91-92]]
     - [[Filed/ADM.md|ADM]]
@@ -28,15 +36,10 @@
     - [[Lesson Plans/Private/PPL.14 Forward Slips to Landing.md|PPL.14 Forward Slips to Landing]]
     - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
-    - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/PPL.20 Aircraft Performance including Weight and Balance.md|PPL.20 Aircraft Performance including Weight and Balance]]
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
-    - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
-    - [[Lesson Plans/Private/PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals.md|PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
     - [[Lesson Plans/Private/PPL.24 Emergency Operations.md|PPL.24 Emergency Operations]]
-    - [[Lesson Plans/Private/PPL.25 Lost Procedures, and Diversion to Alternates.md|PPL.25 Lost Procedures, and Diversion to Alternates]]
-    - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
@@ -57,7 +60,6 @@
     - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Lesson Plans/Private/Appendix PPL.B - Private Pilot Endorsements.md|Appendix PPL.B - Private Pilot Endorsements]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
-    - [[Lesson Plans/Private/PPL.27 Night Operations and Night Cross Country.md|PPL.27 Night Operations and Night Cross Country]]
     - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
     - [[Lesson Plans/Spins/Spin Lesson Plan.md|Spin Lesson Plan]]
     - [[~ Start Here.md|~ Start Here]]
@@ -200,12 +202,4 @@
 - September 18, 2023: 
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Instrument/~ Complete IR Syllabus.md|~ Complete IR Syllabus]]
-
-- August 15, 2023: 
-    - [[Filed/121.5 for ELT Usage Regs.md|121.5 for ELT Usage Regs]]
-    - [[Filed/FAR 91.207 Emergency Locator Transmitters.md|FAR 91.207 Emergency Locator Transmitters]]
-    - [[Filed/Magneto.md|Magneto]]
-    - [[Filed/You Can Go Down or You Can Slow Down, but You Cant Do Both.md|You Can Go Down or You Can Slow Down, but You Cant Do Both]]
-    - [[UnsortedMedia/~ Commercial.md|~ Commercial]]
-    - [[UnsortedMedia/~ From Lou Dietz.md|~ From Lou Dietz]]
 

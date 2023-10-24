@@ -6,13 +6,13 @@ tags: ppl, lesson
 Develop knowledge and skills required for emergency flight by reference to instruments.
 
 ### References
-Instrument Flying Handbook Ch 6-7; AFH Ch17; [[Private Pilot ACS]] Section VIII
+Instrument Flying Handbook Ch 6-7; [[Private Pilot ACS]] Section VIII
 
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
-Ground 1.0, Flight/Sim 1.0, frequent practice on multiple flights
+Ground 1 hour, Flight/Sim 1 hour, practice on multiple flights
 
 ### CFI Equipment
 Hood or foggles

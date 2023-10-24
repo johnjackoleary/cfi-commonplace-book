@@ -6,13 +6,17 @@ tags: ppl, lesson
 Develop skills and procedures to identify aircraft location, with on-board charts or equipment or with ATC help, and plan diversion to an appropriate alternate airport.
 
 ### References
-PHAK Ch. 16; ACS VI-C (diversion) and VI-D (lost procedures)
+- [[PHAK Ch16]]
+- [[Private Pilot ACS]] VI-C (diversion) and VI-D (lost procedures)
 
 ### Builds On
-[[PPL.22 Pilotage and Dead Reckoning]], [[PPL.21 Advanced Weather Briefs and Preflight Planning]], [[PPL.7 Navigation Charts and National Airspace System]], [[PPL.19 Navigation Systems and Other Equipment]]
+- [[PPL.22 Pilotage and Dead Reckoning]]
+- [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
+- [[PPL.7 Navigation Charts and National Airspace System]]
+- [[PPL.19 Navigation Systems and Other Equipment]]
 
 ### Schedule
-Ground 1.0, Flight 1.0, frequent practice on multiple flights
+Ground 1 hour, Flight 1 hour, frequent practice on multiple flights
 
 ### Lesson Elements
 1. Lost procedures

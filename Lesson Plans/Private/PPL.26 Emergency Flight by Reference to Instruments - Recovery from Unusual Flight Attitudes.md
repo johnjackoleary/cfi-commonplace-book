@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
 
 ### References
-IFH Ch 7
+IFH Ch7
 
 ### Builds On
 [[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]

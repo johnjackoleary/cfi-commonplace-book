@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.
 
 ### References
-PHAK Ch 16 (Navigation)
+[[PHAK Ch16]]
 
 ### Builds On
 [[PPL.7 Navigation Charts and National Airspace System]]
