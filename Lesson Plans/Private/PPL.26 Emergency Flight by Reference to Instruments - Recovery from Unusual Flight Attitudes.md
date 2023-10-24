@@ -12,7 +12,7 @@ IFH Ch 7
 [[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
 
 ### Schedule
-Ground 1.5 hour, sim/airplane 1.5 hours
+Ground 1.5 hours, sim/airplane 1.5 hours
 
 ### CFI Equipment
 Hood or foggles
@@ -49,8 +49,8 @@ Hood or foggles
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
 ### Required Homework
- 
 - [ ] Memorize and rehearse recovery from nose-high and nose-low
+- [ ] Purchase items from [[Appendix PPL.C - When to Acquire Various Equipment]]
 
 ### Recommended Homework
 None

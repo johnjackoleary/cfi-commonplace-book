@@ -68,6 +68,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 
 ### Required Homework
 - [ ] Read [[AC 90-66]]
+- [ ] Purchase items from [[Appendix PPL.C - When to Acquire Various Equipment]]
 
 ### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport, from several directions and various wind, with radio calls

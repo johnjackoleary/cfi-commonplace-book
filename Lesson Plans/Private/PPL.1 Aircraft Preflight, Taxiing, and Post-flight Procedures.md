@@ -68,6 +68,7 @@ Learner must become proficient at preflight aircraft inspection, engine start, b
 - [ ] Sign up for ground school ([[Choosing a Ground School]])
 - [ ] Complete 3rd class medical ([[Finding an AME]])
 - [ ] TSA application (if required)
+- [ ] Purchase items from [[Appendix PPL.C - When to Acquire Various Equipment]]
 
 ### Recommended Homework
 None
