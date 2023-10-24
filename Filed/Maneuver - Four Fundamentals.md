@@ -1,15 +1,6 @@
 ---
 cssclass: maneuver
 tags: [maneuver, ppl, cpl]
-altitude-limits: 
-acs:
-  ppl: 
-    section: ""
-    standards: "<font color=\"red\"></font>"
-  cpl: 
-    section: ""
-    standards: "<font color=\"red\"></font>"
-config: "[[Maneuvers Config]]"
 ---
 
 # Procedure
@@ -23,10 +14,6 @@ config: "[[Maneuvers Config]]"
 
 ## Details
 ![[Reduced Power Pitches Down.jpeg]]
-
-# Instruments
-#todo :: Add instruments for control-performance method or primary-supporting method
-
 
 # References
 - [[AFH Ch3]]

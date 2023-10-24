@@ -13,8 +13,8 @@
 
 ### Instructor Interested in Resources
 - [[+ Sources]]
-- 
-- Variety of gait charts for commonly used airplanes under [[Aircraft Gait Charts]]
+- A [[All Maneuvers Quick Reference|quick reference guide to all maneuvers]]
+- A [[Aircraft Gait Charts|variety of gait charts]] (pitch+power+config) for commonly used airplanes
 
 ### Aviation Fan Interested in Growing Your Knowledge
 - [[+ Maneuvers]]

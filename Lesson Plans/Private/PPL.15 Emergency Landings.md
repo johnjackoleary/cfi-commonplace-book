@@ -8,7 +8,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 
 ### References
 - [[AFH Ch18]]
-- AFM/[[POH]]
+- [[AFM]]/[[POH]]
 - [[Private Pilot ACS]] Section IX
 
 ### Builds On

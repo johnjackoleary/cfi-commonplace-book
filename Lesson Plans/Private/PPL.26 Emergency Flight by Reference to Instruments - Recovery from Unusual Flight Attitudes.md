@@ -51,6 +51,7 @@ Student demonstrates the ability to recognize, confirm, and recover from unusual
 ### Required Homework
 - [ ] Memorize and rehearse recovery from nose-high and nose-low
 - [ ] Purchase items from [[Appendix PPL.C - When to Acquire Various Equipment]]
+- [ ] Schedule checkride, depending on wait times
 
 ### Recommended Homework
 None

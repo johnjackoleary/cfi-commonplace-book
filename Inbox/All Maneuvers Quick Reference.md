@@ -1,3 +1,7 @@
+---
+tags: [maneuver]
+---
+
 > [!note]
 > Aggregating here since Obsidian Publish does show PDFs otherwise.
 
