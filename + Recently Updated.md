@@ -1,6 +1,7 @@
 %% Update via "Update Publish Files" template %% 
 
 - October 24, 2023: 
+    - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
     - [[Lesson Plans/Private/PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals.md|PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
@@ -31,7 +32,6 @@
     - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
-    - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.14 Forward Slips to Landing.md|PPL.14 Forward Slips to Landing]]
     - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]

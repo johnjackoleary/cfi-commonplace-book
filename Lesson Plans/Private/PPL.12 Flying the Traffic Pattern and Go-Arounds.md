@@ -1,9 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 1
-local-dual-hr: 1.5
-config: "[[Maneuvers Config]]"
 ---
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
@@ -25,7 +22,7 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 GPS/Sentry/ADS-B In
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight
+1.5 hour ground, 1.5 hours flight
 
 ### Lesson Elements
 #### Traffic Pattern
@@ -53,11 +50,7 @@ GPS/Sentry/ADS-B In
 	4. Flying the pattern 
 		1. Standard Right Traffic for runway 31, turn right 10 degrees after departure for noise abatement
 		2. Memorize power settings/airspeeds, use wind correction angle like [[Maneuver - Rectangular Course|rectangular course]]
-4. Power, Airspeed, and Config for `=this.config.aircraft.model`
-	1. Downwind Leg: `=this.config.aircraft.pattern-downwind-rpm` RPM, `=this.config.aircraft.pattern-downwind-speed` `=this.config.aircraft.speed-units`
-	2. Abeam Threshold: `=this.config.aircraft.pattern-abeam-rpm` RPM, `=this.config.aircraft.pattern-abeam-speed` `=this.config.aircraft.speed-units`, flaps `=this.config.aircraft.pattern-abeam-flaps`
-	3. Base Leg: `=this.config.aircraft.pattern-base-rpm` RPM, `=this.config.aircraft.pattern-base-speed` `=this.config.aircraft.speed-units`, flaps `=this.config.aircraft.pattern-base-flaps`
-	4. Final Leg: `=this.config.aircraft.pattern-final-rpm` RPM, `=this.config.aircraft.Vref`kts, flaps `=this.config.aircraft.pattern-final-flaps`
+4. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]
 6. Common Errors
 	1. Lack of planning ahead, staying ahead of the airplane
 	2. Lack of situation awareness or awareness of other traffic
@@ -73,7 +66,7 @@ GPS/Sentry/ADS-B In
 	5. Possibility of wake turbulence
 	6. Wind shear or gusty crosswind
 	7. Bounced landing, or ballooning during flare
-2. Go-around procedure for `=this.config.aircraft.model`
+2. Go-around procedure ([[5 C's (Going Missed)]])
 	1. [[Go-Around Procedure.jpeg]]
 	2. Stop the Descent (Cram)
 		1. Full power (throttle and prop), smooth but rapid, carb heat off
@@ -83,7 +76,8 @@ GPS/Sentry/ADS-B In
 		1. Pitch to Vx or Vy climb attitude by visual reference to horizon
 		2. Trim for Vx or Vy
 		3. Move off centerline, if another aircraft on runway
-	4. Cool: `= this.config.aircraft.cool-procedure`
+	4. Cool
+		1. depends on aircraft
 	5. Configure
 		1. Verify positive rate of climb, set incrementally set flaps for normal climb
 	6. Call
@@ -105,7 +99,6 @@ For [[FAR 61.87 Student Solo Reqs]]:
 - Go-arounds
 
 ### Required Homework
-
 - [ ] Memorize power settings/airspeeds for pattern
 - [ ] Read Chart Supplement for KPAO
 
