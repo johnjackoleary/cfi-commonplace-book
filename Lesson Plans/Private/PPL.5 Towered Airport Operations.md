@@ -70,7 +70,8 @@ N/A
 Learner must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.
 
 ### Required Logbook Phraseology
-None
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Airport traffic patterns, including entry and departure procedures
 
 ### Required Homework
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands, or practicing license plates on drive

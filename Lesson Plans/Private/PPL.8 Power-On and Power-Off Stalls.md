@@ -1,8 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 0.5
-local-dual-hr: 1
 ---
 ### Objective
 Develop knowledge, risk management, and skills associated with power-on and power-off stalls.
@@ -17,7 +15,7 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 [[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight, with practice on multiple flights
+0.5 hour ground, 2.5 hour flight, with practice on multiple flights
 
 ### Lesson Elements
 1. Aerodynamics of stalls
@@ -38,7 +36,6 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 	2. Climb-out, trying to clear an obstacle, especially at high density altitude
 	3. Emergency landing, power-off glide, trying to stretch the glide
 	4. Exceeding max gross, CG out of limits
-		1. #todo :: mass gross?
 	5. Ice or frost accumulation on wings
 3. Stall recognition
 	1. Sight - high pitch attitude (not always)
@@ -55,7 +52,8 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 Client must be able to demonstrate power-off and power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;
 
 ### Required Homework
 None

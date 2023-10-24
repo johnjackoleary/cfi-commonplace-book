@@ -29,6 +29,11 @@ Overview of short- and soft-field operations
 ### Completion Standards
 Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Climbs at best angle and best rate
+- Takeoff, approach, and landing procedures, including short-field, soft-field, and crosswind takeoffs, approaches, and landings
+
 ### Required Homework
 - [ ] Complete solo quiz
 

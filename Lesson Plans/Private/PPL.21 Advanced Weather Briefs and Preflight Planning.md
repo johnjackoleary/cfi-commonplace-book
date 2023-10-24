@@ -55,6 +55,10 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 ### Completion Standards
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning. Learner creates their personal minimums.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
+
 ### Required Homework
 - [ ] Call 1800-wxbrief and get a brief over the phone
 - [ ] Draft personal minimums

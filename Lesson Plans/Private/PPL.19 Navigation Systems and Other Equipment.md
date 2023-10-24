@@ -35,6 +35,11 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 ### Completion Standards
 Client should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Use of radios for VFR navigation and two-way communication
+- Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications
+
 ### Required Homework
 - [ ] Memorize compass error acronyms: ANDS, UNOS, NOSE
 

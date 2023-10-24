@@ -29,8 +29,12 @@ E6-B
 ### Completion Standards
 Client should be able to fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival. Client should be able to update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass
+- Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown
+
 ### Required Homework
- 
 - [ ] Plan flight to Kingdon Airpark (O20), or other airport >=51nm away^[This distanace makes the flight count as cross-country, which requires a straightline distance of at least 50nm. We'll use 51nm minimum, to make the checkride smoother, but in your own flights >=50nm can count as cross-country.]
 
 ### Recommended Homework

@@ -35,8 +35,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 			1. 10° at a time
 			2. Key points in pattern
 		3. [[FAR 91.113 Right-of-Way Rules]]
-		4. [[Runway Incursions]] ([[Runway Incursions Overview, Risks, and Mitigations]])
-			1. #todo :: Dedup these
+		4. [[Runway Incursions]]
 		5. Awareness of other operations, such as parachuting
 	2. [[Wake Turbulence]] from helicopters, and heavy aircraft
 	3. [[Wind Shear]] avoidance
@@ -92,6 +91,11 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 
 ### Completion Standards
 Learner must become proficient at flying stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
+
+### Required Logbook Phraseology
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Landings, including normal and crosswind
+- Collision avoidance, windshear avoidance, and wake turbulence avoidance
 
 ### Required Homework
 - [ ] Read [[FAA P-8740-40 Wind Shear]]

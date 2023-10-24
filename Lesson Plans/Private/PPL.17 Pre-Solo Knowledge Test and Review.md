@@ -65,6 +65,9 @@ All pre-solo lessons
 	1. No primary student touch-and-goes are allowed in Club aircraft on any runway less than 4000 feet unless accompanied by a Club flight instructor.
 	2. Members are required to plan to land with a minimum of one hour of fuel (assuming cruise flight conditions).
 
+### Required Logbook Phraseology
+After confirming everything for [[FAR 61.87 Student Solo Reqs]], endorse with [[Pre-Solo Endorsements]].
+
 ### Completion Standards
 Client has completed pre-solo knowledge test and received all necessary endorsements.
 

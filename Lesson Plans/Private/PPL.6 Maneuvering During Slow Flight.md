@@ -57,7 +57,7 @@ Client should be proficient at entering slow flight, maneuvering, and recovering
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 
-- Flight at various airspeeds from cruise to slow flight;
+- Flight at various airspeeds from cruise to slow flight
 
 ### Required Homework
  None

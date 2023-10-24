@@ -32,8 +32,12 @@ Ground 1.0, Flight 1.0, frequent practice on multiple flights
 ### Completion Standards
 Client should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Emergency procedures^[Also in [[PPL.24 Emergency Operations]]]
+
 ### Required Homework
- None
+- [ ] Schedule pre-solo xc phase check, if required
 
 ### Recommended Homework 
 - [ ] Many GPS devices have a free simulator to practice with, which is useful to build proficiency

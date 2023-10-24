@@ -58,6 +58,10 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 ### Completion Standards
 Client demonstrates appropriate knowledge of aircraft systems, abnormal and emergency procedures, and the ability to perform emergency procedures to ACS standards.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Emergency procedures^[Also in [[PPL.25 Lost Procedures, and Diversion to Alternates]]]
+
 ### Required Homework
 - [ ] Memorize emergency flows (you may wish to rent an aircraft and practice on the ground, although a picture also works)
 

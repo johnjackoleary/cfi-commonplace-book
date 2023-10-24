@@ -7,7 +7,7 @@ Practice the fundamentals of straight and level (S&L) flight, turns, climbs, and
 
 ### References
 - [[AFH Ch3]]
-- [[PHAK Ch5]]
+- [[PHAK Ch5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
 
 ### Builds On
 N/A

@@ -32,6 +32,10 @@ E6B Calculator or App
 4. [[Leaning the Mixture]]
 5. Flight planning for cross-country flights
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Use of aircraft performance charts pertaining to cross-country flight
+
 ### Completion Standards
 Client should develop knowledge of POH/AFM organization, and ability to use POH to safely and conservatively plan cross country flights, including weight and balance calculations.
 

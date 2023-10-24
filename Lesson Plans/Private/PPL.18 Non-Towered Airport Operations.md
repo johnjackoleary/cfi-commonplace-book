@@ -61,6 +61,11 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 ### Completion Standards
 Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 
+### Required Logbook Phraseology
+For [[FAR 61.93 Solo XC Reqs]]:
+- Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach
+- Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance
+
 ### Required Homework
 - [ ] Read [[AC 90-66]]
 

@@ -39,6 +39,10 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 ### Completion Standards
 Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
 
+### Required Logbook Phraseology
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Slips to a landing
+
 ### Required Homework
 None
 

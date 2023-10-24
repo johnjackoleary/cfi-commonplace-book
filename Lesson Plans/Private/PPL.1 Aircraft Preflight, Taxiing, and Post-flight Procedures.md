@@ -8,7 +8,8 @@ Develop skills associated with preparation for safe flight, including preflight 
 ### References
 - [[POH]]
 - [[Private Pilot ACS]] II and XII
-- AFH Ch [[AFH Ch1|1]], [[AFH Ch2|2]]; PHAK Ch [[PHAK Ch3|3]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
+- [[AFH Ch1]], [[AFH Ch2]]
+- [[PHAK Ch3]]
 
 ### Builds On
 N/A
@@ -17,8 +18,9 @@ N/A
 2.5 hours ground, 0.5 hour flight (optional)
 
 ### Lesson Elements
-1. Onboarding paperwork (new student info, dispatch procedure, aircraft selection and scheduling, TSA)
-2. Preflight
+1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, TSA)
+2. Syllabus overview
+3. Preflight
 	1. Walk-around inspection, use of checklists
 	2. Airworthiness (who determines, who is responsible for)
 		1. Who is responsible for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403]]
@@ -32,20 +34,20 @@ N/A
 	7. Flight deck organization
 	8. Seat adjustments
 	9. Engine start, including use of primer and propeller safety
-3. Taxiing Procedure
+4. Taxiing Procedure
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
-4. Before Takeoff Checks
+5. Before Takeoff Checks
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
-5. Flight
+6. Flight
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
-6. Post-flight Procedures
+7. Post-flight Procedures
 	1. Tie-down technique
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
-7. Common Errors
+8. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
@@ -63,8 +65,8 @@ Learner must become proficient at preflight aircraft inspection, engine start, b
 ### Required Homework
 - [ ] Read through [[POH]] Section 1, 2
 - [ ] Application for Student Pilot Certificate
-- [ ] Sign up for ground school (see [[Choosing a Ground School]])
-- [ ] Complete 3rd class medical (See [[Finding an AME]])
+- [ ] Sign up for ground school ([[Choosing a Ground School]])
+- [ ] Complete 3rd class medical ([[Finding an AME]])
 - [ ] TSA application (if required)
 
 ### Recommended Homework

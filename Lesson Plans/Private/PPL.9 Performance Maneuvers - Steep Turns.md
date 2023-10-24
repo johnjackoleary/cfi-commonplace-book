@@ -7,20 +7,20 @@ Develop knowledge of the aerodynamics of steep turns, including load factor and 
 
 ### References
 - [[Private Pilot ACS]] Sec V-A
+- [[AFH Ch3]]
 - [[AFH Ch10]]
 
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]
 
 ### Schedule
-Ground 0.5 hours, Flight 1.0 hours
+Ground 0.5 hours, Flight 1 hour
 
 ### Lesson Elements
 1. Aerodynamics of steep turns
 	1. [[Adverse yaw]] and rudder usage to compensate for it
 	2. Rudder usage during turn entry, steady turn, and turn exit
-	3. Over-banking tendency -- possibly causing crossed controls during turn
-		1. #todo :: add images
+	3. [[Overbanking Tendency]] -- possibly causing crossed controls during turn
 	4. Load factor (g force) varies with bank angle (reciprocal of cosine of bank angle)
 	5. Stall speed varies with square root of load factor![[Bank Versus Stall Speed and Load Factor]]
 	6. Most light aircraft designed for 3.8 positive g max (corresponds to 75-degree bank level turn)
@@ -38,8 +38,12 @@ Ground 0.5 hours, Flight 1.0 hours
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: ±100 feet, ±10 knots, ±5 degrees bank, ±10 degrees heading on rollout.
 
+### Required Logbook Phraseology
+Technically none, although Steep Turns are in [[Private Pilot ACS]].
+
 ### Required Homework
  None
+ 
 ### Recommended Homework 
 - [ ] Chair fly steep turns
 

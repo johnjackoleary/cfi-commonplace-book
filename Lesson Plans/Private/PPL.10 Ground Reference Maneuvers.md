@@ -43,6 +43,10 @@ GPS/Sentry/ADS-B In
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards. Tolerances: ±100 feet, ±10 knots.
 
+### Required Logbook Phraseology
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Ground reference maneuvers
+
 ### Required Homework
 None
 
