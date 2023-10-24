@@ -1,6 +1,7 @@
 %% Update via "Update Publish Files" template %% 
 
 - October 24, 2023: 
+    - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
@@ -26,7 +27,6 @@
     - [[Filed/Seat Belts and Shoulder Harness Usage.md|Seat Belts and Shoulder Harness Usage]]
     - [[Filed/Unicom.md|Unicom]]
     - [[Lesson Plans/Private/Appendix PPL.C - When to Acquire Various Equipment.md|Appendix PPL.C - When to Acquire Various Equipment]]
-    - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/Appendix PPL.E - Suggestions for XC Destinations.md|Appendix PPL.E - Suggestions for XC Destinations]]
     - [[Lesson Plans/Private/Example Radio Calls.md|Example Radio Calls]]
     - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
