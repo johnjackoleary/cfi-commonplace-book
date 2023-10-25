@@ -19,12 +19,12 @@ The lazy eight is a maneuver that is designed to develop the proper coordination
 1. Concepts in a lazy eight
 	1. Similar to an S-Turn, a lazy eight is two or more opposing 180° turns. The lazy eight adds both a climb and descent to each 180° segment (first 90° is the climb, the second 90° is the descent).
 	2. As we climb, we lose airspeed, which results in a smaller radius turn. This smaller radius turn causes a more pronounced [[Overbanking Tendency]]. Normally we counter this with opposite aileron, but in a lazy eight, we use it to slowly increase bank through the maneuver.
-	3. The slower airspeed, climb, and bank requires attention on the rudder due to the [[Four Left Turning Tendencies]]. This is especially pronounced in in right turns.
+	3. The slower airspeed, climb, and bank requires attention on the rudder due to the [[Four Left Turning Tendencies]]. This is especially pronounced in right turns.
 2. Maneuver setup
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
 	3. Be careful of overlaying Bravo.
-	4. Establish the recommended entry configuration, power, and airspeed. (See aircraft specific maneuver sheets, e.g. [[cfi_maneuvers_cessna_172.pdf]])
+	4. Establish the recommended entry configuration, power, and airspeed. (See aircraft specific maneuver sheets, e.g. [[cfi_maneuvers_cessna_172.pdf]],  [[C182T Commercial Maneuvers.pdf]])
 3. Maneuver
 	1. Pick reference point off wing (90°) in direction of turn. Reference points at 45° and 135° are also useful.
 	2. Establish 5° bank and gradually pitch up (max pitch does not need to be stalling - likely to gain a couple hundred feet)
