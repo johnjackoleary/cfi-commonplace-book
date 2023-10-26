@@ -5,13 +5,14 @@
     - [[Filed/AFH Ch9.md|AFH Ch9]]
     - [[Filed/PHAK Ch1.md|PHAK Ch1]]
     - [[Filed/AFH.md|AFH]]
+    - [[Filed/PHAK.md|PHAK]]
     - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
+    - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
 
 - October 24, 2023: 
     - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
     - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
-    - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
     - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
