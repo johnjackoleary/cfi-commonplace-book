@@ -58,4 +58,4 @@ based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Oct 23, 2023.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Oct 26, 2023.
