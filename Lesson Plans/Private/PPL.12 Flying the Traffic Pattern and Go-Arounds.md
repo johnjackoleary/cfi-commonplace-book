@@ -15,6 +15,7 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 - [skyvector.com](http://www.skyvector.com)
 
 ### Builds On
+- [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]
 - [[PPL.5 Towered Airport Operations]]
 - [[PPL.10 Ground Reference Maneuvers]]
 

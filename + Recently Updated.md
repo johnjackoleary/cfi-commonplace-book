@@ -1,8 +1,18 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 25, 2023: 
+    - [[Filed/AFH Ch8.md|AFH Ch8]]
+    - [[Filed/AFH Ch9.md|AFH Ch9]]
+    - [[Filed/PHAK Ch1.md|PHAK Ch1]]
+    - [[Filed/AFH.md|AFH]]
+    - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
+    - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
+
 - October 24, 2023: 
+    - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
     - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
+    - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
     - [[Lesson Plans/Private/PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals.md|PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
@@ -33,9 +43,7 @@
     - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
-    - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.14 Forward Slips to Landing.md|PPL.14 Forward Slips to Landing]]
-    - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.19 Navigation Systems and Other Equipment.md|PPL.19 Navigation Systems and Other Equipment]]
@@ -46,9 +54,9 @@
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
+    - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
-    - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/PPL.9 Performance Maneuvers - Steep Turns.md|PPL.9 Performance Maneuvers - Steep Turns]]
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
 
@@ -56,7 +64,6 @@
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
     - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
     - [[Lesson Plans/Commercial/Eights on Pylons.md|Eights on Pylons]]
-    - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
     - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Lesson Plans/Private/Appendix PPL.B - Private Pilot Endorsements.md|Appendix PPL.B - Private Pilot Endorsements]]
@@ -73,7 +80,6 @@
     - [[Filed/Finding an AME.md|Finding an AME]]
     - [[Filed/Forces in Stabilized Flight.md|Forces in Stabilized Flight]]
     - [[Filed/Light Gun Signals.md|Light Gun Signals]]
-    - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
     - [[Filed/PHAK Ch13.md|PHAK Ch13]]
     - [[Filed/PIREP.md|PIREP]]
     - [[Filed/POH.md|POH]]
@@ -84,8 +90,8 @@
     - [[Filed/4 Types of MEL's.md|4 Types of MEL's]]
     - [[Filed/90%-10% Outside vs Inside for Integrated Flight Instruction.md|90%-10% Outside vs Inside for Integrated Flight Instruction]]
     - [[Filed/A Guide to Understanding BasicMed – Brought to you by AOPA.md|A Guide to Understanding BasicMed – Brought to you by AOPA]]
-    - [[Filed/Adverse Yaw.md|Adverse Yaw]]
     - [[Filed/Additional Flights Instructor Responsibilities.md|Additional Flights Instructor Responsibilities]]
+    - [[Filed/Adverse Yaw.md|Adverse Yaw]]
     - [[Filed/Air Trek North CFI Homework.md|Air Trek North CFI Homework]]
     - [[Filed/Air Trek North FIA Flashcards.md|Air Trek North FIA Flashcards]]
     - [[Filed/Air Trek North FOI Flashcards.md|Air Trek North FOI Flashcards]]
@@ -96,16 +102,16 @@
     - [[Filed/Basic Elements of Communication.md|Basic Elements of Communication]]
     - [[Filed/Carbon Monoxide Poisoning.md|Carbon Monoxide Poisoning]]
     - [[Filed/Characteristics of Good Oral Questions.md|Characteristics of Good Oral Questions]]
-    - [[Filed/Characteristics of Learning.md|Characteristics of Learning]]
     - [[Filed/Characteristics of a Professional.md|Characteristics of a Professional]]
+    - [[Filed/Characteristics of Learning.md|Characteristics of Learning]]
     - [[Filed/Characteristics of an Effective Assessment.md|Characteristics of an Effective Assessment]]
     - [[Filed/Commercial Pilot Privileges and Limitations.md|Commercial Pilot Privileges and Limitations]]
     - [[Filed/Daylight Visual Illusions.md|Daylight Visual Illusions]]
     - [[Filed/Defense Mechanisms.md|Defense Mechanisms]]
     - [[Filed/Definition of Professionalism.md|Definition of Professionalism]]
     - [[Filed/Demonstration Performance Model.md|Demonstration Performance Model]]
-    - [[Filed/Difference between critique and assessment.md|Difference between critique and assessment]]
     - [[Filed/Developing Instructor Communication Skills.md|Developing Instructor Communication Skills]]
+    - [[Filed/Difference between critique and assessment.md|Difference between critique and assessment]]
     - [[Filed/Does a plane stall from back of wing forward or front of wing rearward.md|Does a plane stall from back of wing forward or front of wing rearward]]
     - [[Filed/Does a plane stall from root to tip, or tip to root.md|Does a plane stall from root to tip, or tip to root]]
     - [[Filed/Elements of the Teaching Process.md|Elements of the Teaching Process]]
@@ -168,8 +174,8 @@
     - [[Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md|Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
     - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
     - [[Lesson Plans/Student Endorsements/Takeoffs and Landings At Airport Within 25 NM Endorsement.md|Takeoffs and Landings At Airport Within 25 NM Endorsement]]
-    - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
     - [[Media/Aircraft/C152/C152 GAIT and Datasheet.md|C152 GAIT and Datasheet]]
+    - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
     - [[Media/Aircraft/MSFS/README.md|README]]
     - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait and Datasheet.md|PA28-181 MPH Gait and Datasheet]]
 
@@ -198,8 +204,4 @@
 
 - September 25, 2023: 
     - [[Filed/Airport Advisory Area.md|Airport Advisory Area]]
-
-- September 18, 2023: 
-    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
-    - [[Lesson Plans/Instrument/~ Complete IR Syllabus.md|~ Complete IR Syllabus]]
 

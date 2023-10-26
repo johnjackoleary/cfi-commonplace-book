@@ -1,9 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 1.5
-local-dual-hr: 1.5
-datasheet: "[[C172S Datasheet]]"
 ---
 ### Objective
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
@@ -11,16 +8,14 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 ### References
 - [[AFH Ch9]]
 - [[Private Pilot ACS]] Sec IV-B
-- [[POH]]
+- [[AFM]]/[[POH]]
 
 ### Builds On
 - [[PPL.6 Maneuvering During Slow Flight]]
-- [[PPL.8 Power-On and Power-Off Stalls]]
-- [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]
 - [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` flight, multiple flights to practice as necessary
+1.5 hours ground, 1.5 hours flight, multiple flights to practice as necessary
 
 ### Lesson Elements
 1. Goal of landing: Smoothly transfer weight from wings to wheels
