@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 26, 2023: 
+    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
+
 - October 25, 2023: 
     - [[Filed/AFH Ch8.md|AFH Ch8]]
     - [[Filed/AFH Ch9.md|AFH Ch9]]
@@ -12,6 +15,7 @@
 
 - October 24, 2023: 
     - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
+    - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
     - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
@@ -59,7 +63,6 @@
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
     - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
     - [[Lesson Plans/Private/PPL.9 Performance Maneuvers - Steep Turns.md|PPL.9 Performance Maneuvers - Steep Turns]]
-    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
 
 - October 18, 2023: 
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
@@ -202,7 +205,4 @@
     - [[Media/Aircraft/C172S/C172S GAIT.md|C172S GAIT]]
     - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait and Datasheet.md|PA28-181 KTS Gait and Datasheet]]
     - [[Templates/Dataview to Obsidian Publish/README.md|README]]
-
-- September 25, 2023: 
-    - [[Filed/Airport Advisory Area.md|Airport Advisory Area]]
 

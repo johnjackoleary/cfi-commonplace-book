@@ -1,6 +1,6 @@
 %% Update via "Update Publish Files" template %% 
 
-- [[Inbox/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
+- [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
 - [[Filed/Maneuver Set-Up.md|Maneuver Set-Up]]
 - [[Filed/Maneuver - Turns Around a Point.md|Maneuver - Turns Around a Point]]
 - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
