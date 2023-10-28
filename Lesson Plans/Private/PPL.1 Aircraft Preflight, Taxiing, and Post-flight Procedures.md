@@ -64,7 +64,7 @@ Learner must become proficient at preflight aircraft inspection, engine start, b
 
 ### Required Homework
 - [ ] Read through [[POH]] Section 1, 2
-- [ ] Application for Student Pilot Certificate
+- [ ] Application for Student Pilot Certificate (Do Not Use SSN, no need)
 - [ ] Sign up for ground school ([[Choosing a Ground School]])
 - [ ] Complete 3rd class medical ([[Finding an AME]])
 - [ ] TSA application (if required)
