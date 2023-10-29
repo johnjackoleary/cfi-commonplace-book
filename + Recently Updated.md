@@ -1,5 +1,17 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 29, 2023: 
+    - [[Filed/G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors.md|G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
+    - [[Filed/G1000 Integrated Flight Deck Pilot's Guide.md|G1000 Integrated Flight Deck Pilot's Guide]]
+    - [[Filed/G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III.md|G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]]
+    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
+    - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
+    - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
+    - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
+
+- October 27, 2023: 
+    - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+
 - October 26, 2023: 
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
 
@@ -46,7 +58,6 @@
     - [[Lesson Plans/Private/Appendix PPL.E - Suggestions for XC Destinations.md|Appendix PPL.E - Suggestions for XC Destinations]]
     - [[Lesson Plans/Private/Example Radio Calls.md|Example Radio Calls]]
     - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
-    - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.14 Forward Slips to Landing.md|PPL.14 Forward Slips to Landing]]
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
@@ -182,27 +193,4 @@
     - [[Media/Aircraft/C152/C152 GAIT and Datasheet.md|C152 GAIT and Datasheet]]
     - [[Media/Aircraft/MSFS/README.md|README]]
     - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait and Datasheet.md|PA28-181 MPH Gait and Datasheet]]
-
-- October 11, 2023: 
-    - [[Filed/CFI.md|CFI]]
-    - [[Media/README.md|README]]
-    - [[Todo.md|Todo]]
-    - [[~ How You Can Help Improve This Content.md|~ How You Can Help Improve This Content]]
-
-- October 10, 2023: 
-    - [[Filed/A CFI’s Guide to Sport Pilot and Light Sport Aircraft.md|A CFI’s Guide to Sport Pilot and Light Sport Aircraft]]
-    - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
-    - [[Filed/Leaning the Mixture.md|Leaning the Mixture]]
-    - [[Filed/Maneuver - Short-Field Takeoff and Landings.md|Maneuver - Short-Field Takeoff and Landings]]
-    - [[Filed/Maneuver - Soft-Field Takeoff and Landings.md|Maneuver - Soft-Field Takeoff and Landings]]
-    - [[Filed/Maneuvers Config.md|Maneuvers Config]]
-    - [[Filed/STC.md|STC]]
-    - [[Filed/Sport Pilot Privileges and Limitations.md|Sport Pilot Privileges and Limitations]]
-    - [[Filed/WRIMTMS.md|WRIMTMS]]
-    - [[Filed/Weight.md|Weight]]
-    - [[Filed/White Over White, Red Over White, Red Over Red.md|White Over White, Red Over White, Red Over Red]]
-    - [[Media/Aircraft/C172S/C172S Datasheet.md|C172S Datasheet]]
-    - [[Media/Aircraft/C172S/C172S GAIT.md|C172S GAIT]]
-    - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait and Datasheet.md|PA28-181 KTS Gait and Datasheet]]
-    - [[Templates/Dataview to Obsidian Publish/README.md|README]]
 
