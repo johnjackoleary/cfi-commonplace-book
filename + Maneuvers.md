@@ -1,6 +1,5 @@
 %% Update via "Update Publish Files" template %% 
 
-- [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
 - [[Filed/Maneuver Set-Up.md|Maneuver Set-Up]]
 - [[Filed/Maneuver - Turns Around a Point.md|Maneuver - Turns Around a Point]]
 - [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
@@ -13,3 +12,4 @@
 - [[Filed/Maneuver - Power-Off Stall.md|Maneuver - Power-Off Stall]]
 - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
 - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
+- [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]

@@ -1,16 +1,20 @@
 %% Update via "Update Publish Files" template %% 
 
 - October 30, 2023: 
+    - [[Filed/FAR 61.57 Recent Flight Experience.md|FAR 61.57 Recent Flight Experience]]
+    - [[Filed/FAR 91.123 Compliance with ATC.md|FAR 91.123 Compliance with ATC]]
+    - [[Filed/InFO15012.md|InFO15012]]
+    - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
 
 - October 29, 2023: 
     - [[Filed/G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors.md|G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
-    - [[Filed/G1000 Integrated Flight Deck Pilot's Guide.md|G1000 Integrated Flight Deck Pilot's Guide]]
     - [[Filed/G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III.md|G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]]
+    - [[Filed/G1000 Integrated Flight Deck Pilot's Guide.md|G1000 Integrated Flight Deck Pilot's Guide]]
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
-    - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
-    - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
+    - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
+    - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
 
 - October 27, 2023: 
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
@@ -29,14 +33,14 @@
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
 
 - October 24, 2023: 
-    - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
     - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
+    - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
     - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
+    - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
     - [[Lesson Plans/Private/PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals.md|PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
     - [[Lesson Plans/Private/PPL.25 Lost Procedures, and Diversion to Alternates.md|PPL.25 Lost Procedures, and Diversion to Alternates]]
-    - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
     - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/PPL.27 Night Operations and Night Cross Country.md|PPL.27 Night Operations and Night Cross Country]]
     - [[~ Start Here.md|~ Start Here]]
@@ -70,11 +74,11 @@
     - [[Lesson Plans/Private/PPL.20 Aircraft Performance including Weight and Balance.md|PPL.20 Aircraft Performance including Weight and Balance]]
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.24 Emergency Operations.md|PPL.24 Emergency Operations]]
-    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
+    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
-    - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
     - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
+    - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
     - [[Lesson Plans/Private/PPL.9 Performance Maneuvers - Steep Turns.md|PPL.9 Performance Maneuvers - Steep Turns]]
 
 - October 18, 2023: 

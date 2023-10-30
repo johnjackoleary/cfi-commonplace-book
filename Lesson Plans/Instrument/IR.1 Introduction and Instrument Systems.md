@@ -34,7 +34,7 @@ Ground 3 hours
          6. Logbook Endorsement for Practical
          7. Pass Written
          8. Pass Practical
-      2. Aeronautical Experience 61.57
+      2. Aeronautical Experience
          1. 50 hours XC PIC, 10 hrs in Airplane
          2. 40 hours actual or simulated instrument, 15 from an authorized instructor
          3. 3 hours of instrument flight training from CFII within 2 months of practical
