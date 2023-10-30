@@ -1,26 +1,22 @@
 :root {
-  --accent-h: 186;
-  --accent-s: 100%;
-  --accent-l: 33%;
   /* ... By default, nothing is placed within :root in Publish. However, CSS variables here are considered global, and accessible to all sub-elements such as body and .theme-light. */
 }
 
 .published-container {  
-  --accent-h: 186;
-  --accent-s: 100%;
-  --accent-l: 33%;
   /* ... CSS variables for Publish that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */
 }
 .body {
-  --accent-h: 186;
-  --accent-s: 100%;
-  --accent-l: 33%;
-  --text-accent: #0097A7;
   /* ... CSS variables that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */
 }
 .theme-light {
+  --accent-h: 186;
+  --accent-s: 100%;
+  --accent-l: 33%;
   /* ... CSS color variables for when light mode is enabled */
 }
 .theme-dark {
+  --accent-h: 186;
+  --accent-s: 100%;
+  --accent-l: 33%;
   /* ... CSS color variables for when dark mode is enabled */
 }

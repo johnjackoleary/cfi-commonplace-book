@@ -4,6 +4,7 @@
     - [[Filed/FAR 61.57 Recent Flight Experience.md|FAR 61.57 Recent Flight Experience]]
     - [[Filed/FAR 91.123 Compliance with ATC.md|FAR 91.123 Compliance with ATC]]
     - [[Filed/InFO15012.md|InFO15012]]
+    - [[Filed/FAR 61.65 Instrument Rating Requirements.md|FAR 61.65 Instrument Rating Requirements]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
 

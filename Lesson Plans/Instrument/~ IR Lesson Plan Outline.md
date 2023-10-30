@@ -17,16 +17,16 @@ tags: ir
 [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
 [[IR.9 Communications, Clearances, Lost Communications Procedures]]
 [[IR.10 Flight Deck Organization, Workload Management, Checklists]]
-[[IR.12 Precision Approaches]]
-[[IR.13 IFR Weather and Weather Services]]
-[[IR.14 Non-Precision Approaches]]
-[[IR.15 IFR Departure Procedures and Terminal Arrival Procedures]]
-[[IR.16 Partial Panel Maneuvers and Approaches]]
-[[IR.17 Unusual Attitude Recoveries]]
+[[IR.11 Precision Approaches]]
+[[IR.12 IFR Weather and Weather Services]]
+[[IR.13 Non-Precision Approaches]]
+[[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
+[[IR.15 Partial Panel Maneuvers and Approaches]]
+[[IR.16 Unusual Attitude Recoveries]]
 
 #### Stage III: Cross-Country and checkride prep 
-[[IR.18 Enroute and Cross-Country Instrument Flight]]
-[[IR.19 Review and Checkride Prep]]
+[[IR.17 Enroute and Cross-Country Instrument Flight]]
+[[IR.18 Review and Checkride Prep]]
 
 #### Appendices: 
 [[Appendix IR.A - IFR Regulations Quick Reference from AOPA]]

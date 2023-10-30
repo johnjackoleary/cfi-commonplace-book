@@ -4,14 +4,12 @@
 
 #### Summary
 * [[Induced Drag]] explained using smoke chamber.
-* Explains why high [[aspect ratio]] wings are used (and better for) highly economical planes, since they produce less surface friction and more widely distribute the pressure below and above to reduce wing tip vortices.
-* In cruise flight, 50% of power goes to overcoming air resistance and 50% goes to generating lift.
+* Explains why high [[aspect ratio]] wings are used (and better for) highly economical planes, since they produce less surface friction and more widely distribute the pressure below and above to reduce [[Wingtip Vortex|wingtip vortices]].
+* In cruise flight, 50% of power goes to overcoming air resistance and 50% goes to generating [[lift]].
 
 #### Relevant Notes
 ```dataview
 LIST WHERE contains(this.file.inlinks, file.link)
 ```
 
-#source #
-
-#todo :: add key quotes
+#source
