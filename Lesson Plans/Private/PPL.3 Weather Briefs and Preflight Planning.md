@@ -56,7 +56,7 @@ For [[FAR 61.87 Student Solo Reqs]]:
 - Proper flight preparation procedures, including preflight planning and preparation...
 
 ### Required Homework
-- [ ] Make a [1800wxbrief.com](1800wxbrief.com) account, and start to use it for pre-flight briefings
+- [ ] Make a [1800wxbrief.com](https://www.1800wxbrief.com) account, and start to use it for pre-flight briefings
 
 ### Recommended Homework
 - [ ] Start paying attention to weather between lessons as well -- what are the local weather patterns you notice?

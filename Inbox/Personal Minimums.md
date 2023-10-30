@@ -1,0 +1,1 @@
+#todo :: Add info about finding your own personal minimums
