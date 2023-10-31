@@ -4,7 +4,7 @@ tags: ir
 ---
 ### Instrument Rating Airplane Single-Engine, Lesson Plan Outline
 
-#### Stage I: Instrument scanning and interpretation, aircraft control, radio navigation 
+#### Stage I: Aircraft
 [[IR.1 Introduction and Instrument Systems]]
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
 [[IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
@@ -24,15 +24,15 @@ tags: ir
 [[IR.15 Partial Panel Maneuvers and Approaches]]
 [[IR.16 Unusual Attitude Recoveries]]
 
-#### Stage III: Cross-Country and checkride prep 
+#### Stage III: Cross-Country and Checkride Prep
 [[IR.17 Enroute and Cross-Country Instrument Flight]]
 [[IR.18 Review and Checkride Prep]]
 
-#### Appendices: 
+#### Appendices
 [[Appendix IR.A - IFR Regulations Quick Reference from AOPA]]
 [[Appendix IR.B - Lost Communications]]
 [[Appendix IR.C - IFR Endorsements]]
-[[Appendix IR.D - Instrument rating Flight Experience Requirements]]
+[[Appendix IR.D - Instrument Rating Flight Experience Requirements]]
 [[Appendix IR.E - Important References to Study]]
 [[Appendix IR.F - Kneeboard Cheatsheets]]
 [[Appendix IR.G - KSQL IFR Departure Procedure]]

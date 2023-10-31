@@ -1,5 +1,3 @@
-D. Navigation Aids and Instruments, and Ice Protection 
-
 ---
 cssclasses:
   - lesson

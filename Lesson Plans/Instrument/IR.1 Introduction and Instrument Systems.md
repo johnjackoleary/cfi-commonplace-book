@@ -10,7 +10,7 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 
 ### References
 #todo :: Clean up references
-[[Appendix IR.D - Instrument rating Flight Experience Requirements]], IFH Ch. 5-6, [[POH]]/[[AFM]] 
+[[Appendix IR.D - Instrument Rating Flight Experience Requirements]], IFH Ch. 5-6, [[POH]]/[[AFM]] 
 
 ### Builds On
 [[PPL.19 Navigation Systems and Other Equipment]]
@@ -24,7 +24,7 @@ Ground 3 hours
 		1. Private: 60-80 hours, about $20k 
 		2. Instrument 40-60 hours, about $15k 
 		3. Simulation software and PC tools 
-	2. Requirements for Instrument Rating [[FAR 61.65 Instrument Rating Requirements]]
+	2. Requirements for Instrument Rating [[FAR 61.65 Instrument Rating Reqs]]
 		1. General
 			1. Current Private Pilot
 			2. English
