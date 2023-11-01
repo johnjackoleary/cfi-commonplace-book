@@ -17,9 +17,4 @@
 - [[AC 00-54]]
 - [[AC 00-57]]
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

@@ -5,9 +5,4 @@
 #### Key Quotes
 * A student pilot... must receive and log flight training in the following maneuvers and procedures
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

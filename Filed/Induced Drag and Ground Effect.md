@@ -7,9 +7,4 @@
 * When near the runway, the local relative airstream can't bend as much, because the runway is there and is a hard surface, so the lift vector doesn't get sent backwards as much. (Induced drag disappears or diminishes in [[ground effect]].)
 * "Lift that acts like drag is known as [[Induced Drag]]"
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

@@ -7,9 +7,4 @@
 * Here’s some rules of thumb to consider when computing your takeoff calculations...
 * let’s shift to some pattern practices...
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

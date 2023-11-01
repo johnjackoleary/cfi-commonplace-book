@@ -6,9 +6,4 @@
 * There are two categories of airspace or airspace areas... Within these two categories, there are four types....
 * No person may operate an aircraft under basic VFR when the flight visibility is less, or at a distance from clouds that is less, than...
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

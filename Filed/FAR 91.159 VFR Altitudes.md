@@ -7,9 +7,4 @@
 * On a [[magnetic course]] of zero degrees through 179 degrees, any odd thousand foot MSL altitude + 500 feet (such as 3,500, 5,500, or 7,500); or 
 * On a [[magnetic course]] of 180 degrees through 359 degrees, any even thousand foot MSL altitude + 500 feet (such as 4,500, 6,500, or 8,500).
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #far

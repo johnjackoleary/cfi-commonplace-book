@@ -7,9 +7,4 @@
 * A student pilot must demonstrate satisfactory aeronautical knowledge...
 * A student pilot... must receive and log flight training for the following maneuvers and procedures
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

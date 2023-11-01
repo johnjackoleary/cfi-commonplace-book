@@ -5,9 +5,4 @@
 #### Key Quotes
 * An applicant for a student pilot certificate must...
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #far

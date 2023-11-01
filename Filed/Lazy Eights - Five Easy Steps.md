@@ -6,9 +6,4 @@
 #### Key Quotes
 * Want an easy way to teach lazy eights? Some say there is no easy way, but the way described here might prove a bit of a shortcut for you.
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

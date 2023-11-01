@@ -5,9 +5,4 @@
 #### Key Quotes
 * "Asking someone why they love to fly is almost like asking someone why they like Picasso. The beauty is the fact that you can’t really describe it, it’s something that you have to behold. Flying takes you into another dimension, literally. We see, feel, and experience things that people who don’t fly will never know."
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source

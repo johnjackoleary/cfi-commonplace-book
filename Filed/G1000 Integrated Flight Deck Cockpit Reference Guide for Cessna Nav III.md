@@ -6,9 +6,4 @@
 #### Key Quotes
 * Cockpit Reference Guide
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #g1000 

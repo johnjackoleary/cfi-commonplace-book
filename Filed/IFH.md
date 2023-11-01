@@ -13,9 +13,4 @@
 	* IFR emergencies. 
 	* Clearance shorthand and an integrated instrument lesson guide are also included.
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #acronym #ifh

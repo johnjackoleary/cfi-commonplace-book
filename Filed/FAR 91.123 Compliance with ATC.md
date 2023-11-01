@@ -5,9 +5,4 @@
 #### Key Quotes
 * When an ATC clearance has been obtained, no pilot in command may deviate from that clearance unless...
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #far

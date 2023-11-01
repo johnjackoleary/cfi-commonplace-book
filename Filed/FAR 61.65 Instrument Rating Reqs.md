@@ -8,9 +8,4 @@
 * A person who applies for an instrument rating must receive and log training... that includes the following areas of operation:
 * A person who applies for an instrument-airplane rating must have logged...
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #far 

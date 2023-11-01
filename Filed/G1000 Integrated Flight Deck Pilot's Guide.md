@@ -6,9 +6,4 @@
 * This manual reflects the operation of System Software version 0563.30 or later for Cessna 172R, 172S, 182T, J182T, T182T, 206H, and T206H aircraft.
 * The G1000 system is an integrated flight control system that presents flight instrumentation, position, navigation, communication, and identification information to the pilot through large-format displays.
 
-#### Relevant Notes
-```dataview
-LIST WHERE contains(this.file.inlinks, file.link)
-```
-
 #source #g1000 
