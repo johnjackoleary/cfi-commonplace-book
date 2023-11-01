@@ -31,12 +31,8 @@
             "id": "8e0e5d44601b9dac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Plans/Private/Appendix B - Private Pilot Endorsements.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -57,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/CFI-I Battle Plan.md",
+                "file": "Inbox/2023-10-30 103040.md",
                 "mode": "preview",
                 "source": true
               }
@@ -138,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/CFI-I Battle Plan.md",
+            "file": "Inbox/Untitled 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/CFI-I Battle Plan.md",
+            "file": "Inbox/Untitled 3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/CFI-I Battle Plan.md"
+            "file": "Inbox/Untitled 3.md"
           }
         }
       }
@@ -185,34 +181,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a72087a50f325c94",
+  "active": "34f7d124e6a21701",
   "lastOpenFiles": [
+    "Lesson Plans/Instrument/IR.10 Flight Deck Organization, Workload Management, Checklists.md",
+    "Lesson Plans/Instrument/IR.15 Partial Panel Maneuvers and Approaches.md",
+    "Lesson Plans/Instrument/IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits.md",
+    "Lesson Plans/Instrument/IR.2 Instrument Scan, Basic Attitude Instrument Flight.md",
+    "Lesson Plans/Instrument/IR.9 Communications, Clearances, Lost Communications Procedures.md",
+    "Lesson Plans/Instrument/IR.17 Enroute and Cross-Country Instrument Flight.md",
+    "Lesson Plans/Instrument/IR.5 Intercepting and Tracking VOR Navigation Aids, HSI, Autopilot Usage.md",
+    "Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md",
+    "Lesson Plans/Instrument/~ IR Blocks of Learning.canvas",
+    "Lesson Plans/Instrument/IR.7 GPS Navigation and Automation Management.md",
+    "Lesson Plans/Instrument/IR.11 Precision Approaches.md",
+    "Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md",
+    "Filed/FAR 61.57 Recent Flight Experience.md",
+    "Filed/FAR 61.109 Private Pilot Reqs.md",
+    "Lesson Plans/Instrument/IR.12 IFR Weather and Weather Services.md",
+    "Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md",
+    "Inbox/Tools for Practicing With Avionics.md",
+    "Filed/FAR 61.65 Instrument Rating Reqs.md",
+    "Lesson Plans/Instrument/IR.16 Unusual Attitude Recoveries.md",
+    "Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md",
+    "Lesson Plans/Instrument/IR.8 Airspace, Charts, Flight Planning and Enroute Operations.md",
+    "Filed/Plans for Rejected Takeoff.md",
+    "Lesson Plans/Instrument/Appendix IR.D - Instrument Rating Flight Experience Requirements.md",
+    "Lesson Plans/Instrument/IR.6 Holding Patterns and Workload Management.md",
+    "Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md",
+    "Inbox/CFI-I Battle Plan.md",
     "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
-    "Inbox/2023-08-26 181625.md",
-    "Inbox/National Airspace System.md",
-    "Lesson Plans/Private/12. Navigation Charts and National Airspace System.md",
-    "Inbox/Untitled 3.md",
-    "Lesson Plans/Private/~ PPL Lesson Plan Outline.md",
-    "Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md",
-    "README.md",
-    "~ How You Can Help Improve This Content.md",
-    "+ Acronyms.md",
-    "+ Glossary.md",
-    "+ Maneuvers.md",
-    "+ Quotes.md",
-    "+ Todo.md",
-    "Sources/Stick and Rudder.md",
-    "Inbox/Altitude and speed as bank and pocket change.md",
-    "Filed/Maneuver - Turns Around a Point.md",
-    "Filed/Maneuver Set-Up.md",
-    "Inbox/2023-01-28 151047.md",
-    "Filed/Useful Bay Webcams.md",
-    "Inbox/1219-blackbird letter.pdf.md",
-    "Inbox/Afterfiring.md",
-    "Inbox/2023-05-11 170441.md",
-    "Inbox/2023-05-25 104026.md",
-    "Inbox/2023-05-30 093119.md",
-    "Inbox/2023-07-12 201345.md",
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf"
   ]
