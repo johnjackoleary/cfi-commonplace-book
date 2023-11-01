@@ -58,9 +58,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6044dd72237c9a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lesson Plans/Instrument/Instrument proficiency check.md",
+            "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lesson Plans/Instrument/Instrument proficiency check.md",
+            "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lesson Plans/Instrument/Instrument proficiency check.md"
+            "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md"
           }
         }
       }
@@ -181,10 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a72087a50f325c94",
+  "active": "6044dd72237c9a79",
   "lastOpenFiles": [
-    "Inbox/Untitled 3.md",
     "Lesson Plans/Instrument/Instrument proficiency check.md",
+    "Inbox/GPS Safety Advisory Doc.md",
+    "Inbox/Untitled 3.md",
     "Filed/Pattern Precision.md",
     "Inbox/Personal Minimums.md",
     "Filed/InFO15012.md",
@@ -210,7 +223,6 @@
     "Filed/FAR 61.109 Private Pilot Reqs.md",
     "Lesson Plans/Instrument/IR.12 IFR Weather and Weather Services.md",
     "Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md",
-    "Inbox/Tools for Practicing With Avionics.md",
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf"
   ]

@@ -21,6 +21,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 2. Pilot
 	1. [[Personal Minimums]] and [[ADM]]
 	2. [[Human Factors]]
+	3. Proficiency vs Currency
 3. Aircraft
 	1. Primary/Secondary flight controls
 	2. Powerplant and propeller
