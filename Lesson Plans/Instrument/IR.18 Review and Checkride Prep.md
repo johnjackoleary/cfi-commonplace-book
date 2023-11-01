@@ -9,7 +9,7 @@ tags:
 Review emergency procedures, review knowledge test items, practice and prepare for checkride, including phase check and/or practice checkride. 
 
 ### References
-N/A 
+- [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
 
 ### Schedule
 Ground 1 hour, Flight 3 hours 
@@ -40,3 +40,13 @@ Ground 1 hour, Flight 3 hours
  
 ### Completion Standards
 The student must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, including ability to complete no precision approach without use of primary flight instruments.
+
+### Required Logbook Phraseology
+
+### Required Homework
+- [ ] 
+
+### Recommended Homework
+- [ ] 
+
+*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

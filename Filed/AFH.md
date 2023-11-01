@@ -1,4 +1,7 @@
 ***Meaning*** :: <u>A</u>irplane <u>F</u>lying <u>H</u>andbook
+***Link***      :: 
+***Description***      :: `= this.link`
+***Author*** :: [[FAA]]
 
 Chapters:
 - [[AFH Ch1]]
@@ -20,4 +23,4 @@ Chapters:
 - [[AFH Ch17]]
 - [[AFH Ch18]]
 
-#acronym #afh
+#acronym #afh #source

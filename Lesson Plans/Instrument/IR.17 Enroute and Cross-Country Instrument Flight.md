@@ -6,10 +6,10 @@ tags:
   - lesson
 ---
 ### Objective
-To develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country and filing a flight plan. Plan and fly instrument cross-country flight to satisfy aeronautical experience in FAR 61.65.
+Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country and filing a flight plan. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs]].
 
 ### References
-FAR 61.65, 91.167-187, Risk Management Handbook, AIM 5-1, IFH, IPH 
+[[FAR 61.65 Instrument Rating Reqs]], 91.167-187, Risk Management Handbook, AIM 5-1, IFH, IPH 
 
 ### Builds On
 
