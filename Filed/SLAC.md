@@ -3,4 +3,4 @@
 
 Although the modern name is SLAC National Accelerator Laboratory.
 
-#acronym #reportingpoint 
+#acronym #reporting-point 

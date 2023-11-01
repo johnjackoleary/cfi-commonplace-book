@@ -6,19 +6,21 @@ tags:
   - lesson
 ---
 ### Objective
-To understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure 
+To understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure. 
 
 ### References
-IFH Ch. 6-7, Flight Deck Poster/Diagram
+- [[IFH]] Ch. 6-7
+- Flight Deck Poster/Diagram
 
 ### Builds On
+[[IR.1 Introduction and Instrument Systems]]
 
 ### Schedule
 Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Lesson Elements
 1. Fundamentals of instrument flight: cross check, instrument interpretation, aircraft control
-2. Control/Performance (AFH Ch6)
+2. Control/Performance ([[AFH Ch6]])
 	1.  Pitch + Power = Performance
 	2. Control Instruments
 		1. Attitude Indicator
@@ -30,7 +32,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 		3. Altimeter
 3. Introduction to Instrument Scan (ground portion) 
 	1. Instrument cross check, types of scans 
-	2. 4-step scan procedure to initiate any maneuver (AOPA)
+	2. 4-step scan procedure to initiate any maneuver ([[AOPA]])
 		1. Set approximate attitude and power 
 		2. Inverted V-scan (still music scan) to check trends 
 		3. Music scan primary instruments 
@@ -51,15 +53,13 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	3. Fixation or omission 
 	4. While turning – do nothing else 
 	5. Heavy touch, over-controlling 
-	6. Improper trim control 
-
-
-  
+	6. Improper trim control
 
 ### Completion Standards
 Student must demonstrate understanding of: control and performance instruments; instrument scan methods and ability to diagnose and respond to system failures. Student should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
 
 ### Required Logbook Phraseology
+- [ ] Flight by reference to instruments
 
 ### Required Homework
 - [ ] 

@@ -42,7 +42,7 @@ From [[PHAK Ch5]]:
 This is why the aircraft requires so much power to maintain slow flight, and why it can actually fly faster with less power as you accelerate to a speed with less induced drag.
 
 ### Flight in Ground Effect
-[[Ground effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend down as much. This means the lift vector does not tip backward as much, and there is less induced drag.
+[[Ground Effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend down as much. This means the lift vector does not tip backward as much, and there is less induced drag.
 
 ![[Difference in Induced Drag at Altitude vs Ground.jpeg]]
 

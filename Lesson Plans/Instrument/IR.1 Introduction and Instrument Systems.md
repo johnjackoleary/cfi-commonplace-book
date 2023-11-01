@@ -9,8 +9,9 @@ tags:
 Develop understanding of IFR flight training process, and detailed knowledge of instrument systems and pre-flight checks.
 
 ### References
-#todo :: Clean up references
-[[Appendix IR.D - Instrument Rating Flight Experience Requirements]], IFH Ch. 5-6, [[POH]]/[[AFM]] 
+- [[Appendix IR.D - Instrument Rating Flight Experience Requirements]]
+- [[IFH]] Ch. 5-6
+- [[POH]]/[[AFM]] 
 
 ### Builds On
 [[PPL.19 Navigation Systems and Other Equipment]]
@@ -19,32 +20,15 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 Ground 3 hours
 
 ### Lesson Elements
-1. Overview of IFR flight training process, syllabus overview 
+1. Overview of [[IFR]] flight training process, syllabus overview 
 	1. Aircraft choice, high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
 		1. Private: 60-80 hours, about $20k 
 		2. Instrument 40-60 hours, about $15k 
 		3. Simulation software and PC tools 
-	2. Requirements for Instrument Rating [[FAR 61.65 Instrument Rating Reqs]]
-		1. General
-			1. Current Private Pilot
-			2. English
-			3. Receive and Log Ground Training 61.65(b)
-			4. Endorsement for Written
-			5. Receive and Log Flight Training 
-			6. Logbook Endorsement for Practical
-			7. Pass Written
-			8. Pass Practical
-		2. Aeronautical Experience
-			1. 50 hours XC PIC, 10 hrs in Airplane
-			2. 40 hours actual or simulated instrument, 15 from an authorized instructor
-			3. 3 hours of instrument flight training from CFII within 2 months of practical
-			4. Long Instrument XC
-				1. 250nm along airways
-				2. IAP at each airport
-				3. 3 different kinds of approaches with the use of navigation systems
-	3. Airman Certification Standards (ACS) and Knowledge (written) test
+	2. Requirements for Instrument Rating ![[Appendix IR.D - Instrument Rating Flight Experience Requirements]]
+	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	4. Recency of experience [[FAR 61.57 Recent Flight Experience]], logbook records 61.51, personal minimums 
-		1. Logging IAP, what’s required  ([[InFO15012]])
+		1. Logging [[IAP]], what’s required  ([[InFO15012]])
 	5. Stages of training, Phase checks 
 	6. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists 
@@ -52,12 +36,12 @@ Ground 3 hours
 2. Instrument systems and power sources, flight characteristics, limitations, errors, pre-flight check methods 
 	1. Required equipment for IFR flight, and IFR airworthiness requirements 
 		1. Mnemonic [[GRABCARDD]]: Generator, Rate of Turn, Attitude, Ball, Clock, Altimeter (sensitive), Radios, DG, DME (above FL240) 
-	2. Inoperative equipment – [[MEL]], placarding 
+	2. Inoperative equipment – [[MEL]], placarding - [[FAR 91.213 Inop Equip]]
 	3. Pitot-Static instruments: Altimeter (+/- 75’), Airspeed Indicator, Vertical Speed Indicator, pitot heat (use below 10C or 50F, in visible moisture) 
 		1. Pitot Heat check during preflight
 	4. Gyro instruments: Attitude indicator, Heading Indicator, Horizontal Situation Indicator, Turn Coordinator, vacuum systems 
 		1. DG precession limit - 3° in 15 minutes (industry suggestion)
-	5. Magnetic Compass: Northerly turning errors, acceleration errors, deviation card. Mnemonics: ANDS, UNOS, freely turns during taxi check
+	5. Magnetic Compass: Northerly turning errors, acceleration errors, deviation card. Mnemonics: [[ANDS]], [[UNOS]], freely turns during taxi check
 	6. Transponder and altitude encoders
 		1. Blind Encoder (cheaper, no integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line

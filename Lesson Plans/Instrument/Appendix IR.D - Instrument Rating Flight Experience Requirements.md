@@ -19,4 +19,14 @@ From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the 
 		- [ ] An instrument approach at each airport
 		- [ ] Three different kinds of approaches with the use of navigation systems
 
+**General Before Checkride**
+1. Current Private/Commercial Pilot
+2. English
+3. Receive and Log Ground Training 61.65(b)
+4. Endorsement for Written
+5. Receive and Log Flight Training 61.65(c)
+6. Logbook Endorsement for Practical
+7. Pass Written
+8. Pass Practical
+
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

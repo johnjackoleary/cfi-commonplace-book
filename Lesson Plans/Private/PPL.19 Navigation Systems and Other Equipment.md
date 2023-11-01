@@ -18,6 +18,7 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 
 ### Lesson Elements
 1. Compass and compass errors
+	1. 
 2. Radio navigation equipment
 	1. VOR
 	2. ILS

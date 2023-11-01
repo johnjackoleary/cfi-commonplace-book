@@ -21,7 +21,7 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 1. Theory
 	1. Transferring weight from wheels to wings
 	2. Climb Speed: Best Angle ([[Vx]]) or Best Rate ([[Vy]])![[Vy and Vx.jpeg]]
-	3. [[Ground effect]]
+	3. [[Ground Effect]]
 	4. Takeoff distance from aircraft performance charts ([[POH]], section V)
 		1. Effect of wind, [[density altitude]], weight, runway surface
 	6. [[Four Left Turning Tendencies]]

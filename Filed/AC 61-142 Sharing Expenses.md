@@ -6,4 +6,4 @@
 * This AC provides guidance on how a pilot may share flight expenses with passengers
 * This AC applies to pilots exercising private pilot privileges who wish to share the costs of operating an aircraft during a flight with passengers
 
-#source #advisorycircular 
+#source #advisory-circular 

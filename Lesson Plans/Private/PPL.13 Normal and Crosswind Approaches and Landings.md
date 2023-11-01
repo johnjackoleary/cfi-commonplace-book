@@ -61,7 +61,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		1. Judge speed and altitude to short final
 		2. Use ailerons to maintain centerline, rudder to keep nose pointing down the runway, parallel to centerline (this is a "Side-Slip") ![[Sideslip Approach.jpeg]] 
 		3. Use side-slip to avoid drifting on touchdown ![[Drifting on Touchdown.jpeg]]
-		4. Usually start flare about one wing-span above runway (entering [[ground effect]])
+		4. Usually start flare about one wing-span above runway (entering [[Ground Effect]])
 		5. Use peripheral vision to judge descent rate
 	5. Touchdown
 		1. Smooth power reduction and pitch increase to level off just above runway at idle power

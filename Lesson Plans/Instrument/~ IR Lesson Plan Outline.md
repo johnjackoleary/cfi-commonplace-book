@@ -4,7 +4,7 @@ tags: ir
 ---
 ### Instrument Rating Airplane Single-Engine, Lesson Plan Outline
 
-#### Stage I: Aircraft
+#### Stage I: Instrument Scanning and Interpretation, Aircraft Control, Navigation
 [[IR.1 Introduction and Instrument Systems]]
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
 [[IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
@@ -13,7 +13,7 @@ tags: ir
 [[IR.6 Holding Patterns and Workload Management]]
 [[IR.7 GPS Navigation and Automation Management]]
 
-#### Stage II: IFR Charts, Weather, Holding Patterns, Instrument Approaches
+#### Stage II: IFR Charts, Instrument Approaches, Weather, Emergencies
 [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
 [[IR.9 Communications, Clearances, Lost Communications Procedures]]
 [[IR.10 Flight Deck Organization, Workload Management, Checklists]]

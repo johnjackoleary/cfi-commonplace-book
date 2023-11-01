@@ -4,4 +4,4 @@ Portions of the wreck remain above the waterline to this day. She is commonly re
 ***Source***: https://en.wikipedia.org/wiki/USS_Thompson_(DD-305)
 ***GPS Identifier:*** [None (although it is on the chart)](https://skyvector.com/?ll=37.487853181738195,-122.18864442992191&chart=127&zoom=1&fpl=3733N12209W)
 
-#reportingpoint #history
+#reporting-point #history

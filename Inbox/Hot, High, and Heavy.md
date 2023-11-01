@@ -1,0 +1,1 @@
+Related to [[Hot, High, Heavy Short Field Takeoff in Practice]]
