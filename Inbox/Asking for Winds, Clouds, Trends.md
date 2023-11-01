@@ -1,6 +1,8 @@
 Found this a useful way to frame weather when going for flights in the local area.
 
-#flight-instruction/tips
+#flight-instruction-tips
+
+#todo :: is there a better way of connecting instructional tips like this? something like ways to approach topics that has worked well, but YMMV
 
 —
 

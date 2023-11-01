@@ -7,9 +7,14 @@
 - Files starting with "~ " are meant to show up on top of the list, likely they are MOCs or overviews. 
 - Files starting with "+ " are aggregator files, which have no custom content but pull information about the files using Dataview or the template in [[Update Publish Files]].
 - Directories:
-	- Filed: Published information. Should be clean enough to be useful, with *todo* indicated in any areas yet to tackle.
+	- Filed: Published information. Should be clean enough to be useful, with *todo* tags indicated in any areas yet to tackle.
 	- Lesson Plans: Ways of teaching key concepts. Should pull mostly from cards in Filed.
 	- Media: **Small** images to help build out important filed information.
+
+### Formating
+- Tags
+	- with multiple words should use a hyphen ('my-awesome-tag')
+	- currently there are no nested tags ('my/awesome-tag'), although Obsidian has nice support for these, so may be a consideration later
 
 ### Obsidian Plug-ins Used
 All plugins are meant to be optional, although Dataview is heavily used.
