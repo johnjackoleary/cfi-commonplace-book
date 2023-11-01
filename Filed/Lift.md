@@ -1,3 +1,5 @@
+#todo :: Expand on this, especially lift formula and theories of lift
+
 # Details
 
 # Additional Resources

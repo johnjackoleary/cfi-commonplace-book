@@ -41,7 +41,7 @@ Ground 3 hours
 		1. Pitot Heat check during preflight
 	4. Gyro instruments: Attitude indicator, Heading Indicator, Horizontal Situation Indicator, Turn Coordinator, vacuum systems 
 		1. DG precession limit - 3° in 15 minutes (industry suggestion)
-	5. Magnetic Compass: Northerly turning errors, acceleration errors, deviation card. Mnemonics: [[ANDS]], [[UNOS]], freely turns during taxi check
+	5. Magnetic [[Compass Errors]]: check freely turns during taxi check
 	6. Transponder and altitude encoders
 		1. Blind Encoder (cheaper, no integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line

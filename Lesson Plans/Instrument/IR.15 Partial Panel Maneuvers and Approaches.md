@@ -32,7 +32,7 @@ Lesson Elements:
 		2. Use VSI, altimeter, and A/S for pitch 
 		3. Use of rate-based autopilot for no-gyro operation 
 		4. Timed turns – 3°s per second at standard rate 
-		5. Compass turns (UNOS mnemonic), 30°s offset in NorCal. 
+		5. Compass turns ([[UNOS]] mnemonic), 30°s offset in NorCal. 
 	2. Electrical failure – loss of T/C and rate-based autopilots 
 		1. Use A/I and DG to replace turn coordinator 
 		2. Bank angle for standard rate turn: 5 kts + airspeed/10 (120 knots gives requires 17°s bank angle) 
