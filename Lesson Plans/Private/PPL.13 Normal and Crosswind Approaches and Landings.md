@@ -38,7 +38,8 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 4. Importance of Stabilized Approach to landing
 	1. [[Aiming point]]
 	2. ![[Runway Shape in Stablized Approach.jpeg]]
-6. In the Pattern
+	3. [[White Over White, Red Over White, Red Over Red]]
+5. In the Pattern
 	1. Downwind leg
 		1. Awareness of traffic
 		2. Power setting, configuration, airspeed for downwind
@@ -74,9 +75,9 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		1. Exit runway, completely beyond hold-short lines
 		2. Stop and complete after-landing checklist
 		3. Contact ground frequency (unless staying with tower)
-7. Landing Issues to Avoid
+6. Landing Issues to Avoid
 	1. Multiple bounces may be a sign of [[Porpoising.jpeg]], go-around and don't let this develop!
-8. Common Errors
+7. Common Errors
 	1. Getting "behind the airplane", missing radio calls, missing traffic, etc.
 	2. Forgetting checklists
 	3. Non-stabilized approach

@@ -23,9 +23,10 @@ All plugins are meant to be optional, although Dataview is heavily used.
 - (Disabled) [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) for creating flashcards to study. This was useful for checkride prep, and could be revisited. Only disabled because it was no longer used.
 
 ## About The Contributors
-| Contributor  | Blurb                                                  | URL                                    |
-| ------------ | ------------------------------------------------------ | -------------------------------------- |
-| Jack O'Leary | Bay Area flight instructor with a passion for learning | [cfijack.com](https://www.cfijack.com) |
+| Contributor    | Blurb                                                  | URL                                    |
+| -------------- | ------------------------------------------------------ | -------------------------------------- |
+| Jack O'Leary   | Bay Area flight instructor with a passion for learning | [cfijack.com](https://www.cfijack.com) |
+| Edward Abraham |                                                        |  [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129)                                      |
 
 
 ## License

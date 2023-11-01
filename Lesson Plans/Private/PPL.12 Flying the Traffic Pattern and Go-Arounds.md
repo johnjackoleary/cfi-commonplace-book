@@ -10,6 +10,7 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 - [[PHAK Ch14]]
 - [[AIM 4-3]]
 - [[Private Pilot ACS]] Sec III
+- [[Pattern Precision]]
 
 ### Resources
 - [skyvector.com](http://www.skyvector.com)

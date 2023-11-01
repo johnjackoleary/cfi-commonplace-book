@@ -6,4 +6,4 @@ For [[VASI]].
 
 ![[VASI.jpeg]]
 
-#memoryaid 
+#memory-aid 

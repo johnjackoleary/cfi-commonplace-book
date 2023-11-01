@@ -13,7 +13,6 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 
 ### Builds On
 - [[PPL.2 Four Fundamentals of Flight]]
-- [[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
 1 hour ground, 2 hour flight, practice every flight
@@ -23,32 +22,34 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 	1. Transferring weight from wheels to wings
 	2. Climb Speed: Best Angle ([[Vx]]) or Best Rate ([[Vy]])![[Vy and Vx.jpeg]]
 	3. [[Ground effect]]
-	4. Effect of wind, [[density altitude]], weight, runway surface
-	5. Crosswind component of wind
-	6. Max demo'd crosswind ([[POH]])
-	7. Takeoff distance from aircraft performance charts ([[POH]], section V)
-	8. [[Four Left Turning Tendencies]]
-2. Practice
+	4. Takeoff distance from aircraft performance charts ([[POH]], section V)
+		1. Effect of wind, [[density altitude]], weight, runway surface
+	6. [[Four Left Turning Tendencies]]
+2. Normal Takeoffs
 	1. Procedure from [[POH]]
-	2. Pre-takeoff checks, and traffic checks
-	3. Go/No-go location picked out ahead of time. Call out rotate and climb speeds. Recite emergency landing options.
-	4. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
-	5. Taking the runway -- Check for traffic, and "[[Lights, Camera, Action, Time]]"
-	6. Setting controls for cross-wind
-	7. Feet off brakes, gentle power application, last check of instruments
-	8. Dancing on the rudder pedals to maintain directional control, right rudder as necessary to offset left-turning tendency -- [[Four Left Turning Tendencies]]
-	9. Crosswind: transition from side-slip to wings-level crab for climb
-		1. ![[Crosswind Takeoff.jpeg]]
-		2. ![[Crosswind Slip to Crab.jpeg]]
-3. Normal Climbs 
+	2. Pre-Takeoff
+		1. Go/No-go location picked out ahead of time ([[50-70 Rule]]
+		2. Call out rotate and climb speeds
+		3. Recite [[Plans for Rejected Takeoff]] (discussed more below)
+	3. Taking the runway -- Check for traffic, and "[[Lights, Camera, Action, Time]]"
+	4. Setting controls for cross-wind
+	5. Feet off brakes, [[Smooth Power Application|gentle power application]], last check of instruments (RPM good, oil pressure grean, airspeed alive)
+	6. Rudder pedals to maintain directional control, right rudder as necessary to offset left-turning tendency, more like flying than taxiing
+3. Crosswind Takeoffs
+	1. Crosswind component of wind
+	3. Max demo'd crosswind ([[POH]])
+	2. Transition from side-slip to wings-level crab when out of usable runway
+	3. ![[Crosswind Takeoff.jpeg]]
+	4. ![[Crosswind Slip to Crab.jpeg]]
+5. Normal Climbs 
 	1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
-	2. No turns below 400' typically
+	2. No turns below 400' typically, usually wait to [[TPA]]-300'
 	3. Awareness of noise abatement rules/recommendations (at Palo Alto, turn right 10 degrees for climb out on 31)
-4. Emergency Considerations
-	1. Plans for rejected takeoff. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
+6. Emergency Considerations
+	1. [[Plans for Rejected Takeoff]]. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
 	2. Emergency plans must be in mind BEFORE TAKEOFF
-	3. Engine failure on upwind climb -- LAND STRAIGHT AHEAD
-5. Common Errors
+	3. Engine failure on upwind climb below safe altitude -- LAND STRAIGHT AHEAD
+7. Common Errors
 	1. Ignoring crosswind
 	2. Drifting from centerline during takeoff roll
 	3. Drifting from centerline during climb out
@@ -65,6 +66,6 @@ Client must demonstrate proficiency and safety for normal takeoffs and climbs, i
 
 ### Recommended Homework 
 - [ ] Chair fly takeoffs
-- [ ] Rehearse takeoff emergency plans
+- [ ] Rehearse [[Plans for Rejected Takeoff]]
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

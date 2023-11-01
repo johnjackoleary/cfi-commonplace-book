@@ -1,11 +1,45 @@
 %% Update via "Update Publish Files" template %% 
 
+- October 31, 2023: 
+    - [[Filed/121.5 for ELT Usage Regs.md|121.5 for ELT Usage Regs]]
+    - [[Filed/Grannis 2016.md|Grannis 2016]]
+    - [[Filed/Smooth Power Application.md|Smooth Power Application]]
+    - [[Filed/White Over White, Red Over White, Red Over Red.md|White Over White, Red Over White, Red Over Red]]
+    - [[Filed/Pattern Precision.md|Pattern Precision]]
+    - [[Filed/50-70 Rule.md|50-70 Rule]]
+    - [[Filed/Plans for Rejected Takeoff.md|Plans for Rejected Takeoff]]
+    - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
+    - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
+    - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
+    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
+    - [[README.md|README]]
+
 - October 30, 2023: 
     - [[Filed/FAR 61.57 Recent Flight Experience.md|FAR 61.57 Recent Flight Experience]]
     - [[Filed/FAR 91.123 Compliance with ATC.md|FAR 91.123 Compliance with ATC]]
     - [[Filed/InFO15012.md|InFO15012]]
-    - [[FAR 61.65 Instrument Rating Reqs|FAR 61.65 Instrument Rating Reqs]]
+    - [[Filed/FAR 61.65 Instrument Rating Reqs.md|FAR 61.65 Instrument Rating Reqs]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
+    - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
+    - [[Lesson Plans/Instrument/IR.6 Holding Patterns and Workload Management.md|IR.6 Holding Patterns and Workload Management]]
+    - [[Lesson Plans/Instrument/IR.2 Instrument Scan, Basic Attitude Instrument Flight.md|IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
+    - [[Lesson Plans/Instrument/IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits.md|IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
+    - [[Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md|IR.4 Navigation Aids and Instruments]]
+    - [[Lesson Plans/Instrument/IR.5 Intercepting and Tracking VOR Navigation Aids, HSI, Autopilot Usage.md|IR.5 Intercepting and Tracking VOR Navigation Aids, HSI, Autopilot Usage]]
+    - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
+    - [[Lesson Plans/Instrument/IR.7 GPS Navigation and Automation Management.md|IR.7 GPS Navigation and Automation Management]]
+    - [[Lesson Plans/Instrument/IR.8 Airspace, Charts, Flight Planning and Enroute Operations.md|IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
+    - [[Lesson Plans/Instrument/IR.9 Communications, Clearances, Lost Communications Procedures.md|IR.9 Communications, Clearances, Lost Communications Procedures]]
+    - [[Lesson Plans/Instrument/IR.10 Flight Deck Organization, Workload Management, Checklists.md|IR.10 Flight Deck Organization, Workload Management, Checklists]]
+    - [[Lesson Plans/Instrument/IR.11 Precision Approaches.md|IR.11 Precision Approaches]]
+    - [[Lesson Plans/Instrument/IR.12 IFR Weather and Weather Services.md|IR.12 IFR Weather and Weather Services]]
+    - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
+    - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
+    - [[Lesson Plans/Instrument/IR.15 Partial Panel Maneuvers and Approaches.md|IR.15 Partial Panel Maneuvers and Approaches]]
+    - [[Lesson Plans/Instrument/IR.16 Unusual Attitude Recoveries.md|IR.16 Unusual Attitude Recoveries]]
+    - [[Lesson Plans/Instrument/IR.17 Enroute and Cross-Country Instrument Flight.md|IR.17 Enroute and Cross-Country Instrument Flight]]
+    - [[Lesson Plans/Instrument/Appendix IR.D - Instrument Rating Flight Experience Requirements.md|Appendix IR.D - Instrument Rating Flight Experience Requirements]]
+    - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
 
 - October 29, 2023: 
@@ -30,8 +64,6 @@
     - [[Filed/PHAK Ch1.md|PHAK Ch1]]
     - [[Filed/PHAK.md|PHAK]]
     - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
-    - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
-    - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
 
 - October 24, 2023: 
     - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
@@ -75,8 +107,6 @@
     - [[Lesson Plans/Private/PPL.20 Aircraft Performance including Weight and Balance.md|PPL.20 Aircraft Performance including Weight and Balance]]
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.24 Emergency Operations.md|PPL.24 Emergency Operations]]
-    - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
-    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
@@ -86,8 +116,6 @@
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
     - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
     - [[Lesson Plans/Commercial/Eights on Pylons.md|Eights on Pylons]]
-    - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
-    - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Lesson Plans/Private/Appendix PPL.B - Private Pilot Endorsements.md|Appendix PPL.B - Private Pilot Endorsements]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
@@ -95,16 +123,4 @@
 
 - October 17, 2023: 
     - [[Filed/TAF.md|TAF]]
-    - [[README.md|README]]
-
-- October 16, 2023: 
-    - [[Filed/AME.md|AME]]
-    - [[Filed/Finding an AME.md|Finding an AME]]
-    - [[Filed/Forces in Stabilized Flight.md|Forces in Stabilized Flight]]
-    - [[Filed/Light Gun Signals.md|Light Gun Signals]]
-    - [[Filed/PHAK Ch13.md|PHAK Ch13]]
-    - [[Filed/PIREP.md|PIREP]]
-    - [[Filed/POH.md|POH]]
-    - [[Filed/Private Pilot ACS.md|Private Pilot ACS]]
-    - [[Templates/Dataview to Obsidian Publish/Update Publish Files.md|Update Publish Files]]
 

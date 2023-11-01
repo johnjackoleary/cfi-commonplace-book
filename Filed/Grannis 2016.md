@@ -6,4 +6,4 @@
 ***Key Quotes***:
 * The language of the requirement in §61.129(a)(4) is clear that a pilot must choose either to log the 10 hours as solo flight time or log the 10 hours as flight time performing the duties of pilot in command with an authorized instructor on board. ln the case of §61.129(a)(4) neither the preamble nor the rule introduced language indicating that logging a combination o f hours is acceptable to satisfy this requirement.
 
-#source #legalinterpretation
+#source #legal-interpretation
