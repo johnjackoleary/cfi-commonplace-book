@@ -26,7 +26,7 @@ All plugins are meant to be optional, although Dataview is heavily used.
 | Contributor    | Blurb                                                  | URL                                    |
 | -------------- | ------------------------------------------------------ | -------------------------------------- |
 | Jack O'Leary   | Bay Area flight instructor with a passion for learning | [cfijack.com](https://www.cfijack.com) |
-| Edward Abraham |                                                        |  [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129)                                      |
+| Edward Abraham | Bay Area native and flight instructor with emphasis on ADM and SRM                                               |  [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129)                                      |
 
 
 ## License
