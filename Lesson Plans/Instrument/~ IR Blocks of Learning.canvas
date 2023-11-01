@@ -29,7 +29,7 @@
 		{"id":"4352be9e5f674b14","type":"text","text":"Air traffic control clearances and procedures","x":1000,"y":130,"width":400,"height":60,"color":"1"},
 		{"id":"0e74b2512d547859","type":"text","text":"Emergency operations","x":3520,"y":-520,"width":400,"height":60,"color":"1"},
 		{"id":"e0999ef4e40db8df","type":"text","text":"Instrument approach procedures","x":3520,"y":770,"width":400,"height":60,"color":"1"},
-		{"id":"1cd97fe834dc872d","type":"text","text":"Air traffic control clearances and procedures","x":1840,"y":600,"width":400,"height":60,"color":"1"}
+		{"id":"1cd97fe834dc872d","type":"text","text":"More stuff to add!","x":1840,"y":600,"width":400,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"f88a2d900f4b77a6","fromNode":"347ec7d678a2df4c","fromSide":"right","toNode":"39ecb35ed73a0e2a","toSide":"left"},
