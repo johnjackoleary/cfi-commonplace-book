@@ -8,6 +8,7 @@
     - [[Filed/Pattern Precision.md|Pattern Precision]]
     - [[Filed/50-70 Rule.md|50-70 Rule]]
     - [[Filed/Plans for Rejected Takeoff.md|Plans for Rejected Takeoff]]
+    - [[Filed/TPA.md|TPA]]
     - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]

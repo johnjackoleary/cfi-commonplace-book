@@ -43,7 +43,7 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 	4. ![[Crosswind Slip to Crab.jpeg]]
 5. Normal Climbs 
 	1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
-	2. No turns below 400' typically, usually wait to [[TPA]]-300'
+	2. No turns below 400'^[Unless required for safety, of course], usually wait to [[TPA]]-300'
 	3. Awareness of noise abatement rules/recommendations (at Palo Alto, turn right 10 degrees for climb out on 31)
 6. Emergency Considerations
 	1. [[Plans for Rejected Takeoff]]. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
