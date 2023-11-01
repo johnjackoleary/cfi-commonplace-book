@@ -17,5 +17,5 @@ I certify that \[First name, MI, Last name\] has received the required solo cros
 I have reviewed the cross-country planning of \[First name, MI, Last name\]. I find the planning and preparation to be correct to make the solo flight from \[origination airport\] to \[origination airport\] via \[route of flight\] with landings at \[names of the airports\] in a \[make and model\] aircraft on \[date\]. \[List any applicable conditions or limitations.\]
 
 
-***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
+***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
 

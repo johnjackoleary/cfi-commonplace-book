@@ -2,5 +2,5 @@
 
 I certify that \[First name, MI, Last name\] has received the additional \[flight and/or ground, as appropriate\] training as required by § 61.49. I have determined that \[he or she\] is proficient to pass the \[name of\] knowledge/practical test.
 
-***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
+***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
 

@@ -23,7 +23,7 @@ I certify that \[First name, MI, Last name\] has received the required training 
 I certify that \[First name, MI, Last name\] has received the required training of §§ 61.127 and 61.129. I have determined that \[he or she\] is prepared for the Commercial Pilot Airplane Single Engine Land (ASEL) practical test.
 
 
-***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
+***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
 
 
 

@@ -13,5 +13,5 @@ I certify that \[First name, MI, Last name\] has received the required solo cros
 I certify that \[First name, MI, Last name\] has received the required training in both directions between and at both \[airport names\]. I have determined that \[he or she\] is proficient of § 61.93(b)(2) to conduct repeated solo cross-country flights over that route, subject to the following conditions: \[List any applicable conditions or limitations.\]
 
 
-***Source***: [[AC 61-65H]], [[Air Trek North CFI Homework]]
+***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
 

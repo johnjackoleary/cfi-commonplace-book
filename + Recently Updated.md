@@ -7,7 +7,6 @@
     - [[Filed/AC 120-57B.md|AC 120-57B]]
     - [[Filed/AC 60-28.md|AC 60-28]]
     - [[Filed/AC 61-142 Sharing Expenses.md|AC 61-142 Sharing Expenses]]
-    - [[Filed/AC 61-65H.md|AC 61-65H]]
     - [[Filed/AC 68-1A.md|AC 68-1A]]
     - [[Filed/AC 90-66.md|AC 90-66]]
     - [[Filed/AC 91-37B Truth in Leasing.md|AC 91-37B Truth in Leasing]]
@@ -57,6 +56,14 @@
     - [[Filed/AC 00-45.md|AC 00-45]]
     - [[Filed/AC 61-67.md|AC 61-67]]
     - [[Filed/FAR 91.213 Inop Equip.md|FAR 91.213 Inop Equip]]
+    - [[Filed/AC 61-65.md|AC 61-65]]
+    - [[Filed/AIM 2.md|AIM 2]]
+    - [[Lesson Plans/Commercial/Appendix B - Commercial Pilot Endorsements.md|Appendix B - Commercial Pilot Endorsements]]
+    - [[Lesson Plans/Complex/Complex Endorsement.md|Complex Endorsement]]
+    - [[Lesson Plans/Flight Instructor/CFI Endorsements.md|CFI Endorsements]]
+    - [[Lesson Plans/Flight Review/Flight Review Endorsement.md|Flight Review Endorsement]]
+    - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
+    - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
     - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Instrument/IR.2 Instrument Scan, Basic Attitude Instrument Flight.md|IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
@@ -64,12 +71,19 @@
     - [[Lesson Plans/Instrument/IR.17 Enroute and Cross-Country Instrument Flight.md|IR.17 Enroute and Cross-Country Instrument Flight]]
     - [[Lesson Plans/Instrument/Appendix IR.D - Instrument Rating Flight Experience Requirements.md|Appendix IR.D - Instrument Rating Flight Experience Requirements]]
     - [[Lesson Plans/Instrument/Instrument proficiency check.md|Instrument proficiency check]]
+    - [[Lesson Plans/Private/Appendix PPL.B - Private Pilot Endorsements.md|Appendix PPL.B - Private Pilot Endorsements]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.19 Navigation Systems and Other Equipment.md|PPL.19 Navigation Systems and Other Equipment]]
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
+    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
+    - [[Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md|Pre-Solo Endorsements]]
+    - [[Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md|Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
+    - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
+    - [[Lesson Plans/Student Endorsements/Takeoffs and Landings At Airport Within 25 NM Endorsement.md|Takeoffs and Landings At Airport Within 25 NM Endorsement]]
     - [[README.md|README]]
+    - [[~ Start Here.md|~ Start Here]]
 
 - October 31, 2023: 
     - [[Filed/121.5 for ELT Usage Regs.md|121.5 for ELT Usage Regs]]
@@ -80,7 +94,6 @@
     - [[Filed/Plans for Rejected Takeoff.md|Plans for Rejected Takeoff]]
     - [[Filed/TPA.md|TPA]]
     - [[Lesson Plans/Private/PPL.12 Flying the Traffic Pattern and Go-Arounds.md|PPL.12 Flying the Traffic Pattern and Go-Arounds]]
-    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
 
 - October 30, 2023: 
     - [[Filed/GRABCARDD.md|GRABCARDD]]
@@ -132,7 +145,6 @@
     - [[Lesson Plans/Private/PPL.25 Lost Procedures, and Diversion to Alternates.md|PPL.25 Lost Procedures, and Diversion to Alternates]]
     - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/PPL.27 Night Operations and Night Cross Country.md|PPL.27 Night Operations and Night Cross Country]]
-    - [[~ Start Here.md|~ Start Here]]
 
 - October 23, 2023: 
     - [[Filed/ADM.md|ADM]]
@@ -166,7 +178,6 @@
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
     - [[Filed/xkcd Pilot Priority List.md|xkcd Pilot Priority List]]
     - [[Lesson Plans/Commercial/Eights on Pylons.md|Eights on Pylons]]
-    - [[Lesson Plans/Private/Appendix PPL.B - Private Pilot Endorsements.md|Appendix PPL.B - Private Pilot Endorsements]]
     - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
     - [[Lesson Plans/Spins/Spin Lesson Plan.md|Spin Lesson Plan]]
 

@@ -9,7 +9,7 @@ Understand airport operations, including communications, traffic patterns, and l
 ### References
 - [[AFH Ch2]]
 - [[PHAK Ch14]]
-- [[AIM 2-3]]
+- [[AIM 2]]
 - Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Example Radio Calls|common radio calls]], and [[Light Gun Signals]]
 - [[Private Pilot ACS]] Sec III
 
