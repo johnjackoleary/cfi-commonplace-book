@@ -1,7 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl
-based-on: DietzPrivateAirplaneSyllabus2018TOC.pdf
 ---
 ### Private Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
