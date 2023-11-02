@@ -81,10 +81,10 @@ Ground 3 hours
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.
 
 ### Required Logbook Phraseology
-#todo :: Add logbook phraseology
+None
 
 ### Required Homework
-- [ ] 
+- [ ] TSA, as needed
 
 ### Recommended Homework
 - [ ] 

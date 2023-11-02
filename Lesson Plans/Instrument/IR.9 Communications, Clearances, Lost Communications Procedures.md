@@ -12,6 +12,7 @@ To learn proper IFR communications techniques, include copying clearances, norma
 Appendix A, AIM Ch 6-4; FAR 91.185 (lost communications), IFH Appendix A (clearance shorthand)
 
 ### Builds On
+N/A
 
 ### Schedule
 Ground 1.5 hours 
@@ -73,7 +74,7 @@ Ground 1.5 hours
   
 
 ### Completion Standards
-The student must become proficient at typical IFR communications using standard phraseology and demonstrate an understanding of lost communication procedures. Student must comply with clearances within +/- 10 kts, +/- 10°s, and +/- 100 feet.
+The student must become proficient at typical IFR communications using standard phraseology and demonstrate an understanding of lost communication procedures.
 
 ### Required Logbook Phraseology
 

@@ -12,6 +12,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 AIM 1-1-17; IFH Ch 7; [[POH]]/[[AFM]]; GPS manual
 
 ### Builds On
+[[IR.5 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
 
 ### Schedule
 Ground 1.5-hour, simulator and/or airplane, 1.5 hours 

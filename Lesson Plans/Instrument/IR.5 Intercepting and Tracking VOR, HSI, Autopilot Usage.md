@@ -12,14 +12,16 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. D
 ACS section V; IFH Ch 9; POH, AFM 
 
 ### Builds On
+- [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
+- [[IR.4 Navigation Aids and Instruments]]
 
 ### Schedule
 Ground 2 hour; simulator and/or airplane, 2 hours 
 
 ### Lesson Elements
-1. VOR introduction
+1. [[VOR]] introduction
 	1. Azimuth Information
-	2. DME
+	2. [[DME]]
 	3. Service Volumes (New vs. Original)
 	4. Charts 
 2. VOR, OBS, CDI, To/From indicator, HSI, tuning, identification, and receiver check (logged in last 30 days) 
@@ -53,6 +55,8 @@ Ground 2 hour; simulator and/or airplane, 2 hours
 Student must be able to tune and ID VOR navaid, detect failures; check receiver for proper operation; orient to a VOR station or course; intercept assigned course; track course to or from VOR, with crosswind correction; Maintain heading within 10°s, altitude within 100 feet, airspeed within 10 kts. Student must know how to check autopilot operation during preflight, and how to use autopilot during enroute flight.
 
 ### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Navigation systems
 
 ### Required Homework
 - [ ] 

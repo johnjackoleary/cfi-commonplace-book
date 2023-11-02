@@ -105,11 +105,11 @@
 
 - October 30, 2023: 
     - [[Filed/GRABCARDD.md|GRABCARDD]]
-    - [[Lesson Plans/Instrument/IR.6 Holding Patterns and Workload Management.md|IR.6 Holding Patterns and Workload Management]]
-    - [[Lesson Plans/Instrument/IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits.md|IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
+    - [[IR.7 Holding Patterns and Workload Management|IR.7 Holding Patterns and Workload Management]]
+    - [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits|IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
     - [[Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md|IR.4 Navigation Aids and Instruments]]
-    - [[Lesson Plans/Instrument/IR.5 Intercepting and Tracking VOR Navigation Aids, HSI, Autopilot Usage.md|IR.5 Intercepting and Tracking VOR Navigation Aids, HSI, Autopilot Usage]]
-    - [[Lesson Plans/Instrument/IR.7 GPS Navigation and Automation Management.md|IR.7 GPS Navigation and Automation Management]]
+    - [[IR.5 Intercepting and Tracking VOR, HSI, Autopilot Usage|IR.5 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+    - [[IR.6 GPS Navigation and Automation Management|IR.6 GPS Navigation and Automation Management]]
     - [[Lesson Plans/Instrument/IR.8 Airspace, Charts, Flight Planning and Enroute Operations.md|IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
     - [[Lesson Plans/Instrument/IR.9 Communications, Clearances, Lost Communications Procedures.md|IR.9 Communications, Clearances, Lost Communications Procedures]]
     - [[Lesson Plans/Instrument/IR.10 Flight Deck Organization, Workload Management, Checklists.md|IR.10 Flight Deck Organization, Workload Management, Checklists]]
@@ -117,7 +117,7 @@
     - [[Lesson Plans/Instrument/IR.12 IFR Weather and Weather Services.md|IR.12 IFR Weather and Weather Services]]
     - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
     - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
-    - [[Lesson Plans/Instrument/IR.16 Unusual Attitude Recoveries.md|IR.16 Unusual Attitude Recoveries]]
+    - [[IR.16 Unusual Attitude Recoveries, Including Partial Panel|IR.16 Unusual Attitude Recoveries, Including Partial Panel]]
     - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
 

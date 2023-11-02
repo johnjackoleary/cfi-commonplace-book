@@ -28,7 +28,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 		3. Tachometer and Manifold Pressure (set by sound, then verify)
 	3. Performance Instruments
 		1. Airspeed
-		2. VSI
+		2. [[VSI]]
 		3. Altimeter
 3. Introduction to Instrument Scan (ground portion) 
 	1. Instrument cross check, types of scans 
@@ -59,7 +59,8 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 Student must demonstrate understanding of: control and performance instruments; instrument scan methods and ability to diagnose and respond to system failures. Student should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
 
 ### Required Logbook Phraseology
-- [ ] Flight by reference to instruments
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Flight by reference to instruments
 
 ### Required Homework
 - [ ] 

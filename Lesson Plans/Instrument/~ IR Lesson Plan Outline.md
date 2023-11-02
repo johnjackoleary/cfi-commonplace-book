@@ -4,14 +4,14 @@ tags: ir
 ---
 ### Instrument Rating Airplane Single-Engine, Lesson Plan Outline
 
-#### Stage I: Instrument Scanning and Interpretation, Aircraft Control, Navigation
+#### Stage I: Flight by Reference to Instruments
 [[IR.1 Introduction and Instrument Systems]]
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
-[[IR.3 Instrument Scan, Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
+[[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
 [[IR.4 Navigation Aids and Instruments]]
-[[IR.5 Intercepting and Tracking VOR Navigation Aids, HSI, Autopilot Usage]]
-[[IR.6 Holding Patterns and Workload Management]]
-[[IR.7 GPS Navigation and Automation Management]]
+[[IR.5 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+[[IR.7 Holding Patterns and Workload Management]]
+[[IR.6 GPS Navigation and Automation Management]]
 
 #### Stage II: IFR Charts, Instrument Approaches, Weather, Emergencies
 [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
@@ -22,7 +22,7 @@ tags: ir
 [[IR.13 Non-Precision Approaches]]
 [[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
 [[IR.15 Partial Panel Maneuvers and Approaches]]
-[[IR.16 Unusual Attitude Recoveries]]
+[[IR.16 Unusual Attitude Recoveries, Including Partial Panel]]
 
 #### Stage III: Cross-Country and Checkride Prep
 [[IR.17 Enroute and Cross-Country Instrument Flight]]

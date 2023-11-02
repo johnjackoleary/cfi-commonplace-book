@@ -18,7 +18,7 @@ Ground 1 hour
 
 ### Lesson Elements
 1. Aviate, Navigate, Communicate 
-2. Digital Charts (EFB)
+2. Digital Charts ([[EFB]])
 	1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
 	2. Cons - Battery, fragile, can’t update inflight, expensive
 3. Paper Charts

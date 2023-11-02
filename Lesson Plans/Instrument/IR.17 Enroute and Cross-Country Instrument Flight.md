@@ -21,7 +21,7 @@ Ground 1.5 hours, Flight 3 hours
 	1. IFR flight of 250 nm minimum 
 	2. An instrument approach at each airport 
 	3. 3 different kinds of approaches (VOR, GPS, ILS) 
-2. 2. IFR cross country flight planning: 
+2. IFR cross country flight planning: 
 	1. Symbology on IFR enroute and approach charts 
 	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
 	3. Fuel planning and monitoring, and definitions of minimum and emergency fuel 
