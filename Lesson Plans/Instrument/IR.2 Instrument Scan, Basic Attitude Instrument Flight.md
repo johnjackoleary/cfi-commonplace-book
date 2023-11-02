@@ -33,20 +33,20 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 3. Introduction to Instrument Scan (ground portion) 
 	1. Instrument cross check, types of scans 
 	2. 4-step scan procedure to initiate any maneuver (*[4 Step Instrument Scan](https://www.aopa.org/news-and-media/all-news/2003/october/flight-training-magazine/4-step-instrument-scan)* from [[AOPA]])
-		1. Set approximate attitude and power 
-		2. [[Inverted V-Scan]] (still music scan) to check trends 
-		3. Music scan primary instruments 
-		4. Rectangular scan all instruments 
+		1. Set approximate attitude and power ([[Aircraft Gait Charts]])
+		2. [[Inverted V-Scan]] (using [[Music Scan]]) to check trends 
+		3. [[Music Scan]] primary instruments 
+		4. [[Rectangular Scan]] all instruments 
 	3. Instrument interpretation 
 	4. Diagnosing system failures (may require partial panel)
-		1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro (AI) to electric gyro (TC) to pitot/static (VSI)
-		2. Bank triangle (most critical): A/I, TC, Compass (H/I) 
-		3. Pitch triangle: A/I, Altimeter, VSI (A/S, vacuum gauge) 
+		1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
+		2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
+		3. Pitch triangle: [[AI]], Altimeter, [[VSI]] ([[ASI]], vacuum gauge) 
 4. Attitude Instrument Flight Basics (simulator and/or airplane) 
 	1. Pitch-Power-Trim sequence for climb initiate and level off, Power-Pitch-Trim for descent initiate and level off
-	2. Straight and Level flight (IFH 7-2)
-	3. Straight climbs and descents (IFH 7-14)
-	4. Turns (IFH 7-19)
+	2. Straight and Level flight ([[IFH]] 7-2)
+	3. Straight climbs and descents ([[IFH]] 7-14)
+	4. Turns ([[IFH]] 7-19)
 5. Common Errors: 
 	1. Spatial disorientation 
 	2. Distraction 

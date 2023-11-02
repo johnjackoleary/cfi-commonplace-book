@@ -1,6 +1,0 @@
-***Definition***    :: 
-***Source***         :: 
-
-
-
-#glossary
