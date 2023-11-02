@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-To learn proper IFR communications techniques, include copying clearances, normal communications, and lost communication procedures 
+Learn proper IFR communications techniques, include copying clearances, normal communications, and lost communication procedures 
 
 ### References
 Appendix A, AIM Ch 6-4; FAR 91.185 (lost communications), IFH Appendix A (clearance shorthand)
@@ -15,7 +15,7 @@ Appendix A, AIM Ch 6-4; FAR 91.185 (lost communications), IFH Appendix A (cleara
 N/A
 
 ### Schedule
-Ground 1.5 hours 
+Ground 2 hours 
 
 ### Lesson Elements
 1. Communications

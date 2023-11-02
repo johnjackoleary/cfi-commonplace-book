@@ -2,7 +2,7 @@
 - Leave for the practice area, work on [[Maneuver - Slow Flight|slow flight]] and [[Maneuver - Four Fundamentals|four fundamentals]], then return to traffic pattern.
 
 Nearing Checkride:
-- Practice everything from the [[All Maneuvers Quick Reference]], making sure to understand and achieve [[ACS]] standards.
+- Practice everything from the [[All Maneuvers Quick Reference]], making sure to understand and achieve [[Private Pilot ACS]] standards.
 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

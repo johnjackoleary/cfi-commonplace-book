@@ -12,7 +12,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 POH, AFM, GPS manual, AIM 5-3-8; IFH, Ch. 10 
 
 ### Builds On
-[[IR.6 GPS Navigation and Automation Management]]
+- [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+- [[IR.7 GPS Navigation and Autopilot Usage]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 

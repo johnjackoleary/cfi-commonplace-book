@@ -12,9 +12,9 @@ Develop proficiency in flying precision approaches, and demonstrate understandin
 AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, FAR 91.175 
 
 ### Builds On
-- [[IR.5 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
-- [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[IR.9 Communications, Clearances, Lost Communications Procedures]]
+- [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+- [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IR.11 Communications, Clearances, Lost Communications Procedures]]
 
 ### Schedule
 Ground 1.5 hours, flight 3 hours 

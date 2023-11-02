@@ -4,7 +4,7 @@
     "dataview-inline-fields"
   ],
   "baseFontSize": 18,
-  "theme": "system",
+  "theme": "moonstone",
   "accentColor": "#0097a7",
   "showViewHeader": true
 }

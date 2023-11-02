@@ -6,10 +6,12 @@ tags:
   - lesson
 ---
 ### Objective
-To develop working [[IFR]] knowledge of the airspace system, IFR charts, flight planning, and enroute operations.
+Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight planning, and enroute operations.
 
 ### References
-AIM Ch 4; IFH Ch 1, 2, 10; 
+- [[AIM 4]]
+- [[IFH]] Ch 1, 2, 10
+- [[Instrument ACS]] Section 1.C
 
 ### Builds On
 None
@@ -30,7 +32,7 @@ Ground 2 hours
 	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s - Obstacle Clearance (Mountainous/Non-Mountainous)
 	6. [[MCA]], [[MRA]]
 	7. Finding airport and [[ARTCC]] frequencies 
-	8. Compulsory reporting points (AIM 5-3-2)
+	8. Compulsory reporting points ([[AIM 5]]-3-2)
 3. Departures
 	1. Takeoff Minimums
 	2. Diverse Departure Obstacle Assessment (5-2-9) - [[TERPS]]
@@ -55,14 +57,14 @@ Ground 2 hours
 	3. [[ADS-B]]
 	4. [[FSS]] 
 8. Alternates and Diversions 
-	1. Alternate requirement (123 rule) (14CFR 91.167(c))
+	1. Alternate requirement ([[1-2-3 Rule]]) (14CFR 91.167(c))
 		1. Alternatives for non-[[WAAS]] cannot also use non-WAAS (AIM 1-1-17)
 	2. Non-standard Alternate minimums
 		1. Precision, Non Precision, no published [[IAP]]
 
 
 ### Completion Standards
-The student must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and on-line).
+Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and on-line).
 
 ### Required Logbook Phraseology
 None

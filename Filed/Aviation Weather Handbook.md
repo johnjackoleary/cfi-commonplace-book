@@ -1,4 +1,4 @@
-***Link***      :: [Aviation Weather Handbook](https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/faa-h-8083-28-aviation-weather-handbook)
+***Link***      :: [Aviation Weather Handbook (FAA-H-8083-28)](https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/faa-h-8083-28-aviation-weather-handbook)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

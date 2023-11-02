@@ -1,7 +1,7 @@
 ***Link***      :: [G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors](https://www.faa.gov/sites/faa.gov/files/Garmin-DPE-and-CFI-Avionics-Guide-G1000NXi.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[Garmin]]
-***Related To:*** [[G1000 Integrated Flight Deck Pilot's Guide]], [[G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]], [[IR.16 Partial Panel Maneuvers and Approaches]]
+***Related To:*** [[G1000 Integrated Flight Deck Pilot's Guide]], [[G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]], [[IR.15 Partial Panel Maneuvers and Approaches]]
 
 #### Key Quotes
 * The goal is that this information will assist [[DPE]]s and instructors \[[[CFI]]\] to prepare pilots for checkrides with greater system understanding for simulating realistic failures and teach appropriate failure response plans.

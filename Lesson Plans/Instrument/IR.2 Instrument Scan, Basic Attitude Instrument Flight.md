@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-To understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure. 
+Understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure. 
 
 ### References
 - [[IFH]] Ch. 6-7
