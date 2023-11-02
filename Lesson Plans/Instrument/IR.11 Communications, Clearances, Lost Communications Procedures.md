@@ -69,6 +69,8 @@ Ground 2 hours
 			2. When not at a fix from which approach begins, leave clearance limit at the EFC time if received and proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA. Otherwise upon arrival over the clearance limit, proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA
 
 
+![[IFR Radio Comm Part 1 General.jpeg]]
+![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 
 
   
