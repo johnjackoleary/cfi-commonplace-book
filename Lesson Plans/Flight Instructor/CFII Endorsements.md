@@ -11,7 +11,7 @@ I certify that \[First name, MI, Last name\] has demonstrated satisfactory knowl
 ---
 
 **A.41 Fundamentals of instructing knowledge test: § 61.183(d).**
-<span style="color:red;">Required even if student already passed FOI. See [[CFI PTS]] and 61.183(d).</span>
+<span style="color:red;">Required even if student already passed FOI. See CFI PTS and 61.183(d).</span>
 
 I certify that \[First name, MI, Last name\] has received the required fundamentals of instruction training of § 61.185(a)(1). I have determined that \[he or she\] is prepared for the Flight Instructor Airplane Single Engine (ASE) practical test.
 
