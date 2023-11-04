@@ -25,22 +25,21 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 2. Aerodynamics of slow flight
 	1. Angle-of-Attack ([[AOA]]), airspeed ([[Angle of Attack vs Speed.jpeg|image]]), [[Load Factor]] (such as in turn, [[Forces in Level Turn.jpeg|image]]), aircraft configuration, weight, and attitude
 		1. ![[Angle of Attack Impact to Pressure on Airfoil.jpeg]]
-	2. The drag curve and power curve. Flying "behind the power curve". 
+	2. The drag curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
 		1. ![[Drag vs Speed.jpeg]]
 		2. ![[Power Required Curve.jpeg]]
-	3. Stall warning devices
-	4. Difference between attitude and AOA
-	5. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
-	6. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
+	4. Stall warning devices and other indications of impending stall (mushy controls, buffeting)
+	5. Difference between attitude and AOA
+	6. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
+	7. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
 3. Slow flight maneuvering
-	1. ![[Maneuver - Slow Flight]]
-	3. Set Up
+	1. Set Up
 		1. Altitude limits (ACS calls for 1500' minimum recovery - too low!) -- start at > 3000' AGL
 		1. Be careful of overlaying Bravo
 		2. Select practice area, perform clearing turns
 		3. ID emergency field
 		4. Reduce power, maintaining altitude while aircraft slows down, extend gear and flaps at appropriate speeds if applicable
-	4. Reduce speed to ~5 knots above stall or stall-warning
+	4. Reduce speed to ~5 knots above stall or stall-warning^[Can find this speed by continuing to slow until first indication of stall, then flying at 5kts faster]
 	5. Add power as necessary to maintain altitude
 	6. Maintain rudder coordination, adjust trim as necessary
 	7. S&L, turns, climbs, descents at various configurations (flaps and power)
