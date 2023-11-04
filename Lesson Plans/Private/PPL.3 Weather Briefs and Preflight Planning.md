@@ -37,7 +37,7 @@ Develop initial knowledge of and sources for preflight briefings.
 		5. [[TAF]]
 		6. [[AIRMET]] / [[SIGMET]]
 		7. [[Categorical Outlooks]]
-		8. Forecast Discussion
+		8. [[Area Forecast Discussion]]
 	4. Known traffic delays
 	5. Runway lengths
 	6. Available alternatives
