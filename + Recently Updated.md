@@ -1,7 +1,9 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 04, 2023: 
+    - [[Lesson Plans/Flight Instructor/CFII Endorsements as an Add-On.md|CFII Endorsements as an Add-On]]
     - [[Lesson Plans/Instrument/IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage.md|IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+    - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
 
 - November 02, 2023: 
     - [[Filed/4 Step Instrument Scan.md|4 Step Instrument Scan]]
@@ -12,7 +14,6 @@
     - [[Filed/Rectangular Scan.md|Rectangular Scan]]
     - [[Filed/WAAS.md|WAAS]]
     - [[Lesson Plans/Flight Instructor/CFI Endorsements.md|CFI Endorsements]]
-    - [[CFII Endorsements as an Add-On|CFII Endorsements as an Add-On]]
     - [[Lesson Plans/Instrument/Appendix IR.C - IFR Endorsements.md|Appendix IR.C - IFR Endorsements]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
     - [[Lesson Plans/Instrument/IR.11 Communications, Clearances, Lost Communications Procedures.md|IR.11 Communications, Clearances, Lost Communications Procedures]]
@@ -194,7 +195,6 @@
     - [[Lesson Plans/Private/PPL.20 Aircraft Performance including Weight and Balance.md|PPL.20 Aircraft Performance including Weight and Balance]]
     - [[Lesson Plans/Private/PPL.24 Emergency Operations.md|PPL.24 Emergency Operations]]
     - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
-    - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
     - [[Lesson Plans/Private/PPL.9 Performance Maneuvers - Steep Turns.md|PPL.9 Performance Maneuvers - Steep Turns]]
 
