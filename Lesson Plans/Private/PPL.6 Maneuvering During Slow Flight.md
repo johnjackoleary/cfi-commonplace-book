@@ -53,7 +53,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	4. Improper use of trim
 
 ### Completion Standards
-Client should be proficient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude ±100feet, heading ±10 degrees, airspeed +10/-0 knots, specified bank angle ±10 degrees.
+Client should be proficient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude ±100’, heading ±10°, airspeed +10/-0 knots, specified bank angle ±10°.
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 
