@@ -9,7 +9,9 @@ tags:
 VOR orientation, course intercepts and tracking, and use of HSI, if available. DME arcs. Autopilot systems and operation. 
 
 ### References
-ACS section V; IFH Ch 9; POH, AFM 
+- [[Instrument ACS]] section V
+- [[IFH]] Ch 9
+- [[POH]]/[[AFM]] 
 
 ### Builds On
 - [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
