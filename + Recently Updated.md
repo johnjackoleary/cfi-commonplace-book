@@ -1,8 +1,11 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 04, 2023: 
+    - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
+    - [[Filed/Area Forecast Discussion.md|Area Forecast Discussion]]
     - [[Lesson Plans/Flight Instructor/CFII Endorsements as an Add-On.md|CFII Endorsements as an Add-On]]
     - [[Lesson Plans/Instrument/IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage.md|IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+    - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
 
 - November 02, 2023: 
@@ -143,7 +146,6 @@
     - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
     - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
     - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
-    - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
 
 - October 29, 2023: 
     - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
