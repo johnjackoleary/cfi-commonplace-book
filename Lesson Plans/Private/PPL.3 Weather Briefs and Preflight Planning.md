@@ -25,8 +25,9 @@ Develop initial knowledge of and sources for preflight briefings.
 1. Preflight - [[PAVE]]
 	1. Preflight the pilot also! - [[IMSAFE]] checklist
 	2. Weather and [[TFR]]s
-	3. Introduction to Weight & Balance
-	4. Tuning radio, receiving and recording [[ATIS]]
+	3. [[Personal Minimums]]
+	4. Introduction to Weight & Balance
+	5. Tuning radio, receiving and recording [[ATIS]]
 2. Required Preflight Action ([[FAR 91.103]]) - [[NWKRAFT]]
 	1. "all available information concerning that flight"
 	2. [[NOTAM]]s
