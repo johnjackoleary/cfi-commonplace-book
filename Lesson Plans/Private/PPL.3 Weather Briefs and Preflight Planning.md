@@ -38,6 +38,7 @@ Develop initial knowledge of and sources for preflight briefings.
 		6. [[AIRMET]] / [[SIGMET]]
 		7. [[Categorical Outlooks]]
 		8. [[Area Forecast Discussion]]
+		9. Webcams or calling someone at the airport 
 	4. Known traffic delays
 	5. Runway lengths
 	6. Available alternatives
