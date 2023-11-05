@@ -40,6 +40,7 @@ Develop initial knowledge of and sources for preflight briefings.
 		8. [[Area Forecast Discussion]]
 		9. Webcams or calling someone at the airport 
 	4. Known traffic delays
+		1. #todo :: consider linking to https://www.fly.faa.gov/flyfaa/usmap.jsp?legacy=true or better source
 	5. Runway lengths
 	6. Available alternatives
 	7. Fuel requirements ([[FAR 91.151 VFR Fuel Reqs]], [[POH]])
