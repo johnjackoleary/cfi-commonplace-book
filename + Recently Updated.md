@@ -3,6 +3,9 @@
 - November 06, 2023: 
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
+    - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
+    - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait and Datasheet.md|PA28-181 KTS Gait and Datasheet]]
+    - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait and Datasheet.md|PA28-181 MPH Gait and Datasheet]]
 
 - November 04, 2023: 
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]

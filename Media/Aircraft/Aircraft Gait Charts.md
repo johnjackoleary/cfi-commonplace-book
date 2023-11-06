@@ -1,6 +1,9 @@
 > [!note]
 > Aggregating here since Obsidian Publish does show PDFs otherwise.
 
+> [!warning]
+> Always follow the aircraft's [[POH]]. These charts are meant as a helpful starting point, but always follow the manufacturer's recommendations if they are different.
+
 [[7GCAA GAIT.pdf]]
 [[C152 GAIT.pdf]]
 [[C172N GAIT.pdf]]
