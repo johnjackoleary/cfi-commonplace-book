@@ -1,7 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
-- November 05, 2023: 
+- November 06, 2023: 
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
+    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
 
 - November 04, 2023: 
     - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
@@ -125,7 +126,6 @@
     - [[Lesson Plans/Private/PPL.19 Navigation Systems and Other Equipment.md|PPL.19 Navigation Systems and Other Equipment]]
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
-    - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
     - [[Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md|Pre-Solo Endorsements]]
     - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
     - [[Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md|Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
