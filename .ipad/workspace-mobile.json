@@ -70,9 +70,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "118dc7873b9ef2ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1615292b5f5734a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Interpreting Winds Aloft.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +166,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
+            "file": "Inbox/Interpreting Winds Aloft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +183,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
+            "file": "Inbox/Interpreting Winds Aloft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +195,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md"
+            "file": "Inbox/Interpreting Winds Aloft.md"
           }
         }
       }
@@ -193,8 +213,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6044dd72237c9a79",
+  "active": "1615292b5f5734a1",
   "lastOpenFiles": [
+    "Inbox/Interpreting Winds Aloft.md",
+    "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
     "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
     "Lesson Plans/Instrument/Instrument proficiency check.md",
     "Inbox/GPS Safety Advisory Doc.md",
@@ -221,8 +243,6 @@
     "Lesson Plans/Instrument/IR.11 Precision Approaches.md",
     "Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md",
     "Filed/FAR 61.57 Recent Flight Experience.md",
-    "Filed/FAR 61.109 Private Pilot Reqs.md",
-    "Lesson Plans/Instrument/IR.12 IFR Weather and Weather Services.md",
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf"
   ]
