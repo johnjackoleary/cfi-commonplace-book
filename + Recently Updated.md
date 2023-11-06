@@ -1,8 +1,13 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 06, 2023: 
+    - [[Filed/BFR.md|BFR]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
+    - [[Lesson Plans/Biennial Flight Review/BFR.2 Flight Portion.md|BFR.2 Flight Portion]]
+    - [[Lesson Plans/Biennial Flight Review/BFR.1 Ground Portion.md|BFR.1 Ground Portion]]
+    - [[Lesson Plans/Biennial Flight Review/Appendix BFR.A Endorsement.md|Appendix BFR.A Endorsement]]
+    - [[Lesson Plans/Biennial Flight Review/~ Biennial Flight Review Outline.md|~ Biennial Flight Review Outline]]
     - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
     - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait and Datasheet.md|PA28-181 KTS Gait and Datasheet]]
     - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait and Datasheet.md|PA28-181 MPH Gait and Datasheet]]
@@ -104,7 +109,6 @@
     - [[Filed/UNOS.md|UNOS]]
     - [[Lesson Plans/Commercial/Appendix B - Commercial Pilot Endorsements.md|Appendix B - Commercial Pilot Endorsements]]
     - [[Lesson Plans/Complex/Complex Endorsement.md|Complex Endorsement]]
-    - [[Lesson Plans/Flight Review/Flight Review Endorsement.md|Flight Review Endorsement]]
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
     - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]

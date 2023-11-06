@@ -2,5 +2,5 @@
 
 I certify that \[First name, MI, Last name\], \[grade of pilot certificate\], \[certificate number\], has satisfactorily completed a flight review of § 61.56(a) on \[date\].
 
-***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
+***Source***: [[AC 61-65]]
 
