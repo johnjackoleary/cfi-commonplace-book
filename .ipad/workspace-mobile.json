@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
+                "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Ac 91-108",
+            "query": "Ac 90-108",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
+            "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
+            "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md"
+            "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md"
           }
         }
       }
@@ -193,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e91803d49815f0e7",
+  "active": "6044dd72237c9a79",
   "lastOpenFiles": [
     "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
     "Lesson Plans/Instrument/Instrument proficiency check.md",
