@@ -97,7 +97,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Airspace",
+            "query": "Ac 91-108",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -134,7 +134,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "d363dee4d02df0b2",
@@ -193,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6044dd72237c9a79",
+  "active": "e91803d49815f0e7",
   "lastOpenFiles": [
     "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
     "Lesson Plans/Instrument/Instrument proficiency check.md",
