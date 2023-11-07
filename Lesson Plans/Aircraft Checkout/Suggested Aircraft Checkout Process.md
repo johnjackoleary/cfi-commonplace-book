@@ -26,3 +26,5 @@
 - [ ] Practice with all avionics and their features on the ground
 - [ ] Practice all private (and commercial, if you know them) maneuvers to develop proficiency at various speeds/attitudes 
 - [ ] Fly many full stop patterns, until able to consistently meet ACS standards
+
+#todo :: Consider pulling in content from [[AC 90-109]] (https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-109A.pdf)

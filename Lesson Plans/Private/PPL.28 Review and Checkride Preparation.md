@@ -42,8 +42,8 @@ Ground 3 hours, Flight as necessary
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
 
 ### Required Homework
- 
 - [ ] Study and practice
+- [ ] [[14 CFR Part 91 Review Assignment]]
 
 ### Recommended Homework 
 - [ ] Chair fly ACS maneuvers

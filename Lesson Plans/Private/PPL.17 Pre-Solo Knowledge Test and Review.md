@@ -84,5 +84,6 @@ Client has completed pre-solo knowledge test and received all necessary endorsem
 - [ ] Review [[POH]]
 - [ ] After phase check, schedule a solo flight to the practice area 
 - [ ] After phase check, schedule a solo flight in the pattern
+- [ ] [[14 CFR Part 91 Review Assignment]]
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

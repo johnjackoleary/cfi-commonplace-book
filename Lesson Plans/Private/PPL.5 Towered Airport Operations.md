@@ -42,7 +42,7 @@ N/A
 	1. Receiving and recording [[ATIS]]
 	2. Airport and taxiway familiarization
 	3. Taxi instructions/clearances
-	4. [[Runway Incursions]]
+	4. [[Runway Incursion]]
 6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
 7. Radio communications practice (ATC phraseology):
 	1. [[Example Radio Calls]]

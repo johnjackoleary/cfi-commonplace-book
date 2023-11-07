@@ -38,6 +38,10 @@ N/A
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
+	4. Lights (see [[AC 91-73]])
+		1. Beacon before starting engine
+		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
+		3. Landing light before takeoff or before crossing runways
 5. Before Takeoff Checks
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]

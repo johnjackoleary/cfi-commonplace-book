@@ -1,1 +1,0 @@
-https://www.faasafety.gov/files/gslac/library/documents/2006/Oct/6578/Conducting%20an%20Effective%20Flight%20Review%20Dec05.pdf
