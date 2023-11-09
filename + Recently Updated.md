@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 08, 2023: 
+    - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
+
 - November 06, 2023: 
     - [[Filed/FAA Website on Runway Incursions.md|FAA Website on Runway Incursions]]
     - [[Filed/Hotspot.md|Hotspot]]
@@ -148,7 +151,6 @@
     - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/PPL.19 Navigation Systems and Other Equipment.md|PPL.19 Navigation Systems and Other Equipment]]
-    - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
     - [[Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md|Pre-Solo Endorsements]]
     - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
@@ -194,27 +196,4 @@
     - [[Lesson Plans/Private/PPL.25 Lost Procedures, and Diversion to Alternates.md|PPL.25 Lost Procedures, and Diversion to Alternates]]
     - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/PPL.27 Night Operations and Night Cross Country.md|PPL.27 Night Operations and Night Cross Country]]
-
-- October 23, 2023: 
-    - [[Filed/ADM.md|ADM]]
-    - [[Filed/AIM 4-2.md|AIM 4-2]]
-    - [[Filed/CTAF.md|CTAF]]
-    - [[Filed/Choosing a Ground School.md|Choosing a Ground School]]
-    - [[Filed/Minimum Equipment List (MEL) VFR Flight Night.md|Minimum Equipment List (MEL) VFR Flight Night]]
-    - [[Filed/Overbanking Tendency.md|Overbanking Tendency]]
-    - [[Filed/Radio Usage at Non-Towered Airports.md|Radio Usage at Non-Towered Airports]]
-    - [[Filed/Seat Belts and Shoulder Harness Usage.md|Seat Belts and Shoulder Harness Usage]]
-    - [[Filed/Unicom.md|Unicom]]
-    - [[Lesson Plans/Private/Appendix PPL.C - When to Acquire Various Equipment.md|Appendix PPL.C - When to Acquire Various Equipment]]
-    - [[Lesson Plans/Private/Example Radio Calls.md|Example Radio Calls]]
-    - [[Lesson Plans/Private/PPL.0 Optional Introductory or Demo Flight.md|PPL.0 Optional Introductory or Demo Flight]]
-    - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
-    - [[Lesson Plans/Private/PPL.14 Forward Slips to Landing.md|PPL.14 Forward Slips to Landing]]
-    - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
-    - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
-    - [[Lesson Plans/Private/PPL.20 Aircraft Performance including Weight and Balance.md|PPL.20 Aircraft Performance including Weight and Balance]]
-    - [[Lesson Plans/Private/PPL.24 Emergency Operations.md|PPL.24 Emergency Operations]]
-    - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
-    - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
-    - [[Lesson Plans/Private/PPL.9 Performance Maneuvers - Steep Turns.md|PPL.9 Performance Maneuvers - Steep Turns]]
 
