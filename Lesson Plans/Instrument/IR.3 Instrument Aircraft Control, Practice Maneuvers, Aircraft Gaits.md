@@ -19,7 +19,7 @@ Simulator and/or airplane, 1.5 hours
 
 ### Lesson Elements
 1. Attitude Instrument Flight practice maneuvers (simulator and/or airplane)
-	1. Straight and Level flight 
+	1. Straight and Level flight
 	2. Straight climbs and descents 
 	3. Turns – standard rate (IFH 7-19) and steep turns (IFH 7-22) 
 	4. Constant rate climbs and descents 
@@ -36,12 +36,13 @@ Simulator and/or airplane, 1.5 hours
 	7. [[Aircraft Gait Charts]], Learn and make table of following values: 
 		1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach) ii.
 		2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
-2. Common Errors: 
-	1. Fixation or omission 
+2. Common Errors
+	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 
 	3. While turning – do nothing else until turn is complete 
-	4. Heavy touch, over-controlling 
-	5. Improper trim control 
+	4. Heavy touch, over-controlling
+	5. Improper trim control
+
 ### Completion Standards
 Student must become proficient at transitioning between the phases of flight used on a typical IFR flight. Maintain heading within 10°, altitude within 100 feet, airspeed within 10 kts.
 

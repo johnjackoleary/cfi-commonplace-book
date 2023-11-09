@@ -45,10 +45,23 @@ Ground 2 hours
 	1. Turbulence
 	2. Thunderstorms / Hail
 	3. Ice - Tailplane stall, roll upset stall, freezing rain, [[SLD]]
-6. Other Weather risks for IFR flight 
+6. Anti-ice/deicing and weather detection equipment and their operating characteristics to include—
+	1. Airframe and/or induction Icing
+		1. De-ice: rubber boots, weeping wings
+		2. Anti-Ice: thermal (bleed air), electro thermal, weeping wings, propeller anti-ice
+	2. air intake: carb heat, alternate intake (often connected to carb heat, but can be automatically vacuum activated)
+	3. fuel system: carb heat
+	4. pitot-static system: pitot heat, alternate static source
+	5. radar/lightning detection system: FIS-B provides as one source, or a stormscope
+	6. other inflight weather systems
+		1. [[FIS-B]] 
+		2. Onboard radar
+		3. Sirius XM
+7. Other Weather risks for IFR flight 
 	1. Limitations of forecasts and inflight weather resources 
 	2. How to identify alternates, when to divert to alternate 
 	3. Establishing [[personal minimums]]
+
 ### Completion Standards
 The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, determine if an alternate is required, ensure the alternate meets regulatory requirements, and obtain weather updates during flight. 
 

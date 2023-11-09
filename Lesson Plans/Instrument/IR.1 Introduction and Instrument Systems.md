@@ -75,6 +75,10 @@ Ground 3 hours
 		1. [[OAT]] Probe
 		2. De-ice vs anti-ice
 	16. Procedures and documentation for flying with inoperative equipment 
+3. Diagnosing system failures (may require partial panel)
+	1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
+	2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
+	3. Pitch triangle: [[AI]], Altimeter, [[VSI]] ([[ASI]], vacuum gauge) 
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.

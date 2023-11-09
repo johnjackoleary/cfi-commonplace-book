@@ -37,11 +37,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 		2. [[Inverted V-Scan]] (using [[Music Scan]]) to check trends 
 		3. [[Music Scan]] primary instruments 
 		4. [[Rectangular Scan]] all instruments 
-	3. Instrument interpretation 
-	4. Diagnosing system failures (may require partial panel)
-		1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
-		2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
-		3. Pitch triangle: [[AI]], Altimeter, [[VSI]] ([[ASI]], vacuum gauge) 
+	3. Instrument interpretation
 4. Attitude Instrument Flight Basics (simulator and/or airplane) 
 	1. Pitch-Power-Trim sequence for climb initiate and level off, Power-Pitch-Trim for descent initiate and level off
 	2. Straight and Level flight ([[IFH]] 7-2)
