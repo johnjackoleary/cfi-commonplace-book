@@ -50,7 +50,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 		1. When to use them
 		2. How to file
 		3. How to activate and close
-		4. 
+	4. Noise Abatement Procedures
 5. External Pressures
 	1. How to identify
 	2. How to mitigate
