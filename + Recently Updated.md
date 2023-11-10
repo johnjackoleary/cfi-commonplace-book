@@ -2,12 +2,15 @@
 
 - November 09, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
+    - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
     - [[Lesson Plans/Instrument/IR.16 IFR Weather and Weather Services.md|IR.16 IFR Weather and Weather Services]]
     - [[Lesson Plans/Instrument/IR.2 Instrument Scan, Basic Attitude Instrument Flight.md|IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
     - [[Lesson Plans/Instrument/IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits.md|IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
     - [[Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md|IR.4 Navigation Aids and Instruments]]
+    - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Filed/AC 90-109.md|AC 90-109]]
+    - [[Filed/GIA.md|GIA]]
 
 - November 08, 2023: 
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
@@ -65,7 +68,6 @@
 - November 01, 2023: 
     - [[Lesson Plans/Commercial/Appendix B - Commercial Pilot Endorsements.md|Appendix B - Commercial Pilot Endorsements]]
     - [[Lesson Plans/Complex/Complex Endorsement.md|Complex Endorsement]]
-    - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
     - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
@@ -175,7 +177,6 @@
 - October 30, 2023: 
     - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
     - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
-    - [[Lesson Plans/Private/Appendix PPL.A - Part 61 Private Pilot Training Requirements.md|Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
     - [[Filed/GRABCARDD.md|GRABCARDD]]
 
 - October 29, 2023: 
