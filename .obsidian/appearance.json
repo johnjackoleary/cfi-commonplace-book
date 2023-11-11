@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "dataview-inline-fields"
   ],
-  "baseFontSize": 30,
+  "baseFontSize": 16,
   "theme": "moonstone",
   "accentColor": "#0097a7",
   "showViewHeader": true
