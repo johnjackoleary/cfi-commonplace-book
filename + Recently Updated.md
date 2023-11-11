@@ -1,5 +1,9 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 11, 2023: 
+    - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
+    - [[Filed/AC 90-66.md|AC 90-66]]
+
 - November 09, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
@@ -27,7 +31,6 @@
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
-    - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
@@ -103,7 +106,6 @@
     - [[Filed/AC 61-67.md|AC 61-67]]
     - [[Filed/AC 68-1A.md|AC 68-1A]]
     - [[Filed/AC 91-37B Truth in Leasing.md|AC 91-37B Truth in Leasing]]
-    - [[Filed/AC 90-66.md|AC 90-66]]
     - [[Filed/AC 91-74.md|AC 91-74]]
     - [[Filed/AC 91-92.md|AC 91-92]]
     - [[Filed/ACS.md|ACS]]
@@ -183,11 +185,4 @@
     - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
-
-- October 25, 2023: 
-    - [[Lesson Plans/Commercial/Lazy Eights.md|Lazy Eights]]
-    - [[Filed/AFH Ch8.md|AFH Ch8]]
-    - [[Filed/AFH Ch9.md|AFH Ch9]]
-    - [[Filed/PHAK Ch1.md|PHAK Ch1]]
-    - [[Filed/PHAK.md|PHAK]]
 

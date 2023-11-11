@@ -24,6 +24,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 1. Pre-Flight
 	1. Sources for airport information and data (chart supplements, [[EFB]], [[AOPA]]), [[NOTAM|NOTAMs]]
 		1. Traffic Pattern Altitude ([[TPA]])
+		2. Noise Abatement
 	2. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 	3. Tower airports become non-towered when tower closed
 	4. Weather sources: [[AWOS]]/[[ASOS]], 1800wxbrief.com, telephone
