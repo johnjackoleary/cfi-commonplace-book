@@ -18,7 +18,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-2 hours ground, 1 hour flight
+1.5 hours ground, 1.5 hour sim/flight
 
 ### Lesson Elements
 1. Pre-Flight
