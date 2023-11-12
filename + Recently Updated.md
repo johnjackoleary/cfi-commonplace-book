@@ -2,6 +2,7 @@
 
 - November 11, 2023: 
     - [[Lesson Plans/Commercial/Appendix C - Ideas for Solo Commercial Practice.md|Appendix C - Ideas for Solo Commercial Practice]]
+    - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
@@ -92,7 +93,6 @@
     - [[Lesson Plans/Instrument/Instrument proficiency check.md|Instrument proficiency check]]
     - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Private/Appendix PPL.B - Private Pilot Endorsements.md|Appendix PPL.B - Private Pilot Endorsements]]
-    - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
     - [[Lesson Plans/Private/PPL.19 Navigation Systems and Other Equipment.md|PPL.19 Navigation Systems and Other Equipment]]
     - [[Lesson Plans/Private/PPL.4 Normal and Crosswind Takeoffs and Climbs.md|PPL.4 Normal and Crosswind Takeoffs and Climbs]]
