@@ -1,9 +1,11 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 11, 2023: 
+    - [[Lesson Plans/Commercial/Appendix C - Ideas for Solo Commercial Practice.md|Appendix C - Ideas for Solo Commercial Practice]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
+    - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
     - [[Filed/AC 90-66.md|AC 90-66]]
     - [[Filed/FAR 91.126 Class G Airport Ops.md|FAR 91.126 Class G Airport Ops]]
     - [[Filed/IAS.md|IAS]]

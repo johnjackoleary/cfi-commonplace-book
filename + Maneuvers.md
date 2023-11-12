@@ -6,8 +6,6 @@
 - [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
 - [[Filed/Maneuver - S-Turns.md|Maneuver - S-Turns]]
 - [[Filed/Maneuver - Rectangular Course.md|Maneuver - Rectangular Course]]
-- [[Filed/Maneuver - Power-On Stall.md|Maneuver - Power-On Stall]]
-- [[Filed/Maneuver - Power-Off Stall.md|Maneuver - Power-Off Stall]]
 - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
 - [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
 - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
