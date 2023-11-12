@@ -41,8 +41,24 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 	1. Sight - high pitch attitude (not always)
 	2. Sound - reduced airflow, less wind noise
 	3. Feel - mushy controls, less effective, buffeting
-4. ![[Maneuver - Power-Off Stall]]
-5. ![[Maneuver - Power-On Stall]]
+4. Power Off Stall Maneuver
+	1. Simulates stall during approach to landing
+	2. Clearing Turns, ID Emergency Field, Outside Reference
+	3. Enter slow flight in landing configuration
+	4. Descend at approach speed
+	5. Pitch up slowly for full stall
+	6. Verbally acknowledge stall horn
+	7. Continue holding pitch to full stall
+	8. Recover: pitch down just below horizon, full power, raise flaps one notch, then incrementally up. Climb [[Vy]].
+5. Power On Stall Maneuver
+	1. Simulates stall during approach to landing
+	2. Clearing Turns, ID Emergency Field, Outside Reference
+	3. Enter slow flight in takeoff configuration
+	4. At [[Vr]], add >65% power
+	5. Pitch up slowly for full stall, establish gentle turn if needed
+	6. Verbally acknowledge stall horn
+	7. Continue holding pitch to full stall
+	8. Recover: pitch down to normal climb attitude, full power. Climb Vy.
 6. Common errors:
 	1. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry

@@ -1,8 +1,12 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 11, 2023: 
+    - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
+    - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
     - [[Filed/AC 90-66.md|AC 90-66]]
+    - [[Filed/FAR 91.126 Class G Airport Ops.md|FAR 91.126 Class G Airport Ops]]
+    - [[Filed/IAS.md|IAS]]
 
 - November 09, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
