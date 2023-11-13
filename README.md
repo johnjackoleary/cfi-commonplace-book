@@ -18,7 +18,7 @@
 
 ### Obsidian Plug-ins Used
 All plugins are meant to be optional, although Dataview is heavily used.
-- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) is used heavily for aggregating files and reformatting raw data. Most unusual symbols in the Markdown, especially in files like Gait Charts (e.g. [[C152 GAIT and Datasheet]]), are for Dataview.
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) is used heavily for aggregating files and reformatting raw data. Most unusual symbols in the Markdown, especially in files like Gait Charts (e.g. [[C152 Gait]]), are for Dataview.
 	- #todo :: This is difficult for publishing, because Dataview doesn't work with publish. May need to pivot further away from Dataview, for now the publishing process includes generating some Dataview tables from queries in [[Update Publish Files]].
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) is for convenience in editing tables. This is totally optional but very helpful.
 - [Git](https://github.com/denolehov/obsidian-git) for easy vault backups. 

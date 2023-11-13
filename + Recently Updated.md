@@ -2,6 +2,11 @@
 
 - November 13, 2023: 
     - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
+    - [[Filed/Maneuvers Config.md|Maneuvers Config]]
+    - [[README.md|README]]
+    - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
+    - [[Media/Aircraft/C172S/C172S Datasheet.md|C172S Datasheet]]
+    - [[Media/Aircraft/C172S/Getting to Know the C172S.md|Getting to Know the C172S]]
 
 - November 11, 2023: 
     - [[Lesson Plans/Commercial/Appendix C - Ideas for Solo Commercial Practice.md|Appendix C - Ideas for Solo Commercial Practice]]
@@ -50,12 +55,9 @@
     - [[Filed/BFR.md|BFR]]
     - [[Filed/Conducting an Effective Flight Review.md|Conducting an Effective Flight Review]]
     - [[Filed/FAA Website on Runway Incursions.md|FAA Website on Runway Incursions]]
-    - [[Filed/FAR 61.56 Flight Review.md|FAR 61.56 Flight Review]]
-    - [[Filed/Hotspot.md|Hotspot]]
-    - [[Filed/Order 1320.46C - Advisory Circular System.md|Order 1320.46C - Advisory Circular System]]
-    - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
-    - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait and Datasheet.md|PA28-181 KTS Gait and Datasheet]]
+    - [[Filed/FAR 61.56 F[[PA28-181 MPH Gait|PA28-181 MPH Gait]]er 1320.46C - Advisory Circular System.md|Order 1320.46C - Advisory Circular System]]
     - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait and Datasheet.md|PA28-181 MPH Gait and Datasheet]]
+    - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait.md|PA28-181 KTS Gait]]
 
 - November 04, 2023: 
     - [[Lesson Plans/Flight Instructor/CFII Endorsements as an Add-On.md|CFII Endorsements as an Add-On]]
@@ -172,7 +174,6 @@
     - [[Filed/Stabilized Approach and Landing.md|Stabilized Approach and Landing]]
     - [[Filed/Stick and Rudder.md|Stick and Rudder]]
     - [[Filed/UNOS.md|UNOS]]
-    - [[README.md|README]]
     - [[~ Start Here.md|~ Start Here]]
 
 - October 31, 2023: 
