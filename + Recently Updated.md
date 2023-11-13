@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 13, 2023: 
+    - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
+
 - November 11, 2023: 
     - [[Lesson Plans/Commercial/Appendix C - Ideas for Solo Commercial Practice.md|Appendix C - Ideas for Solo Commercial Practice]]
     - [[Lesson Plans/Private/Appendix PPL.D - Suggestions for Solo Flight Practice.md|Appendix PPL.D - Suggestions for Solo Flight Practice]]
@@ -186,9 +189,4 @@
     - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
     - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
     - [[Filed/GRABCARDD.md|GRABCARDD]]
-
-- October 29, 2023: 
-    - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
-    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
-    - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
 
