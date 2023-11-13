@@ -2,6 +2,9 @@
 tags: [maneuver]
 ---
 
+> [!warning]
+> Some users have reported the files not loading on Android mobile browsers. Jack is not sure why that would be, it works in iOS and desktop.
+
 > [!note]
 > Aggregating here since Obsidian Publish does show PDFs otherwise.
 
