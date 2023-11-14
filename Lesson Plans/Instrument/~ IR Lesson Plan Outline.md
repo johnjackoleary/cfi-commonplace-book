@@ -33,8 +33,8 @@ tags: ir
 #### Appendices
 [[Appendix IR.A - IFR Regulations Quick Reference from AOPA]]
 [[Appendix IR.B - Lost Communications]]
-[[Appendix IR.C - IFR Endorsements]]
-[[Appendix IR.D - Instrument Rating Flight Experience Requirements]]
+[[IR.C IFR Endorsements]]
+[[IR.D Instrument Rating Flight Experience Requirements]]
 [[Appendix IR.E - Important References to Study]]
 [[Appendix IR.F - Kneeboard Cheatsheets]]
 [[Appendix IR.G - KSQL IFR Departure Procedure]]
@@ -43,4 +43,4 @@ tags: ir
 
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Nov 1, 2023.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Nov 14, 2023.

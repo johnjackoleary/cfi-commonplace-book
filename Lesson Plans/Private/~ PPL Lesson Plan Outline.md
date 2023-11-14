@@ -48,13 +48,13 @@ tags: ppl
 (Private Pilot Quiz and Private Pilot Phase Check)
 
 #### Appendices
-[[Appendix PPL.A - Part 61 Private Pilot Training Requirements]]
-[[Appendix PPL.B - Private Pilot Endorsements]]
-[[Appendix PPL.C - When to Acquire Various Equipment]]
-[[Appendix PPL.D - Suggestions for Solo Flight Practice]]
-[[Appendix PPL.E - Suggestions for XC Destinations]]
+[[PPL.A Part 61 Private Pilot Training Requirements]]
+[[PPL.B Private Pilot Endorsements]]
+[[PPL.C When to Acquire Various Equipment]]
+[[PPL.D Suggestions for Solo Flight Practice]]
+[[PPL.E Suggestions for XC Destinations]]
 
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Oct 26, 2023.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Nov 14, 2023.

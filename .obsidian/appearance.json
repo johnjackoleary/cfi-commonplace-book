@@ -1,7 +1,8 @@
 {
   "cssTheme": "CFIJack",
   "enabledCssSnippets": [
-    "dataview-inline-fields"
+    "dataview-inline-fields",
+    "radio-comms"
   ],
   "baseFontSize": 16,
   "theme": "moonstone",

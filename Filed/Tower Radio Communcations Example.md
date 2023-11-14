@@ -1,9 +1,3 @@
----
-cssclass: lesson
-tags: ppl, lesson
----
-
-## Example Radio Calls for Palo Alto operations
 1. Don’t forget to listen to [[ATIS]] prior to first call (before taxi, or before calling tower upon return to airport).
 2. Ready to taxi for runway 31 for pattern work:
 	1. "Palo Alto Ground, Citabria Tree-Seven-Four-Delta-Mike, Hotel row, closed traffic, with November".
@@ -14,7 +8,7 @@ tags: ppl, lesson
 	2. Reply will be similar to: "Citabria Five-Niner-Six-Juliet-Romeo, taxi runway One-Three via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, hold short Yankee Three".
 	3. Readback: "Runway runway One-Three via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, hold short Yankee Three, Six Juliet Romeo"
 4. After runup, ready for takeoff:
-	1. "Ground, Citabria Six-Juliet-Romeo, Runup Complete"
+	1. "Ground, Citabria Six-Juliet-Romeo, Runup Complete"^[This is a bit specific to KPAO, your airport may have its own variation on procedures.]
 	2. Ground replies: "Citabria Six Juliet Romeo, hold short Yankee One, contact Tower". Readback: "Six Juliet Romeo, hold short Yankee One, contact Tower"
 	4. Contact tower for takeoff clearance: "Palo Alto Tower, Citabria Five-Niner-Six-Juliet-Romeo, Holding short Y1, Ready for departure". 
 		1. Expect to hear: "Citabria Five-Niner-Six-Juliet-Romeo, Palo Alto Tower, hold short Runway Three-One". Readback: "Hold short Three-One, Five-Niner-Six-Juliet-Romeo". 
@@ -33,3 +27,7 @@ tags: ppl, lesson
 	1. "Palo Alto Ground, Citabria Five-Niner-Six-Juliet-Romeo, on Zulu, taxi West Valley parking."
 	2. Expect reply: "Six Juliet Romeo, PA Ground, taxi to parking via Zulu, Yankee2, suggest Juliet, hangar side".
 	3. Readback: "Six Juliet Romeo, taxi Zulu, Yankee2, Juliet, hangar side".
+
+---
+
+Related to: [[Non-Tower Radio Communications Examples]]

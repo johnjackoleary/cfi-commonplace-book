@@ -11,6 +11,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[PHAK Ch14]]
 - [[AIM 4-3]]
 - [[Private Pilot ACS]] Section III Task B
+- [[Non-Tower Radio Communications Examples]]
 
 ### Builds On
 - [[PPL.5 Towered Airport Operations]]
@@ -50,7 +51,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 				1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airport Ops]])
 				2. ![[Single Runway Traffic.jpeg]]
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
-	2. [[Radio Usage at Non-Towered Airports]]
+	2. [[Non-Tower Radio Communications Examples]]
 	3. Some aircraft don't have radios
 	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 3. Common errors
@@ -69,7 +70,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 
 ### Required Homework
 - [ ] Read [[AC 90-66]]
-- [ ] Purchase items from [[Appendix PPL.C - When to Acquire Various Equipment]]
+- [ ] Purchase items from [[PPL.C When to Acquire Various Equipment]]
 
 ### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport, from several directions and various wind, with radio calls

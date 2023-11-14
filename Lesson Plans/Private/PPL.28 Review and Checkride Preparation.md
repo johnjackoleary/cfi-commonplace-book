@@ -26,7 +26,7 @@ Ground 3 hours, Flight as necessary
 	1. Good video, showing DPE’s expectations for checkride, especially oral portion (Andy Munnis, DPE): https://www.youtube.com/watch?v=zVEgIeZUpk
 	2. Books available for preparation
 	3. Practice oral exams with other students and instructors
-4. Practical test maneuvers to practice and polish - [[Appendix PPL.D - Suggestions for Solo Flight Practice]]
+4. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 	1. Takeoffs, landings, go-arounds, including short-and soft-field techniques, and forward slips to landing
 	2. Steep turns and ground reference maneuvers: rectangular patterns, turns-around-a-point, and S-turns-across-a-road
 	3. Cross-country -- diversion and lost procedures

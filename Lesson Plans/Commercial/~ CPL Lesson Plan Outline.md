@@ -1,7 +1,6 @@
 ---
 cssclass: lesson
 tags: cpl
-based-on: DietzCommercialAirplaneSyllabus2022.pdf
 ---
 ### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]

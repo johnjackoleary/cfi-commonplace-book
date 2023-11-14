@@ -9,7 +9,7 @@ tags:
 Develop understanding of IFR flight training process, and detailed knowledge of instrument systems and pre-flight checks.
 
 ### References
-- [[Appendix IR.D - Instrument Rating Flight Experience Requirements]]
+- [[IR.D Instrument Rating Flight Experience Requirements]]
 - [[IFH]] Ch. 5-6
 - [[POH]]/[[AFM]] 
 
@@ -25,7 +25,7 @@ Ground 3 hours
 		1. Private: 70-90 hours, about $20k-$30k
 		2. Instrument 40-60 hours, about $15k-$20k
 		3. Simulation software and PC tools 
-	2. Requirements for Instrument Rating ![[Appendix IR.D - Instrument Rating Flight Experience Requirements]]
+	2. Requirements for Instrument Rating ![[IR.D Instrument Rating Flight Experience Requirements]]
 	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	4. Recency of experience [[FAR 61.57 Recent Flight Experience]], logbook records 61.51, personal minimums 
 		1. Logging [[IAP]], what’s required  ([[InFO15012]])
