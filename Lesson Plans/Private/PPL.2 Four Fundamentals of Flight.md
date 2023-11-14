@@ -19,6 +19,9 @@ N/A
 > [!tip] 
 > Pitch + Power = Performance
 
+> [!tip]
+> Lift can be increased by increasing velocity, angle of attack (up to [[Critical Angle of Attack]]), or adding flaps.
+
 #### Straight and Level
 1. Scanning for traffic!
 2. Visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
