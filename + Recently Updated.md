@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 14, 2023: 
+    - [[Filed/Engine Operation for Pilots.md|Engine Operation for Pilots]]
+
 - November 13, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
@@ -187,9 +190,4 @@
     - [[Filed/Smooth Power Application.md|Smooth Power Application]]
     - [[Filed/TPA.md|TPA]]
     - [[Filed/White Over White, Red Over White, Red Over Red.md|White Over White, Red Over White, Red Over Red]]
-
-- October 30, 2023: 
-    - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
-    - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
-    - [[Filed/GRABCARDD.md|GRABCARDD]]
 
