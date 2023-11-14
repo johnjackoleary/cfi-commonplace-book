@@ -30,7 +30,7 @@ Develop initial knowledge of and sources for preflight briefings.
 	3. en<u>V</u>ironment: Weather, airspace/[[TFR]]s, terrain, etc
 	4. <u>E</u>xternal Pressures
 		1. [[Personal Minimums]]
-		2. Early expectation setting with passengers
+		2. Early expectation setting with passengers, having backup plans, etc
 2. Required Preflight Action ([[FAR 91.103]]) - [[NWKRAFT]]
 	1. "all available information concerning that flight"
 	2. [[NOTAM]]s (and [[Approved NOTAM Contractions]])
