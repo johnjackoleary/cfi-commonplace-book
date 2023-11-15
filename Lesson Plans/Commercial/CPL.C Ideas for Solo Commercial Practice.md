@@ -1,7 +1,7 @@
-Summary: Maneuvers in Traffic Pattern
-Preferred Conditions: Cross-Wind; A Variety of Conditions
+**Summary**: Maneuvers in Traffic Pattern
+**Preferred Conditions**: Cross-Wind; A Variety of Conditions
 
-ACS Tasks:
+**ACS Tasks**:
 1. Normal Takeoff and Climb (IV.A)
 	1. Flight controls positioned for wind.
 	2. Follow noise abatement procedures.
@@ -49,10 +49,10 @@ ACS Tasks:
 
 ----
 
-Summary: Ground Reference Maneuvers 
-Preferred Conditions: Winds Aloft
+**Summary**: Ground Reference Maneuvers 
+**Preferred Conditions**: Winds Aloft
 
-ACS Tasks:
+**ACS Tasks**:
 1. For All
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
@@ -71,10 +71,10 @@ ACS Tasks:
 
 ----
 
-Summary: Remaining Maneuvers 
-Preferred Conditions: Any
+**Summary**: Remaining Maneuvers 
+**Preferred Conditions**: Any
 
-ACS Tasks:
+**ACS Tasks**:
 1. For All
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).

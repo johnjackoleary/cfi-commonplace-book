@@ -4,7 +4,7 @@ tags: cpl
 ---
 ### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
-> “Lessons” will often consist of multiple ground and/or flight sessions.
+> "Lessons" will often consist of multiple ground and/or flight sessions.
 
 Outline of All ACS Tasks
 [[CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
@@ -22,6 +22,6 @@ Outline of All ACS Tasks
 [[Emergency Procedures (Identical to PPL Syllabus)]]
 [[Postflght Procedures (Identical to PPL Syllabus)]]
 [[Checkride Preparation]]
-[[Appendix A - Part 61 Commercial Training Requirements]]
-[[Appendix B - Commercial Pilot Endorsements]]
-[[Appendix C - Ideas for Solo Commercial Practice]]
+[[CPL.A Part 61 Commercial Training Requirements]]
+[[CPL.B Commercial Pilot Endorsements]]
+[[CPL.C Ideas for Solo Commercial Practice]]

@@ -1,5 +1,20 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 15, 2023: 
+    - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
+    - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
+    - [[Lesson Plans/Instrument/IR.9 Airspace, Charts, Flight Planning and Enroute Operations.md|IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
+    - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
+    - [[Filed/14 CFR Part 91 Review Assignment.md|14 CFR Part 91 Review Assignment]]
+    - [[Filed/AC 00-6.md|AC 00-6]]
+    - [[Filed/AC 61-67.md|AC 61-67]]
+    - [[Filed/AC 91-37B Truth in Leasing.md|AC 91-37B Truth in Leasing]]
+    - [[Filed/CFI Checkride Table of Contents.md|CFI Checkride Table of Contents]]
+    - [[Filed/Order 1320.46C - Advisory Circular System.md|Order 1320.46C - Advisory Circular System]]
+    - [[Filed/AC 90-114.md|AC 90-114]]
+    - [[Filed/PPL.md|PPL]]
+    - [[Filed/CPL.md|CPL]]
+
 - November 14, 2023: 
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
@@ -23,7 +38,6 @@
     - [[Filed/Good Landing vs Outstanding Landing.md|Good Landing vs Outstanding Landing]]
     - [[Filed/ADS-B.md|ADS-B]]
     - [[Filed/TIS-B.md|TIS-B]]
-    - [[Filed/AC 90-114.md|AC 90-114]]
     - [[Media/Aircraft/C172S/C172S GAIT.md|C172S GAIT]]
 
 - November 13, 2023: 
@@ -38,7 +52,7 @@
     - [[Media/Aircraft/C172S/Getting to Know the C172S.md|Getting to Know the C172S]]
 
 - November 11, 2023: 
-    - [[Lesson Plans/Commercial/Appendix C - Ideas for Solo Commercial Practice.md|Appendix C - Ideas for Solo Commercial Practice]]
+    - [[CPL.C Ideas for Solo Commercial Practice|CPL.C Ideas for Solo Commercial Practice]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
@@ -56,9 +70,6 @@
     - [[Filed/AC 90-109.md|AC 90-109]]
     - [[Filed/GIA.md|GIA]]
 
-- November 08, 2023: 
-    - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
-
 - November 06, 2023: 
     - [[Lesson Plans/Biennial Flight Review/Appendix BFR.A Endorsement.md|Appendix BFR.A Endorsement]]
     - [[Lesson Plans/Biennial Flight Review/Appendix BFR.B Requirements.md|Appendix BFR.B Requirements]]
@@ -70,7 +81,6 @@
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
     - [[Lesson Plans/Private/PPL.E Suggestions for XC Destinations.md|PPL.E Suggestions for XC Destinations]]
-    - [[Filed/14 CFR Part 91 Review Assignment.md|14 CFR Part 91 Review Assignment]]
     - [[Filed/AC 61-98.md|AC 61-98]]
     - [[Filed/AC 91-73.md|AC 91-73]]
     - [[Filed/BFR.md|BFR]]
@@ -78,7 +88,6 @@
     - [[Filed/FAA Website on Runway Incursions.md|FAA Website on Runway Incursions]]
     - [[Filed/FAR 61.56 Flight Review.md|FAR 61.56 Flight Review]]
     - [[Filed/Hotspot.md|Hotspot]]
-    - [[Filed/Order 1320.46C - Advisory Circular System.md|Order 1320.46C - Advisory Circular System]]
     - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait.md|PA28-181 KTS Gait]]
     - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait.md|PA28-181 MPH Gait]]
 
@@ -103,7 +112,7 @@
     - [[Filed/WAAS.md|WAAS]]
 
 - November 01, 2023: 
-    - [[Lesson Plans/Commercial/Appendix B - Commercial Pilot Endorsements.md|Appendix B - Commercial Pilot Endorsements]]
+    - [[CPL.B Commercial Pilot Endorsements|CPL.B Commercial Pilot Endorsements]]
     - [[Lesson Plans/Complex/Complex Endorsement.md|Complex Endorsement]]
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
@@ -113,7 +122,6 @@
     - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
     - [[Lesson Plans/Instrument/IR.5 Flight Deck Organization, Workload Management, Checklists.md|IR.5 Flight Deck Organization, Workload Management, Checklists]]
     - [[Lesson Plans/Instrument/IR.8 Unusual Attitude Recoveries, Including Partial Panel.md|IR.8 Unusual Attitude Recoveries, Including Partial Panel]]
-    - [[Lesson Plans/Instrument/IR.9 Airspace, Charts, Flight Planning and Enroute Operations.md|IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
     - [[Lesson Plans/Instrument/Instrument proficiency check.md|Instrument proficiency check]]
     - [[Lesson Plans/Instrument/IR.D Instrument Rating Flight Experience Requirements.md|IR.D Instrument Rating Flight Experience Requirements]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
@@ -128,14 +136,11 @@
     - [[Filed/ABCDE.md|ABCDE]]
     - [[Filed/AC 00-45.md|AC 00-45]]
     - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
-    - [[Filed/AC 00-6.md|AC 00-6]]
     - [[Filed/AC 120-57B.md|AC 120-57B]]
     - [[Filed/AC 60-28.md|AC 60-28]]
     - [[Filed/AC 61-142 Sharing Expenses.md|AC 61-142 Sharing Expenses]]
     - [[Filed/AC 61-65.md|AC 61-65]]
-    - [[Filed/AC 61-67.md|AC 61-67]]
     - [[Filed/AC 68-1A.md|AC 68-1A]]
-    - [[Filed/AC 91-37B Truth in Leasing.md|AC 91-37B Truth in Leasing]]
     - [[Filed/AC 91-74.md|AC 91-74]]
     - [[Filed/AC 91-92.md|AC 91-92]]
     - [[Filed/ACS.md|ACS]]
@@ -148,7 +153,6 @@
     - [[Filed/ANDS.md|ANDS]]
     - [[Filed/Aircraft Systems - 03 - Engine.md|Aircraft Systems - 03 - Engine]]
     - [[Filed/Aviation Weather Handbook.md|Aviation Weather Handbook]]
-    - [[Filed/CFI Checkride Table of Contents.md|CFI Checkride Table of Contents]]
     - [[Filed/Carb Heat Demystified.md|Carb Heat Demystified]]
     - [[Filed/Collections of Common Bay Area VFR Reporting Points.md|Collections of Common Bay Area VFR Reporting Points]]
     - [[Filed/Compass Errors.md|Compass Errors]]
