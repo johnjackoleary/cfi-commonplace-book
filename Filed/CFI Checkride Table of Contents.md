@@ -41,9 +41,9 @@ Based on [online writeup]( https://www.reddit.com/r/flying/comments/tgn67t/ive_b
 |                         [[AC 00-45]] | Aviation Weather Services                                                                                      |
 |                                 [[AC 00-6]] | Aviation Weather                                                                                               |
 |                             [[AC 120-51]] | Crew Resource Management Training                                                                              |
-| [AC 150/5340-1](https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5340-1M-Chg-1-Airport-Markings.pdf) | Standards for Airport Markings                                                                                 |
-|  [AC 150/5340-18](https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5340-18G-Chg-1-Airport-Signs.pdf) | Standards for Airport Sign Systems                                                                             |
-|                      [AC 150/5340-30](https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5340-30J.pdf) | Design and Installation Details for Airport Visual Aids                                                        |
+| [[AC 150-5340-1]] | Standards for Airport Markings                                                                                 |
+|  [[AC 150-5340-18]] | Standards for Airport Sign Systems                                                                             |
+|                      [[AC 150-5340-30]] | Design and Installation Details for Airport Visual Aids                                                        |
 |                                                                                                        [[AC 60-22]] | Aeronautical Decision Making                                                                                   |
 |                                                                                                        [[AC 60-28]] | `= [[AC 60-28]].Description`                                                                                   |
 |                                                                                                       [[AC 61-107]] | Operations of Aircraft at Altitude Above 25,000 feet MSL and/or Mach Numbers (Mmo) Greater than .75            |
