@@ -3,12 +3,14 @@
 - November 14, 2023: 
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
+    - [[Lesson Plans/Instrument/IR.12 Precision Approaches.md|IR.12 Precision Approaches]]
     - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
     - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
+    - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
     - [[Filed/PHAK Glossary.md|PHAK Glossary]]
@@ -21,6 +23,7 @@
     - [[Filed/Good Landing vs Outstanding Landing.md|Good Landing vs Outstanding Landing]]
     - [[Filed/ADS-B.md|ADS-B]]
     - [[Filed/TIS-B.md|TIS-B]]
+    - [[Filed/AC 90-114.md|AC 90-114]]
     - [[Media/Aircraft/C172S/C172S GAIT.md|C172S GAIT]]
 
 - November 13, 2023: 
@@ -66,7 +69,6 @@
     - [[Lesson Plans/Biennial Flight Review/~ Biennial Flight Review Outline.md|~ Biennial Flight Review Outline]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.17 Pre-Solo Knowledge Test and Review.md|PPL.17 Pre-Solo Knowledge Test and Review]]
-    - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.E Suggestions for XC Destinations.md|PPL.E Suggestions for XC Destinations]]
     - [[Filed/14 CFR Part 91 Review Assignment.md|14 CFR Part 91 Review Assignment]]
     - [[Filed/AC 61-98.md|AC 61-98]]
@@ -106,7 +108,6 @@
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
     - [[Lesson Plans/Instrument/IR.10 Holding Patterns and Workload Management.md|IR.10 Holding Patterns and Workload Management]]
-    - [[Lesson Plans/Instrument/IR.12 Precision Approaches.md|IR.12 Precision Approaches]]
     - [[Lesson Plans/Instrument/IR.15 Partial Panel Maneuvers and Approaches.md|IR.15 Partial Panel Maneuvers and Approaches]]
     - [[Lesson Plans/Instrument/IR.17 Enroute and Cross-Country Instrument Flight.md|IR.17 Enroute and Cross-Country Instrument Flight]]
     - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
