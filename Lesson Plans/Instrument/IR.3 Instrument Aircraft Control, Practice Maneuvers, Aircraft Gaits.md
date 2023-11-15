@@ -9,7 +9,7 @@ tags:
 Further develop instrument scan procedures, and practice all phases of IFR flight, with transitions between the various maneuvers. Develop and document “gait” chart for the aircraft in use. 
 
 ### References
-[[IFH]] Ch. 6-7 
+None
 
 ### Builds On
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]

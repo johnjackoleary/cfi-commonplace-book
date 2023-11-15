@@ -9,7 +9,7 @@ tags:
 Memorize common mental checklists and learn to use mental checklists and flow patterns backed up by written checklists. 
 
 ### References
-
+None
 
 ### Builds On
 - [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]

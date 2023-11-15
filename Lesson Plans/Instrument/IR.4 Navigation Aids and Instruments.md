@@ -9,7 +9,8 @@ tags:
 Understand the infrastructure and instruments used for navigation, how each system works, and how to determine if the system is functional. Additionally, to understand the tools available for ice.
 
 ### References
-AIM 1-1, 1-2; IFH Chap 9 
+None
+
 
 ### Builds On
 [[IR.1 Introduction and Instrument Systems]]

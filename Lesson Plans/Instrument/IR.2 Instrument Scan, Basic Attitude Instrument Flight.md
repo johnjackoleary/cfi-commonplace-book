@@ -9,8 +9,8 @@ tags:
 Understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure. 
 
 ### References
-- [[IFH]] Ch. 6-7
 - Flight Deck Poster/Diagram
+	- #todo :: link this
 
 ### Builds On
 [[IR.1 Introduction and Instrument Systems]]

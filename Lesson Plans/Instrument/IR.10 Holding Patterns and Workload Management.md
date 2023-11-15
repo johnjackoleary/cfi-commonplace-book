@@ -9,7 +9,9 @@ tags:
 Develop proficiency in flying holding patterns, including recommended entry procedures, while satisfying ACS standards. 
 
 ### References
-POH, AFM, GPS manual, AIM 5-3-8; IFH, Ch. 10 
+- [[POH]]/[[AFM]]
+- GPS manual
+#todo :: Update
 
 ### Builds On
 - [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
