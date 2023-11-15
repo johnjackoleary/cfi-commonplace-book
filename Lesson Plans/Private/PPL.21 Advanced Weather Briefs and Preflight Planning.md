@@ -23,16 +23,20 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 	1. [[Personal Minimums]] and [[ADM]]
 	2. [[Human Factors]]
 	3. Proficiency vs Currency
+		1. Currency Requirements
 3. Aircraft
-	1. Primary/Secondary flight controls
-	2. Powerplant and propeller
-	3. Landing gear
-	4. Fuel, oil, and hydraulic
-	5. Electrical
-	6. Avionics
-	7. Pitot-static, vacuum/pressure, and associated flight instruments
-	8. Environmental
-	9. Deicing and anti-icing
+	1. Required inspections ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
+	2. Equipment
+		1. Primary/Secondary flight controls
+		2. Powerplant and propeller
+		3. Landing gear
+		4. Fuel, oil, and hydraulic
+		5. Electrical
+		6. Avionics
+		7. Pitot-static, vacuum/pressure, and associated flight instruments
+		8. Environmental
+		9. Deicing and anti-icing
+	3. How to share expenses? [[AC 61-142 Sharing Expenses]]
 4. Environment
 	1. Weather
 		1. Weather theory -- see [[Aviation Weather Handbook]] for best resources
@@ -63,7 +67,6 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
 
 ### Required Homework
-- [ ] Call 1800-wxbrief and get a brief over the phone
 - [ ] Draft personal minimums
 
 ### Recommended Homework
