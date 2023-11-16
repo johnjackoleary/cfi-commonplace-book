@@ -108,6 +108,7 @@
     - [[Filed/Theories of Forgetting.md|Theories of Forgetting]]
     - [[Filed/Three Types of Practice.md|Three Types of Practice]]
     - [[Filed/VFR Weather Minimums List Memory Aid.md|VFR Weather Minimums List Memory Aid]]
+    - [[Filed/Wake Turbulence.md|Wake Turbulence]]
     - [[Filed/bhp.md|bhp]]
     - [[Filed/AC 90-114.md|AC 90-114]]
     - [[Filed/Carbon Monoxide Poisoning.md|Carbon Monoxide Poisoning]]
@@ -148,6 +149,8 @@
     - [[Filed/Substantial Damage.md|Substantial Damage]]
     - [[Filed/VFR.md|VFR]]
     - [[Filed/Fly Into The Crash In A Forced Landing.md|Fly Into The Crash In A Forced Landing]]
+    - [[Filed/Part 830.md|Part 830]]
+    - [[Filed/AC 90-23.md|AC 90-23]]
     - [[README.md|README]]
 
 - November 15, 2023: 

@@ -42,9 +42,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		3. [[5 Hazardous Attitudes and Antidotes]]
 5. Airport Operations
 	1. Q&A to feel out weak areas in understanding of [[PPL.5 Towered Airport Operations]] and [[PPL.18 Non-Towered Airport Operations]]
-	2. [[Part 830]] Review
-		1. #todo :: Finish updating [[Part 830]]
-		2. #todo :: Add definition of accident, incident, serious injury – accident reporting requirements
+	2. [[Part 830]] review: [[Accident and Incident Reporting]]
 
 ### Completion Standards
 Learner understands similarities and differences between commercial and private certificates. They are able to start brushing up on weak areas of the [[FAR]]/[[AIM]], [[POH]]/[[AFM]], [[PHAK]], etc.
