@@ -1,1 +1,0 @@
-![[Key Position for Power Off 180.jpeg]] [[Flaps, Approach Geometry, Slip]]

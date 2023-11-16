@@ -18,7 +18,7 @@ The lazy eight is a maneuver that is designed to develop the proper coordination
 - [[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
-
+Ground 0.5 hours, Flight 2 hours
 
 ### Lesson Elements
 1. Concepts in a lazy eight

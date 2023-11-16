@@ -2,6 +2,8 @@
 cssclass: lesson
 tags: cpl
 ---
+#todo :: add all logbook endorsements for 61.125
+
 ### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
 > "Lessons" will often consist of multiple ground and/or flight sessions.
