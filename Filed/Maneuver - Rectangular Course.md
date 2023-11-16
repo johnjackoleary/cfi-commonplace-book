@@ -25,7 +25,7 @@ config: "[[Maneuvers Config]]"
 - Divide attention between airplane control, traffic, and ground references.
 - Be aware of low altitude hazards like wires.
 - Turn crosswind from downwind when you are abeam the crosswind reference line.
-![[Rectangular Course.jpeg]]
+
 
 ### Related Notes
 ```dataview

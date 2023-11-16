@@ -6,11 +6,16 @@ tags: cpl, lesson
 The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
 
 ### References
-[[AFH Ch10]], [[Commercial ACS]]
-**Additional Resources:** [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE), [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
+- [[AFH Ch10]]
+- [[Commercial ACS]]
+
+### Additional Resources
+- [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE)
+- [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
 
 ### Builds On
-[[PPL.10 Ground Reference Maneuvers]], [[PPL.6 Maneuvering During Slow Flight]]
+- [[PPL.10 Ground Reference Maneuvers]]
+- [[PPL.6 Maneuvering During Slow Flight]]
 
 ### Schedule
 
@@ -24,7 +29,7 @@ The lazy eight is a maneuver that is designed to develop the proper coordination
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
 	3. Be careful of overlaying Bravo.
-	4. Establish the recommended entry configuration, power, and airspeed. (See aircraft specific maneuver sheets, e.g. [[cfi_maneuvers_cessna_172.pdf]],  [[C182T Commercial Maneuvers.pdf]])
+	4. Establish the recommended entry configuration, power, and airspeed. (See aircraft specific maneuver sheets, e.g. #todo :: add to [[All Maneuvers Quick Reference]])
 3. Maneuver
 	1. Pick reference point off wing (90°) in direction of turn. Reference points at 45° and 135° are also useful.
 	2. Establish 5° bank and gradually pitch up (max pitch does not need to be stalling - likely to gain a couple hundred feet)
