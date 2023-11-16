@@ -33,5 +33,4 @@ I certify that \[First name, MI, Last name\] has received the required training 
 Also need to make sure ground training is logged somewhere.
 
 
-***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
-
+***Source***: [[AC 61-65]]

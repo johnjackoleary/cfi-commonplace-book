@@ -30,7 +30,7 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 		2. Change wing loading
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
-	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.jpeg|regular wing]]), but still ailerons will be less effective in a stall
+	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.jpeg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
 2. Situations where risk of stalls increase
 	1. Landing approach, especially skidding base to final turn
 	2. Climb-out, trying to clear an obstacle, especially at high density altitude

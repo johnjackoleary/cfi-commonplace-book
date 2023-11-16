@@ -1,13 +1,10 @@
-(RERIPE)
 1. Readiness
 2. Exercise
-3. Effect
-4. Primacy
-5. Intensity
-6. Recency
+3. Recency
+4. Intensity
+5. Primacy
+6. Effect
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 
  

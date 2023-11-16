@@ -27,6 +27,6 @@ I certify that \[First name, MI, Last name\] has received the required training 
 #todo endorsement of U.S. citizenship? (1552.3(h))
 
 
-***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
+***Source***: [[AC 61-65]]
 See also [[FAR 61.87 Student Solo Reqs]]
 

@@ -20,13 +20,16 @@ Ground 3 hours, Flight as necessary
 
 ### Lesson Elements
 1. Thorough review of ACS
-2. Choice of [[DPE]] and location of checkride
+2. Odds and Ends FARs
+	1. [[Pilot Performed Preventive Maintenance]]
+	2. [[FAR 91.213 Inop Equip]]
+3. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
-3. Practice for oral potion of practical test
+4. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially oral portion (Andy Munnis, DPE): https://www.youtube.com/watch?v=zVEgIeZUpk
 	2. Books available for preparation
 	3. Practice oral exams with other students and instructors
-4. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
+5. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 	1. Takeoffs, landings, go-arounds, including short-and soft-field techniques, and forward slips to landing
 	2. Steep turns and ground reference maneuvers: rectangular patterns, turns-around-a-point, and S-turns-across-a-road
 	3. Cross-country -- diversion and lost procedures
@@ -36,7 +39,7 @@ Ground 3 hours, Flight as necessary
 	7. Emergency operations
 		1. Emergency descent (simulated engine fire)
 		2. Emergency approach and landing
-5. Simulated practical test (optional) with senior CFI
+6. Simulated practical test (optional) with senior CFI
 
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.

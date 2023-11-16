@@ -3,7 +3,5 @@
 3. Active process
 4. Multi-faceted
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

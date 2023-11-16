@@ -2,7 +2,5 @@
 2. Content or Symbol
 3. Receiver
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

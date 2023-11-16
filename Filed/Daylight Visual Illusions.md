@@ -2,7 +2,7 @@
 2. Downsloping/Upsloping Runway
 3. Wide vs Narrow Runway
 
+#illusions
 
-
-Source: [[AIM 8-1]], [[Air Trek North FIA Flashcards]] #fia
+Source: [[AIM 8-1]]
 

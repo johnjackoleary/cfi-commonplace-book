@@ -7,7 +7,5 @@
 7. Pre-Solo Thinking
 8. Proficiency
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

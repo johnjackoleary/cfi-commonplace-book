@@ -7,7 +7,5 @@
 7. Fantasy
 8. Displacement
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

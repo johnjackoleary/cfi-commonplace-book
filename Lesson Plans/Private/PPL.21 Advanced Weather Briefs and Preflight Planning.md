@@ -20,10 +20,15 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 ### Lesson Elements
 1. [[PAVE]] and [[NWKRAFT]]
 2. Pilot
-	1. [[Personal Minimums]] and [[ADM]]
-	2. [[Human Factors]]
-	3. Proficiency vs Currency
-		1. Currency Requirements
+	1. Medical
+		1. [[Medical Requirements]]
+		2. [[Human Factors]]
+	3. Legal & Current
+		1. [[Pilot Currency to be Legal]]
+		2. [[Pilot Documents to be Legal]]
+	4. Proficiency
+	5. [[Hazardous Attitudes and Antidotes]]
+	6. [[Personal Minimums]] and [[ADM]]
 3. Aircraft
 	1. Required inspections ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
 	2. Equipment

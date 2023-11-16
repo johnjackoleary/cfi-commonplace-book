@@ -48,6 +48,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 7. Unsafe Conditions
 	1. [[VFR]] into [[IMC]]
 	2. Icing
+		1. [[How and Why Carburetor Ice Forms]]
 8. Emergency equipment and survival gear
 9. Emergency squawk codes: [[Squawk 7700]], [[Squawk 7600]], [[Squawk 7500]]
 > [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through on accidentally.

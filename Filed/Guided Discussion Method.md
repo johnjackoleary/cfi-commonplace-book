@@ -6,7 +6,5 @@
 6. Reverse
 7. Relay
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

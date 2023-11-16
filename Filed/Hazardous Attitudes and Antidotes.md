@@ -5,7 +5,4 @@
 5. Resignation: I'm not helpless. I can make a difference.
 
 
-
-***Source:*** [[Air Trek North FOI Memorization Items]]
-
  

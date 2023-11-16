@@ -18,7 +18,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 
 ### Lesson Elements
 1. What is slow flight? Why do we practice this?
-	1. Flight at high [[AOA]], close to stall, or stall warning
+	1. Flight at high [[AOA]], close to [[stall]], or stall warning
 		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/8WKNrfFDaYM?start=1322"  frameborder="0"></iframe>
 		2. From [The Secret of Flight 4: Discovery of Dynamic Lift](https://www.youtube.com/watch?v=8WKNrfFDaYM) by [University of Iowa](https://www.youtube.com/@universityofiowa)
 	2. We experience this during takeoffs, landings, go-arounds
