@@ -47,7 +47,7 @@ N/A
 	2. [[FAR 91.107 Use of Seat Belts]]
 6. Flight
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
-7. Post-flight Procedures
+7. Postflight Procedures
 	1. Tie-down technique
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations

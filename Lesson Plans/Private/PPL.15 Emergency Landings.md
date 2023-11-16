@@ -80,7 +80,7 @@ For [[FAR 61.87 Student Solo Reqs]]:
 - Approaches to a landing area with simulated engine malfunctions
 
 ### Required Homework
-- [ ] Memorize Vg
+- [ ] Memorize [[Vg]]
 - [ ] Memorize engine out restart flow
 - [ ] Read [[POH]] Section 3
 

@@ -15,7 +15,7 @@ Discussion of differences between commercial and private pilot licenses, and set
 - [[AC 61-142]]
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 - [[PPL.5 Towered Airport Operations]]
 - [[PPL.18 Non-Towered Airport Operations]]
 
@@ -35,7 +35,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		2. [[Distinction Between Pilot Privileges and Operational Rules]] #todo :: Add source
 	2. [[CPL]]+[[IRA]] allows commercial flights >50nm and at night.
 4. Preflight Procedures
-	1. Q&A to feel out weak areas in understanding of [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+	1. Q&A to feel out weak areas in understanding of [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 	2. Additional emphasis on
 		1. Approved [[MEL]] and the [[4 Types of MEL's]]
 		2. [[Risk Management]] and related mnemonics ([[PAVE]], [[IMSAFE]], [[5Ps]], etc)
