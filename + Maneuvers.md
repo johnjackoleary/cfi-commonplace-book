@@ -1,13 +1,6 @@
 %% Update via "Update Publish Files" template %% 
 
-- [[Filed/Maneuver Set-Up.md|Maneuver Set-Up]]
-- [[Filed/Maneuver - Turns Around a Point.md|Maneuver - Turns Around a Point]]
-- [[Filed/Maneuver - Steep Turn.md|Maneuver - Steep Turn]]
-- [[Filed/Maneuver - Slow Flight.md|Maneuver - Slow Flight]]
-- [[Filed/Maneuver - S-Turns.md|Maneuver - S-Turns]]
-- [[Filed/Maneuver - Rectangular Course.md|Maneuver - Rectangular Course]]
 - [[Filed/Maneuver - Four Fundamentals.md|Maneuver - Four Fundamentals]]
-- [[Filed/Maneuver - Emergency Descent.md|Maneuver - Emergency Descent]]
 - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
 - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
 - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]

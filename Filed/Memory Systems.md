@@ -2,7 +2,5 @@
 2. Working of Short-Term Memory
 3. Long-Term Memory
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

@@ -1,24 +1,25 @@
 ---
----
 cssclass: lesson
 tags: cpl, lesson
 ---
-UPDATE BEFORE NEXT USE
-## {{title}}
+### Objective
 
-**Objective:** 
-**References:** 
-**Builds On:** 
-**Schedule:** 
-**Lesson Elements:**
+### References
 
+### Builds On
 
-**Completion Standards:** 
+### Schedule
 
-**Required Homework:** 
+### Lesson Elements
+
+### Completion Standards
+
+### Required Logbook Phraseology
+
+### Required Homework
 - [ ] 
 
-**Recommended Homework:** 
+### Recommended Homework
 - [ ] 
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*

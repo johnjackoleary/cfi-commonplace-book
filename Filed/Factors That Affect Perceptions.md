@@ -3,7 +3,5 @@
 3. Time & Opportunity
 4. Element of Threat
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

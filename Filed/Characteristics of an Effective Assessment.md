@@ -7,7 +7,5 @@
 7. Constructive
 8. Organized
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

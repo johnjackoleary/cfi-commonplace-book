@@ -24,8 +24,7 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 Must also be endorsed for solo flight!
 
-***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
-
+***Source***: [[AC 61-65]]
 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

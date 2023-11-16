@@ -3,7 +3,5 @@
 3. Listening to others
 4. Receiving more instruction
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

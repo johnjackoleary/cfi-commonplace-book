@@ -5,7 +5,5 @@
 5. Irrelevant
 6. Trick
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

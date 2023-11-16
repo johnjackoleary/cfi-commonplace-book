@@ -12,7 +12,7 @@ Memorize common mental checklists and learn to use mental checklists and flow pa
 
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
 Ground 1 hour 

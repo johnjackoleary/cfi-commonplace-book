@@ -4,7 +4,5 @@
 4. Brief and concise
 5. Challenge the student
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

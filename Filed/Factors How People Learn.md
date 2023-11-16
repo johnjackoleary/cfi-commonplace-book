@@ -2,7 +2,5 @@
 2. [[Insight]]
 3. Motivation
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

@@ -3,7 +3,5 @@
 3. Illustrated
 4. Teaching Lecture
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

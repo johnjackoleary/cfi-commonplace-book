@@ -16,7 +16,7 @@ Develop initial knowledge of and sources for preflight briefings.
 - [[Aviation Weather Handbook]]
 
 ### Builds On
-[[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+[[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
 3 hour ground
@@ -25,7 +25,7 @@ Develop initial knowledge of and sources for preflight briefings.
 1. Preflight - [[PAVE]]
 	1. <u>P</u>ilot: [[IMSAFE]] checklist
 	2. <u>A</u>ircraft
-		1. [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+		1. [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 		2.  Introduction to Weight & Balance
 	3. en<u>V</u>ironment: Weather, airspace/[[TFR]]s, terrain, etc
 	4. <u>E</u>xternal Pressures

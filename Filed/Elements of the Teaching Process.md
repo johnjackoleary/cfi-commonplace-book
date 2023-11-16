@@ -3,7 +3,5 @@
 3. Application (Student uses)
 4. Review and Evaluate
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

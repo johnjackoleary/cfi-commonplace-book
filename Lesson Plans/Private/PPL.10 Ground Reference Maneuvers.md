@@ -24,16 +24,32 @@ GPS/Sentry/ADS-B In
 	2. Effect of bank angle and groundspeed on rate and radius of turn (relative to ground)![[Effect of Wind on Turn.jpeg]]
 2. Use [[Maneuvering Speed]]
 	1. This speed changes with weight -- more weight raises maneuvering speed
-3. Rate of turn and bank angle
+3. Rate of turn and bank angle changes with ground speed -- more ground speed means more bank needed
 4. Flying all maneuvers
 	1. Select location without excessive traffic, and with suitable emergency landing fields
 	2. Select safe altitude and appropriate airspeed for maneuver
 	3. Check for traffic in area before and between each maneuver
 	4. Divide attention between airplane control, traffic, and ground references
-	5. [[Maneuver - Rectangular Course]]
-	6. [[Maneuver - S-Turns]]
-	7. [[Maneuver - Turns Around a Point]]
-5. Common errors
+	5. Be aware of low altitude hazards like wires
+5. Maneuver Specific
+	1. Rectangular Course![[Rectangular Course.jpeg]]
+		1. Select suitable reference
+		2. Enter 45° to the downwind leg, left or right traffic
+		3. Aim for 1/4-1/2 mile from reference, account for wind
+		4. Turn crosswind from downwind when you are abeam the crosswind reference line
+		5. This maneuver simulates flying the traffic pattern
+	2. Turns Around a Point![[Turns Around a Point.jpeg]]
+		1. Select suitable reference
+		3. Enter downwind, 1/4-1/2mi from reference
+		4. Tailwind: Steeper bank; Headwind: Shallower bank
+		5. Use 4 points along circle to help maintain constant radius
+	3. S-Turns![[S-Turns.jpeg]]
+		1. Select suitable reference, perpendicular to wind
+		2. Enter downwind
+		4. Tailwind: Steeper bank; Headwind: Shallower bank
+		3. Use 5 points on S-turn to help maintain constant radius
+		4. Wings level and parallel to reference as you cross
+6. Common errors
 	1. Forgetting to check for traffic or to locate emergency field
 	2. Failure to divide attention aircraft control, instrument check, ground references, traffic and situational awareness
 	3. Improper correction for wind drift

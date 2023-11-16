@@ -2,7 +2,5 @@
 2. Blocked (drill to automation)
 3. Random (used to find weak areas)
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

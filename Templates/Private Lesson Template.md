@@ -12,7 +12,6 @@ tags: ppl, lesson
 
 ### Lesson Elements
 
-
 ### Completion Standards
 
 ### Required Logbook Phraseology

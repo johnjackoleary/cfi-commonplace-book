@@ -6,7 +6,5 @@
 6. Accepting of the learner
 7. Safety
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

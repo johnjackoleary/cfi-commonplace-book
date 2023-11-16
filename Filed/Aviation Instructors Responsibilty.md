@@ -4,6 +4,5 @@
 4. Emphasizing the positive
 5. Ensuring aviation safety
 
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

@@ -8,7 +8,7 @@ Confirm learner's flight proficiency is comparable to when they passed their che
 ### References
 - Based on [[AC 61-98]] Appendix F
 - [[Conducting an Effective Flight Review]]
-- [[14 CFR Part 91 Review Assignment]]
+- [[Part 91 Review Assignment]]
 
 ### Builds On
 [[BFR.0 Preparation]]

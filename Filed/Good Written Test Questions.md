@@ -5,7 +5,5 @@
 5. Comprehension (measures overall)
 6. Discrimination (between good and poor)
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

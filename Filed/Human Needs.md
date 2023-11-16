@@ -5,7 +5,5 @@
 5. Cognitive & Aesthetic
 6. Self-Actualization
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

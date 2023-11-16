@@ -15,6 +15,7 @@
 - Tags
 	- with multiple words should use a hyphen ('my-awesome-tag')
 	- currently there are no nested tags ('my/awesome-tag'), although Obsidian has nice support for these, so may be a consideration later
+- #todo:: standardize when to use which headings levels, maybe. Or just live with it? Variety is the spice of life...
 
 ### Obsidian Plug-ins Used
 All plugins are meant to be optional, although Dataview is heavily used.
