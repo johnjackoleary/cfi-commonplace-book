@@ -1,9 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 0.5
-local-dual-hr: 1.0
-datasheet: "[[C172S Datasheet]]"
 ---
 ### Objective
 Develop knowledge, risk management and skills associated with spins, flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
@@ -21,7 +18,7 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 - [[PPL.8 Power-On and Power-Off Stalls]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, `= this.local-dual-hr + " hour" + choice(this.local-dual-hr <= 1,"","s")` (optional) flight
+0.5 hour ground, 1 hour (optional) flight
 
 ### Lesson Elements 
 1. Aerodynamics of spins

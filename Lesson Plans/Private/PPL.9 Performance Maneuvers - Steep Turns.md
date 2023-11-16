@@ -25,15 +25,21 @@ Ground 0.5 hours, Flight 1 hour
 	5. Stall speed varies with square root of load factor![[Bank Versus Stall Speed and Load Factor]]
 	6. Most light aircraft designed for 3.8 positive g max (corresponds to 75-degree bank level turn)
 	7. [[Maneuvering speed]] Va - define and discuss entry speed for steep turn
-2. Flying the maneuver: 
-> ![[Maneuver - Steep Turn]]
+2. Flying the maneuver
+	1. Set-up for maneuvering, start at [[Va]]
+	2. Crisp roll into 45° bank; add power; aft pressure for altitude
+	3. Rollout on entry heading
+3. Notes
+	1. You may notice (subtle) opposite aileron during turn to prevent [[overbanking tendency]]
+	2. There's a lot of debate on if you should or shouldn't use trim. I suggest not, but you may want to.
 4. Common errors
 	1. Forgetting to scan for traffic or locating emergency field
-	2. Using airspeed greater than Va
-	3. Letting altitude or bank angle drift during turn
-	4. Lack of rudder coordination
-	5. Not adding power to maintain airspeed
-	6. Rolling out on wrong heading
+	2. Staring at the instruments too much -- this is easiest to fly just looking outside!
+	3. Using airspeed greater than Va
+	4. Letting altitude or bank angle drift during turn
+	5. Lack of rudder coordination
+	6. Not adding power to maintain airspeed
+	7. Rolling out on wrong heading
 
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: ±100 feet, ±10 knots, ±5 degrees bank, ±10 degrees heading on rollout.

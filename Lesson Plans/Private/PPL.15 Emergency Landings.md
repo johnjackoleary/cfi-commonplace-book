@@ -1,7 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-datasheet: "[[C172S Datasheet]]"
 ---
 ### Objective
 Develop knowledge and skills associated with emergency landings, including choosing an emergency landing location and considerations for a survivable landing.
