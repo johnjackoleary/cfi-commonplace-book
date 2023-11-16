@@ -23,7 +23,7 @@
     - [[Lesson Plans/Student Endorsements/Solo Cross-Country Endorsements.md|Solo Cross-Country Endorsements]]
     - [[Lesson Plans/Student Endorsements/Takeoffs and Landings At Airport Within 25 NM Endorsement.md|Takeoffs and Landings At Airport Within 25 NM Endorsement]]
     - [[Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md|Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
-    - [[Filed/14 CFR Part 91 Review Assignment.md|14 CFR Part 91 Review Assignment]]
+    - [[Part 91 Review Assignment|Part 91 Review Assignment]]
     - [[Filed/4 Types of MEL's.md|4 Types of MEL's]]
     - [[Filed/AC 00-6.md|AC 00-6]]
     - [[Filed/AC 61-67.md|AC 61-67]]
@@ -89,7 +89,7 @@
     - [[Filed/90%-10% Outside vs Inside.md|90%-10% Outside vs Inside]]
     - [[Filed/AV1ATE.md|AV1ATE]]
     - [[Filed/How and Why Carburetor Ice Forms.md|How and Why Carburetor Ice Forms]]
-    - [[Filed/Hazardous Attitudes and Antidotes.md|Hazardous Attitudes and Antidotes]]
+    - [[5 Hazardous Attitudes and Antidotes|5 Hazardous Attitudes and Antidotes]]
     - [[Filed/Carbon Monoxide Poisoning.md|Carbon Monoxide Poisoning]]
 
 - November 14, 2023: 
@@ -198,7 +198,7 @@
     - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
     - [[Filed/AC 120-57B.md|AC 120-57B]]
     - [[Filed/AC 60-28.md|AC 60-28]]
-    - [[Filed/AC 61-142 Sharing Expenses.md|AC 61-142 Sharing Expenses]]
+    - [[AC 61-142|AC 61-142]]
     - [[Filed/AC 61-65.md|AC 61-65]]
     - [[Filed/AC 68-1A.md|AC 68-1A]]
     - [[Filed/AC 91-74.md|AC 91-74]]

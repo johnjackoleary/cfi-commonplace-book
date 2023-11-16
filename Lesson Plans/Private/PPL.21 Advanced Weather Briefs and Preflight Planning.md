@@ -27,7 +27,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 		1. [[Pilot Currency to be Legal]]
 		2. [[Pilot Documents to be Legal]]
 	4. Proficiency
-	5. [[Hazardous Attitudes and Antidotes]]
+	5. [[5 Hazardous Attitudes and Antidotes]]
 	6. [[Personal Minimums]] and [[ADM]]
 3. Aircraft
 	1. Required inspections ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
@@ -41,7 +41,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 		7. Pitot-static, vacuum/pressure, and associated flight instruments
 		8. Environmental
 		9. Deicing and anti-icing
-	3. How to share expenses? [[AC 61-142 Sharing Expenses]]
+	3. How to share expenses? [[AC 61-142]]
 4. Environment
 	1. Weather
 		1. Weather theory -- see [[Aviation Weather Handbook]] for best resources

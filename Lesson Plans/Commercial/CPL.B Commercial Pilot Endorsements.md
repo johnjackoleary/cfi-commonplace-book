@@ -26,5 +26,4 @@ I certify that \[First name, MI, Last name\] has received the required training 
 ***Source***: [[AC 61-65]]
 
 
-
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
