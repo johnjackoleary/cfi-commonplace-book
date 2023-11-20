@@ -1,11 +1,18 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 20, 2023: 
+    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
+    - [[Lesson Plans/Commercial/CPL.7 Lazy Eights.md|CPL.7 Lazy Eights]]
+    - [[Lesson Plans/Commercial/CPL.5 Steep Spiral.md|CPL.5 Steep Spiral]]
+    - [[Lesson Plans/Commercial/CPL.6 Chandelles.md|CPL.6 Chandelles]]
+    - [[Filed/JO 7400.2P.md|JO 7400.2P]]
+    - [[Filed/AGL.md|AGL]]
+
 - November 16, 2023: 
     - [[Lesson Plans/Biennial Flight Review/BFR.0 Preparation.md|BFR.0 Preparation]]
     - [[Lesson Plans/Biennial Flight Review/BFR.1 Ground Review.md|BFR.1 Ground Review]]
     - [[Lesson Plans/Biennial Flight Review/BFR.2 Flight Activities.md|BFR.2 Flight Activities]]
     - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
-    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Commercial/CPL.10 Slow Flight and Stalls.md|CPL.10 Slow Flight and Stalls]]
     - [[Lesson Plans/Commercial/CPL.12 High Altitude Operations.md|CPL.12 High Altitude Operations]]
     - [[Lesson Plans/Commercial/CPL.13 Emergency Procedures.md|CPL.13 Emergency Procedures]]
@@ -14,7 +21,6 @@
     - [[Lesson Plans/Commercial/CPL.2 Takeoff, Landings, and Go-Arounds.md|CPL.2 Takeoff, Landings, and Go-Arounds]]
     - [[Lesson Plans/Commercial/CPL.3 Power Off 180 Accuracy Approach and Landing.md|CPL.3 Power Off 180 Accuracy Approach and Landing]]
     - [[Lesson Plans/Commercial/CPL.4 Steep Turns.md|CPL.4 Steep Turns]]
-    - [[Lesson Plans/Commercial/CPL.7 Lazy Eights.md|CPL.7 Lazy Eights]]
     - [[Lesson Plans/Commercial/CPL.8 Eights on Pylons.md|CPL.8 Eights on Pylons]]
     - [[Lesson Plans/Commercial/CPL.9 Navigation and Diversion.md|CPL.9 Navigation and Diversion]]
     - [[Lesson Plans/Commercial/CPL.A Part 61 Commercial Training Requirements.md|CPL.A Part 61 Commercial Training Requirements]]
@@ -212,13 +218,4 @@
     - [[Lesson Plans/Private/PPL.E Suggestions for XC Destinations.md|PPL.E Suggestions for XC Destinations]]
     - [[Filed/Conducting an Effective Flight Review.md|Conducting an Effective Flight Review]]
     - [[Filed/FAA Website on Runway Incursions.md|FAA Website on Runway Incursions]]
-
-- November 06, 2023: 
-    - [[Filed/AC 61-98.md|AC 61-98]]
-    - [[Filed/AC 91-73.md|AC 91-73]]
-    - [[Filed/BFR.md|BFR]]
-    - [[Filed/FAR 61.56 Flight Review.md|FAR 61.56 Flight Review]]
-    - [[Filed/Hotspot.md|Hotspot]]
-    - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait.md|PA28-181 KTS Gait]]
-    - [[Media/Aircraft/PA28-181/PA28-181 MPH Gait.md|PA28-181 MPH Gait]]
 

@@ -2,7 +2,7 @@
 cssclass: lesson
 tags: cpl
 ---
-#todo :: add all logbook endorsements for 61.125
+#todo :: add all logbook endorsements for 61.125(b) and 61.127(b)
 
 ### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
