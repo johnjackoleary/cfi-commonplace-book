@@ -1,5 +1,42 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 24, 2023: 
+    - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
+    - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
+    - [[Lesson Plans/Instrument/IR.7 GPS Navigation and Autopilot Usage.md|IR.7 GPS Navigation and Autopilot Usage]]
+    - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
+    - [[Filed/Autokinesis.md|Autokinesis]]
+    - [[Filed/CRAFT.md|CRAFT]]
+    - [[Filed/Coriolis Illusion.md|Coriolis Illusion]]
+    - [[Filed/Elevator Illusion.md|Elevator Illusion]]
+    - [[Filed/Empty Field Myopia.md|Empty Field Myopia]]
+    - [[Filed/False Horizon.md|False Horizon]]
+    - [[Filed/GRABCARDD.md|GRABCARDD]]
+    - [[Filed/Graveyard Spiral.md|Graveyard Spiral]]
+    - [[Filed/Inversion Illusion.md|Inversion Illusion]]
+    - [[Filed/Night Visual Illusions.md|Night Visual Illusions]]
+    - [[Filed/Somatogravic Illusion.md|Somatogravic Illusion]]
+    - [[Filed/The Leans.md|The Leans]]
+    - [[Filed/Vestibular and Visual Illusions.md|Vestibular and Visual Illusions]]
+    - [[Filed/Private and Commercial Pilot Privileges and Limitation.md|Private and Commercial Pilot Privileges and Limitation]]
+    - [[Filed/Vg.md|Vg]]
+    - [[Filed/Absolute Ceiling.md|Absolute Ceiling]]
+    - [[Filed/AC 90-108.md|AC 90-108]]
+    - [[Filed/A Quick-Reference Guide to Non-Towered.md|A Quick-Reference Guide to Non-Towered]]
+    - [[Filed/The Secret to Passing.md|The Secret to Passing]]
+    - [[Filed/Bold Method.md|Bold Method]]
+    - [[Filed/Rule of Three.md|Rule of Three]]
+    - [[Filed/5 Rules-of-Thumb You Can Use On Your Next Flight.md|5 Rules-of-Thumb You Can Use On Your Next Flight]]
+    - [[Filed/Approved NOTAM Contractions.md|Approved NOTAM Contractions]]
+    - [[Filed/FAR 61.113.md|FAR 61.113]]
+    - [[Filed/Pro Rata.md|Pro Rata]]
+    - [[Filed/8 Acronyms Every Instrument Pilot Should Know.md|8 Acronyms Every Instrument Pilot Should Know]]
+    - [[Filed/ICEFLAGGS.md|ICEFLAGGS]]
+    - [[Filed/MOA.md|MOA]]
+    - [[Filed/DVFR.md|DVFR]]
+    - [[Filed/Distinction Between Pilot Privileges and Operational Rules.md|Distinction Between Pilot Privileges and Operational Rules]]
+    - [[README.md|README]]
+
 - November 20, 2023: 
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Commercial/CPL.7 Lazy Eights.md|CPL.7 Lazy Eights]]
@@ -42,7 +79,6 @@
     - [[Lesson Plans/Private/PPL.2 Four Fundamentals of Flight.md|PPL.2 Four Fundamentals of Flight]]
     - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.24 Emergency Operations.md|PPL.24 Emergency Operations]]
-    - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
     - [[Lesson Plans/Private/PPL.3 Weather Briefs and Preflight Planning.md|PPL.3 Weather Briefs and Preflight Planning]]
     - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
@@ -95,7 +131,6 @@
     - [[Filed/Memory Systems.md|Memory Systems]]
     - [[Filed/Minimizing Learner Frustration.md|Minimizing Learner Frustration]]
     - [[Filed/Night - For Logging Time.md|Night - For Logging Time]]
-    - [[Filed/Night Visual Illusions.md|Night Visual Illusions]]
     - [[Filed/Obstacles to Learning.md|Obstacles to Learning]]
     - [[Filed/Oral Questions to Avoid.md|Oral Questions to Avoid]]
     - [[Filed/Order 1320.46C - Advisory Circular System.md|Order 1320.46C - Advisory Circular System]]
@@ -149,7 +184,6 @@
     - [[Filed/PPL.md|PPL]]
     - [[Filed/Part 1.md|Part 1]]
     - [[Filed/Part 91 Review Assignment.md|Part 91 Review Assignment]]
-    - [[Filed/Private and Commercial Pilot Privileges and Limitation.md|Private and Commercial Pilot Privileges and Limitation]]
     - [[Filed/Risk Management.md|Risk Management]]
     - [[Filed/Serious Injury.md|Serious Injury]]
     - [[Filed/Substantial Damage.md|Substantial Damage]]
@@ -157,7 +191,6 @@
     - [[Filed/Fly Into The Crash In A Forced Landing.md|Fly Into The Crash In A Forced Landing]]
     - [[Filed/Part 830.md|Part 830]]
     - [[Filed/AC 90-23.md|AC 90-23]]
-    - [[README.md|README]]
 
 - November 15, 2023: 
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
@@ -171,7 +204,6 @@
 
 - November 14, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
-    - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
     - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
     - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
     - [[Filed/PHAK Glossary.md|PHAK Glossary]]
@@ -208,14 +240,4 @@
 - November 09, 2023: 
     - [[Filed/AC 90-109.md|AC 90-109]]
     - [[Filed/GIA.md|GIA]]
-
-- November 07, 2023: 
-    - [[Lesson Plans/Biennial Flight Review/Appendix BFR.A Endorsement.md|Appendix BFR.A Endorsement]]
-    - [[Lesson Plans/Biennial Flight Review/Appendix BFR.B Requirements.md|Appendix BFR.B Requirements]]
-    - [[Lesson Plans/Biennial Flight Review/Appendix BFR.C Background Information.md|Appendix BFR.C Background Information]]
-    - [[Lesson Plans/Biennial Flight Review/~ Biennial Flight Review Outline.md|~ Biennial Flight Review Outline]]
-    - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
-    - [[Lesson Plans/Private/PPL.E Suggestions for XC Destinations.md|PPL.E Suggestions for XC Destinations]]
-    - [[Filed/Conducting an Effective Flight Review.md|Conducting an Effective Flight Review]]
-    - [[Filed/FAA Website on Runway Incursions.md|FAA Website on Runway Incursions]]
 
