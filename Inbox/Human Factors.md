@@ -5,7 +5,7 @@ Relates to [[PHAK Ch17]]
 | PA.I.H.K1a | [[Hypoxia Symptoms (Lack of Oxygen)]]                                                 |
 | PA.I.H.K1b | Hyperventilation (similar symptoms to Hypoxia)                                        |
 | PA.I.H.K1c | Middle ear and sinus problems                           |
-| PA.I.H.K1d | Spatial disorientation                                  |
+| PA.I.H.K1d | Spatial disorientation (related to [[Vestibular and Visual Illusions]])                                 |
 | PA.I.H.K1e | Motion sickness                                         |
 | PA.I.H.K1f | [[Carbon Monoxide Poisoning]]                               |
 | PA.I.H.K1g | Stress                                                  |

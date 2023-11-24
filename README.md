@@ -16,6 +16,12 @@
 	- with multiple words should use a hyphen ('my-awesome-tag')
 	- currently there are no nested tags ('my/awesome-tag'), although Obsidian has nice support for these, so may be a consideration later
 - #todo:: standardize when to use which headings levels, maybe. Or just live with it? Variety is the spice of life...
+- Blocks of Learning Sizes #todo :: Helpful info, seems not worth having on top readme though
+	- 400px x 400px for cards
+	- somethingx440px for labels
+	- 80px between rows
+	- 160 between columns
+	- 20 between side edge of groups, 40 between top edge of groups
 
 ### Obsidian Plug-ins Used
 All plugins are meant to be optional, although Dataview is heavily used.
