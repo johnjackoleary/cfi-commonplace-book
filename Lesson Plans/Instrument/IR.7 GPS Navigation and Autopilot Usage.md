@@ -10,6 +10,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 
 ### References
 AIM 1-1-17; IFH Ch 7; [[POH]]/[[AFM]]; GPS manual
+[[AC 90-108]]
 
 ### Builds On
 [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]

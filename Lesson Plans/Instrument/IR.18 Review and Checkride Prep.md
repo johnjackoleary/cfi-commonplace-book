@@ -11,6 +11,10 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 ### References
 - [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
 
+### Builds On
+- [[~ IR Lesson Plan Outline|All Lessons]]
+- [[PPL.28 Review and Checkride Preparation]]
+
 ### Schedule
 Ground 1 hour, Flight 3 hours 
 

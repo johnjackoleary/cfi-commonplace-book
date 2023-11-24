@@ -50,5 +50,6 @@ Client should be able to answer oral questions on all topics listed in the ACS, 
 
 ### Recommended Homework 
 - [ ] Chair fly ACS maneuvers
+- [ ] Read [[The Secret to Passing]]
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
