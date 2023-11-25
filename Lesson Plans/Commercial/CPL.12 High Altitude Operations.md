@@ -11,6 +11,7 @@ Demonstrate satisfactory knowledge, risk management, and skills for flight at hi
 ### References
 - [[PHAK Ch7]]
 - [[PHAK Ch17]]
+- [[AC 61-107]]
 
 ### Builds On
 None

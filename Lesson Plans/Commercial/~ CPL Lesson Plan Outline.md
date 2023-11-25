@@ -1,6 +1,9 @@
 ---
-cssclass: lesson
-tags: cpl
+cssclasses:
+  - lesson
+tags:
+  - cpl
+  - syllabus
 ---
 #todo :: add all logbook endorsements for 61.125(b) and 61.127(b)
 

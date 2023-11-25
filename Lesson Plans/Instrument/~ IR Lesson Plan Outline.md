@@ -1,6 +1,9 @@
 ---
-cssclass: lesson
-tags: ir
+cssclasses:
+  - lesson
+tags:
+  - ir
+  - syllabus
 ---
 #todo :: Finish cleaning up Instrument Syllabus
 

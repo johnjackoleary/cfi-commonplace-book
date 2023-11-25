@@ -1,5 +1,20 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 25, 2023: 
+    - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
+    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
+    - [[Lesson Plans/Commercial/CPL.12 High Altitude Operations.md|CPL.12 High Altitude Operations]]
+    - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
+    - [[Lesson Plans/Instrument/IR.5 Flight Deck Organization, Workload Management, Checklists.md|IR.5 Flight Deck Organization, Workload Management, Checklists]]
+    - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
+    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
+    - [[Filed/WRIMTMS.md|WRIMTMS]]
+    - [[Filed/Wes Irish.md|Wes Irish]]
+    - [[Filed/AIRBAG.md|AIRBAG]]
+    - [[Filed/MEA (Lost Comms).md|MEA (Lost Comms)]]
+    - [[Filed/AC 120-108.md|AC 120-108]]
+    - [[Filed/CDFA.md|CDFA]]
+
 - November 24, 2023: 
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
     - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
@@ -38,7 +53,6 @@
     - [[README.md|README]]
 
 - November 20, 2023: 
-    - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Commercial/CPL.7 Lazy Eights.md|CPL.7 Lazy Eights]]
     - [[Lesson Plans/Commercial/CPL.5 Steep Spiral.md|CPL.5 Steep Spiral]]
     - [[Lesson Plans/Commercial/CPL.6 Chandelles.md|CPL.6 Chandelles]]
@@ -49,9 +63,7 @@
     - [[Lesson Plans/Biennial Flight Review/BFR.0 Preparation.md|BFR.0 Preparation]]
     - [[Lesson Plans/Biennial Flight Review/BFR.1 Ground Review.md|BFR.1 Ground Review]]
     - [[Lesson Plans/Biennial Flight Review/BFR.2 Flight Activities.md|BFR.2 Flight Activities]]
-    - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
     - [[Lesson Plans/Commercial/CPL.10 Slow Flight and Stalls.md|CPL.10 Slow Flight and Stalls]]
-    - [[Lesson Plans/Commercial/CPL.12 High Altitude Operations.md|CPL.12 High Altitude Operations]]
     - [[Lesson Plans/Commercial/CPL.13 Emergency Procedures.md|CPL.13 Emergency Procedures]]
     - [[Lesson Plans/Commercial/CPL.14 Postflight Procedures.md|CPL.14 Postflight Procedures]]
     - [[Lesson Plans/Commercial/CPL.15 Review and Checkride Preparation.md|CPL.15 Review and Checkride Preparation]]
@@ -69,7 +81,6 @@
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
     - [[Lesson Plans/Instrument/IR.14 IFR Departure Procedures and Terminal Arrival Procedures.md|IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
-    - [[Lesson Plans/Instrument/IR.5 Flight Deck Organization, Workload Management, Checklists.md|IR.5 Flight Deck Organization, Workload Management, Checklists]]
     - [[Lesson Plans/Instrument/IR.9 Airspace, Charts, Flight Planning and Enroute Operations.md|IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
@@ -83,7 +94,6 @@
     - [[Lesson Plans/Private/PPL.6 Maneuvering During Slow Flight.md|PPL.6 Maneuvering During Slow Flight]]
     - [[Lesson Plans/Private/PPL.8 Power-On and Power-Off Stalls.md|PPL.8 Power-On and Power-Off Stalls]]
     - [[Lesson Plans/Private/PPL.9 Performance Maneuvers - Steep Turns.md|PPL.9 Performance Maneuvers - Steep Turns]]
-    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
     - [[Lesson Plans/Private/PPL.B Private Pilot Endorsements.md|PPL.B Private Pilot Endorsements]]
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
     - [[Lesson Plans/Student Endorsements/Pre-Solo Endorsements.md|Pre-Solo Endorsements]]
@@ -91,7 +101,6 @@
     - [[Lesson Plans/Student Endorsements/Takeoffs and Landings At Airport Within 25 NM Endorsement.md|Takeoffs and Landings At Airport Within 25 NM Endorsement]]
     - [[Lesson Plans/Student Endorsements/Repeated Solo Cross-Country Endorsements Between 25NM and 50NM.md|Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
     - [[Filed/4 Types of MEL's.md|4 Types of MEL's]]
-    - [[Filed/AC 120-108 CDFA.md|AC 120-108 CDFA]]
     - [[Filed/AC 00-6.md|AC 00-6]]
     - [[Filed/AC 120-57B.md|AC 120-57B]]
     - [[Filed/AC 61-67.md|AC 61-67]]
@@ -195,7 +204,6 @@
 - November 15, 2023: 
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
     - [[Lesson Plans/Instrument/IR.12 Precision Approaches.md|IR.12 Precision Approaches]]
-    - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
     - [[Lesson Plans/Private/PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes.md|PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
     - [[Lesson Plans/Private/PPL.5 Towered Airport Operations.md|PPL.5 Towered Airport Operations]]
@@ -236,8 +244,4 @@
     - [[Lesson Plans/Instrument/IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits.md|IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
     - [[Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md|IR.4 Navigation Aids and Instruments]]
     - [[Lesson Plans/Private/PPL.A Part 61 Private Pilot Training Requirements.md|PPL.A Part 61 Private Pilot Training Requirements]]
-
-- November 09, 2023: 
-    - [[Filed/AC 90-109.md|AC 90-109]]
-    - [[Filed/GIA.md|GIA]]
 

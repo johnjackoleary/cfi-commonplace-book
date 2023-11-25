@@ -1,6 +1,9 @@
 ---
-cssclass: lesson
-tags: ppl
+cssclasses:
+  - lesson
+tags:
+  - ppl
+  - syllabus
 ---
 ### Private Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
