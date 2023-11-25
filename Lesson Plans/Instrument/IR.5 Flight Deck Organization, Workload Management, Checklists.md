@@ -9,6 +9,7 @@ tags:
 Memorize common mental checklists and learn to use mental checklists and flow patterns backed up by written checklists. 
 
 ### References
+Jepp GFD Instrument/Commercial Ch. 1C, 1D
 
 
 ### Builds On

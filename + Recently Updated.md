@@ -3,7 +3,7 @@
 - November 14, 2023: 
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
-    - [[Lesson Plans/Instrument/IR.12 Precision Approaches.md|IR.12 Precision Approaches]]
+    - [[IR.12 Approach Charts and Procedures|IR.12 Approach Charts and Procedures]]
     - [[Lesson Plans/Instrument/~ IR Lesson Plan Outline.md|~ IR Lesson Plan Outline]]
     - [[Lesson Plans/Private/PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures.md|PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
     - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]

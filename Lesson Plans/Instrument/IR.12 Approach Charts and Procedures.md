@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Develop proficiency in flying precision approaches, and demonstrate understanding of landing minimums and missed approach procedures 
+Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
 
 ### References
 AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175 
@@ -17,13 +17,14 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 - [[IR.11 Communications, Clearances, Lost Communications Procedures]]
 
 ### Schedule
-Ground 1.5 hours, flight 3 hours 
+Ground 1.5 hours
 
 ### Lesson Elements
-1. Types of precision approaches 
-	1. ILS 
-	2. PAR 
-	3. GPS LPV (technically, not precision approach, but included here because of similarity) 
+1. Precision vs. Non Precision
+	1. Precision
+		1. ILS 
+		2. PAR 
+		3. GPS LPV (technically, not precision approach, but included here because of similarity) 
 2. Components of ILS: localizer, glide slope, outer marker (91.175)
 	1. OM substitutions: Compass locator, PAR, ASR, DME, VOR, NDB, RNAV in conjunction with fix
 	2. IM (used for CAT II and CAT III approaches)
