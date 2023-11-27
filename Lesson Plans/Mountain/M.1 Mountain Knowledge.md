@@ -3,17 +3,16 @@ cssclass: lesson
 tags: mountain, lesson
 ---
 ### Objective
-Learner demonstrates all functionality of the G1000, including: terminology, interface and inputs, pages/groups, communication, navigation, PFD vs. MFD functionality, traffic systems, autopilot, failure modes and indications
+Background knowledge required for safe mountain flying.
 
 ### References
 - [[Mountain Flying Bible]]
 
 ### Resources
+- [[FROM THE ARCHIVES - Mountain Flying (1991)]]
 - [[Back to Basics - Tips to Mountain Flying]] and [[Tips on Mountain Flying]]
 - [[Mountain Flying]]
-- [[FROM THE ARCHIVES - Mountain Flying (1991)]]
 - [Mountain Flying & High Density Altitude in 57 Seconds](https://www.youtube.com/watch?v=k1qylDKtr6M)
-- 
 
 ### Builds On
 - [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
@@ -44,7 +43,7 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 				1. [[50-70 Rule]]
 				2. Higher [[True Airspeed]] and [[GS]] on landing, same [[Indicated Airspeed]]
 			3. Climb performance degradation
-				1. May require circling to gain altitude ([[shuttle climb]])
+				1. May require circling to gain altitude ([[Shuttle Climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
 		2. Selecting an aircraft for the mission
 			1. Some experts recommend that 160 horsepower should be considered the absolute minimum for the airplane, especially when the pilot lacks significant mountain flying experience. 
@@ -69,10 +68,14 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 			3. Contact someone at the destination airport
 			4. Be wary -- mountain weather can change quickly!
 		5. Specific weather factors
-			1. Visibility, clouds
-			2. Thunderstorms
-			3. Winds at peaks, roll clouds, mountain waves
+			1. Visibility
+			2. Clouds
+				1. Roll Cloud
+				2. Standing Lenticular Clouds
+			3. Thunderstorms
+			4. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
+				2. [[Mountain Wave]]
 	4. External Pressures - Standard, but different solutions may be available
 		1. E.g. Too much weight can be resolved by taking multiple trips from high to low elevation airports, then departing as a group from the low altitude airport
 2. Go/No-Go Decision and [[ADM]]
@@ -93,15 +96,14 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 	2. Planning
 		1. Detailed route plan to avoid [[box canyon]]s or other dangerous locations
 		2. Consider emergency landing options
-		3. Check departure procedures for local obstructions
-		4. Alternative airports
-	3. Taxi
-		1. Leaning procedure
+		3. [[Chart Supplement]]
+		4. Check departure procedures for local obstructions
+		5. Alternative airports
 	4. Runup
 		1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean find peak power)
 	5. Takeoff/Climb -- will take longer!
 		1. Power Settings
-		2. Short Field Technique
+		2.  [[PPL.16 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
 		3. May need to [[shuttle climb]]
 	6. Enroute
 		1. Important to know wind direction (both from preflight and from signs while flying)
