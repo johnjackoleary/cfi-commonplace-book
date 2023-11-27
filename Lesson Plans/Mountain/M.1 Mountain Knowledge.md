@@ -112,7 +112,7 @@ Background knowledge required for safe mountain flying.
 		4. Box Canyon Dangers
 			1. Never fly up a canyon that you haven't already flown down so you know there's room to turn around
 			2. NEVER try to out climb the terrain in ANY airplane
-			3. [[Box Turn]]
+			3. [[Box Turn]] technique
 		5. Ridges
 			1. Fly at least 1000' above, and be there 3 miles before you arrive (although 2000' often results in less turbulence)
 			2. If you can't see terrain beyond the pass, you're too low to pass
