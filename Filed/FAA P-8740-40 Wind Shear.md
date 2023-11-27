@@ -1,6 +1,6 @@
 ***Link***      :: [Wind Shear](https://www.faasafety.gov/files/gslac/library/documents/2011/aug/56407/faa%20p-8740-40%20windshear%5Bhi-res%5D%20branded.pdf)
 ***Description***      :: `= this.link`
-***Author*** :: [[FAASTeam]], [[FAA]]
+***Author*** :: [[FAA Safety Team]], [[FAA]]
 ***Related To***: [[Aviation Weather Handbook]], [[AC 00-54]]
 
 #### Key Quotes

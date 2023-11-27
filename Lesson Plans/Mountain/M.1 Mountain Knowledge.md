@@ -6,8 +6,14 @@ tags: mountain, lesson
 Learner demonstrates all functionality of the G1000, including: terminology, interface and inputs, pages/groups, communication, navigation, PFD vs. MFD functionality, traffic systems, autopilot, failure modes and indications
 
 ### References
+- [[Mountain Flying Bible]]
 
 ### Resources
+- [[Back to Basics - Tips to Mountain Flying]] and [[Tips on Mountain Flying]]
+- [[Mountain Flying]]
+- [[FROM THE ARCHIVES - Mountain Flying (1991)]]
+- [Mountain Flying & High Density Altitude in 57 Seconds](https://www.youtube.com/watch?v=k1qylDKtr6M)
+- 
 
 ### Builds On
 - [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
@@ -15,8 +21,12 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 - [[CPL.12 High Altitude Operations]]
 
 ### Schedule
+2-3hr ground
 
 ### Lesson Elements
+1. What counts as mountain flying?
+	> [!quote] From [[Tips on Mountain Flying]]
+	>  Rather than offer a definition of "mountain" flying, it should be pointed out that many of the subjects discussed in this publication can be found in nonmountainous areas or at low altitudes. For example, density altitudes over 8,500 feet can be found regularly on the eastern plains of Colorado in the summer. Also, dangerous mechanical turbulence and even mountain wave can be found in areas that aren't usually considered mountainous.
 1. Preflight Considerations
 	1. Pilot
 		1. Aeromedical Factors
@@ -34,15 +44,19 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 				1. [[50-70 Rule]]
 				2. Higher [[True Airspeed]] and [[GS]] on landing, same [[Indicated Airspeed]]
 			3. Climb performance degradation
-				1. May require circling to gain altitude
+				1. May require circling to gain altitude ([[shuttle climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
-			4. Remember that Vx and Vy converge at higher altitudes ([[Vx vs Vy at Higher Altitudes.jpeg|image]])
 		2. Selecting an aircraft for the mission
+			1. Some experts recommend that 160 horsepower should be considered the absolute minimum for the airplane, especially when the pilot lacks significant mountain flying experience. 
 		3. Weight & Balance considerations
 			1. 90% of [[MGW]] recommended
 			2. Impact of aft CG
 	3. Environment
 		1. Calculating [[Density Altitude]] and why it matters
+			1. Power and performance impacts
+				1. Power in normally aspirated engines decreases 3% for every 1000'^[From [[Mountain Flying]]]
+			2. Service ceiling consideration
+				1. Remember that Vx and Vy converge at higher altitudes ([[Vx vs Vy at Higher Altitudes.jpeg|image]])
 		2. Time of day
 			1. Often better in morning (cooler, less winds, less turbulent)
 			2. Many folks prefer not to fly after noon
@@ -58,12 +72,17 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 			1. Visibility, clouds
 			2. Thunderstorms
 			3. Winds at peaks, roll clouds, mountain waves
-				1. Rule of thumb for winds >25 kts at peaks
+				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
 	4. External Pressures - Standard, but different solutions may be available
 		1. E.g. Too much weight can be resolved by taking multiple trips from high to low elevation airports, then departing as a group from the low altitude airport
-2. Go/No-Go Decision
+2. Go/No-Go Decision and [[ADM]]
 	1. Factors of [[PAVE]] above, and how they relate to your [[Personal Minimums]]
-	2. Abort on takeoff roll for insufficient power ([[50-70 Rule]])
+	2. Consider Canceling if (additional recommendations from [[Back to Basics - Tips to Mountain Flying]])
+		1. [[IMC]]
+		2. Darkness falls before flight completed
+		3. Winds more than 30kts at mountain tops
+		4. Unsuitable airport conditions
+	3. Abort on takeoff roll for insufficient power ([[50-70 Rule]])
 3. Flight Considerations
 	1. Preparation
 		1. Survival in off airport landing
@@ -79,39 +98,38 @@ Learner demonstrates all functionality of the G1000, including: terminology, int
 	3. Taxi
 		1. Leaning procedure
 	4. Runup
-		1. Leaning procedure for takeoff
-	5. Takeoff -- will take longer!
+		1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean find peak power)
+	5. Takeoff/Climb -- will take longer!
 		1. Power Settings
 		2. Short Field Technique
-	6. Climb/Enroute/Descent
-		1. Updraft and Downdrafts
-		2. Flying along valleys -- choose a side, not the middle!
-		3. Ridge crossing at 45° angles
-	7. Traffic Pattern
+		3. May need to [[shuttle climb]]
+	6. Enroute
+		1. Important to know wind direction (both from preflight and from signs while flying)
+		2. Updraft and Downdrafts
+		3. Flying along valleys -- choose a side, preferably updraft side, not the middle!
+		4. Box Canyon Dangers
+			1. Never fly up a canyon that you haven't already flown down so you know there's room to turn around
+			2. NEVER try to out climb the terrain in ANY airplane
+			3. [[Box Turn]]
+		5. Ridges
+			1. Fly at least 1000' above, and be there 3 miles before you arrive (although 2000' often results in less turbulence)
+			2. If you can't see terrain beyond the pass, you're too low to pass
+			3. Approach crossing at 45° angles so better able to turn around, then depart at 90° angle
+		6. [[CFIT]]
+		7. Be comfortable stopping early if conditions deteriorate
+	7. Descent/Traffic Pattern
 		1. May be irregular for surrounding terrain (see [[L05]] -- helpful to check Google Maps/Earth before going
 		2. May be on top of ridge (see [[KAVX]]) with unique illusions
 		3. Higher [[GS]] considerations
 			1. Careful not to overshoot final
 			2. Plan descent carefully
+		4. Be aware if airport doesn't allow for go arounds
 	8. Landing -- will feel fast!
 		1. Leaning procedure
 		2. Expect higher [[GS]] and [[True Airspeed]], but same [[Indicated Airspeed]]
 
-tbc
-convergence of Vx and Vy at as altitude increases
-
-Oxygen  requirements
-
-Density altitude
-
-Winds at peaks
-
-Winter considerations 
-Summer considerations
-
-Area forecast value
-
 ### Completion Standards
+Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.
 
 ### Required Homework
 
