@@ -1,7 +1,7 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 26, 2023: 
-    - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
+    - [[M.1 Mountain Knowledge|M.1 Mountain Knowledge]]
 
 - November 25, 2023: 
     - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
