@@ -1,5 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
+- November 26, 2023: 
+    - [[Lesson Plans/Mountain/Mountain Lesson Plan.md|Mountain Lesson Plan]]
+
 - November 25, 2023: 
     - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
@@ -237,11 +240,4 @@
     - [[Filed/AC 90-66.md|AC 90-66]]
     - [[Filed/FAR 91.126 Class G Airport Ops.md|FAR 91.126 Class G Airport Ops]]
     - [[Filed/IAS.md|IAS]]
-
-- November 10, 2023: 
-    - [[Lesson Plans/Instrument/IR.16 IFR Weather and Weather Services.md|IR.16 IFR Weather and Weather Services]]
-    - [[Lesson Plans/Instrument/IR.2 Instrument Scan, Basic Attitude Instrument Flight.md|IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
-    - [[Lesson Plans/Instrument/IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits.md|IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
-    - [[Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md|IR.4 Navigation Aids and Instruments]]
-    - [[Lesson Plans/Private/PPL.A Part 61 Private Pilot Training Requirements.md|PPL.A Part 61 Private Pilot Training Requirements]]
 
