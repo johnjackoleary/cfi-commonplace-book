@@ -17,7 +17,7 @@ Practice flying in a mountainous environment while demonstrating mountain flying
 
 ### Lesson Elements
 1. Review preflight preparations
-2. Demonstrate [[box turn]]
+2. Demonstrate [[Box Canyon Turn]]
 
 ### Completion Standards
 
