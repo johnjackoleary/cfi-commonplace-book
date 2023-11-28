@@ -7,11 +7,13 @@ Background knowledge required for safe mountain flying.
 
 ### References
 - [[Mountain Flying Bible]]
+- [[Mountain Flying]]
+- [[Aviation Weather Handbook]] Ch. 16
+- [[FAA-P-8740-2 Density Altitude]]
 
 ### Resources
 - [[FROM THE ARCHIVES - Mountain Flying (1991)]]
 - [[Back to Basics - Tips to Mountain Flying]] and [[Tips on Mountain Flying]]
-- [[Mountain Flying]]
 - [Mountain Flying & High Density Altitude in 57 Seconds](https://www.youtube.com/watch?v=k1qylDKtr6M)
 
 ### Builds On
@@ -73,12 +75,14 @@ Background knowledge required for safe mountain flying.
 			4. Be wary -- mountain weather can change quickly!
 		5. Specific weather factors
 			1. Visibility
-			2. Clouds
-				1. Roll Cloud
-				2. Cap Clouds
-				3. Standing Lenticular Clouds
-				4. Kelvin–Helmholtz Billow Clouds
-			3. Thunderstorms
+			2. Clouds![[Mountain Waves and Associated Clouds.jpeg]]
+				1. [[Roll Cloud]]s
+				2. Mountain Wave Signs
+					1. [[Rotor Cloud]]s -- avoid flying through or below!
+					2. [[Cap Cloud]]s
+					3. [[Standing Lenticular Cloud]]s (Both Altocumulus and Cirrocumulus)
+				3. [[Kelvin–Helmholtz Cloud]]s
+			3. [[Thunderstorm]]s
 			4. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
 				2. [[Mountain Wave]]
@@ -141,6 +145,8 @@ Background knowledge required for safe mountain flying.
 Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.
 
 ### Required Homework
+- [ ] Prepare for upcoming mountain flight
 
 ### Recommended Homework 
+- [ ] Monitor the weather as the flight gets closer^[Forecasts too far out can be surprisingly inaccurate. It's good to see this in practice for a training flight, because knowing how to account for these issues will be relevant in future flights.]
 
