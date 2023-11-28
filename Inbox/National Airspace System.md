@@ -36,9 +36,9 @@ ATC has no authority or responsibility to control air traffic there, but VFR wea
 - Prohibited areas: Flight prohibited (e.g. White House)
 - Restricted areas: Not prohibited, but has restrictions
 - Warning areas: Similar to restricted, but not solely US jurisdiction (e.g. over ocean)
-- Military operation areas (MOAs)
+- Military operation areas ([[MOA]]s)
 - Alert areas: Use caution for high volume of pilot training or unusual aerial activities
-- Controlled firing areas (CFAs): Not charted, as activities suspended when aircraft spotted
+- Controlled firing areas ([[CFA]]s): Not charted, as activities suspended when aircraft spotted
 
 ### Other Airspace
 Other airspaces also exist, e.g. near Livermore over the research lab. Make sure to check for these before you fly!

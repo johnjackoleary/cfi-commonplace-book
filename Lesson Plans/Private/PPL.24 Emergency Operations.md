@@ -1,9 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-ground-hr: 1.5
-local-dual-hr: 0
-datasheet: "[[C172S Datasheet]]"
 ---
 
 ### Objective
@@ -19,7 +16,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 - [[PPL.15 Emergency Landings]]
 
 ### Schedule
-`= this.ground-hr + " hour" + choice(this.ground-hr <= 1,"","s")` ground, flight practice as necessary
+1.5 hours ground, flight practice as necessary
 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]
@@ -28,7 +25,9 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 4. Note: Will cover instrument failures (vacuum or pitot-static system) later.
 5. Fire
 	1. Engine fire
-		1. In air - [[Maneuver - Emergency Descent]] (this is the rapid descent procedure)
+		1. In air - Emergency Descent (this is the rapid descent procedure)
+			1. Start descent (bank 30°-45°; airspeed >=100 kts; should have positive load factor)
+			2. Then once fire out, execute forced landing (see [[PPL.15 Emergency Landings]])
 		2. During start on ground
 	2. Electrical Fire
 	3. Wing Tip Fire
@@ -48,6 +47,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 7. Unsafe Conditions
 	1. [[VFR]] into [[IMC]]
 	2. Icing
+		1. [[How and Why Carburetor Ice Forms]]
 8. Emergency equipment and survival gear
 9. Emergency squawk codes: [[Squawk 7700]], [[Squawk 7600]], [[Squawk 7500]]
 > [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through on accidentally.

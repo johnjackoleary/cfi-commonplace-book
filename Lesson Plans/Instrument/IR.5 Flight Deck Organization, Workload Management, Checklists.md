@@ -12,7 +12,7 @@ Memorize common mental checklists and learn to use mental checklists and flow pa
 
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Post-Flight Procedures]]
+- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
 Ground 1 hour 
@@ -37,7 +37,7 @@ Ground 1 hour
 	1. Before takeoff: [[CIGARS]] – Controls, Instruments, Gas, Attitude, Runup, Seatbelts and Switches 
 	2. Before taking runway: – Lights, Camera (transponder), Action, Time
 	3. Before landing: [[GUMPS]] – Gas, Undercarriage, Mixture, Prop, Seatbelts and Switches 
-	4. Approach briefing: [[AIRBAG]] - ATIS/AWOS, Install Approach, Radios/Radials, Brief Approach and Going Missed
+	4. Approach briefing: [[AIRBAG]] or [[WRIMTMS]] - ATIS/AWOS, Install Approach, Radios/Radials, Brief Approach and Going Missed
 	5. 5 Ts: Time (start timer), Turn, Throttle, Tune and/or Twist (nav freq and OBS), Talk 
 	6. Non-radar position reports: [[PTATEN]] Position, Time, Altitude, Type of flight plan (only required for FSS reports), Estimated time of arrival at the next reporting point, Name of the reporting point after that
 8. Common Errors 

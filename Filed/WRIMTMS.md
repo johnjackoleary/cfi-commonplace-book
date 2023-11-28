@@ -20,8 +20,9 @@
 	- Lights
 
 ***Purpose:*** Items to brief before [[IFR]] [[approach]]
-***Source:***
+***Source:*** *Organize Your Approach Brief* by [[Fred Simonds]](IFR Refresher August 2008)
+
+#todo :: add link to article
+#todo :: maybe make into normal source file
 
 #acronym
-
-#todo :: Find Lou's source for this

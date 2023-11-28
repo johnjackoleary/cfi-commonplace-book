@@ -65,4 +65,5 @@ V speeds,
 Kinds of operation,
 Crosswind, and
 Landing surface.
-#todo :: Consider pulling in content from [[AC 90-109]] (https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-109A.pdf)
+
+#todo :: Consider pulling in content from [[AC 90-109]].

@@ -3,6 +3,6 @@
 ***Author*** :: [[ERAU SpecialVFR]]
 
 #### Key Quotes
-* This video delves into the Lycoming IO-360-L2A as found on the [[C172S Datasheet|Cessna 172S]]. You will learn the major components that make up this system, and how each relates to the operation of the airplane.
+* This video delves into the Lycoming IO-360-L2A as found on the Cessna 172S. You will learn the major components that make up this system, and how each relates to the operation of the airplane.
 
 #source

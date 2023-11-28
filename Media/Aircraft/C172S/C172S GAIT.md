@@ -3,7 +3,7 @@ tags: [gait]
 data: "[[C172S Datasheet]]"
 ---
 
-| **C172S Gaits** v0.3    |            **Flaps**             | **Pitch** |              **RPM**              |            **IAS (kts)**            | **VSI (fpm)** |
+| **C172S Gaits** v0.4    |            **Flaps**             | **Pitch** |              **RPM**              |            **IAS (kts)**            | **VSI (fpm)** |
 | ----------------------- |:--------------------------------:|:---------:|:---------------------------------:|:-----------------------------------:|:-------------:|
 | ⚠️ V<sub>G</sub>        |                                  |    TBD    |               idle                |          `= this.data.Vg`           |      TBD      |
 | 🛫 V<sub>R</sub>        |                                  |    TBD    |                max                |                 55                  |      TBD      |
@@ -23,7 +23,8 @@ data: "[[C172S Datasheet]]"
 | 🛬 Final                | `=this.data.pattern-final-flaps` |    TBD    |  `=this.data.pattern-final-rpm`   |         `= this.data.vref`          |      TBD      |
 | Short                   |               30°                |    TBD    |               1500                |        `= this.data.vshort`         |      TBD      |
 
-| Topic              | Details                                   |
-| ------------------ |:----------------------------------------- |
-| Leaning            | 50° ROP when above 3000'                  | 
-| V<sub>A</sub>      | `= this.data.Va-mgw` @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
+| Topic         | Details                                                    |
+| ------------- |:---------------------------------------------------------- |
+| Leaning       | 50° ROP when above 3000'                                   |
+| V<sub>A</sub> | `= this.data.Va-mgw` @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
+| Short T.O.             |   #todo changes with weight                                                          |

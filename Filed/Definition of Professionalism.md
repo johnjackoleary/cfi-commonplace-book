@@ -5,7 +5,5 @@
 5. Reasoning logically/accurately
 6. Study to maintain knowledge
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

@@ -11,6 +11,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[PHAK Ch14]]
 - [[AIM 4-3]]
 - [[Private Pilot ACS]] Section III Task B
+- [[Non-Tower Radio Communications Examples]]
 
 ### Builds On
 - [[PPL.5 Towered Airport Operations]]
@@ -18,12 +19,13 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-2 hours ground, 1 hour flight
+1.5 hours ground, 1.5 hour sim/flight
 
 ### Lesson Elements
 1. Pre-Flight
-	1. Sources for airport information and data (chart supplements, [[EFB]]), [[NOTAM|NOTAMs]]
+	1. Sources for airport information and data (chart supplements, [[EFB]], [[AOPA]]), [[NOTAM|NOTAMs]]
 		1. Traffic Pattern Altitude ([[TPA]])
+		2. Noise Abatement
 	2. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 	3. Tower airports become non-towered when tower closed
 	4. Weather sources: [[AWOS]]/[[ASOS]], 1800wxbrief.com, telephone
@@ -32,11 +34,11 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 		3. Wind indicators: sock, tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
 		4. Runway and taxi markings - See [[PPL.5 Towered Airport Operations]]
 	6. Airport lighting
-		1. Airport beacons ![[Rotating Beacon.jpeg]]
+		1. Airport beacons (white/green: land, white/white/green: military)
 		3. Pilot controlled lighting
 		4. Glidepath systems 
-			1. ![[VASI.jpeg]]
-			2. ![[PAPI.jpeg]]
+			1. VASI![[VASI.jpeg]]
+			2. PAPI![[PAPI.jpeg]]
 2. Non-towered airport operations
 	1. Pattern Planning and Entry
 		1. Determining the [[Active Runway]]
@@ -46,10 +48,10 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 			3. Straight-Ins? Not illegal, but not usually a good idea
 		3. Traffic Pattern and Departure
 			1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
-				1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126]])
+				1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airport Ops]])
 				2. ![[Single Runway Traffic.jpeg]]
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
-	2. [[Radio Usage at Non-Towered Airports]]
+	2. [[Non-Tower Radio Communications Examples]]
 	3. Some aircraft don't have radios
 	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 3. Common errors
@@ -68,7 +70,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 
 ### Required Homework
 - [ ] Read [[AC 90-66]]
-- [ ] Purchase items from [[Appendix PPL.C - When to Acquire Various Equipment]]
+- [ ] Purchase items from [[PPL.C When to Acquire Various Equipment]]
 
 ### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport, from several directions and various wind, with radio calls

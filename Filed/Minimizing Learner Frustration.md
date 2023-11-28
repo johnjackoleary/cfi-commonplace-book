@@ -6,7 +6,5 @@
 6. Consistency
 7. Admit errors
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

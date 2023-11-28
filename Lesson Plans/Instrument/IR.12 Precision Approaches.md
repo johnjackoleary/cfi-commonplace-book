@@ -9,7 +9,7 @@ tags:
 Develop proficiency in flying precision approaches, and demonstrate understanding of landing minimums and missed approach procedures 
 
 ### References
-AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, FAR 91.175 
+AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175 
 
 ### Builds On
 - [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]

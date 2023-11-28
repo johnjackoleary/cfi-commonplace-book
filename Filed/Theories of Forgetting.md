@@ -2,8 +2,6 @@
 2. Interference
 3. Disuse
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 
  

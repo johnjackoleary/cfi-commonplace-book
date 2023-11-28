@@ -1,4 +1,4 @@
-Referencing [[Getting to Know a New Plane]] and [[C172S GAIT]]
+Referencing [[Getting to Know a New Plane]] and [[C172S Gait]]
 
 ___ = to be determined in plane
 \* = to be confirmed in plane

@@ -1,7 +1,6 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-datasheet: "[[C172S Datasheet]]"
 ---
 ### Objective
 Develop knowledge and skills associated with emergency landings, including choosing an emergency landing location and considerations for a survivable landing.
@@ -81,7 +80,7 @@ For [[FAR 61.87 Student Solo Reqs]]:
 - Approaches to a landing area with simulated engine malfunctions
 
 ### Required Homework
-- [ ] Memorize Vg
+- [ ] Memorize [[Vg]]
 - [ ] Memorize engine out restart flow
 - [ ] Read [[POH]] Section 3
 

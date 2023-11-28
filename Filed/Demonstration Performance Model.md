@@ -4,7 +4,5 @@
 4. Instructor supervises
 5. Evaluations 
 
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+#foi
 

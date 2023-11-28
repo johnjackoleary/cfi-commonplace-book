@@ -51,7 +51,7 @@ GPS/Sentry/ADS-B In
 		1. Common departures: Left and Right Dumbarton, 270 overhead
 	4. Flying the pattern 
 		1. Standard Right Traffic for runway 31, turn right 10 degrees after departure for noise abatement
-		2. Memorize power settings/airspeeds, use wind correction angle like [[Maneuver - Rectangular Course|rectangular course]]
+		2. Memorize power settings/airspeeds, use wind correction angle like the [[PPL.10 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 4. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]
 6. Common Errors
 	1. Lack of planning ahead, staying ahead of the airplane

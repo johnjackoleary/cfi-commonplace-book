@@ -2,7 +2,5 @@
 2. Medical
 3. Gov't Issued Photo ID
 
-
-
-Source: [[Air Trek North FIA Flashcards]] #fia
+#todo :: Link to relevant FAR
 

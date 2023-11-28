@@ -1,28 +1,31 @@
 ---
-cssclass: lesson
-tags: cpl
-based-on: DietzCommercialAirplaneSyllabus2022.pdf
+cssclasses:
+  - lesson
+tags:
+  - cpl
+  - syllabus
 ---
+#todo :: add all logbook endorsements for 61.125(b) and 61.127(b)
+
 ### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
-> “Lessons” will often consist of multiple ground and/or flight sessions.
+> "Lessons" will often consist of multiple ground and/or flight sessions.
 
-Outline of All ACS Tasks
 [[CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
-[[Takeoff, Landings, and Go-Arounds (Similar to PPL Syllabus)]]
-[[Power Off 180° Accuracy Approach and Landing]]
-[[Steep Turns (Similar to PPL Syllabus)]]
-[[Steep Spiral]]
-[[Chandelles]]
-[[Lazy Eights]]
-[[Eights on Pylons]]
-[[Navigation (Similar to PPL Syllabus)]]
-[[Slow Flight and Stalls (Similar to PPL Syllabus)]]
-[[D. Accelerated Stalls]]
-[[High Altitude Operations]]
-[[Emergency Procedures (Identical to PPL Syllabus)]]
-[[Postflght Procedures (Identical to PPL Syllabus)]]
-[[Checkride Preparation]]
-[[Appendix A - Part 61 Commercial Training Requirements]]
-[[Appendix B - Commercial Pilot Endorsements]]
-[[Appendix C - Ideas for Solo Commercial Practice]]
+[[CPL.2 Takeoff, Landings, and Go-Arounds]]
+[[CPL.3 Power Off 180 Accuracy Approach and Landing]]
+[[CPL.4 Steep Turns]]
+[[CPL.5 Steep Spiral]]
+[[CPL.6 Chandelles]]
+[[CPL.7 Lazy Eights]]
+[[CPL.8 Eights on Pylons]]
+[[CPL.9 Navigation and Diversion]]
+[[CPL.10 Slow Flight and Stalls]]
+[[CPL.11 Accelerated Stalls]]
+[[CPL.12 High Altitude Operations]]
+[[CPL.13 Emergency Procedures]]
+[[CPL.14 Postflight Procedures]]
+[[CPL.15 Review and Checkride Preparation]]
+[[CPL.A Part 61 Commercial Training Requirements]]
+[[CPL.B Commercial Pilot Endorsements]]
+[[CPL.C Ideas for Solo Commercial Practice]]

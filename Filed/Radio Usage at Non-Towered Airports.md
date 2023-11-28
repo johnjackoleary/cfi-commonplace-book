@@ -87,5 +87,5 @@ It’s nice to include the taxiway if there are multiple ways to get there.
 > You may hear "Last Call" in this sort of communication. The general consensus is this is bad practice, since saying "departing to the west" also conveys you're leaving the CTAF frequency.
 
 # Related
-- [[Example Radio Calls]]
+- [[Tower Radio Communcations Example]]
 - [[AC 90-66]]

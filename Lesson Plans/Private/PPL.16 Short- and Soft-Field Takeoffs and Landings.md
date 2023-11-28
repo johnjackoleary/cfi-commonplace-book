@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: ppl, lesson
+tags: ppl, lesson, maneuver 
 ---
 ### Objective
 Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
@@ -21,10 +21,39 @@ Ground 1.0; Flight – multiple flights, with frequent practice
 Overview of short- and soft-field operations
 
 #### Short-Field
-> ![[Maneuver - Short-Field Takeoff and Landings]]
+1. Takeoff
+	1. Set flaps according to POH/AFM
+	2. Position flight controls for existing wind conditions
+	3. Taxi into takeoff position using maximum available runway length, and align on runway centerline
+	4. Apply brakes and hold while applying takeoff power, check gauges
+	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]
+	6. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
+	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
+2. Landing
+	1. Complete pre-landing checklist ([[GUMPS]])
+	2. ID touchdown target
+	3. Establish [[POH]]-recommended approach configuration and airspeed, adjust pitch and power as required
+	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying gust factor (add half of gust difference) +10/-5 kts
+	5. Aiming point 100-200 feet short
+	6. Touch down smoothly at or beyond target, with minimal float, at or within 200 feet beyond the specified touchdown point
+	7. Apply brakes as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
 #### Soft-Field
-> ![[Maneuver - Soft-Field Takeoff and Landings]]
+1. Takeoff
+	1. Set flaps according to POH/AFM
+	2. Position flight controls for existing wind conditions
+	3. Elevator aft for light nose wheel
+	4. Taxi into takeoff position without stopping, with smooth power application for takeoff
+	5. Establish pitch attitude to rapidly transfer weight from wheels to wings
+	6. Lift off at lowest possible airspeed, accelerate to [[Vx]] or [[Vy]] in [[Ground Effect]]
+	7. Establish pitch attitude and airspeed for [[Vx]] or [[Vy]] climb
+	8. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
+2. Landing
+	1. Complete pre-landing checklist ([[GUMPS]])
+	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
+	3. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[Gust Factor]] (add half of gust difference) +10/-5 knots
+	4. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushion descent and touchdown.
+	5. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions
 
 ### Completion Standards
 Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.

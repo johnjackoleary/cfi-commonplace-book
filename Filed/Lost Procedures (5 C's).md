@@ -4,7 +4,5 @@
 4.  **_Communicate_** to controlling agency.  Start with FSS.
 5.  **_Comply_** with instructions (fuel permitting)
 
-
-
-Source: [[Air Trek North FIA Flashcards]] #fia
+#todo :: add source
 

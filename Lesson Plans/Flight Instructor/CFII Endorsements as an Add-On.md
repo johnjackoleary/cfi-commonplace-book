@@ -18,5 +18,4 @@ The endorsement for a practical test is required in addition to the § 61.39 end
 I certify that \[First name, MI, Last name\] has received the required certificated flight instructor – instrument training of § 61.187(b)(7). I have determined \[he or she\] is prepared for the certificated flight instructor – instrument – \[airplane, helicopter, or powered-lift\] practical test.
 
 
-***Source***: [[AC 61-65]], [[Air Trek North CFI Homework]]
-
+***Source***: [[AC 61-65]]

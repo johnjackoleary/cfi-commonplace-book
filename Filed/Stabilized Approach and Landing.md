@@ -1,6 +1,6 @@
-***Link***      :: [Stabilized Approach and Landing](https://www.faa.gov/news/safety_briefing/2018/media/se_topic_18-09.pdf)
+***Link***      :: [Stabilized Approach and Landing](https://www.faa.gov/sites/faa.gov/files/2022-01/Stabilized%20Approach%20and%20Landing.pdf)
 ***Description***      :: `= this.link`
-***Author*** :: [[FAASTeam]], [[FAA]]
+	***Author*** :: [[FAA Safety Team]], [[FAA]]
 
 #### Key Quotes
 * A [[Stabilized Approach]] is one in which the pilot establishes and maintains a constant angle [[glidepath]] towards a predetermined point on the landing runway.

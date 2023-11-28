@@ -27,7 +27,7 @@ flaps-for-stall-recover :: 20°
 engine-fire-speed :: 100
 
 ### Pattern Speeds
-#todo :: Update [[C172S GAIT]] to use these formulas
+#todo :: Update [[C172S Gait]] to use these formulas
 pattern-downwind-speed :: 90
 pattern-downwind-rpm :: 2000
 pattern-abeam-speed :: 80

@@ -2,8 +2,6 @@
 2. Lack of Common Experience
 3. Overuse of Abstracts
 4. Confusion between Symbol and the Thing being Symbolized
-
-
-
-Source: [[Air Trek North FOI Flashcards]] #foi
+ 
+#foi
 

@@ -8,7 +8,5 @@
 	- \>= 40 yrs  24 calendar months
 - Basic Med not authorized for Commercial Ops
 
-
-
-Source: [[Air Trek North FIA Flashcards]] #fia
+#todo :: Link to relevant FARs
 

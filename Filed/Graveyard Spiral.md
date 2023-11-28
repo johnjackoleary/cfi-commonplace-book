@@ -4,4 +4,4 @@
 
 ![[Graveyard Spiral.jpeg]]
 
-#glossary
+#glossary #illusions 
