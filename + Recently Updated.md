@@ -1,9 +1,13 @@
 %% Update via "Update Publish Files" template %% 
 
 - November 27, 2023: 
+    - [[Lesson Plans/Biennial Flight Review/~ Biennial Flight Review Outline.md|~ Biennial Flight Review Outline]]
+    - [[Lesson Plans/Commercial/CPL.15 Review and Checkride Preparation.md|CPL.15 Review and Checkride Preparation]]
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
+    - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
     - [[Lesson Plans/Mountain/M.2 Mountain Flight.md|M.2 Mountain Flight]]
     - [[Lesson Plans/Mountain/M.1 Mountain Knowledge.md|M.1 Mountain Knowledge]]
+    - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
     - [[Filed/FAA P-8740-40 Wind Shear.md|FAA P-8740-40 Wind Shear]]
     - [[Filed/Instructional Knowledge.md|Instructional Knowledge]]
     - [[Filed/Levels of Learning.md|Levels of Learning]]
@@ -33,6 +37,7 @@
     - [[Filed/Cap Cloud.md|Cap Cloud]]
     - [[Filed/Standing Lenticular Cloud.md|Standing Lenticular Cloud]]
     - [[Filed/FAA-P-8740-2 Density Altitude.md|FAA-P-8740-2 Density Altitude]]
+    - [[Filed/ACS Tips for Evaluators.md|ACS Tips for Evaluators]]
     - [[README.md|README]]
 
 - November 25, 2023: 
@@ -51,9 +56,7 @@
     - [[Filed/CDFA.md|CDFA]]
 
 - November 24, 2023: 
-    - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
     - [[Lesson Plans/Instrument/IR.7 GPS Navigation and Autopilot Usage.md|IR.7 GPS Navigation and Autopilot Usage]]
-    - [[Lesson Plans/Private/PPL.28 Review and Checkride Preparation.md|PPL.28 Review and Checkride Preparation]]
     - [[Filed/Autokinesis.md|Autokinesis]]
     - [[Filed/CRAFT.md|CRAFT]]
     - [[Filed/Coriolis Illusion.md|Coriolis Illusion]]
@@ -97,7 +100,6 @@
     - [[Lesson Plans/Commercial/CPL.10 Slow Flight and Stalls.md|CPL.10 Slow Flight and Stalls]]
     - [[Lesson Plans/Commercial/CPL.13 Emergency Procedures.md|CPL.13 Emergency Procedures]]
     - [[Lesson Plans/Commercial/CPL.14 Postflight Procedures.md|CPL.14 Postflight Procedures]]
-    - [[Lesson Plans/Commercial/CPL.15 Review and Checkride Preparation.md|CPL.15 Review and Checkride Preparation]]
     - [[Lesson Plans/Commercial/CPL.2 Takeoff, Landings, and Go-Arounds.md|CPL.2 Takeoff, Landings, and Go-Arounds]]
     - [[Lesson Plans/Commercial/CPL.3 Power Off 180 Accuracy Approach and Landing.md|CPL.3 Power Off 180 Accuracy Approach and Landing]]
     - [[Lesson Plans/Commercial/CPL.4 Steep Turns.md|CPL.4 Steep Turns]]
