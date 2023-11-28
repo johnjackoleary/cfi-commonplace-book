@@ -32,6 +32,7 @@ Ground 1 hour, Flight 3 hours
 2. Review and practice: 
 	1. Review knowledge test items 
 	2. ACS requirements and standards 
+		1. Also helpful to read [[ACS Tips for Evaluators]]
 	3. DPs, STARs 
 	4. Holding patterns and entries 
 	5. Non-precision and precision approaches to ACS standards 
