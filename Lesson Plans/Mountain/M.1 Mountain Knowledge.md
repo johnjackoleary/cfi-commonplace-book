@@ -75,7 +75,9 @@ Background knowledge required for safe mountain flying.
 			1. Visibility
 			2. Clouds
 				1. Roll Cloud
-				2. Standing Lenticular Clouds
+				2. Cap Clouds
+				3. Standing Lenticular Clouds
+				4. Kelvin–Helmholtz Billow Clouds
 			3. Thunderstorms
 			4. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
