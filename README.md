@@ -40,7 +40,11 @@ All plugins are meant to be optional, although Dataview is heavily used.
 | Edward Abraham | Bay Area native and flight instructor with emphasis on ADM and SRM | [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129) |
 | Jack O'Leary   | Bay Area flight instructor with a passion for learning             | [cfijack.com](https://www.cfijack.com)                           |
 
-
 ## License
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CFI Commonplace Book</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+> [!important] 
+> In particular, note these excepts from *[Section 5 – Disclaimer of Warranties and Limitation of Liability.](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en#s5)*
+> 1. ...the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation... fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable....
+> 2. To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages....

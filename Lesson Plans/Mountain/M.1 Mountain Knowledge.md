@@ -26,7 +26,11 @@ Background knowledge required for safe mountain flying.
 1. What counts as mountain flying?
 	> [!quote] From [[Tips on Mountain Flying]]
 	>  Rather than offer a definition of "mountain" flying, it should be pointed out that many of the subjects discussed in this publication can be found in nonmountainous areas or at low altitudes. For example, density altitudes over 8,500 feet can be found regularly on the eastern plains of Colorado in the summer. Also, dangerous mechanical turbulence and even mountain wave can be found in areas that aren't usually considered mountainous.
-1. Preflight Considerations
+2. Basic Premises of Mountain Flying
+   > [!summary] From [[Mountain Flying Bible]]
+   > 1. Always remain in a position where you can turn toward lowering terrain.
+   > 2. Never fly beyond the [[point of no return]].
+3. Preflight Considerations
 	1. Pilot
 		1. Aeromedical Factors
 			1. Oxygen (legal, practical, and at night)
@@ -109,10 +113,11 @@ Background knowledge required for safe mountain flying.
 		1. Important to know wind direction (both from preflight and from signs while flying)
 		2. Updraft and Downdrafts
 		3. Flying along valleys -- choose a side, preferably updraft side, not the middle!
-		4. Box Canyon Dangers
+		4. Box Canyons
 			1. Never fly up a canyon that you haven't already flown down so you know there's room to turn around
 			2. NEVER try to out climb the terrain in ANY airplane
-			3. [[Box Canyon Turn]] technique
+			3. Make sure canyon is sufficiently wide given your turn radius
+			4. [[Box Canyon Turn]] technique
 		5. Ridges
 			1. Fly at least 1000' above, and be there 3 miles before you arrive (although 2000' often results in less turbulence)
 			2. If you can't see terrain beyond the pass, you're too low to pass
