@@ -12,7 +12,7 @@ See [[M.1 Mountain Knowledge]]
 See [[M.1 Mountain Knowledge]]
 
 ### Builds On
-- [[M.1 Mountain Knowledge]]
+[[M.1 Mountain Knowledge]]
 
 ### Schedule
 4-6hr flight, depending on route and altitudes used

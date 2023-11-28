@@ -1,4 +1,4 @@
-> [!note]
+> [!tip]
 > Lessons 1 & 2 can be done in a single large lesson, if the learner prefers.
 
 ### Outline
