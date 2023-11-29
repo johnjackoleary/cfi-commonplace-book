@@ -10,9 +10,7 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 
 ### References
 - [[IR.D Instrument Rating Flight Experience Requirements]]
-- [[IFH]] Ch. 5-6
 - [[POH]]/[[AFM]] 
-
 
 ### Builds On
 [[PPL.19 Navigation Systems and Other Equipment]]

@@ -9,8 +9,8 @@ tags:
 Develop detailed understanding of GPS system and navigation; become proficient with particular GPS installation, displays, and autopilot interfaces; become proficient at using GPS in-flight, including modifying flight plan and changing approaches. 
 
 ### References
-AIM 1-1-17; IFH Ch 7; [[POH]]/[[AFM]]; GPS manual
-[[AC 90-108]]
+- [[POH]]/[[AFM]]
+- GPS manual
 
 ### Builds On
 [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
