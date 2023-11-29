@@ -63,7 +63,9 @@ N/A
 	2. Debugging common radio issues (volume low, cable disconnect)
 	3. Study and memorize the signals
 	4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
-9. Common Errors
+9. Departure and Arrival Procedures and Communication at Home Airport
+	1. #todo :: clean up ordering of lesson
+10. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight

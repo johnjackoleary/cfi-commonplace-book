@@ -28,7 +28,7 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 		2. https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/various-safety-pdfs/airspace2011.pdf
 	4. Altitudes for cruise flight ([[FAR 91.159 VFR Altitudes]])
 	5. Minimum safe altitudes ([[FAR 91.119 Minimum Altitudes]])
-6. Airspace around home airport, and relevant departure/arrival procedures
+6. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
 7. Useful review from [[AOPA]]: https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1
 
 ### Completion Standards
