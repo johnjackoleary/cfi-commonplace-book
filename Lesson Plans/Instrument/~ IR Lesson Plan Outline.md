@@ -44,6 +44,9 @@ tags:
 [[Appendix IR.H - Garmin Guidance for DPEs and CFIS for simulation system failures with G1000]]
 [[Appendix IR.I - GPS Approach types and CDI Sensitivity]]
 
+### Pre-Lesson Reading
+[[~ IR Pre-Lesson Reading Chart]]
+
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
 > [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Nov 14, 2023.

@@ -9,8 +9,6 @@ tags:
 Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight planning, and enroute operations.
 
 ### References
-- [[AIM 4]]
-- [[IFH]] Ch 1, 2, 10
 - [[Instrument ACS]] Section 1.C
 
 ### Builds On
