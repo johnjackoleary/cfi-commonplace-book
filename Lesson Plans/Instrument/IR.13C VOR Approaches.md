@@ -12,7 +12,7 @@ Develop proficiency in flying non-precision approaches, and demonstrate understa
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Schedule
-Ground 1 hour, simulator and/or airplane – 3 hours 
+Ground 1 hour, simulator – 2.5 hours 
 
 ### Lesson Elements
 

@@ -9,6 +9,7 @@ tags:
 Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
 
 ### References
+#todo update
 AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175 
 
 ### Resources
@@ -28,6 +29,9 @@ Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
 		1. [[ILS]] 
 		2. [[PAR]] 
 		3. GPS [[LPV]] (technically, not precision approach, but included here because of similarity)
+	2. Non-Precision
+		1. Lateral Guidance Only
+		2. Fly to a Minimum Descent Altitude
 2. Approaches (Part 97)
 	1. Reading plates 
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
