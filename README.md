@@ -11,6 +11,12 @@
 	- Lesson Plans: Ways of teaching key concepts. Should pull mostly from cards in Filed.
 	- Media: **Small** images to help build out important filed information.
 
+### Lesson Plan Sections
+- **Resources** are intended to be content you may wish to pull up during the lesson itself
+	- Resources intended at prep work or homework should be in a homework table
+- **References** is an outdated approach -- references should be included in-line or should be a resource
+- **Homework** is an outdated approach
+
 ### Formating
 - Tags
 	- with multiple words should use a hyphen ('my-awesome-tag')
