@@ -12,7 +12,7 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 - [[IR.D Instrument Rating Flight Experience Requirements]]
 - [[IFH]] Ch. 5-6
 - [[POH]]/[[AFM]] 
-- Jepp GFD Instrument/Commercial Ch. 1A,2A,2B
+
 
 ### Builds On
 [[PPL.19 Navigation Systems and Other Equipment]]

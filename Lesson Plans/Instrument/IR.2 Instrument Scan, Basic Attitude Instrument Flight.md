@@ -11,7 +11,7 @@ Understand and practice instrument scan procedures, instrument interpretation, c
 ### References
 - [[IFH]] Ch. 6-7
 - Flight Deck Poster/Diagram
-- Jepp GFD Instrument/Commercial Ch. 2C
+
 
 ### Builds On
 [[IR.1 Introduction and Instrument Systems]]

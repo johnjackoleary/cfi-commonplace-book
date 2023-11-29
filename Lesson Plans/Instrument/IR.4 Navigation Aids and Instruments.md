@@ -10,7 +10,7 @@ Understand the infrastructure and instruments used for navigation, how each syst
 
 ### References
 AIM 1-1, 1-2; IFH Chap 9 
-Jepp GFD Instrument/Commercial Ch. 2D
+
 
 ### Builds On
 [[IR.1 Introduction and Instrument Systems]]
