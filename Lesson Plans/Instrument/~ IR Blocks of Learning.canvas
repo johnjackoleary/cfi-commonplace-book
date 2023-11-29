@@ -21,7 +21,7 @@
 		{"id":"48f963b932903894","type":"text","text":"Emergency operations","x":920,"y":154,"width":400,"height":60,"color":"2"},
 		{"id":"3c9e5423a8f26f67","type":"file","file":"Lesson Plans/Instrument/IR.15 Partial Panel Maneuvers and Approaches.md","x":1872,"y":500,"width":400,"height":400},
 		{"id":"acea48c240b178f4","type":"file","file":"Lesson Plans/Instrument/IR.8 Unusual Attitude Recoveries, Including Partial Panel.md","x":160,"y":-16,"width":400,"height":400},
-		{"id":"c2ed6cb8f97eb4fa","type":"file","file":"Lesson Plans/Instrument/IR.13A RNAV Approaches.md","x":1872,"y":1048,"width":400,"height":400},
+		{"id":"c2ed6cb8f97eb4fa","type":"file","file":"Lesson Plans/Instrument/IR.13A RNAV (GPS) Approaches.md","x":1872,"y":1048,"width":400,"height":400},
 		{"id":"347ec7d678a2df4c","type":"file","file":"Lesson Plans/Instrument/IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits.md","x":400,"y":1048,"width":400,"height":400},
 		{"id":"93c7ee630e9e5aa6","type":"text","text":"Navigation systems","x":920,"y":670,"width":400,"height":60,"color":"2"},
 		{"id":"bdd6e96769f3d22a","type":"text","text":"Flight by reference to instruments","x":920,"y":1218,"width":400,"height":102,"color":"2"},

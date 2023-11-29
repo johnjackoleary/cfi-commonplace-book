@@ -24,7 +24,7 @@ tags:
 [[IR.10 Holding Patterns and Workload Management]]
 [[IR.11 Communications, Clearances, Lost Communications Procedures]]
 [[IR.12 Approach Charts and Procedures]]
-[[IR.13A RNAV Approaches]]
+[[IR.13A RNAV (GPS) Approaches]]
 [[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
 [[IR.15 Partial Panel Maneuvers and Approaches]]
 

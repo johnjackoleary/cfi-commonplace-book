@@ -12,7 +12,7 @@ Develop an understanding to interpret, apply, and brief various types of charted
 AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175 
 
 ### Resources
-- [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches)
+- [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 
 ### Builds On
 - [[IR.5 Flight Deck Organization, Workload Management, Checklists]]
@@ -20,7 +20,7 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 - [[IR.11 Communications, Clearances, Lost Communications Procedures]]
 
 ### Schedule
-Ground 1.5 hours, and likely start [[IR.13A RNAV Approaches]]
+Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
 
 ### Lesson Elements
 1. Precision vs. Non Precision
