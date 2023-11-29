@@ -33,11 +33,6 @@ Ground 2 hours
 	6. [[MCA]], [[MRA]]
 	7. Finding airport and [[ARTCC]] frequencies 
 	8. Compulsory reporting points ([[AIM 5]]-3-2)
-
-5. Approaches (Part 97)
-	1. Reading plates 
-	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
-	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
 6. Flight planning 
 	1. Navigation logs, plotters, computers (E6B, etc.), wind computations
 	2. Flight plan forms and filing 
