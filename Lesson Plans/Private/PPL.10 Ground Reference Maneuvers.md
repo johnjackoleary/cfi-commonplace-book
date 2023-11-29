@@ -27,7 +27,7 @@ GPS/Sentry/ADS-B In
 3. Rate of turn and bank angle changes with ground speed -- more ground speed means more bank needed
 4. Flying all maneuvers
 	1. Select location without excessive traffic, and with suitable emergency landing fields
-	2. Select safe altitude and appropriate airspeed for maneuver
+	2. Select altitude (600'-1000') and appropriate airspeed for maneuver
 	3. Check for traffic in area before and between each maneuver
 	4. Divide attention between airplane control, traffic, and ground references
 	5. Be aware of low altitude hazards like wires
