@@ -43,7 +43,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 	1. Downwind leg
 		1. Awareness of traffic
 		2. Power setting, configuration, airspeed for downwind
-		3. Complete pre-landing checklist ([[POH]], [[FCCGUMPS]])
+		3. Complete pre-landing checklist ([[POH]], [[GUMPS]])
 		4. Cross-wind correction if necessary
 		5. Downwind abeam-the-numbers, start descent (traffic permitting)
 	2. Base leg
@@ -56,7 +56,6 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		3. Pitch for airspeed, power for altitude (use glidepath indicator if available). One hand on stick/yoke, other on throttle
 		4. Maintain runway centerline
 		5. Fly to [[aiming point]] ![[Stablized Approach.jpeg]]
-			1. Note on why I don't like this image
 	4. Roundout/Flare
 		1. Judge speed and altitude to short final
 		2. Use ailerons to maintain centerline, rudder to keep nose pointing down the runway, parallel to centerline (this is a "Side-Slip") ![[Sideslip Approach.jpeg]] 
