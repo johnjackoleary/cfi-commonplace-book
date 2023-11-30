@@ -1,0 +1,1 @@
+https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/joseph-t-nall-report/nall-report-figure-view
