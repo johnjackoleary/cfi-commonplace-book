@@ -30,10 +30,10 @@ engine-fire-speed :: 100
 #todo :: Update [[C172S Gait]] to use these formulas
 pattern-downwind-speed :: 90
 pattern-downwind-rpm :: 2000
-pattern-abeam-speed :: 80
+pattern-abeam-speed :: 85
 pattern-abeam-rpm :: 1600
 pattern-abeam-flaps :: 10°
-pattern-base-speed :: 70
+pattern-base-speed :: 75
 pattern-base-rpm :: 1600
 pattern-base-flaps :: 20°
 pattern-final-rpm :: as req
