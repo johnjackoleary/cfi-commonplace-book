@@ -3,11 +3,10 @@ tags: [gait]
 data: "[[C172S Datasheet]]"
 ---
 
-| **C172S Gaits** v0.4    |            **Flaps**             | **Pitch** |              **RPM**              |            **IAS (kts)**            | **VSI (fpm)** |
+| **C172S Gaits** v1.0   |            **Flaps**             | **Pitch** |              **RPM**              |            **IAS (kts)**            | **VSI (fpm)** |
 | ----------------------- |:--------------------------------:|:---------:|:---------------------------------:|:-----------------------------------:|:-------------:|
 | ⚠️ V<sub>G</sub>        |                                  |    TBD    |               idle                |          `= this.data.Vg`           |      TBD      |
 | 🛫 V<sub>R</sub>        |                                  |    TBD    |                max                |                 55                  |      TBD      |
-| V<sub>X(10°)</sub>      | `=this.data.short-takeoff-flaps` |    TBD    |                max                |       `= this.data.Vx-short`        |      TBD      |
 | V<sub>X</sub>           |                                  |    TBD    |                max                |          `= this.data.Vx`           |      TBD      |
 | 🛫 V<sub>Y</sub>        |                                  |   +10°    |                max                |          `= this.data.vy`           |     +600      |
 | 🛫 V<sub>Climb</sub>    |                                  |    +5°    |                max                |                 90                  |     +500      |
@@ -21,10 +20,13 @@ data: "[[C172S Datasheet]]"
 | 🛬 Abeam Numbers        | `=this.data.pattern-abeam-flaps` |    TBD    |  `=this.data.pattern-abeam-rpm`   |  `=this.data.pattern-abeam-speed`   |      TBD      |
 | 🛬 Base                 | `=this.data.pattern-base-flaps`  |    TBD    |   `=this.data.pattern-base-rpm`   |   `=this.data.pattern-base-speed`   |      TBD      |
 | 🛬 Final                | `=this.data.pattern-final-flaps` |    TBD    |  `=this.data.pattern-final-rpm`   |         `= this.data.vref`          |      TBD      |
-| Short                   |               30°                |    TBD    |               1500                |        `= this.data.vshort`         |      TBD      |
+
+<br>
 
 | Topic         | Details                                                    |
 | ------------- |:---------------------------------------------------------- |
 | Leaning       | 50° ROP when above 3000'                                   |
 | V<sub>A</sub> | `= this.data.Va-mgw` @ max<br>98 @ 2200 lb<br>90 @ 1900 lb |
-| Short T.O.             |   #todo changes with weight                                                          |
+| Short T.O.    | (short-takeoff-flaps::10°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{, }@`=this.mgw`lb; {,}@; {,}@lb                                   |
+| Short Ldg   |   (short-landing-flaps::30°) Flaps, 61kts@`=this.mgw`lb                                                                                                                                            |
+

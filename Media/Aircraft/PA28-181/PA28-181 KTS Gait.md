@@ -12,7 +12,7 @@ maneuver-speed:
 speed-units: kts
 ---
 
-| **(model::PA28-181)  Gait** v1.2kts |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
+| **(model::PA28-181)  Gait** v1.3kts |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
 | ----------------------------------- |:--------------------------:|:---------:|:----------------------------:|:-----------------------------:|:-------------:|
 | ⚠️ V<sub>G</sub>                    |                            |           |             idle             |           (Vg::76)            |               |
 | 🛫 V<sub>R</sub>                    |                            |           |             max              |           (Vr::59)            |               |
@@ -37,4 +37,4 @@ speed-units: kts
 | ------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Leaning       | 100° ROP when above 5000'                                                                                                                            |
 | V<sub>A</sub> | (Va-mgw::113) @ [mgw::2550]lb; (Va-dual::103) @ (dual-weight::2100)lb; (Va-single::100) @ (single-weight::1950)lb -> start with `=this.maneuver-rpm` |
-| Short Field   | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{49, 54}@`=this.mgw`lb; {43,48}@2250lb; {41,46}@2050lb                                                                                                                                                     |
+| Short T.O.   | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{49, 54}@`=this.mgw`lb; {43,48}@2250lb; {41,46}@2050lb                                                                                                                                                     |
