@@ -1,6 +1,7 @@
 %% Update via "Update Publish Files" template %% 
 
 - December 01, 2023: 
+    - [[Media/Aircraft/C172S/C172S Datasheet.md|C172S Datasheet]]
     - [[Media/Aircraft/C172S/C172S Gait.md|C172S Gait]]
     - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait.md|PA28-181 KTS Gait]]
 
@@ -268,7 +269,6 @@
     - [[Lesson Plans/G1000/G1.2 G1000 In Flight.md|G1.2 G1000 In Flight]]
     - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
     - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
-    - [[Media/Aircraft/C172S/C172S Datasheet.md|C172S Datasheet]]
     - [[Media/Aircraft/C172S/Getting to Know the C172S.md|Getting to Know the C172S]]
 
 - November 11, 2023: 

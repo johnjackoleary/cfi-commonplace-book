@@ -37,5 +37,5 @@ pattern-base-speed :: 75
 pattern-base-rpm :: 1600
 pattern-base-flaps :: 20°
 pattern-final-rpm :: as req
-pattern-final-flaps :: 40°
+pattern-final-flaps :: 30°
 cool-procedure :: N/A for C172SP
