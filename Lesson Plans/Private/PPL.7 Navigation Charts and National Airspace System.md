@@ -14,7 +14,7 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 [[PPL.5 Towered Airport Operations]]
 
 ### Schedule
-3 hours ground
+2 hours ground
 
 ### Lesson Elements
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts
