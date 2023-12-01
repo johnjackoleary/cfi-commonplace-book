@@ -1,6 +1,8 @@
 %% Update via "Update Publish Files" template %% 
 
 - December 01, 2023: 
+    - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
+    - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
     - [[Media/Aircraft/C172S/C172S Datasheet.md|C172S Datasheet]]
     - [[Media/Aircraft/C172S/C172S Gait.md|C172S Gait]]
     - [[Media/Aircraft/PA28-181/PA28-181 KTS Gait.md|PA28-181 KTS Gait]]
@@ -21,7 +23,6 @@
     - [[Lesson Plans/Instrument/IR.12 Precision Approaches.md|IR.12 Precision Approaches]]
     - [[Lesson Plans/Instrument/IR.13 Non-Precision Approaches.md|IR.13 Non-Precision Approaches]]
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
-    - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
     - [[Filed/VFR Weather Minimums List Memory Aid.md|VFR Weather Minimums List Memory Aid]]
     - [[Filed/AC 90-114.md|AC 90-114]]
@@ -272,7 +273,6 @@
     - [[Media/Aircraft/C172S/Getting to Know the C172S.md|Getting to Know the C172S]]
 
 - November 11, 2023: 
-    - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.D Suggestions for Solo Flight Practice.md|PPL.D Suggestions for Solo Flight Practice]]
     - [[Filed/AC 90-66.md|AC 90-66]]
     - [[Filed/FAR 91.126 Class G Airport Ops.md|FAR 91.126 Class G Airport Ops]]
