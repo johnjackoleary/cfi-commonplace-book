@@ -1,5 +1,16 @@
 %% Update via "Update Publish Files" template %% 
 
+- December 02, 2023: 
+    - [[Lesson Plans/Commercial/CPL.12 High Altitude Operations.md|CPL.12 High Altitude Operations]]
+    - [[Lesson Plans/Mountain/M.1 Mountain Knowledge.md|M.1 Mountain Knowledge]]
+    - [[Filed/Daylight Visual Illusions.md|Daylight Visual Illusions]]
+    - [[Filed/Night Visual Illusions.md|Night Visual Illusions]]
+    - [[Filed/Carbon Monoxide Poisoning.md|Carbon Monoxide Poisoning]]
+    - [[Filed/Oxygen Equipment Use in General Aviation Operations.md|Oxygen Equipment Use in General Aviation Operations]]
+    - [[Filed/Hypoxia.md|Hypoxia]]
+    - [[Filed/AIM 8.md|AIM 8]]
+    - [[Filed/ELT.md|ELT]]
+
 - December 01, 2023: 
     - [[Lesson Plans/Private/PPL.16 Short- and Soft-Field Takeoffs and Landings.md|PPL.16 Short- and Soft-Field Takeoffs and Landings]]
     - [[Lesson Plans/Private/PPL.7 Navigation Charts and National Airspace System.md|PPL.7 Navigation Charts and National Airspace System]]
@@ -36,7 +47,6 @@
     - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
     - [[Lesson Plans/Commercial/~ CPL Lesson Plan Outline.md|~ CPL Lesson Plan Outline]]
     - [[Lesson Plans/Commercial/CPL.10 Slow Flight and Stalls.md|CPL.10 Slow Flight and Stalls]]
-    - [[Lesson Plans/Commercial/CPL.12 High Altitude Operations.md|CPL.12 High Altitude Operations]]
     - [[Lesson Plans/Commercial/CPL.13 Emergency Procedures.md|CPL.13 Emergency Procedures]]
     - [[Lesson Plans/Commercial/CPL.14 Postflight Procedures.md|CPL.14 Postflight Procedures]]
     - [[Lesson Plans/Commercial/CPL.15 Review and Checkride Preparation.md|CPL.15 Review and Checkride Preparation]]
@@ -58,7 +68,6 @@
     - [[Lesson Plans/General/Retest Endorsement.md|Retest Endorsement]]
     - [[Lesson Plans/High-Performance/High-Performance Endorsement.md|High-Performance Endorsement]]
     - [[Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md|IR.18 Review and Checkride Prep]]
-    - [[Lesson Plans/Mountain/M.1 Mountain Knowledge.md|M.1 Mountain Knowledge]]
     - [[Lesson Plans/Mountain/M.2 Mountain Flight.md|M.2 Mountain Flight]]
     - [[Lesson Plans/Private/PPL.10 Ground Reference Maneuvers.md|PPL.10 Ground Reference Maneuvers]]
     - [[Lesson Plans/Private/PPL.11 Spin Awareness and Spin Recovery.md|PPL.11 Spin Awareness and Spin Recovery]]
@@ -97,7 +106,6 @@
     - [[Filed/Characteristics of an Effective Assessment.md|Characteristics of an Effective Assessment]]
     - [[Filed/Combating Carb Ice.md|Combating Carb Ice]]
     - [[Filed/Coriolis Illusion.md|Coriolis Illusion]]
-    - [[Filed/Daylight Visual Illusions.md|Daylight Visual Illusions]]
     - [[Filed/Defense Mechanisms.md|Defense Mechanisms]]
     - [[Filed/Definition of Professionalism.md|Definition of Professionalism]]
     - [[Filed/Demonstration Performance Model.md|Demonstration Performance Model]]
@@ -115,7 +123,6 @@
     - [[Filed/Graveyard Spiral.md|Graveyard Spiral]]
     - [[Filed/Guided Discussion Method.md|Guided Discussion Method]]
     - [[Filed/Human Needs.md|Human Needs]]
-    - [[Filed/Hypoxia Symptoms (Lack of Oxygen).md|Hypoxia Symptoms (Lack of Oxygen)]]
     - [[Filed/Instructional Knowledge.md|Instructional Knowledge]]
     - [[Filed/Inversion Illusion.md|Inversion Illusion]]
     - [[Filed/Learning New Skills.md|Learning New Skills]]
@@ -127,7 +134,6 @@
     - [[Filed/Memory Systems.md|Memory Systems]]
     - [[Filed/Minimizing Learner Frustration.md|Minimizing Learner Frustration]]
     - [[Filed/Night - For Logging Time.md|Night - For Logging Time]]
-    - [[Filed/Night Visual Illusions.md|Night Visual Illusions]]
     - [[Filed/Obstacles to Learning.md|Obstacles to Learning]]
     - [[Filed/Oral Questions to Avoid.md|Oral Questions to Avoid]]
     - [[Filed/Pilot Currency to be Legal.md|Pilot Currency to be Legal]]
@@ -151,7 +157,6 @@
     - [[Filed/Wake Turbulence.md|Wake Turbulence]]
     - [[Filed/bhp.md|bhp]]
     - [[Filed/Engine Operation for Pilots.md|Engine Operation for Pilots]]
-    - [[Filed/Carbon Monoxide Poisoning.md|Carbon Monoxide Poisoning]]
     - [[Filed/5 Hazardous Attitudes and Antidotes.md|5 Hazardous Attitudes and Antidotes]]
     - [[Filed/5 Rules-of-Thumb You Can Use On Your Next Flight.md|5 Rules-of-Thumb You Can Use On Your Next Flight]]
     - [[Filed/8 Acronyms Every Instrument Pilot Should Know.md|8 Acronyms Every Instrument Pilot Should Know]]
@@ -271,10 +276,4 @@
     - [[Filed/All Maneuvers Quick Reference.md|All Maneuvers Quick Reference]]
     - [[Media/Aircraft/Aircraft Gait Charts.md|Aircraft Gait Charts]]
     - [[Media/Aircraft/C172S/Getting to Know the C172S.md|Getting to Know the C172S]]
-
-- November 11, 2023: 
-    - [[Lesson Plans/Private/PPL.D Suggestions for Solo Flight Practice.md|PPL.D Suggestions for Solo Flight Practice]]
-    - [[Filed/AC 90-66.md|AC 90-66]]
-    - [[Filed/FAR 91.126 Class G Airport Ops.md|FAR 91.126 Class G Airport Ops]]
-    - [[Filed/IAS.md|IAS]]
 

@@ -7,4 +7,4 @@
 Corrective action: Turn off heater, open fresh air vents, side windows, oxygen if available.
 
 
-Source: [[AIM 8-1]]
+Source: [[AIM 8]]

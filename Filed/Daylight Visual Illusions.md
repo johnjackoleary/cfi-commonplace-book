@@ -4,5 +4,5 @@
 
 #illusions
 
-Source: [[AIM 8-1]]
+Source: [[AIM 8]]
 
