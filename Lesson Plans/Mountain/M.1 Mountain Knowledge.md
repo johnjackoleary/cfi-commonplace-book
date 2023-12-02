@@ -132,7 +132,7 @@ Background knowledge required for safe mountain flying.
 		7. Be comfortable stopping early if conditions deteriorate
 		8. Hazard Advisor tools
 	7. Descent/Traffic Pattern
-		1. May be irregular for surrounding terrain (see [[L05]] -- helpful to check Google Maps/Earth before going
+		1. May be irregular for surrounding terrain (see [[L05]] -- helpful to check Google Maps/Earth before going)
 		2. May be on top of ridge (see [[KAVX]]) with unique illusions
 		3. Higher [[GS]] considerations
 			1. Careful not to overshoot final
