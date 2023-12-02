@@ -15,6 +15,7 @@ Background knowledge required for safe mountain flying.
 - [[FROM THE ARCHIVES - Mountain Flying (1991)]]
 - [[Back to Basics - Tips to Mountain Flying]] and [[Tips on Mountain Flying]]
 - [Mountain Flying & High Density Altitude in 57 Seconds](https://www.youtube.com/watch?v=k1qylDKtr6M)
+- [Mountain Flying](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/mountain-flying) from [[AOPA]]
 
 ### Builds On
 - [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]

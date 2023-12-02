@@ -11,12 +11,8 @@
             "id": "5e4b933ce7fe0cb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Untitled 3.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -63,12 +59,8 @@
             "id": "6044dd72237c9a79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -90,9 +82,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3a4ccea594616ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/Interpreting Winds Aloft.md",
+            "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/Interpreting Winds Aloft.md",
+            "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -195,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/Interpreting Winds Aloft.md"
+            "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md"
           }
         }
       }
@@ -213,7 +217,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1615292b5f5734a1",
+  "active": "3a4ccea594616ca1",
   "lastOpenFiles": [
     "Inbox/Interpreting Winds Aloft.md",
     "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
