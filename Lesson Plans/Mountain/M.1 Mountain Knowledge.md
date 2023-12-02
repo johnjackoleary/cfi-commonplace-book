@@ -75,14 +75,14 @@ Background knowledge required for safe mountain flying.
 			4. Be wary -- mountain weather can change quickly!
 		5. Specific weather factors
 			1. Visibility
-			2. Clouds![[Mountain Waves and Associated Clouds.jpeg]]
-				1. [[Roll Cloud]]s
-				2. Mountain Wave Signs
+			2. Clouds
+				1. Mountain Wave Signs![[Mountain Waves and Associated Clouds.jpeg]]
 					1. [[Rotor Cloud]]s -- avoid flying through or below!
 					2. [[Cap Cloud]]s
 					3. [[Standing Lenticular Cloud]]s (Both Altocumulus and Cirrocumulus)
 				3. [[Kelvin–Helmholtz Cloud]]s
 			3. [[Thunderstorm]]s
+				1. [[Roll Cloud]]s
 			4. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
 				2. [[Mountain Wave]]
