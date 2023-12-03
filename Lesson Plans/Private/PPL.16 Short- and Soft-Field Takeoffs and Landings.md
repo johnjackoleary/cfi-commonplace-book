@@ -31,12 +31,12 @@ Overview of short- and soft-field operations
 	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
 2. Landing
 	1. Complete pre-landing checklist ([[GUMPS]])
-	2. ID touchdown target
+	2. ID touchdown target 
 	3. Establish [[POH]]-recommended approach configuration and airspeed, adjust pitch and power as required
-	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying gust factor (add half of gust difference) +10/-5 kts
-	5. Aiming point 100-200 feet short
+	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference) +10/-5 kts
+	5. Aiming point 100-200 feet short ([[Stablized Approach.jpeg]])
 	6. Touch down smoothly at or beyond target, with minimal float, at or within 200 feet beyond the specified touchdown point
-	7. Apply brakes as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
+	7. Raise flaps, apply brakes as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
 #### Soft-Field
 1. Takeoff
