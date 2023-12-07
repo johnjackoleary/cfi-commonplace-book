@@ -10,7 +10,7 @@ Understand airport operations, including communications, traffic patterns, and l
 - [[AFH Ch2]]
 - [[PHAK Ch14]]
 - [[AIM 2]]
-- Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communcations Example|common radio calls]], and [[Light Gun Signals]]
+- Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communication Examples|common radio calls]], and [[Light Gun Signals]]
 - [[Private Pilot ACS]] Sec III
 
 ### Builds On
@@ -45,7 +45,7 @@ N/A
 	4. [[Runway Incursion]]
 6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
 7. Radio communications practice (ATC phraseology):
-	1. [[Tower Radio Communcations Example]]
+	1. [[Tower Radio Communication Examples]]
 	2. Standard Phraseology in [[AIM 4-2]]
 	3. Few you may hear
 		1. Roger - I understand (although typically you will just say your N-number instead)

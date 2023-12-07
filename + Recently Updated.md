@@ -259,7 +259,7 @@
     - [[Filed/BlackBird Air Constitutes Holding Out.md|BlackBird Air Constitutes Holding Out]]
     - [[Filed/Radio Usage at Non-Towered Airports.md|Radio Usage at Non-Towered Airports]]
     - [[Filed/Stall Speed.md|Stall Speed]]
-    - [[Filed/Tower Radio Communcations Example.md|Tower Radio Communcations Example]]
+    - [[Tower Radio Communication Examples|Tower Radio Communication Examples]]
 
 - November 14, 2023: 
     - [[Lesson Plans/Aircraft Checkout/Suggested Aircraft Checkout Process.md|Suggested Aircraft Checkout Process]]
