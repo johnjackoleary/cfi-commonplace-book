@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 70
+  },
+  "spellcheck": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "defaultViewMode": "preview",
+  "showInlineTitle": true
+}

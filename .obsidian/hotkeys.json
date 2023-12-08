@@ -1,0 +1,52 @@
+{
+  "obsidian-text-format:text-format-wrapper-0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ],
+  "obsidian-text-format:text-format-wrapper-1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:Media/Dataview to Obsidian Publish/Update Publish Files.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "templater-obsidian:Templates/Dataview to Obsidian Publish/Update Publish Files.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

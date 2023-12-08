@@ -1,0 +1,1 @@
+ATC side of events and advice in https://www.ifr-magazine.com/avionics/pilot-deviations/

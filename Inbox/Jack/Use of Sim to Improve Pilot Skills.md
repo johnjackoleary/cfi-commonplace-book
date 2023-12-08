@@ -1,0 +1,1 @@
+Example from [[IFR Magazine]]: https://www.ifr-magazine.com/training-sims/go-speed-racer/?MailingID=208&sc=WU20221019-Sub&st=email&utm_source=ActiveCampaign&utm_medium=email&utm_content=Go+Speed+Racer&utm_campaign=WU20221019-Sub

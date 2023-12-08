@@ -1,0 +1,3 @@
+My father used to perform a card trick for me and my brothers. Anyone can do it. He’d shuffle a deck and ask us to pick a card, not show it to him, and replace it anywhere in the deck. Then he’d let us shuffle the deck so that it would seem impossible for him to find the card. But when he’d show us the cards, one by one, he’d watch our eyes. When we saw the card that we’d picked, our pupils would dilate, and he’d know which card we’d picked. The involuntary physical response is proof that there is an emotional component to the process of matching the model with the world. -- [[Deep Survival]]
+
+#magic #cardtrick

@@ -1,0 +1,11 @@
+{
+  "cssTheme": "CFIJack",
+  "enabledCssSnippets": [
+    "dataview-inline-fields",
+    "radio-comms"
+  ],
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "accentColor": "#0097a7",
+  "showViewHeader": true
+}

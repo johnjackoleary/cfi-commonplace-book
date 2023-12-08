@@ -1,0 +1,1 @@
+https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2017/Letts_2017_Legal_Interpretation.pdf

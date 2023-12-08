@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "file:-/^[+]/ -path:Template",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Sources",
+      "color": {
+        "a": 1,
+        "rgb": 1179806
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.20431922629766106,
+  "close": false
+}

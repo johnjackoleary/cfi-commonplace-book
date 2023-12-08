@@ -1,0 +1,52 @@
+---
+cssclass: lesson
+tags: ppl, lesson
+---
+### Objective
+Develop knowledge, risk management, and skills associated with forward slips to landing.
+
+### References
+- [[AFH Ch9]]
+- [[POH]]
+- [[Private Pilot ACS]] Sec IV-M
+
+### Builds On
+- [[PPL.13 Normal and Crosswind Approaches and Landings]]
+
+### Schedule
+Ground 0.5, multiple flights to practice this maneuver frequently
+
+### Lesson Elements
+1. Overview of forward slips
+	1. Purpose - lose altitude quickly, without gaining airspeed. Allows for steeper gliding descent for short-field or emergency landing
+	2. [[Forward Slip.jpeg|Forward Slips]] vs [[Sideslip.jpeg|Sideslips]]? Sideslips are the usual technique for cross-wind landing, where heading parallel to runway. Forward slips are steeper than side slips, with exaggerated bank (into the wind) and opposite rudder, with heading significantly different than runway heading, but ground track aligned with runway centerline.
+	3. Adjust "steepness" of slip as necessary for intended landing spot
+	4. Airspeed errors - what is effect of slip on indicated airspeed? Depends on number and location of static ports
+	5. Check [[POH]] - are slips allowed with full flaps? Will fuel ports uncover?
+2. Flying the forward slip
+	1. Reduce power to idle
+	2. Bank into wind (if any), and apply opposite rudder to prevent turn
+	3. Adjust bank angle to control glide path as necessary. Adjust bank and rudder to maintain runway centerline
+	4. Maintain normal final approach indicated airspeed, depending on static port locations
+	5. Transition from forward slip to side slip (or no slip) before landing flare
+	6. Beware of excessive sink rate due to forward slip. Keep enough airspeed to round out and flare.
+3. Common errors
+	1. Speed control during the slip
+	2. High sink rate in the flare
+	3. Failure to maintain stable forward slip, allowing bank and heading to wander
+	4. Failure to go around if the approach becomes unstable
+
+### Completion Standards
+Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
+
+### Required Logbook Phraseology
+For [[FAR 61.87 Student Solo Reqs]]: 
+- Slips to a landing
+
+### Required Homework
+None
+
+### Recommended Homework
+None 
+
+*Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

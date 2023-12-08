@@ -1,0 +1,1 @@
+Good writeup on Reddit on the process a [[pilot deviation]] goes through: https://www.reddit.com/r/flying/comments/13u4okb/faa_investigations_for_pilot_deviations/

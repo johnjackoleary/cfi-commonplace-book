@@ -1,0 +1,1 @@
+See awesome (unconfirmed accuracy) writeup [here](https://aviation.stackexchange.com/a/87090)

@@ -1,0 +1,47 @@
+---
+cssclasses:
+  - lesson
+tags:
+  - cpl
+  - lesson
+---
+### Objective
+Demonstrate satisfactory knowledge, risk management, and skills for flight at higher altitudes where supplemental oxygen is required.
+
+### References
+- [[PHAK Ch7]]
+- [[PHAK Ch17]]
+- [[AC 61-107]]
+
+### Builds On
+None
+
+### Schedule
+Ground 1 hour
+
+### Lesson Elements
+1. Physiological factors ([[Human Factors]])
+	1. Impairment
+	2. [[Hypoxia]]
+		1. Difference between CO and hypoxic hypoxia symptoms
+	3. Time of useful consciousness
+2. Oxygen Systems
+	1. Operation of various sorts of oxygen systems (see [[Oxygen Equipment Use in General Aviation Operations]])
+	2. Determining quantity of oxygen required in various scenarios
+	3. #todo :: add oxygen requirements in the flight levels
+4. Pressurized aircraft systems
+	1. #todo :: Add more details about pressurization system
+
+### Completion Standards
+Demonstrate satisfactory knowledge, risk management, and skills for flight at higher altitudes where supplemental oxygen is required.
+
+### Required Logbook Phraseology
+#todo :: TBD
+
+### Required Homework
+None
+
+### Recommended Homework
+- [ ] Study systems in [[PHAK Ch7]]
+
+*Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*

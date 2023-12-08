@@ -1,0 +1,1 @@
+#todo :: helpful to have done graphics on adiabatic lapse rate, etc

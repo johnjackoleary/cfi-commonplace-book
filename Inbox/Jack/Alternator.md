@@ -1,0 +1,1 @@
+See also [Alternators and Generators](https://www.aopa.org/training-and-safety/students/solo/special/alternators-and-generators) from [[AOPA]]
