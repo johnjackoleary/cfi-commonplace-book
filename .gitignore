@@ -1,11 +1,14 @@
+# Mac
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
 .trash
+
+# Windows
 ehthumbs.db
 Thumbs.db
 
-# For Obsidian
+# Obsidian
 .obsidian/workspace*
