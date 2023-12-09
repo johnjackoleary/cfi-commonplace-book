@@ -1,1 +1,1 @@
-Gait charts for use with #simulator airplanes from #msfs.
+Gait charts for use with #sim airplanes from #msfs.

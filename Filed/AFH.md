@@ -23,4 +23,4 @@ Chapters:
 - [[AFH Ch17]]
 - [[AFH Ch18]]
 
-#acronym #afh #source
+#acronym #handbook/afh #source

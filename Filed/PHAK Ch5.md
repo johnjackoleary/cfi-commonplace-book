@@ -8,6 +8,6 @@
 ![[Axes of Airplane.jpeg]]
 ![[Angle of Attack vs Speed.jpeg]]
 
-#source #phak 
+#source #handbook/phak 
 
 #todo :: add key quotes
