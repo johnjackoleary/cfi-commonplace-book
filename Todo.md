@@ -6,7 +6,6 @@ TABLE todo as "Todo" FROM #todo AND !"Templates"
 
 ## Odds and Ends Todo
 #todo :: Find and create links that are not yet created, for instance in [[Stall Speed]]
-#todo :: Add more info about slip-boxes and how to contribute to this
 #todo :: Consider adding something to lessons about resources and how to find good info online (maybe value of joining AOPA)
 #todo :: Find way to release versions of commonplace-book
 #todo :: See about none-Dataview ways for aggregating and pulling data between files (hopefully more obsidian native)
