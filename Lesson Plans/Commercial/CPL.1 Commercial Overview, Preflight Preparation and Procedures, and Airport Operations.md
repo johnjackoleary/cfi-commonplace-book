@@ -41,7 +41,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 4. Preflight Procedures
 	1. Q&A to feel out weak areas in understanding of [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 	2. Additional emphasis on
-		1. Approved [[MEL]] and the [[4 Types of MEL's]]
+		1. Approved [[MEL]] and the [[4 Types of MEL's]], related to [[FAR 91.213 Inop Equip]]
 		2. [[Risk Management]] and related mnemonics ([[PAVE]], [[IMSAFE]], [[5Ps]], etc)
 		3. [[5 Hazardous Attitudes and Antidotes]]
 5. Airport Operations
