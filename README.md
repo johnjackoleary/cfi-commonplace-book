@@ -7,6 +7,12 @@ There are two main options to view project files:
 ---
 
 ## Suggesting Changes
+If you'd like to help improve this content, feel free to dive in anywhere! The GitHub is publicly visible at https://github.com/johnjackoleary/cfi-commonplace-book
+
+If you want a starting point, any notes tagged with #todo are good candidates for some love. Check out [[Todo]] for a complete list.
+
+And thank you!
+
 ### Make a Note of an Issue Without Making the Change
 You can [submit issues on GitHub](https://github.com/johnjackoleary/cfi-commonplace-book/issues), and they'll show up similar to [this example](https://github.com/johnjackoleary/cfi-commonplace-book/issues/10).
 
@@ -60,11 +66,15 @@ All plugins are meant to be optional, although Dataview is heavily used.
 - [Templater](https://silentvoid13.github.io/Templater/) for Obsidian Publish to work with Dataview (see article [here](https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/))
 - (Disabled) [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) for creating flashcards to study. This was useful for checkride prep, and could be revisited. Only disabled because it was no longer used.
 
+---
+
 ## About The Contributors
 | Contributor    | Blurb                                                              | URL                                                              |
 | -------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | Edward Abraham | Bay Area native and flight instructor with emphasis on ADM and SRM | [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129) |
 | Jack O'Leary   | Bay Area flight instructor with a passion for learning             | [cfijack.com](https://www.cfijack.com)                           |
+
+---
 
 ## License
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CFI Commonplace Book</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

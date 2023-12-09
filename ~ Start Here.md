@@ -22,6 +22,6 @@
 - Check out the Obsidian Graph View
 
 ### Anyone Else Looking to Contribute
-- Checkout [[~ How You Can Help Improve This Content]] to get started.
+- Checkout the [[README]] to get started
 - There's always something interesting to tackle in [[Todo]]
 - Thank you!
