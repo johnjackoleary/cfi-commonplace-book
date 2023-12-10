@@ -19,7 +19,10 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 - [[PPL.15 Emergency Landings]]
 
 ### Schedule
-1.5 hours ground, flight practice as necessary
+1 hours ground, flight practice as necessary
+
+> [!note] 
+> Can be completed at the same time as with [[PPL.25 Lost Procedures, and Diversion to Alternates]].
 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]

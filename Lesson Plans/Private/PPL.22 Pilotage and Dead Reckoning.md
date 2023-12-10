@@ -14,6 +14,9 @@ Develop knowledge and skills associated with pilotage navigation by reference to
 ### Schedule
 Ground 1.0, Flight – multiple during dual cross-country flights
 
+> [!note] 
+> Can be completed at the same time as with [[PPL.21 Advanced Weather Briefs and Preflight Planning]].
+
 ### CFI Equipment
 E6-B
 
