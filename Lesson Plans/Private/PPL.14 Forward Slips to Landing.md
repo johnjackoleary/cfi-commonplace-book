@@ -5,8 +5,7 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge, risk management, and skills associated with forward slips to landing.
 
-### References
-- [[AFH Ch9]]
+### Resources
 - [[POH]]
 - [[Private Pilot ACS]] Sec IV-M
 

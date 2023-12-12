@@ -5,11 +5,9 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge, risk management and skills associated with spins, flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
 
-### References
+### Resources
 - [[AC 61-67]]
 - [[General Aviation Pilot Stall Awareness Training Study]]
-- [[AFH Ch5]]
-- [[PHAK Ch5]]
 - [[POH]]
 - [[Private Pilot ACS]] Sec VII-D
 

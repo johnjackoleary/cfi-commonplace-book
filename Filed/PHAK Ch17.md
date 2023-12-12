@@ -1,4 +1,4 @@
-***Link***      :: [Chapter 17: Aeromedical Factors](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/media/19_phak_ch17.pdf)
+***Link***      :: [Chapter 17: Aeromedical Factors](https://www.faa.gov/sites/faa.gov/files/19_phak_ch17.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 ***Additional Resources***: https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf

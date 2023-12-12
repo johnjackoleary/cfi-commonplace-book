@@ -5,9 +5,7 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge, risk management, and skills associated with power-on and power-off stalls.
 
-### References
-- [[AFH Ch4]]
-- [[PHAK Ch5]]
+### Resources
 - [[Private Pilot ACS]] Sec VII-B and -C
 - [[POH]]
 

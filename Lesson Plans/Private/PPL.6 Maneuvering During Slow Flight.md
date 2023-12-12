@@ -5,9 +5,7 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge, risk management and skills associated with maneuvers during [[slow flight]]. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
 
-### References
-- [[AFH Ch4]]
-- [[PHAK Ch5]]
+### Resources
 - [[Private Pilot ACS]] Sec VII
 
 ### Builds On

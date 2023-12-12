@@ -3,7 +3,7 @@
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 
-Chapters:
+**Chapters**:
 - [[AFH Ch1]]
 - [[AFH Ch2]]
 - [[AFH Ch3]]

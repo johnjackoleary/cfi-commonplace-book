@@ -5,9 +5,8 @@ tags: ppl, lesson
 ### Objective
 Practice the fundamentals of straight and level (S&L) flight, turns, climbs, and descents; and controlling the airplane's attitude by visual reference to the horizon.
 
-### References
-- [[AFH Ch3]]
-- [[PHAK Ch5]], [[PHAK Ch6|6]], [[PHAK Ch7|7]], [[PHAK Ch8|8]]
+### Resources
+N/A
 
 ### Builds On
 N/A

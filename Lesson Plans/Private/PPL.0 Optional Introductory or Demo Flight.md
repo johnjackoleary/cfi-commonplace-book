@@ -6,7 +6,7 @@ tags: ppl, lesson
 Get a feel for flying by actually taking the controls once airborne.
 
 ### References
-- [[POH]]
+N/A
 
 ### Builds On
 N/A

@@ -5,7 +5,7 @@ tags: ppl, lesson, sim
 ### Objective
 Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of ATC capabilities and ability to use ATC assistance with radar vectors.
 
-### References
+### Resources
 - [[Private Pilot ACS]] Section 6
 - [[PHAK Ch16]]
 - Manuals for all installed equipment in the plane.

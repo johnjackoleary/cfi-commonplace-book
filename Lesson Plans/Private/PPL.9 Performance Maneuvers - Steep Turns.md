@@ -5,10 +5,8 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
 
-### References
+### Resources
 - [[Private Pilot ACS]] Sec V-A
-- [[AFH Ch3]]
-- [[AFH Ch10]]
 
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]
