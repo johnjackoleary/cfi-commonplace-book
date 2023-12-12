@@ -5,11 +5,9 @@ tags: ppl, lesson
 ### Objective
 Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data. Understand services and process intended to help identify risks and make better decisions. 
 
-### References
-- [[PHAK Ch12]]
+### Resources
 - [[Aviation Weather Handbook]]
 - [[AC 91-92]]
-- [[AIM 7]]
 
 ### Builds On
 - [[PPL.3 Weather Briefs and Preflight Planning]]

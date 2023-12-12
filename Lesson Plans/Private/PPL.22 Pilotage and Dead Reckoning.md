@@ -5,8 +5,8 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.
 
-### References
-[[PHAK Ch16]]
+### Resources
+N/A
 
 ### Builds On
 [[PPL.7 Navigation Charts and National Airspace System]]

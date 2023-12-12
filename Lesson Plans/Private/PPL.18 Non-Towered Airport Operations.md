@@ -5,11 +5,8 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge of operations and traffic patterns at non-towered airports.
 
-### References
-- [[AC 90-66]]
+### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
-- [[PHAK Ch14]]
-- [[AIM 4-3]]
 - [[Private Pilot ACS]] Section III Task B
 - [[Non-Tower Radio Communications Examples]]
 

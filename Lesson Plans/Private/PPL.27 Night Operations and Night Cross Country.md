@@ -5,8 +5,8 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge and skill pertaining to night flight.
 
-### References
-[[Private Pilot ACS]] Section XI; AFH Ch10 (night operations), PHAK Ch. 14 (airport lighting), Ch. 17 (night vision)
+### Resources
+- [[Private Pilot ACS]] Section XI
 
 ### Builds On
 - [[PPL.5 Towered Airport Operations]]

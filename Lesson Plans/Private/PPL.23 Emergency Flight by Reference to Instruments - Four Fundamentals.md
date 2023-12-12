@@ -5,8 +5,9 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge and skills required for emergency flight by reference to instruments.
 
-### References
-Instrument Flying Handbook Ch 6-7; [[Private Pilot ACS]] Section VIII
+### Resources
+- Instrument Flying Handbook ([[IFH]]) Ch 6-7;
+- [[Private Pilot ACS]] Section VIII
 
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]

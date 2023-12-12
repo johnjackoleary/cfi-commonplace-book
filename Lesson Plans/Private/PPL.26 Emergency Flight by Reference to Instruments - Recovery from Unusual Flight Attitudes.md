@@ -5,8 +5,8 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
 
-### References
-IFH Ch7
+### Resources
+- [[IFH]] Ch7
 
 ### Builds On
 [[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]

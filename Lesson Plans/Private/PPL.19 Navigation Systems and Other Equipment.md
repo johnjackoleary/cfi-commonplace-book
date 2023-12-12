@@ -7,8 +7,7 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 
 ### Resources
 - [[Private Pilot ACS]] Section 6
-- [[PHAK Ch16]]
-- Manuals for all installed equipment in the plane.
+- Manuals for all installed equipment in the plane
 
 ### Builds On
 [[PPL.7 Navigation Charts and National Airspace System]]

@@ -5,8 +5,7 @@ tags: ppl, lesson
 ### Objective
 Develop skills and procedures to identify aircraft location, with on-board charts or equipment or with ATC help, and plan diversion to an appropriate alternate airport.
 
-### References
-- [[PHAK Ch16]]
+### Resources
 - [[Private Pilot ACS]] VI-C (diversion) and VI-D (lost procedures)
 
 ### Builds On
