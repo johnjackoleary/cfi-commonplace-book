@@ -15,7 +15,7 @@ Develop understanding of aircraft performance and limitations, and the ability t
 N/A
 
 ### Schedule
-3 hours ground
+2 hours ground
 
 ### CFI Equipment
 E6B Calculator or App

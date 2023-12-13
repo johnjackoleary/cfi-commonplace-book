@@ -15,7 +15,10 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 - [[PPL.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
-3 hour ground, practice on multiple flights
+1 hour ground, practice on multiple flights
+
+> [!note] 
+> Can be completed at the same time as with [[PPL.22 Pilotage and Dead Reckoning]].
 
 ### Lesson Elements
 1. [[PAVE]] and [[NWKRAFT]]

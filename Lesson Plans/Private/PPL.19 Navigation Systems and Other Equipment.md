@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: ppl, lesson
+tags: ppl, lesson, sim
 ---
 ### Objective
 Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of ATC capabilities and ability to use ATC assistance with radar vectors.
@@ -14,25 +14,32 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-3 hours ground
+1.5 hours ground, 1.5 hours sim
 
 ### Lesson Elements
 1. Compass and [[Compass Errors]]
 2. Radio navigation equipment
 	1. VOR
-	2. ILS
-	3. DME
-	4. ADF
-	5. GPS - using and entering flight plans
+		1. tuning and identifying
+		2. interpreting instrument and relative location
+		3. intercepting and tracking
+		4. flying direct to
+	2. GPS
+		1. preflight
+		2. using and entering flight plans
+	3. ILS, DME, ADF and other equipment
 3. Transponders, and altitude reporting equipment
 4. ADS-B In and Out
+	1. Mode C Veil
 5. Autopilot
+	1. preflight
+	2. single/dual axis
 6. ATC services and assistance available
 	1. Flight Following
 	2. ASR (airport surveillance radar) and PAR (precision approach radar) capabilities
 
 ### Completion Standards
-Client should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.
+Client should develop knowledge of navigation equipment on board their training aircraft. Client should be familiar with services available from ATC, and know how and when to request assistance.
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
@@ -40,7 +47,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications
 
 ### Required Homework
-- [ ] Memorize compass error acronyms: ANDS, UNOS, NOSE
+- [ ] Memorize compass error acronyms: [[ANDS]], [[UNOS]], [[NOSE]]
 
 ### Recommended Homework
 None

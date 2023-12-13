@@ -10,13 +10,16 @@ Develop skills and procedures to identify aircraft location, with on-board chart
 - [[Private Pilot ACS]] VI-C (diversion) and VI-D (lost procedures)
 
 ### Builds On
+- [[PPL.19 Navigation Systems and Other Equipment]]
 - [[PPL.22 Pilotage and Dead Reckoning]]
 - [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
 - [[PPL.7 Navigation Charts and National Airspace System]]
-- [[PPL.19 Navigation Systems and Other Equipment]]
 
 ### Schedule
-Ground 1 hour, Flight 1 hour, frequent practice on multiple flights
+Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights
+
+> [!note] 
+> Can be completed at the same time as with [[PPL.24 Emergency Operations]].
 
 ### Lesson Elements
 1. Lost procedures
