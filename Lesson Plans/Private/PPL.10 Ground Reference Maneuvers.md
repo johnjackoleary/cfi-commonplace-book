@@ -5,8 +5,7 @@ tags: ppl, lesson, maneuver
 ### Objective
 Develop risk management and skills associated with ground reference maneuvers, including rectangular patterns, S-turns, and turns around a point.
 
-### References
-- [[AFH Ch7]]
+### Resources
 - [[Private Pilot ACS]] Sec V-B
 
 ### Builds On

@@ -5,11 +5,8 @@ tags: ppl, lesson
 ### Objective
 Develop understanding of aircraft performance and limitations, and the ability to safely and conservatively plan cross-country flights.
 
-### References
+### Resources
 - [[POH]]/[[AFM]]
-- [[PHAK Ch9]]
-- [[PHAK Ch10]]
-- [[PHAK Ch11]]
 
 ### Builds On
 N/A

@@ -5,8 +5,7 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge and skills associated with emergency landings, including choosing an emergency landing location and considerations for a survivable landing.
 
-### References
-- [[AFH Ch18]]
+### Resources
 - [[AFM]]/[[POH]]
 - [[Private Pilot ACS]] Section IX
 

@@ -5,8 +5,8 @@ tags: ppl, lesson
 ### Objective
 Get a feel for flying by actually taking the controls once airborne.
 
-### References
-- [[POH]]
+### Resources
+N/A
 
 ### Builds On
 N/A

@@ -3,8 +3,11 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* This chapter covers the essential elements for the regulatory basis of flight including:
+	1. An airplane’s airworthiness requirements,
+	2. Important inspection items when conducting a preflight visual inspection,
+	3. Managing risk and resources, and
+	4. Proper and effective airplane surface movements using the AFM/POH and airplane checklists.
 
 #source #handbook/afh 
 
-#todo :: add key quotes

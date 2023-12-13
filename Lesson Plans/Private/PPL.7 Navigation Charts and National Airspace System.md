@@ -5,10 +5,10 @@ tags: ppl, lesson
 ### Objective
 Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.
 
-### References
-- [[AIM 3]]
-- [[PHAK Ch15]]
-- [[PHAK Ch16]]
+### Resources
+- [[VFR Chart Legend.pdf]]
+- [[KPAO Chart Supplement.pdf]]
+- [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
 
 ### Builds On
 [[PPL.5 Towered Airport Operations]]
@@ -28,8 +28,8 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 		2. https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/various-safety-pdfs/airspace2011.pdf
 	4. Altitudes for cruise flight ([[FAR 91.159 VFR Altitudes]])
 	5. Minimum altitudes ([[FAR 91.119 Minimum Altitudes]])
-6. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
-7. Useful review from [[AOPA]]: https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1
+7. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
+8. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
 
 ### Completion Standards
 Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
@@ -41,7 +41,6 @@ Client should demonstrate knowledge, to a level appropriate for solo flight, of 
 - [ ] Purchase paper copies of San Francisco Sectional and San Francisco Terminal Area Chart
 
 ### Recommended Homework
-- [ ] Read [[AIM 3]]
 - [ ] Start reading VFR-related FARs in Part 91
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

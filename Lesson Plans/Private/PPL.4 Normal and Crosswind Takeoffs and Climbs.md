@@ -5,9 +5,7 @@ tags: ppl, lesson
 ### Objective
 Understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 
 
-### References
-- [[AFH Ch5]]
-- [[PHAK Ch5]], [[PHAK Ch11]]
+### Resources
 - [[Private Pilot ACS]] Sec IV
 - [[POH]]
 

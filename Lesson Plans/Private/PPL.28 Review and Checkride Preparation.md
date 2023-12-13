@@ -5,7 +5,7 @@ tags: ppl, lesson
 ### Objective
 Prepare for practical test oral and flight portions.
 
-### References
+### Resources
 - [[Private Pilot ACS]] – all sections
 - [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
 - [[FAR]] [[part 91]] and [[part 61]]

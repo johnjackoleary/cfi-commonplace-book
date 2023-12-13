@@ -6,9 +6,7 @@ tags: ppl, lesson
 ### Objective
 Understand airport operations, including communications, traffic patterns, and light gun signals.
 
-### References
-- [[AFH Ch2]]
-- [[PHAK Ch14]]
+### Resources
 - [[AIM 2]]
 - Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communication Examples|common radio calls]], and [[Light Gun Signals]]
 - [[Private Pilot ACS]] Sec III

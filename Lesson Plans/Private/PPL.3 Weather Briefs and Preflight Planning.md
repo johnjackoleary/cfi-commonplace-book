@@ -9,9 +9,8 @@ tags:
 ### Objective
 Develop initial knowledge of and sources for preflight briefings.
 
-### References
+### Resources
 - [[POH]]/[[AFM]]
-- [[PHAK Ch13]]
 - [[AC 91-92]]
 - [[Aviation Weather Handbook]]
 

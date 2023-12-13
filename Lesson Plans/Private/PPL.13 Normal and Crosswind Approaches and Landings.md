@@ -5,8 +5,7 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
 
-### References
-- [[AFH Ch9]]
+### Resources
 - [[Private Pilot ACS]] Sec IV-B
 - [[AFM]]/[[POH]]
 

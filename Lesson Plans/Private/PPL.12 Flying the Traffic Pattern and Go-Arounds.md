@@ -5,14 +5,9 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
 
-### References
-- [[AFH Ch8]], [[AFH Ch9]]
-- [[PHAK Ch14]]
-- [[AIM 4-3]]
+### Resources
 - [[Private Pilot ACS]] Sec III
 - [[Pattern Precision]]
-
-### Resources
 - [skyvector.com](http://www.skyvector.com)
 
 ### Builds On
@@ -102,7 +97,7 @@ For [[FAR 61.87 Student Solo Reqs]]:
 
 ### Required Homework
 - [ ] Memorize power settings/airspeeds for pattern
-- [ ] Read Chart Supplement for KPAO
+- [ ] Read Chart Supplement for home airport
 
 ### Recommended Homework 
 - [ ] Chair fly traffic pattern

@@ -5,10 +5,8 @@ tags: ppl, lesson, maneuver
 ### Objective
 Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
 
-### References
+### Resources
 - [[Private Pilot ACS]] Sec IV Task E-F
-- [[AFH Ch6]]
-- [[AFH Ch9]]
 
 ### Builds On
 - [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]

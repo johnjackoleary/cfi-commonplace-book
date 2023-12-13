@@ -6,9 +6,7 @@ tags: ppl, lesson
 ### Objective
 Develop knowledge of all abnormal and emergency procedures for the training aircraft in use, including all ACS risk management and skill tasks.
 
-### References
-- [[AFH Ch18]]
-- [[AIM 6]]
+### Resources
 - [[AFM]]/[[POH]]
 - [[Private Pilot ACS]] Section IX
 

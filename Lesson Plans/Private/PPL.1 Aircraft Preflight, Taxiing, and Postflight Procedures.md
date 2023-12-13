@@ -5,11 +5,9 @@ tags: ppl, lesson
 ### Objective
 Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
 
-### References
+### Resources
 - [[POH]]
 - [[Private Pilot ACS]] II and XII
-- [[AFH Ch1]], [[AFH Ch2]]
-- [[PHAK Ch3]]
 
 ### Builds On
 N/A
