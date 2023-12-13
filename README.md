@@ -44,6 +44,11 @@ There's a few branch protections in place and specific merge strategies. General
 	- Lesson Plans: Ways of teaching key concepts. Should pull mostly from cards in Filed.
 	- Media: **Small** images to help build out important filed information.
 
+### Lesson Plan Sections
+- **Resources** are intended to be content you may wish to pull up during the lesson itself
+	- Resources intended at prep work or homework should be in a pre-lesson file (such as [[~ PPL Pre-Lesson Reading]])
+- **References** is an outdated approach and are slowly being cleaned up. References should be included in-line or should be a resource.
+
 ### Formating
 - Tags
 	- with multiple words should use a hyphen ('my-awesome-tag')
