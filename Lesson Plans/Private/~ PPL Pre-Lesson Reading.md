@@ -1,4 +1,4 @@
-> [!note] Text with a ~~strikethrough~~ is still relevant to a lesson, but was already listed as in a prior lesson.
+> [!note] Text with a ~~strikethrough~~ is still relevant to a lesson, but was already listed in a prior lesson.
 
 | Section                                                                                          | FAA                                                   | Jeppesen | Sporty's | King |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | -------- | -------- | ---- |
