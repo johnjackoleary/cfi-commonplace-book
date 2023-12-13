@@ -30,7 +30,6 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 6. ATC services and assistance available
 	1. Flight Following
 	2. ASR (airport surveillance radar) and PAR (precision approach radar) capabilities
-7. Inoperative Equipment
 
 ### Completion Standards
 Client should develop knowledge of navigation equipment on board their training aircraft, and ability to recover from lost situations, including planning diversion to alternate destinations. Client should be familiar with services available from ATC, and know how and when to request assistance.

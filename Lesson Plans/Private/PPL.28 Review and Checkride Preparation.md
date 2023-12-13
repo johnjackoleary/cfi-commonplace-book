@@ -23,7 +23,7 @@ Ground 3 hours, Flight as necessary
 	1. Also helpful to read [[ACS Tips for Evaluators]]
 2. Odds and Ends FARs
 	1. [[Pilot Performed Preventive Maintenance]]
-	2. [[FAR 91.213 Inop Equip]]
+	2. [[FAR 91.213 Inop Equip]] review
 3. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
 4. Practice for oral potion of practical test

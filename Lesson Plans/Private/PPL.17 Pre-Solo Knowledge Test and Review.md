@@ -31,6 +31,7 @@ All pre-solo lessons
 	7. Pitot-static, vacuum/pressure, and associated flight instruments
 	8. Environmental
 	9. Deicing and anti-icing
+	10. Inop Equipment ([[FAR 91.213 Inop Equip]])
 3. [[FAR 61.87 Student Solo Reqs]]
 	1. Knowledge Test
 		1. Sample Questions
