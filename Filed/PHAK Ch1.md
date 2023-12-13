@@ -6,4 +6,4 @@
 * The Pilot's Handbook of Aeronautical Knowledge provides basic knowledge for the student pilot learning to fly
 * This chapter offers a brief history of flight, introduces the history and role of the FAA in civil aviation, [[FAA]] regulations and standards, government references and publications, eligibility for pilot certificates, available routes to flight instruction, the role of the Certificated Flight Instructor ([[CFI]]) and Designated Pilot Examiner ([[DPE]])
 
-#source #phak 
+#source #handbook/phak 

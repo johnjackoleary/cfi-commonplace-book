@@ -7,4 +7,4 @@
 * It is important for a pilot to be aware of the mental and physical standards required for the type of flying performed.
 * This chapter provides information on medical certification and on a variety of aeromedical factors related to flight activities.
 
-#source #phak 
+#source #handbook/phak 

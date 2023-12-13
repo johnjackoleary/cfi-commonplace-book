@@ -7,4 +7,4 @@
 - The throttle then is the total energy controller.... the elevator is the energy distribution controller
 - pilots should be equipped with the ability to  identify, assess, and mitigate two major risks associated with mismanagement of energy: 1) unwanted deviations from the desired energy state; and 2) unintentional, irreversible deceleration and/or sink rate
 
-#source #afh
+#source #handbook/afh

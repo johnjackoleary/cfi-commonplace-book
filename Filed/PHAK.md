@@ -20,4 +20,4 @@ Chapters:
 - [[PHAK Ch17]]
 - [[PHAK Glossary]]
 
-#acronym #phak
+#acronym #handbook/phak

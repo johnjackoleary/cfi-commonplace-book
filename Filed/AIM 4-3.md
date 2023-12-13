@@ -5,6 +5,6 @@
 ***Key Quotes***:
 * 
 
-#source #aim
+#source #handbook/aim
 
 #todo :: add key quotes

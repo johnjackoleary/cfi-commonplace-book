@@ -13,4 +13,4 @@
 	* IFR emergencies. 
 	* Clearance shorthand and an integrated instrument lesson guide are also included.
 
-#source #acronym #ifh
+#source #acronym #handbook/ifh

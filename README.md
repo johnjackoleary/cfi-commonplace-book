@@ -14,7 +14,7 @@
 ### Formating
 - Tags
 	- with multiple words should use a hyphen ('my-awesome-tag')
-	- currently there are no nested tags ('my/awesome-tag'), although Obsidian has nice support for these, so may be a consideration later
+	- Obsidian supports nested tags ('my/awesome-tag'), and they are used periodically to help keep groupings clear
 - #todo:: standardize when to use which headings levels, maybe. Or just live with it? Variety is the spice of life...
 - Blocks of Learning Sizes #todo :: Helpful info, seems not worth having on top readme though
 	- 400px x 400px for cards

@@ -6,5 +6,5 @@
 * Airport traffic patterns are procedures that improve the flow of traffic at an airport and enhance safety when properly executed.
 * An airport traffic pattern includes the direction and altitude of the pattern and procedures for entering and leaving the pattern.
 
-#source #afh 
+#source #handbook/afh 
 
