@@ -1,6 +1,39 @@
 # CFI Commonplace Book
+## Viewing Project Files
+There are two main options to view project files:
+ 1. [*Easiest*] Use the [published online view](https://publish.obsidian.md/cfi-commonplace-book/)
+ 2. [*Most Complete*] Download [Obsidian](https://obsidian.md/), then clone and open this repository
 
-![[~ Start Here]]
+---
+
+## Suggesting Changes
+If you'd like to help improve this content, feel free to dive in anywhere! The GitHub is publicly visible at https://github.com/johnjackoleary/cfi-commonplace-book
+
+If you want a starting point, any notes tagged with #todo are good candidates for some love. Check out [[Todo]] for a complete list.
+
+And thank you!
+
+### Make a Note of an Issue Without Making the Change
+You can [submit issues on GitHub](https://github.com/johnjackoleary/cfi-commonplace-book/issues), and they'll show up similar to [this example](https://github.com/johnjackoleary/cfi-commonplace-book/issues/10).
+
+Suggestions can be big or small, any observations or input are helpful!
+
+### Editing Project Files
+#### If You Haven't Used Git Before
+##### Editing On Your Computer
+1. Install [GitHub Desktop](https://desktop.github.com)
+2. Clone the repository wherever GitHub desktop suggests
+3. Open the top level folder with [Obsidian](https://obsidian.md/)
+
+##### Editing Directly Online
+1. Click on the file you'd like to edit in GitHub, and click the edit (pencil) button.
+2. Next, 'propose' your changes. Feel free to change the message and description to explain the change and update the branch name. Or don't change anything, that's also fine :)
+3. Finally, open a 'pull request' to show that the changes are ready to be reviewed and merged. You can see an example of this [here](https://github.com/johnjackoleary/cfi-commonplace-book/pull/9).
+
+#### If You Have Used Git Before
+There's a few branch protections in place and specific merge strategies. Generally, you should be good to go however you prefer to approach it.
+
+---
 
 ## Project Details
 ### Structure
@@ -29,16 +62,19 @@ All plugins are meant to be optional, although Dataview is heavily used.
 	- #todo :: This is difficult for publishing, because Dataview doesn't work with publish. May need to pivot further away from Dataview, for now the publishing process includes generating some Dataview tables from queries in [[Update Publish Files]].
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) is for convenience in editing tables. This is totally optional but very helpful.
 - [Git](https://github.com/denolehov/obsidian-git) for easy vault backups. 
-	- #todo :: Figure out better Git approach for allowing folks to contribute
-- [Text Format](https://github.com/Benature/obsidian-text-format) convenience for  formatting with keyboard shortcuts.
+- [Text Format](https://github.com/Benature/obsidian-text-format) convenience for formatting with keyboard shortcuts.
 - [Templater](https://silentvoid13.github.io/Templater/) for Obsidian Publish to work with Dataview (see article [here](https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/))
 - (Disabled) [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) for creating flashcards to study. This was useful for checkride prep, and could be revisited. Only disabled because it was no longer used.
+
+---
 
 ## About The Contributors
 | Contributor    | Blurb                                                              | URL                                                              |
 | -------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | Edward Abraham | Bay Area native and flight instructor with emphasis on ADM and SRM | [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129) |
 | Jack O'Leary   | Bay Area flight instructor with a passion for learning             | [cfijack.com](https://www.cfijack.com)                           |
+
+---
 
 ## License
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CFI Commonplace Book</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
