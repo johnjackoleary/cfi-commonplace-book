@@ -50,7 +50,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 				1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airport Ops]])
 				2. ![[Single Runway Traffic.jpeg]]
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
-	2. [[Non-Tower Radio Communications Examples]]
+	2. Arriving to airport area and [[Non-Tower Radio Communications Examples]]
 	3. Some aircraft don't have radios
 	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 3. Common errors
