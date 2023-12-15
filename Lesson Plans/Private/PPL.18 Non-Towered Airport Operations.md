@@ -33,7 +33,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 		3. Wind indicators: sock, tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
 		4. Runway and taxi markings - See [[PPL.5 Towered Airport Operations]]
 	6. Airport lighting
-		1. Airport beacons (white/green: land, white/white/green: military)
+		1. Airport beacons (white/green: land+civilian, white/white/green: military)
 		3. Pilot controlled lighting
 		4. Glidepath systems 
 			1. VASI![[VASI.jpeg]]
