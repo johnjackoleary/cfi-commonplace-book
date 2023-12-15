@@ -3,5 +3,6 @@
 You hear many opinions on aviation sunglasses, and many of them are right.
 
 A few key things to look for:
-1. Non-polarized: Some avionics will not be visible with polarized lenses. If you know you’ll never fly such avionics, then it doesn’t matter as much.
-2. 
+1. Non-polarized^[See FAA writeup for more info on why.]
+2. Thin over ear wires (name for this?)
+3. 
