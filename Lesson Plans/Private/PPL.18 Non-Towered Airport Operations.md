@@ -51,8 +51,9 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 				2. ![[Single Runway Traffic.jpeg]]
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
 	2. Arriving to airport area and [[Non-Tower Radio Communications Examples]]
-	3. Some aircraft don't have radios
-	4. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
+		1. "The Active" runway
+		2. Some aircraft don't have radios
+	3. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 3. Common errors
 	1. Forgetting radio calls
 	2. Selecting wrong runway or inappropriate entry procedure to pattern
