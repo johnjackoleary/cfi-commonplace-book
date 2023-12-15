@@ -27,7 +27,7 @@ Low-level wind shear is commonly associated with passing frontal systems, thunde
 Microbursts are a very severe form of [[LLWS]].
 
 The few visual clues are:
-- An intense rain shaft at the surface but virga at cloud base
+- An intense rain shaft at the surface but (or?) virga at cloud base
 - A ring of blowing dust is often the only visible clue
 
 A typical microburst:
