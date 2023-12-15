@@ -57,13 +57,13 @@ Hood, foggles, or other view-limiting device
 		 - [ ] Automation Failure: Failure of Autopilot and Avionics
 	-  [ ] **Postflight Procedures**
 		 - [ ] Checking Instruments and Equipment
-1. Aeronautical Health Maintenance and Improvement Plan
+2. Aeronautical Health Maintenance and Improvement Plan
 	1. [[Personal Minimums]] Worksheet
 	2. Personal Proficiency Practice Plan
 	3. Training Plan (if desired)
 
 ### Completion Standards
-Learner demonstrates safe, legal, and proficient aircraft operation through all phases of IFR flight.
+Learner demonstrates safe, legal, and proficient aircraft operation through all phases of [[IFR]] flight.
 
 ### Required Homework
 None
