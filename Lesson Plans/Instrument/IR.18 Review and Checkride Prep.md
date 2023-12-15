@@ -10,6 +10,7 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 
 ### References
 - [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
+- [[IFR Regulatory Review Assignment]]
 
 ### Builds On
 - [[~ IR Lesson Plan Outline|All Lessons]]
@@ -40,7 +41,8 @@ Ground 1 hour, Flight 3 hours
 	7. “Devil’s triangle” approach practices (SCK/TCY/LVK or OAK/OAK/HWD, etc.) multiple approaches, missed approaches, holding patterns, etc.
 	8. Practice checkride including phase check as appropriate 
 	9. Logbook entries and endorsements 
-	10. Aircraft prep for checkride, tab MX records, POH/AFM, etc. 
+	10. Aircraft prep for checkride, tab MX records, POH/AFM, etc.
+	11. [[IFR Regulatory Review Assignment]]
 3. Video, showing DPE’s perspectives on Instrument Practical Test - Andy Munnis (specifically on oral part of exam): https://www.youtube.com/watch?v=EUzR8f1Npss
  
 ### Completion Standards
