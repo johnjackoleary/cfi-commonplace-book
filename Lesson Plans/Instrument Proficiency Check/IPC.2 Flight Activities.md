@@ -5,10 +5,9 @@ tags: ipc, lesson
 ### Objective
 Confirm learner's flight proficiency is comparable to when they passed their checkride, and work to close any gaps.
 
-### References
-- Based on [[AC 61-98]] Appendix F
-- [[Conducting an Effective Flight Review]]
-- [[Part 91 Review Assignment]]
+### Resources
+- Based on [[AC 61-98]] Appendix J
+- [[IFR Regulatory Review Assignment]]
 
 ### Builds On
 [[IPC.0 Preparation]]
@@ -17,64 +16,54 @@ Confirm learner's flight proficiency is comparable to when they passed their che
 Schedule set as part of [[IPC.0 Preparation]]
 
 > [!note] 
-> Can be completed at the same time as with [[IPC.1 Ground Review]], or done as a separate lesson so the BFR isn't as long.
+> Can be completed at the same time as with [[IPC.1 Ground Review]], or done as a separate lesson so the IPC isn't as long.
 
 ### Equipment
 Hood, foggles, or other view-limiting device
 
 ### Lesson Elements
+> [!note]
+> Flight will be structured like a IFR XC outbound, then focused on airwork for the return trip.
+
+
 1. Flight Activities (from [[AC 61-98]])
 	- [ ] **Preflight Preparation** (completed as part of [[IPC.1 Ground Review]])
 		- [ ] Weather Information
 		- [ ] Cross-Country Flight Planning
-		- [ ] Performance and Limitations
-		- [ ] Operation of Systems
 	- [ ] **Preflight Procedures**
-		- [ ] Preflight Inspections
-		- [ ] Cockpit Management
-		- [ ] Before Takeoff Check
-	- [ ] **Airport Operations**
-		- [ ] Radio Communications
-		- [ ] Airport, Runway, Taxiway Signs, Markings, and Lighting
-	- [ ] **Takeoffs, Landings, and Go-Arounds**
-		- [ ] Normal and Crosswind Takeoff/Climb
-		- [ ] Normal and Crosswind Approach/Landing
-		- [ ] Soft-Field Takeoff and Climb
-		- [ ] Soft-Field Approach and Landing
-		- [ ] Short-Field Takeoff
-		- [ ] Short-Field Approach
-		- [ ] Go-Around Rejected Landing
-	- [ ] **Performance Maneuver**
-		- [ ] Steep Turns
-	- [ ] **Navigation**
-		- [ ] Pilotage and Dead Reckoning
-		- [ ] Navigation Systems and Radar Services
-		- [ ] Diversion
-		- [ ] Lost Procedures
-	- [ ] **Slow Flight and Stalls**
-		- [ ] Maneuvering During Slow Flight
-		- [ ] Power-Off Stalls
-		- [ ] Power-On Stalls
-		- [ ] Spin Awareness
-	- [ ] **Basic Instrument Maneuvers**
-		- [ ] Straight and Level Flight
-		- [ ] Turns to Headings
-		- [ ] Recovery from Unusual Flight Attitudes
-		- [ ] Radio Communications/Navigation Systems
-	- [ ] **Emergency Operations**
-		- [ ] Emergency Approach and Landing
-		- [ ] Systems and Equipment Malfunctions
-		- [ ] Automation Failure: Failure of Autopilot and Avionics
-	- [ ] **Postflight Procedures**
-		- [ ] After Landing, Parking, Securing
-1. Postflight Discussion
-2. Aeronautical Health Maintenance and Improvement Plan (additional info in [[Conducting an Effective Flight Review]])
+		- [ ] Aircraft Systems Related to IFR Operations
+		- [ ] Aircraft Flight Instruments and Navigation Equipment
+		- [ ] Instrument Cockpit Check
+	-  [ ] **ATC Clearances and Procedures**
+		 - [ ] ATC Clearances
+		 - [ ] Compliance with Departure, En Route, and Arrival Procedures and Clearances
+		 - [ ] Holding Procedures
+	-  [ ] **Flight by Reference to Instruments**
+		 - [ ] Basic Instrument Flight Maneuvers
+		 - [ ] Recovery from Unusual Flight Attitudes
+	-  [ ] **Navigation Systems**
+		 - [ ] Intercepting/Tracking Navigational Systems and Distance Measuring Equipment (DME) Arcs
+	-  [ ] **Instrument Approach Procedures**
+		 - [ ] Nonprecision Approach (NPA)
+		 - [ ] Precision Approach (PA)
+		 - [ ] Missed Approach
+		 - [ ] Circling Approach
+		 - [ ] Landing from a Straight-in or Circling Approach
+	-  [ ] **Emergency Operations**
+		 - [ ] Loss of Communications
+		 - [ ] One Engine Inoperative During Straight and Level Flight and Turns (Multiengine Airplane)
+		 - [ ] One Engine Inoperative—Instrument Approach (Multiengine Airplane)
+		 - [ ] Loss of Primary Flight Instrument Indicators
+		 - [ ] Automation Failure: Failure of Autopilot and Avionics
+	-  [ ] **Postflight Procedures**
+		 - [ ] Checking Instruments and Equipment
+1. Aeronautical Health Maintenance and Improvement Plan
 	1. [[Personal Minimums]] Worksheet
 	2. Personal Proficiency Practice Plan
 	3. Training Plan (if desired)
 
 ### Completion Standards
-Learner demonstrates safe, legal, and proficient aircraft operation through all phases of flight.
+Learner demonstrates safe, legal, and proficient aircraft operation through all phases of IFR flight.
 
 ### Required Homework
 None

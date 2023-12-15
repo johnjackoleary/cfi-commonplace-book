@@ -18,5 +18,5 @@ https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_61-98D_Ed_Upd.pdf
 
 ### Appendices
 [[IPC.A Endorsement]]
-[[Appendix IPC.B Requirements]]
+[[IPC.B Requirements]]
 [[IPC.C Background Information]]

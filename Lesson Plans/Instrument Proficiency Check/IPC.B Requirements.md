@@ -14,6 +14,14 @@ For equipment, it continues:
 > (ii) For other than a glider, in a full flight simulator or flight training device that is representative of the aircraft category; or 
 > (iii) For a glider, in a single-engine airplane or a glider.
 
+The [[Instrument ACS]] notes the following areas as minimum required tasks for an [[IPC]]:
+- III.B: *Holding Procedures*
+- IV.B: *Recovery from Unusual Flight Attitudes*
+- V.A: *Intercepting and Tracking Navigational Systems and Arcs*
+- VI (all): *Instrument Approach Procedures*
+- VII.B,C,D (multi-engine only)
+- VIII (all): *Postflight Procedures*
+
 ***See also***: [[AC 61-98]]
 
 > [!tip]
