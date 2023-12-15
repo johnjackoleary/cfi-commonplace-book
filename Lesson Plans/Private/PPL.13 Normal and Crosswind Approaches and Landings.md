@@ -57,16 +57,19 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		3. Pitch for airspeed, power for altitude (use glidepath indicator if available). One hand on stick/yoke, other on throttle
 		4. Maintain runway centerline
 		5. Fly to [[aiming point]] ![[Stablized Approach.jpeg]]
-	4. Roundout/Flare
+	4. Roundout
 		1. Judge speed and altitude to short final
 		2. Use ailerons to maintain centerline, rudder to keep nose pointing down the runway, parallel to centerline (this is a "Side-Slip") ![[Sideslip Approach.jpeg]] 
 		3. Use side-slip to avoid drifting on touchdown ![[Drifting on Touchdown.jpeg]]
 		4. Usually start flare about one wing-span above runway (entering [[Ground Effect]])
-		5. Use peripheral vision to judge descent rate
-	5. Touchdown
-		1. Smooth power reduction and pitch increase to level off just above runway at idle power
-		2. Hold off with increasing back pressure to touch down in full-stall attitude 
-		3. ![[Well Executed Roundout.jpeg]]
+		5. Smooth power reduction and pitch increase to level off just above runway at idle power
+		6. Use peripheral vision to judge descent rate
+		7. Use didffernt points down runway to judge approach (mid, end, aiming)
+		8.  ![[Well Executed Roundout.jpeg]]
+	5. Flare/Touchdown
+		1. Fly level above the runway while increasing back pressure until reaching the landing attitude
+		2. After reaching landing attitude, let the runway come up to the airplane
+		3. Hold off with increasing back pressure to touch down in full-stall attitude 
 	6. Rollout
 		1. Maintain centerline with rudder
 		2. Deflect ailerons into the wind, gradually increasing to full deflection at taxi speed
