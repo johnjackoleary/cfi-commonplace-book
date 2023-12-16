@@ -2,6 +2,9 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
+
+Add https://www.aopa.org/news-and-media/all-news/2017/june/flight-training-magazine/landing-with-flair
+
 ### Objective
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
 
