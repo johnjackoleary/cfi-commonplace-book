@@ -49,7 +49,7 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 	7. Continue holding pitch to full stall
 	8. Recover: pitch down just below horizon, full power, raise flaps one notch, then incrementally up. Climb [[Vy]].
 5. Power On Stall Maneuver
-	1. Simulates stall during approach to landing
+	1. Simulates stall during climb after takeoff
 	2. Clearing Turns, ID Emergency Field, Outside Reference
 	3. Enter slow flight in takeoff configuration
 	4. At [[Vr]], add >65% power
