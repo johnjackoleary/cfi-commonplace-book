@@ -27,8 +27,8 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 		4. flying direct to
 	3. ILS, DME, ADF and other equipment
 3. [[GPS]]
-		1. preflight
-		2. using and entering flight plans
+	1. preflight
+	2. using and entering flight plans
 4. Transponders, and altitude reporting equipment
 5. ADS-B In and Out
 	1. Mode C Veil
