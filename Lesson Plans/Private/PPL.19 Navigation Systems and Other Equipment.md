@@ -20,22 +20,22 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 ### Lesson Elements
 1. Compass and [[Compass Errors]]
 2. Radio navigation equipment
-	1. VOR
+	1. [[VOR]]
 		1. tuning and identifying
 		2. interpreting instrument and relative location
 		3. intercepting and tracking
 		4. flying direct to
-	2. GPS
+	3. ILS, DME, ADF and other equipment
+3. [[GPS]]
 		1. preflight
 		2. using and entering flight plans
-	3. ILS, DME, ADF and other equipment
-3. Transponders, and altitude reporting equipment
-4. ADS-B In and Out
+4. Transponders, and altitude reporting equipment
+5. ADS-B In and Out
 	1. Mode C Veil
-5. Autopilot
+6. Autopilot
 	1. preflight
 	2. single/dual axis
-6. ATC services and assistance available
+7. ATC services and assistance available
 	1. Flight Following
 	2. ASR (airport surveillance radar) and PAR (precision approach radar) capabilities
 
