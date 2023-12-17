@@ -25,7 +25,7 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 		2. interpreting instrument and relative location
 		3. intercepting and tracking
 		4. flying direct to
-	3. ILS, DME, ADF and other equipment
+	3. ILS, [[DME]], [[ADF]] and other equipment
 3. [[GPS]]
 	1. preflight
 	2. using and entering flight plans
