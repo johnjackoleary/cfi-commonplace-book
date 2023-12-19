@@ -58,7 +58,7 @@ Background knowledge required for safe mountain flying.
 			1. Be wary of [[Hot, High, and Heavy]]
 			2. Takeoff/Landing Calculations
 				1. [[50-70 Rule]]
-				2. Higher [[True Airspeed]] and [[GS]] on landing, same [[Indicated Airspeed]]
+				2. Higher [[TAS]] and [[GS]] on landing, same [[IAS]]
 			3. Climb performance degradation
 				1. May require circling to gain altitude ([[Shuttle Climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
@@ -149,7 +149,7 @@ Background knowledge required for safe mountain flying.
 		4. Be aware if airport doesn't allow for go arounds
 	7. Landing -- will feel fast!
 		1. Leaning procedure
-		2. Expect higher [[GS]] and [[True Airspeed]], but same [[Indicated Airspeed]]
+		2. Expect higher [[GS]] and [[TAS]], but same [[IAS]]
 
 ### Completion Standards
 Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.
