@@ -40,7 +40,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown
 
 ### Required Homework
-- [ ] Plan flight to Kingdon Airpark (O20), or other airport >=51nm away^[This distanace makes the flight count as cross-country, which requires a straightline distance of at least 50nm. We'll use 51nm minimum, to make the checkride smoother, but in your own flights >=50nm can count as cross-country.]
+None
 
 ### Recommended Homework
 None
