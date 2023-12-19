@@ -66,11 +66,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 	4. External Pressures
 		1. How to identify
 		2. How to mitigate
-2. Considerations when choosing a route
-	1. Airspace
-	2. Hazards
-	3. 
-3. [[Pilots Cross-Country Checklist]]
+2. Consider reviewing [[Pilots Cross-Country Checklist]]
 
 ### Completion Standards
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning. Learner creates their personal minimums.

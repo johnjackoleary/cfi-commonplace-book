@@ -23,10 +23,10 @@ Ground 1.0, Flight – multiple during dual cross-country flights
 [[E6B]]
 
 ### Lesson Elements
-1. Pilotage
+1. [[Pilotage]]
 	1. Reading charts and navigating by visual landmarks
 	2. Following flight plans
-2. Dead reckoning
+2. [[Dead Reckoning]]
 	1. Navigation by direction, airspeed, distance and time
 	2. Flight log forms, and updating during flight
 	3. Mental arithmetic - time, speed, distance
