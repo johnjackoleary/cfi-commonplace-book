@@ -50,7 +50,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 			1. Weather theory -- see [[Aviation Weather Handbook]] for best resources
 			2. Weather briefings in depth
 				1. Structure of weather briefings
-				2. Adverse conditions: TFRs, NOTAMS, SIGMETs, AIRMETs, etc.
+				2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s, etc.
 				3. Current weather
 				4. Forecasts: Area, TAFs, Winds Aloft
 			3. Types of weather briefings from Flight Service

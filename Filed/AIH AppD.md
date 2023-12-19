@@ -3,7 +3,10 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* Your Personal Minimums Checklist
+	* Is an easy-to-use, personal tool tailored to your level of skill, knowledge, and ability.
+	* Helps you control and manage risk by identifying even subtle risk factors.
+	* Allows you to fly with less stress and less risk. Practice “Conservatism Without Guilt.”
 
 #source #handbook/aih 
 
