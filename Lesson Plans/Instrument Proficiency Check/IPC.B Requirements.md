@@ -25,4 +25,4 @@ The [[Instrument ACS]] notes the following areas as minimum required tasks for a
 ***See also***: [[AC 61-98]]
 
 > [!tip]
-> The goal is to get the learner back to roughly the same proficiency they were at their checkride. A [[IPC]] is not pass/fail -- it is about training as needed to regain proficiency.
+> The goal of an [[IPC]] is to get the learner back to roughly the same proficiency they were at their checkride.
