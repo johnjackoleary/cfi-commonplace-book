@@ -23,12 +23,13 @@ Develop understanding of aircraft performance and limitations, and the ability t
 1. Organization of [[POH]]
 2. Using an [[E6B]]
 3. Weight and Balance calculations
-	1. Effect of CG location on stability and performance
+	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
 	2. Effect of gross weight on performance
 4. Performance calculations
 	1. Takeoff and landing distances for ground roll and obstacle clearance
 	2. Rate of climb and time to climb
 	3. Power settings for cruise, airspeed and fuel burn
+	4. Considerations for not a new aircraft
 5. [[Leaning the Mixture]]
 6. Flight planning for cross-country flights
 

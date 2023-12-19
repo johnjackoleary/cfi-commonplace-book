@@ -1,6 +1,4 @@
-***Definition***    :: Landmark to Landmark Flying
-***Source***         :: 
+***Definition***    :: Navigation by visual reference to landmarks
+***Source***         :: [[PHAK Glossary]]
 
 #glossary
-
-#todo :: add official def'n
