@@ -14,7 +14,7 @@ Develop understanding of aircraft performance and limitations, and the ability t
 [[PPL.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
-2 hours ground
+3 hours ground
 
 ### CFI Equipment
 - [[E6B]] Calculator or App
@@ -23,31 +23,29 @@ Develop understanding of aircraft performance and limitations, and the ability t
 
 ### Lesson Elements
 1. Organization of [[POH]]
-2. Flight planning for cross-country flights
-	1. [[Wind Triangle]]
-	2. Key Terminology
-		1. 
-	3. Navigation Logs^[These are used extensively in [[PPL.22 Pilotage and Dead Reckoning]]]
-		1. Done by hand
-		2. Done electronically
-4. Weight and Balance calculations
+2. Weight and Balance calculations
 	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
 	2. Effect of gross weight on performance
-5. Performance calculations
+3. Flight planning for cross-country flights
+	1. [[Wind Triangle]] and key terminology
+	3. Charting a [[course]]: [[Sectional Chart with Checkpoints.jpeg]]
+	4. Navigation Logs^[These are used extensively in [[PPL.22 Pilotage and Dead Reckoning]]]
+		1. Done by hand or electronically
+4. Performance calculations
 	1. Using an [[E6B]]
 		1. Practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
 	2. Takeoff and landing distances for ground roll and obstacle clearance
 	3. Rate of climb and time to climb
 	4. Power settings for cruise, airspeed and fuel burn
 	5. [[Personal Minimums]] and other safety factor considerations 
-6. [[Leaning the Mixture]]
+5. Importance of and methods for [[Leaning the Mixture]]
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
 - Use of aircraft performance charts pertaining to cross-country flight
 
 ### Completion Standards
-Client should develop knowledge of [[POH]]/[[AFM]] organization, and ability to use POH to safely and conservatively plan cross country flights, including weight and balance calculations.
+Client should develop knowledge of [[POH]]/[[AFM]] organization, and ability to safely and conservatively plan cross country flights, including performance and weight & balance calculations.
 
 ### Required Homework
 - [ ] Memorize sections of [[POH]]
