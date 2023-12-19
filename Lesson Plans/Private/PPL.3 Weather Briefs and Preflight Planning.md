@@ -14,6 +14,8 @@ Develop initial knowledge of and sources for preflight briefings.
 - [[AC 91-92]]
 - [[Aviation Weather Handbook]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 

@@ -9,6 +9,8 @@ Develop knowledge, risk management, and skills associated with forward slips to 
 - [[POH]]
 - [[Private Pilot ACS]] Sec IV-M
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.13 Normal and Crosswind Approaches and Landings]]
 

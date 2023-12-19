@@ -8,6 +8,8 @@ Develop knowledge and skills associated with pilotage navigation by reference to
 ### Resources
 N/A
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.7 Navigation Charts and National Airspace System]]
 

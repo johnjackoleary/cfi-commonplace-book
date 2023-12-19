@@ -9,6 +9,8 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 - [[Aviation Weather Handbook]]
 - [[AC 91-92]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.3 Weather Briefs and Preflight Planning]]
 

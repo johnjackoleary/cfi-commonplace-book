@@ -8,6 +8,8 @@ Get a feel for flying by actually taking the controls once airborne.
 ### Resources
 N/A
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 N/A
 

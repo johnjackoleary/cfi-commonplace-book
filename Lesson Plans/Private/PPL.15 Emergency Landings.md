@@ -9,6 +9,8 @@ Develop knowledge and skills associated with emergency landings, including choos
 - [[AFM]]/[[POH]]
 - [[Private Pilot ACS]] Section IX
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.13 Normal and Crosswind Approaches and Landings]]
 - [[PPL.14 Forward Slips to Landing]]

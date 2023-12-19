@@ -9,6 +9,8 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 - [[Private Pilot ACS]] Sec VII-B and -C
 - [[POH]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.6 Maneuvering During Slow Flight]]
 

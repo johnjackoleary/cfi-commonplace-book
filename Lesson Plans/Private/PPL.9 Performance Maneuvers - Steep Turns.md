@@ -8,6 +8,8 @@ Develop knowledge of the aerodynamics of steep turns, including load factor and 
 ### Resources
 - [[Private Pilot ACS]] Sec V-A
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]
 

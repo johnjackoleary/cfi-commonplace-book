@@ -11,6 +11,8 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 - [[POH]]
 - [[Private Pilot ACS]] Sec VII-D
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.6 Maneuvering During Slow Flight]]
 - [[PPL.8 Power-On and Power-Off Stalls]]

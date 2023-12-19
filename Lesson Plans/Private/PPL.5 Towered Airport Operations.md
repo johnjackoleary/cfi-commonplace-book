@@ -11,6 +11,8 @@ Understand airport operations, including communications, traffic patterns, and l
 - Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communication Examples|common radio calls]], and [[Light Gun Signals]]
 - [[Private Pilot ACS]] Sec III
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 N/A
 

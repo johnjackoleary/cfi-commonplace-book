@@ -9,6 +9,9 @@ tags:
 > [!note]
 > “Lessons” will often consist of multiple ground and/or flight sessions.
 
+> [!note]
+> Relevant ground school or home study content to prep before each lesson can be found in [[~ PPL Pre-Lesson Reading]].
+
 #### Stage 1: Pre-Solo
 [[PPL.0 Optional Introductory or Demo Flight]]
 [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]

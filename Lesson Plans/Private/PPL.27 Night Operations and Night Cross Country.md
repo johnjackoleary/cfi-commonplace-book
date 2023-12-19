@@ -8,6 +8,8 @@ Develop knowledge and skill pertaining to night flight.
 ### Resources
 - [[Private Pilot ACS]] Section XI
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.5 Towered Airport Operations]]
 - [[PPL.7 Navigation Charts and National Airspace System]]

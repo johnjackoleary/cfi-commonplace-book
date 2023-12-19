@@ -12,6 +12,8 @@ Prepare for practical test oral and flight portions.
 - [[AIM]]
 - Chart Supplements
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[~ PPL Lesson Plan Outline|All Lessons]]
 

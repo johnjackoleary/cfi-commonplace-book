@@ -10,6 +10,8 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 - [[Pattern Precision]]
 - [skyvector.com](http://www.skyvector.com)
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]
 - [[PPL.5 Towered Airport Operations]]

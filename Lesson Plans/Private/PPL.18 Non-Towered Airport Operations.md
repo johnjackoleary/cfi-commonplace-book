@@ -10,6 +10,8 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 - [[Private Pilot ACS]] Section III Task B
 - [[Non-Tower Radio Communications Examples]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.5 Towered Airport Operations]]
 - [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]

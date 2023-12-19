@@ -8,6 +8,8 @@ Develop risk management and skills associated with ground reference maneuvers, i
 ### Resources
 - [[Private Pilot ACS]] Sec V-B
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]
 
