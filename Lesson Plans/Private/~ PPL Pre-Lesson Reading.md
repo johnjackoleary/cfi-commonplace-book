@@ -33,7 +33,7 @@
 | [[PPL.28 Review and Checkride Preparation]]                                                      |                                                       |                 |
 
 
-#todo :: Consider adding Jeppesen, Sporty's, King, etc.
+#todo :: Consider adding Jeppesen, Sporty's, [[King Schools]], etc.
 #todo :: feel free to add other source materials if you're using something else!
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

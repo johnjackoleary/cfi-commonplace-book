@@ -30,7 +30,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports.
 	4. Weather sources: [[AWOS]]/[[ASOS]], 1800wxbrief.com, telephone
 	5. Airport markings
 		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
-		3. Wind indicators: sock, tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
+		3. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
 		4. Runway and taxi markings - See [[PPL.5 Towered Airport Operations]]
 	6. Airport lighting
 		1. Airport beacons (white/green: land, white/white/green: military)
