@@ -20,11 +20,11 @@ Ground 1.0, Flight – multiple during dual cross-country flights
 > Can be completed at the same time as with [[PPL.21 Advanced Weather Briefs and Preflight Planning]].
 
 ### CFI Equipment
-E6-B
+[[E6B]]
 
 ### Lesson Elements
 1. Pilotage
-	1. Reading charts, and navigating by visual landmarks
+	1. Reading charts and navigating by visual landmarks
 	2. Following flight plans
 2. Dead reckoning
 	1. Navigation by direction, airspeed, distance and time

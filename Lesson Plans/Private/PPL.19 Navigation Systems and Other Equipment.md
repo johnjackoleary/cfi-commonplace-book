@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson, sim
 ---
 ### Objective
-Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of ATC capabilities and ability to use ATC assistance with radar vectors.
+Develop knowledge and ability to use onboard navigation equipment to enter and follow flight plans, and knowledge of [[ATC]] capabilities and ability to use ATC assistance with radar vectors.
 
 ### Resources
 - [[Private Pilot ACS]] Section 6
@@ -20,15 +20,15 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 ### Lesson Elements
 1. Compass and [[Compass Errors]]
 2. Radio navigation equipment
-	1. VOR
+	1. [[VOR]]
 		1. tuning and identifying
 		2. interpreting instrument and relative location
 		3. intercepting and tracking
 		4. flying direct to
-	2. GPS
+	2. [[GPS]]
 		1. preflight
 		2. using and entering flight plans
-	3. ILS, DME, ADF and other equipment
+	3. [[ILS]], [[DME]], [[ADF]] and other equipment
 3. Transponders, and altitude reporting equipment
 4. ADS-B In and Out
 	1. Mode C Veil
