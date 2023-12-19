@@ -1,4 +1,5 @@
 #todo :: Add more info on the types of airspeeds, etc
+[[TAS]], [[CAS]], [[IAS]]
 
 # Key Takeaways
 
