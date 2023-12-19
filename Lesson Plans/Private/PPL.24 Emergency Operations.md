@@ -13,6 +13,8 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 ### Resources
 - [C172 Electrical System Interactive Tool](http://avitmedia.aero.und.edu/c172sElectrical/index.html) from [[UND]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.15 Emergency Landings]]
 

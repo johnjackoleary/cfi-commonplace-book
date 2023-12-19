@@ -9,6 +9,8 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 - [[Private Pilot ACS]] Sec IV-B
 - [[AFM]]/[[POH]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.6 Maneuvering During Slow Flight]]
 - [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]

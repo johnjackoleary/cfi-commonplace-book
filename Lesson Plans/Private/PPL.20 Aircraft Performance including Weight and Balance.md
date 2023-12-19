@@ -8,6 +8,8 @@ Develop understanding of aircraft performance and limitations, and the ability t
 ### Resources
 - [[POH]]/[[AFM]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 N/A
 

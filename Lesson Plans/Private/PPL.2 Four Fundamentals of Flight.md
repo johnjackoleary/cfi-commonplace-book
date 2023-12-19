@@ -8,6 +8,8 @@ Practice the fundamentals of straight and level (S&L) flight, turns, climbs, and
 ### Resources
 N/A
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 N/A
 

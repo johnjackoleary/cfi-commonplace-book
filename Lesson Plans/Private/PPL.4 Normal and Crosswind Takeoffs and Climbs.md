@@ -9,6 +9,8 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 - [[Private Pilot ACS]] Sec IV
 - [[POH]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.2 Four Fundamentals of Flight]]
 

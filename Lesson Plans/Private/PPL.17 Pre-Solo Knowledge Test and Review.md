@@ -9,6 +9,8 @@ Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, e
 - Phase Check Form (if applicable)
 - [[POH]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 All pre-solo lessons
 

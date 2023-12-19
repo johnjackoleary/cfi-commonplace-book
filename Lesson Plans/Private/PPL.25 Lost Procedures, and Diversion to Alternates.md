@@ -8,6 +8,8 @@ Develop skills and procedures to identify aircraft location, with on-board chart
 ### Resources
 - [[Private Pilot ACS]] VI-C (diversion) and VI-D (lost procedures)
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.19 Navigation Systems and Other Equipment]]
 - [[PPL.22 Pilotage and Dead Reckoning]]

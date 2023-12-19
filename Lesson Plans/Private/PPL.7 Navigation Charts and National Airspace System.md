@@ -10,6 +10,8 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 - [[KPAO Chart Supplement.pdf]]
 - [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.5 Towered Airport Operations]]
 

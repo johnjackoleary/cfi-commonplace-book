@@ -8,6 +8,8 @@ Develop knowledge and skill in recognition of and recovery from unusual attitude
 ### Resources
 - [[IFH]] Ch7
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
 

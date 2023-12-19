@@ -9,6 +9,8 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 - [[Private Pilot ACS]] Section 6
 - Manuals for all installed equipment in the plane
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.7 Navigation Charts and National Airspace System]]
 

@@ -9,6 +9,8 @@ Develop skills associated with preparation for safe flight, including preflight 
 - [[POH]]
 - [[Private Pilot ACS]] II and XII
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 N/A
 

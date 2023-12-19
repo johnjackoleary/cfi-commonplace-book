@@ -8,6 +8,8 @@ Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and
 ### Resources
 - [[Private Pilot ACS]] Sec IV Task E-F
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]
 - [[PPL.13 Normal and Crosswind Approaches and Landings]]

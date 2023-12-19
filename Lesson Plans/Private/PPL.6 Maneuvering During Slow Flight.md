@@ -8,6 +8,8 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 ### Resources
 - [[Private Pilot ACS]] Sec VII
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL.2 Four Fundamentals of Flight]]
 
