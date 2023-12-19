@@ -23,21 +23,24 @@ Develop understanding of aircraft performance and limitations, and the ability t
 
 ### Lesson Elements
 1. Organization of [[POH]]
-2. Using an [[E6B]]
-	1. Practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
-3. Weight and Balance calculations
-	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
-	2. Effect of gross weight on performance
-4. Performance calculations
-	1. Takeoff and landing distances for ground roll and obstacle clearance
-	2. Rate of climb and time to climb
-	3. Power settings for cruise, airspeed and fuel burn
-	4. [[Personal Minimums]] and other safety factor considerations 
-5. [[Leaning the Mixture]]
-6. Flight planning for cross-country flights
-	1. Navigation Logs^[These are used extensively for [[PPL.22 Pilotage and Dead Reckoning]]]
+2. Flight planning for cross-country flights
+	1. [[Wind Triangle]]
+	2. Key Terminology
+		1. 
+	3. Navigation Logs^[These are used extensively in [[PPL.22 Pilotage and Dead Reckoning]]]
 		1. Done by hand
 		2. Done electronically
+4. Weight and Balance calculations
+	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
+	2. Effect of gross weight on performance
+5. Performance calculations
+	1. Using an [[E6B]]
+		1. Practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
+	2. Takeoff and landing distances for ground roll and obstacle clearance
+	3. Rate of climb and time to climb
+	4. Power settings for cruise, airspeed and fuel burn
+	5. [[Personal Minimums]] and other safety factor considerations 
+6. [[Leaning the Mixture]]
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
