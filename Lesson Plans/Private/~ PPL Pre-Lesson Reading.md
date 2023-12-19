@@ -16,7 +16,7 @@
 | [[PPL.11 Spin Awareness and Spin Recovery]]                                                      | ~~[[AFH Ch5]]~~, ~~[[PHAK Ch5]]~~                     |
 | [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]                                             | [[AFH Ch8]], ~~[[PHAK Ch14]]~~, [[AIM 4-3]]           |
 | [[PPL.13 Normal and Crosswind Approaches and Landings]]                                          | [[AFH Ch9]]                                           |
-| [[PPL.14 Forward Slips to Landing]]                                                              | ~~[[AFH Ch9]]~~                                       |
+| [[PPL.14 Forward Slips and No Flap Landings]]                                                              | ~~[[AFH Ch9]]~~                                       |
 | [[PPL.15 Emergency Landings]]                                                                    | [[PHAK Ch7]], [[AFH Ch18]]                            |
 | [[PPL.16 Short- and Soft-Field Takeoffs and Landings]]                                           | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
 | [[PPL.17 Pre-Solo Knowledge Test and Review]]                                                    | [[PHAK Ch9]], [[POH]], [[Part 91 Review Assignment]]  |
