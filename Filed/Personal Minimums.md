@@ -9,7 +9,7 @@
 > In fuel calculations, you wouldn’t dream of planning a flight that would force you to use your reserve fuel, or (worse) take you to the “unusable fuel” level in the tanks. In skill calculations, you shouldn’t consider making a flight that requires use of skills at the “reserve” or (worse) “unusable fuel” level of your piloting ability.
 
 # Using Your Personal Minimums
-There are several formats for personal minimums. Two common approaches are absolute minimums^[Not an official term, as far as Jack can tell.] and risk stacking^[Not an official term, as far as Jack can tell, but referenced in [this writeup](https://www.aopa.org/news-and-media/all-news/2022/august/pilot/what-went-wrong-risk-stacking) from [[AOPA]].].
+There are several formats for personal minimums. Two common approaches are absolute minimums^[Not an official term, as far as Jack can tell. #todo :: find official term] and risk stacking^[Not an official term, as far as Jack can tell, but referenced in [this writeup](https://www.aopa.org/news-and-media/all-news/2022/august/pilot/what-went-wrong-risk-stacking) from [[AOPA]]. #todo :: find official term].
 
 ## Absolute Minimums
 Some pilots prefer to set minimums that are absolute minimums: if the conditions violate any line item, then the flight is a no-go.
@@ -22,7 +22,7 @@ This makes [[ADM]] simpler in some ways, since minimums can be used just like an
 Personal minimums can also be considered as input to a total risk equation. Any one item may not make the flight too risky, but 2+ (or even one significant item) would make the flight a no-go.
 
 > [!example]
-> Flying in [[MVFR]] may normally be the edge of your personal minimums, but it adds risk. If you where additionally flying a new airplane, these two risks stack and you may decide no-go.
+> Flying in [[MVFR]] may normally be the edge of your personal minimums, so it adds additional risk. If you were additionally flying a new airplane, these two risks stack and you may decide no-go.
 
 There are a few flavors of this approach. Generally, counting up risk factors to a general limit or tallying your experience to compare with mission difficulty.
 
@@ -42,6 +42,8 @@ Some pilots include adjustments to their minimums based on particular circumstan
 > When the blow exceeds 20 knots, you must be on top of your game, and above 25 knots is for serious players only.
 
 For additional methods to find your wind minimums, see [[Personal Minimums for Wind]].
+
+#todo :: add additional expert sources on setting your personal minimums along specific dimensions
 
 # Additional Resources
 - [[AIH AppD]]

@@ -2,7 +2,6 @@
 
 # Details
 
-Cirrus concerns in particular
 # Additional Resources
 - [[Aircraft Icing]]
 - [[How to Properly Use an Icing Forecast]]
