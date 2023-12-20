@@ -17,5 +17,5 @@ Relates to [[PHAK Ch17]]
 
 #todo :: add [[Night Visual Illusions]]
 
-#todo :: Elaborate on this
+#todo :: Elaborate on this and clean it up (also related to Github Issue [#29](https://github.com/johnjackoleary/cfi-commonplace-book/issues/29))
 

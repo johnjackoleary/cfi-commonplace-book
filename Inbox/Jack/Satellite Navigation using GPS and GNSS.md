@@ -7,8 +7,8 @@
 ## Using and Interpreting [[CDI]]
 
 # Additional Resources
-- 
+- [[PHAK Ch16]]
 
-Related To: [[Ground-Based Navigation using VOR, DME, and ILS]]
+***Related To***: [[Ground-Based Navigation using VOR, DME, and ILS]]
 
 #concept
