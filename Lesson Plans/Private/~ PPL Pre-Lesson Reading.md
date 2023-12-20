@@ -22,7 +22,7 @@
 | [[PPL.17 Pre-Solo Knowledge Test and Review]]                                                    | [[PHAK Ch9]], [[Part 91 Review Assignment]]           |                 |
 | [[PPL.18 Non-Towered Airport Operations]]                                                        | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |                 |
 | [[PPL.19 Navigation Systems and Other Equipment]]                                                | [[PHAK Ch8]], [[PHAK Ch16]]                           |                 |
-| [[PPL.20 Flight Planning, Aircraft Performance including Weight and Balance]]                                     | [[PHAK Ch10]], [[PHAK Ch11]]                          | Section 5,6    |
+| [[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]]                                     | [[PHAK Ch10]], [[PHAK Ch11]]                          | Section 5,6    |
 | [[PPL.21 Advanced Weather Briefs and Preflight Planning]]                                        | [[PHAK Ch2]], [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]] |                 |
 | [[PPL.22 Pilotage and Dead Reckoning]]                                                           | ~~[[PHAK Ch16]]~~                                     |                 |
 | [[PPL.23 Emergency Flight by Instruments - Four Fundamentals]]                      | ~~[[AFH Ch18]]~~                                      |                 |
