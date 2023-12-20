@@ -26,7 +26,7 @@ Develop understanding of aircraft performance and limitations, and the ability t
 	2. Effect of gross weight on performance
 3. Flight planning for cross-country flights
 	1. [[Wind Triangle]] and relevant terminology
-	3. Charting a [[course]]: [[Sectional Chart with Checkpoints.jpeg]]
+	3. Charting a [[Course]]: [[Sectional Chart with Checkpoints.jpeg]]
 		1. Considerations for hazards and airspace along the course
 	4. Navigation Logs^[These are used extensively in [[PPL.22 Pilotage and Dead Reckoning]]]
 		1. Done by hand:
