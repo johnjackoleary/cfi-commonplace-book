@@ -37,17 +37,17 @@ tags:
 #### Stage II: Navigation and Cross-Country Flight
 [[PPL.18 Non-Towered Airport Operations]]
 [[PPL.19 Navigation Systems and Other Equipment]]
-[[PPL.20 Aircraft Performance including Weight and Balance]]
+[[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]]
 [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
 [[PPL.22 Pilotage and Dead Reckoning]]
-[[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]
+[[PPL.23 Emergency Flight by Instruments - Four Fundamentals]]
 [[PPL.24 Emergency Operations]]
-[[PPL.25 Lost Procedures, and Diversion to Alternates]]
+[[PPL.25 Lost Procedures and Diversion to Alternates]]
 
 (Cross Country Phase Check and Solo Cross Countries)
 
 #### Stage III: Night Flying and Checkride Preparation
-[[PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]]
+[[PPL.26 Emergency Flight by Instruments - Unusual Attitude Recovery]]
 [[PPL.27 Night Operations and Night Cross Country]]
 [[PPL.28 Review and Checkride Preparation]]
 
@@ -63,4 +63,4 @@ tags:
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Nov 14, 2023.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Dec 20, 2023.

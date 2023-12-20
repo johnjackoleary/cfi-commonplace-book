@@ -26,4 +26,4 @@ tags:
 
 ---
 
-![[PPL.25 Lost Procedures, and Diversion to Alternates]]
+![[PPL.25 Lost Procedures and Diversion to Alternates]]

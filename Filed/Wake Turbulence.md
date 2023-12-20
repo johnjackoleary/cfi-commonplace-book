@@ -37,8 +37,7 @@
 - [[Induced Drag]]
 
 ## FAA Definition
-#todo :: add this
-***Definition***    :: 
-***Source***         :: 
+***Definition***    :: Wingtip vortices that are created when an airplane generates lift. When an airplane generates lift, air spills over the wingtips from the high pressure areas below the wings to the low pressure areas above them. This flow causes rapidly rotating whirlpools of air called wingtip vortices or wake turbulence.
+***Source***         :: [[PHAK Glossary]]
 
 #glossary #concept

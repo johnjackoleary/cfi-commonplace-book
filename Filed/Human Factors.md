@@ -15,5 +15,7 @@ Relates to [[PHAK Ch17]]
 | PA.I.H.K1k | Optical #illusions ([[ICEFLAGGS]])                                       |
 | PA.I.H.K1l | Dissolved nitrogen in the bloodstream after scuba dives |
 
-#todo :: Elaborate on this
+#todo :: add [[Night Visual Illusions]]
+
+#todo :: Elaborate on this and clean it up (also related to Github Issue [#29](https://github.com/johnjackoleary/cfi-commonplace-book/issues/29))
 

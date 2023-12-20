@@ -50,7 +50,7 @@ From [[FAR 61.109 Private Pilot Reqs]]:
 - [ ] 3 hours dual in prep for practical in 2 month prior to test 61.109(a)(4)
 - [ ] 10 hours solo (including as follows:) 61.109(a)(5)
 	- [ ] 5 hours solo XC 61.109(a)(5)(i)
-	- [ ] 1 solo XC 150 NM distance, 50+NM leg, 3 points FS 61.109(a)(5)(ii)
+	- [ ] 1 solo XC 150 NM distance, 50+ NM leg from point of departure^[See [[Keller 2009]]], 3 points FS 61.109(a)(5)(ii)
 	- [ ] 3 solo TO/LDG full-stop at airport with operating control tower 61.109(a)(5)(iii)
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
