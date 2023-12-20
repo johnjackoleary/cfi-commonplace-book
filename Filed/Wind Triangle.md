@@ -4,6 +4,6 @@
 ![[Wind Triangle.jpeg]]
 
 > [!note]
-> The wind triangle shows how various concepts interact, such as [[course]], [[track]], [[heading]], [[drift angle]], [[WCA]], [[airspeed]], and [[GS]]. 
+> The wind triangle shows how various concepts interact, such as [[Course]], [[Track]], [[Heading]], [[Drift Angle]], [[WCA]], [[airspeed]], and [[GS]]. 
 
 #glossary

@@ -26,16 +26,16 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 		3. intercepting and tracking
 		4. flying direct to
 	2. [[ILS]], [[DME]], [[ADF]] and other equipment
-3.  [[GPS]]
-		1. preflight
-		2. using and entering flight plans
-4. Transponders, and altitude reporting equipment
-5. [[ADS-B]] In and Out 
+	3. [[GPS]]
+			1. preflight
+			2. using and entering flight plans
+3. Transponders, and altitude reporting equipment
+4. [[ADS-B]] In and Out 
 	1. Mode C Veil
-6. Autopilot
+5. Autopilot
 	1. preflight
 	2. single/dual axis
-7. ATC services and assistance available
+6. ATC services and assistance available
 	1. Flight following (and [[Flight Following Radio Communication Examples]])
 	2. Airport Surveillance Radar ([[ASR]])
 
