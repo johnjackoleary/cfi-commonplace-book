@@ -23,12 +23,11 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 	1. [[Ground-Based Navigation using VOR, DME, and ILS]]
 	2. [[Satellite Navigation using GPS and GNSS]]
 6. [[Transponder]]s, and altitude reporting equipment
-7. [[ADS-B]] In and Out 
-	1. Mode C Veil
-8. Autopilot
+	1. [[ADS-B]]
+7. Autopilot
 	1. preflight
 	2. single/dual axis
-9. ATC services and assistance available
+8. ATC services and assistance available
 	1. Flight following (and [[Flight Following Radio Communication Examples]])
 	2. Airport Surveillance Radar ([[ASR]])
 
