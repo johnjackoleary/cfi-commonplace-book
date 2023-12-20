@@ -22,7 +22,7 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 2. Radio navigation equipment
 	1. [[Ground-Based Navigation using VOR, DME, and ILS]]
 	2. [[Satellite Navigation using GPS and GNSS]]
-6. Transponders, and altitude reporting equipment
+6. [[Transponder]]s, and altitude reporting equipment
 7. [[ADS-B]] In and Out 
 	1. Mode C Veil
 8. Autopilot
