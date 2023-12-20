@@ -17,7 +17,6 @@
 - A [[Aircraft Gait Charts|variety of gait charts]] (pitch+power+config) for commonly used airplanes
 
 ### Aviation Fan Interested in Growing Your Knowledge
-- [[+ Maneuvers]]
 - [[+ Concepts]]
 - Check out the Obsidian Graph View
 
