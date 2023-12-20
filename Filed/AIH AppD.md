@@ -9,5 +9,3 @@
 	* Allows you to fly with less stress and less risk. Practice “Conservatism Without Guilt.”
 
 #source #handbook/aih 
-
-#todo :: add key quotes
