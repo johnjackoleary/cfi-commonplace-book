@@ -20,22 +20,15 @@ Develop knowledge and ability to use onboard navigation equipment to enter and f
 ### Lesson Elements
 1. Compass and [[Compass Errors]]^[Especially relevant to [[PPL.22 Pilotage and Dead Reckoning]]]
 2. Radio navigation equipment
-	1. [[VOR]]
-		1. tuning and identifying
-		2. interpreting instrument and relative location
-		3. intercepting and tracking
-		4. flying direct to
-	2. [[ILS]], [[DME]], [[ADF]] and other equipment
-	3. [[GPS]]
-			1. preflight
-			2. using and entering flight plans
-3. Transponders, and altitude reporting equipment
-4. [[ADS-B]] In and Out 
+	1. [[Ground-Based Navigation using VOR, DME, and ILS]]
+	2. [[Satellite Navigation using GPS and GNSS]]
+6. Transponders, and altitude reporting equipment
+7. [[ADS-B]] In and Out 
 	1. Mode C Veil
-5. Autopilot
+8. Autopilot
 	1. preflight
 	2. single/dual axis
-6. ATC services and assistance available
+9. ATC services and assistance available
 	1. Flight following (and [[Flight Following Radio Communication Examples]])
 	2. Airport Surveillance Radar ([[ASR]])
 
