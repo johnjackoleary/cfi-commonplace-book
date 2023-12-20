@@ -44,10 +44,14 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 			7. Pitot-static, vacuum/pressure, and associated flight instruments
 			8. Environmental
 			9. Deicing and anti-icing
-		3. How to share expenses? [[AC 61-142]]
+		3. How to share expenses? [[AC 61-142]] and [[FAR 61.113]]
 	3. Environment
 		1. Weather
 			1. Weather theory -- see [[Aviation Weather Handbook]] for best resources
+				1. Air Masses and Fronts
+				2. Atmospheric Stability
+					1. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
+				3. Thunderstorms, wind shear, ice, and other hazards
 			2. Weather briefings in depth
 				1. Structure of weather briefings
 				2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s, etc.
@@ -76,7 +80,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
 
 ### Required Homework
-- [ ] Draft personal minimums
+- [ ] Draft [[personal minimums]]
 
 ### Recommended Homework
 None
