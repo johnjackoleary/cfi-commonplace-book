@@ -8,12 +8,26 @@ const fileAndQuery = new Map([
     "+ Recently Updated",
     'LIST rows.file.link FROM "Filed" OR "Lesson Plans" WHERE !contains(file.name, "+ ") GROUP BY (file.mday) AS Modified SORT Modified DESC LIMIT 10',
   ],
-  ["+ Acronyms", 'TABLE WITHOUT ID file.link AS "Acronyms: ", meaning AS "Meaning" FROM #acronym AND !"Templates" SORT file.link ASC'],
-  ["+ Concepts", 'List FROM #concept AND "Filed" SORT file.name'],
-  ["+ Glossary", 'TABLE WITHOUT ID file.link AS "", definition AS "Definition", source AS "Source" FROM #glossary AND !"Templates" SORT file.link'],
-  ["+ Maneuvers", 'LIST FROM #maneuver AND !"Templates"'],
-  ["+ Quotes", 'TABLE WITHOUT ID "[["+file.path+"|...]]" AS "", quote AS "Quote", author AS "Author" FROM #quote AND !"Templates" SORT file.mtime DESC'],
-  ["+ Sources", 'TABLE WITHOUT ID file.link AS "Sources: ", choice(Description = [[Source Template]].Description, regexreplace(substring(Link, 1), "\].*", ""), Description) as "Description" FROM #source AND !"Templates" WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") SORT regexreplace(file.name, "Ch(\d)$", "Ch0$1")'],
+  [
+	  "+ Acronyms",
+	  'TABLE WITHOUT ID file.link AS "Acronym", meaning AS "Meaning" FROM #acronym AND "Filed" SORT file.link ASC'
+  ],
+  [
+	  "+ Concepts", 
+	  'List FROM #concept AND "Filed" SORT file.name'
+  ],
+  [
+	  "+ Glossary", 
+	  'TABLE WITHOUT ID file.link AS "", definition AS "Definition", source AS "Source" FROM #glossary AND "Filed" SORT file.link'
+  ],
+  [
+	  "+ Quotes",
+	  'TABLE WITHOUT ID "[["+file.path+"|...]]" AS "", quote AS "Quote", author AS "Author" FROM #quote AND "Filed" SORT file.mtime DESC'
+  ],
+  [
+	  "+ Sources",
+	  'TABLE WITHOUT ID file.link AS "Source", choice(Description = [[Source Template]].Description, regexreplace(substring(Link, 1), "\].*", ""), Description) as "Description", filter(file.etags, (x) => (x != "#todo" AND x != "#source")) as "Tags" FROM #source AND "Filed" SORT regexreplace(file.name, "Ch([123456789])$", "Ch0$1")'
+  ],
 ]);
 
 await fileAndQuery.forEach(async (query, filename) => {

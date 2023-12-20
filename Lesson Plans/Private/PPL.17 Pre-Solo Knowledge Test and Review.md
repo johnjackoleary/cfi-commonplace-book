@@ -64,9 +64,7 @@ All pre-solo lessons
 6. Logging Solo Flight Time - FAR 61.51 
    > [!quote] 
    > A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs|FAR 61.87]]; and (iii) Is undergoing training for a pilot certificate or rating.
-5. [[WVFC Member Regulations]]
-	1. No primary student touch-and-goes are allowed in Club aircraft on any runway less than 4000 feet unless accompanied by a Club flight instructor.
-	2. Members are required to plan to land with a minimum of one hour of fuel (assuming cruise flight conditions).
+5. Review relevant club Member Regulations
 
 ### Required Logbook Phraseology
 After confirming everything for [[FAR 61.87 Student Solo Reqs]], endorse with [[Pre-Solo Endorsements]].
