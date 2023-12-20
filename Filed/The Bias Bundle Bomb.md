@@ -1,5 +1,5 @@
 ***Link***      :: https://www.youtube.com/watch?v=JPLhpxCRBxw
-***Description***      :: `= this.link`
+***Description***      :: Three cognitive biases often come together to cause us make bad decisions in aviation and in other aspects of our lives.
 ***Author*** :: [Gene Benson](https://www.youtube.com/c/GeneBensonAviation)
 
 ***Key Quotes***:

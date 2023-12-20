@@ -26,7 +26,7 @@ const fileAndQuery = new Map([
   ],
   [
 	  "+ Sources",
-	  'TABLE WITHOUT ID file.link AS "Source", choice(Description = [[Source Template]].Description, regexreplace(substring(Link, 1), "\].*", ""), Description) as "Description" FROM #source AND "Filed" WHERE !contains(file.name, "+ ") AND !contains(file.name, "~ ") SORT regexreplace(file.name, "Ch(\d)$", "Ch0$1")'
+	  'TABLE WITHOUT ID file.link AS "Source", choice(Description = [[Source Template]].Description, regexreplace(substring(Link, 1), "\].*", ""), Description) as "Description", filter(file.etags, (x) => (x != "#todo" AND x != "#source")) as "Tags" FROM #source AND "Filed" SORT regexreplace(file.name, "Ch(\d)$", "Ch0$1")'
   ],
 ]);
 
