@@ -34,7 +34,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 		6. [[Personal Minimums]] and [[ADM]]
 	2. Aircraft
 		1. Required inspections ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
-		2. Equipment
+		2. Equipment and Preflight
 			1. Primary/Secondary flight controls
 			2. Powerplant and propeller
 			3. Landing gear
@@ -49,15 +49,19 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 		1. Weather
 			1. Weather theory -- see [[Aviation Weather Handbook]] for best resources
 				1. Air Masses and Fronts
-				2. Atmospheric Stability
+					1. [[Winds Around Pressure Systems.jpeg]]
+					2. [[Isobars Reveal Pressure Gradient.jpeg]]
+					3. Warm, Cold, Stationary, and Occluded Fronts
+				2. Atmospheric Stability ([[Temp Lapse Rates Effect on Stability.jpeg]])
 					1. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
+					2. [[Convective Turbulence Avoidance.jpeg]]
 				3. Thunderstorms, wind shear, ice, and other hazards
 			2. Weather briefings in depth
 				1. Structure of weather briefings
 				2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s, etc.
 				3. Current weather
 				4. Forecasts: Area, TAFs, Winds Aloft
-			3. Types of weather briefings from Flight Service
+			3. Types of [[weather brief|weather briefings]] from Flight Service
 				1. Outlook
 				2. Standard
 				3. Abbreviated
