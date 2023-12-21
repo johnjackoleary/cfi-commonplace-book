@@ -1,6 +1,3 @@
-## From past CFIs
-[[WRIMTMS.jpg]] - [[From Lou Dietz]]
-
 ## Other URLs
 - http://www.airman.us/ifr_scanning_6.html
 - https://www.scottsasha.com/aviation/acronyms.html
