@@ -22,18 +22,18 @@
 | [[PPL.17 Pre-Solo Knowledge Test and Review]]                                                    | [[PHAK Ch9]], [[POH]], [[Part 91 Review Assignment]]  |
 | [[PPL.18 Non-Towered Airport Operations]]                                                        | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
 | [[PPL.19 Navigation Systems and Other Equipment]]                                                | [[PHAK Ch8]], [[PHAK Ch16]]                           |
-| [[PPL.20 Aircraft Performance including Weight and Balance]]                                     | [[PHAK Ch10]], [[PHAK Ch11]]                          |
+| [[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]]                                     | [[PHAK Ch10]], [[PHAK Ch11]]                          |
 | [[PPL.21 Advanced Weather Briefs and Preflight Planning]]                                        | [[PHAK Ch2]], [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]] |
 | [[PPL.22 Pilotage and Dead Reckoning]]                                                           | ~~[[PHAK Ch16]]~~                                     |
-| [[PPL.23 Emergency Flight by Reference to Instruments - Four Fundamentals]]                      | ~~[[AFH Ch18]]~~                                      |
+| [[PPL.23 Emergency Flight by Instruments - Four Fundamentals]]                      | ~~[[AFH Ch18]]~~                                      |
 | [[PPL.24 Emergency Operations]]                                                                  | ~~[[AFH Ch18]]~~, [[AIM 6]]                           |
 | [[PPL.25 Lost Procedures, and Diversion to Alternates]]                                          | ~~[[PHAK Ch16]]~~                                     |
-| [[PPL.26 Emergency Flight by Reference to Instruments - Recovery from Unusual Flight Attitudes]] | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~    |
+| [[PPL.26 Emergency Flight by Instruments - Unusual Attitude Recovery]] | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~    |
 | [[PPL.27 Night Operations and Night Cross Country]]                                              | [[AFH Ch11]]                                          |
 | [[PPL.28 Review and Checkride Preparation]]                                                      |                                                       |
 
 
-#todo :: Consider adding Jeppesen, Sporty's, King, etc.
+#todo :: Consider adding Jeppesen, Sporty's, [[King Schools]], etc.
 #todo :: feel free to add other source materials if you're using something else!
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
