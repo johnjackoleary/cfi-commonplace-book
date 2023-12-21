@@ -60,7 +60,6 @@ tags:
 [[PPL.D Suggestions for Solo Flight Practice]]
 [[PPL.E Suggestions for XC Destinations]]
 
-
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
 > [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Dec 20, 2023.

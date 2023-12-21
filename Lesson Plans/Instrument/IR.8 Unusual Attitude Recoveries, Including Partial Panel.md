@@ -9,7 +9,7 @@ tags:
 Develop student knowledge and skill in recognition of and recovery from unusual attitudes, with full- and partial-panel operations. 
 
 ### References
-IFH Ch 7 
+None
 
 ### Builds On
 

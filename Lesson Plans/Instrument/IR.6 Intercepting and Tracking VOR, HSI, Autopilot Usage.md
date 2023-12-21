@@ -10,7 +10,6 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. D
 
 ### References
 - [[Instrument ACS]] section V
-- [[IFH]] Ch 9
 - [[POH]]/[[AFM]] 
 
 ### Builds On

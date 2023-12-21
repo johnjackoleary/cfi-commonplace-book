@@ -9,8 +9,6 @@ tags:
 Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight planning, and enroute operations.
 
 ### References
-- [[AIM 4]]
-- [[IFH]] Ch 1, 2, 10
 - [[Instrument ACS]] Section 1.C
 
 ### Builds On
@@ -33,20 +31,6 @@ Ground 2 hours
 	6. [[MCA]], [[MRA]]
 	7. Finding airport and [[ARTCC]] frequencies 
 	8. Compulsory reporting points ([[AIM 5]]-3-2)
-3. Departures
-	1. Takeoff Minimums
-	2. Diverse Departure Obstacle Assessment (5-2-9) - [[TERPS]]
-		1. Obstacle Clearance Surface (40:1) 152ft/nm
-		2. Required Climb Gradient 200ft/nm
-		3. Low, Close in Obstacles
-	3. [[DP]]s: [[ODP]], [[SID]], [[DVA]], Diverse departure
-	4. Non-Standard Takeoff Minimums
-4. Arrivals
-	1. [[STAR]]s 
-5. Approaches (Part 97)
-	1. Reading plates 
-	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
-	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
 6. Flight planning 
 	1. Navigation logs, plotters, computers (E6B, etc.), wind computations
 	2. Flight plan forms and filing 
