@@ -15,14 +15,21 @@
 
 #todo :: this feels a bit verbose to include here, but seems like a good example or #flight-instruction-tips . Maybe move to a separate file and just link?
 
+
+
+Look into https://www.fergonez.net/projects/ifrsimulator/
+
+
 ## VOR
+Few videos to review and consider: https://www.youtube.com/watch?v=RTxW1VB_Qog , https://www.youtube.com/watch?v=_j0dLlRwpvk, 
+
 ### Types of VOR
 1. [[VOR]]
 2. [[VOR]]/[[DME]]
 3. [[VORTAC]]
 
 ### How VOR Works
-#todo :: add a bit more, especially with the [graphic from Wikipedia](https://en.wikipedia.org/wiki/VHF_omnidirectional_range#/media/File:VOR_principle.gif)
+#todo :: add a bit more, especially with the [[Reference vs Variable Signal Graphic]]
 
 ### Using VOR
 1. tuning and identifying
