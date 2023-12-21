@@ -2,6 +2,9 @@
 cssclass: lesson
 tags: ppl, lesson
 ---
+
+Add https://www.aopa.org/news-and-media/all-news/2017/june/flight-training-magazine/landing-with-flair
+
 ### Objective
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
 
@@ -56,17 +59,24 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		2. Set flaps, trim for final approach speed
 		3. Pitch for airspeed, power for altitude (use glidepath indicator if available). One hand on stick/yoke, other on throttle
 		4. Maintain runway centerline
-		5. Fly to [[aiming point]] ![[Stablized Approach.jpeg]]
-	4. Roundout/Flare
+		5. Transition to sideslip^[Some pilots prefer to transition a couple hundred feet [[AGL]] to have more time establishing the correct bank angle.] ![[Sideslip Approach.jpeg]]
+		6. Fly to [[aiming point]] ![[Stablized Approach.jpeg]]
+		7. > [!tip] Look at aiming point to judge approach
+	4. Roundout
 		1. Judge speed and altitude to short final
-		2. Use ailerons to maintain centerline, rudder to keep nose pointing down the runway, parallel to centerline (this is a "Side-Slip") ![[Sideslip Approach.jpeg]] 
-		3. Use side-slip to avoid drifting on touchdown ![[Drifting on Touchdown.jpeg]]
+		2. Use ailerons to maintain centerline, rudder to keep nose pointing down the runway, parallel to centerline (this is a [[Sideslip Approach.jpeg|Sideslip]])
+		3. Use sideslip to avoid drifting on touchdown ![[Drifting on Touchdown.jpeg]]
 		4. Usually start flare about one wing-span above runway (entering [[Ground Effect]])
-		5. Use peripheral vision to judge descent rate
-	5. Touchdown
-		1. Smooth power reduction and pitch increase to level off just above runway at idle power
-		2. Hold off with increasing back pressure to touch down in full-stall attitude 
-		3. ![[Well Executed Roundout.jpeg]]
+			1. [[Rod Machado]] has a helpful video on this called ["The Runway Expansion Effect"](https://www.youtube.com/watch?v=9JfoZERqM7Q)
+		5. Smooth power reduction and pitch increase to level off just above runway at idle power
+		6.  ![[Well Executed Roundout.jpeg]]
+		7. > [!tip] Look at midpoint of runway to help roundout at correct altitude
+		8. > [!tip] Use peripheral vision to judge descent rate
+	5. Flare/Touchdown
+		1. Fly level above the runway while increasing back pressure until reaching the landing attitude
+		2. After reaching landing attitude, let the runway come up to the airplane
+		3. Hold off with increasing back pressure to touch down in full-stall attitude 
+		4. > [!tip] Look at end of runway to help fly level over runway
 	6. Rollout
 		1. Maintain centerline with rudder
 		2. Deflect ailerons into the wind, gradually increasing to full deflection at taxi speed

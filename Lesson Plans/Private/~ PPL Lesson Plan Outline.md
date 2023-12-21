@@ -27,7 +27,7 @@ tags:
 [[PPL.11 Spin Awareness and Spin Recovery]]
 [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]
 [[PPL.13 Normal and Crosswind Approaches and Landings]]
-[[PPL.14 Forward Slips to Landing]]
+[[PPL.14 Forward Slips and No Flap Landings]]
 [[PPL.15 Emergency Landings]]
 [[PPL.16 Short- and Soft-Field Takeoffs and Landings]]
 [[PPL.17 Pre-Solo Knowledge Test and Review]]
