@@ -9,7 +9,6 @@ tags:
 Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
 
 ### References
-#todo update
 AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175 
 
 ### Resources

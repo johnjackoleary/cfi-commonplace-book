@@ -9,7 +9,6 @@ tags:
 Develop proficiency in flying RNAV (GPS) approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
 
 ### References
-#todo  update
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Schedule
