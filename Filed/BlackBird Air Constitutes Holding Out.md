@@ -1,4 +1,4 @@
-***Link***      :: [BlackBird Air Constitutes Holding Out](https://www.faa.gov/about/initiatives/safe_charter_operations/media/Blackbird_Letter.pdf)
+***Link***      :: [BlackBird Air Constitutes Holding Out](https://download.aopa.org/advocacy/2019/1219-blackbird%20letter.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA Chief Counsel]]
 
