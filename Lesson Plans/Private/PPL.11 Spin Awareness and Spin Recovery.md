@@ -31,7 +31,7 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 2. What aircraft are approved for spins?
 	1. Check [[POH]]. Some airplanes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
 	2. Normal category planes are test to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
-	3. Note: Parachutes are NOT required for spin training. See FitzpatrickSpartan College interpretation from FAA Chief Counsel in Feb 2018.
+	3. Note: Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018|Fitzpatrick - Spartan College interpretation from FAA Chief Counsel in Feb 2018]]
 3. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide
