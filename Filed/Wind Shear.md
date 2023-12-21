@@ -26,9 +26,8 @@ Low-level wind shear is commonly associated with passing frontal systems, thunde
 ## Microbursts
 Microbursts are a very severe form of [[LLWS]].
 
-The few visual clues are:
-- An intense rain shaft at the surface but (or?) virga at cloud base
-- A ring of blowing dust is often the only visible clue
+> [!caution] From [[AIM 7]]
+> They may be embedded in heavy rain associated with a thunderstorm or in light rain in benign appearing virga. When there is little or no precipitation at the surface accompanying the microburst, a ring of blowing dust may be the only visual clue of its existence.
 
 A typical microburst:
 - Has a horizontal diameter of 1–2 miles and a nominal depth of 1,000 feet. 
@@ -37,10 +36,16 @@ A typical microburst:
 
 ![[Effect of Microburst.jpeg]]
 
+> <a href="https://www.weather.gov/bmx/outreach_microbursts"><img alt="Microburst Animation" src="https://www.weather.gov/images/bmx/Daily/microbursts/animation.gif"></a>
+> <a href="https://www.weather.gov/bmx/outreach_microbursts">Microbursts</a>, <a href="https://www.weather.gov/disclaimert">Public Domain</a>, via [[NWS]] Birmingham, Alabama
+
+
 
 # Additional Resources
 - [[FAA P-8740-40 Wind Shear]]
 - [[AC 00-54]]
+- [[PHAK Ch12]]
+- [[AIM 7]]
 
 ## FAA Definition
 ***Definition***    :: Wind shear is a sudden, drastic change in wind speed and/or direction over a very small area.
