@@ -1,6 +1,6 @@
 ***Link***      :: [Two-Way Radio with Class C Meaning](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2006/Granby_2006_Legal_Interpretation.pdf)
 ***Description***      :: `= this.link`
-***Author*** :: [[FAA Chief Counsel]]
+***Author*** :: [[FAA Office of the Chief Counsel]]
 
 #### Key Quotes
 * the regulation requires that the operator contact the specific ATC facility responsible for the Class C airspace in question. In the case of Class C airspace, that facility is the Terminal Radar Approach Control ([[TRACON]]).

@@ -5,4 +5,4 @@
 ***Key Quotes***:
 * 
 
-#source #book #kindle #psychology
+#source #book #psychology

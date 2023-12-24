@@ -10,7 +10,7 @@ From [[AC 61-98]] Appendix F:
 	- [ ] Safety Belts (§ [[FAR 91.107 Use of Seat Belts|91.107]])
 	- [ ] Flightcrew at Station (§ 91.105)
 - [ ] **Cautions**:
-	- [ ] Careless or Reckless Operation (§ 91.13)
+	- [ ] Careless or Reckless Operation (§ [[FAR 91.13 Careless or Reckless Ops|91.13]])
 	- [ ] Dropping Objects (§ 91.15)
 	- [ ] Alcohol or Drugs (§ 91.17)
 	- [ ] Supplemental Oxygen (§ 91.211)
@@ -24,7 +24,7 @@ From [[AC 61-98]] Appendix F:
 		- [ ] Emergency Locator Transmitter (ELT) (§ 91.207)
 		- [ ] Position Lights (§ 91.209)
 		- [ ] Transponder Requirements (§ 91.215)
-		- [ ] Inoperative Instruments and Equipment (§ 91.213)
+		- [ ] Inoperative Instruments and Equipment (§ [[FAR 91.213 Inop Equip|91.213]])
 - [ ] **Maintenance**:
 	- [ ] Responsibility (§ 91.403)
 	- [ ] Maintenance Required (§ 91.405)
@@ -61,10 +61,10 @@ From [[AC 61-98]] Appendix F:
 	- [ ] Procedures (AIM chapter 5)
 - [ ] **Weather**:
 	- [ ] Meteorology (AIM chapter 7, section 1)
-	- [ ] Wake Turbulence (AIM chapter 7, section 3)
+	- [ ] [[Wake Turbulence]] (AIM chapter 7, section 3)
 
 ## External Pressure
-- [ ] Personal Minimums Worksheet
+- [ ] [[Personal Minimums]] Worksheet
 - [ ] Risk Management (3-P model)
 - [ ] Practical Test Standards ([[PTS]])/Airman Certification Standards ([[ACS]])
 

@@ -1,8 +1,5 @@
 - "it takes 3 NM to descend 1,000 feet"
 - "A general rule of thumb for initial IFR descent planning"
-A general rule of thumb for
-initial IFR descent planning in jets is the 3 to 1 formula.
-This means that 
 ***Source:*** [[IPH Ch3]]
 
 Alternatively,

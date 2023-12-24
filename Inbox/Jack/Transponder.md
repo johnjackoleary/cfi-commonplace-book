@@ -1,1 +1,0 @@
-Bit of interesting history here: https://www.boldmethod.com/blog/lists/2016/06/9-things-you-never-knew-about-the-history-of-the-transponder/

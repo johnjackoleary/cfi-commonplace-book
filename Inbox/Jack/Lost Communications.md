@@ -17,8 +17,8 @@ If VFR... #todo :: add to this
 # Additional Resources
 - [[Lost Communication Procedure Practice]]
 - [[IFR Radio Comm Part 1 General.jpeg]] and [[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
-- [[FAR 91.185]]
-- 
+- [[FAR 91.185 Lost Comms]]
+- [[Turri 2011]], [[Turri 2011]], [[Van West 2018]]
 
 ***Definition***    :: 
 ***Source***         :: 

@@ -48,7 +48,7 @@ Client should be able to answer oral questions on all topics listed in the ACS, 
 
 ### Required Homework
 - [ ] Study and practice
-- [ ] [[Part 91 Review Assignment]]
+- [ ] [[Part 91 Regulatory Review Assignment]]
 
 ### Recommended Homework 
 - [ ] Chair fly ACS maneuvers

@@ -1,6 +1,6 @@
 ***Link***      :: [Hartzell 2010](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/Data/interps/2010/Hartzell-AOPA_2010_Legal_Interpretation.pdf)
 ***Description***      :: Training for [[IR]] does not automatically meet the instrument requirements of a [[CPL]]
-***Author*** :: [[FAA Chief Counsel]]
+***Author*** :: [[FAA Office of the Chief Counsel]]
 
 #### Key Quotes
 * Specifically, you questioned the statement in the interpretation that the training for an instrument rating under 14 C.F.R. §[[FAR 61.65 Instrument Rating Reqs|61.65]](e) does not meet the requirements for aeronautical experience to obtain a commercial rotorcraft certificate under 14 C.F.R. §[[FAR 61.129 CPL Aeronautical Experience|61.129]](c)(3)(i).

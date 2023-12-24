@@ -8,7 +8,7 @@ Discuss all regulatory and knowledge areas relevant to learner's [[BFR]]. Confir
 ### References
 - Based on [[AC 61-98]] Appendix F
 - [[Conducting an Effective Flight Review]]
-- [[Part 91 Review Assignment]]
+- [[Part 91 Regulatory Review Assignment]]
 
 ### Builds On
 [[BFR.0 Preparation]]
@@ -22,7 +22,7 @@ Schedule set as part of [[BFR.0 Preparation]]
 ### Lesson Elements
 1. FAA Aviation English Language Standard (AELS) Requirement
 2. Cross-Country Flight Plan Review (assignment from [[BFR.0 Preparation]]), covering:
-	1. Regulatory Review (should demonstrate understanding of [[Part 91 Review Assignment]])
+	1. Regulatory Review (should demonstrate understanding of [[Part 91 Regulatory Review Assignment]])
 	2. Weather & Weather Decision Making
 	3. Risk Management and Personal Minimums
 	4. Performance and Limitations
