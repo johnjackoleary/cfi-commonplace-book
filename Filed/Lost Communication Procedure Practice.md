@@ -1,1 +1,1 @@
-Practice for [[FAR 91.185]] from [[EAA]]: https://www.eaa.org/eaa/pilots/eaa-pilot-proficiency/proficiency-and-education-programs/imc-club/imc-club-coordinator-resources/lost-communication-procedure-practice#
+Practice for [[FAR 91.185 Lost Comms]] from [[EAA]]: https://www.eaa.org/eaa/pilots/eaa-pilot-proficiency/proficiency-and-education-programs/imc-club/imc-club-coordinator-resources/lost-communication-procedure-practice#

@@ -1,6 +1,8 @@
 # Key Takeaways
 
 # Details
+## Known Ice vs Known Icing Conditions
+Add more on this, see [[Bell 2009]]
 
 # Additional Resources
 - [[Aircraft Icing]]

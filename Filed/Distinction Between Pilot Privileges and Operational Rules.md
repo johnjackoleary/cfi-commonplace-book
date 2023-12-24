@@ -7,6 +7,6 @@
 > 
 > If you have questions regarding sharing of operating expenses, holding out, or pilot certification rules versus operating rules, please review the FARs, Advisory Circulars, and Legal Interpretations referenced herein and below. Additionally, you may contact your local Flight Standards District Office for assistance or seek the advice of a qualified aviation attorney.
 > 
-> [FAA Legal Interpretations](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/) from [[FAA Chief Counsel]]
+> [FAA Legal Interpretations](https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations/) from [[FAA Office of the Chief Counsel]]
 > 
 > [FAA Safe Air Charter Operations](https://www.faa.gov/about/initiatives/safe_charter_operations)

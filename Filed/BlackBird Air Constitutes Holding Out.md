@@ -1,6 +1,6 @@
 ***Link***      :: [BlackBird Air Constitutes Holding Out](https://download.aopa.org/advocacy/2019/1219-blackbird%20letter.pdf)
 ***Description***      :: `= this.link`
-***Author*** :: [[FAA Chief Counsel]]
+***Author*** :: [[FAA Office of the Chief Counsel]]
 
 ***Key Quotes***:
 * pilots participating in BlackBird's platform and using its app are [[holding out]] and thus are engaged in [[common carriage]]

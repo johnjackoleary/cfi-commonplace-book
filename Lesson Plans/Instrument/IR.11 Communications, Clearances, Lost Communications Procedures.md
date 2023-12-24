@@ -58,7 +58,7 @@ Ground 2 hours
 		3. Release Time
 		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
 	6. What if I don’t like the clearance? (AIM 4-4-4)
-3. Loss of Communications (91.185)
+3. Loss of Communications ([[FAR 91.185 Lost Comms]])
 	1. Squawk 7600 
 	2. In VMC, continue VFR, land as soon as practicable. 
 	3. In IMC: 
