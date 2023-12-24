@@ -64,7 +64,7 @@ Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
 		5. Touchdown zone, touchdown zone markings, touchdown zone lights
 		6. VGSI
 	4. Threshold
-7. When is a missed approach required? ([[FAR 91.175]])
+7. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At DA or MAP, if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
 	3. During circling maneuver at or above MDA, airport not visible 

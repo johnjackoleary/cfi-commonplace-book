@@ -1,5 +1,5 @@
 ***Link***      :: [Van West 2018]()
-***Description***      :: Clarification that, though holding at clearance limit is draining for a pilot in lost comms, [[transponder]] alone is not a substitute for two-radio radio
+***Description***      :: Clarification that, though holding at clearance limit is draining for a pilot in lost comms, [[Transponder]] alone is not a substitute for two-radio radio
 ***Author*** :: [[FAA Office of the Chief Counsel]]
 
 #### Key Quotes

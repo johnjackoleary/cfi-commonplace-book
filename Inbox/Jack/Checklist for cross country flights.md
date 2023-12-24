@@ -1,1 +1,0 @@
-Idea for helping students prep, especially for day of

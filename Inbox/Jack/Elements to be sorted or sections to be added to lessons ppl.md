@@ -3,10 +3,7 @@
 
 Lots pulled into [[PPL.17 Pre-Solo Knowledge Test and Review]]
 
-Taxiing at night 
-
 ![[Vx vs Vy at Higher Altitudes.jpeg]]
-
 
 Figure out if airport lighting should be grouped with markings/wind indicators (from [[PPL.5 Towered Airport Operations]] and [[PPL.18 Non-Towered Airport Operations]]) into a whole new lesson
 
@@ -37,12 +34,6 @@ aircraft systems (perhaps as a required reading, then ask questions of student?)
 - true and magnetic (and if we should talk winds aloft)
 	- include some resources on magnetic and true north
 	- resources also for use in Sim
-
-
-4. [[Compass Errors]]
-	1. [[Variation]] - [[Compass Variation Across US.jpeg]], [[Effect of Compass Variation.jpeg]], [[Magnetic Meridians.jpeg]]
-	2. [[Deviation]] - [[Compass Deviation Card.jpeg]], [[Compass Deviation Explanation.jpeg]]
-	3. [[Magnetic Dip]]
 
 
 Regulation about attitude of aircraft

@@ -20,14 +20,14 @@ Completed before first lesson
 2. Set Expectations for Pilot Under Review
 	1. [[Conducting an Effective Flight Review]] recommends planning "one hour of ground training and one hour of flight training for every year the pilot has been out of the cockpit"
 	2. Depending on Pilot's Aeronautical History, more or less time may be required
-3. Assign [[Part 91 Review Assignment]]
+3. Assign [[Part 91 Regulatory Review Assignment]]
 4. Assign Cross-Country Flight Plan Assignment
 
 ### Completion Standards
 Learner and [[CFI]] align on goals, plan, and schedule for [[BFR]].
  
 ### Required Homework
-- [ ] [[Part 91 Review Assignment]]
+- [ ] [[Part 91 Regulatory Review Assignment]]
 - [ ] Cross-Country Flight Plan Assignment
 
 ### Recommended Homework 

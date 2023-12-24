@@ -3,7 +3,7 @@ Before First Flight:
 
 Soon After Starting:
 - Headset
-- [[Choosing Aviation Sunglasses|Sunglasses]]
+- [[Sunglasses for Pilots|Sunglasses]]
 - Bag (backpack totally fine, flight bag if you'd like)
 - SFO [[TAC]]
 - Kneeboard (simple is fine, nice if it has info like light gun signals)

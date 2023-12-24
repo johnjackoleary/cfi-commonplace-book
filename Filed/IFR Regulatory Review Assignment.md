@@ -9,12 +9,12 @@ From [[AC 61-98]] Appendix F:
 ## Aircraft
 - [ ] Fuel Requirements (§ 91.167)
 - [ ] Equipment Check (Very High Frequency Omni-Directional Range (VOR)) (§ 91.171)
-- [ ] Instrument Flight Rules (IFR) Two-Way Radio Communications Failure (§ 91.185)
+- [ ] Instrument Flight Rules (IFR) Two-Way Radio Communications Failure (§ [[FAR 91.185 Lost Comms|91.185]])
 - [ ] Malfunction Reports (§ 91.187)
-- [ ] Required Instruments and Equipment (§ 91.205)
+- [ ] Required Instruments and Equipment (§ [[FAR 91.205|91.205]])
 - [ ] Emergency Locator Transmitter (ELT) (§ 91.207)
-- [ ] Aircraft Lights (§ 91.209)
-- [ ] Inoperative Instruments and Equipment (§ 91.213)
+- [ ] Aircraft Lights (§ [[FAR 91.209|91.209]])
+- [ ] Inoperative Instruments and Equipment (§ [[FAR 91.213 Inop Equip|91.213]])
 - [ ] Altimeter and Pitot-Static System Tests (§ 91.411)
 - [ ] Air Traffic Control (ATC) Transponder Tests (§ 91.413)
 
@@ -32,6 +32,6 @@ From [[AC 61-98]] Appendix F:
 - [ ] Air Traffic Procedures (AIM chapter 5)
 
 ## External Pressure
-- [ ] IFR Two-Way Radio Communications Failure (§ 91.185)
+- [ ] IFR Two-Way Radio Communications Failure (§ [[FAR 91.185 Lost Comms|91.185]])
 - [ ] Emergency Procedures (AIM chapter 6)
 - [ ] National Security and Interception Procedures (AIM chapter 5, section 6)
