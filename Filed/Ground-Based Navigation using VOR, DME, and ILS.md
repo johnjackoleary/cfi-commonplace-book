@@ -1,6 +1,7 @@
 # Key Takeaways
-- Based primarily on [[VOR]], [[DME]], and [[ILS]]
-- Intended as a resilient [[PBN]] backup to [[Satellite Navigation using GPS and GNSS]]^[https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices]
+> [!quote] Paraphrased from [Navigation Programs](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices) by [[FAA]]
+> - Based primarily on [[VOR]], [[DME]], and [[ILS]]
+> - Intended as a resilient [[PBN]] backup to [[Satellite Navigation using GPS and GNSS]]
 
 # Details
 
@@ -53,15 +54,32 @@ Few videos to review and consider: https://www.youtube.com/watch?v=RTxW1VB_Qog ,
 3. intercepting and tracking
 4. flying direct to
 
+
+#todo :: fill this out more, maybe including practice problems (like https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141 from thebackseatpilot.com)
+
+### Regulations and Requirements
+See [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+
+#### [[VOR]] [[MON]]
+> [!quote] [Navigation Programs - Very High Frequency Omnidirectional Range Minimum Operational Network (VOR MON)](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gbng/vormon)
+> The VOR MON is designed to enable aircraft, having lost GPS service, to revert to conventional navigation procedures. This will allow users to continue through the outage area using VOR station-to-station navigation or to proceed to a MON airport where an Instrument Landing System (ILS), Localizer (LOC) or VOR approach procedure can be flown without the necessity of GPS, Distance Measuring Equipment (DME), Automatic Direction Finder (ADF), or surveillance. 
+> Any airport with a suitable instrument approach may be used for landing, but the VOR MON assures that at least one airport will be within 100 Nautical Miles (NM).
+
 ### Common Issues
 > [!warning] 
-> VHF transmissions require line-of-sight
+> [[VHF]] transmissions require line-of-sight
 
-#todo :: add more info on intercepting, tracking, and accounting for wind. can pull some of this from #ir lessons
-#todo :: fill this out more, maybe including practice problems (like https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141 from thebackseatpilot.com)
+## ILS
 #todo :: add more info on ILS
-#todo :: add info about MON
+
+## DME
+
+
+## Less Common Navaids
+### ADF
 #todo :: consider adding info about [[ADF]]
+
+
 
 # Additional Resources
 - [[PHAK Ch16]]
