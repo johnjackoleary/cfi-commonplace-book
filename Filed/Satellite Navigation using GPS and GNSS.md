@@ -1,5 +1,7 @@
 # Key Takeaways
-- [[GPS]], [[WAAS]], and [[ABAS]] are referred to collectively as Global Navigation Satellite System ([[GNSS]])^[https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss]
+- The [[FAA]] is transforming the [[NAS]] to Performance Based Navigation ([[PBN]]) to address the shortfalls of conventional [[Ground-Based Navigation using VOR, DME, and ILS|ground-based navigation]].
+- PBN allows aircraft to fly flexible point-to-point routes and parallel tracks to reduce en-route chokepoints and delays.
+- [[GPS]], [[WAAS]], and \[[[RAIM]]\]^[Technically this is any Aircraft Based Augmentation Systems (ABAS), but RAIM is the most well known.] are referred to collectively as Global Navigation Satellite System ([[GNSS]])^[https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss]
 
 # Details
 #todo :: add info on [[RAIM]]
