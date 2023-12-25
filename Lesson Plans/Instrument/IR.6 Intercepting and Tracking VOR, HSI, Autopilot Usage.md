@@ -20,22 +20,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. D
 Ground 2 hour; simulator and/or airplane, 2 hours 
 
 ### Lesson Elements
-1. [[VOR]] introduction
-	1. Azimuth Information
-	2. [[DME]]
-	3. Service Volumes (New vs. Original)
-	4. Charts 
-2. VOR, OBS, CDI, To/From indicator, HSI, tuning, identification, and receiver check (logged in last 30 days) 
-3. VOR orientation 
-	1. Where are you relative to the station? (Center CDI with FROM) 
-	2. Where are you relative to assigned course? (Parallel course, set OBS to course, CDI needle points toward the course) 
-	3. Where are you relative to intersection defined by VOR radial? (Set OBS to radial, confirm FROM, if CDI needle deflected toward station, you’re not there yet. For HSI, CDI needle ahead, you’re not there yet.) 
-4. VOR intercepts 
-	1. Use 45° intercept heading if CDI fully deflected. 
-	2. Use 20° intercept if CDI is alive. 
-5. VOR course tracking 
-	1. Wind correction angle – start with 20°s, at intercept, reduce to 10°s, keep reducing or increasing by half until it works. 
-	2. Once tracking, use small heading adjustments (few degrees) to maintain course
+1. [[Ground-Based Navigation using VOR, DME, and ILS]]
 6. DME arcs
 	1. “Turn 10, Twist 10”
 	2. Interception: Lead 90 heading perpendicular to the arc/radial by ~1 nm
