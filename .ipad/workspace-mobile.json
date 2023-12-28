@@ -4,99 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "66695cc7f5fb4fc2",
+        "id": "f2949f01b34ef46c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4b933ce7fe0cb6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "19d95146deb39318",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8e0e5d44601b9dac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ea326c7afa0abb8",
+            "id": "bdfa4e4d69e085d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2023-08-26 181625.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a72087a50f325c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Plans/Instrument/Instrument proficiency check.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6044dd72237c9a79",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "118dc7873b9ef2ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1615292b5f5734a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Interpreting Winds Aloft.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a4ccea594616ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
+                "file": "Filed/FAA.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
+            "file": "Filed/FAA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
+            "file": "Filed/FAA.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lesson Plans/Mountain/M.1 Mountain Knowledge.md"
+            "file": "Filed/FAA.md"
           }
         }
       }
@@ -217,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a4ccea594616ca1",
+  "active": "bdfa4e4d69e085d3",
   "lastOpenFiles": [
+    "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
     "Inbox/Interpreting Winds Aloft.md",
     "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
     "Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md",
@@ -246,7 +170,6 @@
     "Lesson Plans/Instrument/IR.7 GPS Navigation and Automation Management.md",
     "Lesson Plans/Instrument/IR.11 Precision Approaches.md",
     "Lesson Plans/Instrument/IR.4 Navigation Aids and Instruments.md",
-    "Filed/FAR 61.57 Recent Flight Experience.md",
     "Filed/process_jotform.py",
     "Media/Aircraft/C182P with STC/C182P with STC GAIT and Datasheet.pdf"
   ]
