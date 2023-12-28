@@ -4,5 +4,21 @@
 
 #### Key Quotes
 * Plane Sense is a handbook for aviation enthusiasts, especially aircraft owners and operators or those who are interested in becoming aircraft owners, who are looking for a quick reference guide on a number of general aviation topics.
+* Chapters
+	* Chapter 1: Aircraft Owner Responsibilities
+Chapter 11: Obtaining FAA Publications and Records
+Appendix A: FAA Contact Information
+Appendix B: Regulatory Guidance Index
+The chapters containing information about aircraft acquisition, registration, and ownership are coded in green:
+Chapter 2: Buying an Aircraft
+Chapter 3: Airworthiness Certificate
+Chapter 4: Aircraft Registration
+Chapter 5: Special Flight Permits
+Chapter 6: Light Sport Aircraft
+The chapters containing information on aircraft maintenance are coded in red:
+Chapter 7: Aircraft Maintenance
+Chapter 8: Maintenance Records
+Chapter 9: Airworthiness Directives
+Chapter 10: Service Difficulty Program
 
 #source #handbook 
