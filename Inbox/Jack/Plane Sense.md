@@ -1,5 +1,5 @@
-***Link***      :: https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/faa-h-8083-19A.pdf
-***Description***      :: 
+***Link***      :: [Plane Sense](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/faa-h-8083-19A.pdf)
+***Description***      :: Acquaints the owner or prospective owner with some fundamental information on the requirements for owning and operating a private airplane.
 ***Author*** :: [[FAA]]
 
 #### Key Quotes
