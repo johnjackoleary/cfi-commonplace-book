@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0af8f2267f20ee28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Jack/N-Number Background Info.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/Jack/Plane Sense.md",
+            "file": "Inbox/Jack/N-Number Background Info.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Inbox/Jack/Plane Sense.md",
+            "file": "Inbox/Jack/N-Number Background Info.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inbox/Jack/Plane Sense.md"
+            "file": "Inbox/Jack/N-Number Background Info.md"
           }
         }
       }
@@ -140,10 +153,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdfa4e4d69e085d3",
+  "active": "0af8f2267f20ee28",
   "lastOpenFiles": [
-    "Filed/FAA.md",
     "Inbox/Jack/Plane Sense.md",
+    "Filed/FAA.md",
     "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
     "Inbox/Interpreting Winds Aloft.md",
     "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
