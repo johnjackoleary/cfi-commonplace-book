@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Jack/Plane Sense.md",
+                "file": "Filed/Plane Sense.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Filed/FAA.md",
+            "file": "Filed/Plane Sense.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Filed/FAA.md",
+            "file": "Filed/Plane Sense.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Filed/FAA.md"
+            "file": "Filed/Plane Sense.md"
           }
         }
       }
@@ -165,11 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f2bbb4baf4ad586",
+  "active": "bdfa4e4d69e085d3",
   "lastOpenFiles": [
-    "Inbox/Jack/Plane Sense.md",
-    "Inbox/Jack/N-Number Background Info.md",
     "Filed/FAA.md",
+    "Filed/Plane Sense.md",
+    "Inbox/Jack/N-Number Background Info.md",
     "Lesson Plans/Mountain/M.1 Mountain Knowledge.md",
     "Inbox/Interpreting Winds Aloft.md",
     "Inbox/AC 90-108 - Use of suitable Area navigation (RNAV) system on Conventional Routes and Procedures.md",
