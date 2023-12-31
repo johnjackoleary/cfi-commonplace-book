@@ -84,7 +84,7 @@
     - [[Lesson Plans/Private/PPL.13 Normal and Crosswind Approaches and Landings.md|PPL.13 Normal and Crosswind Approaches and Landings]]
     - [[Lesson Plans/Private/PPL.14 Forward Slips and No Flap Landings.md|PPL.14 Forward Slips and No Flap Landings]]
     - [[Lesson Plans/Private/PPL.15 Emergency Landings.md|PPL.15 Emergency Landings]]
-    - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
+    - [[PPL.18 Non-Towered and XC Airport Operations|PPL.18 Non-Towered and XC Airport Operations]]
     - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
 
 - December 20, 2023: 

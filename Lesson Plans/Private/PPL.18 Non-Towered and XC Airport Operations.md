@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Develop knowledge of operations and traffic patterns at non-towered airports.
+Develop knowledge of operations and traffic patterns at non-towered airports, including how to arrive and depart while on a cross-country flight.
 
 ### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
