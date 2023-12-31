@@ -7,6 +7,7 @@ Develop understanding of aircraft performance and limitations, weight and balanc
 
 ### Resources
 - [[POH]]/[[AFM]]
+- [SkyVector](https://skyvector.com) for planning online
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
@@ -24,6 +25,7 @@ Develop understanding of aircraft performance and limitations, weight and balanc
 2. Weight and Balance calculations
 	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
 	2. Effect of gross weight on performance
+	3. How to calculate
 3. Flight planning for cross-country flights
 	1. [[Wind Triangle]] and relevant terminology
 	3. Charting a [[Course]]: [[Sectional Chart with Checkpoints.jpeg]]
@@ -31,7 +33,7 @@ Develop understanding of aircraft performance and limitations, weight and balanc
 	4. Navigation Logs^[These are used extensively in [[PPL.22 Pilotage and Dead Reckoning]]]
 		1. Done by hand:
 			1. Consider [ASA](https://asa2fly.com/flight-planner-pad/) or [Jeppesen](https://www.amazon.com/Jeppesen-VFR-Navigation-Log-JS436183/dp/B003VSCCJ0/ref=sr_1_36?keywords=JEPPESEN&qid=1703037416&sr=8-36)
-			2. Print a comparable one online in [horizontal](https://www.dauntless-soft.com/products/Freebies/VFRFlightPlanner/) or [vertical](https://www.reddit.com/r/flying/comments/za5mbd/comment/iykckje/?utm_source=share&utm_medium=web2x&context=3)
+			2. Print a comparable one online in [horizontal](https://www.dauntless-soft.com/products/Freebies/VFRFlightPlanner/)^[Version B seems to align best with flow from [[E6B]] instructions] or [vertical](https://www.reddit.com/r/flying/comments/za5mbd/comment/iykckje/?utm_source=share&utm_medium=web2x&context=3)
 		2. Done electronically
 			1. [Calculator with manual input](https://e6bx.com/navlog/)
 			2. Generated with info like forecasted winds from [[ForeFlight]], [SkyVector](https://skyvector.com/), or others
