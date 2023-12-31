@@ -22,7 +22,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 
 ### Lesson Elements
 > [!note] Building a Complete Navlog
-> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Navigation Systems and Other Equipment|19]], [[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a navlog.
+> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a navlog.
 > 
 > 
 

@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![[PPL.19 Navigation Systems and Other Equipment]]
+![[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
 
 ---
 

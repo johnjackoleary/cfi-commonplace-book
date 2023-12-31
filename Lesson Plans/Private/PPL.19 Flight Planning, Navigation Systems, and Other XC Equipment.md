@@ -18,7 +18,7 @@ Develop knowledge and ability to plot a course, then use onboard navigation equi
 1.5 hours ground, 1.5 hours sim
 
 ### Lesson Elements
-1. Planning a cross-country flight course
+1. Planning a cross-country flight
 	1. Charting a [[Course]]: [[Sectional Chart with Checkpoints.jpeg]]
 		1. Considerations for hazards and airspace along the course
 	2. Choosing checkpoints

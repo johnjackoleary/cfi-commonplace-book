@@ -36,8 +36,8 @@ tags:
 
 #### Stage II: Navigation and Cross-Country Flight
 [[PPL.18 Non-Towered Airport Operations]]
-[[PPL.19 Navigation Systems and Other Equipment]]
-[[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]]
+[[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
+[[PPL.20 Aircraft Performance and Weight+Balance]]
 [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
 [[PPL.22 Pilotage and Dead Reckoning]]
 [[PPL.23 Emergency Flight by Instruments - Four Fundamentals]]

@@ -12,7 +12,7 @@ N/A
 
 ### Builds On
 - [[PPL.7 Navigation Charts and National Airspace System]]
-- [[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]]
+- [[PPL.20 Aircraft Performance and Weight+Balance]]
 
 ### Schedule
 Ground 1.0, Flight – multiple during dual cross-country flights
