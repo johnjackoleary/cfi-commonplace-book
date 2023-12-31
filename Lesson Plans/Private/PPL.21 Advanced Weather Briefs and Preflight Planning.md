@@ -70,7 +70,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 			1. When to use them
 			2. How to file
 			3. How to activate and close
-		4. Airport: preparation discussed in [[PPL.18 Non-Towered and XC Airport Operations]]
+		4. Airport: preparation discussed in [[PPL.18 Non-Towered Airport Operations]]
 	4. External Pressures
 		1. How to identify
 		2. How to mitigate

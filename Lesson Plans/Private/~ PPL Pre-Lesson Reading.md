@@ -20,7 +20,7 @@
 | [[PPL.15 Emergency Landings]]                                                | [[PHAK Ch7]], [[AFH Ch18]]                            |
 | [[PPL.16 Short- and Soft-Field Takeoffs and Landings]]                       | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
 | [[PPL.17 Pre-Solo Knowledge Test and Review]]                                | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]]  |
-| [[PPL.18 Non-Towered and XC Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
+| [[PPL.18 Non-Towered Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
 | [[PPL.19 Navigation Systems and Other Equipment]]                            | [[PHAK Ch8]], [[PHAK Ch16]]                           |
 | [[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]] | [[PHAK Ch10]], [[PHAK Ch11]]                          |
 | [[PPL.21 Advanced Weather Briefs and Preflight Planning]]                    | [[PHAK Ch2]], [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]] |
