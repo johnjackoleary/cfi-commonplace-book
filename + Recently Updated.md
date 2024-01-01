@@ -1,26 +1,26 @@
 %% Update via "Update Publish Files" template %% 
 
 - January 01, 2024: 
-    - [[Filed/Thunderstorm.md|Thunderstorm]]
-    - [[Filed/MOS.md|MOS]]
-    - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
-    - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
-    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
-    - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
-    - [[Lesson Plans/Private/PPL.20 Aircraft Performance and Weight+Balance.md|PPL.20 Aircraft Performance and Weight+Balance]]
-    - [[Lesson Plans/Private/PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment.md|PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
-
-- December 31, 2023: 
     - [[Filed/Stabilized Approach.md|Stabilized Approach]]
+    - [[Filed/Thunderstorm.md|Thunderstorm]]
     - [[Filed/EFB.md|EFB]]
-    - [[Filed/TOD.md|TOD]]
     - [[Filed/FPM.md|FPM]]
-    - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
+    - [[Filed/MOS.md|MOS]]
+    - [[Filed/TOD.md|TOD]]
     - [[Lesson Plans/Commercial/CPL.9 Navigation and Diversion.md|CPL.9 Navigation and Diversion]]
     - [[Lesson Plans/G1000/G1.1 G1000 Usage.md|G1.1 G1000 Usage]]
     - [[Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md|IR.1 Introduction and Instrument Systems]]
+    - [[Lesson Plans/Private/PPL.21 Advanced Weather Briefs and Preflight Planning.md|PPL.21 Advanced Weather Briefs and Preflight Planning]]
+    - [[Lesson Plans/Private/PPL.22 Pilotage and Dead Reckoning.md|PPL.22 Pilotage and Dead Reckoning]]
     - [[Lesson Plans/Private/PPL.25 Lost Procedures and Diversion to Alternates.md|PPL.25 Lost Procedures and Diversion to Alternates]]
+    - [[Lesson Plans/Private/~ PPL Lesson Plan Outline.md|~ PPL Lesson Plan Outline]]
     - [[Lesson Plans/Private/~ PPL Pre-Lesson Reading.md|~ PPL Pre-Lesson Reading]]
+    - [[Lesson Plans/Private/PPL.18 Non-Towered Airport Operations.md|PPL.18 Non-Towered Airport Operations]]
+    - [[Lesson Plans/Private/PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment.md|PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
+    - [[Lesson Plans/Private/PPL.20 Aircraft Performance and Weight+Balance.md|PPL.20 Aircraft Performance and Weight+Balance]]
+
+- December 31, 2023: 
+    - [[Lesson Plans/Commercial/CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations.md|CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
 
 - December 30, 2023: 
     - [[Filed/FAA.md|FAA]]
