@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Develop understanding of aircraft performance and limitations, weight and balance, and the ability to safely and conservatively plan cross-country flights.
+Develop understanding of aircraft performance and limitations, weight and balance, and the ability to safely and conservatively plan a cross-country flights.
 
 ### Resources
 - [[POH]]/[[AFM]]
@@ -21,12 +21,17 @@ Develop understanding of aircraft performance and limitations, weight and balanc
 - [[E6B]] Calculator or App
 
 ### Lesson Elements
+> [!info]- Structure of XC Lessons...
+> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
+> 
+> ![[XC Syllabus Topics On Flight Plan.pdf]]
+
 1. Organization of [[POH]]
 2. Weight and Balance calculations
 	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
 	2. Effect of gross weight on performance
 	3. How to calculate
-4. Performance calculations
+3. Performance calculations
 	1. [[Wind Triangle]] and relevant terminology
 	2. Using an [[E6B]]
 		1. Finding [[TAS]]
@@ -43,7 +48,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Use of aircraft performance charts pertaining to cross-country flight
 
 ### Completion Standards
-Client should develop knowledge of [[POH]]/[[AFM]] organization, and ability to safely and conservatively plan cross country flights, including performance and weight & balance calculations.
+Client should develop knowledge of [[POH]]/[[AFM]] organization, including performance and weight & balance calculations.
 
 ### Required Homework
 - [ ] Memorize sections of [[POH]]

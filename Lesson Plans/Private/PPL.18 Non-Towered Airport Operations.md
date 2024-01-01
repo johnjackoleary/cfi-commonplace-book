@@ -18,13 +18,13 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 - [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-1.5 hours ground, 1.5 hour sim/flight
+Ground 2 hours, 1 hour sim/flight
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a navlog.
+> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
 > 
-> 
+> ![[XC Syllabus Topics On Flight Plan.pdf]]
 
 1. Pre-Flight
 	1. Sources for airport information and data (chart supplements, [[EFB]], [[AOPA]]), [[NOTAM|NOTAMs]]
@@ -45,7 +45,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 			2. PAPI![[PAPI.jpeg]]
 2. Non-towered airport operations
 	1. Pattern Planning and Entry
-		1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500[[FPM]]
+		1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
 		2. Determining the [[Active Runway]]
 		3. Planning pattern entry (and use of tools like ForeFlight)
 			1. Overhead entries, and standard 45-degree entry to traffic patterns

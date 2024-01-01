@@ -15,9 +15,14 @@ Develop knowledge and ability to plot a course, then use onboard navigation equi
 [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-2 hours ground, 1 hours sim
+Ground 2 hours, 1 hour sim
 
 ### Lesson Elements
+> [!info]- Structure of XC Lessons...
+> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
+> 
+> ![[XC Syllabus Topics On Flight Plan.pdf]]
+
 1. Planning a cross-country flight
 	1. Charting a [[Course]]: [[Sectional Chart with Checkpoints.jpeg]]
 		1. Considerations for hazards and airspace along the course
