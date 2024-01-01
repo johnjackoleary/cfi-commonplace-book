@@ -3,6 +3,10 @@
 # Details
 #todo :: expand on this to highlight dangers, formation, etc
 
+![[Thunderstorm from 37,000 feet.jpeg]]
+![[Thunderstorm Up and Downdrafts.jpeg]]
+![[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
+
 # Additional Resources
 - 
 

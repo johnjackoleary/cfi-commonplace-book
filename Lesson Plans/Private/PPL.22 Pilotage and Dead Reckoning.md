@@ -12,18 +12,23 @@ N/A
 
 ### Builds On
 - [[PPL.7 Navigation Charts and National Airspace System]]
-- [[PPL.20 Flight Planning including Aircraft Performance and Weight+Balance]]
+- [[PPL.20 Aircraft Performance and Weight+Balance]]
 
 ### Schedule
-Ground 1.0, Flight – multiple during dual cross-country flights
+Ground 1.5 hours, Flight – multiple during dual cross-country flights
 
 > [!note] 
 > Can be completed at the same time as with [[PPL.21 Advanced Weather Briefs and Preflight Planning]].
 
 ### CFI Equipment
-[[E6B]]
+- [[E6B]] Calculator or App
 
 ### Lesson Elements
+> [!info]- Structure of XC Lessons...
+> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
+> 
+> ![[XC Syllabus Topics On Flight Plan.pdf]]
+
 1. [[Pilotage]]
 	1. Reading charts and navigating by visual landmarks
 	2. Following flight plans
@@ -33,9 +38,11 @@ Ground 1.0, Flight – multiple during dual cross-country flights
 	2. Flight log forms, and updating during flight
 	3. Mental arithmetic - time, speed, distance
 	4. When do we use this in practice?
+3. Complete full navlog
+	1. How to handle step climbs under a Bravo
 
 ### Completion Standards
-Client should be able to fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival. Client should be able to update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
+Client should be able to complete a navlog and fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival. Client should be able to update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:

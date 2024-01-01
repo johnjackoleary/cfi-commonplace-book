@@ -15,12 +15,17 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 - [[PPL.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
-1 hour ground, practice on multiple flights
+Ground 1.5 hour, practice on multiple flights
 
 > [!note] 
 > Can be completed at the same time as with [[PPL.22 Pilotage and Dead Reckoning]].
 
 ### Lesson Elements
+> [!info]- Structure of XC Lessons...
+> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
+> 
+> ![[XC Syllabus Topics On Flight Plan.pdf]]
+
 1. [[PAVE]] and [[NWKRAFT]]
 	1. Pilot
 		1. Medical
@@ -55,22 +60,23 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 				2. Atmospheric Stability ([[Temp Lapse Rates Effect on Stability.jpeg]])
 					1. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
 					2. [[Convective Turbulence Avoidance.jpeg]]
-				3. Thunderstorms, wind shear, ice, and other hazards
+				3. Recognizing [[thunderstorm]]s, [[wind shear]], [[Ice Hazards and Aircraft Icing|ice]], and other critical weather situations
 			2. Weather briefings in depth
 				1. Structure of weather briefings
 				2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s, etc.
 				3. Current weather
-				4. Forecasts: Area, TAFs, Winds Aloft
+				4. Forecasts: Area, [[TAF]]s, [[Winds Aloft]], [[MOS]]
 			3. Types of [[weather brief|weather briefings]] from Flight Service
 				1. Outlook
 				2. Standard
 				3. Abbreviated
 		2. Flight Services Enroute
-		3. VFR flight plans for search and rescue
+		3. [[VFR]] flight plans for search and rescue
 			1. When to use them
 			2. How to file
 			3. How to activate and close
-		4. Airport: preparation discussed in [[PPL.18 Non-Towered Airport Operations]]
+		4. Estimating visibility in flight^[Some suggestions from [[AOPA]] in [this article](https://www.aopa.org/news-and-media/all-news/2008/april/flight-training-magazine/basic-vfr)]
+		5. Airport: preparation discussed in [[PPL.18 Non-Towered Airport Operations]]
 	4. External Pressures
 		1. How to identify
 		2. How to mitigate
