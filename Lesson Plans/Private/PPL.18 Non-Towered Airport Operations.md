@@ -21,7 +21,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 1.5 hours ground, 1.5 hour sim/flight
 
 ### Lesson Elements
-> [!note] Building a Complete Navlog
+> [!info]- Structure of XC Lessons...
 > Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a navlog.
 > 
 > 

@@ -29,12 +29,14 @@ Develop understanding of aircraft performance and limitations, weight and balanc
 4. Performance calculations
 	1. [[Wind Triangle]] and relevant terminology
 	2. Using an [[E6B]]
-		1. Practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
-	3. Takeoff and landing distances for ground roll and obstacle clearance
-	4. Rate of climb and time to climb
-	5. Power settings for cruise, airspeed and fuel burn
+		1. Finding [[TAS]]
+		2. Finding [[WCA]] and [[GS]]
+		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
+	4. Takeoff and landing distances for ground roll and obstacle clearance
+	5. Rate of climb and time to climb
+	6. Power settings for cruise, airspeed and fuel burn
 		1. Importance of and methods for [[Leaning the Mixture]]
-	6. [[Personal Minimums]] and other safety factor considerations 
+	7. [[Personal Minimums]] and other safety factor considerations 
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:

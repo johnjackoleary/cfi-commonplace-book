@@ -15,7 +15,7 @@ Develop knowledge and ability to plot a course, then use onboard navigation equi
 [[PPL.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
-1.5 hours ground, 1.5 hours sim
+2 hours ground, 1 hours sim
 
 ### Lesson Elements
 1. Planning a cross-country flight
