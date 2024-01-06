@@ -1,6 +1,9 @@
 ---
-cssclass: lesson
-tags: ppl, lesson
+cssclasses:
+  - lesson
+tags:
+  - ppl
+  - lesson
 ---
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
@@ -89,6 +92,10 @@ GPS/Sentry/ADS-B In
 	4. Lack of rudder usage to correct for P-factor and torque
 	5. Drifting from runway centerline (unless offsetting for conflicting traffic)
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
+
+> <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/evE3WmYAvVY"  frameborder="0"></iframe>
+> 
+> From *[Go Around Song (Lyric and Music Video!) - Extended Version - Flight ATC](https://www.youtube.com/watch?v=evE3WmYAvVY)* by [@FlightATC](https://www.youtube.com/@FlightATC)
 
 ### Completion Standards
 Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with AIM recommended procedures, maintaining awareness of and proper spacing from other aircraft. Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots (or mph). For go-around, apply takeoff power immediately and transition to climb pitch attitude for [[Vx]] or [[Vx]] as appropriate +10/-5 knots.
