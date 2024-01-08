@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Develop knowledge, risk management, and skills associated with forward slips to landing.
+Develop knowledge, risk management, and skills associated with forward slips to landing and no flap landings.
 
 ### Resources
 - [[POH]]
