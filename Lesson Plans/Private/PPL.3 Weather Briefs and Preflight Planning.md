@@ -24,14 +24,21 @@ Develop initial knowledge of and sources for preflight briefings.
 
 ### Lesson Elements
 1. Preflight - [[PAVE]]
-	1. <u>P</u>ilot: [[IMSAFE]] checklist
+	1. <u>P</u>ilot:
+		1. [[IMSAFE]] checklist
+		2. Government ID, pilot license, and medical certificate - in possession
+		3. [[Personal Minimums]] - met
+		4. Currency for carrying passengers (day or night) - met
 	2. <u>A</u>ircraft
 		1. [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 		2.  Introduction to Weight & Balance
-	3. en<u>V</u>ironment: Weather, airspace/[[TFR]]s, terrain, etc
+	3. en<u>V</u>ironment:
+		1. Weather, airspace/[[TFR]]s, terrain, etc
+		2. See 'Required Preflight Action' below for more detail
 	4. <u>E</u>xternal Pressures
-		1. [[Personal Minimums]]
+		1. [[Personal Minimums]] met
 		2. Early expectation setting with passengers, having backup plans, etc
+		3. Bottom line: Don't let yourself be rushed; Don't go if something's not right
 2. Required Preflight Action ([[FAR 91.103]]) - [[NWKRAFT]]
 	1. "all available information concerning that flight"
 	2. [[NOTAM]]s (and [[Approved NOTAM Contractions]])
