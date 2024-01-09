@@ -1,7 +1,7 @@
 ***Meaning*** :: <u>A</u>nnual, <u>V</u>OR, <u>1</u>00 Hour, <u>A</u>ltimeter, <u>T</u>ransponder, <u>E</u>LT
 
 ***Details***:
-A - Annual: Every 10 calendar months ([[FAR 91.409]])
+A - Annual: Every 12 calendar months ([[FAR 91.409]])
 V - VOR every 30 days for IFR ([[FAR 91.171]])
 1 - 100 hour inspection if for hire ([[FAR 91.409]])
 A - Altimeter (pitot static) every 24 calendar months for IFR ([[FAR 91.411]])

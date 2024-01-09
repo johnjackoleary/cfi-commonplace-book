@@ -38,8 +38,9 @@ Ground 1.5 hour, practice on multiple flights
 		5. [[5 Hazardous Attitudes and Antidotes]]
 		6. [[Personal Minimums]] and [[ADM]]
 	2. Aircraft
-		1. Required inspections ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
-		2. Equipment and Preflight
+		1. Required equipment ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
+		2. Required inspections ([[AV1ATE]])
+		3. Equipment and Preflight
 			1. Primary/Secondary flight controls
 			2. Powerplant and propeller
 			3. Landing gear
@@ -49,7 +50,7 @@ Ground 1.5 hour, practice on multiple flights
 			7. Pitot-static, vacuum/pressure, and associated flight instruments
 			8. Environmental
 			9. Deicing and anti-icing
-		3. How to share expenses? [[AC 61-142]] and [[FAR 61.113]]
+		4. How to share expenses? [[AC 61-142]] and [[FAR 61.113]]
 	3. Environment
 		1. Weather
 			1. Weather theory -- see [[Aviation Weather Handbook]] for best resources
