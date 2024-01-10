@@ -66,10 +66,8 @@ All plugins are meant to be optional, although Dataview is heavily used.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) is used heavily for aggregating files and reformatting raw data. Most unusual symbols in the Markdown, especially in files like Gait Charts (e.g. [[C152 Gait]]), are for Dataview.
 	- #todo :: This is difficult for publishing, because Dataview doesn't work with publish. May need to pivot further away from Dataview, for now the publishing process includes generating some Dataview tables from queries in [[Update Publish Files]].
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) is for convenience in editing tables. This is totally optional but very helpful.
-- [Git](https://github.com/denolehov/obsidian-git) for easy vault backups. 
 - [Text Format](https://github.com/Benature/obsidian-text-format) convenience for formatting with keyboard shortcuts.
 - [Templater](https://silentvoid13.github.io/Templater/) for Obsidian Publish to work with Dataview (see article [here](https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/))
-- (Disabled) [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) for creating flashcards to study. This was useful for checkride prep, and could be revisited. Only disabled because it was no longer used.
 
 ---
 
