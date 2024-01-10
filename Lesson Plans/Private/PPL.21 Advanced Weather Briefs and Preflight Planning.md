@@ -82,6 +82,11 @@ Ground 1.5 hour, practice on multiple flights
 		2. How to mitigate
 2. Consider reviewing [[Pilots Cross-Country Checklist]]
 
+
+> [!note]
+> The sections above overlap heavily with the [[Complete VFR Preflight Checklist]]
+> 
+
 ### Completion Standards
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning. Learner creates their personal minimums.
 

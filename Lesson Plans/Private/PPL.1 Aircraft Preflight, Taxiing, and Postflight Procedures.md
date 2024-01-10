@@ -33,8 +33,8 @@ N/A
 	6. Required documents on board - [[AR(R)OW]]
 	7. Flight deck organization
 	8. Seat adjustments
-	9. Engine start, including use of primer and propeller safety
-4. Taxiing Procedure
+5. Engine start, including use of primer and propeller safety
+6. Taxiing Procedure
 	1. [[SAFETY]] passenger brief
 	2. Steer with feet
 	3. Minimum use of brakes (don't use power if using brakes)
@@ -43,21 +43,25 @@ N/A
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways
-5. Before Takeoff Checks
+7. Before Takeoff Checks
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
-6. Flight
+8. Flight
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
-7. Postflight Procedures
+9. Postflight Procedures
 	1. Tie-down technique
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
-8. Common Errors
+10. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
 	4. Taxiing too fast, or carrying too much power while taxiing
 	5. Incorrect position of controls relative to wind
+
+> [!note]
+> The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]]
+> 
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 
