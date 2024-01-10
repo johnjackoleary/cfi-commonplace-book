@@ -52,8 +52,9 @@ GPS/Sentry/ADS-B In
 	4. Flying the pattern 
 		1. Standard Right Traffic for runway 31, turn right 10 degrees after departure for noise abatement
 		2. Memorize power settings/airspeeds, use wind correction angle like the [[PPL.10 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
+		3. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 4. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]
-6. Common Errors
+5. Common Errors
 	1. Lack of planning ahead, staying ahead of the airplane
 	2. Lack of situation awareness or awareness of other traffic
 	3. Improper radio usage, forgetting radio calls at non-towered airports
@@ -68,7 +69,7 @@ GPS/Sentry/ADS-B In
 	5. Possibility of wake turbulence
 	6. Wind shear or gusty crosswind
 	7. Bounced landing, or ballooning during flare
-2. Go-around procedure ([[5 C's (Going Missed)]])
+2. Go-around procedure ([[5 C's (Going Missed)]] or [[Power, Pedal, Pitch]] or [[Power Up, Pitch Up, Clean Up]])
 	1. [[Go-Around Procedure.jpeg]]
 	2. Stop the Descent (Cram)
 		1. Full power (throttle and prop), smooth but rapid, carb heat off

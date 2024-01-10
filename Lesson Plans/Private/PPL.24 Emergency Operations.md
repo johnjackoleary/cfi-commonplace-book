@@ -54,8 +54,9 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 		1. [[How and Why Carburetor Ice Forms]]
 8. Emergency equipment and survival gear
 9. Emergency squawk codes: [[Squawk 7700]], [[Squawk 7600]], [[Squawk 7500]]
-> [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through on accidentally.
-9. Common errors
+> [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through one accidentally.
+9. [[Intercept Procedures]]
+10. Common errors
 	1. Failure to use flow patterns or memory items
 	2. Failure to use checklists, or improper use
 

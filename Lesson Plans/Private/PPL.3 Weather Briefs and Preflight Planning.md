@@ -39,7 +39,7 @@ Develop initial knowledge of and sources for preflight briefings.
 		1. [[Personal Minimums]] met
 		2. Early expectation setting with passengers, having backup plans, etc
 		3. Bottom line: Don't let yourself be rushed; Don't go if something's not right
-2. Required Preflight Action ([[FAR 91.103]]) - [[NWKRAFT]]
+2. Required Preflight Action ([[FAR 91.103]]) - [[NWKRAFT]]^[Some locations use the concept of [[The Big 3]] as a memory aid for pre-flight info]
 	1. "all available information concerning that flight"
 	2. [[NOTAM]]s (and [[Approved NOTAM Contractions]])
 	3. Weather reports and forecasts
