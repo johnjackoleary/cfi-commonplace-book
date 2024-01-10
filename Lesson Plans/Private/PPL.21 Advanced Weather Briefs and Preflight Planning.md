@@ -39,7 +39,7 @@ Ground 1.5 hour, practice on multiple flights
 		6. [[Personal Minimums]] and [[ADM]]
 	2. Aircraft
 		1. Required equipment ([[A GOOSE A CAT]] or [[A TOMATO FLAMES]])
-		2. Required inspections ([[AV1ATE]])
+		2. Required inspections ([[AAV1ATE]])
 		3. Equipment and Preflight
 			1. Primary/Secondary flight controls
 			2. Powerplant and propeller

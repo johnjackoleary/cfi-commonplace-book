@@ -12,6 +12,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] Seat adjusted, cabin organized
 - [ ] POH-specific preflight inspection completed
 - [ ] Weight and Balance within limits
+- [ ] Confirm sufficient fuel, with reserves
 - [ ] All required equipment operational
 	- [ ] FAA-required
 		- [ ] Day VFR: [[A TOMATO FLAMES]] or [[A GOOSE A CAT]]  (§ [[FAR 91.205|91.205]])
@@ -21,14 +22,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 		- [ ] Transponder Requirements (§ 91.215)
 	- [ ] Manufacturer-required: See [[Kinds Of Equipment List]]
 	- [ ] Process for determining if equipment is required: [[FAR 91.213 Inop Equip]]
-- [ ] All required inspections complete ("AAV1ATE")
-	- [ ] Annual Inspection / 12mo.(§ 91.409)
-	- [ ] [[Airworthiness Directives|ADs]] complied with (§ 91.409)
-	- [ ] VOR Check / 30 days (IFR only) (§ 91.171)
-	- [ ] 100-Hour Inspection (if for training or hire) (§ 91.409)
-	- [ ] Altimeter and Pitot Static System / 24mo. (§ 91.411)
-	- [ ] Transponder / 24mo. (§ 91.413)
-	- [ ] ELT / 12mo. (§ 91.207)
+- [ ] All required inspections complete ("[[AAV1ATE]]")
 ## Environment
 - [ ] VFR weather minimums are met locally, at the destination, and everywhere in between
 - [ ] [[All Available Information Concerning That Flight]]
@@ -37,6 +31,12 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] [[Personal Minimums]] met
 - [ ] Don't let yourself be rushed
 - [ ] Don't go if something's not right
+- [ ] Consider the [[Three Strikes and You’re Out Rule]]
+
+## Flight Planning
+- [ ] Plan a route, with waypoints and altitudes
+- [ ] Consider performance requirements (eg. climb rates to clear terrain)
+- [ ] File VFR Flight Plan (if desired)
 
 ## Other
 - [ ] Provide passengers with [[SAFETY]] briefing
