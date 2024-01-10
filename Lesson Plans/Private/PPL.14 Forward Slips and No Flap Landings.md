@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Develop knowledge, risk management, and skills associated with forward slips to landing.
+Develop knowledge, risk management, and skills associated with forward slips to landing and no flap landings.
 
 ### Resources
 - [[POH]]
@@ -18,6 +18,8 @@ Develop knowledge, risk management, and skills associated with forward slips to 
 Ground 0.5, multiple flights to practice this maneuver frequently
 
 ### Lesson Elements
+
+#### Forward Slips
 1. Overview of forward slips
 	1. Purpose - lose altitude quickly, without gaining airspeed. Allows for steeper gliding descent for short-field or emergency landing
 	2. [[Forward Slip.jpeg|Forward Slips]] vs [[Sideslip.jpeg|Sideslips]]? Sideslips are the usual technique for cross-wind landing, where heading parallel to runway. Forward slips are steeper than side slips, with exaggerated bank (into the wind) and opposite rudder, with heading significantly different than runway heading, but ground track aligned with runway centerline.
@@ -37,8 +39,16 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 	3. Failure to maintain stable forward slip, allowing bank and heading to wander
 	4. Failure to go around if the approach becomes unstable
 
+#### No Flap Landings
+1. No flap landings may be needed if electrical system fails (in a C152/C172 or similar) or if flaps otherwise fail to deploy
+2. Requires strict energy management to account for less drag available from flaps^[Similar energy managment is needed in a [[CPL.3 Power Off 180 Accuracy Approach and Landing|power off 180]], and the tools of [[Flaps, Approach Geometry, Slip]] are similarly useful here]
+	1. Forward slip may be used to increase drag as needed
+	2. Geometry of the approach (e.g. extend downwind)
+3. Landing attitude will be nose higher than normal to maintain same landing airspeed
+4. Tips on flying a no-flap landing can be found in [this article](https://www.boldmethod.com/blog/learn-to-fly/manuevers/how-to-fly-a-no-flap-landing-pattern-through-touchdown/) from [[Bold Method]]
+
 ### Completion Standards
-Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. Touch down within 400 feet beyond a specified landing point with no sideways drift and with airplane's longitudinal axis parallel to and over runway centerline.
+Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. They must additionally demonstrate energy management while landing without the use of flaps.
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 

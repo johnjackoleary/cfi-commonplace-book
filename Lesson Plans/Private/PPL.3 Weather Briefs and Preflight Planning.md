@@ -39,7 +39,6 @@ Develop initial knowledge of and sources for preflight briefings.
 		2. Early expectation setting with passengers, having backup plans, etc
 		3. Bottom line: Don't let yourself be rushed; Don't go if something's not right
 
-
 > [!note]
 > The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]]
 
