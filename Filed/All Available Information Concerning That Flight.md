@@ -1,4 +1,4 @@
-[[FAR 91.103]] uses this phrase and it's important for the student to understand what it means, and how to get the information it requires.  The acronym students use to remember this is [[NWKRAFT]].
+[[FAR 91.103]] uses the phrase "all available information concerning that flight" and it's important for the student to understand what it means, and how to get the information it requires.  The acronym students use to remember this is [[NWKRAFT]].
 
 **The elements of NWKRAFT are:**
 

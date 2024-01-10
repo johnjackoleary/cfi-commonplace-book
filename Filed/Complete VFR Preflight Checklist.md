@@ -31,7 +31,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 	- [ ] ELT / 12mo. (§ 91.207)
 ## Environment
 - [ ] VFR weather minimums are met locally, at the destination, and everywhere in between
-- [ ] [["All Available Information Concerning That Flight"]]
+- [ ] [[All Available Information Concerning That Flight]]
 
 ## External Pressure
 - [ ] [[Personal Minimums]] met

@@ -33,7 +33,7 @@ Develop initial knowledge of and sources for preflight briefings.
 		2.  Introduction to Weight & Balance
 	3. en<u>V</u>ironment:
 		1. Weather, airspace/[[TFR]]s, terrain, etc
-		2. [["All Available Information Concerning That Flight"]]
+		2. [[All Available Information Concerning That Flight]]
 	4. <u>E</u>xternal Pressures
 		1. [[Personal Minimums]] met
 		2. Early expectation setting with passengers, having backup plans, etc
