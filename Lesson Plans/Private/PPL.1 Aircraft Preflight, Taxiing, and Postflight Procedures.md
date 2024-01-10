@@ -33,8 +33,8 @@ N/A
 	6. Required documents on board - [[AR(R)OW]]
 	7. Flight deck organization
 	8. Seat adjustments
-5. Engine start, including use of primer and propeller safety
-6. Taxiing Procedure
+4. Engine start, including use of primer and propeller safety
+5. Taxiing Procedure
 	1. [[SAFETY]] passenger brief
 	2. Steer with feet
 	3. Minimum use of brakes (don't use power if using brakes)
@@ -43,16 +43,16 @@ N/A
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways
-7. Before Takeoff Checks
+6. Before Takeoff Checks
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
-8. Flight
+7. Flight
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
-9. Postflight Procedures
+8. Postflight Procedures
 	1. Tie-down technique
 	3. Securing aircraft
 	4. Documenting flight time and squawks/observations
-10. Common Errors
+9. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
