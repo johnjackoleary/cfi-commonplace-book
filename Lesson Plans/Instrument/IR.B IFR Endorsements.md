@@ -2,13 +2,15 @@
 
 I certify that \[First name, MI, Last name\] has received and logged training time within 2 calendar-months preceding the month of application in preparation for the practical test and \[he or she\] is prepared for the required practical test for the issuance of Private Pilot Airplane Single Engine Land (ASEL) certificate.
 
+#todo Update
+
 ----
 
 **A.2 Review of deficiencies identified on airman knowledge test: § 61.39(a)(6)(iii), as required.**
 
 I certify that \[First name, MI, Last name\] has demonstrated satisfactory knowledge of the subject areas in which \[he or she\] was deficient on the Private Pilot Airplane (PAR) airman knowledge test.
 
-----
+---- 
 
 **A.38 Aeronautical knowledge test: §§ 61.35(a)(1) and 61.65(a) and (b).**
 I certify that \[First name, MI, Last name\] has received the required training of § 61.65(b). I have determined that \[he or she\] is prepared for the Instrument–\[airplane, helicopter, or powered-lift\] knowledge test.

@@ -6,11 +6,11 @@
    | [[IR.4 Navigation Aids and Instruments]]                                 | AIM 1-1,1-2; [[IFH]] Ch. 9              | 2D         |          |
    | [[IR.5 Flight Deck Organization, Workload Management, Checklists]]       |                                         | 1C, 1D     |          |
    | [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]             | [[IFH]] Ch 9                            |            |          |
-   | [[IR.7 GPS Navigation and Autopilot Usage]]                              | AIM 1-1-17; [[IFH]] Ch 7; [[AC 90-108]] |            |          | 
+   | [[IR.7 GPS Navigation and Autopilot Usage]]                              | AIM 1-1-17; [[IFH]] Ch 7; [[AC 90-108]] |            |          |
    | [[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]            | [[IFH]] Ch 7                            |            |          |
-   | [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]        | [[AIM 4]]; [[IFH]] Ch 1,2,10            | 3A,5A-B         |          |
-   | [[IR.10 Holding Patterns and Workload Management]]                       | AIM 5-3-8; [[IFH]] Ch. 10               | 5C       |          |
-   | [[IR.11 Communications, Clearances, Lost Communications Procedures]]     | #todo :: Finish these                   |   3B-C         |          |
+   | [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]        | [[AIM 4]]; [[IFH]] Ch 1,2,10            | 3A,5A-B    |          |
+   | [[IR.10 Holding Patterns and Workload Management]]                       | AIM 5-3-8; [[IFH]] Ch. 10               | 5C         |          |
+   | [[IR.11 Communications, Clearances, Lost Communications Procedures]]     | #todo :: Finish these                   | 3B-C       |          |
    | [[IR.12 Approach Charts and Procedures]]                                 |                                         | 7A-B       |          |
    | [[IR.13A RNAV (GPS) Approaches]]                                         |                                         | 8A         |          |
    | [[IR.13B ILS Approaches]]                                                |                                         | 8B         |          |

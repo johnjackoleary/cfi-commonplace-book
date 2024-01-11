@@ -27,7 +27,6 @@ Ground 30m, simulator – 2.5 hours
 	2.  Back Course
     
 
-**
 ### Completion Standards
 Student must demonstrate proficiency at understanding ILS approaches and brief an ILS approach plate. Student should be introduced to ILS approaches by flying multiple approaches in an approved simulator
 

@@ -20,7 +20,7 @@ Ground 1 hour, simulator – 2.5 hours
 	1. Traditional non-precision approaches, including ASR. These use an MDA: NDB, VOR, GPS LNAV, LOC, 
 	2. APV (approach with vertical guidance), using DA: GPS LNAV/VNAV, GPS LPV, LDA + glidepath, 
 2. Descent Profiles: 
-	1. “Dive & Drive” vs CDFA (Continuous Descent Final Appr AC 120-108)
+	1. “Dive & Drive” vs CDFA (Continuous Descent Final Appr [[AC 120-108]])
 	2. VDP
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 
@@ -51,6 +51,7 @@ Ground 1 hour, simulator – 2.5 hours
 	5. Using wrong navigation source during approach 
 	6. Loss of sequencing with GPS during missed approach 
 	7. Loss of situational awareness during missed approach or circling approach 
+
 ### Completion Standards
 Student must demonstrate proficiency at flying non-precision approaches to ACS standards to landing, including circling approaches, and missed approach procedures.
 

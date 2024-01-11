@@ -28,10 +28,12 @@ Ground 30m, simulator – 2.5 hours
 		1. LNAV+V, LP+V
 	5. Other RNAV approaches
 		1. GLS, RNP
-3. RNAV (GPS) Approach Shapes
+3. CDI Sensitivity
+	1. Good writeup in an old article [GPS Approach Types and Needle Sensitivity](https://web.archive.org/web/20140620044408/http://allaboutairplanes.wordpress.com/2011/10/)^[#todo :: would be nice to replace this with an article which is still online]
+4. RNAV (GPS) Approach Shapes
 	1. Basic T Shape
 	2. TAA
-4. GPS Specific
+5. GPS Specific
 	1. Fly over vs. Fly By
 	2. GPS Failures
 	
