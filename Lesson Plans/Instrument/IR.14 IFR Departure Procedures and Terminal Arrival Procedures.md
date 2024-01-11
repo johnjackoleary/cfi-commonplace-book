@@ -25,13 +25,14 @@ Ground 1.5 hours, flight 3 hours
 		3. Low, Close in Obstacles
 	3. [[DP]]s: [[ODP]], [[SID]], [[DVA]], Diverse departure
 	4. Non-Standard Takeoff Minimums
-4. Arrivals
+	5. VFR-to-IFR departures^[One example of this is the [departure from KSQL](https://www.sancarlosairport.org/Departure-Guidance-030222.pdf)]
+3. Arrivals
 	1. Standard Terminal Arrivals (STARS)  
-5. ATC with SIDs/STARs
+4. ATC with SIDs/STARs
 	1. Accepting
 	2. Charts
 	3. Descend via/Climb via
-6. Common errors 
+5. Common errors 
 	1. Accepting a SID or STAR without briefing
 	2. Not knowing performance capability of aircraft to to fly any procedure
 

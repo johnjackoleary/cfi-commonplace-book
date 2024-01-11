@@ -5,9 +5,12 @@ tags:
   - ir
   - syllabus
 ---
-#todo :: Finish cleaning up Instrument Syllabus
-
 ### Instrument Rating Airplane Single-Engine, Lesson Plan Outline
+> [!note]
+> "Lessons" will often consist of multiple ground and/or flight sessions.
+
+> [!note]
+> Relevant ground school or home study content to prep before each lesson can be found in [[~ IR Pre-Lesson Reading]].
 
 #### Stage I: Flight by Reference to Instruments
 [[IR.1 Introduction and Instrument Systems]]
@@ -36,18 +39,13 @@ tags:
 [[IR.18 Review and Checkride Prep]]
 
 #### Appendices
-[[Appendix IR.A - IFR Regulations Quick Reference from AOPA]]
-[[Appendix IR.B - Lost Communications]]
-[[IR.C IFR Endorsements]]
-[[IR.D Instrument Rating Flight Experience Requirements]]
-[[Appendix IR.E - Important References to Study]]
-[[Appendix IR.F - Kneeboard Cheatsheets]]
-[[Appendix IR.G - KSQL IFR Departure Procedure]]
-[[Appendix IR.H - Garmin Guidance for DPEs and CFIS for simulation system failures with G1000]]
-[[Appendix IR.I - GPS Approach types and CDI Sensitivity]]
+[[IR.A Instrument Rating Flight Experience Requirements]]
+[[IR.B IFR Endorsements]]
+[[IR.C Important References to Study]]
+[[IR.D Kneeboard Cheatsheets]]
 
 ### Pre-Lesson Reading
-[[~ IR Pre-Lesson Reading Chart]]
+[[~ IR Pre-Lesson Reading]]
 
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
