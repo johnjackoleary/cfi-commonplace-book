@@ -4,7 +4,7 @@ An acronym for remembering all the FAA-required maintenance operations
 
 ***Details***:
 A - Annual Inspection / every 12 calendar months (§ [[FAR 91.409|91.409]])
-A - [[Airworthiness Directives|ADs]] complied with (§ [[FAR 91.409|91.409]])
+A - [[AD|ADs]] complied with (§ [[FAR 91.409|91.409]])
 V - VOR check / every 30 days (IFR only) (§ [[FAR 91.171|91.171]])
 1 - 100 hour inspection (if for training or hire) (§ [[FAR 91.409|91.409]])
 A - Altimeter (pitot static) / every 24 calendar months (IFR only) (§ [[FAR 91.411|91.411]])
