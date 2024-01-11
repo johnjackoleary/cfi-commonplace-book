@@ -21,25 +21,56 @@ N/A
 > Pitch + Power = Performance
 
 > [!tip]
-> Lift can be increased by increasing velocity, angle of attack (up to [[Critical Angle of Attack]]), or adding flaps.
+> Lift can be increased by increasing velocity, increasing angle of attack (up to [[Critical Angle of Attack]]), or adding flaps.
 
 #### Straight and Level
-1. Scanning for traffic!
-2. Visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
-3. Wingtip reference for level flight
-4. Periodic cross-check of altimeter ([[90%-10% Outside vs Inside|aim for 90-10 split of time looking outside vs inside]])
-5. Use of trim
 
+**Aerodynamic Principles**
 ![[Forces in Stabilized Flight]]
 
+**Discussion**
+- What happens, during straight-and-level flight, if you add throttle? Why?
+- What happens, during straight-and-level flight, if you extend flaps?  Why?
+
+**In Practice**
+1. Always be scanning for traffic!
+2. Use the visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
+3. Use wingtip reference to maintain level flight
+4. Periodically cross-check the altimeter and HSI ([[90%-10% Outside vs Inside|aim for 90-10 split of time looking outside vs inside]])
+5. Keep a light grip on the controls
+6. Use trim to help
+
+
+
 #### Level Turns
+**Aerodynamic Principles**
+1. The plane turns because the lift vector tilts, not because of the rudder
+![[Forces in Level Turn.jpeg]]
+2. To maintain altitude, additional lift is needed
+	1. Apply back-pressure to the controls, increasing lift
+	2. Sometimes add power, to overcome increased drag
+3. [[Adverse Yaw]] requires using the rudder to maintain coordinated flight
+4. Back-pressure results in load factor > 1.0, and increased stall speed
+
+**Discussion**
+- At any given bank angle, what load factor is required to maintain level flight?
+- What is the difference between 'slip' and 'skid'?  Which is more dangerous?
+
+**In Practice**
 1. Check for traffic (high wing plane - lift wing slightly before banking)
-2. [[Adverse Yaw]]
-3. Rudder coordination, slips, skids, the ball ![[Indications of Slip and Skid.jpeg]]
-4. Use of rudder to initiate and exit turn (cancel out adverse yaw)
-5. Load factor, aft pressure to maintain altitude ![[Forces in Level Turn.jpeg]]
+2. Roll into turn while adding rudder, and pulling back lightly on the controls
+3. Maintain coordination (counteract [[Adverse Yaw]]) using the rudder ([[Indications of Slip and Skid.jpeg]])
+4. Relax, make adjustments, scan for traffic
+5. Use opposite aileron to roll out, while relaxing back pressure, and staying coordinated
 
 #### Climbs and Descents
+
+**Notes**
+- Different situations require climbs at Vx, Vy, or normal/cruise climb
+- During climb, P-factor increases the need for right rudder
+
+**In Practice**
+
 ![[Maneuver - Four Fundamentals]]
 
 #### Climbing/Descending Turns
