@@ -19,7 +19,7 @@
 	- The chapters containing information on aircraft maintenance are coded in red:
 		- Chapter 7: Aircraft Maintenance
 		- Chapter 8: Maintenance Records
-		- Chapter 9: [[Airworthiness Directives]]
+		- Chapter 9: [[AD]]s
 		- Chapter 10: Service Difficulty Program
 
 #source #handbook 
