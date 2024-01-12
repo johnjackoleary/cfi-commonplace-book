@@ -27,7 +27,7 @@ Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
 	1. Precision
 		1. [[ILS]] 
 		2. [[PAR]] 
-		3. GPS [[LPV]] (technically, not precision approach, but included here because of similarity)
+		3. GPS [[LPV]] (technically not a precision approach, but included here because of similarity^[This is not a precision approach because it does not require the same equipment available to transition from IMC to VMC, namely things like the [[ALS]]. Good video on this topic from [[The Finer Points]] is viewable [here](https://www.youtube.com/watch?v=w1a-9KOdxQY).])
 	2. Non-Precision
 		1. Lateral Guidance Only
 		2. Fly to a Minimum Descent Altitude
