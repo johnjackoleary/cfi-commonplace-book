@@ -81,6 +81,7 @@ Ground 1.5 hour, practice on multiple flights
 	4. External Pressures
 		1. How to identify
 		2. How to mitigate
+		3. [[Personal Minimums]]
 2. Consider reviewing [[Pilots Cross-Country Checklist]]
 
 
