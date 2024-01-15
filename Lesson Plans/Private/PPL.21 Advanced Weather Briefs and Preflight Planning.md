@@ -59,9 +59,10 @@ Ground 1.5 hour, practice on multiple flights
 					2. [[Isobars Reveal Pressure Gradient.jpeg]]
 					3. Warm, Cold, Stationary, and Occluded Fronts
 				2. Atmospheric Stability ([[Temp Lapse Rates Effect on Stability.jpeg]])
-					1. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
-					2. [[Convective Turbulence Avoidance.jpeg]]
-				3. Recognizing [[thunderstorm]]s, [[wind shear]], [[Ice Hazards and Aircraft Icing|ice]], and other critical weather situations
+					1. #todo :: replace lapse rate pic
+					2. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
+					3. [[Convective Turbulence Avoidance.jpeg]]
+				4. Recognizing [[thunderstorm]]s, [[wind shear]], [[Ice Hazards and Aircraft Icing|ice]], and other critical weather situations
 			2. Weather briefings in depth
 				1. Structure of weather briefings
 				2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s, etc.
