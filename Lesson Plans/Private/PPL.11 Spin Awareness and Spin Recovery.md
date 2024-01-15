@@ -30,12 +30,12 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 	4. An altitude loss of approximately 500 feet per each 3-second autorotation ("turn") can be expected in most small aircraft
 2. What aircraft are approved for spins?
 	1. Check [[POH]]. Some airplanes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
-	2. Normal category planes are test to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
+	2. Normal category planes are tested to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
 	3. Note: Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018|Fitzpatrick - Spartan College interpretation from FAA Chief Counsel in Feb 2018]]
 3. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide
-	3. Climb-out stall that develops into spin (lots of P-factor during takeoff climb)
+	3. Climb-out stall that develops into spin (lots of P-factor during takeoff/go-around climb)
 	4. Iced up airframe
 4. Spin Recovery Procedure
 	1. Follow the [[POH]]!
