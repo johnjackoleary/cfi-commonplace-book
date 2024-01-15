@@ -42,8 +42,8 @@ GPS/Sentry/ADS-B In
 		2. Does the ATIS specify a different runway in use?
 		3. Are there planes in the pattern (you probably need to use the same runway they are)
 	2. Runway length
-	3. Right or left traffic?
-	4. Pattern altitude
+	3. Right or left traffic?  Left is the default.
+	4. Pattern altitude?  1000' AGL is the default.
 	5. (I generally sketch a diagram with all this info on my kneepad)
 3. Finding the information you need
 	1. Entry procedures and pattern information
@@ -57,7 +57,8 @@ GPS/Sentry/ADS-B In
 	2. "Enter right midfield"
 	3. "Enter right base"
 	4. "I'll call your base"
-	5. "Number 3 behind a Cessna turning right base; Cleared to land runway 27"
+	5. "Make a left 360 for spacing"
+	6. "Number 3 behind a Cessna turning right base; Cleared to land runway 27"
 5. Common terms you'll use to describe your own location on the radio:
 	1. "On the right 45"
 	2. "Right downwind"
