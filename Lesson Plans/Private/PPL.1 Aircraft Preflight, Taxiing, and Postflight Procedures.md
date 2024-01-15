@@ -18,7 +18,7 @@ N/A
 2.5 hours ground, 0.5 hour flight (optional)
 
 ### Lesson Elements
-1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, TSA)
+1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, TSA ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/non))
 2. Syllabus overview
 3. Preflight
 	1. Walk-around inspection, use of checklists
