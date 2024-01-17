@@ -5,7 +5,7 @@
     - [[Filed/G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors.md|G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
     - [[Filed/Gait Chart.md|Gait Chart]]
     - [[Filed/LHAND.md|LHAND]]
-    - [[Filed/Scott Rohling's Advice on Lost Comms.md|Scott Rohling's Advice on Lost Comms]]
+    - [[Scott Rohlfing's Advice on Lost Comms|Scott Rohlfing's Advice on Lost Comms]]
     - [[Filed/FAR 61.89 Student Pilot Limitations.md|FAR 61.89 Student Pilot Limitations]]
     - [[Filed/FAR 61.39 Prereqs for practical tests.md|FAR 61.39 Prereqs for practical tests]]
     - [[Lesson Plans/Biennial Flight Review/BFR.0 Preparation.md|BFR.0 Preparation]]
