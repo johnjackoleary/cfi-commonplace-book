@@ -61,7 +61,7 @@ All pre-solo lessons
 		2. Demonstrated satisfactory proficiency and safety...
 4. [[FAR 61.89 Student Pilot Limitations]]
 5. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
-6. Logging Solo Flight Time - FAR 61.51 
+6. Logging Solo Flight Time - [[FAR 61.51]]
    > [!quote] 
    > A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs|FAR 61.87]]; and (iii) Is undergoing training for a pilot certificate or rating.
 5. Review relevant club Member Regulations
