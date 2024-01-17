@@ -6,7 +6,7 @@ tags: ppl, lesson
 Understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 
 
 ### Resources
-- [[Private Pilot ACS]] Sec IV
+- [[Private Pilot ACS]] Sec IV.A
 - [[POH]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
@@ -21,29 +21,35 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 1. Theory
 	1. Transferring weight from wheels to wings
 	2. Climb Speed: Best Angle ([[Vx]]) or Best Rate ([[Vy]])![[Vy and Vx.jpeg]]
-	3. [[Ground Effect]]
-	4. Takeoff distance from aircraft performance charts ([[POH]], section V)
-		1. Effect of wind, [[density altitude]], weight, runway surface
-	6. [[Four Left Turning Tendencies]]
-2. Normal Takeoffs
+	3. [[Ground Effect]]: Using it, and exiting it
+	4. [[Four Left Turning Tendencies]]
+2. Preparation
+	1. Confirm adequate takeoff distance, from aircraft performance charts ([[POH]], section V)
+		1. Consider effects of wind, [[density altitude]], weight, runway surface
+3. Normal Takeoffs
 	1. Procedure from [[POH]]
-	2. Pre-Takeoff
-		1. Go/No-go location picked out ahead of time ([[50-70 Rule]]
+	2. Before taking the runway
+		1. Go/No-go location picked out ahead of time ([[50-70 Rule]])
 		2. Call out rotate and climb speeds
 		3. Recite [[Plans for Rejected Takeoff]] (discussed more below)
-	3. Taking the runway -- Check for traffic, and "[[Lights, Camera, Action, Time]]"
-	4. Setting controls for cross-wind
-	5. Feet off brakes, [[Smooth Power Application|gentle power application]], last check of instruments (RPM good, oil pressure grean, airspeed alive)
-	6. Rudder pedals to maintain directional control, right rudder as necessary to offset left-turning tendency, more like flying than taxiing
-3. Crosswind Takeoffs
+	3. Taking the runway
+		1. Check for traffic
+		2. "[[Lights, Camera, Action, Time]]"
+	4. Ground roll
+		1. Feet off brakes
+		2. [[Smooth Power Application|gentle power application]]
+		3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
+		4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing
+4. Additional Considerations for Crosswind Takeoffs
 	1. Crosswind component of wind
-	3. Max demo'd crosswind ([[POH]])
-	2. Transition from side-slip to wings-level crab when out of usable runway
-	3. ![[Crosswind Takeoff.jpeg]]
-	4. ![[Crosswind Slip to Crab.jpeg]]
+	2. Max demo'd crosswind ([[POH]])
+	3. Apply full aileron pressure into the crosswind
+	4. ![[Crosswind Takeoff.jpeg]]
+	5. Transition from side-slip to wings-level crab when out of usable runway
+	6. ![[Crosswind Slip to Crab.jpeg]]
 5. Normal Climbs 
 	1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
-	2. No turns below 400'^[Unless required for safety, of course], usually wait to [[TPA]]-300'
+	2. No turns below 400'^[Unless required for safety, of course], usually wait to [[TPA]] minus 300'
 	3. Awareness of noise abatement rules/recommendations (at Palo Alto, turn right 10 degrees for climb out on 31)
 6. Emergency Considerations
 	1. [[Plans for Rejected Takeoff]]. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
