@@ -7,6 +7,6 @@
 [[BFR.2 Flight Activities]]
 
 ### Appendices
-[[Appendix BFR.A Endorsement]]
-[[Appendix BFR.B Requirements]]
-[[Appendix BFR.C Background Information]]
+[[BFR.A Endorsement]]
+[[BFR.B Requirements]]
+[[BFR.C Background Information]]

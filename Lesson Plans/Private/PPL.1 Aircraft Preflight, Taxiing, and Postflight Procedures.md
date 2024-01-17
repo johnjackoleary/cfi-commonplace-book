@@ -15,10 +15,10 @@ Develop skills associated with preparation for safe flight, including preflight 
 N/A
 
 ### Schedule
-2.5 hours ground, 0.5 hour flight (optional)
+2.5 hours ground^[From Jack: I've found this lesson often takes a full 3 hours, without including engine start or runup. Perhaps this should be split into two lessons, or the taxi + runup portion added to PPL.2.], 0.5 hour flight (optional)
 
 ### Lesson Elements
-1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, TSA)
+1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, TSA ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/[non-citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training)))
 2. Syllabus overview
 3. Preflight
 	1. Walk-around inspection, use of checklists

@@ -1,6 +1,6 @@
 An acronym for remembering all the FAA-required maintenance operations
 
-***Meaning*** :: <u>A</u>nnual, <u>V</u>OR, <u>1</u>00 Hour, <u>A</u>ltimeter, <u>T</u>ransponder, <u>E</u>LT
+***Meaning*** :: <u>A</u>nnual, <u>A</u>Ds <u>V</u>OR, <u>1</u>00 Hour, <u>A</u>ltimeter, <u>T</u>ransponder, <u>E</u>LT
 
 ***Details***:
 A - Annual Inspection / every 12 calendar months (§ [[FAR 91.409|91.409]])
