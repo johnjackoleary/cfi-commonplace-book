@@ -7,7 +7,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 
 ### Resources
 - [[AFM]]/[[POH]]
-- [[Private Pilot ACS]] Section IX
+- [[Private Pilot ACS]] Section IX.B
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
@@ -48,7 +48,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 	4. Don't try to stretch a glide! ![[Stretching a Glide.jpeg]]
 	5. Securing fuel and electrical systems before landing
 	6. Unlatch doors before touchdown
-	7. Maintain aircraft control all the way through the landing -- controlled landing in bad terrain is better then uncontrolled landing in good terrain
+	7. Maintain aircraft control all the way through the landing -- a controlled landing in bad terrain is better than an uncontrolled landing in good terrain
 6. Considerations for safe landing
 	1. Protect the cabin: Can keep the aircraft cabin in tact by using dispensable structures (wings, landing gear, etc)
 	2. Protect the passengers: Make sure seatbelts are on and secure
