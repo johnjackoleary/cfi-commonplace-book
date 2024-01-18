@@ -76,6 +76,7 @@ All plugins are meant to be optional, although Dataview is heavily used.
 | -------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | Edward Abraham | Bay Area native and flight instructor with emphasis on ADM and SRM | [LinkedIn](https://www.linkedin.com/in/edward-abraham-1ba117129) |
 | Jack O'Leary   | Bay Area flight instructor with a passion for learning             | [cfijack.com](https://www.cfijack.com)                           |
+| Peter Monaco   | Bay Area flight instructor (expected April 2024)             | [LinkedIn](https://www.linkedin.com/in/petermonaco/)                           |
 
 ---
 
