@@ -3,7 +3,7 @@ From [[AC 61-98]] Appendix F:
 ## Pilot
 - [ ] Recency of Experience (§ [[FAR 61.57 Recent Flight Experience|61.57]])
 - [ ] Pilot-in-Command (PIC) Responsibilities and Authority (14 CFR part 91, § [[FAR 91.3 PIC Responsibility and Authority|91.3]])
-- [ ] Preflight Actions (§ [[FAR 91.103|91.103]])
+- [ ] Preflight Actions (§ [[FAR 91.103 Preflight Action|91.103]])
 - [ ] Medical Facts for Pilots ([[AIM 8|Aeronautical Information Manual (AIM) chapter 8]])
 
 ## Aircraft

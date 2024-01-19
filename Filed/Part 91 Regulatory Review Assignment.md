@@ -6,20 +6,20 @@ From [[AC 61-98]] Appendix F:
 - [ ] **Responsibility**:
 	- [ ] Authority (§ [[FAR 91.3 PIC Responsibility and Authority|91.3]])
 	- [ ] Air Traffic Control (ATC) Instructions (§ [[FAR 91.123 Compliance with ATC|91.123]])
-	- [ ] Preflight Action (§ [[FAR 91.103|91.103]])
+	- [ ] Preflight Action (§ [[FAR 91.103 Preflight Action|91.103]])
 	- [ ] Safety Belts (§ [[FAR 91.107 Use of Seat Belts|91.107]])
 	- [ ] Flightcrew at Station (§ 91.105)
 - [ ] **Cautions**:
 	- [ ] Careless or Reckless Operation (§ [[FAR 91.13 Careless or Reckless Ops|91.13]])
-	- [ ] Dropping Objects (§ 91.15)
-	- [ ] Alcohol or Drugs (§ 91.17)
-	- [ ] Supplemental Oxygen (§ 91.211)
-	- [ ] Fitness for Flight (Aeronautical Information Manual (AIM) chapter 8, section 1)
+	- [ ] Dropping Objects (§ [[FAR 91.15|91.15]])
+	- [ ] Alcohol or Drugs (§ [[FAR 91.17|91.17]])
+	- [ ] Supplemental Oxygen (§ [[FAR 91.211|91.211]])
+	- [ ] Fitness for Flight ([[AIM 8]], section 1)
 ## Aircraft
 - [ ] **Airworthiness**:
-	- [ ] Basic (§ 91.7)
-	- [ ] Flight Manual, Markings, Placards (§ 91.9)
-	- [ ] Certification Required (§ 91.203)
+	- [ ] Basic (§ [[FAR 91.7 Aircraft Airworthiness|91.7]])
+	- [ ] Flight Manual, Markings, Placards (§ [[FAR 91.9 Flight Manual, Marking, and Placard Reqs|91.9]])
+	- [ ] Certification Required (§ [[FAR 91.203 Aircraft Certs Reqd|91.203]])
 	- [ ] Instrument and Equipment Requirements (§ 91.205)
 		- [ ] Emergency Locator Transmitter (ELT) (§ 91.207)
 		- [ ] Position Lights (§ 91.209)
