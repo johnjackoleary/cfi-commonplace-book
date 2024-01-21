@@ -1,4 +1,4 @@
-***Link***      :: [91.107 Use of safety belts, shoulder harnesses, and child restraint systems](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.107)
+***Link***      :: [91.107 Use of safety belts, shoulder harnesses, and child restraint systems](https://www.ecfr.gov/current/title-14/section-91.107)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

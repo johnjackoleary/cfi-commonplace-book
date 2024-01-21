@@ -3,7 +3,7 @@ From [[AC 61-98]] Appendix F:
 ## Pilot
 - [ ] Recency of Experience (§ [[FAR 61.57 Recent Flight Experience|61.57]])
 - [ ] Pilot-in-Command (PIC) Responsibilities and Authority (14 CFR part 91, § [[FAR 91.3 PIC Responsibility and Authority|91.3]])
-- [ ] Preflight Actions (§ [[FAR 91.103|91.103]])
+- [ ] Preflight Actions (§ [[FAR 91.103 Preflight Action|91.103]])
 - [ ] Medical Facts for Pilots ([[AIM 8|Aeronautical Information Manual (AIM) chapter 8]])
 
 ## Aircraft
@@ -11,9 +11,9 @@ From [[AC 61-98]] Appendix F:
 - [ ] Equipment Check (Very High Frequency Omni-Directional Range (VOR)) (§ 91.171)
 - [ ] Instrument Flight Rules (IFR) Two-Way Radio Communications Failure (§ [[FAR 91.185 Lost Comms|91.185]])
 - [ ] Malfunction Reports (§ 91.187)
-- [ ] Required Instruments and Equipment (§ [[FAR 91.205|91.205]])
+- [ ] Required Instruments and Equipment (§ [[FAR 91.205 Instrument and Equipment Requirements|91.205]])
 - [ ] Emergency Locator Transmitter (ELT) (§ 91.207)
-- [ ] Aircraft Lights (§ [[FAR 91.209|91.209]])
+- [ ] Aircraft Lights (§ [[FAR 91.209 Aircraft Lights|91.209]])
 - [ ] Inoperative Instruments and Equipment (§ [[FAR 91.213 Inop Equip|91.213]])
 - [ ] Altimeter and Pitot-Static System Tests (§ 91.411)
 - [ ] Air Traffic Control (ATC) Transponder Tests (§ 91.413)

@@ -20,8 +20,8 @@ Ground 1 hour, flight 3 hours
 
 ### Lesson Elements
 1. Regulations pertaining to night flight
-	1. Required equipment ([[FAR 91.205]]) - [[APES]] or [[FLAPS]]
-	2. Navigation lights required sunset—sunrise ([[FAR 91.209]])
+	1. Required equipment ([[FAR 91.205 Instrument and Equipment Requirements]]) - [[APES]] or [[FLAPS]]
+	2. Navigation lights required sunset—sunrise ([[FAR 91.209 Aircraft Lights]])
 	3. Logging night flight -- after civil twilight ([[Night - For Logging Time]])
 	4. Night currency for carrying passengers -- 3 takeoffs and (fullstop) landings within 90 days, >1 hour after sunset
 2. Aircraft lighting and Night Equipment
