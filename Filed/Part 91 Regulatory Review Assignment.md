@@ -11,9 +11,9 @@ From [[AC 61-98]] Appendix F:
 	- [ ] Flightcrew at Station (§ [[FAR 91.105 Seatbelts and Shoulder Harness|91.105]])
 - [ ] **Cautions**:
 	- [ ] Careless or Reckless Operation (§ [[FAR 91.13 Careless or Reckless Ops|91.13]])
-	- [ ] Dropping Objects (§ [[FAR 91.15|91.15]])
-	- [ ] Alcohol or Drugs (§ [[FAR 91.17|91.17]])
-	- [ ] Supplemental Oxygen (§ [[FAR 91.211|91.211]])
+	- [ ] Dropping Objects (§ [[FAR 91.15 Dropping Objects|91.15]])
+	- [ ] Alcohol or Drugs (§ [[FAR 91.17 Alcohol or Drugs|91.17]])
+	- [ ] Supplemental Oxygen (§ [[FAR 91.211 Supplemental Oxygen|91.211]])
 	- [ ] Fitness for Flight ([[AIM 8]], section 1)
 ## Aircraft
 - [ ] **Airworthiness**:
