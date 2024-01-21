@@ -23,7 +23,7 @@ N/A
 3. Preflight
 	1. Walk-around inspection, use of checklists
 	2. Airworthiness (who determines, who is responsible for)
-		1. Who is responsible for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403]]
+		1. Who is responsible for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403 General Maintenance]]
 		2. Who determines airworthiness? Pilot-In-Command - [[FAR 91.7 Aircraft Airworthiness]]
 	3. POH sections
 	4. Fuel sampling and fuel level
