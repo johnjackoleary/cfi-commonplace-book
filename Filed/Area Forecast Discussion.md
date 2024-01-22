@@ -7,7 +7,7 @@
 
 
 
-From [[CFI PRO-TIPS]]
+From [[Flight and Ground Instructor Pro-Tips]]
 So in these situations, it is crucial to read the 
 forecast discussions. Forecasters that issue 
 these TAFs also issue an Area Forecast 

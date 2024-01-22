@@ -9,4 +9,4 @@ to raise the minimum to either a non-precision
 level or a circling minimum level to depart that 
 airport.
 
-From [[CFI PRO-TIPS]]
+From [[Flight and Ground Instructor Pro-Tips]]

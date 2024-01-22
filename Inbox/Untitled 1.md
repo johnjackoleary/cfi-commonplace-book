@@ -5,4 +5,4 @@ molasses is thick, and the compass lags behind.
 The molasses is like warm syrup on a southern 
 heading and leads the heading.
 
-From [[CFI PRO-TIPS]]
+From [[Flight and Ground Instructor Pro-Tips]]

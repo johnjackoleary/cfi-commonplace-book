@@ -2,4 +2,4 @@
 makes permanent." Letting a student repeat 
 errors only reinforces the errors. 
 
-[[CFI PRO-TIPS]]
+[[Flight and Ground Instructor Pro-Tips]]

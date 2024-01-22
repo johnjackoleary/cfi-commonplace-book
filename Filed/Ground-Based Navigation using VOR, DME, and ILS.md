@@ -4,7 +4,7 @@
 
 # Details
 
-Simple examples from [[CFI PRO-TIPS]]
+Simple examples from [[Flight and Ground Instructor Pro-Tips]]
 Evolution of Navigation 
 Systems. (Disclaimer, I'm going to be a bit 
 liberal with the physics in this example; the 

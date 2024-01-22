@@ -12,3 +12,5 @@ Adding the flaps throughout the approach
 requires no additional trimming, and the 
 airplane slows to the final approach speed with 
 minimal effort.
+
+[[Flight and Ground Instructor Pro-Tips]]

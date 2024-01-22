@@ -4,7 +4,7 @@ Bit more here as well, with specific examples, but no examples of a handoff: htt
 
 #todo :: Fill in a more specific example of the radio calls involved
 
-From [[CFI PRO-TIPS]] and https://pilotsafety.tv/FlightFollowing
+From [[Flight and Ground Instructor Pro-Tips]] and https://pilotsafety.tv/FlightFollowing
 > The National Air Traffic Controller 
 Association(N.A.T.C.A.)1 recommends "Regional 
 Approach, Cessna 4941F request VFR Flight 

@@ -6,7 +6,7 @@
 > [!note]
 > Only explicitly relevant to a 5sm radius from the airport center, but still a useful resource.
 
-From [[CFI PRO-TIPS]]
+From [[Flight and Ground Instructor Pro-Tips]]
 > I impress my students when doing one-on-
 one training that TAF should stand for "Tiny" 
 Aerodrome Forecast. The terminal area is so 

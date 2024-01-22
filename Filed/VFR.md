@@ -1,6 +1,6 @@
 ***Meaning*** :: <u>V</u>isual <u>F</u>light <u>R</u>ules
 
-From [[CFI PRO-TIPS]]
+From [[Flight and Ground Instructor Pro-Tips]]
 > Visual Flight 
 Rules are common operating procedures to 
 manage risk, select courses of action, and 
