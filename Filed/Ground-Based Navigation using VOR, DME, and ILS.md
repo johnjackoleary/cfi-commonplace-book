@@ -45,7 +45,20 @@ where the music is coming from? We've just
 created a rudimentary Non-Directional Beacon, 
 and now we can point toward Newberry 
 
-
+What if the radio station played different 
+bands in different directions? Nirvana to the 
+North, John Denver to the East, Lynyrd Skynyrd 
+to the South, and U2 to the West; there will be 
+some overlap. If we can hear "Smells Like Teen 
+Spirit" just as well as "With or Without You," we 
+must be northwest of the radio. If we can make 
+our cockpit computer compare how well it can 
+hear each band and plot that information with a 
+needle, we just designed a rudimentary Very-
+High Frequency Omnidirectional Range (VOR) 
+facility. With a stopwatch and some math, we 
+can now identify - with a high degree of 
+precision - where we are relative to Newberry
 
 
 ## VOR
