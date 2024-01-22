@@ -6,6 +6,26 @@
 > [!note]
 > Only explicitly relevant to a 5sm radius from the airport center, but still a useful resource.
 
+From [[CFI PRO-TIPS]]
+> I impress my students when doing one-on-
+one training that TAF should stand for "Tiny" 
+Aerodrome Forecast. The terminal area is so 
+small that meteorologists consider a TAF a 
+point forecast. It's not a zone or area forecast 
+and should never be used as such. Forecasters 
+will often hedge their bets because of this. 
+For example, when thunderstorms are more 
+isolated or scattered in coverage, you may not 
+see a forecast for thunderstorms in the TAF. The 
+chances are just too low due to the small size of 
+the forecast area. But you may see SHRA (rain 
+showers) or VCSH (showers in the vicinity) as a 
+placeholder to cover the threat of 
+thunderstorms in these uncertain situations. 
+Remember, showery precipitation describes a 
+convective process.
+
+
 ## Example from PHAK
 [[PHAK Ch13]]
 > TAF 
