@@ -59,7 +59,7 @@ Overview of short- and soft-field operations
 	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
 	3. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[Gust Factor]] (add half of gust difference) +10/-5 knots
 	4. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushion descent and touchdown. ([[Stabilized Approach.jpeg]])
-	5. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions
+	5. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions.  Brakes may not be required. Power may be used to keep from bogging down, and to keep the nose wheel unweighted.
 
 ### Completion Standards
 Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
