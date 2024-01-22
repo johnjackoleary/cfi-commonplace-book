@@ -9,6 +9,7 @@ tags:
 Understand purpose and procedures of a chandelle. Develop skills required to execute a chandelle to ACS standards.
 
 ### References
+- [[Commercial ACS]] Sec V.C
 - [[AFH Ch10]]
 
 ### Builds On

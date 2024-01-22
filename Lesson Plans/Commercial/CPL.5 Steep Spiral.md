@@ -9,6 +9,7 @@ tags:
 Understand purpose and procedures of a steep spiral. Develop skills required to execute a steep spiral to ACS standards.
 
 ### References
+- [[Commercial ACS]] Sec V.B
 - [[AFH Ch10]]
 
 ### Builds On
@@ -28,9 +29,18 @@ Ground 0.5 hours, Flight 2 hours
 > [!note]
 > While there are similarities between a steep spiral and an emergency descent, the reasons for using the two maneuvers may differ, and the airspeed and configuration are usually different.
 5. Flying the Maneuver
-	1. Clear Area, select reference point, determine wind direction
-	2. Select altitude to allow at least 3 complete turns finishing above 1,500'
-	3. Establish best glide speed or somewhat faster, <= 60° bank maximum
+	1. Preparation
+		1. Start at an altitude that allows at least 3 complete turns, finishing above 1,500' AGL
+		2. Clear the area
+		3. Select a reference point out the window almost straight below you
+		4. Note the wind direction and your initial heading and altitude
+	2. Initiation
+		1. Reduce power to idle
+		2. Establish initial bank angle (<60°) and airspeed (best glide speed or somewhat faster)
+	3. Make 3 revolutions
+		1. Increase/decrease bank angle as needed to keep the reference point at the same spot relative to you (higher bank angle downwind, less on upwind)
+		2. Note loss of altitude each time you return to original heading
+		3. After 3 revolutions, roll to wings level, and return to cruise speed
 
 ### Completion Standards
 Learner is able to maintain constant radius around reference point at the specified airspeed, ±10 knots, and roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ [[AGL]].
