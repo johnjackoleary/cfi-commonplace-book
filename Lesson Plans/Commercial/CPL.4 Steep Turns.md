@@ -6,9 +6,12 @@ tags:
   - lesson
 ---
 > [!note]
-> With the exception of a few tolerance changes, this lesson is identical to similar [[PPL]] lessons. Those lessons have been embedded here for convenience.
+> With the exception of a few tolerance changes, this lesson is identical to [[PPL.9 Performance Maneuvers - Steep Turns]]. That lesson has been embedded here for convenience.
 
-### [[Commercial ACS]] Tolerance Differences
+### References
+- [[Commercial ACS]] Sec V.A
+
+### Tolerance Differences
 - Use 50° bank
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
