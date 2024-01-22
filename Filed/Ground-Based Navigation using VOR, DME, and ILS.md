@@ -36,6 +36,15 @@ from Newberry, the worse we could hear the
 music. However, we can't see any land while 
 over the water. 
 
+Even if we get turned around, we would 
+know if we're getting closer to, farther from, or 
+not changing range to the destination. What if 
+we could invent a device that, instead of playing 
+the music to us in the cockpit, could point at 
+where the music is coming from? We've just 
+created a rudimentary Non-Directional Beacon, 
+and now we can point toward Newberry 
+
 
 
 
