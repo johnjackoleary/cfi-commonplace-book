@@ -33,7 +33,7 @@ Ground 3 hours
 		1. Intro to multi-tasking, workload management, checklists 
 		2. [[Personal Minimums]], “get-there-itis”, proficiency vs currency, [[PAVE]] 
 2. Instrument systems and power sources, flight characteristics, limitations, errors, pre-flight check methods 
-	1. Required equipment for IFR flight, and IFR airworthiness requirements ([[FAR 91.205]])
+	1. Required equipment for IFR flight, and IFR airworthiness requirements ([[FAR 91.205 Instrument and Equipment Requirements]])
 		1. Mnemonic [[GRABCARDD]]
 	2. Inoperative equipment – [[MEL]], placarding - [[FAR 91.213 Inop Equip]]
 	3. Pitot-Static instruments: Altimeter (+/- 75’), Airspeed Indicator, Vertical Speed Indicator, pitot heat (use below 10C or 50F, in visible moisture) 

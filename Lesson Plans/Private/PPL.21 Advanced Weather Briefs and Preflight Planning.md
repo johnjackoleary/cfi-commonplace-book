@@ -50,7 +50,7 @@ Ground 1.5 hour, practice on multiple flights
 			7. Pitot-static, vacuum/pressure, and associated flight instruments
 			8. Environmental
 			9. Deicing and anti-icing
-		4. How to share expenses? [[AC 61-142]] and [[FAR 61.113]]
+		4. How to share expenses? [[AC 61-142]] and [[FAR 61.113 Private Pilot Privileges and Limitations]]
 	3. Environment
 		1. Weather
 			1. Weather theory -- see [[Aviation Weather Handbook]] for best resources

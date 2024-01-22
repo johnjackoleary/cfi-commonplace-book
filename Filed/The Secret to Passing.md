@@ -1,5 +1,5 @@
 ***Link***      :: [The Secret to Passing](https://www.aopa.org/news-and-media/all-news/2022/july/flight-training-magazine/checkride-101-secret-to-passing)
-***Description***      :: `= this.link`
+***Description***      :: A [[DPE]]'s advice on passing a checkride
 ***Author*** :: [[AOPA]]
 
 #### Key Quotes

@@ -1,4 +1,4 @@
-***Link***      :: [§ 91.7 Civil aircraft airworthiness.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.7)
+***Link***      :: [§ 91.7 Civil aircraft airworthiness.](https://www.ecfr.gov/current/title-14/section-91.7)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

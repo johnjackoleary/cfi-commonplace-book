@@ -24,7 +24,7 @@ Schedule set as part of [[BFR.0 Preparation]]
 2. Cross-Country Flight Plan Review (assignment from [[BFR.0 Preparation]]), covering:
 	1. Regulatory Review (should demonstrate understanding of [[Part 91 Regulatory Review Assignment]])
 	2. Weather & Weather Decision Making
-	3. Risk Management and Personal Minimums
+	3. Risk Management and [[Personal Minimums]]
 	4. Performance and Limitations
 	5. Operations of Systems
 3. General Aviation (GA) Security Issues ([Airport Watch Program](https://www.aopa.org/advocacy/airports-and-airspace/security-and-borders/airport-watch-security))

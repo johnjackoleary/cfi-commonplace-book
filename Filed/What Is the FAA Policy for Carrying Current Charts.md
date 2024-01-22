@@ -1,7 +1,7 @@
 From https://www.faa.gov/air_traffic/flight_info/aeronav/faq/
 
 > [!quote]
-> The specific [[FAA]] regulation, [[FAR 91.103]] "Preflight Actions," states that each pilot in command shall, before beginning a flight, become familiar with all available information concerning that flight. Although the regulation does not specifically require it, you should always carry a current chart with you in flight. Expired charts may not show frequency changes or newly constructed obstructions, both of which when unknown could be a hazard.
+> The specific [[FAA]] regulation, [[FAR 91.103 Preflight Action]] "Preflight Actions," states that each pilot in command shall, before beginning a flight, become familiar with all available information concerning that flight. Although the regulation does not specifically require it, you should always carry a current chart with you in flight. Expired charts may not show frequency changes or newly constructed obstructions, both of which when unknown could be a hazard.
 > 
 > The only FAA/FAR requirements that pertain to charts are:
 > 
