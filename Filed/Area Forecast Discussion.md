@@ -3,3 +3,21 @@
 ***Example***: [SFO Area Forecast Discussion](https://forecast.weather.gov/product.php?format=CI&glossary=1&issuedby=MTR&product=AFD&site=MTR&version=1)
 
 #glossary
+
+
+
+
+From [[CFI PRO-TIPS]]
+So in these situations, it is crucial to read the 
+forecast discussions. Forecasters that issue 
+these TAFs also issue an Area Forecast 
+Discussion or AFD. However, they don't discuss 
+the retired aviation area forecast or the 
+Graphical Forecast for Aviation (GFA). They 
+discuss the various local weather forecast 
+office's county warning areas (CWAs). 
+They are a great way to read what the 
+forecaster is thinking and trying to assess this 
+kind of uncertainty. The same forecaster that 
+issues the TAFs for airports in their respective 
+CWA produces the AFD
