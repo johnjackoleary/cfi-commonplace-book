@@ -30,6 +30,10 @@ Overview of short- and soft-field operations
 	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]
 	6. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
 	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
+	8. Here's how **NOT** to do it: [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/xXz7UyPTytE"  frameborder="0"></iframe>
+
+
 2. Landing
 	1. Complete pre-landing checklist ([[GUMPS]])
 	2. Identify touchdown target (200' zone for Private Pilot; 100' zone for Commercial Pilot)
