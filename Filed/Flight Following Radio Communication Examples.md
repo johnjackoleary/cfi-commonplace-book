@@ -4,4 +4,12 @@ Bit more here as well, with specific examples, but no examples of a handoff: htt
 
 #todo :: Fill in a more specific example of the radio calls involved
 
+From [[CFI PRO-TIPS]]
+> The National Air Traffic Controller 
+Association(N.A.T.C.A.)1 recommends "Regional 
+Approach, Cessna 4941F request VFR Flight 
+Following." to minimize air time, allow 
+controllers to get you a squawk code quickly, 
+and get the details later
+
 #radio-comm
