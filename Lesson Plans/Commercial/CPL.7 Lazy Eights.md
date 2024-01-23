@@ -31,7 +31,7 @@ Ground 0.5 hours, Flight 2 hours
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
 	3. Be careful of overlaying Bravo.
-	4. Establish the recommended entry configuration, power, and airspeed. (See aircraft specific maneuver sheets, e.g. #todo :: add to [[All Maneuvers Quick Reference]])
+	4. Establish the recommended entry configuration, power, and airspeed. (See aircraft-specific maneuver sheets in [[All Maneuvers Quick Reference]])
 4. Maneuver ![[Lazy Eight.jpeg]]
 	1. Pick reference point off wing (90°) in direction of turn. Reference points at 45° and 135° are also useful.
 	2. Establish 5° bank and gradually pitch up (max pitch does not need to be stalling - likely to gain a couple hundred feet)
