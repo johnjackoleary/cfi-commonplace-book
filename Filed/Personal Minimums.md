@@ -36,6 +36,12 @@ There are a few flavors of this approach. Generally, counting up risk factors to
 ## Adjustments for Unusual Circumstances
 Some pilots include adjustments to their minimums based on particular circumstances, for instance if they are fatigued or in a new aircraft. Check out [[Getting the Maximum from Personal Minimums]] for examples of this.
 
+# Instrument Minimums
+Pilots typically set distinct minimums for instrument conditions and [[IFR]] flight.
+
+> [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *Set Personal Minimums* by Sho Akiyama
+> Most pilots understand it is not intelligent to do "zero-zero" take-off. I teach my [[IFR]] students that my personal minimum is the ceiling and visibility that will allow a safe return to the departure airport (or a nearby departure alternative). When the student was a low-time IFR pilot, I advised her to raise the minimum to either a non-precision level or a circling minimum level to depart that airport.
+
 # Additional Suggestions
 ## Wind
 > [!quote] From [[AOPA]]'s [Too Windy?](https://www.aopa.org/news-and-media/all-news/1998/march/pilot/too-windy)
@@ -44,6 +50,14 @@ Some pilots include adjustments to their minimums based on particular circumstan
 For additional methods to find your wind minimums, see [[Personal Minimums for Wind]].
 
 #todo :: add additional expert sources on setting your personal minimums along specific dimensions
+
+## Physio-Minimums
+> [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *Physio-minimums* by Chris Schlanger
+> Set concrete physio-minimums for yourself and share them with your students. What's the minimum sleep you need? What's the latest/longest you'll go since you last slept? What's the longest you can go without eating? 
+> 
+> Should you set a maximum work duration that gives you enough energy to fly? We spend almost all our time on weather minima, yet we often blow through [[IMSAFE]] with little more than "I'm good." That's ridiculous.
+> 
+> Fatigue is our most significant risk and, by definition, a blind spot. Approach it with as much rigor as you would any other risk. In [[PAVE]], Pilot comes first.
 
 # Additional Resources
 - [[AIH AppD]]
