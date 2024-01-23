@@ -7,7 +7,8 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 
 ### References
 - [[AFH Ch10]]
-- [[Commercial ACS]]
+- [[Commercial ACS]] Sec V.D
+- [[All Maneuvers Quick Reference]]
 
 ### Additional Resources
 - [Commercial Lazy Eights by UND](https://www.youtube.com/watch?v=yJb2dYtxfpE)
