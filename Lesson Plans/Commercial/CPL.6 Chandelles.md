@@ -11,6 +11,7 @@ Understand purpose and procedures of a chandelle. Develop skills required to exe
 ### References
 - [[Commercial ACS]] Sec V.C
 - [[AFH Ch10]]
+- [[All Maneuvers Quick Reference]]
 
 ### Builds On
 - [[PPL.6 Maneuvering During Slow Flight]]
