@@ -4,62 +4,16 @@
 
 # Details
 
-Simple examples from [[Flight and Ground Instructor Pro-Tips]]
-Evolution of Navigation 
-Systems. (Disclaimer, I'm going to be a bit 
-liberal with the physics in this example; the 
-principle is what's relevant.) Under VFR, 
-our primary forms of navigation are 
-pilotage and dead reckoning. Using 
-pilotage, we look out the window and 
-determine position based on what we see. 
-But what if we were going to fly across a 
-body of water, like a Great Lake or the Gulf 
-of Mexico (you can come up with other 
-examples)? Suppose we were flying across 
-Lake Superior from Terrace Bay Airport in 
-Terrace Bay, Ontario, to Luce County 
-Airport near Newberry, Michigan, in the 
-middle of the lake. In that case, everything 
-we can see looks like everything else! How 
-could we help ourselves in that situation?
-What if somebody in Newberry was playing 
-music very, very, VERY loudly, and we could 
-hear it from 100 miles away in the airplane? As 
-the music got louder, we would know we were 
-getting closer; if the music got quieter, we were 
-going further away. Could we play the music on 
-a radio station and we could receive that station 
-in the airplane? The closer we got to Newberry, 
-the more we could hear the music; the farther 
-from Newberry, the worse we could hear the 
-music. However, we can't see any land while 
-over the water. 
+> [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *Teach With Context* by Jasper Bolton
+> (Disclaimer, I'm going to be a bit liberal with the physics in this example; the principle is what's relevant.) Under [[VFR]], our primary forms of navigation are [[pilotage]] and [[dead reckoning]]. Using pilotage, we look out the window and determine position based on what we see. But what if we were going to fly across a body of water, like a Great Lake or the Gulf of Mexico (you can come up with other examples)? Suppose we were flying across Lake Superior from Terrace Bay Airport in Terrace Bay, Ontario, to Luce County Airport near Newberry, Michigan, in the middle of the lake. In that case, everything we can see looks like everything else! How could we help ourselves in that situation?
+> 
+> What if somebody in Newberry was playing music very, very, VERY loudly, and we could hear it from 100 miles away in the airplane? As the music got louder, we would know we were getting closer; if the music got quieter, we were going further away. Could we play the music on a radio station and we could receive that station in the airplane? The closer we got to Newberry, the more we could hear the music; the farther from Newberry, the worse we could hear the music. However, we can't see any land while over the water.
+> 
+> Even if we get turned around, we would know if we're getting closer to, farther from, or not changing range to the destination. What if we could invent a device that, instead of playing the music to us in the cockpit, could point at where the music is coming from? We've just created a rudimentary [[NDB|Non-Directional Beacon]], and now we can point toward Newberry.
+> 
+> What if the radio station played different bands in different directions? Nirvana to the North, John Denver to the East, Lynyrd Skynyrd to the South, and U2 to the West; there will be some overlap. If we can hear "Smells Like Teen Spirit" just as well as "With or Without You," we must be northwest of the radio. If we can make our cockpit computer compare how well it can hear each band and plot that information with a needle, we just designed a rudimentary Very-High Frequency Omnidirectional Range ([[VOR]]) facility. With a stopwatch and some math, we can now identify - with a high degree of precision - where we are relative to Newberry.
 
-Even if we get turned around, we would 
-know if we're getting closer to, farther from, or 
-not changing range to the destination. What if 
-we could invent a device that, instead of playing 
-the music to us in the cockpit, could point at 
-where the music is coming from? We've just 
-created a rudimentary Non-Directional Beacon, 
-and now we can point toward Newberry 
-
-What if the radio station played different 
-bands in different directions? Nirvana to the 
-North, John Denver to the East, Lynyrd Skynyrd 
-to the South, and U2 to the West; there will be 
-some overlap. If we can hear "Smells Like Teen 
-Spirit" just as well as "With or Without You," we 
-must be northwest of the radio. If we can make 
-our cockpit computer compare how well it can 
-hear each band and plot that information with a 
-needle, we just designed a rudimentary Very-
-High Frequency Omnidirectional Range (VOR) 
-facility. With a stopwatch and some math, we 
-can now identify - with a high degree of 
-precision - where we are relative to Newberry
-
+#todo :: this feels a bit verbose to include here, but seems like a good example or #flight-instruction-tips . Maybe move to a separate file and just link?
 
 ## VOR
 ### Types of VOR

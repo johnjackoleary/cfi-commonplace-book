@@ -37,10 +37,10 @@ There are a few flavors of this approach. Generally, counting up risk factors to
 Some pilots include adjustments to their minimums based on particular circumstances, for instance if they are fatigued or in a new aircraft. Check out [[Getting the Maximum from Personal Minimums]] for examples of this.
 
 # Instrument Minimums
-Pilots typically set distinct minimums for instrument conditions and [[IFR]] flight.
+Pilots typically set different minimums for instrument conditions and [[IFR]] flight.
 
 > [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *Set Personal Minimums* by Sho Akiyama
-> Most pilots understand it is not intelligent to do "zero-zero" take-off. I teach my [[IFR]] students that my personal minimum is the ceiling and visibility that will allow a safe return to the departure airport (or a nearby departure alternative). When the student was a low-time IFR pilot, I advised her to raise the minimum to either a non-precision level or a circling minimum level to depart that airport.
+> Most pilots understand it is not intelligent to do [[Zero-Zero Takeoff|"zero-zero" take-off]]. I teach my [[IFR]] students that my personal minimum is the ceiling and visibility that will allow a safe return to the departure airport (or a nearby departure alternative). When the student was a low-time IFR pilot, I advised her to raise the minimum to either a non-precision level or a circling minimum level to depart that airport.
 
 # Additional Suggestions
 ## Wind

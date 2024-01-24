@@ -3,5 +3,3 @@
 ***Author*** :: [[Flight and Ground Instructor Pro-Tips]]
 
 #quote
-
-
