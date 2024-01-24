@@ -8,6 +8,7 @@ To develop knowledge of pivotal altitude and the skill to maneuver the airplane 
 ### References
 - [[Commercial ACS]]
 - [[AFH Ch7]]
+- [[All Maneuvers Quick Reference]]
 
 ### Builds On
 [[PPL.10 Ground Reference Maneuvers]]

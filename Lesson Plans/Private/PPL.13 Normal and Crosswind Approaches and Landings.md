@@ -41,7 +41,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 	4. [[Gust Factor]] for final approach speed
 4. Importance of Stabilized Approach to landing
 	1. [[Aiming point]]
-	2. ![[Runway Shape in Stablized Approach.jpeg]]
+	2. ![[Runway Shape in Stabilized Approach.jpeg]]
 	3. [[White Over White, Red Over White, Red Over Red]]
 5. In the Pattern
 	1. Downwind leg
@@ -60,7 +60,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		3. Pitch for airspeed, power for altitude (use glidepath indicator if available). One hand on stick/yoke, other on throttle
 		4. Maintain runway centerline
 		5. Transition to sideslip^[Some pilots prefer to transition a couple hundred feet [[AGL]] to have more time establishing the correct bank angle.] ![[Sideslip Approach.jpeg]]
-		6. Fly to [[aiming point]] ![[Stablized Approach.jpeg]]
+		6. Fly to [[aiming point]] ![[Stabilized Approach.jpeg]]
 		7. > [!tip] Look at aiming point to judge approach
 	4. Roundout
 		1. Judge speed and altitude to short final

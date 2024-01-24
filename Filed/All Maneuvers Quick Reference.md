@@ -15,7 +15,7 @@ tags: [maneuver]
 
 
 ### Commercial Pilot
-#todo :: Add commercial pilot standards
+[[C182T Commercial Maneuvers.pdf]]
 
 ---
 
