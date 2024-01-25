@@ -78,7 +78,7 @@ GPS/Sentry/ADS-B In
 7. Flying the pattern
 	1. Memorize power settings/airspeeds, use wind correction angle like the [[PPL.10 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
-	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]
+	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
 8. Palo Alto specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern

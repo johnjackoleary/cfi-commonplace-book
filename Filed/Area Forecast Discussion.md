@@ -1,5 +1,12 @@
-***Definition***    :: This National Weather Service product is intended to provide a well-reasoned discussion of the meteorological thinking which went into the preparation of the [[Zone Forecast Product]]. The forecaster will try to focus on the most particular challenges of the forecast. The text will be written in plain language or in proper contractions. At the end of the discussion, there will be a list of all advisories, non-convective watches, and non-convective warnings. The term non-convective refers to weather that is not caused by thunderstorms. An intermediate Area Forecast Discussion will be issued when either significant forecast updates are being made or if interesting weather is expected to occur.
-***Source***         :: [[NWS]] [Glossary Page](https://forecast.weather.gov/glossary.php?word=Area%20Forecast%20Discussion)
+---
+aliases:
+- AFD
+---
+
+***Definition***    :: Area Forecast Discussions ([[Area Forecast Discussion|AFD]]) are issued by each weather service forecast office ([[WFO]]) provide a narrative prose about weather conditions within their region as it relates to the creation of the area [[TAF]] products. These are useful for additional aviation related issues that cannot be encoded into the TAF. The discussion also gives some reasoning behind the forecast. These are generated roughly every 6 hours and corresponds to the release of the latest TAFs for that office.
+***Source***         :: [[Aviation Weather Center]] [help page](https://aviationweather.gov/afd/help.html#:~:text=Area%20Forecast%20Discussions%20(AFD)%20are,be%20encoded%20into%20the%20TAF.)
 ***Example***: [SFO Area Forecast Discussion](https://forecast.weather.gov/product.php?format=CI&glossary=1&issuedby=MTR&product=AFD&site=MTR&version=1)
+
+> [!tip] Learn more about forecast discussions in [[Tiny Aerodrome Forecast]].
 
 #glossary

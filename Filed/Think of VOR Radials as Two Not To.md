@@ -1,0 +1,4 @@
+> [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *VOR radials are two not to* by Norton Barros
+> When learning how VOR flags work, it’s typical initially to have difficulty differentiating what information the “from” and “to” indications give you. Suppose instead of lengthy explanations on OBS setting versus aircraft position relative to the station, you tell the student to think that on the instrument is written “to” because of a grammar error, and it should be “TWO” instead because with that flag you have two radials going on. In that case, you can almost immediately see the light bulb in their heads.
+
+#flight-instruction-tips 

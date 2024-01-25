@@ -11,6 +11,8 @@
 [[C182T Gait.pdf]]
 [[C182P with STC Gait.pdf]]
 
+> [!tip] If you're unsure which speeds to use in the traffic pattern, consider this [[Tip on Choosing Pattern Speeds]]
+
 ---
 
 > [!note]

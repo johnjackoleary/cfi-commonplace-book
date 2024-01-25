@@ -1,0 +1,2 @@
+From [[IPH Ch1]]:
+> Aircraft operating under 14 CFR Part 91 are not required to comply with established takeoff minimums. Legally, a zero/ zero departure may be made, but it is never advisable. If commercial pilots who fly passengers on a daily basis must comply with takeoff minimums, then good judgment and common sense would tell all instrument pilots to follow the established minimums as well.
