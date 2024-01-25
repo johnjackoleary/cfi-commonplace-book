@@ -1,36 +1,38 @@
 Don’t forget to listen to [[ATIS]] prior to first call (before taxi, or before calling tower upon return to airport).
 
-#### Ready to taxi for runway 31 for pattern work:
-
-| Them | You |
-| --- | ---- |
-|  | "Palo Alto Ground,<br>Citabria Tree-Seven-Four-Delta-Mike, <br>Hotel row, <br>closed traffic, <br>with November" |
-|  Reply will be similar to:<br>"Citabria 374DM, <br>taxi Three-One via hangar side, Juliet, Papa, Yankee, Yankee One, Zulu, <br>Advise Ground when runup complete."   |   Your Readback:<br>"Runway Three One via Juliet, Papa, Yankee, Yankee One, Zulu, <br> 374DM"   |
-
-
-
+#### Ready to taxi (runway 31, for pattern work):
+<table>
+<tr><th>ATC<th colspan="2">You
+<tr><td><td colspan="2"><i>"Palo Alto Ground,<br>Citabria one-two-three-alpha-bravo, <br>Hotel row, <br>closed traffic, <br>with November" </i>
+<tr><td colspan="3"><i>"Citabria 123AB, <br>Taxi Three-One via hangar side, Juliet, Papa, Yankee, Yankee One, Zulu; <br>Advise Ground when runup complete."</i> 
+<tr><td><td colspan="2"><i>"Runway Three One via Juliet, Papa, Yankee, Yankee One, Zulu, <br>123AB"</i> 
+</table>
 
 
- 
-#### Ready to taxi (runway 13, departure to the west)
-
-| Them | You |                                                                 
-| ---- | --- |
-|  | "Palo Alto Ground, <br>Citabria Five-Niner-Six-Juliet-Romeo, <br>parked West Valley, <br>Left 270 Overhead departure, <br>with November" | . |
-| Reply will be similar to: <br>"Citabria 596JR, <br>taxi runway One-Three via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three" |  Readback: <br>"Runway One-Three <br>via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three, <br> 596JR"   |                                                                                                                           
 
 
+#### Ready to taxi (runway 13, departure to the west):
+<table>
+<tr><th>ATC<th colspan="2">You
+<tr><td><td colspan="2"><i>"Palo Alto Ground, <br>Citabria 123AB, <br>parked West Valley, with November<br>Left 270 Overhead departure" </i>
+<tr><td colspan="3"><i>"Citabria 123AB, <br>Taxi runway One-Three via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three" </i> 
+<tr><td><td colspan="2"><i>"Runway One-Three <br>via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three, <br>123AB" </i> 
+</table>                                                                                                                       
 
 
 #### After runup, ready for takeoff
-
-| Them | You |
-| ---- | --- |
-|     |  "Ground, <br>Citabria 596JR, <br>Runup Complete" ^[This is a bit specific to KPAO, your airport may have its own variation on procedures.]  |
-|  "Citabria Six Juliet Romeo, <br>Hold short Yankee One, <br>contact Tower".     | "hold short Yankee One, <br>contact Tower, <br> 6JR"   |
-|      |  Taxi as instructed.  <br>Then contact tower for takeoff clearance: <br>"Palo Alto Tower, <br>Citabria 596JR, <br>Holding short Yankee One, <br>Ready for departure".    |
-|  "Citabria Five-Niner-Six-Juliet-Romeo, <br>hold short Runway Three-One"    |  "Hold short Three-One, <br>596JR"   |
-| And then maybe something like: <br>"Citabria Six-Juliet-Romeo, <br>cleared for takeoff runway Three One, <br>left Dumbarton Departure, <br>follow Cessna on upwind"  |  "Cleared for takeoff runway Three One, <br>left Dumbarton Departure, <br>following Cessna, <br>Citabria 6JR" |
+<table>
+<tr><th>ATC<th colspan="2">You
+<tr><td><td colspan="2"><i>"Ground, <br>Citabria 123AB, <br>Runup Complete" </i> 
+<b>[This is a bit specific to KPAO, your airport may have its own variation on procedures.] </b>
+<tr><td colspan="3"><i>"Citabria Three Alpha Bravo, <br>Hold short Yankee One, <br>contact Tower"</i>
+<tr><td><td colspan="2"><i>"Hold short Yankee One, <br>contact Tower, <br>3AB" </i>
+<tr><td><td colspan="2"><b>Taxi as instructed.  <br>Then contact tower for takeoff clearance: </b><br><i>"Palo Alto Tower, <br>Citabria 123AB, <br>Holding short Yankee One, <br>Ready for departure"</i>
+<tr><td colspan="3"><i>"Citabria 123AB, <br>hold short Runway Three-One"</i>
+<tr><td><td colspan="2"><i>"Hold short Three-One, <br>123AB" </i><br><b>Taxi as instructed</b>
+<tr><td colspan="3"><i>"Citabria 3AB, <br>cleared for takeoff runway Three One, <br>left Dumbarton Departure, <br>follow Cessna on upwind" </i>
+<tr><td><td colspan="2"><i>"Cleared for takeoff runway Three One, <br>left Dumbarton Departure, <br>following Cessna, <br>Citabria 3AB"
+</table>  
 
 
 #### Initial call when returning for landing:
