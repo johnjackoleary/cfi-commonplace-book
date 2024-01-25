@@ -38,6 +38,11 @@ Ground 0.5 hours, Flight 2 hours
 	8. Wings should become level just as the 180° point is reached.  Airspeed should be just above Vs1
 	9. Hold Vs1 momentarily, then recover to cruise flight, maintaining altitude.
 
+### Common Errors
+- Letting pitch increase too quickly at the onset of the maneuver
+- Letting the pitch sag during the second half of the maneuver
+- Rolling out too suddenly
+
 ### Completion Standards
 Learner is able to rollout at the 180° point, ±10°, and just above a stall airspeed, then maintain that airspeed momentarily while avoiding a stall. Recover to cruise flight, maintaining altitude.
 
@@ -48,6 +53,7 @@ Learner is able to rollout at the 180° point, ±10°, and just above a stall ai
 None
 
 ### Recommended Homework
+- [ ] Demonstrate the maneuver using a model airplane
 - [ ] Chair fly chandelle
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
