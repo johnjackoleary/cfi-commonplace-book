@@ -6,7 +6,7 @@
 
 # Details
 
-[[GNSS]]
+1. [[GNSS]]
 	1. [[GPS]] Constellation
 		1. 24 Satellites, 12,000 miles above sfc of earth, each orbit earth 2x per 24 hours
 	2. Calculating position
