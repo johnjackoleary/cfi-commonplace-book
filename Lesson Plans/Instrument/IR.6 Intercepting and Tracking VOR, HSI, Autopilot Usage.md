@@ -21,14 +21,6 @@ Ground 2 hour; simulator and/or airplane, 2 hours
 
 ### Lesson Elements
 1. [[Ground-Based Navigation using VOR, DME, and ILS]]
-6. DME arcs
-	1. “Turn 10, Twist 10”
-	2. Interception: Lead 90 heading perpendicular to the arc/radial by ~1 nm
-	3. On the arc: Every new 10 radial, turn 10° and twist OBS 10°
-		1. If inside/outside arc: heading turn may be slightly more or less than 10°
-	4. Note how quickly the needle swings, and lead turn appropriately
-		1. Should lead by ~1nm
-		2. Consider (60 / DME distance) = degrees deflection to lead by
 7. Autopilot systems and usage 
 	1. POH and AFM supplements pertaining to Autopilot 
 	2. Preflight check of autopilot 

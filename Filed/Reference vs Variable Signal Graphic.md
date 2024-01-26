@@ -1,3 +1,2 @@
 <a href="https://commons.wikimedia.org/wiki/File:VOR_principle.gif#/media/File:VOR_principle.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/VOR_principle.gif" alt="VOR principle.gif" height="320" width="320"></a>
-
 By <a href="//commons.wikimedia.org/wiki/User:Orion_8" title="User:Orion 8">Orion 8</a>, <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=29782555">Link</a>
