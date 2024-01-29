@@ -34,7 +34,7 @@ Hood or foggles
 			2. Inverted V-scan to check trends
 			3. Scan primary instruments
 			4. Scan all instruments
-2. Attitude instrument flight pasics
+2. Attitude instrument flight basics
 	1. Power-Pitch-Trim sequence to initiate climb, Pitch-Power-Trim for descent.
 	2. Straight and Level flight (IFH 7-2)
 	3. Straight climbs and descents (IFH 7-14)
