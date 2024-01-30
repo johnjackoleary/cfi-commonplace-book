@@ -1,3 +1,10 @@
+> [!note] 
+> See also, Student Endorsements:
+> - [[Pre-Solo Endorsements]]
+> - [[Solo Cross-Country Endorsements]]
+> - [[Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
+> - [[Takeoffs and Landings At Airport Within 25 NM Endorsement]]
+
 **A.1 Prerequisites for practical test: Title 14 of the Code of Federal Regulations (14 CFR) part 61, § [[FAR 61.39 Prereqs for practical tests|61.39]](a)(6)(i) and (ii).**
 
 I certify that \[First name, MI, Last name\] has received and logged training time within 2 calendar-months preceding the month of application in preparation for the practical test and \[he or she\] is prepared for the required practical test for the issuance of Private Pilot Airplane Single Engine Land (ASEL) certificate.
