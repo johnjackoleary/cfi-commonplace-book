@@ -19,10 +19,11 @@ All pre-solo lessons
 
 ### Lesson Elements
 1. Documentation and paperwork
-	1. Logbook & Endorsement [[Pre-Solo Endorsements]]
-	2. Student Pilot Certificate [[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]]
-	3. Government Issued ID [[FAR Part 61.3 Cert and Rating Reqs]]
-	4. Medical Certificate [[FAR 61.113 Private Pilot Privileges and Limitations]] 
+	1. Flight Training in [[PPL.A Part 61 Private Pilot Training Requirements]] completed and logged
+	2. [[Pre-Solo Endorsements]] completed
+	3. Student Pilot Certificate [[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]] in possession
+	4. Government Issued ID [[FAR Part 61.3 Cert and Rating Reqs]] in possession
+	5. Medical Certificate [[FAR 61.113 Private Pilot Privileges and Limitations]]  in possession
 2. Aircraft Systems
 	1. Primary/Secondary flight controls
 	2. Powerplant and propeller
