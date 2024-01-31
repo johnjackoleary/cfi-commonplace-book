@@ -11,7 +11,10 @@ tags:
 > - [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
 > - [[PPL.25 Lost Procedures and Diversion to Alternates]]
 
-### [[Commercial ACS]] Tolerance Differences
+### References
+- [[Commercial ACS]] Sec VI.A,B,C,D
+
+### Tolerance Differences
 - Verify position within 2nm of route
 - Arrive within 3min of planned ETA
 - Altitude ±100ft, heading ±10°
