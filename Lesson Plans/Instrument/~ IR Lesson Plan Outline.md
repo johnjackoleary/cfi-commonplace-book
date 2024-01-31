@@ -43,6 +43,7 @@ tags:
 [[IR.B IFR Endorsements]]
 [[IR.C Important References to Study]]
 [[IR.D Kneeboard Cheatsheets]]
+[[IR.E Sample Instrument Approach Circuits for Bay Area]]
 
 ### Pre-Lesson Reading
 [[~ IR Pre-Lesson Reading]]
