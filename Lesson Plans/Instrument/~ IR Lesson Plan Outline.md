@@ -28,8 +28,8 @@ tags:
 [[IR.11 Communications, Clearances, Lost Communications Procedures]]
 [[IR.12 Approach Charts and Procedures]]
 [[IR.13A RNAV (GPS) Approaches]]
-[[IR.13B ILS Approaches]]
-[[IR.13C VOR Approaches]]
+[[IR.13B ILS + LOC Approaches]]
+[[IR.13C VOR + Circling Approaches]]
 [[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
 [[IR.15 Partial Panel Maneuvers and Approaches]]
 

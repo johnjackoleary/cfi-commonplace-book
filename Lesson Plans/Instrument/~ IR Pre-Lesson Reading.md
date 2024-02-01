@@ -13,8 +13,8 @@
    | [[IR.11 Communications, Clearances, Lost Communications Procedures]]     | #todo :: Finish these                   | 3B-C       |          |
    | [[IR.12 Approach Charts and Procedures]]                                 |                                         | 7A-B       |          |
    | [[IR.13A RNAV (GPS) Approaches]]                                         |                                         | 8A         |          |
-   | [[IR.13B ILS Approaches]]                                                |                                         | 8B         |          |
-   | [[IR.13C VOR Approaches]]                                                |                                         | 8C         |          |
+   | [[IR.13B ILS + LOC Approaches]]                                                |                                         | 8B         |          |
+   | [[IR.13C VOR + Circling Approaches]]                                                |                                         | 8C         |          |
    | [[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]       |                                         | 4A-B, 6A-B |          |
    | [[IR.15 Partial Panel Maneuvers and Approaches]]                         |                                         |            |          |
    | [[IR.16 IFR Weather and Weather Services]]                               |                                         | 9A-E       |          |
