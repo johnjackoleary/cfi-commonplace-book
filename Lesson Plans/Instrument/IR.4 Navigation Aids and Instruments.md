@@ -8,6 +8,8 @@ tags:
 ### Objective
 Understand the infrastructure and instruments used for navigation, how each system works, and how to determine if the system is functional. Additionally, to understand the tools available for ice.
 
+#todo :: split into [[IR.1 Introduction and Instrument Systems]] and [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]] and [[IR.7 GPS Navigation and Autopilot Usage]]
+
 ### References
 None
 
@@ -37,6 +39,7 @@ Ground 3 hours
 		1. Transmitted on 1350Hz
 		2. The DME can work if VOR inoperative
 	4. VOR/DME, VORTAC, ILS/DME, LOC/DME
+	5. #todo :: combine this with [[Satellite Navigation using GPS and GNSS]] and [[Ground-Based Navigation using VOR, DME, and ILS]]
 3. Instrument landing system ([[ILS]]) (AIM 1-1-9)
 	1. Localizer  (Lateral)
 		1. 108.1-111.95 odd tenths

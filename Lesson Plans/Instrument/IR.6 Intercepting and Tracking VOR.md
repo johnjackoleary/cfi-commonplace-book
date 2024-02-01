@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-VOR orientation, course intercepts and tracking, and use of HSI, if available. DME arcs. Autopilot systems and operation. 
+VOR orientation, course intercepts and tracking, and use of HSI, if available. Autopilot systems and operation. 
 
 ### References
 - [[Instrument ACS]] section V
