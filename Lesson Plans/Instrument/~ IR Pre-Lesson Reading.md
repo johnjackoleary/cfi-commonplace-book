@@ -1,4 +1,4 @@
-   | Section                                                                  | FAA                                     | Jeppesen   | Sporty's |
+   | Section                                                                  | FAA                                     | [Jeppesen](https://shop.jeppesen.com/All-Products/Training/Training-Type/E-Books/Instrument-Commercial-E-book/p/10277281)   | Sporty's |
    | ------------------------------------------------------------------------ | --------------------------------------- | ---------- | -------- |
    | [[IR.1 Introduction and Instrument Systems]]                             | [[IFH]] Ch. 5-6                         | 1A,2A,2B   |          |
    | [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]               | [[IFH]] Ch. 6-7                         | 2C         |          |

@@ -1,4 +1,4 @@
-***Link***      :: [4 Step Instrument Scan](https://www.aopa.org/news-and-media/all-news/2003/october/flight-training-magazine/4-step-instrument-scan
+***Link***      :: [4 Step Instrument Scan](https://www.aopa.org/news-and-media/all-news/2003/october/flight-training-magazine/4-step-instrument-scan)
 ***Description***      :: `= this.link`
 ***Author*** :: [[AOPA]]
 

@@ -12,12 +12,12 @@ Develop proficiency in flying RNAV (GPS) approaches, and demonstrate understandi
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Schedule
-Ground 30m, simulator – 2.5 hours 
+Ground 30m, Sim – 2.5 hours 
 
 ### Lesson Elements
 
 1. GPS Receiver Types
-	1. Non WAAS: TSO-C129 or TSO C-196
+	1. Non [[WAAS]]: TSO-C129 or TSO C-196
 	2. WAAS: TSO C-145 or TSO C-146
 2. Types of RNAV (GPS) Approaches
 	2. Lateral Guidance Only (MDA)

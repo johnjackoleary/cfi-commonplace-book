@@ -14,9 +14,10 @@ The 180° power-off approach is executed by gliding with idle power from a given
 
 ### References
 - [[AFH Ch9]]
+- [[Commercial ACS]] Sec IV.M
 
 ### Builds On
-- [[CPL.2 Takeoff, Landings, and Go-Arounds]]
+- [[CPL.2 Takeoffs, Landings, and Go-Arounds]]
 - [[PPL.15 Emergency Landings]]
 
 ### Schedule
