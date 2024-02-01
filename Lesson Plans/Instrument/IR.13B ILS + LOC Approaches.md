@@ -6,8 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Develop proficiency in flying LOC and ILS approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
-This lesson will introduce procedure turns. 
+Develop proficiency in flying LOC and ILS approaches, procedure turns, and demonstrate understanding of landing minimums and missed approach procedures.
 
 ### References 
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
