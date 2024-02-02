@@ -16,7 +16,7 @@ tags:
 [[IR.1 Introduction and Instrument Systems]]
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
 [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
-[[IR.5 Flight Deck Organization, Workload Management, Checklists]]
+[[IR.5 Flight Deck Organization, Workload and Automation Management]]
 [[IR.6 Intercepting and Tracking VOR]]
 [[IR.7 GPS Navigation]]
 [[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]

@@ -15,7 +15,7 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 
 ### Builds On
-- [[IR.5 Flight Deck Organization, Workload Management, Checklists]]
+- [[IR.5 Flight Deck Organization, Workload and Automation Management]]
 - [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
 - [[IR.11 Communications, Clearances, Lost Communications Procedures]]
 

@@ -6,7 +6,8 @@ tags:
   - lesson
 ---
 ### Objective
-Memorize common mental checklists and learn to use mental checklists and flow patterns backed up by written checklists. 
+Understand the ways to utilize different tools in the flight deck, understand the benefits and risks associated with automation management, and learn techniques to efficiently manage workflows during IFR flight. 
+
 
 ### References
 None
