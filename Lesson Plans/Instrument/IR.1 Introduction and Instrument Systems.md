@@ -8,6 +8,9 @@ tags:
 ### Objective
 Develop understanding of IFR flight training process, and detailed knowledge of instrument systems and pre-flight checks.
 
+> [!note]
+> This lesson is designed as both an introduction to [[IFR]] training and an in-depth review of instrument systems and pre-flight likely covered in [[PPL]] training.
+
 ### References
 - [[IR.A Instrument Rating Flight Experience Requirements]]
 - [[POH]]/[[AFM]] 
@@ -49,7 +52,7 @@ Ground 3 hours
 		5. Set to ALT (Lights, Camera, Action, Time check)
 	7. Radio: Look for TX, RX
 	8. #G1000 specific topics: 
-		1. [[AHRS]] vs ADC – what are they, what do you do if they fail?
+		1. [[AHRS]] vs [[ADC]] – what are they, what do you do if they fail?
 		2. Electrical system – how do you know if the alternator has failed? 
 		3. If you are running on Standby battery – what still functions?
 			1. PFD, AHRS, [[ADC]], Com1, Nav1, stby inst lights, stby bus 
@@ -73,11 +76,7 @@ Ground 3 hours
 	15. Anti-icing systems 
 		1. [[OAT]] Probe
 		2. De-ice vs anti-ice
-	16. Procedures and documentation for flying with inoperative equipment 
-3. Diagnosing system failures (may require partial panel)
-	1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
-	2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
-	3. Pitch triangle: [[AI]], Altimeter, [[VSI]] ([[ASI]], vacuum gauge) 
+	16. Procedures and documentation for flying with inoperative equipment  
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.
