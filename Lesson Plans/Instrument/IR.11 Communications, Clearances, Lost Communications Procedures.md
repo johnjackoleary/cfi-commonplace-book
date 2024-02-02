@@ -63,7 +63,6 @@ Ground 2 hours
 		3. Release Time
 		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
 	8. What if I don’t like the clearance? (AIM 4-4-4)
-3.
 
 
 ![[IFR Radio Comm Part 1 General.jpeg]]

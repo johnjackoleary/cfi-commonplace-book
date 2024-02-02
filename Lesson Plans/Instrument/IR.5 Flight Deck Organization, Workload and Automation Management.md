@@ -8,7 +8,6 @@ tags:
 ### Objective
 Understand the ways to utilize different tools in the flight deck, understand the benefits and risks associated with automation management, and learn techniques to efficiently manage workflows during IFR flight. 
 
-
 ### References
 None
 

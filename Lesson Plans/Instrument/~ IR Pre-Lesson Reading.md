@@ -18,7 +18,7 @@
    | [[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]       |                                         | 4A-B, 6A-B                                                                                                                |          |
    | [[IR.15 Partial Panel Maneuvers and Approaches]]                         |                                         |                                                                                                                           |          |
    | [[IR.16 IFR Weather and Weather Services]]                               |                                         | 9A-E                                                                                                                      |          |
-   | [[IR.17 Enroute and Cross-Country Instrument Flight]]                    |                                         | 10A-C                                                                                                                     |          |
+   | [[IR.17 Enroute and Cross-Country Instrument Flight, Including Lost Comms]]                    |                                         | 10A-C                                                                                                                     |          |
    | [[IR.18 Review and Checkride Prep]]                                      |                                         |                                                                                                                           |          |
 
 #todo :: feel free to add other source materials if you're using something else!

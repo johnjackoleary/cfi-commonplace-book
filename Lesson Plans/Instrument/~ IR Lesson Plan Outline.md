@@ -34,7 +34,7 @@ tags:
 
 #### Stage III: Weather, Cross-Country, and Checkride Prep
 [[IR.16 IFR Weather and Weather Services]]
-[[IR.17 Enroute and Cross-Country Instrument Flight]]
+[[IR.17 Enroute and Cross-Country Instrument Flight, Including Lost Comms]]
 [[IR.18 Review and Checkride Prep]]
 
 #### Appendices
@@ -49,4 +49,4 @@ tags:
 
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Dec 20, 2023.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Feb 1, 2024.

@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country and filing a flight plan. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs]].
+Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country and filing a flight plan, including [[lost communications]] procedures. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs]].
 
 ### References
 - [[FAR 61.65 Instrument Rating Reqs]], 91.167-187
@@ -38,13 +38,13 @@ Ground 1.5 hours, Flight 3 hours
 	6. Personal minimums and go/no-go decisions. 
 	7. Filing IFR flight plan, and procedures for activating and closing IFR flight plans
 	8. Knowledge of GPS and RAIM capability and prediction, if necessary
-3. Enroute procedures: 
+3. Enroute procedures
 	1. Required reports and position report format 
 	2. Fuel planning and monitoring, re-calculating fuel reserves 
 	3. Weather updates 
 	4. Route changes 
 	5. Diversion to alternate 
-4.  Loss of Communications ([[FAR 91.185 Lost Comms]])
+4. [[Lost Communications]] ([[FAR 91.185 Lost Comms]])
 	1. Squawk 7600 
 	2. In VMC, continue VFR, land as soon as practicable. 
 	3. In IMC: 
