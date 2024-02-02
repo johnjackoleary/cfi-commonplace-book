@@ -16,27 +16,26 @@ tags:
 [[IR.1 Introduction and Instrument Systems]]
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
 [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
-[[IR.4 Navigation Aids and Instruments]]
-[[IR.5 Flight Deck Organization, Workload Management, Checklists]]
-[[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
-[[IR.7 GPS Navigation and Autopilot Usage]]
-[[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]
+[[IR.4 Flight Deck Organization, Workload and Automation Management]]
+[[IR.5 Intercepting and Tracking VOR]]
+[[IR.6 GPS Navigation]]
+[[IR.7 Unusual Attitude Recoveries, Including Partial Panel]]
 
 #### Stage II: IFR Charts, Instrument Approaches, Emergencies
-[[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
-[[IR.10 Holding Patterns and Workload Management]]
-[[IR.11 Communications, Clearances, Lost Communications Procedures]]
-[[IR.12 Approach Charts and Procedures]]
-[[IR.13A RNAV (GPS) Approaches]]
-[[IR.13B ILS Approaches]]
-[[IR.13C VOR Approaches]]
-[[IR.14 IFR Departure Procedures and Terminal Arrival Procedures]]
-[[IR.15 Partial Panel Maneuvers and Approaches]]
+[[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
+[[IR.9 Holding Patterns and Workload Management]]
+[[IR.10 Communications and Clearances]]
+[[IR.11 Approach Charts and Procedures]]
+[[IR.12A RNAV (GPS) Approaches]]
+[[IR.12B ILS + LOC Approaches]]
+[[IR.12C VOR + Circling Approaches]]
+[[IR.13 IFR Departure Procedures and Terminal Arrival Procedures]]
+[[IR.14 Partial Panel Maneuvers and Approaches]]
 
 #### Stage III: Weather, Cross-Country, and Checkride Prep
-[[IR.16 IFR Weather and Weather Services]]
-[[IR.17 Enroute and Cross-Country Instrument Flight]]
-[[IR.18 Review and Checkride Prep]]
+[[IR.15 IFR Weather and Weather Services]]
+[[IR.16 Enroute and Cross-Country Instrument Flight, Including Lost Comms]]
+[[IR.17 Review and Checkride Prep]]
 
 #### Appendices
 [[IR.A Instrument Rating Flight Experience Requirements]]
@@ -45,9 +44,6 @@ tags:
 [[IR.D Kneeboard Cheatsheets]]
 [[IR.E Sample Instrument Approach Circuits for Bay Area]]
 
-### Pre-Lesson Reading
-[[~ IR Pre-Lesson Reading]]
-
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Dec 20, 2023.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Feb 1, 2024.

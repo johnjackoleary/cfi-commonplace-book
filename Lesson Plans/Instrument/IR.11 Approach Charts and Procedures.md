@@ -15,12 +15,15 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 
 ### Builds On
-- [[IR.5 Flight Deck Organization, Workload Management, Checklists]]
-- [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[IR.11 Communications, Clearances, Lost Communications Procedures]]
+- [[IR.4 Flight Deck Organization, Workload and Automation Management]]
+- [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IR.10 Communications and Clearances]]
 
 ### Schedule
-Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
+Ground 1.5 hours
+
+> [!note] 
+> Can be completed at the same time as [[IR.11 Approach Charts and Procedures]].
 
 ### Lesson Elements
 1. Precision vs. Non Precision
@@ -39,7 +42,7 @@ Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
 	1. Use of GPS maps and guidance for initial approach (AC 90-108)
 	2. Methods for switching CDI from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
-	4. Missed approach guidance – GPS guidance for missed approach 
+	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 4. ATC Approach Clearances
 	1. https://www.ifr-magazine.com/technique/approach-clearance/
 	2. [[When Are You Established]]?

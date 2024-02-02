@@ -11,6 +11,10 @@ Develop proficiency in flying RNAV (GPS) approaches, and demonstrate understandi
 ### References
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
+### Builds On
+[[IR.6 GPS Navigation]]
+[[IR.11 Approach Charts and Procedures]]
+
 ### Schedule
 Ground 30m, Sim – 2.5 hours 
 
@@ -20,16 +24,11 @@ Ground 30m, Sim – 2.5 hours
 	1. Non [[WAAS]]: TSO-C129 or TSO C-196
 	2. WAAS: TSO C-145 or TSO C-146
 2. Types of RNAV (GPS) Approaches
-	2. Lateral Guidance Only (MDA)
-		1. LNAV, LP
-	3. Lateral and Vertical Guidance (DA)
-		1. LNAV/VNAV, LPV
-	4. Lateral and Advisory Vertical Guidance
-		1. LNAV+V, LP+V
-	5. Other RNAV approaches
-		1. GLS, RNP
-3. CDI Sensitivity
-	1. Good writeup in an old article [GPS Approach Types and Needle Sensitivity](https://web.archive.org/web/20140620044408/http://allaboutairplanes.wordpress.com/2011/10/)^[#todo :: would be nice to replace this with an article which is still online]
+	1. Lateral Guidance Only (MDA): LNAV, LP
+	3. Lateral and Vertical Guidance (DA): LNAV/VNAV, LPV
+	4. Lateral and Advisory Vertical Guidance: LNAV+V, LP+V
+	5. Other RNAV approaches: GLS, RNP
+3. CDI Sensitivity: [[RNP Precision per Approach Segment.jpeg]]
 4. RNAV (GPS) Approach Shapes
 	1. Basic T Shape
 	2. TAA

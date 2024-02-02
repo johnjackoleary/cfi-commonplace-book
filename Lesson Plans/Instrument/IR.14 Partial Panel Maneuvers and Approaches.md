@@ -11,7 +11,9 @@ Review instrument systems and diagnosis of instrument or system failures. To dev
 ### References
 IFH Ch 3, 5, 7 
 
-### 
+### Builds On
+[[IR.7 Unusual Attitude Recoveries, Including Partial Panel]]
+[[IR.10 Communications and Clearances]]
 
 chedule: Ground 1 hour, simulator and/or airplane, 1 hour 
 
@@ -48,6 +50,8 @@ Lesson Elements:
 Student must demonstrate understanding of instrument systems and ability to diagnose instrument and system failures. Student must become proficient in partial panel procedures, including enroute and instrument approaches (to be practiced frequently in future lessons).
 
 ### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs]](c):
+- Emergency operations
 
 ### Required Homework
 - [ ] 

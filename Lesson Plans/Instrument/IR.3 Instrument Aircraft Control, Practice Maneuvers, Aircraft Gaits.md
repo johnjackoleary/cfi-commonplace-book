@@ -47,10 +47,8 @@ Simulator and/or airplane, 1.5 hours
 Student must become proficient at transitioning between the phases of flight used on a typical IFR flight. Maintain heading within 10°, altitude within 100 feet, airspeed within 10 kts.
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Preflight procedures
-- Postflight procedures
-- Preflight preparation
+For [[FAR 61.65 Instrument Rating Reqs]](c):
+- Flight by reference to instruments
 
 ### Required Homework
 - [ ] Memorize the [[Aircraft Gait Charts|"Gait" table]] and/or have printed on kneeboard

@@ -6,10 +6,14 @@ tags:
   - lesson
 ---
 ### Objective
-Develop proficiency in flying ILS approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
+Develop proficiency in flying LOC and ILS approaches, procedure turns, and demonstrate understanding of landing minimums and missed approach procedures.
 
 ### References 
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
+
+### Builds On
+[[IR.5 Intercepting and Tracking VOR]]
+[[IR.11 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 30m, simulator – 2.5 hours 
@@ -22,7 +26,8 @@ Ground 30m, simulator – 2.5 hours
 	3. Outer Marker
 		1. OM substitutions: Compass locator, PAR, ASR, DME, VOR, NDB, RNAV in conjunction with fix
 		2. IM (used for CAT II and CAT III approaches)
-2. Other Types of Approaches
+2. Procedure Turns
+3. Other Types of Approaches
 	1. LDA
 	2.  Back Course
     

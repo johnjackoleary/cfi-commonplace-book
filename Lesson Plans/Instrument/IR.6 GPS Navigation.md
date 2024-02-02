@@ -13,7 +13,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 - GPS manual
 
 ### Builds On
-[[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
+[[IR.5 Intercepting and Tracking VOR]]
 
 ### Schedule
 Ground 1.5-hour, simulator and/or airplane, 1.5 hours 
@@ -48,18 +48,19 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 	3. Pop-up or other method to resume sequencing to missed approach point
 	4. Use of vectors to final (VTF) with GPS (don’t do it!) 
 	5. Using GPS for guidance on ILS and VOR approaches – how and when to transition from GPS guidance to VOR or Localizer? Auto or manual?
-8. Autopilot
-	1. Single axis vs. Dual axis
-	2. Functions
 9. Common Errors
 	1. Not knowing your GPS (GPS simulation software for home practice is great!)
 	2. VLOC vs GPS
 	3. Switching autopilot between GPS, VOR, heading bug, etc. 
 	4. Risk management - New or unfamiliar GPS demands significant practice with VFR conditions before using in IMC! GPS brings impressive capabilities and situational awareness, but at the risk of significant complexity and variability between systems! 
+10. [[Autopilot Systems and Usage]]
+	
 ### Completion Standards
 Student must understand the different types of GPS installations and “flavors” of GPS approaches. Student must become proficient at creating GPS flight plans, navigating with GPS, and modifying flight plans and approach selections. Student must understand particular GPS techniques for holding and flying missed approaches and using autopilot interfaces (if installed).
 
 ### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs]](c):
+- Navigation systems
 
 ### Required Homework
 - [ ] 

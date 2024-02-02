@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Memorize common mental checklists and learn to use mental checklists and flow patterns backed up by written checklists. 
+Understand the ways to utilize different tools in the flight deck, understand the benefits and risks associated with automation management, and learn techniques to efficiently manage workflows during IFR flight. 
 
 ### References
 None
@@ -15,7 +15,7 @@ None
 - [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
-Ground 1 hour 
+Ground 1 hour, sim/airplane 1 hour
 
 ### Lesson Elements
 1. [[Aviate, Navigate, Communicate]]
@@ -40,7 +40,9 @@ Ground 1 hour
 	4. Approach briefing: [[AIRBAG]] or [[WRIMTMS]] - ATIS/AWOS, Install Approach, Radios/Radials, Brief Approach and Going Missed
 	5. 5 Ts: Time (start timer), Turn, Throttle, Tune and/or Twist (nav freq and OBS), Talk 
 	6. Non-radar position reports: [[PTATEN]] Position, Time, Altitude, Type of flight plan (only required for FSS reports), Estimated time of arrival at the next reporting point, Name of the reporting point after that
-8. Common Errors 
+8. [[Autopilot Systems and Usage]]
+	1. Helpful to practice this in sim first
+9. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
 	3. Diverting attention during maneuvers like turning, or before reaching altitude. 
