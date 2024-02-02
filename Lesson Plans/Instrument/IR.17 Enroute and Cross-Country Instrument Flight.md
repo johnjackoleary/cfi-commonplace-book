@@ -44,11 +44,23 @@ Ground 1.5 hours, Flight 3 hours
 	3. Weather updates 
 	4. Route changes 
 	5. Diversion to alternate 
-4. Common errors 
+4.  Loss of Communications ([[FAR 91.185 Lost Comms]])
+	1. Squawk 7600 
+	2. In VMC, continue VFR, land as soon as practicable. 
+	3. In IMC: 
+		1. For Route, use mnemonic AVE-F – Assigned, Vectored, Expected, then Filed (in that order of priority) 
+		2. For Altitude on each route segment, use highest of mnemonic MEA – Minimum (MEA), Expected, Assigned 
+		3. Leave Clearance Limit
+			1. When at fix from which approach begins, leave at EFC time if given, otherwise commence descent as close as possible to ETA
+			2. When not at a fix from which approach begins, leave clearance limit at the EFC time if received and proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA. Otherwise upon arrival over the clearance limit, proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA
+5. Common errors 
 	1. Inadequate preflight planning and briefings 
 	2. Incorrect understanding of non-standard takeoff minimums and alternate minimums 
 ### Completion Standards
 To demonstrate knowledge, skill, and judgment in IFR cross country planning to meet the applicable ACS standards. Completion of the instrument cross-country flight to satisfy aeronautical experience in FAR 61.65.
+
+![[IFR Radio Comm Part 1 General.jpeg]]
+![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 
 ### Required Logbook Phraseology
 

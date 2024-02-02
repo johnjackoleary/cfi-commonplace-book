@@ -43,34 +43,30 @@ Ground 2 hours
 		5. Estimated time of arrival at the next reporting point
 		6. Name of the reporting point after that
 2. Clearances 
-	1. CRAFT mnemonic 
+	1. When are clearances required? 14CFR 91.173
+	2. How to obtain clearance
+		1. Clearance Delivery/GND at Towered Airport
+		2. FSS
+		3. Approach/Departure Radio OR Phone
+	3. CRAFT mnemonic 
 		1. Clearance limit 
 		2. Route 
 		3. Altitude 
 		4. Frequency 
 		5. Transponder code 
-	2. Clearance shorthand (IFH Appendix A)
-	3. “At Pilots Discretion” (AIM 4-4-10)
-	4. VFR on top (AIM 4-4-8)
-	5. Departure Restrictions (AIM 5-2-7)
+	4. Clearance shorthand (IFH Appendix A)
+	5. “At Pilots Discretion” (AIM 4-4-10)
+	6. VFR on top (AIM 4-4-8)
+	7. Departure Restrictions (AIM 5-2-7)
 		1. Clearance void time (don’t exceed 30min)
 		2. Hold for release 
 		3. Release Time
 		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
-	6. What if I don’t like the clearance? (AIM 4-4-4)
-3. Loss of Communications ([[FAR 91.185 Lost Comms]])
-	1. Squawk 7600 
-	2. In VMC, continue VFR, land as soon as practicable. 
-	3. In IMC: 
-		1. For Route, use mnemonic AVE-F – Assigned, Vectored, Expected, then Filed (in that order of priority) 
-		2. For Altitude on each route segment, use highest of mnemonic MEA – Minimum (MEA), Expected, Assigned 
-		3. Leave Clearance Limit
-			1. When at fix from which approach begins, leave at EFC time if given, otherwise commence descent as close as possible to ETA
-			2. When not at a fix from which approach begins, leave clearance limit at the EFC time if received and proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA. Otherwise upon arrival over the clearance limit, proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA
+	8. What if I don’t like the clearance? (AIM 4-4-4)
+3.
 
 
 ![[IFR Radio Comm Part 1 General.jpeg]]
-![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 
 
   
