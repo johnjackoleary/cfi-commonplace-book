@@ -13,7 +13,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 - GPS manual
 
 ### Builds On
-[[IR.6 Intercepting and Tracking VOR]]
+[[IR.5 Intercepting and Tracking VOR]]
 
 ### Schedule
 Ground 1.5-hour, simulator and/or airplane, 1.5 hours 

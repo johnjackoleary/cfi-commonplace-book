@@ -12,8 +12,8 @@ Develop proficiency in using SIDS, STARs, ODPs. Understand takeoff minimums and 
 AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, FAR 91.175 
 
 ### Builds On
-[[IR.12 Approach Charts and Procedures]]
-[[IR.11 Communications and Clearances]]
+[[IR.11 Approach Charts and Procedures]]
+[[IR.10 Communications and Clearances]]
 
 ### Schedule
 Ground 1.5 hours, flight 3 hours 

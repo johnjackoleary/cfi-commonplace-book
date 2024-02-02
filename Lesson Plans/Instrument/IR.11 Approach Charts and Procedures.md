@@ -16,14 +16,14 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 
 ### Builds On
 - [[IR.4 Flight Deck Organization, Workload and Automation Management]]
-- [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[IR.11 Communications and Clearances]]
+- [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IR.10 Communications and Clearances]]
 
 ### Schedule
 Ground 1.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[IR.12 Approach Charts and Procedures]].
+> Can be completed at the same time as [[IR.11 Approach Charts and Procedures]].
 
 ### Lesson Elements
 1. Precision vs. Non Precision

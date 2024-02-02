@@ -12,15 +12,15 @@ Develop proficiency in flying VOR and circling approaches.
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Builds On
-[[IR.6 Intercepting and Tracking VOR]]
-[[IR.12 Approach Charts and Procedures]]
+[[IR.5 Intercepting and Tracking VOR]]
+[[IR.11 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 1 hour, simulator – 2.5 hours 
 
 ### Lesson Elements
 1. [[VOR]] Approaches
-2. [[DME]] Arcs
+2. [[DME]] Arcs: [[Ground-Based Navigation using VOR, DME, and ILS#DME Arcs Procedure]]
 3. Circle to land approaches (AIM 5-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 

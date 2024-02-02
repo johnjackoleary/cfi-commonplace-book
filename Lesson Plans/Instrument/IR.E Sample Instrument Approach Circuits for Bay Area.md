@@ -1,5 +1,5 @@
 # Learning
-## RNAV ([[IR.13A RNAV (GPS) Approaches]])
+## RNAV ([[IR.12A RNAV (GPS) Approaches]])
 | Approach      | Skill Areas       | XC Distance              |
 | ------------- | ----------------- | ------------------------ |
 | KOAR RNAV 11  | LNAV Only         | KPAO (50nm), KSQL (55nm) |
@@ -10,7 +10,7 @@
 Suggested Circuits: 
 - RNAV 11 KOAR -> RNAV 13 SNS -> RNAV 32R KNUQ
 
-## ILS ([[IR.13B ILS + LOC Approaches]])
+## ILS ([[IR.12B ILS + LOC Approaches]])
 | Approach                | Skill Areas                        | XC Distance |
 | ----------------------- | ---------------------------------- | ----------- |
 | KLVK ILS 25R            |                                    |             |
@@ -28,7 +28,7 @@ Suggested Circuits:
 Suggested Circuit:
 - KMOD ILS 28R -> KSCK ILS 29R -> KLVK ILS 25R
 
-## VOR ([[IR.13C VOR + Circling Approaches]])
+## VOR ([[IR.12C VOR + Circling Approaches]])
 | Approach       | Skill Areas                                       | XC Distance |
 | -------------- | ------------------------------------------------- | ----------- |
 | KAPC VOR 6     | Course Reversal, VOR Station Passage              |             |
