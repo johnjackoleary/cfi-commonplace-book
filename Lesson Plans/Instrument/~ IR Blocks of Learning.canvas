@@ -18,7 +18,6 @@
 		{"id":"3803cc903a7a2290","type":"file","file":"Lesson Plans/Instrument/IR.16 IFR Weather and Weather Services.md","x":1460,"y":-575,"width":400,"height":400},
 		{"id":"696674a385d136be","type":"file","file":"Lesson Plans/Instrument/IR.17 Enroute and Cross-Country Instrument Flight, Including Lost Comms.md","x":1980,"y":-825,"width":400,"height":400},
 		{"id":"760da415188fe367","type":"file","file":"Lesson Plans/Instrument/IR.18 Review and Checkride Prep.md","x":1980,"y":-1275,"width":400,"height":400},
-		{"id":"c15c3839ed916f51","type":"text","text":"3hr instrument training from CFII w/in 2 month of checkride","x":2480,"y":-1120,"width":400,"height":80,"color":"1"},
 		{"id":"e8e05333c1558d7e","type":"text","text":"Long XC, under IFR rules and filed with ATC, >=250nm along airways/directed, appr. at each airport, 3 diff kinds of appr.","x":2480,"y":-676,"width":400,"height":101,"color":"1"},
 		{"id":"1cd97fe834dc872d","type":"text","text":"50hr XC PIC, >= 10hr in airplane","x":2480,"y":-1580,"width":400,"height":50,"color":"1"},
 		{"id":"bdd6e96769f3d22a","type":"text","text":"Flight by reference to instruments","x":920,"y":1448,"width":400,"height":62,"color":"2"},
@@ -43,7 +42,8 @@
 		{"id":"d6f8cb457fe4ba38","type":"file","file":"Lesson Plans/Instrument/IR.2 Instrument Scan, Basic Attitude Instrument Flight.md","x":400,"y":1794,"width":400,"height":400},
 		{"id":"639b3966ca13d3fd","type":"text","text":"Preflight preparation","x":920,"y":1904,"width":400,"height":60,"color":"2"},
 		{"id":"39ecb35ed73a0e2a","type":"text","text":"Preflight procedures","x":920,"y":1964,"width":400,"height":60,"color":"2"},
-		{"id":"0a1298a5d8f242a2","type":"text","text":"Postflight procedures","x":920,"y":2024,"width":400,"height":60,"color":"2"}
+		{"id":"0a1298a5d8f242a2","type":"text","text":"Postflight procedures","x":920,"y":2024,"width":400,"height":60,"color":"2"},
+		{"id":"c15c3839ed916f51","type":"text","text":"3hr instrument training from CFII w/in 2 month of checkride","x":2480,"y":-1115,"width":400,"height":80,"color":"1"}
 	],
 	"edges":[
 		{"id":"4d5cf5ebc52904ff","fromNode":"d6f8cb457fe4ba38","fromSide":"top","toNode":"347ec7d678a2df4c","toSide":"bottom"},
