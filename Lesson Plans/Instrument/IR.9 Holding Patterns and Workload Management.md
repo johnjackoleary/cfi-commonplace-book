@@ -11,7 +11,7 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 ### References
 - [[POH]]/[[AFM]]
 - GPS manual
-#todo :: Update
+- [Practice problems](https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141) from thebackseatpilot.com
 
 ### Builds On
 - [[IR.5 Intercepting and Tracking VOR]]
@@ -25,7 +25,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 	1. Traffic or weather
 	2. Keeps aircraft in specified airspace awaiting clearance
 	3. Types of fixes: VOR, intersection, VOR/DME, GPS waypoint
-	4. HILPT[a]
+	4. HILPT
 2. Protected Airspace
 	1. Maximum airspeeds
 		1. MHA-6,000’: 200kts
