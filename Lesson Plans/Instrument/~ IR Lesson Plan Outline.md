@@ -16,7 +16,7 @@ tags:
 [[IR.1 Introduction and Instrument Systems]]
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
 [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
-[[IR.5 Flight Deck Organization, Workload and Automation Management]]
+[[IR.4 Flight Deck Organization, Workload and Automation Management]]
 [[IR.6 Intercepting and Tracking VOR]]
 [[IR.7 GPS Navigation]]
 [[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]
@@ -24,7 +24,7 @@ tags:
 #### Stage II: IFR Charts, Instrument Approaches, Emergencies
 [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
 [[IR.10 Holding Patterns and Workload Management]]
-[[IR.11 Communications, Clearances, Lost Communications Procedures]]
+[[IR.11 Communications and Clearances]]
 [[IR.12 Approach Charts and Procedures]]
 [[IR.13A RNAV (GPS) Approaches]]
 [[IR.13B ILS + LOC Approaches]]
@@ -43,9 +43,6 @@ tags:
 [[IR.C Important References to Study]]
 [[IR.D Kneeboard Cheatsheets]]
 [[IR.E Sample Instrument Approach Circuits for Bay Area]]
-
-### Pre-Lesson Reading
-[[~ IR Pre-Lesson Reading]]
 
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]

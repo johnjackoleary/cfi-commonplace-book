@@ -15,12 +15,15 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 
 ### Builds On
-- [[IR.5 Flight Deck Organization, Workload and Automation Management]]
+- [[IR.4 Flight Deck Organization, Workload and Automation Management]]
 - [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[IR.11 Communications, Clearances, Lost Communications Procedures]]
+- [[IR.11 Communications and Clearances]]
 
 ### Schedule
-Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
+Ground 1.5 hours
+
+> [!note] 
+> Can be completed at the same time as [[IR.12 Approach Charts and Procedures]].
 
 ### Lesson Elements
 1. Precision vs. Non Precision

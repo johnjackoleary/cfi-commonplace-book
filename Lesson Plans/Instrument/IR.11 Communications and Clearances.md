@@ -15,7 +15,10 @@ Appendix A, AIM Ch 6-4; FAR 91.185 (lost communications), IFH Appendix A (cleara
 N/A
 
 ### Schedule
-Ground 2 hours 
+Ground 1.5 hours
+
+> [!note] 
+> Can be completed at the same time as [[IR.12 Approach Charts and Procedures]].
 
 ### Lesson Elements
 1. Communications
@@ -64,16 +67,14 @@ Ground 2 hours
 		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
 	8. What if I don’t like the clearance? (AIM 4-4-4)
 
-
 ![[IFR Radio Comm Part 1 General.jpeg]]
-
-
-  
 
 ### Completion Standards
 The student must become proficient at typical IFR communications using standard phraseology and demonstrate an understanding of lost communication procedures.
 
 ### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs|Far 61.65 Instr Rating Reqs]](c):
+- Air traffic control clearances and procedures
 
 ### Required Homework
 - [ ] 
