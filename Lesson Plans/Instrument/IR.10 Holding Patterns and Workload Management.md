@@ -63,7 +63,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 Student must demonstrate proficiency in planning, entering, and flying holding patterns, while maintaining +- 10 kts, +- 100 feet, +- 10°s, with < ¾ scale deflection of CDI.
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
+For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Air traffic control clearances and procedures
 
 ### Required Homework

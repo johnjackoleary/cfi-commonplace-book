@@ -30,7 +30,7 @@ Ground 2 hour; simulator and/or airplane, 2 hours
 Student must be able to tune and ID VOR navaid, detect failures; check receiver for proper operation; orient to a VOR station or course; intercept assigned course; track course to or from VOR, with crosswind correction; Maintain heading within 10°s, altitude within 100 feet, airspeed within 10 kts. Student must know how to check autopilot operation during preflight, and how to use autopilot during enroute flight.
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
+For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Navigation systems
 
 ### Required Homework

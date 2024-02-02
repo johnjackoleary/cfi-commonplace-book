@@ -73,7 +73,7 @@ Ground 1.5 hours
 The student must become proficient at typical IFR communications using standard phraseology and demonstrate an understanding of lost communication procedures.
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs|Far 61.65 Instr Rating Reqs]](c):
+For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Air traffic control clearances and procedures
 
 ### Required Homework

@@ -50,6 +50,8 @@ Lesson Elements:
 Student must demonstrate understanding of instrument systems and ability to diagnose instrument and system failures. Student must become proficient in partial panel procedures, including enroute and instrument approaches (to be practiced frequently in future lessons).
 
 ### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs]](c):
+- Emergency operations
 
 ### Required Homework
 - [ ] 
