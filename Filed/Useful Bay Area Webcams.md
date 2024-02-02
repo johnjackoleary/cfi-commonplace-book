@@ -5,6 +5,6 @@ San Jose: http://www.met.sjsu.edu/cam_directory/
 Mount Hamilton: https://mthamilton.ucolick.org/hamcam/hamcam1.html
 Truckee Area: https://images.ambientweather.net/C8C9A3558B1B/latest.jpg (does not auto-refresh)
 
-Useful iOS Shortcut: https://www.icloud.com/shortcuts/67c02c5207594bd1aa7dd9591703e529
+Useful iOS Shortcut: https://www.icloud.com/shortcuts/5989ed045a0c423eb770476640989c51
 
 Related to: [[Weather Brief]]
