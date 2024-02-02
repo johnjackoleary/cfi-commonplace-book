@@ -40,7 +40,8 @@ Ground 30 minutes
 	4. Approach briefing: [[AIRBAG]] or [[WRIMTMS]] - ATIS/AWOS, Install Approach, Radios/Radials, Brief Approach and Going Missed
 	5. 5 Ts: Time (start timer), Turn, Throttle, Tune and/or Twist (nav freq and OBS), Talk 
 	6. Non-radar position reports: [[PTATEN]] Position, Time, Altitude, Type of flight plan (only required for FSS reports), Estimated time of arrival at the next reporting point, Name of the reporting point after that
-8. Common Errors 
+8. Introduction to [[Autopilot Systems and Usage]]
+9. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
 	3. Diverting attention during maneuvers like turning, or before reaching altitude. 
