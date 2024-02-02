@@ -42,7 +42,7 @@ Ground 1.5 hours
 	1. Use of GPS maps and guidance for initial approach (AC 90-108)
 	2. Methods for switching CDI from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
-	4. Missed approach guidance – GPS guidance for missed approach 
+	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 4. ATC Approach Clearances
 	1. https://www.ifr-magazine.com/technique/approach-clearance/
 	2. [[When Are You Established]]?
