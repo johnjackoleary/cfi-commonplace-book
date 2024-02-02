@@ -1,3 +1,8 @@
+---
+aliases:
+- inoperative equipment
+---
+
 ***Link***      :: [Inoperative instruments and equipment.](https://www.ecfr.gov/current/title-14/section-91.213)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]

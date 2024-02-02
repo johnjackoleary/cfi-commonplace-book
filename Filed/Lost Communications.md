@@ -3,7 +3,7 @@
 
 # Details
 1. [[Squawk 7600]] 
-2. Consider calling [[TRACON]] or Center!
+2. Consider calling [[TRACON]] or Center on your cell phone!
 3. In VMC, continue VFR, land as soon as practicable. 
 4. In IMC: 
 	1. For Route, use mnemonic [[AVE-F|AVE-F]] – Assigned, Vectored, Expected, then Filed (in that order of priority) 
