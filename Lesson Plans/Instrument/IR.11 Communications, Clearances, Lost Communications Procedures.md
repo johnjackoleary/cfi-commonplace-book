@@ -63,7 +63,13 @@ Ground 2 hours
 		3. Release Time
 		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
 	8. What if I don’t like the clearance? (AIM 4-4-4)
-3.
+3. Requesting Practice Approaches under VFR
+	1. Request with Approach Controller
+		1. Type of practice approach
+		2. Own navigation or ATC Vectors?
+		3. How will the approach terminate?
+	2. N81034 requesting the ILS 31 practice approach into Salinas, own navigation, followed by the published missed
+	3. N5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
 
 
 ![[IFR Radio Comm Part 1 General.jpeg]]
