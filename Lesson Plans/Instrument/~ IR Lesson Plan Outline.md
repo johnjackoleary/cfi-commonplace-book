@@ -18,8 +18,8 @@ tags:
 [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
 [[IR.4 Navigation Aids and Instruments]]
 [[IR.5 Flight Deck Organization, Workload Management, Checklists]]
-[[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
-[[IR.7 GPS Navigation and Autopilot Usage]]
+[[IR.6 Intercepting and Tracking VOR]]
+[[IR.7 GPS Navigation]]
 [[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]
 
 #### Stage II: IFR Charts, Instrument Approaches, Emergencies

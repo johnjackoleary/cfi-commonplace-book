@@ -14,8 +14,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 #todo :: Update
 
 ### Builds On
-- [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]
-- [[IR.7 GPS Navigation and Autopilot Usage]]
+- [[IR.6 Intercepting and Tracking VOR]]
+- [[IR.7 GPS Navigation]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 

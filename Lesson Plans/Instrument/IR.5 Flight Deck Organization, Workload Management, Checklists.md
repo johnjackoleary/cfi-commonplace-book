@@ -15,7 +15,7 @@ None
 - [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
-Ground 1 hour 
+Ground 30 minutes
 
 ### Lesson Elements
 1. [[Aviate, Navigate, Communicate]]

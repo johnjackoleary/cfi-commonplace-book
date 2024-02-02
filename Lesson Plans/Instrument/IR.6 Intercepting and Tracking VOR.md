@@ -21,12 +21,8 @@ Ground 2 hour; simulator and/or airplane, 2 hours
 
 ### Lesson Elements
 1. [[Ground-Based Navigation using VOR, DME, and ILS]]
-7. Autopilot systems and usage 
-	1. POH and AFM supplements pertaining to Autopilot 
-	2. Preflight check of autopilot 
-	3. Autopilot usage, modes, GPS integration, altitude functions 
-	4. VVM: Verbalize, Verify, Monitor
-8. Common Errors 
+2. [[Autopilot Systems and Usage]]
+3. Common Errors 
 	1. Incorrect tuning and identification procedures 
 	2. Failure to set navigation selector for the course to be intercepted (GPS vs VOR/VLOC switch) 
 ### Completion Standards

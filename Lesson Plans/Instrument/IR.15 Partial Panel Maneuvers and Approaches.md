@@ -11,7 +11,9 @@ Review instrument systems and diagnosis of instrument or system failures. To dev
 ### References
 IFH Ch 3, 5, 7 
 
-### 
+### Builds On
+[[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]
+[[IR.11 Communications, Clearances, Lost Communications Procedures]]
 
 chedule: Ground 1 hour, simulator and/or airplane, 1 hour 
 

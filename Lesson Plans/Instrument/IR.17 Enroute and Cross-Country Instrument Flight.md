@@ -17,6 +17,9 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 - [[Instrument ACS]] Section 1.C
 
 ### Builds On
+[[IR.11 Communications, Clearances, Lost Communications Procedures]]
+[[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
+[[IR.16 IFR Weather and Weather Services]]
 
 ### Schedule
 Ground 1.5 hours, Flight 3 hours 

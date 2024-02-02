@@ -3,10 +3,10 @@
    | [[IR.1 Introduction and Instrument Systems]]                             | [[IFH]] Ch. 5-6                         | 1A,2A,2B   |          |
    | [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]               | [[IFH]] Ch. 6-7                         | 2C         |          |
    | [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]] | [[IFH]] Ch. 6-7                         |            |          |
-   | [[IR.4 Navigation Aids and Instruments]]                                 | AIM 1-1,1-2; [[IFH]] Ch. 9              | 2D         |          |
+   | [[IR.4 Navigation Aids and Instruments]]                                 | AIM 1-1,1-2; [[IFH]] Ch. 9              |         |          |
    | [[IR.5 Flight Deck Organization, Workload Management, Checklists]]       |                                         | 1C, 1D     |          |
-   | [[IR.6 Intercepting and Tracking VOR, HSI, Autopilot Usage]]             | [[IFH]] Ch 9                            |            |          |
-   | [[IR.7 GPS Navigation and Autopilot Usage]]                              | AIM 1-1-17; [[IFH]] Ch 7; [[AC 90-108]] |            |          |
+   | [[IR.6 Intercepting and Tracking VOR]]             | [[IFH]] Ch 9                            |  2D           |          |
+   | [[IR.7 GPS Navigation]]                              | AIM 1-1-17; [[IFH]] Ch 7; [[AC 90-108]] |            |          |
    | [[IR.8 Unusual Attitude Recoveries, Including Partial Panel]]            | [[IFH]] Ch 7                            |            |          |
    | [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]        | [[AIM 4]]; [[IFH]] Ch 1,2,10            | 3A,5A-B    |          |
    | [[IR.10 Holding Patterns and Workload Management]]                       | AIM 5-3-8; [[IFH]] Ch. 10               | 5C         |          |
