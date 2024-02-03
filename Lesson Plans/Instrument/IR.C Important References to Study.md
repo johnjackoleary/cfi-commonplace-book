@@ -2,7 +2,7 @@
 2. [[IPF]] - Instrument Procedures Handbook
 3. [[Instrument ACS]]
 4. Optional: Max Trescott’s “GPS and WAAS Instrument Flying Handbook” – helps with particular types of [[GPS]] navigators
-5. Digital [[TPPS]] (terminal procedure publication supplemental) – study the TOC, and know what material is to be found in this publication, like airport diagrams, [[SIDS]], [[STARS]], [[ODPS]], alternate minima, etc.
+5. Digital [[TPPS]] (terminal procedure publication supplemental) – study the TOC, and know what material is to be found in this publication, like airport diagrams, [[SID]]s, [[STAR]]s, [[ODP]]s, alternate minima, etc.
 6. Chart Supplements – study the TOC, and know where to find things like: Preferred IFR Routes, [[VOR]] test facilities, FSS Frequencies, etc.
 7. FAR part 91, especially 91.167 – 91.187
 8. [[AIM]] - all
