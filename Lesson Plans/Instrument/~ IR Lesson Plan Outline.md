@@ -23,7 +23,7 @@ tags:
 
 #### Stage II: IFR Charts, Instrument Approaches, Emergencies
 [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
-[[IR.9 Holding Patterns and Workload Management]]
+[[IR.9 Holding Patterns and Entries]]
 [[IR.10 Communications and Clearances]]
 [[IR.11 Approach Charts and Procedures]]
 [[IR.12A RNAV (GPS) Approaches]]
