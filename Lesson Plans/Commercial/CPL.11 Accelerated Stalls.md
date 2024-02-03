@@ -40,7 +40,7 @@ Develop knowledge, risk management and skills associated with power-on and power
 	4. Secondary stall due to aggressive pitch up during recovery
 
 ### Completion Standards
-Client must be able to demonstrate accelerated stalls to [[Commercial ACS standards]]. Recovery no lower than 1500’ AGL, maintain heading ±10° before stall, or specified bank angle ± 5°, recognize stall and recover promptly with proper procedure.
+Client must be able to demonstrate accelerated stalls to [[Commercial ACS]]. Recovery no lower than 1500’ AGL, maintain heading ±10° before stall, or specified bank angle ± 5°, recognize stall and recover promptly with proper procedure.
 
 ### Required Logbook Phraseology
 #todo :: TBD
