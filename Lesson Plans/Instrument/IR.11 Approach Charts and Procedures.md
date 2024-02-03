@@ -23,7 +23,7 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 Ground 1.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[IR.11 Approach Charts and Procedures]].
+> Can be completed at the same time as [[IR.10 Communications and Clearances]].
 
 ### Lesson Elements
 1. Precision vs. Non Precision
