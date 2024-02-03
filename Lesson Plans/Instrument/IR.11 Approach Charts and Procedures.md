@@ -46,6 +46,13 @@ Ground 1.5 hours
 4. ATC Approach Clearances
 	1. https://www.ifr-magazine.com/technique/approach-clearance/
 	2. [[When Are You Established]]?
+	3. Requesting Practice Approaches under VFR
+		1. Request with Approach Controller
+			1. Type of practice approach
+			2. Own navigation or ATC Vectors?
+			3. How will the approach terminate?
+		2. N81034 requesting the ILS 31 practice approach into Salinas, own navigation, followed by the published missed
+		3. N5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
 5. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
 	2. VDP
