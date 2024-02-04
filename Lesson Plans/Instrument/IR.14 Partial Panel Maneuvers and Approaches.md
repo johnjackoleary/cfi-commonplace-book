@@ -15,11 +15,10 @@ IFH Ch 3, 5, 7
 [[IR.7 Unusual Attitude Recoveries, Including Partial Panel]]
 [[IR.10 Communications and Clearances]]
 
-chedule: Ground 1 hour, simulator and/or airplane, 1 hour 
+### Schedule
+Ground 1 hour, simulator and/or airplane 1 hour
 
-##
-
-Lesson Elements: 
+### Lesson Elements
 1. Review instrument systems and power sources 
 	1. Vacuum pump drives A/I and HI (or HSI) 
 	2. Electrical system drives T/C (turn coordinator) 
@@ -41,9 +40,10 @@ Lesson Elements:
 	3. Blocked pitot or static system, affecting A/S, VSI, altimeter 
 		1. Alternate static source 
 	4. G1000 partial panel operations: See Garmin guidance doc (next page) 
-4. ATC notification 
-5. No-gyro PAR approaches and ASR approaches 
-6. Common errors: 
+4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
+5. ATC notification 
+6. No-gyro PAR approaches and ASR approaches 
+7. Common errors: 
 	1. Slow to recognize failure could result in unusual attitude 
 	2. Overcontrolling with partial panel 
 ### Completion Standards
