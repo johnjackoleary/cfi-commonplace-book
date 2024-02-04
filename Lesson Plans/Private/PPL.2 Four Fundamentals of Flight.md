@@ -36,7 +36,7 @@ N/A
 1. Always be scanning for traffic!
 2. Use the visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
 3. Use wingtip reference to maintain level flight
-4. Periodically cross-check the altimeter and HSI ([[90%-10% Outside vs Inside|aim for 90-10 split of time looking outside vs inside]])
+4. Periodically cross-check the altimeter and heading indicator ([[90%-10% Outside vs Inside|aim for 90-10 split of time looking outside vs inside]])
 5. Keep a light grip on the controls
 6. Use trim to help
 
@@ -59,14 +59,16 @@ N/A
 **In Practice**
 1. Check for traffic (high wing plane - lift wing slightly before banking)
 2. Roll into turn while adding rudder, and pulling back lightly on the controls
-3. Maintain coordination (counteract [[Adverse Yaw]]) using the rudder ([[Indications of Slip and Skid.jpeg]])
-4. Relax, make adjustments, scan for traffic
-5. Use opposite aileron to roll out, while relaxing back pressure, and staying coordinated
+3. Neutralize ailerons once the turn is established; also, less rudder is required
+4. Maintain coordination (counteract [[Adverse Yaw]]) using the rudder ([[Indications of Slip and Skid.jpeg]])
+5. Relax, make adjustments, scan for traffic
+6. Use opposite aileron to roll out, while relaxing back pressure, and staying coordinated
 
 #### Climbs and Descents
 
 **Notes**
 - Different situations require climbs at Vx, Vy, or normal/cruise climb
+- It's useful to memorize power settings for repeatable climbs/descents
 - During climb, P-factor increases the need for right rudder
 
 **In Practice**
