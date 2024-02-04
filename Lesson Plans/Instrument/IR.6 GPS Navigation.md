@@ -21,16 +21,15 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 ### Lesson Elements
 1. [[Satellite Navigation using GPS and GNSS]]
 4. IFR flight Using GPS
-	1. Required Preflight^[From https://register.gotowebinar.com/register/5541951355870494047]
-		1. Check for DB alerts (e.g. https://www.garmin.com/en-US/aviationalerts/)
-		2. Complete an output test (must be completed if deiplay and GSP are separate): includes things like displaying a specific course, lateral/vertical deflection, etc
-		3. #todo:: whats a source for why these tests are needed (manuals and supplements in the POH, so following manufacture rules)
+	1. Required Preflight
+		1. Check for DB alerts (e.g. https://www.garmin.com/en-US/aviationalerts/)^[If an approach was published with errors, you want to know!]
+		2. Review the self-test output: includes things like displaying a specific course, lateral/vertical deflection, etc^[This check is part of Section 4 added by the GPS [[STC]].]
 	2. Installation approval and operational approval required
 	3. TSO 129/196 (Non-WAAS) requires alternate approved and operational means of navigation
 	4. Expired database
 		1. IFR enroute/terminal - verification of data for correctness
 		2. IFR approach - current database or verification procedure has not been amended since expiration of database
-6. GPS Sensitivity
+6. GPS Sensitivity ([[RNP Precision per Approach Segment.jpeg]])
 	1. Enroute  ±2nm, default
 	2. Terminal - ±1nm
 		1. Within 31nm of destination
@@ -59,8 +58,8 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 10. Common Errors
 	1. Not knowing your GPS (GPS simulation software for home practice is great!)
 	2. VLOC vs GPS
-		1. Can you use GPS to fly a ILS procedure turn? No, since obstacle clearance for GPS terminal is 
-		2. Plus, want to practice flying ILS procedure turn without GPS, even though you can technically fly using GPS if you monitor ILS, 
+		1. Can you use GPS to fly a ILS procedure turn? No, according to [[AC 90-108]], can't use for "Lateral Navigation on LOC-Based Courses"^[This has to do with GPS terminal mode being less precise then a LOC, and the impact it has on obstacle clearance. [[Max Trescott]] has a great writeup in [[AOPA]] published [here](https://www.aopa.org/news-and-media/all-news/2014/may/05/when-to-switch-to-vloc-on-an-ils-or-vor-approach).]
+		2. Plus, want to practice flying ILS procedure turn without GPS, even though you can technically fly using GPS if you monitor ILS raw data
 	3. Autoswitch GPS>VLOC errors
 		1. Won't switch if vectored too close to FAF, or if GPS doesn't hear the morse code
 		2. DPEs call this the $800 button, since it's the most common cause of failures
