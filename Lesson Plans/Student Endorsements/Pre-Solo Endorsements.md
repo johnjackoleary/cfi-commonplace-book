@@ -28,5 +28,8 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 
 ***Source***: [[AC 61-65]]
+
+#endorsement 
+
 See also [[FAR 61.87 Student Solo Reqs]]
 
