@@ -18,7 +18,7 @@ N/A
 Ground 1.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[IR.11 Approach Charts and Procedures]].
+> Can be completed at the same time as [[IR.10 Approach Charts and Procedures]].
 
 ### Lesson Elements
 1. Communications

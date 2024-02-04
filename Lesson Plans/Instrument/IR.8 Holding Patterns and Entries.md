@@ -14,8 +14,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 - [Practice problems](https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141) from thebackseatpilot.com
 
 ### Builds On
-- [[IR.5 Intercepting and Tracking VOR]]
-- [[IR.6 GPS Navigation]]
+- [[IR.5A VOR Navigation]]
+- [[IR.5B GPS Navigation]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 

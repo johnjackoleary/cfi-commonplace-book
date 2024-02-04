@@ -12,8 +12,8 @@ Develop proficiency in flying RNAV (GPS) approaches, and demonstrate understandi
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Builds On
-[[IR.6 GPS Navigation]]
-[[IR.11 Approach Charts and Procedures]]
+[[IR.5B GPS Navigation]]
+[[IR.10 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 30m, Sim – 2.5 hours 

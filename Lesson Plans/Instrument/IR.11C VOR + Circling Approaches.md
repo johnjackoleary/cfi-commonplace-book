@@ -12,8 +12,8 @@ Develop proficiency in flying VOR and circling approaches.
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Builds On
-[[IR.5 Intercepting and Tracking VOR]]
-[[IR.11 Approach Charts and Procedures]]
+[[IR.5A VOR Navigation]]
+[[IR.10 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 1 hour, simulator – 2.5 hours 
