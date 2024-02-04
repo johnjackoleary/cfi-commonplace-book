@@ -3,7 +3,8 @@
   "host": "publish-01.obsidian.md",
   "included": [
     "Filed",
-    "Media"
+    "Media",
+    "Lesson Plans"
   ],
   "excluded": [
     "Inbox",
