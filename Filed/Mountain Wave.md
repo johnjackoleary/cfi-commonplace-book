@@ -6,4 +6,6 @@
 ***Source***         :: [[Aviation Weather Handbook]]
 ***Additional Resources***: [The Hidden Dangers of Mountain Wave Turbulence](https://www.weather.gov/media/publications/front/11nov-front.pdf) by James Reynolds
 
+https://apps.dtic.mil/sti/pdfs/ADA511478.pdf
+
 #glossary
