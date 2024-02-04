@@ -46,4 +46,4 @@ tags:
 
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Feb 1, 2024.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Feb 4, 2024.
