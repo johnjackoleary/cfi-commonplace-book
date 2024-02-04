@@ -12,8 +12,8 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
 
 ### Builds On
-[[IR.5 Intercepting and Tracking VOR]]
-[[IR.11 Approach Charts and Procedures]]
+[[IR.5A VOR Navigation]]
+[[IR.10 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 30m, simulator – 2.5 hours 

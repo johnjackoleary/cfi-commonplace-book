@@ -17,7 +17,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 - [[Instrument ACS]] Section 1.B
 
 ### Builds On
-- [[IR.8 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
 - [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
