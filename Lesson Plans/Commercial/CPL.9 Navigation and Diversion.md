@@ -15,6 +15,7 @@ tags:
 - [[Commercial ACS]] Sec VI.A,B,C,D
 
 ### Tolerance Differences
+For Pilotage and Dead Reckoning:
 - Verify position within 2nm of route
 - Arrive within 3min of planned ETA
 - Altitude ±100ft, heading ±10°
