@@ -15,12 +15,15 @@ AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 
 ### Builds On
-- [[IR.5 Flight Deck Organization, Workload Management, Checklists]]
-- [[IR.9 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[IR.11 Communications, Clearances, Lost Communications Procedures]]
+- [[IR.4 Flight Deck Organization, Workload and Automation Management]]
+- [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IR.9 Communications and Clearances]]
 
 ### Schedule
-Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
+Ground 1.5 hours
+
+> [!note] 
+> Can be completed at the same time as [[IR.9 Communications and Clearances]].
 
 ### Lesson Elements
 1. Precision vs. Non Precision
@@ -39,10 +42,17 @@ Ground 1.5 hours, and likely start [[IR.13A RNAV (GPS) Approaches]]
 	1. Use of GPS maps and guidance for initial approach (AC 90-108)
 	2. Methods for switching CDI from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
-	4. Missed approach guidance – GPS guidance for missed approach 
+	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 4. ATC Approach Clearances
 	1. https://www.ifr-magazine.com/technique/approach-clearance/
 	2. [[When Are You Established]]?
+	3. Requesting Practice Approaches under VFR
+		1. Request with Approach Controller
+			1. Type of practice approach
+			2. Own navigation or ATC Vectors?
+			3. How will the approach terminate?
+		2. N81034 requesting the ILS 31 practice approach into Salinas, own navigation, followed by the published missed
+		3. N5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
 5. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
 	2. VDP

@@ -23,5 +23,9 @@ tags:
 - Power-Off Stalls: bank ±5°, recover at first indication
 - Power-On Stalls: no change, recover at first indication
 
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]
+- Slow flight and stalls
+
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
 

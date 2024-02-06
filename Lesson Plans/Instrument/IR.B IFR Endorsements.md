@@ -15,4 +15,6 @@ I certify that \[First name, MI, Last name\] has received and logged the require
 
 ***Source***: [[AC 61-65]]
 
+#endorsement 
+
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

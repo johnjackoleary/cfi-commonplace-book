@@ -33,5 +33,7 @@ Must also be endorsed for solo flight!
 
 ***Source***: [[AC 61-65]]
 
+#endorsement 
+
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

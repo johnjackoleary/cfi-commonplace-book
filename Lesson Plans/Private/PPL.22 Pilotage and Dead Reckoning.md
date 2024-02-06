@@ -3,10 +3,10 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.
+Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.  Learn to complete a full navlog for a cross-country flight, including headings, waypoints, altitudes, and fuel requirements.
 
 ### Resources
-N/A
+- [[Private Pilot ACS]] Sec VI.A
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
@@ -38,18 +38,33 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 	2. Flight log forms, and updating during flight
 	3. Mental arithmetic - time, speed, distance
 	4. When do we use this in practice?
-3. Complete full navlog
+3.  Important Terminology:
+	1. [[Course]] - intended path over the earth
+	2. [[Heading]] - where the plane's nose is pointing
+	3. [[Track]] - actual path over the ground
+	4. Bearing is the angle from you to some point you want to reach.  Generally, you plan a Course based on the Bearing of your destination or new waypoint.
+	5. [[Magnetic Variation]]
+	6. [[Magnetic Deviation]]
+4. Plotting a course using:
+	1. The [[Wind Triangle]]
+	2. An [[E6B]]
+5. Using the [[POH]] to determine airspeed and fuel burn rate in climb, cruise, and descent
+6. Completing a full navlog
 	1. How to handle step climbs under a Bravo
 
 ### Completion Standards
-Client should be able to complete a navlog and fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival. Client should be able to update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
+Client should be able to:
+- Complete a navlog and fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival
+- Arrive at checkpoints within 3NM and within 5 minutes of initial or revised estimate
+- Maintain appropriate altitude ±200' and heading ±15°
+- Update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
 - Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass
 
 ### Required Homework
-None
+- [ ] Complete a full navlog from Palo Alto to a destination assigned by the instructor.
 
 ### Recommended Homework
 None

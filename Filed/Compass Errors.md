@@ -33,7 +33,7 @@ Useful Mnemonics: [[ANDS]], [[UNOS]]
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/UvhooB--P2s"  frameborder="0"></iframe>
 
-From *[Magnetic Compass Errors: Acceleration](https://www.youtube.com/watch?v=UvhooB--P2s)* by [@AviationTheory](https://www.youtube.com/@AviationTheory)
+From *[Magnetic Compass Errors: Acceleration](https://www.youtube.com/watch?v=UvhooB--P2s)* by [[Aviation Theory]]
 
 ### Turning Errors
 > [!summary] From [[PHAK Ch8]]
@@ -46,7 +46,7 @@ Useful Mnemonics: [[NOSE]]
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/GxnvoRG6MDg"  frameborder="0"></iframe>
 
-From *[Magnetic Compass Errors: Turning](https://www.youtube.com/watch?v=GxnvoRG6MDg)* by [@AviationTheory](https://www.youtube.com/@AviationTheory)
+From *[Magnetic Compass Errors: Turning](https://www.youtube.com/watch?v=GxnvoRG6MDg)* by [[Aviation Theory]]
 
 ---
 
