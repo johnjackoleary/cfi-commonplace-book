@@ -26,3 +26,6 @@
 3. Flight service online: 1800wxbrief.com
 4. Flight Service by phone: 1-800-WXBrief
 5. Webcams [[Useful Bay Area Webcams]]
+
+**When is an NWKRAFT briefing required?**
+According to [[FAR 91.103 Preflight Action]], not for a VFR flight "in the vicinity of an airport".  But even for a flight in the pattern, runway lengths and takeoff/landing distance are required.  And it would be foolish not to check the [[ATIS]], [[NOTAM]]s, and the weather forecast.

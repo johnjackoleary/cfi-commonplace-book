@@ -44,7 +44,7 @@ Ground 0.5 hours, Flight 2 hours
 		3. After 3 revolutions, roll to wings level, and return to cruise speed
 
 ### Completion Standards
-Learner is able to maintain constant radius around reference point at the specified airspeed, ±10 knots, and roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ [[AGL]].
+Pilot is able to maintain a constant radius around a reference point at the specified airspeed, ±10 knots, roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ [[AGL]].
 
 ### Required Logbook Phraseology
 #todo add logbook info
