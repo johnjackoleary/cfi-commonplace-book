@@ -50,7 +50,8 @@ N/A
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
 8. Postflight Procedures
 	1. Tie-down technique
-	3. Securing aircraft
+	2. Securing aircraft
+	3. Quick look for any serious problems, like a flat tire or oil on the underbody
 	4. Documenting flight time and squawks/observations
 9. Common Errors
 	1. Forgetting checklist items
