@@ -24,7 +24,16 @@ All pre-solo lessons
 	3. Student Pilot Certificate [[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]] in possession
 	4. Government Issued ID [[FAR Part 61.3 Cert and Rating Reqs]] in possession
 	5. Medical Certificate [[FAR 61.113 Private Pilot Privileges and Limitations]]  in possession
-2. Aircraft Systems
+2. [[WVFC]]-Specific Pre-Solo Requirements.  See [WVFC Paperwork Checklist](https://drive.google.com/drive/u/0/folders/1o0t2y5GHl9PufTb4cpF_d1ATFkSAYL7N) for latest list.  Many of these forms are in the [Checkout Documents](https://drive.google.com/drive/u/0/folders/1AjOTq2JIVqbOnVhQuSeowCBw3K5Ux1wT) folder:
+	1. Aircraft Checkout Form
+	2. Membership Regulations Quiz
+	3. Applicable Ground Review Form(s)
+	4. Solo Phase Check (requested and passed)
+	5. Solo Quiz
+	6. Medical
+	7. Student Certificate
+	8. Solo Endorsement(s)
+3. Aircraft Systems
 	1. Primary/Secondary flight controls
 	2. Powerplant and propeller
 	3. Landing gear
@@ -35,7 +44,7 @@ All pre-solo lessons
 	8. Environmental
 	9. Deicing and anti-icing
 	10. Inop Equipment ([[FAR 91.213 Inop Equip]])
-3. [[FAR 61.87 Student Solo Reqs]]
+4. [[FAR 61.87 Student Solo Reqs]]
 	1. Knowledge Test
 		1. Sample Questions
 			1. Regulations
@@ -60,9 +69,9 @@ All pre-solo lessons
 	2. Pre-Solo Flight Training
 		1. Received and logged flight training for the maneuvers and procedures...
 		2. Demonstrated satisfactory proficiency and safety...
-4. [[FAR 61.89 Student Pilot Limitations]]
-5. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
-6. Logging Solo Flight Time - [[FAR 61.51]]
+5. [[FAR 61.89 Student Pilot Limitations]]
+6. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
+7. Logging Solo Flight Time - [[FAR 61.51]]
    > [!quote] 
    > A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs|FAR 61.87]]; and (iii) Is undergoing training for a pilot certificate or rating.
 5. Review relevant club Member Regulations
