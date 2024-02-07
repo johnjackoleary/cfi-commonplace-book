@@ -29,25 +29,29 @@ Ground 1.5 hours, flight 3 hours
 		1. SIDs
 			1. Vectors - KFAT YOSEMITE 3
 			2. Pilot Nav - KSFO MOLEN 8, KCCR BUCHANAN 2 
-			3. RNAV - KMSP SMERF 7, KSFO TRUKN 2
+			3. RNAV - KSFO TRUKN 2, KSJC SPTNS 1
 		2. ODP
-			1. KPHX (Textual)
-			2. KLAS - BOULDER CITY 1
-			3. KWVI - WATSONVILLE 3
+			1. KOAK (Textual)
+			2. KSTS (Textual)
+			3. KWVI - WATSONVILLE 3 (Graphical)
+			4. KLVK - LIVERMORE 3 (Graphical)
 		3. DVA
 			1. ATC provides obstacle clearance via radar vectors prior to reaching the MVA and minimum IFR altitude
 			2. KIWA DVA 
 	4. Non-Standard Takeoff Minimums
 	5. VFR-to-IFR departures^[One example of this is the [departure from KSQL](https://www.sancarlosairport.org/Departure-Guidance-030222.pdf)]
-4. Standard Terminal Arrivals (STARS)  
+	6. VCOA
+3. Standard Terminal Arrivals (STARS)  
 	1. KSFO - BDEGA 3 RNAV
 	2. KSFO - POINT REYES 3 
 	3. KPIT - JESEY 3 RNAV
-5. ATC with SIDs/STARs
+4. ATC with SIDs/STARs
 	1. Accepting
 	2. Charts
-	3. Descend via/Climb via
-6. Common errors 
+	3. Descend via/Climb via/via except maintain
+		1. Climb via KIAH - RITAA 7
+		2. Descend via KSFO - BDEGA 3
+5. Common errors 
 	1. Accepting a SID or STAR without briefing
 	2. Not knowing performance capability of aircraft to to fly any procedure
 
