@@ -38,6 +38,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 6. Failure
 	1. Engine
 		1. During flight: see [[PPL.15 Emergency Landings]]
+			1. > [!note] This is a no-go around maneuver per DPE instruction, however never risk safety of flight to try and salvage a maneuver.
 		2. During takeoff roll
 		3. Immediately after takeoff: Land straight ahead!
 	2. Electrical
