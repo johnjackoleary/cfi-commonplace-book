@@ -18,13 +18,17 @@ All pre-solo lessons
 2 hour ground, 1 hour flight
 
 ### Lesson Elements
-1. Documentation and paperwork
-	1. Flight Training in [[PPL.A Part 61 Private Pilot Training Requirements]] completed and logged
-	2. [[Pre-Solo Endorsements]] completed
-	3. Student Pilot Certificate [[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]] in possession
-	4. Government Issued ID [[FAR Part 61.3 Cert and Rating Reqs]] in possession
-	5. Medical Certificate [[FAR 61.113 Private Pilot Privileges and Limitations]]  in possession
-2. [[WVFC]]-Specific Pre-Solo Requirements.  See [WVFC Paperwork Checklist](https://drive.google.com/drive/u/0/folders/1o0t2y5GHl9PufTb4cpF_d1ATFkSAYL7N) for latest list.  Many of these forms are in the [Checkout Documents](https://drive.google.com/drive/u/0/folders/1AjOTq2JIVqbOnVhQuSeowCBw3K5Ux1wT) folder:
+1. [[FAR 61.87 Student Solo Reqs]] lists the FAA's requirements before a student solo
+	1. Knowledge Test
+	2. Pre-Solo Flight Training (listed in [[PPL.A Part 61 Private Pilot Training Requirements]])
+		1. Received and logged flight training for the maneuvers and procedures...
+		2. Demonstrated satisfactory proficiency and safety...
+2. FAA documentation and paperwork
+	1. [[Pre-Solo Endorsements]] completed
+	2. Student Pilot Certificate in possession ([[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]])
+	3. Government Issued ID in possession ([[FAR Part 61.3 Cert and Rating Reqs]])
+	4. Medical Certificate in possession ([[FAR 61.113 Private Pilot Privileges and Limitations]])
+3. [[WVFC]]-Specific Pre-Solo Requirements.  (See [WVFC Paperwork Checklist](https://drive.google.com/drive/u/0/folders/1o0t2y5GHl9PufTb4cpF_d1ATFkSAYL7N) for latest list.  Many of these forms are in the [Checkout Documents](https://drive.google.com/drive/u/0/folders/1AjOTq2JIVqbOnVhQuSeowCBw3K5Ux1wT) folder):
 	1. Aircraft Checkout Form
 	2. Membership Regulations Quiz
 	3. Applicable Ground Review Form(s)
@@ -33,48 +37,14 @@ All pre-solo lessons
 	6. Medical
 	7. Student Certificate
 	8. Solo Endorsement(s)
-3. Aircraft Systems
-	1. Primary/Secondary flight controls
-	2. Powerplant and propeller
-	3. Landing gear
-	4. Fuel, oil, and hydraulic
-	5. Electrical
-	6. Avionics
-	7. Pitot-static, vacuum/pressure, and associated flight instruments
-	8. Environmental
-	9. Deicing and anti-icing
-	10. Inop Equipment ([[FAR 91.213 Inop Equip]])
-4. [[FAR 61.87 Student Solo Reqs]]
-	1. Knowledge Test
-		1. Sample Questions
-			1. Regulations
-				1. Who is responsible for determining aircraft airworthiness?
-				2. What are the fuel reserves required for VFR day and night flights?
-				3. What are the alcohol requirements relative to flight?
-				4. What are [[VFR]] weather minimums at the airport? What about in the airspace of the practice area?
-				5. What are the limitations on visibility that apply specifically to student pilots?
-			2. Airspace
-				1. What airspace exists at the surface of this airport?
-				2. What is pattern altitude?
-				3. Where are the practice areas located?
-				4. What equipment is required to enter this airport's airspace?
-				5. Can you fly in Class B airspace? What about Class C?
-			3. Aircraft
-				1. What type of fuel does the aircraft use?
-				2. How many fuel drains are there? Where?
-				3. Why are there two magnetos?
-				4. What are the various V-speeds?
-				5. What are the procedures for an engine failure?
-				6. What limitations has your instructor put on solo flight?
-	2. Pre-Solo Flight Training
-		1. Received and logged flight training for the maneuvers and procedures...
-		2. Demonstrated satisfactory proficiency and safety...
-5. [[FAR 61.89 Student Pilot Limitations]]
-6. Reminder about "solo student" pilot identification in radio calls ([[AIM 4-2]])
-7. Logging Solo Flight Time - [[FAR 61.51]]
+4. Some important reminders:
+	1. [[FAR 61.89 Student Pilot Limitations]]
+	2. "Student pilot" identification in radio calls ([[AIM 4-2]])
+	3. Relevant club Member Regulations
+5. Logging Solo Flight Time - [[FAR 61.51]]
    > [!quote] 
    > A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs|FAR 61.87]]; and (iii) Is undergoing training for a pilot certificate or rating.
-5. Review relevant club Member Regulations
+
 
 ### Required Logbook Phraseology
 After confirming everything for [[FAR 61.87 Student Solo Reqs]], endorse with [[Pre-Solo Endorsements]].
