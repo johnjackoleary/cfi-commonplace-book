@@ -42,6 +42,7 @@ Ground 1 hour, simulator and/or airplane 1 hour
 	4. G1000 partial panel operations: See Garmin guidance doc (next page) 
 4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
 5. ATC notification 
+	1. Can always ask for a delay vector
 6. No-gyro PAR approaches and ASR approaches 
 7. Common errors: 
 	1. Slow to recognize failure could result in unusual attitude 
