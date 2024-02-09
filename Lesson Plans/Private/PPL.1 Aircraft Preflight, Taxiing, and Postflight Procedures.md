@@ -21,7 +21,7 @@ N/A
 1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, TSA ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/[non-citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training)))
 2. Syllabus overview
 3. Preflight
-	1. Walk-around inspection, use of checklists
+	1. Walk-around inspection, use of checklists^[[[Wes Irish]] has a nice set of photos [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/pre-flight-fails) for things he's noticed in preflights before]
 	2. Airworthiness (who determines, who is responsible for)
 		1. Who is responsible for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403 General Maintenance]]
 		2. Who determines airworthiness? Pilot-In-Command - [[FAR 91.7 Aircraft Airworthiness]]
@@ -39,7 +39,7 @@ N/A
 	2. Steer with feet
 	3. Minimum use of brakes (don't use power if using brakes)
 	4. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
-	5. Lights (see [[AC 91-73]])
+	5. Lights (see [[AC 91-73]] and [[Wes Irish]]'s writeup [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/lessons/lights))
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways
@@ -50,7 +50,8 @@ N/A
 	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
 8. Postflight Procedures
 	1. Tie-down technique
-	3. Securing aircraft
+	2. Securing aircraft
+	3. Quick look for any serious problems, like a flat tire or oil on the underbody
 	4. Documenting flight time and squawks/observations
 9. Common Errors
 	1. Forgetting checklist items

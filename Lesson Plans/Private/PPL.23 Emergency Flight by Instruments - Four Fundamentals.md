@@ -35,20 +35,20 @@ Hood or foggles
 			3. Scan primary instruments
 			4. Scan all instruments
 2. Attitude instrument flight basics
-	1. Power-Pitch-Trim sequence to initiate climb, Pitch-Power-Trim for descent.
-	2. Straight and Level flight (IFH 7-2)
-	3. Straight climbs and descents (IFH 7-14)
-	4. Turns (IFH 7-19)
-3. Common errors
+	1. Straight and Level flight ([[IFH]] 7-2)
+	2. Straight climbs and descents (IFH 7-14)
+		1. Power-Pitch-Trim sequence to initiate climb, Pitch-Power-Trim for descent.
+	3. Turns (IFH 7-19)
+4. Common errors
 	1. Spatial disorientation (see [[Vestibular and Visual Illusions]])
 	2. Distraction
 	3. Fixation or omission
-	4. While turning -- watch the turn, and do nothing else until complete
+	4. While turning -- watching the turn, and doing nothing else until complete
 	5. Heavy touching, over-controlling
 	6. Improper trim control
 
 ### Completion Standards
-Client must demonstrate basic attitude instrument flying skills, to ACS standards (±200 feet, heading ±20 degrees, airspeed ±10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed clims and descents, by reference to flight instruments only.
+Client must demonstrate basic attitude instrument flying skills, to ACS standards (±200 feet, heading ±20 degrees, airspeed ±10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed climbs and descents, by reference to flight instruments only.  Concurrent tasks will include looking up and tuning radio and navigation frequencies.
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:

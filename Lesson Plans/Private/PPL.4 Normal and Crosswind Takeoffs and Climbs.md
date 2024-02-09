@@ -24,7 +24,7 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 	3. [[Ground Effect]]: Using it, and exiting it
 	4. [[Four Left Turning Tendencies]]
 2. Preparation
-	1. Confirm adequate takeoff distance, from aircraft performance charts ([[POH]], section V)
+	1. Confirm adequate takeoff distance, from aircraft performance charts ([[POH]], section 5)
 		1. Consider effects of wind, [[density altitude]], weight, runway surface
 3. Normal Takeoffs
 	1. Procedure from [[POH]]
@@ -37,7 +37,7 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 		2. "[[Lights, Camera, Action, Time]]"
 	4. Ground roll
 		1. Feet off brakes
-		2. [[Smooth Power Application|gentle power application]]
+		2. [[Smooth Power Application]]
 		3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
 		4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing
 4. Additional Considerations for Crosswind Takeoffs
