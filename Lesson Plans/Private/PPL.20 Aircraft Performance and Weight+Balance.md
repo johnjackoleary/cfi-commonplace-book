@@ -33,15 +33,21 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 	3. How to calculate
 3. Performance calculations
 	1. [[Wind Triangle]] and relevant terminology
+		1. [[Course]] - intended path over the earth
+		2. [[Heading]] - where the plane's nose is pointing
+		3. [[Track]] - actual path over the ground
+		4. Bearing is the angle from you to some point you want to reach.  Generally, you plan a Course based on the Bearing of your destination or new waypoint.
+		5. [[Magnetic Variation]]
+		6. [[Magnetic Deviation]]
 	2. Using an [[E6B]]
 		1. Finding [[TAS]]
 		2. Finding [[WCA]] and [[GS]]
 		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
-	4. Takeoff and landing distances for ground roll and obstacle clearance
-	5. Rate of climb and time to climb
-	6. Power settings for cruise, airspeed and fuel burn
+	3. Takeoff and landing distances for ground roll and obstacle clearance
+	4. Rate of climb and time to climb
+	5. Power settings for cruise, airspeed and fuel burn
 		1. Importance of and methods for [[Leaning the Mixture]]
-	7. [[Personal Minimums]] and other safety factor considerations 
+	6. [[Personal Minimums]] and other safety factor considerations 
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:

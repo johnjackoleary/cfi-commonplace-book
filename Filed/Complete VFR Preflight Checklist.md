@@ -40,6 +40,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 
 ## Other
 - [ ] Provide passengers with [[SAFETY]] briefing
+- [ ] Carry necessary materials, such as VFR charts; flashlight for night flight; emergency supplies like water, food, and first aid kit
 ---
 
 > [!tip]
