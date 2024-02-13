@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
 
 ### Resources
-- [[Private Pilot ACS]] Sec V-A
+- [[Private Pilot ACS]] Section V.A
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

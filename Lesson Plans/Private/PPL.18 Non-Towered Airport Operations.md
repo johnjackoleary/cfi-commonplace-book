@@ -7,7 +7,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 
 ### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
-- [[Private Pilot ACS]] Section III Task B
+- [[Private Pilot ACS]] Section III.B
 - [[Non-Tower Radio Communications Examples]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]

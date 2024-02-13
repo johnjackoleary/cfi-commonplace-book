@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge and skill pertaining to night flight.
 
 ### Resources
-- [[Private Pilot ACS]] Section XI
+- [[Private Pilot ACS]] Section XI.A
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

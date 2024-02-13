@@ -9,7 +9,7 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 - [[AC 61-67]]
 - [[General Aviation Pilot Stall Awareness Training Study]]
 - [[POH]]
-- [[Private Pilot ACS]] Sec VII-D
+- [[Private Pilot ACS]] Section VII.D
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

@@ -9,7 +9,7 @@ Add https://www.aopa.org/news-and-media/all-news/2017/june/flight-training-magaz
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
 
 ### Resources
-- [[Private Pilot ACS]] Sec IV.B
+- [[Private Pilot ACS]] Section IV.B
 - [[AFM]]/[[POH]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]

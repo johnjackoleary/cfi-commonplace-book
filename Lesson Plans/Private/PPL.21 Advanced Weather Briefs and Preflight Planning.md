@@ -6,6 +6,7 @@ tags: ppl, lesson
 Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data. Understand services and process intended to help identify risks and make better decisions.
 
 ### Resources
+- [[Private Pilot ACS]] Sections I.C, I.D
 - [[Aviation Weather Handbook]]
 - [[AC 91-92]]
 

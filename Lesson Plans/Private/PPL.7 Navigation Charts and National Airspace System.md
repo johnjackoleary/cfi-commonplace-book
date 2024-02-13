@@ -6,6 +6,7 @@ tags: ppl, lesson
 Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.
 
 ### Resources
+- [[Private Pilot ACS]] Section I.E
 - [[VFR Chart Legend.pdf]]
 - [[KPAO Chart Supplement.pdf]]
 - [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]

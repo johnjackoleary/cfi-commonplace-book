@@ -7,7 +7,7 @@ Develop knowledge, risk management, and skills associated with forward slips to 
 
 ### Resources
 - [[POH]]
-- [[Private Pilot ACS]] Sec IV-M
+- [[Private Pilot ACS]] Section IV.M
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

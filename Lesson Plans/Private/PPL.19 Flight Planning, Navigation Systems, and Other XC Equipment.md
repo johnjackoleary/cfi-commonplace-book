@@ -6,7 +6,7 @@ tags: ppl, lesson, sim
 Develop knowledge and ability to plot a course, then use onboard navigation equipment to follow it. Additionally, develop knowledge of [[ATC]] capabilities and ability to use ATC assistance with radar vectors.
 
 ### Resources
-- [[Private Pilot ACS]] Section 6
+- [[Private Pilot ACS]] Section VI.B
 - Manuals for all installed equipment in the plane
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
