@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge, risk management and skills associated with maneuvers during [[slow flight]]. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
 
 ### Resources
-- [[Private Pilot ACS]] Sec VII
+- [[Private Pilot ACS]] Section VII.A
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

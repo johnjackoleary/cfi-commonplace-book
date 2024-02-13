@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.  Learn to complete a full navlog for a cross-country flight, including headings, waypoints, altitudes, and fuel requirements.
 
 ### Resources
-- [[Private Pilot ACS]] Sec VI.A
+- [[Private Pilot ACS]] Section VI.A
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop knowledge, risk management, and skills associated with power-on and power-off stalls.
 
 ### Resources
-- [[Private Pilot ACS]] Sec VII-B and -C
+- [[Private Pilot ACS]] Sections VII.B and VII.C
 - [[POH]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]

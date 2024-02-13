@@ -6,7 +6,7 @@ tags: ppl, lesson
 Develop skills and procedures to identify aircraft location, with on-board charts or equipment or with ATC help, and plan diversion to an appropriate alternate airport.
 
 ### Resources
-- [[Private Pilot ACS]] VI-C (diversion) and VI-D (lost procedures)
+- [[Private Pilot ACS]] Sections VI.C (diversion) and VI.D (lost procedures)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

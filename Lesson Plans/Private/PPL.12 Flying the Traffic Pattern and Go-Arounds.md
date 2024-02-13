@@ -9,7 +9,7 @@ tags:
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
 
 ### Resources
-- [[Private Pilot ACS]] Sec III.B, IV.N
+- [[Private Pilot ACS]] Sections III.B, IV.N
 - [[Pattern Precision]]
 - [skyvector.com](http://www.skyvector.com)
 

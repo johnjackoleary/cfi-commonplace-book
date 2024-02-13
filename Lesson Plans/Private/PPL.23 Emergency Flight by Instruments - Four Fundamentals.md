@@ -7,7 +7,7 @@ Develop knowledge and skills required for emergency flight by reference to instr
 
 ### Resources
 - Instrument Flying Handbook ([[IFH]]) Ch 6-7;
-- [[Private Pilot ACS]] Section VIII
+- [[Private Pilot ACS]] Sections VIII.A,B,C,D,F
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

@@ -6,7 +6,7 @@ tags: ppl, lesson, maneuver
 Develop risk management and skills associated with ground reference maneuvers, including rectangular patterns, S-turns, and turns around a point.
 
 ### Resources
-- [[Private Pilot ACS]] Sec V-B
+- [[Private Pilot ACS]] Section V.B
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

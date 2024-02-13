@@ -6,7 +6,7 @@ tags: ppl, lesson
 Understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 
 
 ### Resources
-- [[Private Pilot ACS]] Sec IV.A
+- [[Private Pilot ACS]] Section IV.A
 - [[POH]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]

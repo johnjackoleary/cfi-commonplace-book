@@ -6,6 +6,7 @@ tags: ppl, lesson
 Develop understanding of aircraft limitations and weight & balance, and how to compute aircraft performance and W&B for a cross country flight.
 
 ### Resources
+- [[Private Pilot ACS]] Section I.F
 - [[POH]]/[[AFM]]
 - [SkyVector](https://skyvector.com) for planning online
 

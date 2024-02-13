@@ -6,6 +6,7 @@ tags: ppl, lesson
 Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
 
 ### Resources
+- [[Private Pilot ACS]] Section VIII.E
 - [[IFH]] Ch7
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]

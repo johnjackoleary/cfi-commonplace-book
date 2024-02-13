@@ -6,8 +6,8 @@ tags: ppl, lesson, maneuver
 Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
 
 ### Resources
-- [[Private Pilot ACS]] Sec IV.E&F (Short Field) and IV.C&D (Soft Field)
-- [[Commercial ACS]] Sec IV.E&F (Short Field) and IV.C&D (Soft Field)
+- [[Private Pilot ACS]] Sections IV.E&F (Short Field) and IV.C&D (Soft Field)
+- [[Commercial ACS]] Sections IV.E&F (Short Field) and IV.C&D (Soft Field)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
