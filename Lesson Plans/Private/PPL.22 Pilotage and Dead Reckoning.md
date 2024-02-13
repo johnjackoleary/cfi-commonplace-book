@@ -38,18 +38,7 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 	2. Flight log forms, and updating during flight
 	3. Mental arithmetic - time, speed, distance
 	4. When do we use this in practice?
-3.  Important Terminology:
-	1. [[Course]] - intended path over the earth
-	2. [[Heading]] - where the plane's nose is pointing
-	3. [[Track]] - actual path over the ground
-	4. Bearing is the angle from you to some point you want to reach.  Generally, you plan a Course based on the Bearing of your destination or new waypoint.
-	5. [[Magnetic Variation]]
-	6. [[Magnetic Deviation]]
-4. Plotting a course using:
-	1. The [[Wind Triangle]]
-	2. An [[E6B]]
-5. Using the [[POH]] to determine airspeed and fuel burn rate in climb, cruise, and descent
-6. Completing a full navlog
+3. Completing a full navlog
 	1. How to handle step climbs under a Bravo
 
 ### Completion Standards
