@@ -19,7 +19,7 @@ When things are confusing or non-standard, it’s OK to get "conversational" on 
 
 ---
 
-Related to [[Non-Tower Radio Communications Examples]]
+Related to [[Tower Radio Communication Examples]]
 See Also: [[AIM 4]]-1-9
 
 #radio-comm

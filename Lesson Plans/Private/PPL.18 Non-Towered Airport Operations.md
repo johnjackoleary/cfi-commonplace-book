@@ -8,7 +8,7 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 ### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
 - [[Private Pilot ACS]] Section III.B
-- [[Non-Tower Radio Communications Examples]]
+- [[Non-Tower Radio Communication Examples]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
@@ -56,7 +56,7 @@ Ground 2 hours, 1 hour sim/flight
 				1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airport Ops]])
 				2. ![[Single Runway Traffic.jpeg]]
 			2. Parallel runway operations (see [[AIM 4-3]]) ![[Parallel Runway Traffic.jpeg]]
-	3. Arriving to airport area and [[Non-Tower Radio Communications Examples]]
+	3. Arriving to airport area and [[Non-Tower Radio Communication Examples]]
 		1. "The Active" runway
 		2. Some aircraft don't have radios
 	4. Departing the traffic pattern and airport
