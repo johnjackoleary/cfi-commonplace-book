@@ -39,7 +39,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	1. Engine
 		1. During flight: see [[PPL.15 Emergency Landings]]
 		2. During takeoff roll
-		3. Immediately after takeoff: Land straight ahead!
+		3. Immediately after takeoff: Land straight ahead! ()
 	2. Electrical
 		1. Malfunctions or complete failure
 		2. Nordo (No Radio)
