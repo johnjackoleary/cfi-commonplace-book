@@ -1,8 +1,28 @@
-A bit of info here https://www.aopa.org/news-and-media/all-news/2023/august/flight-training-magazine/technique-flight-following and here https://www.aopa.org/news-and-media/all-news/1999/january/flight-training-magazine/atc-communications from [[AOPA]]
 
-Bit more here as well, with specific examples, but no examples of a handoff: https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/SampleRadioCalls.pdf
+#### Picking up Flight Following En Route:
 
-#todo :: Fill in a more specific example of the radio calls involved
+| ATC | You |
+|---|---|
+||<i>"Oakland Center[^1], <br>Skylane 123AB with request"</i>|
+|<i>"Skylane 123AB, <br>squawk 4312 and say request"</i> | |
+| | <i>"Skylane 123AB, <br>10 miles west of Truckee at one zero thousand five hundred, <br>request flight following to Palo Alto, Papa Alfa Oscar"</i>|
+|<i>"Skylane 123AB <br>radar contact 11 miles west of Truckee"</i>||
+
+[^1]: But how do you find the frequency for ATC in your area, if you're not already talking to them?  Some frequencies you'll just memorize over time, like 125.35 over the Livermore Valley.  But another trick is to pull up the AF/D for the closest airport, and see what approach/departure frequencies are listed.  If you try one of those, you'll either be right, or they'll refer you to the right one.
+
+#### Controller-to-controller handoffs:
+
+| ATC  | You  |
+|---|---|
+|<i>"N123AB, <br>contact Norcal at 124.9"</i>||
+||<i>"124.9, 123AB"</i> <br><b>Wait a second to make sure they don't correct you, then switch to that frequency and check in:</b><br></i>"Norcal approach, <br>Skylane123AB, <br>nine thousand five hundred"</i>|
+|<i>"Skylane123AB, <br>Sacramento altimeter is 29.99"</i>||
+||<i>"29.99, N123AB"</i> <br><b>Then adjust your altimeter</b>|
+
+Some additional information and examples can be found in:
+- https://www.aopa.org/news-and-media/all-news/2023/august/flight-training-magazine/technique-flight-following
+- https://www.aopa.org/news-and-media/all-news/1999/january/flight-training-magazine/atc-communications
+- https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/SampleRadioCalls.pdf
 
 From [[Flight and Ground Instructor Pro-Tips]] and 
 
