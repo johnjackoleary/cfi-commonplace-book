@@ -3,7 +3,7 @@
 > 
 > I'll also use it to teach students and hope that students will contribute their own insights as they learn.
 > 
-> My hope is you find this CFI commonplace book a useful starting point for your own work, and that you feel welcome to contribute your own learnings back.
+> My hope is you find this CFI commonplace book a useful starting point for your goals, and that you feel welcome to contribute your own learnings back.
 
 ## Are You A...
 ### Student Interested in a Syllabus
@@ -21,6 +21,6 @@
 - Check out the Obsidian Graph View
 
 ### Anyone Else Looking to Contribute
-- Checkout the [[README]] to get started
+- Check out the [[README]] to get started
 - There's always something interesting to tackle in [[Todo]]
 - Thank you!
