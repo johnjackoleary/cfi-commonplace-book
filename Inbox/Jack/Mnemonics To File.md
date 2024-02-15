@@ -2,7 +2,7 @@
 - http://www.airman.us/ifr_scanning_6.html
 - https://www.scottsasha.com/aviation/acronyms.html
 
-## From AVWeb
+## From [[AVweb]]
 [URL](https://www.avweb.com/features/leading-edge-4-checklists-and-flows/)
 
 CIGARTIP as a before-takeoff check:

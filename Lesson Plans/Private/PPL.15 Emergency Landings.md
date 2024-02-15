@@ -57,8 +57,8 @@ Develop knowledge and skills associated with emergency landings, including choos
 7. Notes on best terrain selection
 	1. Roads are a tempting options, especially at night, but most large road carry a risk of manmade structures like electrical wires that will be hard to see from far away. Plus, there's traffic on the road -- it may not be your best option.
 	2. Read through additional comments from [[FAA]] in [[AFH Ch18]]
-	3. https://www.youtube.com/watch?v=0LwGYBBhTss&t=1s
-	4. https://www.youtube.com/watch?v=99DomTe9JY4&t=348s 
+	3. [Emergency Landing: Beach or Breakers?](https://www.youtube.com/watch?v=0LwGYBBhTss) from [[Paul Bertorelli]] of [[AVweb]]
+	4. [How to Crash Land An Airplane On A Freeway With Style and Grace And Survive](https://www.youtube.com/watch?v=99DomTe9JY4) from [[Paul Bertorelli]] of [[AVweb]]
 8. Considerations for ditching
 	1. High Winds, Heavy Seas - INTO THE WIND 
 	2. Light Winds, Heavy Swells - PARALLEL TO SWELLS
