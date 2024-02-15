@@ -44,7 +44,8 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		1. Approved [[MEL]] and the [[4 Types of MEL's]], related to [[FAR 91.213 Inop Equip]]
 		2. [[Risk Management]] and related mnemonics ([[PAVE]], [[IMSAFE]], [[5Ps]], etc)
 		3. [[5 Hazardous Attitudes and Antidotes]]
-5. Airport Operations
+5. [[ADM]] and [[Operational Pitfalls]]
+6. Airport Operations
 	1. Q&A to feel out weak areas in understanding of [[PPL.5 Towered Airport Operations]] and [[PPL.18 Non-Towered Airport Operations]]
 	2. [[Part 830]] review: [[Accident and Incident Reporting]]
 	3. Use of portable electronic devices (see [[AC 91-21]])

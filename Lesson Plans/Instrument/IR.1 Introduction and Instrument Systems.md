@@ -34,7 +34,7 @@ Ground 3 hours
 	5. Stages of training, Phase checks 
 	6. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists 
-		2. [[Personal Minimums]], “get-there-itis”, proficiency vs currency, [[PAVE]] 
+		2. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
 2. Instrument systems and power sources, flight characteristics, limitations, errors, pre-flight check methods 
 	1. Required equipment for IFR flight, and IFR airworthiness requirements ([[FAR 91.205 Instrument and Equipment Requirements]])
 		1. Mnemonic [[GRABCARDD]]
