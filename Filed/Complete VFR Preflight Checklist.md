@@ -6,6 +6,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 	- [ ] If on a solo, logbook with solo endorsement (§ [[FAR 61.3|61.3]])
 - [ ] Checkride or Flight Review in the past 24 months (§ [[FAR 61.56 Flight Review|61.56]])
 - [ ] Recent Flight Experience for carrying passengers (§ [[FAR 61.57 Recent Flight Experience|61.57]])
+- [ ] [[Personal Minimums]] met
 ## Aircraft
 - [ ] Overall, the PIC is responsible for verifying airworthiness (§ 91.7, § 91.403)
 - [ ] [[AR(R)OW]] (§ 91.9, § 91.203)
@@ -28,7 +29,6 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] [[All Available Information Concerning That Flight]]
 
 ## External Pressure
-- [ ] [[Personal Minimums]] met
 - [ ] Don't let yourself be rushed
 - [ ] Don't go if something's not right
 - [ ] Consider the [[Three Strikes and You’re Out Rule]]
