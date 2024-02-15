@@ -3,7 +3,7 @@ tags: [gait]
 has-carb-heat: true
 Vs:
 Vs0:
-soft-takeoff-flaps :: 25°
+soft-takeoff-flaps: 25°
 cool-procedure:
 engine-fire-speed: TBD
 power-on-stall-rpm: 2400 RPM

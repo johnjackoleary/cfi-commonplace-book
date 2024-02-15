@@ -3,6 +3,7 @@
 
 [[7GCAA Gait.pdf]]
 [[C152 Gait.pdf]]
+[[C172M Gait MPH.pdf]]
 [[C172N Gait.pdf]]
 [[C172S Gait.pdf]]
 [[PA28-181 Gait KTS.pdf]]
