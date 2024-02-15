@@ -26,7 +26,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 1. [[FAR 91.3 PIC Responsibility and Authority]]
 3. What is an emergency? When should you declare one?
 	1. When the outcome of the flight is in doubt
-4. Note: Will cover instrument failures (vacuum or pitot-static system) later.
+4. Instrument failures (vacuum or pitot-static system)
 5. Fire
 	1. Engine fire
 		1. In air - Emergency Descent (this is the rapid descent procedure)
@@ -39,7 +39,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	1. Engine
 		1. During flight: see [[PPL.15 Emergency Landings]]
 		2. During takeoff roll
-		3. Immediately after takeoff: Land straight ahead!
+		3. Immediately after takeoff: Land straight ahead!^[[Cub Theatre: The-Not-That-Impossible Turn](https://www.youtube.com/watch?v=byBh1Qd6IgA) from [[Paul Bertorelli]] of [[AVweb]]]
 	2. Electrical
 		1. Malfunctions or complete failure
 		2. Nordo (No Radio)
