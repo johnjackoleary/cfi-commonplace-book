@@ -38,7 +38,9 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 	2. Flight log forms, and updating during flight
 	3. Mental arithmetic - time, speed, distance
 	4. When do we use this in practice?
-3. Completing a full navlog
+3. [[Compass Errors]]
+	1. Navigating by Pilotage and Dead Reckoning requires awareness of the in-flight compass errors (Acceleration and Turning errors)
+4. Completing a full navlog
 	1. How to handle step climbs under a Bravo
 
 ### Completion Standards
