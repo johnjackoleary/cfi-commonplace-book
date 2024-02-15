@@ -23,9 +23,9 @@ speed-units: mph
 | Cruise                        |                            |    0°     |            tbd             |            tbd                   |       0       |
 | Cruise Descent                |                            |  \-2.5°   |             tbd             |                               |     \-500     |
 | 🛬 Downwind                   |                            |           | (pattern-downwind-rpm::tbd) | (pattern-downwind-speed::104)  |       0       |
-| 🛬 Abeam Numbers              | (pattern-abeam-flaps::10°) |           |             tbd             |   (pattern-abeam-speed::104)   |               |
+| 🛬 Abeam Numbers              | (pattern-abeam-flaps::10°) |           |             tbd             |   (pattern-abeam-speed::tbd)   |               |
 | 🛬 Base                       | (pattern-base-flaps::25°)  |           |             tbd             |   (pattern-base-speed::86)    |               |
-| 🛬 Final                      | (pattern-final-flaps::40°) |           |             tbd             |          (Vref::75)           |               |
+| 🛬 Final                      | (pattern-final-flaps::30°) |           |             tbd             |          (Vref::75)           |               |
 | Short                         | (pattern-short-flaps::40°) |           |             tbd             |         (Vshort::69)         |               |
 
 <br>

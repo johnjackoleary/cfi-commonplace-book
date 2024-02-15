@@ -4,7 +4,7 @@
     "pageSize": "A5",
     "landscape": false,
     "margin": "1",
-    "downscalePercent": 85
+    "downscalePercent": 100
   },
   "spellcheck": true,
   "foldIndent": true,
