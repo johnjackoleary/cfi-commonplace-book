@@ -15,9 +15,12 @@ https://www.faasafety.gov/OnlineHelp/Default.aspx?page=/WINGS/pub/default.aspx#:
 
 #todo :: maybe move this to WINGS.0
 
-[[WINGS]] credit can be used in place of a traditional [[BFR]]. This has several advantages, including completing the tasks with different instructors and more choice in which areas to focus on.
+[[WINGS - Pilot Proficiency Program|WINGS]] credit can be used in place of a traditional [[BFR]]. This has several advantages, including completing the tasks with different instructors and more choice in which areas to focus on.
 
-See [[FAR 61.56 Flight Review]] and [WINGS Pilot Proficiency Program User's Guide](https://www.faasafety.gov/documents/wings_manual.pdf)
+> [!quote] From [[AC 61-91]]
+> Airmen who participate in the program and satisfactorily complete a current phase of WINGS will not have to complete the flight review requirements of 14 CFR part 61, § [[FAR 61.56 Flight Review|61.56]]. Section 61.56(e) states that participating airmen do not need to accomplish the flight review requirements of part 61 if, since the beginning of the 24th calendar-month before the month in which that pilot acts as pilot-in-command ([[PIC]]), he or she has satisfactorily accomplished one or more phases of an FAA-sponsored pilot proficiency award program. Each time a pilot earns a new phase of WINGS, it satisfies the flight review requirement regardless of how frequently or closely spaced the phase or award.
+
+See [[FAR 61.56 Flight Review]] and [[WINGS - Pilot Proficiency Program]] and [[AC 61-91]] and [[WINGS Pilot Proficiency Program Users Guide]]
 
 #todo :: add more info here on this process, preferably with a full syllabus
 
@@ -62,3 +65,8 @@ ASEL Private, Commercial, ATP Navigation A100125-09
 ASEL Private, Commercial, ATP Emergency Operations A100125-10
 All Private Pilot Initial Certification A071102-02
 Note: There are many more options for activities for the Basic Level Flight 3 activity. Please refer to FAASafety.gov for a list of Basic Flight 3 activities for additional categories and classes and pilot certificate levels.
+
+
+### Appendices
+[[WINGS.A Endorsement]]
+[[WINGS.B Requirements]]
