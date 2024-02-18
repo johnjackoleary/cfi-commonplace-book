@@ -25,7 +25,7 @@ You can find information about each flight activity on the Quick WINGS link on t
 There is no minimum time required for each of the activity tasks, or for the activity as a whole. Your CFI will judge when this activity has been completed satisfactorily.
 
 > [!tip] From CFI Commonplace Book
-> A few specific activities are linked from [[~ WINGS Flight Review]] or in this WINGS folder.
+> A few specific activities are linked from [[~ WINGS Phase Outline]].
 
 # As a Flight Review Replacement
 > [!quote] From [[FAR 61.56 Flight Review]]
