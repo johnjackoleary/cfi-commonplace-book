@@ -1,6 +1,9 @@
 > [!note] From Jack
 > While not the only way, here is how I prefer to checkout a new aircraft.
 
+> [!tip]
+> Checkout flights could be structured to cover [[WINGS - Pilot Proficiency Program|WINGS]] activities, and later used as part of a [[~ WINGS Flight Review]].
+
 ## General Approach
 ### Ground Work Before First Flight
 - [ ] Read [[POH]] for this aircraft and its avionics
