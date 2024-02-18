@@ -1,9 +1,9 @@
-| Info                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=11) |
-| Activity # A070405-08                                                                                                      |
-| 1 Credit for Basic Flight Topic 2                                                                                        |
-| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193544/A070405-08%20ASEL%20-%20Slow%20Flight,Stall,Basic%20Instruments.pdf)                                                                                                                           |
+| Info                                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=11)                                        |
+| Activity # A070405-08                                                                                                                                             |
+| 1 Credit for Basic Flight Topic 2                                                                                                                                 | 
+| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193544/A070405-08%20ASEL%20-%20Slow%20Flight,Stall,Basic%20Instruments.pdf) |
 
 > [!caution] This page summarizes useful information, but does not replace the official Activity Page instructions.
 > For instance, most flight activities expect specific preflight and post flight discussions.

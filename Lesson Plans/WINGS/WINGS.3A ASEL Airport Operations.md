@@ -1,9 +1,9 @@
-| Info                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%208481) |
-| Activity # A100125-07                                                                                                    |
-| 1 Credit for Basic Flight Topic 3                                                                                    |
-| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193535/A100125-07%20ASEL-Airport%20Operations.pdf)                                                                                                                           |
+| Info                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%208481)          |
+| Activity # A100125-07                                                                                                                    | 
+| 1 Credit for Basic Flight Topic 3                                                                                                        |
+| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193535/A100125-07%20ASEL-Airport%20Operations.pdf) |
 
 > [!caution] This page summarizes useful information, but does not replace the official Activity Page instructions.
 > For instance, most flight activities expect specific preflight and post flight discussions.

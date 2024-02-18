@@ -1,9 +1,9 @@
-| Info                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
+| Info                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------- |
 | [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%208483) |
-| Activity # A100125-09                                                                                              |
-| 1 Credit for Basic Flight Topic 3                                                                                    |
-| No Activity Worksheet                                                                                                                 |
+| Activity # A100125-09                                                                                                           | 
+| 1 Credit for Basic Flight Topic 3                                                                                               |
+| No Activity Worksheet                                                                                                           |
 
 > [!caution] This page summarizes useful information, but does not replace the official Activity Page instructions.
 > For instance, most flight activities expect specific preflight and post flight discussions.

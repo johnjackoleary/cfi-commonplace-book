@@ -1,9 +1,9 @@
-| Info                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=10) |
-| Activity # A070405-07                                                                                                      |
-| 1 Credit for Basic Flight Topic 1                                                                                          |
-| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193534/A070405-07%20ASEL-Takeoffs_Landings_Go-Arounds.pdf)                                                                                                                           |
+| Info                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=10)                       |
+| Activity # A070405-07                                                                                                                            | 
+| 1 Credit for Basic Flight Topic 1                                                                                                                |
+| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193534/A070405-07%20ASEL-Takeoffs_Landings_Go-Arounds.pdf) |
 
 > [!caution] This page summarizes useful information, but does not replace the official Activity Page instructions.
 > For instance, most flight activities expect specific preflight and post flight discussions.

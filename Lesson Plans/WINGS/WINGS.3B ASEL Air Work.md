@@ -1,9 +1,9 @@
-| Info                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%208482) |
-| Activity # A100125-08                                                                                                 |
-| 1 Credit for Basic Flight Topic 3                                                                                    |
-| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193533/ASEL%20-%20Performance%20Flight%20Maneuvers%20and%20Ground%20Reference%20Maneuvers%20-A100125-08-June%202019.pdf)                                                                                                                           |
+| Info                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%208482)                                                                                |
+| Activity # A100125-08                                                                                                                                                                                          |
+| 1 Credit for Basic Flight Topic 3                                                                                                                                                                              | 
+| [Activity Worksheet](https://www.faasafety.gov/files/gslac/library/documents/2019/Jun/193533/ASEL%20-%20Performance%20Flight%20Maneuvers%20and%20Ground%20Reference%20Maneuvers%20-A100125-08-June%202019.pdf) |
 
 > [!caution] This page summarizes useful information, but does not replace the official Activity Page instructions.
 > For instance, most flight activities expect specific preflight and post flight discussions.
