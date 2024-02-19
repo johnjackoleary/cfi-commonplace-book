@@ -42,6 +42,13 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 	1. Navigating by Pilotage and Dead Reckoning requires awareness of the in-flight compass errors (Acceleration and Turning errors)
 4. Completing a full navlog
 	1. How to handle step climbs under a Bravo
+5. Other Flight Planners / Navigation Logs are available
+	1. Done by hand
+		1. Consider [ASA](https://asa2fly.com/flight-planner-pad/) or [Jeppesen](https://www.amazon.com/Jeppesen-VFR-Navigation-Log-JS436183/dp/B003VSCCJ0/ref=sr_1_36?keywords=JEPPESEN&qid=1703037416&sr=8-36)
+		2. Print a comparable one online in [horizontal](https://www.dauntless-soft.com/products/Freebies/VFRFlightPlanner/)^[Version B seems to align best with flow from [[E6B]] instructions] or [vertical](https://www.reddit.com/r/flying/comments/za5mbd/comment/iykckje/?utm_source=share&utm_medium=web2x&context=3)
+	2. Done electronically
+		1. [Calculator with manual input](https://e6bx.com/navlog/)
+		2. Generated with info like forecasted winds from [[ForeFlight]], [SkyVector](https://skyvector.com/), or others
 
 ### Completion Standards
 Client should be able to:

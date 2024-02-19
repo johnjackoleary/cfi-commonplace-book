@@ -64,14 +64,6 @@ Ground 2 hours, 1 hour sim/flight
 		2. Be aware, individuals sometimes depart from crosswind or downwind leg
 		3. Turn enroute when clear of pattern
 	5. Reminder of safety considerations from [[SOLO.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
-3. Overview of Flight Planners / Navigation Logs
-	1. Used to record key information pertinent to a flight
-	2. Done by hand
-		1. Consider [ASA](https://asa2fly.com/flight-planner-pad/) or [Jeppesen](https://www.amazon.com/Jeppesen-VFR-Navigation-Log-JS436183/dp/B003VSCCJ0/ref=sr_1_36?keywords=JEPPESEN&qid=1703037416&sr=8-36)
-		2. Print a comparable one online in [horizontal](https://www.dauntless-soft.com/products/Freebies/VFRFlightPlanner/)^[Version B seems to align best with flow from [[E6B]] instructions] or [vertical](https://www.reddit.com/r/flying/comments/za5mbd/comment/iykckje/?utm_source=share&utm_medium=web2x&context=3)
-	3. Done electronically
-		1. [Calculator with manual input](https://e6bx.com/navlog/)
-		2. Generated with info like forecasted winds from [[ForeFlight]], [SkyVector](https://skyvector.com/), or others
 5. Common errors
 	1. Forgetting radio calls
 	2. Selecting wrong runway or inappropriate entry procedure to pattern
