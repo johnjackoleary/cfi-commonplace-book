@@ -14,7 +14,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.15 Emergency Landings]]
+- [[SOLO.15 Emergency Landings]]
 
 ### Schedule
 1.5 hours ground, flight practice as necessary
@@ -31,13 +31,13 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	1. Engine fire
 		1. In air - Emergency Descent (this is the rapid descent procedure)
 			1. Start descent (bank 30°-45°; airspeed >=100 kts; should have positive load factor)
-			2. Then once fire out, execute forced landing (see [[PPL.15 Emergency Landings]])
+			2. Then once fire out, execute forced landing (see [[SOLO.15 Emergency Landings]])
 		2. During start on ground
 	2. Electrical Fire
 	3. Wing Tip Fire
 6. Failure
 	1. Engine
-		1. During flight: see [[PPL.15 Emergency Landings]]
+		1. During flight: see [[SOLO.15 Emergency Landings]]
 		2. During takeoff roll
 		3. Immediately after takeoff: Land straight ahead!^[[Cub Theatre: The-Not-That-Impossible Turn](https://www.youtube.com/watch?v=byBh1Qd6IgA) from [[Paul Bertorelli]] of [[AVweb]]]
 	2. Electrical

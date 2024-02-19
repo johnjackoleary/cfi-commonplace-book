@@ -12,7 +12,7 @@ Develop knowledge, risk management, and skills associated with power-on and powe
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.6 Maneuvering During Slow Flight]]
+[[SOLO.6 Maneuvering During Slow Flight]]
 
 ### Schedule
 0.5 hour ground, 2.5 hour flight, with practice on multiple flights

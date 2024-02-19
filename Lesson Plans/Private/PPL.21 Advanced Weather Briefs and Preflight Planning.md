@@ -13,7 +13,7 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.3 Weather Briefs and Preflight Planning]]
+- [[SOLO.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 1.5 hour, practice on multiple flights

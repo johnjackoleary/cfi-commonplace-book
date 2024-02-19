@@ -13,7 +13,7 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.3 Weather Briefs and Preflight Planning]]
+[[SOLO.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
 3 hours ground

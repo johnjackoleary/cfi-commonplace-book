@@ -17,7 +17,7 @@ Develop initial knowledge of and sources for preflight briefings.
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+[[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
 3 hour ground
@@ -29,7 +29,7 @@ Develop initial knowledge of and sources for preflight briefings.
 		2. Government ID, pilot license, and medical certificate - in possession
 		4. Currency for carrying passengers (day or night) - met
 	2. <u>A</u>ircraft
-		1. [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+		1. [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 		2.  Introduction to Weight & Balance
 	3. en<u>V</u>ironment:
 		1. Weather, airspace/[[TFR]]s, terrain, etc

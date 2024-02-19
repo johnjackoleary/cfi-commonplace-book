@@ -11,7 +11,7 @@ Develop knowledge and skills associated with pilotage navigation by reference to
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.7 Navigation Charts and National Airspace System]]
+- [[SOLO.7 Navigation Charts and National Airspace System]]
 - [[PPL.20 Aircraft Performance and Weight+Balance]]
 
 ### Schedule

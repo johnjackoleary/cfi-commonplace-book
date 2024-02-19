@@ -14,7 +14,7 @@ Develop skills and procedures to identify aircraft location, with on-board chart
 - [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
 - [[PPL.22 Pilotage and Dead Reckoning]]
 - [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
-- [[PPL.7 Navigation Charts and National Airspace System]]
+- [[SOLO.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
 Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights

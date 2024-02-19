@@ -97,8 +97,8 @@
 	3. ‡ **30° bank at the steepest point.**
 	4. ‡ At the 180° point, **±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading**.
 	5. Resume straight-and-level flight.
-5. Slow Flight ([[PPL.6 Maneuvering During Slow Flight]])
-6. Power On and Off Stalls ([[PPL.8 Power-On and Power-Off Stalls]])
+5. Slow Flight ([[SOLO.6 Maneuvering During Slow Flight]])
+6. Power On and Off Stalls ([[SOLO.8 Power-On and Power-Off Stalls]])
 8. Accelerated Stalls (VII.D)
 	1. Must complete task above 3000' AGL.
 	2. ‡ Establish and **maintain a coordinated turn in a 45° bank**, increasing elevator back pressure smoothly and firmly until an impending stall is reached.

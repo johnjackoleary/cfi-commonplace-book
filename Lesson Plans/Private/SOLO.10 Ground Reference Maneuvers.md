@@ -11,7 +11,7 @@ Develop risk management and skills associated with ground reference maneuvers, i
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.2 Four Fundamentals of Flight]]
+[[SOLO.2 Four Fundamentals of Flight]]
 
 ### Schedule
 1 hour ground, 2 hours flight

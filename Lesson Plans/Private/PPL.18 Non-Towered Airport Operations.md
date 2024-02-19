@@ -13,9 +13,9 @@ Develop knowledge of operations and traffic patterns at non-towered airports, in
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.5 Towered Airport Operations]]
-- [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]
-- [[PPL.7 Navigation Charts and National Airspace System]]
+- [[SOLO.5 Towered Airport Operations]]
+- [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]
+- [[SOLO.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
 Ground 2 hours, 1 hour sim/flight
@@ -36,7 +36,7 @@ Ground 2 hours, 1 hour sim/flight
 	5. Airport markings
 		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
 		3. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
-		4. Runway and taxi markings - See [[PPL.5 Towered Airport Operations]]
+		4. Runway and taxi markings - See [[SOLO.5 Towered Airport Operations]]
 	6. Airport lighting
 		1. Airport beacons (white/green: land+civilian, white/white/green: military)
 		3. Pilot controlled lighting
@@ -63,7 +63,7 @@ Ground 2 hours, 1 hour sim/flight
 		1. [[FAA]] endorses only straight-out or 45-degree (L/R matching pattern direction) departure
 		2. Be aware, individuals sometimes depart from crosswind or downwind leg
 		3. Turn enroute when clear of pattern
-	5. Reminder of safety considerations from [[PPL.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
+	5. Reminder of safety considerations from [[SOLO.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 3. Overview of Flight Planners / Navigation Logs
 	1. Used to record key information pertinent to a flight
 	2. Done by hand

@@ -12,7 +12,7 @@ Understand the ways to utilize different tools in the flight deck, understand th
 None
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+- [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
 Ground 1 hour, sim/airplane 1 hour

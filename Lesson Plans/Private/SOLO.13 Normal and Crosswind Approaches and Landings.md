@@ -15,8 +15,8 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.6 Maneuvering During Slow Flight]]
-- [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]
+- [[SOLO.6 Maneuvering During Slow Flight]]
+- [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]
 
 ### Schedule
 1.5 hours ground, 1.5 hours flight, multiple flights to practice as necessary

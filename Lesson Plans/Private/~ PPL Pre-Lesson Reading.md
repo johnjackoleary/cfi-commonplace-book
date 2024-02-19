@@ -3,23 +3,23 @@
 | Section                                                                      | FAA                                                   |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
 | [[PPL.0 Optional Introductory or Demo Flight]]                               | [[AFH Ch1]], [[PHAK Ch1]]                             |
-| [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]             | [[AFH Ch2]], [[PHAK Ch3]], [[PHAK Ch6]]               |
-| [[PPL.2 Four Fundamentals of Flight]]                                        | [[AFH Ch3]], [[PHAK Ch4]]                             |
-| [[PPL.3 Weather Briefs and Preflight Planning]]                              | [[AFH Ch2]], [[PHAK Ch13]]                            |
-| [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]                           | [[AFH Ch6]]                                           |
-| [[PPL.5 Towered Airport Operations]]                                         | [[PHAK Ch14]]                                         |
-| [[PPL.6 Maneuvering During Slow Flight]]                                     | [[AFH Ch4]], [[PHAK Ch5]]                             |
-| [[PPL.7 Navigation Charts and National Airspace System]]                     | [[PHAK Ch15]], [[AIM 3]]                              |
-| [[PPL.8 Power-On and Power-Off Stalls]]                                      | ~~[[AFH Ch4]]~~, [[AFH Ch5]], ~~[[PHAK Ch5]]~~        |
-| [[PPL.9 Performance Maneuvers - Steep Turns]]                                | [[AFH Ch10]]                                          |
-| [[PPL.10 Ground Reference Maneuvers]]                                        | [[AFH Ch7]]                                           |
-| [[PPL.11 Spin Awareness and Spin Recovery]]                                  | ~~[[AFH Ch5]]~~, ~~[[PHAK Ch5]]~~                     |
-| [[PPL.12 Flying the Traffic Pattern and Go-Arounds]]                         | [[AFH Ch8]], ~~[[PHAK Ch14]]~~, [[AIM 4-3]]           |
-| [[PPL.13 Normal and Crosswind Approaches and Landings]]                      | [[AFH Ch9]]                                           |
-| [[PPL.14 Forward Slips and No Flap Landings]]                                | ~~[[AFH Ch9]]~~                                       |
-| [[PPL.15 Emergency Landings]]                                                | [[PHAK Ch7]], [[AFH Ch18]]                            |
-| [[PPL.16 Short- and Soft-Field Takeoffs and Landings]]                       | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
-| [[PPL.17 Pre-Solo Knowledge Test and Review]]                                | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]]  |
+| [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]             | [[AFH Ch2]], [[PHAK Ch3]], [[PHAK Ch6]]               |
+| [[SOLO.2 Four Fundamentals of Flight]]                                        | [[AFH Ch3]], [[PHAK Ch4]]                             |
+| [[SOLO.3 Weather Briefs and Preflight Planning]]                              | [[AFH Ch2]], [[PHAK Ch13]]                            |
+| [[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]                           | [[AFH Ch6]]                                           |
+| [[SOLO.5 Towered Airport Operations]]                                         | [[PHAK Ch14]]                                         |
+| [[SOLO.6 Maneuvering During Slow Flight]]                                     | [[AFH Ch4]], [[PHAK Ch5]]                             |
+| [[SOLO.7 Navigation Charts and National Airspace System]]                     | [[PHAK Ch15]], [[AIM 3]]                              |
+| [[SOLO.8 Power-On and Power-Off Stalls]]                                      | ~~[[AFH Ch4]]~~, [[AFH Ch5]], ~~[[PHAK Ch5]]~~        |
+| [[SOLO.9 Performance Maneuvers - Steep Turns]]                                | [[AFH Ch10]]                                          |
+| [[SOLO.10 Ground Reference Maneuvers]]                                        | [[AFH Ch7]]                                           |
+| [[SOLO.11 Spin Awareness and Spin Recovery]]                                  | ~~[[AFH Ch5]]~~, ~~[[PHAK Ch5]]~~                     |
+| [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]                         | [[AFH Ch8]], ~~[[PHAK Ch14]]~~, [[AIM 4-3]]           |
+| [[SOLO.13 Normal and Crosswind Approaches and Landings]]                      | [[AFH Ch9]]                                           |
+| [[SOLO.14 Forward Slips and No Flap Landings]]                                | ~~[[AFH Ch9]]~~                                       |
+| [[SOLO.15 Emergency Landings]]                                                | [[PHAK Ch7]], [[AFH Ch18]]                            |
+| [[SOLO.16 Short- and Soft-Field Takeoffs and Landings]]                       | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
+| [[SOLO.17 Pre-Solo Knowledge Test and Review]]                                | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]]  |
 | [[PPL.18 Non-Towered Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
 | [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]                            | [[PHAK Ch8]], [[PHAK Ch16]]                           |
 | [[PPL.20 Aircraft Performance and Weight+Balance]] | [[PHAK Ch10]], [[PHAK Ch11]]                          |

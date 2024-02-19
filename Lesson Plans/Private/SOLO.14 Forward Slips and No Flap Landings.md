@@ -12,7 +12,7 @@ Develop knowledge, risk management, and skills associated with forward slips to 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.13 Normal and Crosswind Approaches and Landings]]
+- [[SOLO.13 Normal and Crosswind Approaches and Landings]]
 
 ### Schedule
 Ground 0.5, multiple flights to practice this maneuver frequently

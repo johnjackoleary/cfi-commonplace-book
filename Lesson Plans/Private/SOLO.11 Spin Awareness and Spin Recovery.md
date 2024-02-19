@@ -14,8 +14,8 @@ Develop knowledge, risk management and skills associated with spins, flight situ
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.6 Maneuvering During Slow Flight]]
-- [[PPL.8 Power-On and Power-Off Stalls]]
+- [[SOLO.6 Maneuvering During Slow Flight]]
+- [[SOLO.8 Power-On and Power-Off Stalls]]
 
 ### Schedule
 0.5 hour ground, 1 hour (optional) flight
