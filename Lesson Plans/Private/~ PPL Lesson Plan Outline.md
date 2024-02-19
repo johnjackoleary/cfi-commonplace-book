@@ -35,11 +35,13 @@ tags:
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
+[[XC.1 Intro to Cross Country Flying]]
 [[XC.2 Non-Towered Airport Operations]]
 [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 [[XC.4 Aircraft Performance and Weight+Balance]]
 [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 [[XC.6 Pilotage and Dead Reckoning]]
+[[XC.7 Making the Go-No-Go Decision]]
 [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]
 [[XC.9 Emergency Operations]]
 [[XC.10 Lost Procedures and Diversion to Alternates]]

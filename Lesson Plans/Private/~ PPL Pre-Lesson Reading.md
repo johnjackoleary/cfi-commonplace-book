@@ -20,16 +20,18 @@
 | [[SOLO.15 Emergency Landings]]                                                | [[PHAK Ch7]], [[AFH Ch18]]                            |
 | [[SOLO.16 Short- and Soft-Field Takeoffs and Landings]]                       | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
 | [[SOLO.17 Pre-Solo Knowledge Test and Review]]                                | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]]  |
+| [[XC.1 Intro to Cross Country Flying]]                                        | [[PHAK Ch16]]                                         |
 | [[XC.2 Non-Towered Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
-| [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]                            | [[PHAK Ch8]], [[PHAK Ch16]]                           |
-| [[XC.4 Aircraft Performance and Weight+Balance]] | [[PHAK Ch10]], [[PHAK Ch11]]                          |
-| [[XC.5 Advanced Weather Briefs and Preflight Planning]]                    | [[PHAK Ch2]], [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]] |
+| [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]       | [[PHAK Ch8]], ~~[[PHAK Ch16]]~~                       |
+| [[XC.4 Aircraft Performance and Weight+Balance]]                           | [[PHAK Ch10]], [[PHAK Ch11]]                          |
+| [[XC.5 Advanced Weather Briefs and Preflight Planning]]                    | [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]]               | 
 | [[XC.6 Pilotage and Dead Reckoning]]                                       | ~~[[PHAK Ch16]]~~                                     |
+| [[XC.7 Making the Go-No-Go Decision]]                                      | [[PHAK Ch2]]                                          |
 | [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]               | ~~[[AFH Ch18]]~~                                      |
 | [[XC.9 Emergency Operations]]                                              | ~~[[AFH Ch18]]~~, [[AIM 6]]                           |
 | [[XC.10 Lost Procedures and Diversion to Alternates]]                      | ~~[[PHAK Ch16]]~~                                     |
 | [[PPL.26 Emergency Flight by Instruments - Unusual Attitude Recovery]]       | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~    |
-| [[PPL.27 Night Operations and Night Cross Country]]                          | [[AFH Ch11]]                                          | 
+| [[PPL.27 Night Operations and Night Cross Country]]                          | [[AFH Ch11]]                                          |
 | [[PPL.28 Review and Checkride Preparation]]                                  |                                                       |
 
 
