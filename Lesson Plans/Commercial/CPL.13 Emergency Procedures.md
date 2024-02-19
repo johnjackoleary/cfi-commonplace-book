@@ -13,7 +13,7 @@ tags:
 ---
 
 ### Relevant [[PPL]] Lessons
-![[PPL.15 Emergency Landings]]
+![[SOLO.15 Emergency Landings]]
 
 ---
 

@@ -19,8 +19,8 @@ Discussion of differences between commercial and private pilot licenses, and set
 - [[Pyramid of Airworthiness]]
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-- [[PPL.5 Towered Airport Operations]]
+- [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+- [[SOLO.5 Towered Airport Operations]]
 - [[PPL.18 Non-Towered Airport Operations]]
 
 ### Schedule
@@ -39,14 +39,14 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		2. [[Distinction Between Pilot Privileges and Operational Rules]] #todo :: Add source
 	2. [[CPL]]+[[IRA]] allows commercial flights >50nm and at night.
 4. Preflight Procedures
-	1. Q&A to feel out weak areas in understanding of [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+	1. Q&A to feel out weak areas in understanding of [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 	2. Additional emphasis on
 		1. Approved [[MEL]] and the [[4 Types of MEL's]], related to [[FAR 91.213 Inop Equip]]
 		2. [[Risk Management]] and related mnemonics ([[PAVE]], [[IMSAFE]], [[5Ps]], etc)
 		3. [[5 Hazardous Attitudes and Antidotes]]
 5. [[ADM]] and [[Operational Pitfalls]]
 6. Airport Operations
-	1. Q&A to feel out weak areas in understanding of [[PPL.5 Towered Airport Operations]] and [[PPL.18 Non-Towered Airport Operations]]
+	1. Q&A to feel out weak areas in understanding of [[SOLO.5 Towered Airport Operations]] and [[PPL.18 Non-Towered Airport Operations]]
 	2. [[Part 830]] review: [[Accident and Incident Reporting]]
 	3. Use of portable electronic devices (see [[AC 91-21]])
 

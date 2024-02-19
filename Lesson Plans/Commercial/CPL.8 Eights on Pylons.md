@@ -11,7 +11,7 @@ To develop knowledge of pivotal altitude and the skill to maneuver the airplane 
 - [[All Maneuvers Quick Reference]]
 
 ### Builds On
-[[PPL.10 Ground Reference Maneuvers]]
+[[SOLO.10 Ground Reference Maneuvers]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours

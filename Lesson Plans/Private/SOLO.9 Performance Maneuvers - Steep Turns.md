@@ -11,7 +11,7 @@ Develop knowledge of the aerodynamics of steep turns, including load factor and 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.2 Four Fundamentals of Flight]]
+[[SOLO.2 Four Fundamentals of Flight]]
 
 ### Schedule
 Ground 0.5 hours, Flight 1 hour

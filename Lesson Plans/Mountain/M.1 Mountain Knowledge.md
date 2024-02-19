@@ -20,7 +20,7 @@ Background knowledge required for safe mountain flying.
 - [Backcountry Resource Center](https://www.aopa.org/training-and-safety/air-safety-institute/backcountryresourcecenter) from [[AOPA]]
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+- [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 - [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
 - [[CPL.12 High Altitude Operations]]
 
@@ -122,7 +122,7 @@ Background knowledge required for safe mountain flying.
 		1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean find peak power)
 	4. Takeoff/Climb -- will take longer!
 		1. Power Settings
-		2.  [[PPL.16 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
+		2.  [[SOLO.16 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
 		3. May need to [[shuttle climb]]
 	5. Enroute
 		1. Important to know wind direction (both from preflight and from signs while flying)

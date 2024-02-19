@@ -14,7 +14,7 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.5 Towered Airport Operations]]
+[[SOLO.5 Towered Airport Operations]]
 
 ### Schedule
 2 hours ground

@@ -12,7 +12,7 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.2 Four Fundamentals of Flight]]
+- [[SOLO.2 Four Fundamentals of Flight]]
 
 ### Schedule
 1 hour ground, 2 hour flight, practice every flight

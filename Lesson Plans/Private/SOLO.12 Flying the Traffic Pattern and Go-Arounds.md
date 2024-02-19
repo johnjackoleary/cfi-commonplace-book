@@ -16,9 +16,9 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.4 Normal and Crosswind Takeoffs and Climbs]]
-- [[PPL.5 Towered Airport Operations]]
-- [[PPL.10 Ground Reference Maneuvers]]
+- [[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]
+- [[SOLO.5 Towered Airport Operations]]
+- [[SOLO.10 Ground Reference Maneuvers]]
 
 ### CFI Equipment
 GPS/Sentry/ADS-B In
@@ -76,7 +76,7 @@ GPS/Sentry/ADS-B In
 	1. Circle wide
 	2. Cross midfield above the pattern, and cloverleaf onto the 45
 7. Flying the pattern
-	1. Memorize power settings/airspeeds, use wind correction angle like the [[PPL.10 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
+	1. Memorize power settings/airspeeds, use wind correction angle like the [[SOLO.10 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
 8. Palo Alto specifics worth knowing

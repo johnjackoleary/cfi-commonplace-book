@@ -12,7 +12,7 @@ Develop knowledge and skills required for emergency flight by reference to instr
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL.2 Four Fundamentals of Flight]]
+[[SOLO.2 Four Fundamentals of Flight]]
 
 ### Schedule
 Ground 0.5 hour, Flight/Sim 1 hour, practice on multiple flights
