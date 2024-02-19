@@ -18,7 +18,7 @@ Develop knowledge and skills required for emergency flight by reference to instr
 Ground 0.5 hour, Flight/Sim 1 hour, practice on multiple flights
 
 > [!note] 
-> Can be completed at the same time as [[PPL.24 Emergency Operations]].
+> Can be completed at the same time as [[XC.9 Emergency Operations]].
 
 ### CFI Equipment
 Hood or foggles

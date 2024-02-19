@@ -35,14 +35,14 @@ tags:
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
-[[PPL.18 Non-Towered Airport Operations]]
-[[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
-[[PPL.20 Aircraft Performance and Weight+Balance]]
-[[PPL.21 Advanced Weather Briefs and Preflight Planning]]
-[[PPL.22 Pilotage and Dead Reckoning]]
-[[PPL.23 Emergency Flight by Instruments - Four Fundamentals]]
-[[PPL.24 Emergency Operations]]
-[[PPL.25 Lost Procedures and Diversion to Alternates]]
+[[XC.2 Non-Towered Airport Operations]]
+[[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+[[XC.4 Aircraft Performance and Weight+Balance]]
+[[XC.5 Advanced Weather Briefs and Preflight Planning]]
+[[XC.6 Pilotage and Dead Reckoning]]
+[[XC.8 Emergency Flight by Instruments - Four Fundamentals]]
+[[XC.9 Emergency Operations]]
+[[XC.10 Lost Procedures and Diversion to Alternates]]
 
 (Cross Country Phase Check and Solo Cross Countries)
 

@@ -16,7 +16,7 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 - [[POH]]/[[AFM]] 
 
 ### Builds On
-[[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
+[[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 
 ### Schedule
 Ground 3 hours

@@ -20,7 +20,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 1.5 hours ground, flight practice as necessary
 
 > [!note] 
-> Can be completed at the same time as [[PPL.23 Emergency Flight by Instruments - Four Fundamentals]] or [[PPL.25 Lost Procedures and Diversion to Alternates]].
+> Can be completed at the same time as [[XC.8 Emergency Flight by Instruments - Four Fundamentals]] or [[XC.10 Lost Procedures and Diversion to Alternates]].
 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]
@@ -65,7 +65,7 @@ Client demonstrates appropriate knowledge of aircraft systems, abnormal and emer
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
-- Emergency procedures^[Also in [[PPL.25 Lost Procedures and Diversion to Alternates]]]
+- Emergency procedures^[Also in [[XC.10 Lost Procedures and Diversion to Alternates]]]
 
 ### Required Homework
 - [ ] Memorize emergency flows (you may wish to rent an aircraft and practice on the ground, although a picture also works)

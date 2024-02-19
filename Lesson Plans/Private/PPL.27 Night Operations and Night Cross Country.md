@@ -13,7 +13,7 @@ Develop knowledge and skill pertaining to night flight.
 ### Builds On
 - [[SOLO.5 Towered Airport Operations]]
 - [[SOLO.7 Navigation Charts and National Airspace System]]
-- [[PPL.22 Pilotage and Dead Reckoning]]
+- [[XC.6 Pilotage and Dead Reckoning]]
 
 ### Schedule
 Ground 1 hour, flight 3 hours

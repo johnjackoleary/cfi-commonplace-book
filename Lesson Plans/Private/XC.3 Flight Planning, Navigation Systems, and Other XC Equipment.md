@@ -19,7 +19,7 @@ Ground 2 hours, 1 hour sim
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
+> Lessons PPL [[XC.2 Non-Towered Airport Operations|18]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[XC.4 Aircraft Performance and Weight+Balance|20]], [[XC.5 Advanced Weather Briefs and Preflight Planning|21]], & [[XC.6 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
@@ -31,7 +31,7 @@ Ground 2 hours, 1 hour sim
 	4. Day-of considerations
 		1. Winds aloft may favor different course/altitude
 		2. Clouds, ice, turbulence, etc may influence course/altitude
-2. Compass and [[Compass Errors]]^[Especially relevant to [[PPL.22 Pilotage and Dead Reckoning]]]
+2. Compass and [[Compass Errors]]^[Especially relevant to [[XC.6 Pilotage and Dead Reckoning]]]
 3. Radio navigation equipment
 	1. [[Ground-Based Navigation using VOR, DME, and ILS]]
 	2. [[Satellite Navigation using GPS and GNSS]]
