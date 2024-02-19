@@ -30,9 +30,9 @@
 | [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]               | ~~[[AFH Ch18]]~~                                      |
 | [[XC.9 Emergency Operations]]                                              | ~~[[AFH Ch18]]~~, [[AIM 6]]                           |
 | [[XC.10 Lost Procedures and Diversion to Alternates]]                      | ~~[[PHAK Ch16]]~~                                     |
-| [[PPL.26 Emergency Flight by Instruments - Unusual Attitude Recovery]]       | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~    |
-| [[PPL.27 Night Operations and Night Cross Country]]                          | [[AFH Ch11]]                                          |
-| [[PPL.28 Review and Checkride Preparation]]                                  |                                                       |
+| [[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]       | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~    |
+| [[PPL.2 Night Operations and Night Cross Country]]                          | [[AFH Ch11]]                                          |
+| [[PPL.3 Review and Checkride Preparation]]                                  |                                                       |
 
 
 #todo :: Consider adding Jeppesen, Sporty's, [[King Schools]], etc.

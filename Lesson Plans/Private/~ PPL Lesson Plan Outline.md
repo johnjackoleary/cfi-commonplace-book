@@ -49,9 +49,9 @@ tags:
 (Cross Country Phase Check and Solo Cross Countries)
 
 #### Stage III: Night Flying and Checkride Preparation
-[[PPL.26 Emergency Flight by Instruments - Unusual Attitude Recovery]]
-[[PPL.27 Night Operations and Night Cross Country]]
-[[PPL.28 Review and Checkride Preparation]]
+[[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]
+[[PPL.2 Night Operations and Night Cross Country]]
+[[PPL.3 Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)
 
