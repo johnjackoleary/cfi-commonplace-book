@@ -30,18 +30,18 @@ A student pilot who is receiving training for cross-country flight in a single-e
 
 | Requirement | Lesson |
 | ----------- | ------ |
-| [ ] Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass; | [[PPL.22 Pilotage and Dead Reckoning\|PPL.22]] |
-| [ ] Use of aircraft performance charts pertaining to cross-country flight; | [[PPL.20 Aircraft Performance and Weight+Balance\|PPL.20]] |
-| [ ] Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight; | [[PPL.21 Advanced Weather Briefs and Preflight Planning\|PPL.21]] |
-| [ ] Emergency procedures; | [[PPL.24 Emergency Operations\|PPL.24]], [[PPL.25 Lost Procedures and Diversion to Alternates\|PPL.25]] |
-| [ ] Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach; | [[PPL.18 Non-Towered Airport Operations\|PPL.18]] |
-| [ ] Procedures and operating practices for collision avoidance, wake turbulence precautions, and wind shear avoidance; | [[PPL.18 Non-Towered Airport Operations\|PPL.18]] |
-| [ ] Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown; | [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment\|PPL.19]] |
-| [ ] Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications; | [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment\|PPL.19]] |
-| [ ] Use of radios for VFR navigation and two-way communication, except that a student pilot seeking a sport pilot certificate must only receive and log flight training on the use of radios installed in the aircraft to be flown; | [[PPL.18 Non-Towered Airport Operations\|PPL.18]] |
+| [ ] Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass; | [[XC.6 Pilotage and Dead Reckoning|PPL.22]] |
+| [ ] Use of aircraft performance charts pertaining to cross-country flight; | [[XC.4 Aircraft Performance and Weight+Balance|PPL.20]] |
+| [ ] Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight; | [[XC.5 Advanced Weather Briefs and Preflight Planning|PPL.21]] |
+| [ ] Emergency procedures; | [[XC.9 Emergency Operations|PPL.24]], [[XC.9 Lost Procedures and Diversion to Alternates|PPL.25]] |
+| [ ] Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach; | [[XC.2 Non-Towered Airport Operations|PPL.18]] |
+| [ ] Procedures and operating practices for collision avoidance, wake turbulence precautions, and wind shear avoidance; | [[XC.2 Non-Towered Airport Operations|PPL.18]] |
+| [ ] Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown; | [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL.19]] |
+| [ ] Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications; | [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL.19]] |
+| [ ] Use of radios for VFR navigation and two-way communication, except that a student pilot seeking a sport pilot certificate must only receive and log flight training on the use of radios installed in the aircraft to be flown; | [[XC.2 Non-Towered Airport Operations|PPL.18]] |
 | [ ] Takeoff, approach, and landing procedures, including short-field, soft-field, and crosswind takeoffs, approaches, and landings; | [[SOLO.16 Short- and Soft-Field Takeoffs and Landings|PPL.16]] |
 | [ ] Climbs at best angle and best rate; and | [[SOLO.16 Short- and Soft-Field Takeoffs and Landings|PPL.16]] |
-| [ ] Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives. For student pilots seeking a sport pilot certificate, the provisions of this paragraph only apply when receiving training for cross-country flight in an airplane that has a VH greater than 87 knots CAS. | [[PPL.23 Emergency Flight by Instruments - Four Fundamentals\|PPL.23]] |
+| [ ] Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives. For student pilots seeking a sport pilot certificate, the provisions of this paragraph only apply when receiving training for cross-country flight in an airplane that has a VH greater than 87 knots CAS. | [[XC.8 Emergency Flight by Instruments - Four Fundamentals|PPL.23]] |
 
 
 

@@ -21,7 +21,7 @@ Background knowledge required for safe mountain flying.
 
 ### Builds On
 - [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-- [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
+- [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 - [[CPL.12 High Altitude Operations]]
 
 ### Schedule

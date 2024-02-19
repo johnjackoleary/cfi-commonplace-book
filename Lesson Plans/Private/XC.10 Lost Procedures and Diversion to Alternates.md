@@ -11,16 +11,16 @@ Develop skills and procedures to identify aircraft location, with on-board chart
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
-- [[PPL.22 Pilotage and Dead Reckoning]]
-- [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
+- [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+- [[XC.6 Pilotage and Dead Reckoning]]
+- [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 - [[SOLO.7 Navigation Charts and National Airspace System]]
 
 ### Schedule
 Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights
 
 > [!note] 
-> Can be completed at the same time as with [[PPL.24 Emergency Operations]].
+> Can be completed at the same time as with [[XC.9 Emergency Operations]].
 
 ### Lesson Elements
 1. Lost procedures
@@ -42,7 +42,7 @@ Client should be able to use multiple means to identify location, and to plan ro
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
-- Emergency procedures^[Also in [[PPL.24 Emergency Operations]]]
+- Emergency procedures^[Also in [[XC.9 Emergency Operations]]]
 
 ### Required Homework
 - [ ] Schedule pre-solo xc phase check, if required

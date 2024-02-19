@@ -19,11 +19,11 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 Ground 1.5 hour, practice on multiple flights
 
 > [!note] 
-> Can be completed at the same time as with [[PPL.22 Pilotage and Dead Reckoning]].
+> Can be completed at the same time as with [[XC.6 Pilotage and Dead Reckoning]].
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons PPL [[PPL.18 Non-Towered Airport Operations|18]], [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[PPL.20 Aircraft Performance and Weight+Balance|20]], [[PPL.21 Advanced Weather Briefs and Preflight Planning|21]], & [[PPL.22 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
+> Lessons PPL [[XC.2 Non-Towered Airport Operations|18]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[XC.4 Aircraft Performance and Weight+Balance|20]], [[XC.5 Advanced Weather Briefs and Preflight Planning|21]], & [[XC.6 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
@@ -78,7 +78,7 @@ Ground 1.5 hour, practice on multiple flights
 			2. How to file
 			3. How to activate and close
 		4. Estimating visibility in flight^[Some suggestions from [[AOPA]] in [this article](https://www.aopa.org/news-and-media/all-news/2008/april/flight-training-magazine/basic-vfr)]
-		5. Airport: preparation discussed in [[PPL.18 Non-Towered Airport Operations]]
+		5. Airport: preparation discussed in [[XC.2 Non-Towered Airport Operations]]
 	4. External Pressures
 		1. How to identify
 		2. How to mitigate
