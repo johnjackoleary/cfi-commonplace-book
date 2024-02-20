@@ -36,7 +36,7 @@ tags:
 
 #### Stage II: Navigation and Cross-Country Flight
 [[XC.1 Intro to Cross Country Flying]]
-[[XC.2 Non-Towered Airport Operations]]
+[[XC.2 Advanced Airport Operations]]
 [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 [[XC.4 Aircraft Performance and Weight+Balance]]
 [[XC.5 Advanced Weather Briefs and Preflight Planning]]

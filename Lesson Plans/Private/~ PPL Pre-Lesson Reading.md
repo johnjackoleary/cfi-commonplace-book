@@ -21,7 +21,7 @@
 | [[SOLO.16 Short- and Soft-Field Takeoffs and Landings]]                       | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
 | [[SOLO.17 Pre-Solo Knowledge Test and Review]]                                | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]]  |
 | [[XC.1 Intro to Cross Country Flying]]                                        | [[PHAK Ch16]]                                         |
-| [[XC.2 Non-Towered Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
+| [[XC.2 Advanced Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
 | [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]       | [[PHAK Ch8]], ~~[[PHAK Ch16]]~~                       |
 | [[XC.4 Aircraft Performance and Weight+Balance]]                           | [[PHAK Ch10]], [[PHAK Ch11]]                          |
 | [[XC.5 Advanced Weather Briefs and Preflight Planning]]                    | [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]]               | 
