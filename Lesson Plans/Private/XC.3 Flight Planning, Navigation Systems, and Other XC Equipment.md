@@ -31,8 +31,7 @@ Ground 2 hours, 1 hour sim
 	4. Day-of considerations
 		1. Winds aloft may favor different course/altitude
 		2. Clouds, ice, turbulence, etc may influence course/altitude
-2. Compass and [[Compass Errors]]^[Especially relevant to [[XC.6 Pilotage and Dead Reckoning]]]
-3. Radio navigation equipment
+2. Radio navigation equipment
 	1. [[Ground-Based Navigation using VOR, DME, and ILS]]
 	2. [[Satellite Navigation using GPS and GNSS]]
 	3. Images of [various antennas on the aircraft](https://www.aopa.org/training-and-safety/students/presolo/special/antennas) from [[AOPA]]
