@@ -24,6 +24,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 	- [ ] Manufacturer-required: See [[Kinds Of Equipment List]]
 	- [ ] Process for determining if equipment is required: [[FAR 91.213 Inop Equip]]
 - [ ] All required inspections complete ("[[AAV1ATE]]")
+
 ## Environment
 - [ ] VFR weather minimums are met locally, at the destination, and everywhere in between
 - [ ] [[All Available Information Concerning That Flight]]
@@ -34,9 +35,12 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] Consider the [[Three Strikes and You’re Out Rule]]
 
 ## Flight Planning
-- [ ] Plan a route, with waypoints and altitudes
-- [ ] Consider performance requirements (eg. climb rates to clear terrain)
+- [ ] Complete a navlog planner, with waypoints, altitudes, fuel requirements, etc.
+	- [ ] Consider performance requirements (eg. climb rates to clear terrain)
+	- [ ] Consider all airspaces, terrain, and obstacles en route
+- [ ] Call ahead to each airport to check on fuel, transient parking, and FBO costs
 - [ ] File VFR Flight Plan (if desired)
+- [ ] Be prepared for diversion (money)
 
 ## Other
 - [ ] Provide passengers with [[SAFETY]] briefing
