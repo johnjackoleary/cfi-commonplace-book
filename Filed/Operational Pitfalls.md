@@ -1,13 +1,13 @@
 > [!quote] From [[AC 60-22]]
-- **Peer Pressure**. Poor decision making based upon emotional response to peers rather than evaluating a situation objectively.
-- **Mind Set**. The inability to recognize and cope with changes in the situation different from those anticipated or planned.
-- **Get-There-ltis**. This tendency, common among pilots, clouds the vision and impairs judgment by causing a fixation on the original goal or destination combined with a total disregard for any alternative course of action.
-- **Duck-Under Syndrome**. The tendency to sneak a peek by descending below minimums dur- ing an approach. Based on a belief that there is always a built-in "fudge" factor that can be used or on an unwillingness to admit defeat and shoot a missed approach.
-- **Scud Running**. Pushing the capabilities of the pilot and the aircraft to the limits by trying to maintain visual contact with the terrain while trying to avoid physical contact with it. This attitude is characterized by the old pilot's joke: "If it's too bad to go IFR, we'll go VFR."
-- **Continuing visual flight rules (VFR)** into instrument conditions often leads to spatial disorientation or collision with ground/obstacles. It is even more dangerous if the pilot is not instrument qualified or current.
-- **Getting Behind the Aircraft**. Allowing events or the situation to control your actions rather than the other way around. Characterized by a constant state of surprise at what happens next.
-- **Loss of Positional or Situation Awareness**. Another case of getting behind the aircraft which results in not knowing where you are, an inability to recognize deteriorating circumstances, and/or the misjudgment of the rate of deterioration.
-- **Operating Without Adequate Fuel Reserves**. Ignoring minimum fuel reserve requirements, either VFR or Instrument Flight Rules (IFR), is generally the result of overconfidence, lack of flight planning, or ignoring the regulations.
-- **Descent Below the Minimum Enroute Altitude**. The duck-under syndrome (mentioned above) manifesting itself during the en route portion of an IFR flight.
-- **Flying Outside the Envelope**. Unjustified reliance on the (usually mistaken) belief that the aircraft's high performance capability meets the demands imposed by the pilot's (usually overestimated) flying skills.
-- **Neglect of Flight Planning, Preflight Inspections, Checklists, Etc**. Unjustified reliance on the pilot's short and long term memory, regular flying skills, repetitive and familiar routes, etc.
+> - **Peer Pressure**. Poor decision making based upon emotional response to peers rather than evaluating a situation objectively.
+> - **Mind Set**. The inability to recognize and cope with changes in the situation different from those anticipated or planned.
+> - **Get-There-ltis**. This tendency, common among pilots, clouds the vision and impairs judgment by causing a fixation on the original goal or destination combined with a total disregard for any alternative course of action.
+> - **Duck-Under Syndrome**. The tendency to sneak a peek by descending below minimums dur- ing an approach. Based on a belief that there is always a built-in "fudge" factor that can be used or on an unwillingness to admit defeat and shoot a missed approach.
+> - **Scud Running**. Pushing the capabilities of the pilot and the aircraft to the limits by trying to maintain visual contact with the terrain while trying to avoid physical contact with it. This attitude is characterized by the old pilot's joke: "If it's too bad to go IFR, we'll go VFR."
+> - **Continuing visual flight rules (VFR)** into instrument conditions often leads to spatial disorientation or collision with ground/obstacles. It is even more dangerous if the pilot is not instrument qualified or current.
+> - **Getting Behind the Aircraft**. Allowing events or the situation to control your actions rather than the other way around. Characterized by a constant state of surprise at what happens next.
+> - **Loss of Positional or Situation Awareness**. Another case of getting behind the aircraft which results in not knowing where you are, an inability to recognize deteriorating circumstances, and/or the misjudgment of the rate of deterioration.
+> - **Operating Without Adequate Fuel Reserves**. Ignoring minimum fuel reserve requirements, either VFR or Instrument Flight Rules (IFR), is generally the result of overconfidence, lack of flight planning, or ignoring the regulations.
+> - **Descent Below the Minimum Enroute Altitude**. The duck-under syndrome (mentioned above) manifesting itself during the en route portion of an IFR flight.
+> - **Flying Outside the Envelope**. Unjustified reliance on the (usually mistaken) belief that the aircraft's high performance capability meets the demands imposed by the pilot's (usually overestimated) flying skills.
+> - **Neglect of Flight Planning, Preflight Inspections, Checklists, Etc**. Unjustified reliance on the pilot's short and long term memory, regular flying skills, repetitive and familiar routes, etc.
