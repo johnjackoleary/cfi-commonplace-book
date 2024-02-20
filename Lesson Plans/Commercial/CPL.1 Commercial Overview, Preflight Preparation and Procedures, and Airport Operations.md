@@ -21,7 +21,7 @@ Discussion of differences between commercial and private pilot licenses, and set
 ### Builds On
 - [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 - [[SOLO.5 Towered Airport Operations]]
-- [[XC.2 Non-Towered Airport Operations]]
+- [[XC.2 Advanced Airport Operations]]
 
 ### Schedule
 Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
@@ -46,7 +46,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		3. [[5 Hazardous Attitudes and Antidotes]]
 5. [[ADM]] and [[Operational Pitfalls]]
 6. Airport Operations
-	1. Q&A to feel out weak areas in understanding of [[SOLO.5 Towered Airport Operations]] and [[XC.2 Non-Towered Airport Operations]]
+	1. Q&A to feel out weak areas in understanding of [[SOLO.5 Towered Airport Operations]] and [[XC.2 Advanced Airport Operations]]
 	2. [[Part 830]] review: [[Accident and Incident Reporting]]
 	3. Use of portable electronic devices (see [[AC 91-21]])
 
