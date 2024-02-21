@@ -2,7 +2,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 
 ## Pilot
 - [ ] [[IMSAFE|I.M.S.A.F.E.]]
-- [ ] Government-Issued ID, Pilot License, and Medical Certificate in your possession (§ [[FAR 61.3|61.3]])
+- [ ] Government-Issued ID, Pilot License, and Medical Certificate[^med] in your possession (§ [[FAR 61.3|61.3]])
 	- [ ] If on a solo, logbook with solo endorsement (§ [[FAR 61.3|61.3]])
 - [ ] Checkride or Flight Review in the past 24 months (§ [[FAR 61.56 Flight Review|61.56]])
 - [ ] Recent Flight Experience for carrying passengers (§ [[FAR 61.57 Recent Flight Experience|61.57]])
@@ -11,7 +11,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] Overall, the PIC is responsible for verifying airworthiness (§ 91.7, § 91.403)
 - [ ] [[AR(R)OW]] (§ 91.9, § 91.203)
 - [ ] Seat adjusted, cabin organized
-- [ ] POH-specific preflight inspection completed
+- [ ] POH-specific preflight inspection completed[^insp]
 - [ ] Weight and Balance within limits
 - [ ] Confirm sufficient fuel, with reserves
 - [ ] All required equipment operational
@@ -49,3 +49,17 @@ This is a complete list of all preflight actions and checks (everything the pilo
 
 > [!tip]
 > Structure for this is based on [[PAVE]].
+
+
+[^insp]: Any preflight inspection will include verifying the following:
+  . Primary/Secondary flight controls
+  . Powerplant and propeller
+  . Landing gear
+  . Fuel, oil, and hydraulic
+  . Electrical
+  . Avionics
+  . Pitot-static, vacuum/pressure, and associated flight instruments
+  . Environmental
+  . Deicing and anti-icing
+  
+[^med]: See also [[Medical Requirements]]
