@@ -6,7 +6,10 @@ tags: ppl, lesson
 Verify that the learner can fill out a complete navlog correctly on their own.  Understand the process to identify risks and to make an informed go/no-go decision about a flight.
 
 ### Resources
-- [[ACS]] Sections I.A (Pilot Qualifications) and I.D (Cross-Country Flight Planning)
+- [[ACS]] Sections
+	- I.A (Pilot Qualifications)
+	- I.B (Airworthiness Requirements)
+	- I.D (Cross-Country Flight Planning)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
