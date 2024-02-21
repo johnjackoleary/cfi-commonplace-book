@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-xxx
+....Understand services and process intended to help identify risks and make better decisions.
 
 ### Resources
 - yyy
@@ -17,11 +17,10 @@ xxx
 Ground X hours, Y hour sim/flight
 
 ### Lesson Elements
-> [!info]- Structure of XC Lessons...
-> Lessons PPL [[XC.2 Advanced Airport Operations|18]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[XC.4 Aircraft Performance and Weight+Balance|20]], [[XC.5 Advanced Weather Briefs and Preflight Planning|21]], & [[XC.6 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
-> 
-> ![[XC Syllabus Topics On Flight Plan.pdf]]
-
+WORK IN PROGRESS
+A few things to cover:
+- [[5 Hazardous Attitudes and Antidotes]]
+- [[Complete VFR Preflight Checklist]]
 
 ### Completion Standards
 qqq
@@ -31,7 +30,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - yyy
 
 ### Required Homework
-- [ ] aaa
+- [ ]  Learner creates their personal minimums.
 
 ### Recommended Homework 
 - [ ] bbb
