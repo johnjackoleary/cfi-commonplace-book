@@ -41,7 +41,7 @@ tags:
 [[XC.4 Aircraft Performance and Weight+Balance]]
 [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 [[XC.6 Pilotage and Dead Reckoning]]
-[[XC.7 Making the Go-No-Go Decision]]
+[[XC.7 Navlogs and Making the Go-No-Go Decision]]
 [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]
 [[XC.9 Emergency Operations]]
 [[XC.10 Lost Procedures and Diversion to Alternates]]

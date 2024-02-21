@@ -26,7 +26,7 @@
 | [[XC.4 Aircraft Performance and Weight+Balance]]                           | [[PHAK Ch10]], [[PHAK Ch11]]                          |
 | [[XC.5 Advanced Weather Briefs and Preflight Planning]]                    | [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]]               | 
 | [[XC.6 Pilotage and Dead Reckoning]]                                       | ~~[[PHAK Ch16]]~~                                     |
-| [[XC.7 Making the Go-No-Go Decision]]                                      | [[PHAK Ch2]]                                          |
+| [[XC.7 Navlogs and Making the Go-No-Go Decision]]                                      | [[PHAK Ch2]]                                          |
 | [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]               | ~~[[AFH Ch18]]~~                                      |
 | [[XC.9 Emergency Operations]]                                              | ~~[[AFH Ch18]]~~, [[AIM 6]]                           |
 | [[XC.10 Lost Procedures and Diversion to Alternates]]                      | ~~[[PHAK Ch16]]~~                                     |
