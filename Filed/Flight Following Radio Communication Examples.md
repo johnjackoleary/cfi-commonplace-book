@@ -3,9 +3,9 @@
 
 | ATC | You |
 |---|---|
-||<i>"Oakland Center[^1], <br>Skylane 123AB with request"</i>|
+||<i>"Oakland Center[^1], <br>Skylane 123AB with VFR request"</i>|
 |<i>"Skylane 123AB, <br>squawk 4312 and say request"</i> | |
-| | <i>"Skylane 123AB, <br>10 miles west of Truckee at one zero thousand five hundred, <br>request flight following to Palo Alto, Papa Alfa Oscar"</i>|
+| | <i>"Skylane 123AB, <br>10 miles west of Truckee at one zero thousand five hundred, <br>request flight following to Palo Alto, Papa Alfa Oscar, type Cessna 182/G"</i>|
 |<i>"Skylane 123AB <br>radar contact 11 miles west of Truckee"</i>||
 
 [^1]: But how do you find the frequency for ATC in your area, if you're not already talking to them?  Some frequencies you'll just memorize over time, like 125.35 over the Livermore Valley.  But another trick is to pull up the AF/D for the closest airport, and see what approach/departure frequencies are listed.  If you try one of those, you'll either be right, or they'll refer you to the right one.
@@ -15,7 +15,7 @@
 | ATC  | You  |
 |---|---|
 |<i>"N123AB, <br>contact Norcal at 124.9"</i>||
-||<i>"124.9, 123AB"</i> <br><b>Wait a second to make sure they don't correct you, then switch to that frequency and check in:</b><br></i>"Norcal approach, <br>Skylane123AB, <br>nine thousand five hundred"</i>|
+||<i>"124.9, 123AB"</i> <br><b>Wait a second to make sure they don't correct you, then switch to that frequency and check in:</b><br></i>"Norcal approach, <br>Skylane123AB, <br>niner thousand five hundred"</i>|
 |<i>"Skylane123AB, <br>Sacramento altimeter is 29.99"</i>||
 ||<i>"29.99, N123AB"</i> <br><b>Then adjust your altimeter</b>|
 

@@ -8,7 +8,7 @@
 # Details
 ## VOR
 ### Introduction
-1. Azimuth Information
+1. Azimuth Information ('radial')
 2. Types of VOR
 	1. [[VOR]]
 	2. [[VOR]]/[[DME]]
