@@ -68,7 +68,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Emergency procedures^[Also in [[XC.10 Lost Procedures and Diversion to Alternates]]]
 
 ### Required Homework
-- [ ] Memorize emergency flows (you may wish to rent an aircraft and practice on the ground, although a picture also works)
+- [ ] Memorize emergency flows (you may wish to reserve an aircraft and practice on the ground, although a picture also works)
 
 ### Recommended Homework
 - [ ] Chair fly all emergencies in [[POH]]
