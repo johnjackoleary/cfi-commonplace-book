@@ -1,4 +1,17 @@
-# From KPAO
+# Activities
+> [!note] 
+> While these activities are not required to be completed during training, many learners prefer to experience some of them the first time with a [[CFI]].
+
+- [ ] Self-serve fuel
+- [ ] Flight following requests
+	- [ ] in air
+	- [ ] on ground
+	- [ ] through Charlie airspace
+- [ ] Bravo transition
+- [ ] 
+
+# Destinations
+## From KPAO
 | Destination | Distance To | Notable Draws                                                                                                                        |
 | ----------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | KMOD        | 56          | Towered, VOR                                                                                                                         |
@@ -11,7 +24,7 @@
 | 069         | 53          | Bravo or Charlie Transition, similar to Bay Tour                                                                                     |
 | 1C9         | ~~44~~      | Grass Runway (Note: distance too short for XC logging)                                                                               |
 
-# From KSQL
+## From KSQL
 | Destination | Distance To | Notable Draws                                                                                                                        |
 | ----------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | KMOD        | 62          | Towered, VOR                                                                                                                         |
