@@ -60,7 +60,7 @@ tags:
 [[PPL.B Private Pilot Endorsements]]
 [[PPL.C When to Acquire Various Equipment]]
 [[PPL.D Suggestions for Solo Flight Practice]]
-[[PPL.E Suggestions for XC Destinations]]
+[[PPL.E Suggestions for XC Activities and Destinations]]
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
