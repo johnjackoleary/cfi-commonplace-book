@@ -30,10 +30,11 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	2. When you need higher priority handling from ATC
 
 ##### Something is Wrong!
-DISCLAIMER: The POH has procedures for many of these situations, and you should follow them.  This bulleted list is intended to help you think through the list of emergencies in a logical way, debug the problem, and understand at a high level how you'll handle the situation.  **(POH)** means the POH has a procedure you should learn, with initial steps (in bold) that you need to memorize to execute quickly.
+DISCLAIMER: This bulleted list is intended to help you think through an emergency in a logical way, debug the problem, and understand at a high level how you'll handle the situation.  "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it, and in many cases memorize it to be prepared.  The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
 
 - On the ground...
-	- Fire! - **(POH)** Cut off fuel to the engine; grab fire extinguisher; evacuate
+	- Fire!
+		- **(POH)** Keep cranking to suck fuel back into the engine; cut off fuel to the engine; grab fire extinguisher; evacuate
 - During takeoff...
 	- Fire!
 		- **(POH)** Can you abort takeoff?  Abort takeoff.
@@ -43,11 +44,12 @@ DISCLAIMER: The POH has procedures for many of these situations, and you should 
 	- Airspeed isn't "live"
 		- Abort takeoff, or fly the pattern and land normally
 	- A door opens
-		- Takeoff normally.  Deal with it in the air, or land normally
+		- Abort takeoff if safely able
+		- Else takeoff normally, deal with it in the air, or land normally
 - In the air...
 	- Fire!  Where?
 		- Engine cowling?
-			- **(POH)** Cut off fuel flow; Emergency Descent Procedure; don't turn off electrical unless fire is electrical
+			- **(POH)** Cut off fuel flow; Emergency Descent and Forced Landing; (let's discuss pros/cons of turning off master switch)
 		- Inside the dashboard (probably electrical) or cabin?
 			- **(POH)** Master and stby switches off; deploy fire extinguisher
 				- Fire extinguished? - open windows to clear smoke; if required, follow procedure to re-power some items; Precautionary Landing
@@ -87,7 +89,7 @@ DISCLAIMER: The POH has procedures for many of these situations, and you should 
 	- Retractable gear malfunction - (out of scope for this lesson)
 	- Flew into a cloud, or lost minimum VFR visibility
 		- Rely on [[XC.8 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
-	- Icing - Reverse course or choose a different altitude; request help on the radio
+	- Icing - **(POH)** Reverse course or choose a different altitude; request help on the radio; deploy all anti-ice measures.  See POH for landing with heavy ice accumulation
 
 ##### Key Procedures in Emergencies
 These are the emergency procedures referenced in the section above.
@@ -112,7 +114,7 @@ These are the emergency procedures referenced in the section above.
 > [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through one accidentally.
 3. [[Intercept Procedures]]
 4. Ballistic parachutes
-5. Auto-land systems
+5. Auto-land systems and Garmin Smart Glide
 
 ##### The Checkride
 On the checkride, the examiner wants to see you demonstrate a Forced Landing and an Emergency Descent.  They'll trigger these scenarios by saying something like:
@@ -123,7 +125,8 @@ On the checkride, the examiner wants to see you demonstrate a Forced Landing and
 
 ##### Common errors
 1. Failure to use flow patterns or memory items
-2. Failure to use checklists, or improper use
+2. Failure to have checklists handy for quick access
+3. Failure to use checklists, or improper use
 
 ### Completion Standards
 Client demonstrates appropriate knowledge of aircraft systems, abnormal and emergency procedures, and the ability to perform emergency procedures to ACS standards.
