@@ -49,8 +49,8 @@ Ground 2 hours, 1 hour sim/flight
 		1. Airport beacons (white/green: land+civilian, white/white/green: military)
 		3. Pilot controlled lighting
 		4. Glidepath systems 
-			1. VASI![[VASI.jpeg]]
-			2. PAPI![[PAPI.jpeg]]
+			1. [[VASI]]
+			2. [[PAPI]]
 5. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
 	2. Determining the [[Active Runway]] based on wind, current activity, or designated calm wind runway
