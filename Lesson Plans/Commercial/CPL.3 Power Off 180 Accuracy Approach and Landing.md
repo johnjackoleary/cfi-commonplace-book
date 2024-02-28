@@ -37,6 +37,7 @@ Ground 0.5 hour, Flight 1.5 hour, practice on many flights
 	1. Poor airspeed control
 	2. Aiming at your touchdown spot instead of the aiming spot 200’ closer
 	3. Not compensating for winds
+	4. Attempting to "stretch" the glide
 
 ### Completion Standards
 Learner is able to consistently land in the 200' zone, regardless of wind conditions.
