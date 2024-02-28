@@ -28,6 +28,8 @@ Ground ??? hours, ??? hour sim/flight
 2. Discuss the go/no-go decision
 	1. [[Complete VFR Preflight Checklist]]
 	2. [[5 Hazardous Attitudes and Antidotes]]
+	3. [[Operational Pitfalls]]
+	4. [[Risk Management]] and [[Flight Risk Assessment Tool Worksheet]]
 3. Where else can you get help making the call?
 	1. Weather briefers
 	2. Your CFI
@@ -39,6 +41,6 @@ Pilot should be able to fill out a complete navlog for a cross-country trip, and
 None
 
 ### Required Homework
-- [ ]  Learner creates their personal minimums.
+- [ ]  Learner creates their [[personal minimums]].
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -33,12 +33,11 @@ One you have sufficient mastery of these subjects, both on the ground and in the
 Ground 0.5 hours
 
 ### Lesson Elements
-> [!info]- Structure of XC Lessons...
-> Lessons PPL [[XC.2 Advanced Airport Operations|18]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|19]], [[XC.4 Aircraft Performance and Weight+Balance|20]], [[XC.5 Advanced Weather Briefs and Preflight Planning|21]], & [[XC.6 Pilotage and Dead Reckoning|22]] can be thought of as building out each part of a flight plan.
-> 
-> ![[XC Syllabus Topics On Flight Plan.pdf]]
-
+- Structure of XC Lessons
+	- Lessons [[XC.2 Advanced Airport Operations|XC.2]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[XC.4 Aircraft Performance and Weight+Balance|XC.4]], [[XC.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[XC.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+	- [[XC.7 Making the Go-No-Go Decision]] specifically discusses how to make a go/no-go decision with all the information you've gather.
 - Review all parts of the cross-country navlog planner
+	- ![[XC Syllabus Topics On Flight Plan.pdf]]
 
 
 ### Completion Standards
