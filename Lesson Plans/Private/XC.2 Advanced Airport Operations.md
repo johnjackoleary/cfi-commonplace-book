@@ -40,7 +40,7 @@ Ground 2 hours, 1 hour sim/flight
 3. En route, pick up the weather as soon as it's in range
 	1. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
 	2. Note the time on hourly broadcasts (eg. Palo Alto happens 47 minutes after the hour).  Will there be a newer report before you arrive?
-	3. Let's review the elements of an ATIS, and why each one is useful
+	3. Review elements of an ATIS, and why each one is useful
 4. Possibly overfly before landing
 	1. Airport markings
 		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
@@ -66,7 +66,7 @@ Ground 2 hours, 1 hour sim/flight
 6. Make your radio calls
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios
-7. Landing at a non-towered airport requires extra vigilance-- it's the Wild West.
+7. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
 	1. Reminder of safety considerations from [[SOLO.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 8. On the ground, be vigilant and use the radio to broadcast your movements
 9. Departing the traffic pattern and airport

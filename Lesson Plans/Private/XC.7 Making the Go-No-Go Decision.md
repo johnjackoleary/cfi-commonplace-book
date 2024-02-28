@@ -21,7 +21,10 @@ Verify that the learner can fill out a complete navlog correctly on their own.  
 - [[XC.6 Pilotage and Dead Reckoning]]
 
 ### Schedule
-Ground ??? hours, ??? hour sim/flight
+Ground 0.5 hours
+
+> [!note] 
+> Can be completed at the same time as [[XC.5 Advanced Weather Briefs and Preflight Planning]] or [[XC.6 Pilotage and Dead Reckoning]].
 
 ### Lesson Elements
 1. Review the navlog prepared as homework
