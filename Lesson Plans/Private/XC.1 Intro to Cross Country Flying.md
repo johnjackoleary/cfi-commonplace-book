@@ -5,7 +5,7 @@ tags: ppl, lesson
 ### Objective
 Now that you've soloed, we're going to start working on cross-country flying.  "Cross country" just refers to a flight that starts at point A and ends at point B.  Point B could be a lunch stop a half hour away, or a vacation destination where you're carrying friends and luggage.  In all these cases, cross-country flights add a new dimension to flying, and require the pilot to be familiar with many more subjects and procedures.
 
-Lessons XC.2-7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]]] cover all the subjects required to plan and execute a successful cross-country flight. At a high level, these subjects include:
+Lessons XC.2-7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]] and [[XC Syllabus Topics On Flight Plan.pdf]]] cover all the subjects required to plan and execute a successful cross-country flight. At a high level, these subjects include:
 - More detail on airport procedures, including non-towered airports
 - Planning and plotting a course, keeping in mind obstacles and airspace restrictions, and making use of radio navigation aids
 - Computing weight & balance when you have more passengers, luggage, and fuel
