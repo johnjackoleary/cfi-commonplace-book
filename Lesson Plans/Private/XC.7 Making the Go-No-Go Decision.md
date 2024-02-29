@@ -21,7 +21,7 @@ Verify that the learner can fill out a complete navlog correctly on their own.  
 - [[XC.6 Pilotage and Dead Reckoning]]
 
 ### Schedule
-Ground 0.5 hours
+Ground 1 hours
 
 > [!note] 
 > Can be completed at the same time as [[XC.5 Advanced Weather Briefs and Preflight Planning]] or [[XC.6 Pilotage and Dead Reckoning]].
@@ -38,12 +38,12 @@ Ground 0.5 hours
 	2. Your CFI
 
 ### Completion Standards
-Pilot should be able to fill out a complete navlog for a cross-country trip, and should be able to make a wise and informed go/no-go decision about that trip.
+Learner completes a full navlog for a cross-country trip, and makes a wise and informed go/no-go decision about that trip.
 
 ### Required Logbook Phraseology
 None
 
 ### Required Homework
-- [ ]  Learner creates their [[personal minimums]].
+- [ ]  Create your [[personal minimums]]
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

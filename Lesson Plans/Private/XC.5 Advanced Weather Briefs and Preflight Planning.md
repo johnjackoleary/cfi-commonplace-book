@@ -65,7 +65,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
 
 ### Required Homework
-- [ ] Draft [[personal minimums]]
+None
 
 ### Recommended Homework
 None

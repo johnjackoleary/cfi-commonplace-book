@@ -1,14 +1,34 @@
 # Activities
 > [!note] 
-> While these activities are not required to be completed during training, many learners prefer to experience some of them the first time with a [[CFI]].
+> While most of these activities are not a required part of training, they may be nice to do with a [[CFI]].
 
 - [ ] Self-serve fuel
+- [ ] Stop at [[FBO]] or transient
+- [ ] Take crew car for food
+- [ ] Bring a passenger
+- [ ] Request light gun signals
 - [ ] Flight following requests
 	- [ ] in air
 	- [ ] on ground
 	- [ ] through Charlie airspace
-- [ ] Bravo transition
-- [ ] 
+	- [ ] for a Bay Tour^[Or the local sightseeing route, if not near San Francisco]
+- [ ] File VFR flight plan
+- [ ] Airspace
+	- [ ] Bravo transition
+	- [ ] Arrive and depart from Charlie airport
+	- [ ] Restricted area transition (with authorization!)
+- [ ] Conditions
+	- [ ] Moonless night
+	- [ ] Reduced visibility
+	- [ ] [[AIRMET]] Tango
+	- [ ] Thunderstorms (at a distance!)
+- [ ] Airport
+	- [ ] Grass runway
+	- [ ] Short runway
+	- [ ] Sloped runway
+	- [ ] Airport on hilltop (aka [tabletop runway](https://en.wikipedia.org/wiki/Tabletop_runway))
+	- [ ] Requiring back-taxi^[Note from [[AC 90-66]]: At non-towered airports, the FAA discourages back-taxi operations because they increase the risk of a surface collision with landing aircraft. Remember, at towered airports, ATC authorizes a back-taxi and provides collision avoidance for this operation.]
+	- [ ] [[VOR]] on field
 
 # Destinations
 ## From KPAO
@@ -39,9 +59,9 @@
 | 1C9         | ~~50~~      | Grass Runway (Note: distance too short for XC logging)                                                                               |
 
 > [!tip]
-> [[Conducting an Effective Flight Review]] has a useful Cross-Country Checklist in Appendix 4.
+> Review [[Complete VFR Preflight Checklist]] for a useful Cross-Country Checklist.
 
-> [!note] 
-> XC flights must be >50nm. We'll aim for >51nm.
+> [!caution] 
+> XC flights must be >50nm.^[See [[FAR 61.1 Applicability and Definitions]]] We'll aim for >51nm.
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
