@@ -1,41 +1,46 @@
 > [!note] Text with a ~~strikethrough~~ is still relevant to a lesson, but was already listed in a prior lesson.
 
-| Section                                                                      | FAA                                                   |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [[PPL.0 Optional Introductory or Demo Flight]]                               | [[AFH Ch1]], [[PHAK Ch1]]                             |
-| [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]             | [[AFH Ch2]], [[PHAK Ch3]], [[PHAK Ch6]]               |
-| [[SOLO.2 Four Fundamentals of Flight]]                                        | [[AFH Ch3]], [[PHAK Ch4]]                             |
-| [[SOLO.3 Weather Briefs and Preflight Planning]]                              | [[AFH Ch2]], [[PHAK Ch13]]                            |
-| [[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]                           | [[AFH Ch6]]                                           |
-| [[SOLO.5 Towered Airport Operations]]                                         | [[PHAK Ch14]]                                         |
-| [[SOLO.6 Maneuvering During Slow Flight]]                                     | [[AFH Ch4]], [[PHAK Ch5]]                             |
-| [[SOLO.7 Navigation Charts and National Airspace System]]                     | [[PHAK Ch15]], [[AIM 3]]                              |
-| [[SOLO.8 Power-On and Power-Off Stalls]]                                      | ~~[[AFH Ch4]]~~, [[AFH Ch5]], ~~[[PHAK Ch5]]~~        |
-| [[SOLO.9 Performance Maneuvers - Steep Turns]]                                | [[AFH Ch10]]                                          |
-| [[SOLO.10 Ground Reference Maneuvers]]                                        | [[AFH Ch7]]                                           |
-| [[SOLO.11 Spin Awareness and Spin Recovery]]                                  | ~~[[AFH Ch5]]~~, ~~[[PHAK Ch5]]~~                     |
-| [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]                         | [[AFH Ch8]], ~~[[PHAK Ch14]]~~, [[AIM 4-3]]           |
-| [[SOLO.13 Normal and Crosswind Approaches and Landings]]                      | [[AFH Ch9]]                                           |
-| [[SOLO.14 Forward Slips and No Flap Landings]]                                | ~~[[AFH Ch9]]~~                                       |
-| [[SOLO.15 Emergency Landings]]                                                | [[PHAK Ch7]], [[AFH Ch18]]                            |
-| [[SOLO.16 Short- and Soft-Field Takeoffs and Landings]]                       | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                      |
-| [[SOLO.17 Pre-Solo Knowledge Test and Review]]                                | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]]  |
-| [[XC.1 Intro to Cross Country Flying]]                                        | [[PHAK Ch16]]                                         |
-| [[XC.2 Advanced Airport Operations]]                                    | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]              |
-| [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]       | [[PHAK Ch8]], ~~[[PHAK Ch16]]~~                       |
-| [[XC.4 Aircraft Performance and Weight+Balance]]                           | [[PHAK Ch10]], [[PHAK Ch11]]                          |
-| [[XC.5 Advanced Weather Briefs and Preflight Planning]]                    | [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]]               | 
-| [[XC.6 Pilotage and Dead Reckoning]]                                       | ~~[[PHAK Ch16]]~~                                     |
-| [[XC.7 Making the Go-No-Go Decision]]                                      | [[PHAK Ch2]]                                          |
-| [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]               | ~~[[AFH Ch18]]~~                                      |
-| [[XC.9 Emergency Operations]]                                              | ~~[[AFH Ch18]]~~, [[AIM 6]]                           |
-| [[XC.10 Lost Procedures and Diversion to Alternates]]                      | ~~[[PHAK Ch16]]~~                                     |
-| [[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]       | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~    |
-| [[PPL.2 Night Operations and Night Cross Country]]                          | [[AFH Ch11]]                                          |
-| [[PPL.3 Review and Checkride Preparation]]                                  |                                                       |
+| Section                                                               | FAA                                                             | Jeppesen Guided Flight Discovery Private Pilot |
+| --------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[PPL.0 Optional Introductory or Demo Flight]]                        | [[AFH Ch1]], [[PHAK Ch1]]                                       | JPT 1A-1B                                                                                                                                                              |
+| [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]     | [[AFH Ch2]], [[PHAK Ch3]], [[PHAK Ch6]]                         | JPT 2A-2C, JPM 1-5                                                                                                                                                     |
+| [[SOLO.2 Four Fundamentals of Flight]]                                | [[AFH Ch3]], [[PHAK Ch4]]                                       | JPT 3A-3C, JPM 6-9                                                                                                                                                     |
+| [[SOLO.3 Weather Briefs and Preflight Planning]]                      | [[AFH Ch2]], [[PHAK Ch13]]                                      | JPT 6A-6C                                                                                                                                                              |
+| [[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]                   | [[AFH Ch6]]                                                     | JPT 4A-4B, JPM 10-11                                                                                                                                                   |
+| [[SOLO.5 Towered Airport Operations]]                                 | [[PHAK Ch14]]                                                   | JPT 5A-5C                                                                                                                                                              |
+| [[SOLO.6 Maneuvering During Slow Flight]]                             | [[AFH Ch4]], [[PHAK Ch5]]                                       | JPT 1C, JPM 20                                                                                                                                                         |
+| [[SOLO.7 Navigation Charts and National Airspace System]]             | [[PHAK Ch15]], [[AIM 3]]                                        | JPT 4C,4D, [[AIM 3]]                                                                                                                                                   |
+| [[SOLO.8 Power-On and Power-Off Stalls]]                              | ~~[[AFH Ch4]]~~, [[AFH Ch5]], ~~[[PHAK Ch5]]~~                  | JPM 21-22                                                                                                                                                              |
+| [[SOLO.9 Performance Maneuvers - Steep Turns]]                        | [[AFH Ch10]]                                                    | JPM 24                                                                                                                                                                 |
+| [[SOLO.10 Ground Reference Maneuvers]]                                | [[AFH Ch7]]                                                     | JPM 25-27                                                                                                                                                              |
+| [[SOLO.11 Spin Awareness and Spin Recovery]]                          | ~~[[AFH Ch5]]~~, ~~[[PHAK Ch5]]~~                               | JPM 23                                                                                                                                                                 |
+| [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]                 | [[AFH Ch8]], ~~[[PHAK Ch14]]~~, [[AIM 4-3]]                     | JPM 12,JPM 15, [[AIM 4-3]]                                                                                                                                             |
+| [[SOLO.13 Normal and Crosswind Approaches and Landings]]              | [[AFH Ch9]]                                                     | JPM 13,16                                                                                                                                                              |
+| [[SOLO.14 Forward Slips and No Flap Landings]]                        | ~~[[AFH Ch9]]~~                                                 | JPM 14                                                                                                                                                                 |
+| [[SOLO.15 Emergency Landings]]                                        | [[PHAK Ch7]], [[AFH Ch18]]                                      | JPM 19                                                                                                                                                                 |
+| [[SOLO.16 Short- and Soft-Field Takeoffs and Landings]]               | ~~[[AFH Ch6]]~~, ~~[[AFH Ch9]]~~                                | JPM 28-31                                                                                                                                                              |
+| [[SOLO.17 Pre-Solo Knowledge Test and Review]]                        | [[PHAK Ch9]], [[POH]], [[Part 91 Regulatory Review Assignment]] | [[POH]], [[Part 91 Regulatory Review Assignment]]                                                                                                                      |
+| [[XC.1 Intro to Cross Country Flying]]                                | [[PHAK Ch16]]                                                   | JPT 11A-11B                                                                                                                                                            |
+| [[XC.2 Advanced Airport Operations]]                                  | [[PHAK Ch14]], [[AC 90-66]], [[AIM 4-3]]                        | [[AC 90-66]], [[AIM 4-3]]                                                                                                                                              |
+| [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]  | [[PHAK Ch8]], ~~[[PHAK Ch16]]~~                                 | JPT 9B-9C                                                                                                                                                              |
+| [[XC.4 Aircraft Performance and Weight+Balance]]                      | [[PHAK Ch10]], [[PHAK Ch11]]                                    | JPT 8A-8C                                                                                                                                                              |
+| [[XC.5 Advanced Weather Briefs and Preflight Planning]]               | [[PHAK Ch12]], [[PHAK Ch17]], [[AIM 7]]                         | JPT 7A-7D, [[AIM 7]]                                                                                                                                                   |
+| [[XC.6 Pilotage and Dead Reckoning]]                                  | ~~[[PHAK Ch16]]~~                                               | JPT 9A                                                                                                                                                                 |
+| [[XC.7 Making the Go-No-Go Decision]]                                 | [[PHAK Ch2]]                                                    | JPT 10A-10B                                                                                                                                                            |
+| [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]          | ~~[[AFH Ch18]]~~                                                | JPM 32                                                                                                                                                                 |
+| [[XC.9 Emergency Operations]]                                         | ~~[[AFH Ch18]]~~, [[AIM 6]]                                     | JPM 17-18, [[AIM 6]]                                                                                                                                                   |
+| [[XC.10 Lost Procedures and Diversion to Alternates]]                 | ~~[[PHAK Ch16]]~~                                               |                                                                                                                                                                        |
+| [[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]] | [[AFH Ch10]], ~~[[PHAK Ch14]]~~, ~~[[PHAK Ch17]]~~              | JPM 32                                                                                                                                                                 |
+| [[PPL.2 Night Operations and Night Cross Country]]                    | [[AFH Ch11]]                                                    | JPM 33                                                                                                                                                                 |
+| [[PPL.3 Review and Checkride Preparation]]                            |                                                                 |                                                                                                                                                                        |
+
+> [!note] **If using Jeppesen Guided Flight Discovery Private Pilot materials**
+> JPT - [ Private Pilot Textbook](https://shop.jeppesen.com/All-Products/Training/Private-pilot/Courseware-%26-Books/Private-Pilot-Textbook/p/10001360)
+> JPM - [Private Pilot Maneuvers](https://shop.jeppesen.com/All-Products/Training/Private-pilot/Courseware-%26-Books/Private-Pilot-Maneuvers-Manual/p/10001361)
 
 
-#todo :: Consider adding Jeppesen, Sporty's, [[King Schools]], etc.
+
+#todo :: Consider adding, Sporty's, [[King Schools]], etc.
 #todo :: feel free to add other source materials if you're using something else!
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
