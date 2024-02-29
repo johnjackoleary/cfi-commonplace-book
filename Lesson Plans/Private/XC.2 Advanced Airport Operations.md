@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-As we plan a cross-country trip, we'll be visiting new airports, some of which are non-towered.  This lesson builds on [[SOLO.5 Towered Airport Operations]], including procedures that are specific to non-towered airports, and also review airport markings and lighting systems.
+Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[SOLO.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.
 
 ### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
@@ -32,15 +32,15 @@ Ground 2 hours, 1 hour sim/flight
 		1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 		2. Towered airports become non-towered when tower closed
 	2. Review the runway layout: numbering, lengths, left/right pattern, [[TPA]]
-	3. Read the AF/D Entry.  Does everything agree with Foreflight?  Are there noise abatement procedures?  Which is the calm wind runway?
+	3. Read the AF/D Entry: Any disagreements with Foreflight?  Are there noise abatement procedures?  Which is the calm wind runway?
 	4. Are there [[NOTAM|NOTAMs]]?
-	5. Look at it in Google Maps, satellite view.  Get a feel for the layout.  Can you identify transient parking?
-	6. If there's any terrain nearby, look at it in Google Earth, to get a sense of the surrounding hills
-	7. Where does all this info fit in our XC planner?
+	5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
+	6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
+	7. Where to record this in XC planner
 3. En route, pick up the weather as soon as it's in range
 	1. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
-	2. Note the time on hourly broadcasts (eg. Palo Alto happens 47 minutes after the hour).  Will there be a newer report before you arrive?
-	3. Review elements of an ATIS, and why each one is useful
+	2. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
+	3. Review elements of an ATIS. Why each one is useful?
 4. Possibly overfly before landing
 	1. Airport markings
 		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
@@ -89,7 +89,6 @@ For [[FAR 61.93 Solo XC Reqs]]:
 
 ### Required Homework
 - [ ] Read [[AC 90-66]]
-- [ ] Purchase items from [[PPL.C When to Acquire Various Equipment]]
 
 ### Recommended Homework 
 - [ ] Chair fly entry to non-towered airport, from several directions and various wind, with radio calls
