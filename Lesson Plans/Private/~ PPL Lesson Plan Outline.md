@@ -60,8 +60,8 @@ tags:
 [[PPL.B Private Pilot Endorsements]]
 [[PPL.C When to Acquire Various Equipment]]
 [[PPL.D Suggestions for Solo Flight Practice]]
-[[PPL.E Suggestions for XC Destinations]]
+[[PPL.E Suggestions for XC Activities and Destinations]]
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Jan 1, 2024.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Feb 28, 2024.

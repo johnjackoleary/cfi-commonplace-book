@@ -1,4 +1,4 @@
-This is a complete list of all preflight actions and checks (everything the pilot should do prior to starting the engine) as required either by regulation or best practice.  We recommend that the student distill this into a personal checklist for daily use.
+This is a complete list of all preflight actions and checks (everything the pilot should do prior to starting the engine) as required either by regulation or best practice.^[At least, as complete as we could get it!]  We recommend that the student distill this into a personal checklist for daily use.
 
 ## Pilot
 - [ ] [[IMSAFE|I.M.S.A.F.E.]]
