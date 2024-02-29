@@ -23,20 +23,27 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 > Can be completed at the same time as [[XC.8 Emergency Flight by Instruments - Four Fundamentals]] or [[XC.10 Lost Procedures and Diversion to Alternates]].
 
 ### Lesson Elements
+> [!summary]
+> Though rare, emergencies have a variety of causes and can occur in any phase of flight.
+> 
+> Some emergencies require immediate action. Others you can debug and resolve using your understanding of aircraft systems. If you can't resolve an issue, it's important to know its impact when deciding to continue or terminate your flight.
+> 
+> This lesson is intended to help you handle various issues and emergencies. Visualize yourself at each stage of flight below and how you'd approach the situation mentioned.
+
 #### Handling Emergencies
 1. [[FAR 91.3 PIC Responsibility and Authority]]
 2. What is an emergency? When should you declare one?
 	1. When the outcome of the flight is in doubt
 	2. When you need higher priority handling from ATC
+3. MAYDAY (distress) vs PAN-PAN (urgency)
+	1. Both should be said 3x
+
+> [!quote] From [[AIM 6]]
+> Pilots who become apprehensive for their safety for any reason should _request assistance immediately._
 
 #### Something is Wrong!
-> [!summary]
-> Though rare, emergencies can occur in any phase of flight and can have a variety of causes.
-> 
-> This lesson is intended to help you handle a variety of issues and emergencies. Some emergencies require immediate actions. Other are problems you may be able to debug and resolve using your understanding of aircraft systems. If you can't resolve an issue, it's important to know the impact when deciding to continue or terminate your flight.
-
 > [!note]
-> - "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it, and in some cases memorize it. The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
+> - "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it -- and in many cases, memorize it. The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
 > - *Procedures in italics* are a reference to [[XC.9 Emergency Operations#Key Procedures in Emergencies]] below.
 
 - On the ground...
@@ -116,7 +123,7 @@ These are the emergency procedures referenced in the section above.
 
 #### Other important topics for emergencies
 1. Emergency equipment and survival gear
-	1. [[ACS]] IX.C mentions: ELT.  Fire extinguisher operation. Survival gear (food, water, shelter).  Overwater operations.
+	1. [[ACS]] IX.C mentions: [[ELT]].  Fire extinguisher operation. Survival gear (food, water, shelter).  Overwater operations.
 2. Emergency squawk codes: [[Squawk 7700]], [[Squawk 7600]], [[Squawk 7500]]
 > [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through one accidentally.
 3. [[Intercept Procedures]]
