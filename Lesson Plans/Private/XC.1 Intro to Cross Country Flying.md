@@ -41,7 +41,6 @@ Ground 0.5 hours
 - Each of the XC lessons will teach you how to fill out one section of the planner. ![[XC Syllabus Topics On Flight Plan.pdf]]
 - One approach is to keep the same printed navlog to fill out across multiple lessons, as a way of learning each new topic without starting again from scratch
 
-
 #### Goals during XC flights
 - You do not need to complete all ground topics to start flying XC trips^[For instance, after [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]], flying a trip using [[GPS]] to navigate there and [[VOR]]s to navigate back would be beneficial.]
 - Your CFI can cover the parts of the trip you haven't yet learned (e.g. fuel, W&B, xc weather).
@@ -54,7 +53,7 @@ Learner understands scope and flow of XC lessons.
 None
 
 ### Required Homework
-None
+- [ ] Purchase items from [[PPL.C When to Acquire Various Equipment]]
 
 ### Recommended Homework 
 None
