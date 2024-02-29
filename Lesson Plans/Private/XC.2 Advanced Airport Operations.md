@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-As we plan a cross-country trip, we'll be visiting new airports, some of which are non-towered.  This lesson will revisit Airport Operations from [[SOLO.5 Towered Airport Operations]], cover procedures that are specific to non-towered airports, and also review airport markings and lighting systems.
+As we plan a cross-country trip, we'll be visiting new airports, some of which are non-towered.  This lesson builds on [[SOLO.5 Towered Airport Operations]], including procedures that are specific to non-towered airports, and also review airport markings and lighting systems.
 
 ### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
