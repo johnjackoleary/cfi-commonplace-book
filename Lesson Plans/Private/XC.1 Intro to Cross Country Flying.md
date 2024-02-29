@@ -22,17 +22,16 @@ Ground 0.5 hours
 	- Essentially means flying from point A to point B^[Official definition in [[FAR 61.1]]]
 	- Adds a new dimension to flying, and requires pilot to be familiar with more subjects and procedures
 	- Logging time: For [[PPL]]/[[CPL]]/[[IRA]] experience requirements, different than more general definiton
-		- Importantly, must include **"a point of landing that was at least a straight-line distance of more than 50 nautical miles from the original point of departure"**^[[[FAR 61.1]]]
-		- How you break up a flight log is up to you, and can allow certain flight paths to count partially as xc time -- see [[Van Zanen 2009]]
-
-Lessons XC.2-7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]] and [[XC Syllabus Topics On Flight Plan.pdf]]] cover all the subjects required to plan and execute a successful cross-country flight. At a high level, these subjects include:
-- More detail on airport procedures, including non-towered airports
-- Planning and plotting a course, keeping in mind obstacles and airspace restrictions, and making use of radio navigation aids
-- Computing weight & balance when you have more passengers, luggage, and fuel
-- Computing fuel requirements based on your aircraft's performance
-- Getting weather briefings for your destination and points along the way
-- Using pilotage and dead reckoning to fly without radio navigation aids
-- Go/no-go decisions
+		- Importantly, must include **"a point of landing that was at least a straight-line distance of more than 50 nautical miles from the original point of departure"**^[[[FAR 61.1]]]^[Note though, how you break up a flight log is up to you, and this can allow certain flights to count partially as xc time -- see [[Van Zanen 2009]]]
+		- Good habit to log the straight-line distance for each xc flight -- makes checkride prep easier
+- Lessons XC.2-7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]] and [[XC Syllabus Topics On Flight Plan.pdf]]] cover key requirements to plan and execute a successful cross-country flight. These subjects include:
+	- More detail on airport procedures, including non-towered airports
+	- Planning and plotting a course, keeping in mind obstacles and airspace restrictions, and making use of radio navigation aids
+	- Computing and adjusting weight & balance with more passengers, luggage, and fuel
+	- Computing fuel requirements based on your aircraft's performance
+	- Getting weather briefings for your destination and points along the way
+	- Using pilotage and dead reckoning to fly without radio navigation aids
+	- Go/no-go decisions
 
 Pilots often use [a planner like this one](https://www.dauntless-soft.com/products/Freebies/VFRFlightPlanner/). There are others, but we'll use this one during training.  Each of the lessons above will teach you how to fill out one section of the planner.
 
