@@ -35,6 +35,15 @@ There's a few branch protections in place and specific merge strategies. General
 
 ---
 
+## Building Your Own Files
+You are welcome to use these files within the terms of CC-fill this in
+
+You can fork it on Github if you'd like, and publish on obsidian just as well!
+
+If you want to make a PDF version of the syllabus, it doesn't quite fit the model of interlinked files, but can be done with:
+
+---
+
 ## Project Details
 ### Structure
 - Files starting with "~ " are meant to show up on top of the list, likely they are MOCs or overviews. 
