@@ -34,6 +34,7 @@ Ground 3 hours, Flight as necessary
 	1. May require DPE to be scheduled months in advance!
 5. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially oral portion (Andy Munnis, DPE): https://www.youtube.com/watch?v=zVEgIeZUpk
+		1. Update this, maybe https://www.youtube.com/watch?v=zVE-gIeZUpk but unsure what this used to be
 	2. Books available for preparation
 	3. Practice oral exams with other students and instructors
 6. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
