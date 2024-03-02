@@ -33,8 +33,8 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 	2. **Operations/Systems**: Thorough understanding of systems and higher standards for operations
 	3. **Regulations**: Introduction of commercial operations requires a wider and deeper understanding of the [[FAR]]s
 	4. **Maneuvers**: [[PPL]] maneuvers are mostly 1 dimensional, [[CPL]] requires maneuvering simultaneously in 2 dimensions
-3. [[ACS]] I. Preflight Preparation
-	1. [[ACS]] I.A. Pilot Qualifications
+3. [[Commercial ACS]] I. Preflight Preparation
+	1. [[Commercial ACS]] I.A. Pilot Qualifications
 		1. Builds on the foundation in [[Complete VFR Preflight Checklist]]/Pilot section
 		2. Review [[FAR 61.133]]
 		3. May carry persons or property for hire subject to common carriage vs private carriage limitations
@@ -42,14 +42,14 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		5. [[Distinction Between Pilot Privileges and Operational Rules]] #todo :: Add source
 		6. [[CPL]]+[[IRA]] allows commercial flights >50nm and at night.
 		7. Medical Certificate requirements
-	2. [[ACS]] I.B. Airworthiness Requirements
+	2. [[Commercial ACS]] I.B. Airworthiness Requirements
 		1. Review [[Complete VFR Preflight Checklist]]/Aircraft section
 		2. Obtaining a special flight permit
 		3. Pilot-performed preventative maintenance (see [§ 43.3](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/section-43.3)(g) and [§ 43 Appendix A](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043))
-	3. [[ACS]] I.C. Weather Information
+	3. [[Commercial ACS]] I.C. Weather Information
 		1. Review [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 		2. Gain deeper understanding from [[PHAK Ch12]] and [[PHAK Ch13]]
-	4. [[ACS]] I.D. Cross-Country Flight Planning
+	4. [[Commercial ACS]] I.D. Cross-Country Flight Planning
 		1. Review:
 			1. [[XC.1 Intro to Cross Country Flying]]
 			2. [[XC.2 Advanced Airport Operations]]
@@ -58,16 +58,16 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 			5. [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 			6. [[XC.6 Pilotage and Dead Reckoning]]
 			7. [[XC.7 Making the Go-No-Go Decision]]
-	5. [[ACS]] I.E. National Airspace System
+	5. [[Commercial ACS]] I.E. National Airspace System
 		1. Review [[SOLO.7 Navigation Charts and National Airspace System]]
-	6. [[ACS]] I.F. Performance and Limitation
+	6. [[Commercial ACS]] I.F. Performance and Limitation
 		1. Review [[XC.4 Aircraft Performance and Weight+Balance]]
-	7. [[ACS]] I.G. Operation of Systems
+	7. [[Commercial ACS]] I.G. Operation of Systems
 		1. Review.... ?????
-	8. [[ACS]] I.H. Human Factors
+	8. [[Commercial ACS]] I.H. Human Factors
 		1. Review... ?????
 4. Preflight Procedures
-	1. Relevant to [[ACS]] II.A, II.B, II.C, II.D, and II.F
+	1. Relevant to [[Commercial ACS]] II.A, II.B, II.C, II.D, and II.F
 	2. Q&A to feel out weak areas in understanding of [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]] and [[Complete VFR Preflight Checklist]]
 	3. Additional emphasis on
 		1. Approved [[MEL]] and the [[4 Types of MEL's]], related to [[FAR 91.213 Inop Equip]]

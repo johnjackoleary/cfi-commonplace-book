@@ -6,7 +6,7 @@ tags: cpl, lesson
 To develop knowledge of pivotal altitude and the skill to maneuver the airplane accurately, while dividing attention between the flight path and the selected pylons.
 
 ### References
-- [[Commercial ACS]]
+- [[Commercial ACS]] Section V.E
 - [[AFH Ch7]]
 - [[All Maneuvers Quick Reference]]
 
