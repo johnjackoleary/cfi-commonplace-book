@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"913fac62b4a610ac","type":"group","x":0,"y":0,"width":1640,"height":6240,"label":"Pre-Solo"},
+		{"id":"913fac62b4a610ac","type":"group","x":0,"y":-5840,"width":1640,"height":6240,"label":"Pre-Solo"},
 		{"id":"0c345f1c3633b1cc","type":"group","x":1880,"y":-3040,"width":1640,"height":2510,"label":"Pre-XC"},
 		{"id":"a0a78e4fb3806c1b","type":"group","x":1880,"y":-960,"width":1640,"height":1440,"label":"Pre-Checkride"},
-		{"id":"e769398784c09086","type":"group","x":20,"y":-2640,"width":440,"height":2880,"color":"#c89c51","label":"Ground-Only"},
+		{"id":"e769398784c09086","type":"group","x":20,"y":-5120,"width":440,"height":2880,"color":"#c89c51","label":"Ground-Only"},
 		{"id":"e71fb5fac3274ad3","type":"group","x":1920,"y":-4140,"width":840,"height":1381,"label":"XC Flight Planning and Preparation"},
 		{"id":"244cfc1427621625","type":"group","x":1920,"y":-3100,"width":840,"height":915,"label":"Unplanned Situations"},
 		{"id":"1723f8a3dcbb20da","type":"group","x":1880,"y":0,"width":340,"height":372,"label":"Legend"},
@@ -53,13 +53,11 @@
 		{"id":"7f55f6ce1e40fb82","type":"text","text":"Slips to a landing","x":1160,"y":-1310,"width":440,"height":60,"color":"3"},
 		{"id":"24fdd1061b8b3646","type":"text","text":"Approaches to a landing area with simulated engine malfunctions","x":1160,"y":-860,"width":440,"height":60,"color":"3"},
 		{"id":"b70cb975e13d3618","type":"text","text":"Emergency procedures and equipment malfunctions","x":1160,"y":-800,"width":440,"height":60,"color":"3"},
-		{"id":"f4697a6a47dea4dd","type":"text","text":"Proper flight preparation procedures, including preflight planning and preparation...","x":1160,"y":-4900,"width":440,"height":80,"color":"3"},
 		{"id":"56299b1faba63274","type":"text","text":"Takeoffs, including normal and crosswind;","x":1160,"y":-4670,"width":440,"height":60,"color":"3"},
 		{"id":"e96a287c4bbdf385","type":"text","text":"10 solo hours","x":1160,"y":740,"width":440,"height":60,"color":"1"},
 		{"id":"999e650d2085472a","type":"text","text":"3 solo TO/LDG at towered airport in pattern","x":1160,"y":800,"width":440,"height":60,"color":"1"},
 		{"id":"d6e0ad7b5796e5ca","type":"text","text":"Airport traffic patterns, including entry and departure procedures;","x":1160,"y":-4430,"width":440,"height":60,"color":"3"},
 		{"id":"6884678bdfc46272","type":"text","text":"Flight at various airspeeds from cruise to slow flight;","x":1160,"y":-4190,"width":440,"height":60,"color":"3"},
-		{"id":"a13a0bcf34a84907","type":"text","text":"Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;","x":1160,"y":-3675,"width":440,"height":130,"color":"3"},
 		{"id":"6c37e30d30c8825b","type":"text","text":"Steep Turns","x":1160,"y":-3230,"width":440,"height":60,"color":"5"},
 		{"id":"2a6a67287ec47351","type":"text","text":"Ground reference maneuvers;","x":1160,"y":-2750,"width":440,"height":60,"color":"3"},
 		{"id":"c40c70874a376675","type":"text","text":"Climbs at best angle and best rate","x":1160,"y":-320,"width":440,"height":60,"color":"2"},
@@ -90,7 +88,9 @@
 		{"id":"4a13c4ff5a8f579c","type":"text","text":"Solo Cross Country Phase Check","x":3040,"y":-2480,"width":440,"height":60,"color":"6"},
 		{"id":"d214c3c6fb5bc019","type":"text","text":"3 hrs flight solely by reference to instruments","x":3040,"y":-1790,"width":440,"height":60,"color":"1"},
 		{"id":"2d64b60bf697d83f","type":"text","text":"10 night dual full stop TO/LDG in pattern","x":3040,"y":-1340,"width":440,"height":60,"color":"1"},
-		{"id":"9b544a37f3b21862","type":"text","text":"Night dual XC >100nm total dist","x":3040,"y":-1280,"width":440,"height":60,"color":"1"}
+		{"id":"9b544a37f3b21862","type":"text","text":"Night dual XC >100nm total dist","x":3040,"y":-1280,"width":440,"height":60,"color":"1"},
+		{"id":"f4697a6a47dea4dd","type":"text","text":"Proper flight preparation procedures, including preflight planning and preparation...","x":1160,"y":-4920,"width":440,"height":80,"color":"3"},
+		{"id":"a13a0bcf34a84907","type":"text","text":"Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;","x":1160,"y":-3727,"width":440,"height":95,"color":"3"}
 	],
 	"edges":[
 		{"id":"fb8e7cf93c3d2e6a","fromNode":"8ebe62802d9f64f8","fromSide":"bottom","toNode":"d977536e0370a3b3","toSide":"top"},
