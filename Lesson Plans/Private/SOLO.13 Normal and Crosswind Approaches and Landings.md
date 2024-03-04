@@ -3,8 +3,6 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 
-Add https://www.aopa.org/news-and-media/all-news/2017/june/flight-training-magazine/landing-with-flair
-
 ### Objective
 Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
 
@@ -72,7 +70,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		6.  ![[Well Executed Roundout.jpeg]]
 		7. > [!tip] Look at midpoint of runway to help roundout at correct altitude
 		8. > [!tip] Use peripheral vision to judge descent rate
-	5. Flare/Touchdown
+	5. Flare/Touchdown^[Great article breaking this down from [[AOPA]] here: [Landing With Flair](https://www.aopa.org/news-and-media/all-news/2017/june/flight-training-magazine/landing-with-flair)]
 		1. Fly level above the runway while increasing back pressure until reaching the landing attitude
 		2. After reaching landing attitude, let the runway come up to the airplane
 		3. Hold off with increasing back pressure to touch down in full-stall attitude 
