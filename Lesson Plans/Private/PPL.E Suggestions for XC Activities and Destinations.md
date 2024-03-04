@@ -1,6 +1,6 @@
 # Activities
 > [!note] 
-> While most of these activities are not a required part of training, they may be nice to do with a [[CFI]].
+> While many of these activities are not required, they may be nice to do once with a [[CFI]].
 
 - [ ] Self-serve fuel
 - [ ] Stop at [[FBO]] or transient
