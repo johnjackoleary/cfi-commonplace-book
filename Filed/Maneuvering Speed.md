@@ -3,5 +3,6 @@
 ***Additional Resources:***
 - [How Is Maneuvering Speed Determined?](https://www.youtube.com/watch?v=o_KdHEzIJkk) by [[Rod Machado]]
 - [[Does Maneuvering Speed Really Protect Your Plane]]
+- [[Vg Diagram.jpg]]
 
 #glossary 
