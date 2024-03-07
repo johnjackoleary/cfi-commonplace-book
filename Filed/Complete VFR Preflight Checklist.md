@@ -62,4 +62,4 @@ This is a complete list of all preflight actions and checks (everything the pilo
   . Environmental
   . Deicing and anti-icing
   
-[^med]: See also [[Medical Requirements]]
+[^med]: See [[Medical Certificate Requirements]]
