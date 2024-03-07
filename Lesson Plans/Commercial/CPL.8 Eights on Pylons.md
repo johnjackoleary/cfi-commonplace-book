@@ -26,7 +26,7 @@ Ground 0.5 hours, Flight 2 hours
 		1. ![[Line of Sight.jpeg]]
 		2. ![[Bank Angle vs Pivotal Altitude.jpeg]]
 		3. ![[Altitude Effect on Line of Sight.jpeg]]
-	2. Approximate calculation: [[GS]]^2/11.3 (for GS in knots)^[For physics nerds, see derivation of pivotal altitude at: http://wannamaker.org/aviation/cfi/turns/]
+	2. Approximate calculation: [[GS]]^2/11.3 (for GS in knots)^[For physics nerds, see derivation of pivotal altitude at: https://www.youtube.com/watch?v=oc9mqDadv_M]
 	3. ![[Groundspeed to Pivotal Altitude]]
 4. Site selection
 	1. There must be a suitable emergency landing field within gliding range.

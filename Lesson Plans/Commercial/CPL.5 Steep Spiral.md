@@ -41,10 +41,17 @@ Ground 0.5 hours, Flight 2 hours
 	3. Make 3 revolutions
 		1. Increase/decrease bank angle as needed to keep the reference point at the same spot relative to you (higher bank angle downwind, less on upwind)
 		2. Note loss of altitude each time you return to original heading
-		3. After 3 revolutions, roll to wings level, and return to cruise speed
+		3. In a carbureted airplane, carb icing is a danger-- test the engine periodically by adding a bit of power
+		4. After 3 revolutions, roll to wings level, and return to cruise speed
+6. Common Errors
+	1. Failing to clear the area
+	2. Starting too low to finish above 1500' AGL
+	3. Choosing a point too far away; needs to be almost right below the plane
+	4. Letting airspeed increase or decrease over time
+	5. Failing to divide attention between airplane control, traffic avoidance, and the ground track
 
 ### Completion Standards
-Pilot is able to maintain a constant radius around a reference point at the specified airspeed, ±10 knots, roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ [[AGL]].
+Pilot is able to maintain a constant radius around a reference point at the specified airspeed, ±10 knots, roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ [[AGL]], without exceeding 60° of bank.
 
 ### Required Logbook Phraseology
 #todo add logbook info
