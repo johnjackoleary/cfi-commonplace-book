@@ -17,7 +17,8 @@ tags: [maneuver]
 
 
 ### Commercial Pilot
-[[C182T Commercial Maneuvers.pdf]]
+[[C172S Commercial Maneuvers.pdf]] ([source](https://docs.google.com/spreadsheets/d/1rFoYVela0JvkdtfWHaz6wfxOZkLgQbGGtoxNtoPvpz8))
+[[C182T Commercial Maneuvers.pdf]] ([source](https://docs.google.com/spreadsheets/d/16mieSpCfT-l67aMJEZFFps5OSOz8dK_ssXWqcahBUm8))
 
 ---
 
