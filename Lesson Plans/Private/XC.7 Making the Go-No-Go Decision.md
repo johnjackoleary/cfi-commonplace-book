@@ -45,5 +45,6 @@ None
 
 ### Required Homework
 - [ ]  Create your [[personal minimums]]
+- [ ]  Watch a few VFR-into-IMC videos such as [this one](https://www.youtube.com/watch?v=L6dtOQzHbZU) or [this one](https://www.youtube.com/watch?v=OPM4yBwp7_Q).
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

@@ -40,6 +40,7 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 	4. When do we use this in practice?
 3. [[Compass Errors]]
 	1. Navigating by Pilotage and Dead Reckoning requires awareness of the in-flight compass errors (Acceleration and Turning errors)
+	2. How the Heading Indicator mitigates these errors
 4. Completing a full navlog
 	1. How to handle step climbs under a Bravo
 5. Other Flight Planners / Navigation Logs are available
@@ -63,6 +64,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 
 ### Required Homework
 - [ ] Complete a full navlog from Palo Alto to a destination assigned by the instructor.
+- [ ] Memorize compass error acronyms: [[ANDS]], [[UNOS]], [[NOSE]]
 
 ### Recommended Homework
 None
