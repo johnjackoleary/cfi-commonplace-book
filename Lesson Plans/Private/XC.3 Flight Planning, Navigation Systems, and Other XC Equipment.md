@@ -53,7 +53,7 @@ For [[FAR 61.93 Solo XC Reqs]]:
 - Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown
 
 ### Required Homework
-- [ ] Memorize compass error acronyms: [[ANDS]], [[UNOS]], [[NOSE]]
+None
 
 ### Recommended Homework
 None
