@@ -14,55 +14,55 @@ tags:
 
 #### Stage I: Pre-Solo
 ##### Part 1: Leaving the Airport
-[[PPL.0 Optional Introductory or Demo Flight]]
-[[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-[[SOLO.2 Four Fundamentals of Flight]]
-[[SOLO.3 Weather Briefs and Preflight Planning]]
-[[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]
-[[SOLO.5 Towered Airport Operations]]
+[[PPL0.0 Optional Introductory or Demo Flight]]
+[[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+[[PPL1.2 Four Fundamentals of Flight]]
+[[PPL1.3 Weather Briefs and Preflight Planning]]
+[[PPL1.4 Normal and Crosswind Takeoffs and Climbs]]
+[[PPL1.5 Towered Airport Operations]]
 
 ##### Part 2: Maneuvers
-[[SOLO.6 Slow Flight and Power Off Stalls]]
-[[SOLO.7 Navigation Charts and National Airspace System]]
-[[SOLO.8 Power-On Stalls and Spin Awareness]]
-[[SOLO.9 Performance Maneuvers - Steep Turns]]
-[[SOLO.10 Ground Reference Maneuvers]]
-[[SOLO.11 Aircraft Systems]]
+[[PPL2.1 Slow Flight and Power Off Stalls]]
+[[PPL2.2 Navigation Charts and National Airspace System]]
+[[PPL2.3 Power-On Stalls and Spin Awareness]]
+[[PPL2.4 Performance Maneuvers - Steep Turns]]
+[[PPL2.5 Ground Reference Maneuvers]]
+[[PPL2.6 Aircraft Systems]]
 
 ##### Part 3: Landings
-[[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]
-[[SOLO.13 Normal and Crosswind Approaches and Landings]]
-[[SOLO.14 Forward Slips and No Flap Landings]]
-[[SOLO.15 Emergency Landings]]
-[[SOLO.16 Short- and Soft-Field Takeoffs and Landings]]
-[[SOLO.17 Pre-Solo Knowledge Test and Review]]
+[[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
+[[PPL3.2 Normal and Crosswind Approaches and Landings]]
+[[PPL3.3 Forward Slips and No Flap Landings]]
+[[PPL3.4 Emergency Landings]]
+[[PPL3.5 Short- and Soft-Field Takeoffs and Landings]]
+[[PPL3.6 Pre-Solo Knowledge Test and Review]]
 
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
 ##### Part 4: Planning and Prep
-[[XC.1 Intro to Cross Country Flying]]
-[[XC.2 Advanced Airport Operations]]
-[[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-[[XC.4 Aircraft Performance and Weight+Balance]]
-[[XC.5 Advanced Weather Briefs and Preflight Planning]]
-[[XC.6 Pilotage and Dead Reckoning]]
-[[XC.7 Making the Go-No-Go Decision]]
+[[PPL4.1 Intro to Cross Country Flying]]
+[[PPL4.2 Advanced Airport Operations]]
+[[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+[[PPL4.4 Aircraft Performance and Weight+Balance]]
+[[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
+[[PPL4.6 Pilotage and Dead Reckoning]]
+[[PPL4.7 Making the Go-No-Go Decision]]
 
 ##### Part 5: Unplanned Situations
-[[XC.8 Emergency Flight by Instruments - Four Fundamentals]]
-[[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]
-[[XC.9 Emergency Operations]]
-[[XC.10 Lost Procedures and Diversion to Alternates]]
+[[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]]
+[[PPL5.2 Emergency Flight by Instruments - Unusual Attitude Recovery]]
+[[PPL5.3 Emergency Operations]]
+[[PPL5.4 Lost Procedures and Diversion to Alternates]]
 
 (Cross Country Phase Check and Solo Cross Countries)
 
 #### Stage III: Night Flying and Checkride Preparation
 ##### Part 6: Night
-[[PPL.2 Night Operations and Night Cross Country]]
+[[PPL6.1 Night Operations and Night Cross Country]]
 
 ##### Part 7: Checkride
-[[PPL.3 Review and Checkride Preparation]]
+[[PPL7.1 Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)
 
