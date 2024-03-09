@@ -12,19 +12,24 @@ tags:
 > [!note]
 > Relevant ground school or home study content to prep before each lesson can be found in [[~ PPL Pre-Lesson Reading]].
 
-#### Stage 1: Pre-Solo
+#### Stage I: Pre-Solo
+##### Part 1: Leaving the Airport
 [[PPL.0 Optional Introductory or Demo Flight]]
 [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 [[SOLO.2 Four Fundamentals of Flight]]
 [[SOLO.3 Weather Briefs and Preflight Planning]]
 [[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]
 [[SOLO.5 Towered Airport Operations]]
+
+##### Part 2: Maneuvers
 [[SOLO.6 Slow Flight and Power Off Stalls]]
 [[SOLO.7 Navigation Charts and National Airspace System]]
 [[SOLO.8 Power-On Stalls and Spin Awareness]]
 [[SOLO.9 Performance Maneuvers - Steep Turns]]
 [[SOLO.10 Ground Reference Maneuvers]]
 [[SOLO.11 Aircraft Systems]]
+
+##### Part 3: Landings
 [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]
 [[SOLO.13 Normal and Crosswind Approaches and Landings]]
 [[SOLO.14 Forward Slips and No Flap Landings]]
@@ -35,6 +40,7 @@ tags:
 (Pre-Solo Quiz and Solo Phase Check, Local Solo Flights)
 
 #### Stage II: Navigation and Cross-Country Flight
+##### Part 4: Planning and Prep
 [[XC.1 Intro to Cross Country Flying]]
 [[XC.2 Advanced Airport Operations]]
 [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
@@ -42,15 +48,20 @@ tags:
 [[XC.5 Advanced Weather Briefs and Preflight Planning]]
 [[XC.6 Pilotage and Dead Reckoning]]
 [[XC.7 Making the Go-No-Go Decision]]
+
+##### Part 5: Unplanned Situations
 [[XC.8 Emergency Flight by Instruments - Four Fundamentals]]
+[[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]
 [[XC.9 Emergency Operations]]
 [[XC.10 Lost Procedures and Diversion to Alternates]]
 
 (Cross Country Phase Check and Solo Cross Countries)
 
 #### Stage III: Night Flying and Checkride Preparation
-[[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]
+##### Part 6: Night
 [[PPL.2 Night Operations and Night Cross Country]]
+
+##### Part 7: Checkride
 [[PPL.3 Review and Checkride Preparation]]
 
 (Private Pilot Quiz and Private Pilot Phase Check)
