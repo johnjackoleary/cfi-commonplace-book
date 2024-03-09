@@ -16,14 +16,14 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 
 ### Builds On
 - [[CPL.10 Slow Flight and Stalls]]
-- [[SOLO.8 Power-On and Power-Off Stalls]]
+- [[SOLO.8 Power-On Stalls and Spin Awareness]]
 
 ### Schedule
 0.5-hour ground, 1.0-hour flight, with practice on multiple flights
 
 ### Lesson Elements
 1. Review the aerodynamic principles
-	1. Stall background same as [[SOLO.8 Power-On and Power-Off Stalls]]
+	1. Stall background same as [[SOLO.8 Power-On Stalls and Spin Awareness]]
 	2. Why do we experience increased load factor in a level banked turn?
 	3. Why does stall speed increase with load factor?  By how much?
 	4. Why are stall in a banked turn dangerous
