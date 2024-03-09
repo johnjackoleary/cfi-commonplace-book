@@ -16,7 +16,7 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 
 ### Builds On
 - [[SOLO.10 Ground Reference Maneuvers]]
-- [[SOLO.6 Maneuvering During Slow Flight]]
+- [[SOLO.6 Slow Flight and Power Off Stalls]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours
