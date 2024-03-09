@@ -13,8 +13,9 @@ tags:
 > Relevant ground school or home study content to prep before each lesson can be found in [[~ PPL Pre-Lesson Reading]].
 
 #### Stage I: Pre-Solo
-##### Part 1: Leaving the Airport
 [[PPL0.0 Optional Introductory or Demo Flight]]
+
+##### Part 1: Leaving the Airport
 [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 [[PPL1.2 Four Fundamentals of Flight]]
 [[PPL1.3 Weather Briefs and Preflight Planning]]
