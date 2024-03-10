@@ -12,13 +12,13 @@ Develop knowledge and skills required for emergency flight by reference to instr
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[SOLO.2 Four Fundamentals of Flight]]
+[[PPL1.2 Four Fundamentals of Flight]]
 
 ### Schedule
 Ground 0.5 hour, Flight/Sim 1 hour, practice on multiple flights
 
 > [!note] 
-> Can be completed at the same time as [[XC.9 Emergency Operations]].
+> Can be completed at the same time as [[PPL5.3 Emergency Operations]].
 
 ### CFI Equipment
 Hood or foggles

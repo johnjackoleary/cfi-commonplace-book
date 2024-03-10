@@ -14,13 +14,13 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.15 Emergency Landings]]
+- [[PPL3.4 Emergency Landings]]
 
 ### Schedule
 1.5 hours ground, flight practice as necessary
 
 > [!note] 
-> Can be completed at the same time as [[XC.8 Emergency Flight by Instruments - Four Fundamentals]] or [[XC.10 Lost Procedures and Diversion to Alternates]].
+> Can be completed at the same time as [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] or [[PPL5.4 Lost Procedures and Diversion to Alternates]].
 
 ### Lesson Elements
 > [!summary]
@@ -44,7 +44,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 #### Something is Wrong!
 > [!note]
 > - "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it -- and in many cases, memorize it. The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
-> - *Procedures in italics* are a reference to [[XC.9 Emergency Operations#Key Procedures in Emergencies]] below.
+> - *Procedures in italics* are a reference to [[PPL5.3 Emergency Operations#Key Procedures in Emergencies]] below.
 
 - On the ground...
 	- Fire!
@@ -101,7 +101,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Alternator failure - **(POH)** Shed as much electric load as possible; estimate time available; land accordingly
 	- Retractable gear malfunction - (out of scope for this lesson)
 	- Flew into a cloud, or lost minimum VFR visibility
-		- Rely on [[XC.8 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
+		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
 	- Icing - **(POH)** Reverse course or choose a different altitude; request help on the radio; deploy all anti-ice measures.  See POH for landing with heavy ice accumulation
 
 #### Key Procedures in Emergencies
@@ -112,9 +112,9 @@ These are the emergency procedures referenced in the section above.
 	- **(POH)**
 		- Cut off fuel flow
 		- Start descent with 30°-45° bank, airspeed >= 100kts.  Bank away from the fire so the flames don't cover the windshield
-		- Once fire is out, execute Forced Landing.  See [[SOLO.15 Emergency Landings]]
+		- Once fire is out, execute Forced Landing.  See [[PPL3.4 Emergency Landings]]
 2. *Forced Landing*
-	- **(POH)** See [[SOLO.15 Emergency Landings]]
+	- **(POH)** See [[PPL3.4 Emergency Landings]]
 3. *Precautionary Landing*
 	- Assumes engine power is available
 	- See **(POH)** procedure
@@ -132,7 +132,7 @@ These are the emergency procedures referenced in the section above.
 
 > [!tip] Checkride Tip
 > On the checkride, the examiner wants to see you demonstrate a *Forced Landing* and an *Emergency Descent*.  They'll trigger these scenarios by saying something like:
-> - "Oops, you just lost the engine"  => Your cue to demonstrate a *Forced Landing* ([[SOLO.15 Emergency Landings]])
+> - "Oops, you just lost the engine"  => Your cue to demonstrate a *Forced Landing* ([[PPL3.4 Emergency Landings]])
 > - "I see flames on the right side of the cowling"
 > 	- This is your cue to demonstrate an *Emergency Descent*
 > 	- If the examiner then says "the flames are out", transition to a *Forced Landing*
@@ -147,7 +147,7 @@ Client demonstrates appropriate knowledge of aircraft systems, abnormal and emer
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
-- Emergency procedures^[Also in [[XC.10 Lost Procedures and Diversion to Alternates]]]
+- Emergency procedures^[Also in [[PPL5.4 Lost Procedures and Diversion to Alternates]]]
 
 ### Required Homework
 - [ ] Memorize emergency flows (you may wish to reserve an aircraft and practice on the ground, although a picture also works)

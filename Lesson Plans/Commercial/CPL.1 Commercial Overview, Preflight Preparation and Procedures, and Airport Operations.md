@@ -19,9 +19,9 @@ Discussion of differences between commercial and private pilot licenses, and set
 - [[Pyramid of Airworthiness]]
 
 ### Builds On
-- [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-- [[SOLO.5 Towered Airport Operations]]
-- [[XC.2 Advanced Airport Operations]]
+- [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+- [[PPL1.5 Towered Airport Operations]]
+- [[PPL4.2 Advanced Airport Operations]]
 
 ### Schedule
 Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
@@ -47,35 +47,35 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		2. Obtaining a special flight permit
 		3. Pilot-performed preventative maintenance (see [§ 43.3](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/section-43.3)(g) and [§ 43 Appendix A](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043))
 	3. I.C. Weather Information
-		1. Review [[XC.5 Advanced Weather Briefs and Preflight Planning]]
+		1. Review [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 		2. Gain deeper understanding from [[PHAK Ch12]] and [[PHAK Ch13]]
 	4. I.D. Cross-Country Flight Planning
 		1. Review:
-			1. [[XC.1 Intro to Cross Country Flying]]
-			2. [[XC.2 Advanced Airport Operations]]
-			3. [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-			4. [[XC.4 Aircraft Performance and Weight+Balance]]
-			5. [[XC.5 Advanced Weather Briefs and Preflight Planning]]
-			6. [[XC.6 Pilotage and Dead Reckoning]]
-			7. [[XC.7 Making the Go-No-Go Decision]]
+			1. [[PPL4.1 Intro to Cross Country Flying]]
+			2. [[PPL4.2 Advanced Airport Operations]]
+			3. [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+			4. [[PPL4.4 Aircraft Performance and Weight+Balance]]
+			5. [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
+			6. [[PPL4.6 Pilotage and Dead Reckoning]]
+			7. [[PPL4.7 Making the Go-No-Go Decision]]
 	5. I.E. National Airspace System
-		1. Review [[SOLO.7 Navigation Charts and National Airspace System]]
+		1. Review [[PPL2.2 Navigation Charts and National Airspace System]]
 	6. I.F. Performance and Limitation
-		1. Review [[XC.4 Aircraft Performance and Weight+Balance]]
+		1. Review [[PPL4.4 Aircraft Performance and Weight+Balance]]
 	7. I.G. Operation of Systems
 		1. Review [[PHAK Ch7]]
 	8. I.H. Human Factors
 		1. Review [[Human Factors]]
 4. Preflight Procedures
 	1. Relevant to [[Commercial ACS]] II.A, II.B, II.C, II.D, and II.F
-	2. Q&A to feel out weak areas in understanding of [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]] and [[Complete VFR Preflight Checklist]]
+	2. Q&A to feel out weak areas in understanding of [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]] and [[Complete VFR Preflight Checklist]]
 	3. Additional emphasis on
 		1. Approved [[MEL]] and the [[4 Types of MEL's]], related to [[FAR 91.213 Inop Equip]]
 		2. [[Risk Management]] and related mnemonics ([[PAVE]], [[IMSAFE]], [[5Ps]], etc)
 		3. [[5 Hazardous Attitudes and Antidotes]]
 6. [[ADM]] and [[Operational Pitfalls]]
 7. Airport Operations (ACS III.A and III.B)
-	1. Q&A to feel out weak areas in understanding of [[SOLO.5 Towered Airport Operations]] and [[XC.2 Advanced Airport Operations]]
+	1. Q&A to feel out weak areas in understanding of [[PPL1.5 Towered Airport Operations]] and [[PPL4.2 Advanced Airport Operations]]
 	2. [[Part 830]] review: [[Accident and Incident Reporting]]
 	3. Use of portable electronic devices (see [[AC 91-21]])
 

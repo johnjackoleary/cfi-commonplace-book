@@ -13,7 +13,7 @@ tags: ppl, lesson
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
--[[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+-[[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 
 ### Schedule

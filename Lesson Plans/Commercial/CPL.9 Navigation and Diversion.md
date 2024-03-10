@@ -7,9 +7,9 @@ tags:
 ---
 > [!note]
 > With the exception of a few tolerance changes, this lesson is identical to:
-> - [[XC.6 Pilotage and Dead Reckoning]]
-> - [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-> - [[XC.10 Lost Procedures and Diversion to Alternates]]
+> - [[PPL4.6 Pilotage and Dead Reckoning]]
+> - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+> - [[PPL5.4 Lost Procedures and Diversion to Alternates]]
 
 ### References
 - [[Commercial ACS]] Sec VI.A,B,C,D

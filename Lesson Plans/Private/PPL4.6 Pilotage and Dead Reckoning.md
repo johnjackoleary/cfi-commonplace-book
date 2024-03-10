@@ -11,21 +11,21 @@ Develop knowledge and skills associated with pilotage navigation by reference to
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.7 Navigation Charts and National Airspace System]]
-- [[XC.4 Aircraft Performance and Weight+Balance]]
+- [[PPL2.2 Navigation Charts and National Airspace System]]
+- [[PPL4.4 Aircraft Performance and Weight+Balance]]
 
 ### Schedule
 Ground 1.5 hours, Flight – multiple during dual cross-country flights
 
 > [!note] 
-> Can be completed at the same time as with [[XC.5 Advanced Weather Briefs and Preflight Planning]].
+> Can be completed at the same time as with [[PPL4.5 Advanced Weather Briefs and Preflight Planning]].
 
 ### CFI Equipment
 - [[E6B]] Calculator or App
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons [[XC.2 Advanced Airport Operations|XC.2]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[XC.4 Aircraft Performance and Weight+Balance|XC.4]], [[XC.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[XC.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+> Lessons [[PPL4.2 Advanced Airport Operations|XC.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|XC.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[PPL4.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 

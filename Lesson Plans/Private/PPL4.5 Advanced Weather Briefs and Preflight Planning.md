@@ -13,17 +13,17 @@ Develop ability to obtain, process and understand pre-flight weather briefings, 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.3 Weather Briefs and Preflight Planning]]
+- [[PPL1.3 Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 1.5 hour, practice on multiple flights
 
 > [!note] 
-> Can be completed at the same time as with [[XC.6 Pilotage and Dead Reckoning]].
+> Can be completed at the same time as with [[PPL4.6 Pilotage and Dead Reckoning]].
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons [[XC.2 Advanced Airport Operations|XC.2]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[XC.4 Aircraft Performance and Weight+Balance|XC.4]], [[XC.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[XC.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+> Lessons [[PPL4.2 Advanced Airport Operations|XC.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|XC.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[PPL4.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 

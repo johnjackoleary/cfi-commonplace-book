@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 > [!note]
-> This lesson is identical to the postflight procedures found in [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]. Please reference that lesson, and the extra information below.
+> This lesson is identical to the postflight procedures found in [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]. Please reference that lesson, and the extra information below.
 
 ### References
 - [[Commercial ACS]] Sec XI.A

@@ -1,3 +1,3 @@
 ***Related Resources:*** [[Four Phases of Spin Entry and Recovery]]
 
-![[SOLO.8 Power-On Stalls and Spin Awareness]]
+![[PPL2.3 Power-On Stalls and Spin Awareness]]

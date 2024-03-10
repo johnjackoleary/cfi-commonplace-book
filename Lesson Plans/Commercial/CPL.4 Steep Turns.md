@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 > [!note]
-> With the exception of a few tolerance changes, this lesson is identical to [[SOLO.9 Performance Maneuvers - Steep Turns]]. Please reference that lesson, and the extra information below.
+> With the exception of a few tolerance changes, this lesson is identical to [[PPL2.4 Performance Maneuvers - Steep Turns]]. Please reference that lesson, and the extra information below.
 
 ### References
 - [[Commercial ACS]] Sec V.A

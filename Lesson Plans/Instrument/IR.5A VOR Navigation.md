@@ -13,7 +13,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. A
 - [[POH]]/[[AFM]]
 
 ### Builds On
-- [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+- [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 - [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
 
 ### Schedule

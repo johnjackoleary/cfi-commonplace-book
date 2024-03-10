@@ -14,8 +14,8 @@ Understand purpose and procedures of a steep spiral. Develop skills required to 
 - [[All Maneuvers Quick Reference]]
 
 ### Builds On
-- [[SOLO.10 Ground Reference Maneuvers]]
-- [[SOLO.15 Emergency Landings]]
+- [[PPL2.5 Ground Reference Maneuvers]]
+- [[PPL3.4 Emergency Landings]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours

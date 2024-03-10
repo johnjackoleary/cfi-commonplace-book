@@ -12,7 +12,7 @@ Develop student knowledge and skill in recognition of and recovery from unusual 
 None
 
 ### Builds On
-[[PPL.1 Emergency Flight by Instruments - Unusual Attitude Recovery]]
+[[PPL5.2 Emergency Flight by Instruments - Unusual Attitude Recovery]]
 
 ### Schedule
 Ground 1.5-hour, simulator and/or airplane, 1.5 hours 
