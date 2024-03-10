@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.17, SOLO.17, PPL3.6]
 ---
 ### Objective
 Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, ensure pre-solo documentation is filed, and identify any remaining areas for practice.

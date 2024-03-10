@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.27, PPL.2, PPL6.1]
 ---
 ### Objective
 Develop knowledge and skill pertaining to night flight.

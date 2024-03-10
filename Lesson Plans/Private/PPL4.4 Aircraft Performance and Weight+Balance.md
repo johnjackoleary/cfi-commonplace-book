@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.20, XC.4, PPL4.4]
 ---
 ### Objective
 Develop understanding of aircraft limitations and weight & balance, and how to compute aircraft performance and W&B for a cross country flight.

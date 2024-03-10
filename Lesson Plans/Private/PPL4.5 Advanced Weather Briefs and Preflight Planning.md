@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.21, XC.5, PPL4.5]
 ---
 ### Objective
 Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data. 

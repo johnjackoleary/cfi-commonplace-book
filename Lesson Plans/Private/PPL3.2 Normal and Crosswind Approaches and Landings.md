@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.13, SOLO.13, PPL3.2]
 ---
 
 ### Objective

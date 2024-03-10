@@ -4,6 +4,7 @@ cssclasses:
 tags:
   - ppl
   - lesson
+aliases: [PPL.3, SOLO.3, PPL1.3]
 ---
 
 ### Objective

@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.7, SOLO.7, PPL2.2]
 ---
 ### Objective
 Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.

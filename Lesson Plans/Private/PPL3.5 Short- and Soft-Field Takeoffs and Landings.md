@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
-tags: ppl, lesson, maneuver 
+tags: ppl, lesson, maneuver
+aliases: [PPL.16, SOLO.16, PPL3.5]
 ---
 ### Objective
 Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.

@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.18, XC.2, PPL4.2]
 ---
 ### Objective
 Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.

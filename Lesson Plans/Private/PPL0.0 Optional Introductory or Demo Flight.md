@@ -1,7 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
-aliases: [PPL.0]
+aliases: [PPL.0, PPL0.0]
 ---
 ### Objective
 Get a feel for flying by actually taking the controls once airborne.

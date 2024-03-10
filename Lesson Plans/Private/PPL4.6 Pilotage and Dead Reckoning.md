@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.22, XC.6, PPL4.6]
 ---
 ### Objective
 Develop knowledge and skills associated with pilotage navigation by reference to charts, and dead reckoning navigation with reference to clock and compass, including expected wind correction.  Learn to complete a full navlog for a cross-country flight, including headings, waypoints, altitudes, and fuel requirements.

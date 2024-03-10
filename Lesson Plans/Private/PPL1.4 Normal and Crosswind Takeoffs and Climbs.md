@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.4 SOLO.4, PPL1.4]
 ---
 ### Objective
 Understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 

@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.6, PPL.8, SOLO.6, SOLO.8, PPL2.1]
 ---
 ### Objective
 Develop knowledge, risk management and skills associated with maneuvers during [[slow flight]] and power-off stalls. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.

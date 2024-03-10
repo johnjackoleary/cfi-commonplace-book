@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [XC.1, PPL4.1]
 ---
 ### Objective
 Learner understands the structure and flow of cross-country lessons, including an overview of aspects which make cross country ([[XC]]) flying different.
