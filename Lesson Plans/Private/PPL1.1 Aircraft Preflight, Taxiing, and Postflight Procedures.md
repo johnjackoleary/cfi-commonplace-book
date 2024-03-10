@@ -1,6 +1,10 @@
 ---
-cssclass: lesson
-tags: ppl, lesson
+cssclasses:
+  - lesson
+tags:
+  - ppl
+  - lesson
+aliases: [PPL.1, SOLO.1, PPL1.1]
 ---
 ### Objective
 Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
