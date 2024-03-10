@@ -6,7 +6,7 @@ A student pilot who is receiving training for a single-engine airplane rating or
 
 | Requirement | Lesson |
 | ----------- | ------ |
-| [ ] Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems; | [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures|PPL.1]], [[SOLO.3 Weather Briefs and Preflight Planning|PPL.3]] |
+| [ ] Proper flight preparation procedures, including preflight planning and preparation, powerplant operation, and aircraft systems; | [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures\|PPL1.1]], [[SOLO.3 Weather Briefs and Preflight Planning|PPL.3]] |
 | [ ] Taxiing or surface operations, including runups;       |  [[SOLO.1 Aircraft Preflight, Taxiing, and Postflight Procedures|PPL.1]]     |
 | [ ] Takeoffs and landings, including normal and crosswind; |  [[SOLO.4 Normal and Crosswind Takeoffs and Climbs|PPL.4]], [[SOLO.13 Normal and Crosswind Approaches and Landings|PPL.13]]     |
 | [ ] Straight and level flight, and turns in both directions;  | [[SOLO.2 Four Fundamentals of Flight|PPL.2]]     |
