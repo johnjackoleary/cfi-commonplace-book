@@ -12,8 +12,8 @@ Develop knowledge and skills associated with emergency landings, including choos
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.13 Normal and Crosswind Approaches and Landings]]
-- [[SOLO.14 Forward Slips and No Flap Landings]]
+- [[PPL3.2 Normal and Crosswind Approaches and Landings]]
+- [[PPL3.3 Forward Slips and No Flap Landings]]
 
 ### Schedule
 1 hour ground, 1 hour flight, frequent practice on multiple flights
@@ -44,7 +44,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 	1. Effects of headwinds/tailwinds 
 		1. ![[Effect of Headwind on Landing Point.jpeg]]
 	2. Aircraft configuration, such as gear and flaps ![[Flaps Effect on Landing Point.jpeg]]
-	3. Keep altitude, and plan to use [[SOLO.14 Forward Slips and No Flap Landings|forward slip]] to control touchdown location
+	3. Keep altitude, and plan to use [[PPL3.3 Forward Slips and No Flap Landings|forward slip]] to control touchdown location
 	4. Don't try to stretch a glide! ![[Stretching a Glide.jpeg]]
 	5. Securing fuel and electrical systems before landing
 	6. Unlatch doors before touchdown

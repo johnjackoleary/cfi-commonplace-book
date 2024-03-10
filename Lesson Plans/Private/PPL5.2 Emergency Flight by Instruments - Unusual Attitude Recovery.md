@@ -12,7 +12,7 @@ Develop knowledge and skill in recognition of and recovery from unusual attitude
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[XC.8 Emergency Flight by Instruments - Four Fundamentals]]
+[[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]]
 
 ### Schedule
 Ground 1.5 hours, sim/airplane 1.5 hours

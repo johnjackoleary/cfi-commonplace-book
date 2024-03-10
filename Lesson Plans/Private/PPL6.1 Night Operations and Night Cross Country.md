@@ -11,9 +11,9 @@ Develop knowledge and skill pertaining to night flight.
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.5 Towered Airport Operations]]
-- [[SOLO.7 Navigation Charts and National Airspace System]]
-- [[XC.6 Pilotage and Dead Reckoning]]
+- [[PPL1.5 Towered Airport Operations]]
+- [[PPL2.2 Navigation Charts and National Airspace System]]
+- [[PPL4.6 Pilotage and Dead Reckoning]]
 
 ### Schedule
 Ground 1 hour, flight 3 hours

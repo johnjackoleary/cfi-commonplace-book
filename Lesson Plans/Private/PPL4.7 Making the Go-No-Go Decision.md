@@ -14,17 +14,17 @@ Verify that the learner can fill out a complete navlog correctly on their own.  
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[XC.2 Advanced Airport Operations]]
-- [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-- [[XC.4 Aircraft Performance and Weight+Balance]]
-- [[XC.5 Advanced Weather Briefs and Preflight Planning]]
-- [[XC.6 Pilotage and Dead Reckoning]]
+- [[PPL4.2 Advanced Airport Operations]]
+- [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+- [[PPL4.4 Aircraft Performance and Weight+Balance]]
+- [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
+- [[PPL4.6 Pilotage and Dead Reckoning]]
 
 ### Schedule
 Ground 1 hours
 
 > [!note] 
-> Can be completed at the same time as [[XC.5 Advanced Weather Briefs and Preflight Planning]] or [[XC.6 Pilotage and Dead Reckoning]].
+> Can be completed at the same time as [[PPL4.5 Advanced Weather Briefs and Preflight Planning]] or [[PPL4.6 Pilotage and Dead Reckoning]].
 
 ### Lesson Elements
 1. Review the navlog prepared as homework

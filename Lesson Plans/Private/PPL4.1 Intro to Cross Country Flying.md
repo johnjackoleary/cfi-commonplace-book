@@ -12,7 +12,7 @@ Learner understands the structure and flow of cross-country lessons, including a
 Ground 0.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[XC.2 Advanced Airport Operations]].
+> Can be completed at the same time as [[PPL4.2 Advanced Airport Operations]].
 
 ### Lesson Elements
 #### Cross Country Overview
@@ -37,12 +37,12 @@ Ground 0.5 hours
 
 #### Flight Planner
 - Pilots often use [a planner like this one](https://www.dauntless-soft.com/products/Freebies/VFRFlightPlanner/). 
-	- There are other versions^[You can find others in [[XC.6 Pilotage and Dead Reckoning]]], but we'll use this one during training.
+	- There are other versions^[You can find others in [[PPL4.6 Pilotage and Dead Reckoning]]], but we'll use this one during training.
 - Each of the XC lessons will teach you how to fill out one section of the planner. ![[XC Syllabus Topics On Flight Plan.pdf]]
 - One approach is to keep the same printed navlog to fill out across multiple lessons, as a way of learning each new topic without starting again from scratch
 
 #### Goals during XC flights
-- You do not need to complete all ground topics to start flying XC trips^[For instance, after [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment]], flying a trip using [[GPS]] to navigate there and [[VOR]]s to navigate back would be beneficial.]
+- You do not need to complete all ground topics to start flying XC trips^[For instance, after [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]], flying a trip using [[GPS]] to navigate there and [[VOR]]s to navigate back would be beneficial.]
 - Your CFI can cover the parts of the trip you haven't yet learned (e.g. fuel, W&B, xc weather).
 - See [[PPL.E Suggestions for XC Activities and Destinations]] for ideas, or plan a trip you're excited about with your CFI
 

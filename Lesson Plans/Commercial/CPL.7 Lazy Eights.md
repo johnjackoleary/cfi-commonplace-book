@@ -15,8 +15,8 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 - [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
 
 ### Builds On
-- [[SOLO.10 Ground Reference Maneuvers]]
-- [[SOLO.6 Slow Flight and Power Off Stalls]]
+- [[PPL2.5 Ground Reference Maneuvers]]
+- [[PPL2.1 Slow Flight and Power Off Stalls]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours

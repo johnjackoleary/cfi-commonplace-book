@@ -13,8 +13,8 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.6 Slow Flight and Power Off Stalls]]
-- [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]
+- [[PPL2.1 Slow Flight and Power Off Stalls]]
+- [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
 
 ### Schedule
 1.5 hours ground, 1.5 hours flight, multiple flights to practice as necessary

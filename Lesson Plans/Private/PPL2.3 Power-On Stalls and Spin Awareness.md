@@ -14,7 +14,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[SOLO.6 Slow Flight and Power Off Stalls]]
+[[PPL2.1 Slow Flight and Power Off Stalls]]
 
 ### Schedule
 1 hour ground, 2 hour flight, with practice on multiple flights

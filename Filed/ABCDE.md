@@ -9,6 +9,6 @@ A memory aid checklist for executing an emergency landing.
 - **Declare** - Squawk 7700 and tell ATC you're declaring an emergency
 - **Execute** - Fly in a spiral down to your chosen landing spot, arriving at the right altitude and direction to land with minimum speed and the fewest obstacles
 
-See [[SOLO.15 Emergency Landings]] for more detail.
+See [[PPL3.4 Emergency Landings]] for more detail.
 
 #acronym 

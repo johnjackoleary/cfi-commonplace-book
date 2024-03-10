@@ -3,7 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 ---
 ### Objective
-Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[SOLO.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.
+Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.
 
 ### Resources
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
@@ -13,20 +13,20 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.5 Towered Airport Operations]]
-- [[SOLO.12 Flying the Traffic Pattern and Go-Arounds]]
-- [[SOLO.7 Navigation Charts and National Airspace System]]
+- [[PPL1.5 Towered Airport Operations]]
+- [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
+- [[PPL2.2 Navigation Charts and National Airspace System]]
 
 ### Schedule
 Ground 2 hours, 1 hour sim/flight
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons [[XC.2 Advanced Airport Operations|XC.2]], [[XC.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[XC.4 Aircraft Performance and Weight+Balance|XC.4]], [[XC.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[XC.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+> Lessons [[PPL4.2 Advanced Airport Operations|XC.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|XC.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[PPL4.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
-1. Review [[SOLO.5 Towered Airport Operations]]
+1. Review [[PPL1.5 Towered Airport Operations]]
 2. Planning ahead to visit a new airport
 	1. Look up and note all the frequencies you'll need, including weather, tower, ground, and approach/departure
 		1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
@@ -67,7 +67,7 @@ Ground 2 hours, 1 hour sim/flight
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios
 7. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
-	1. Reminder of safety considerations from [[SOLO.13 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
+	1. Reminder of safety considerations from [[PPL3.2 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 8. On the ground, be vigilant and use the radio to broadcast your movements
 9. Departing the traffic pattern and airport
 	1. [[FAA]] endorses only straight-out or 45-degree (L/R matching pattern direction) departure

@@ -47,7 +47,7 @@ N/A
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
 7. Flight
-	1. Following roughly the [[PPL.0 Optional Introductory or Demo Flight]] lesson
+	1. Following roughly the [[PPL0.0 Optional Introductory or Demo Flight]] lesson
 8. Postflight Procedures
 	1. Tie-down technique
 	2. Securing aircraft

@@ -18,7 +18,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 
 ### Builds On
 - [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[XC.5 Advanced Weather Briefs and Preflight Planning]]
+- [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 2 hours 

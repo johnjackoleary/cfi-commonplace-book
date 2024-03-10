@@ -13,7 +13,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[SOLO.2 Four Fundamentals of Flight]]
+[[PPL1.2 Four Fundamentals of Flight]]
 
 ### Schedule
 1.5 hours ground, 1.5 hours flight

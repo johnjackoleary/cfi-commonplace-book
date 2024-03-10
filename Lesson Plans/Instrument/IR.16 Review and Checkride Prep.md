@@ -14,7 +14,7 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 
 ### Builds On
 - [[~ IR Lesson Plan Outline|All Lessons]]
-- [[PPL.3 Review and Checkride Preparation]]
+- [[PPL7.1 Review and Checkride Preparation]]
 
 ### Schedule
 Ground 1 hour, Flight 3 hours 

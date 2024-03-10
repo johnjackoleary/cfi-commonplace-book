@@ -12,8 +12,8 @@ Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[SOLO.4 Normal and Crosswind Takeoffs and Climbs]]
-- [[SOLO.13 Normal and Crosswind Approaches and Landings]]
+- [[PPL1.4 Normal and Crosswind Takeoffs and Climbs]]
+- [[PPL3.2 Normal and Crosswind Approaches and Landings]]
 
 ### Schedule
 Ground 1.0; Flight – multiple flights, with frequent practice
