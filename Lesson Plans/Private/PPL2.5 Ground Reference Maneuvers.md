@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson, maneuver
+aliases: [PPL.10, SOLO.10, PPL2.5]
 ---
 ### Objective
 Develop risk management and skills associated with ground reference maneuvers, including rectangular patterns, S-turns, and turns around a point.

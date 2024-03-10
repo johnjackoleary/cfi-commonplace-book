@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.18, XC.2, PPL4.2]
 ---
 ### Objective
 Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.
@@ -22,7 +23,7 @@ Ground 2 hours, 1 hour sim/flight
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons [[PPL4.2 Advanced Airport Operations|XC.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|XC.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[PPL4.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+> Lessons [[PPL4.2 Advanced Airport Operations|PPL4.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL4.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|PPL4.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|PPL4.5]], & [[PPL4.6 Pilotage and Dead Reckoning|PPL4.6]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 

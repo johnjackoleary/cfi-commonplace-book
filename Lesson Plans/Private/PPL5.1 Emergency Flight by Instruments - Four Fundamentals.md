@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.23, XC.8, PPL5.1]
 ---
 ### Objective
 Develop knowledge and skills required for emergency flight by reference to instruments.

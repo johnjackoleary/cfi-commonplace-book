@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.15, SOLO.15, PPL3.4]
 ---
 ### Objective
 Develop knowledge and skills associated with emergency landings, including choosing an emergency landing location and considerations for a survivable landing.

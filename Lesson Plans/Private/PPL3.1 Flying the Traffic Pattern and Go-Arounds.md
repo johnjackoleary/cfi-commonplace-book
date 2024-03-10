@@ -4,6 +4,7 @@ cssclasses:
 tags:
   - ppl
   - lesson
+aliases: [PPL.12, SOLO.12, PPL3.1]
 ---
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.

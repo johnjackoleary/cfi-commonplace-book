@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [XC.1, PPL4.1]
 ---
 ### Objective
 Learner understands the structure and flow of cross-country lessons, including an overview of aspects which make cross country ([[XC]]) flying different.
@@ -18,12 +19,12 @@ Ground 0.5 hours
 #### Cross Country Overview
 - Essentially means flying from point A to point B^[Official definition in [[FAR 61.1 Applicability and Definitions]]]
 - Adds a new dimension to flying, and requires pilot to be familiar with more subjects and procedures
-- Logging time: For [[PPL]]/[[CPL]]/[[IRA]] experience requirements, different than more general definiton
+- Logging time: For [[PPL]]/[[CPL]]/[[IRA]] experience requirements, different than more general definition
 	- Importantly, must include *"a point of landing that was at least a straight-line distance of more than 50 nautical miles from the original point of departure"*^[[[FAR 61.1 Applicability and Definitions]] and [[Keller 2009]]]^[Note though, how you break up a flight log is up to you, and this can allow certain flights to count partially as xc time -- see [[Van Zanen 2009]]]
 	- Good habit to note the furthest straight-line distance from original point of departure for each xc flight
 
 #### Lesson Structure and Flow
-- Lessons XC.2-XC.7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]] and [[XC Syllabus Topics On Flight Plan.pdf]]] cover key requirements to plan and execute a successful cross-country flight. These subjects include:
+- Lessons PPL4.2-PPL4.7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]] and [[XC Syllabus Topics On Flight Plan.pdf]]] cover key requirements to plan and execute a successful cross-country flight. These subjects include:
 	- More detail on airport procedures, including non-towered airports
 	- Planning and plotting a course, keeping in mind obstacles and airspace restrictions, and making use of radio navigation aids
 	- Computing and adjusting weight & balance with more passengers, luggage, and fuel
@@ -31,7 +32,7 @@ Ground 0.5 hours
 	- Getting briefings with key information ([[NWKRAFT]]) on your origin, destination, and points along the way
 	- Using pilotage and dead reckoning to fly without radio navigation aids
 	- Go/no-go decisions
-- Lessons XC.8-XC.10 cover handling the unexpected
+- Lessons PPL5.1-PPL5.4 cover handling the unexpected
 	- Resolving things that can go wrong
 	- Flying by reference to instruments, Emergency operations, Lost procedures and diversion to an alternate
 

@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.2, SOLO.2, PPL1.2]
 ---
 ### Objective
 Practice the fundamentals of straight and level (S&L) flight, turns, climbs, and descents; and controlling the airplane's attitude by visual reference to the horizon.

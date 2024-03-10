@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.25, XC.10, PPL5.4]
 ---
 ### Objective
 Develop skills and procedures to identify aircraft location, with on-board charts or equipment or with ATC help, and plan diversion to an appropriate alternate airport.

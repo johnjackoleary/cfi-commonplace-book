@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.21, XC.5, PPL4.5]
 ---
 ### Objective
 Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data. 
@@ -23,7 +24,7 @@ Ground 1.5 hour, practice on multiple flights
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons [[PPL4.2 Advanced Airport Operations|XC.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|XC.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[PPL4.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+> Lessons [[PPL4.2 Advanced Airport Operations|PPL4.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL4.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|PPL4.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|PPL4.5]], & [[PPL4.6 Pilotage and Dead Reckoning|PPL4.6]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 

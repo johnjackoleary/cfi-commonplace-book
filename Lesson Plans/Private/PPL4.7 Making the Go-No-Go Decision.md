@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [XC.7, PPL4.7]
 ---
 ### Objective
 Verify that the learner can fill out a complete navlog correctly on their own.  Understand the process to identify risks and to make an informed go/no-go decision about a flight.

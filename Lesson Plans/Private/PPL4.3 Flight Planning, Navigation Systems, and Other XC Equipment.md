@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson, sim
+aliases: [PPL.19, XC.3, PPL4.3]
 ---
 ### Objective
 Develop knowledge and ability to plot a course, then use onboard navigation equipment to follow it. Additionally, develop knowledge of [[ATC]] capabilities and ability to use ATC assistance with radar vectors.
@@ -19,7 +20,7 @@ Ground 2 hours, 1 hour sim
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
-> Lessons [[PPL4.2 Advanced Airport Operations|XC.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|XC.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|XC.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|XC.5]], & [[PPL4.6 Pilotage and Dead Reckoning|XC.6]] can be thought of as building out each part of a flight plan.
+> Lessons [[PPL4.2 Advanced Airport Operations|PPL4.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL4.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|PPL4.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|PPL4.5]], & [[PPL4.6 Pilotage and Dead Reckoning|PPL4.6]] can be thought of as building out each part of a flight plan.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 

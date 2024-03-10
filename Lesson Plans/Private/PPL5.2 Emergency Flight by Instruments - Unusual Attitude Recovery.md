@@ -1,6 +1,7 @@
 ---
 cssclass: lesson
 tags: ppl, lesson
+aliases: [PPL.26, PPL.1, PPL5.2]
 ---
 ### Objective
 Develop knowledge and skill in recognition of and recovery from unusual attitudes, will full- and partial-panel operations.
