@@ -1,3 +1,10 @@
+---
+cssclasses:
+  - lesson
+tags:
+  - hp
+  - syllabus
+---
 "Don't crush the egg"
 
 [[AFH Ch12]]
