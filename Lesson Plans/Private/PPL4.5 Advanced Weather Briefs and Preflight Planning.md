@@ -49,7 +49,7 @@ Ground 1.5 hour, practice on multiple flights
 		3. Abbreviated
 2. Other topics related to cross-country planning and flying:
 	1. [[Human Factors]]
-	2. How to share expenses? [[AC 61-142]] and [[FAR 61.113 Private Pilot Privileges and Limitations]]
+	2. How to share expenses? [[AC 61-142]] and [[FAR 61.113 Private Pilot Privileges and Limitations]]^[Good WINGS program online [here](https://www.faasafety.gov/gslac/ALC/course_content.aspx?cID=1093)]
 	3. Flight Services Enroute
 	4. [[VFR]] flight plans for search and rescue
 		1. When to use them
