@@ -3,8 +3,7 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* A [[high-performance]] airplane is defined as.... A complex airplane... means....
+* Transition to a complex airplane, or a high-performance airplane, can be demanding for many pilots.
 
 #source #handbook/afh 
-
-#todo :: add key quotes
