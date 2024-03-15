@@ -6,7 +6,7 @@ tags: [maneuver]
 > Always follow the aircraft's [[POH]].
 
 > [!warning] From Jack
-> Some users have reported the files not loading on Android mobile browsers. Not sure why that would be, it works in iOS and desktop.
+> Some users have reported the files not loading on Android mobile browsers. Not sure why that is, but it works in iOS and desktop.
 
 ### Private Pilot^[Red text is based on the [[Private Pilot ACS]]]
 [[C152 PPL Maneuver Quick Guide.pdf]]
@@ -27,4 +27,4 @@ tags: [maneuver]
 > 
 > #todo :: Remove this page when Obsidian Publish supports showing PDFs without embedding.
 
-.
+Loosely related to [[All Maneuvers Quick Reference]]
