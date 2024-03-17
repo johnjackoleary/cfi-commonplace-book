@@ -1,6 +1,6 @@
 > [!note] Text with a ~~strikethrough~~ is still relevant to a lesson, but was already listed in a prior lesson.
 
-| Section                                                               | FAA                                                             | Jeppesen Guided Flight Discovery Private Pilot |
+| Section                                                               | FAA                                                             | Jeppesen Guided Flight Discovery Private Pilot^[See note below for links] |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[PPL0.0 Optional Introductory or Demo Flight]]                        | [[AFH Ch1]], [[PHAK Ch1]]                                       | JPT 1A-1C                                                                                                                                                             |
 | [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]     | [[AFH Ch2]], [[PHAK Ch3]], [[PHAK Ch6]]                         | JPM 1-5                                                                                                                                                     |
