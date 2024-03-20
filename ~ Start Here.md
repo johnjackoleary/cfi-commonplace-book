@@ -1,9 +1,9 @@
 > [!note] From Jack
-> One of my favorite parts of aviation is the community it brings together. This project is meant to allow others in the community to bring together ideas, resources, and learnings.
+> This project is meant to allow anyone in the aviation community to contribute ideas, resources, and knowledge.
 > 
-> I'll also use it to teach students and hope that students will contribute their own insights as they learn.
+> I'll also use it to teach students and hope that students will add their own insights as they learn.
 > 
-> My hope is you find this CFI commonplace book a useful starting point for your goals, and that you feel welcome to contribute your own learnings back.
+> I hope you find this CFI commonplace book a useful starting point for your goals, and that you feel welcome to contribute your own learnings back.
 
 ## Are You A...
 ### Student Interested in a Syllabus
