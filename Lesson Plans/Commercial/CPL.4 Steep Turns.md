@@ -15,6 +15,10 @@ tags:
 ### Tolerance Differences
 - Use 50° bank
 
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]: 
+- Performance maneuvers
+
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
 
 ---

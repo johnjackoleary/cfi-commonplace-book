@@ -39,7 +39,7 @@ Ground 0.5 hours, Flight 2 hours
 	1. Demonstrate motion of pivot point at excessively high and low altitudes, while circling around a single pylon.
 	2. Determine PA to use for downwind entry to figure eight pattern, and practice maintaining PA while circling a single pylon.
 6. Flying the maneuver
-	1. Configure and set power for ~100 knots
+	1. Configure and set power for ~100 knots (see [[All Maneuvers Quick Reference]])
 	2. Enter from upwind side, at expected PA for estimated groundspeed. This is the highest altitude part of the maneuver.
 	3. Roll into turn as reference line aligns with pylon, approx. 30-40° bank.
 	4. Expect to descend as turn continues and groundspeed decreases.
@@ -57,6 +57,10 @@ Ground 0.5 hours, Flight 2 hours
 
 ### Completion Standards
 Client must calculate and enter at pivotal altitude, select suitable pylons which allow straight-and-level flight between (3-5 seconds), establish a bank angle <40°, and maintain pylon in line-of-sight without slips/skids. Client must be able to divide attention inside and outside aircraft.
+
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]: 
+- Ground reference maneuvers
 
 ### Required Homework
 - [ ] Memorize pivotal altitude formula

@@ -47,7 +47,8 @@ Ground 0.5 hours, Flight 2 hours
 Learner is able to rollout at the 180° point, ±10°, and just above a stall airspeed, then maintain that airspeed momentarily while avoiding a stall. Recover to cruise flight, maintaining altitude.
 
 ### Required Logbook Phraseology
-#todo add logbook info
+For [[FAR 61.127 Flight Proficiency]]: 
+- Performance maneuvers
 
 ### Required Homework
 None
