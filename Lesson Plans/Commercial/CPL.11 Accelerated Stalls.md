@@ -26,7 +26,7 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 	1. Stall background same as [[PPL2.3 Power-On Stalls and Spin Awareness]]
 	2. Why do we experience increased load factor in a level banked turn?
 	3. Why does stall speed increase with load factor?  By how much?
-	4. Why are stall in a banked turn dangerous
+	4. Why are stalls in a banked turn dangerous?
 	5. Per the ACS, you need to understand the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects.
 	6. What is stall speed at 45°, no flaps, in your airplane?
 2. Accelerated stall procedure

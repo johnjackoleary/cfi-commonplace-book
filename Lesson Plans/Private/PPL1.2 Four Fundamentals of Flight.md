@@ -51,7 +51,8 @@ N/A
 	1. Apply back-pressure to the controls, increasing lift
 	2. Sometimes add power, to overcome increased drag
 3. [[Adverse Yaw]] requires using the rudder to maintain coordinated flight
-4. Back-pressure results in load factor > 1.0, and increased stall speed
+4. [[Overbanking Tendency]] means you need to apply a bit of opposite aileron to keep the bank angle constant.
+5. Back-pressure results in load factor > 1.0, and increased stall speed
 
 **Discussion**
 - At any given bank angle, what load factor is required to maintain level flight?
