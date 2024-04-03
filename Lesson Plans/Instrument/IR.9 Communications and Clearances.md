@@ -9,7 +9,8 @@ tags:
 Learn proper IFR communications techniques, include copying clearances, normal communications, and lost communication procedures 
 
 ### References
-Appendix A, AIM Ch 6-4; FAR 91.185 (lost communications), IFH Appendix A (clearance shorthand)
+- [[FAR 91.185 Lost Comms]]
+- [[IFH]] Appendix A (clearance shorthand)
 
 ### Builds On
 N/A
@@ -46,7 +47,7 @@ Ground 1.5 hours
 		5. Estimated time of arrival at the next reporting point
 		6. Name of the reporting point after that
 2. Clearances 
-	1. When are clearances required? 14CFR 91.173
+	1. When are clearances required? [[FAR 91.173 ATC Clearance Reqd|FAR 91.173]]
 	2. How to obtain clearance
 		1. Clearance Delivery/GND at Towered Airport
 		2. FSS
