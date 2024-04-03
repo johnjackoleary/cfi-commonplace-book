@@ -9,7 +9,7 @@ tags:
 Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
 
 ### References
-AIM Ch 5-4, [[IFH]] Ch 10, IPH Ch. 4, FAR 91.175 
+- [[FAR 91.175 IFR Takeoff and Landing]] 
 
 ### Resources
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
@@ -39,7 +39,7 @@ Ground 1.5 hours
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
 	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
 3. Nav equipment considerations
-	1. Use of GPS maps and guidance for initial approach (AC 90-108)
+	1. Use of GPS maps and guidance for initial approach ([[AC 90-108]])
 	2. Methods for switching CDI from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
@@ -55,7 +55,7 @@ Ground 1.5 hours
 		3. N5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
 5. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
-	2. VDP
+	2. [[VDP]]
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 
 			1. Take the AGL value of the MDA and divide it by 300
@@ -63,16 +63,16 @@ Ground 1.5 hours
 	4. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
-6. At DA – what is required to descend below DA or MDA? (FAR 91.175) 
+6. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
 	1. Continuously in position to land, with normal descent rate and maneuvers 
 	2. AND Flight visibility >= minimum 
 	3. AND any one of:
-		1. ALS (approach light system), although only to TDZE+100’
+		1. ALS (approach light system), although only to [[TDZE]]+100’
 		2. Threshold, threshold markings, threshold lights
 		3. Runway end identifier lights
 		4. Runway, runway markings, runway lights
 		5. Touchdown zone, touchdown zone markings, touchdown zone lights
-		6. VGSI
+		6. [[VGSI]]
 	4. Threshold
 7. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At DA or MAP, if references above are not visible 
