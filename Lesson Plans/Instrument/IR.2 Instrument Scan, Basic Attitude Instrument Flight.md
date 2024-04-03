@@ -9,8 +9,7 @@ tags:
 Understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure. 
 
 ### References
-- Flight Deck Poster/Diagram
-	- #todo :: link this
+- Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[IFH]] such as [[Rectangular Scan.jpeg]])
 
 ### Builds On
 [[IR.1 Introduction and Instrument Systems]]
