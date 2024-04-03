@@ -6,14 +6,16 @@ tags:
   - lesson
 ---
 ### Objective
-Develop proficiency in flying RNAV (GPS) approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
+Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
 
 ### References
-FAR 91.175, AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, POH/AFM, GPS manual 
+- [[FAR 91.175 IFR Takeoff and Landing]]
+- POH/AFM
+- GPS manual 
 
 ### Builds On
-[[IR.5B GPS Navigation]]
-[[IR.10 Approach Charts and Procedures]]
+- [[IR.5B GPS Navigation]]
+- [[IR.10 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 30m, Sim – 2.5 hours 

@@ -9,7 +9,7 @@ tags:
 Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
 
 ### References
-- [[FAR 91.175 IFR Takeoff and Landing]] 
+- [[FAR 91.175 IFR Takeoff and Landing]]
 
 ### Resources
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
