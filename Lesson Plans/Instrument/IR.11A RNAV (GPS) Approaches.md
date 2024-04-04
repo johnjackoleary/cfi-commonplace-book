@@ -8,7 +8,7 @@ tags:
 ### Objective
 Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
 
-### References
+### Resources
 - [[FAR 91.175 IFR Takeoff and Landing]]
 - POH/AFM
 - GPS manual 

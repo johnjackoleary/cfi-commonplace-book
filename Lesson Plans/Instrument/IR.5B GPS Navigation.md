@@ -8,7 +8,7 @@ tags:
 ### Objective
 Develop detailed understanding of GPS system and navigation; become proficient with particular GPS installation, displays, and autopilot interfaces; become proficient at using GPS in-flight, including modifying flight plan and changing approaches. 
 
-### References
+### Resources
 - [[POH]]/[[AFM]]
 - GPS manual
 

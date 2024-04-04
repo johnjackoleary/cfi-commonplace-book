@@ -8,7 +8,7 @@ tags:
 ### Objective
 Learn proper IFR communications techniques, include copying clearances, normal communications, and lost communication procedures 
 
-### References
+### Resources
 - [[FAR 91.185 Lost Comms]]
 - [[IFH]] Appendix A (clearance shorthand)
 

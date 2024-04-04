@@ -8,7 +8,7 @@ tags:
 ### Objective
 Develop proficiency in using [[SID]]s, [[STAR]]s, [[ODP]]s. Understand takeoff minimums and required aircraft performance for Departure Procedures. 
 
-### References
+### Resources
 - [[TERPS]]
 - [[TPP]] Supplemental
 

@@ -8,7 +8,7 @@ tags:
 ### Objective
 VOR orientation, course intercepts and tracking, and use of HSI, if available. Autopilot systems and operation. 
 
-### References
+### Resources
 - [[Instrument ACS]] section V
 - [[POH]]/[[AFM]]
 

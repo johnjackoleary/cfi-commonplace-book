@@ -8,7 +8,7 @@ tags:
 ### Objective
 Review instrument systems and diagnosis of instrument or system failures. To develop student knowledge and skill in partial panel attitude instrument flight (including instrument approaches), timed turns and magnetic compass turns.
 
-### References
+### Resources
 None
 
 ### Builds On

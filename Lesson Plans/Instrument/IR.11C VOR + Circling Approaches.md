@@ -8,7 +8,7 @@ tags:
 ### Objective
 Develop proficiency in flying VOR and circling approaches. 
 
-### References
+### Resources
 - [[FAR 91.175 IFR Takeoff and Landing]]
 - POH/AFM
 

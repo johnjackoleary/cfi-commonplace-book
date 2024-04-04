@@ -8,7 +8,7 @@ tags:
 ### Objective
 Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
 
-### References
+### Resources
 - [[FAR 91.175 IFR Takeoff and Landing]]
 
 ### Resources

@@ -8,7 +8,7 @@ tags:
 ### Objective
 Review emergency procedures, review knowledge test items, practice and prepare for checkride, including phase check and/or practice checkride. 
 
-### References
+### Resources
 - [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
 - [[IFR Regulatory Review Assignment]]
 
