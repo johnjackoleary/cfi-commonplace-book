@@ -11,7 +11,7 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 > [!note]
 > This lesson is designed as both an introduction to [[IFR]] training and an in-depth review of instrument systems and pre-flight likely covered in [[PPL]] training.
 
-### References
+### Resources
 - [[IR.A Instrument Rating Flight Experience Requirements]]
 - [[POH]]/[[AFM]] 
 

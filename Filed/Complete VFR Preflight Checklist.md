@@ -50,6 +50,8 @@ This is a complete list of all preflight actions and checks (everything the pilo
 > [!tip]
 > Structure for this is based on [[PAVE]].
 
+This checklist is similar to the [[Complete IFR Preflight Checklist]].
+
 
 [^insp]: Any preflight inspection will include verifying the following:
   . Primary/Secondary flight controls

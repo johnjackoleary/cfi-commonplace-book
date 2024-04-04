@@ -4,7 +4,7 @@
 ***Author*** :: [[FAA]]
 
 #### Key Quotes
-* No person may operate a civil aircraft under IFR using the VOR system... unless... Has been operationally checked within the preceding 30 days, and was found to be within the limits of the permissible
+* No person may operate a civil aircraft under [[IFR]] using the [[VOR]] system... unless... Has been operationally checked within the preceding 30 days, and was found to be within the limits of the permissible
 * each person conducting a VOR check
 	* a test signal... plus or minus 4 degrees
 	* point on the airport surface designated as a VOR system checkpoint by the Administrator... plus or minus 4 degrees

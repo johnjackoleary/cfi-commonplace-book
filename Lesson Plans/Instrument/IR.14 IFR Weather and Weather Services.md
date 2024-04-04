@@ -8,12 +8,9 @@ tags:
 ### Objective
 Develop satisfactory knowledge, risk management, and skills associated with obtaining, understanding, and applying weather information for a flight under IFR. 
 
-### References
-- [[AIM 7]]
+### Resources
 - [[Aviation Weather Handbook]]
 - [[Risk Management Handbook]]
-- [[IFH]]
-- [[AC 91-74]]
 - [[Instrument ACS]] Section 1.B
 
 ### Builds On

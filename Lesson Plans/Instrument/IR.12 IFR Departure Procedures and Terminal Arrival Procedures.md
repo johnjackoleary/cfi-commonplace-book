@@ -6,10 +6,11 @@ tags:
   - lesson
 ---
 ### Objective
-Develop proficiency in using [[SID]]s, STARs, ODPs. Understand takeoff minimums and required aircraft performance for Departure Procedures. 
+Develop proficiency in using [[SID]]s, [[STAR]]s, [[ODP]]s. Understand takeoff minimums and required aircraft performance for Departure Procedures. 
 
-### References
-AIM Ch 5-4, IFH Ch 10, IPH Ch. 4, FAR 91.175 
+### Resources
+- [[TERPS]]
+- [[TPP]] Supplemental
 
 ### Builds On
 [[IR.10 Approach Charts and Procedures]]
@@ -25,11 +26,11 @@ Ground 1.5 hours, flight 3 hours
 		1. Obstacle Clearance Surface (40:1) 152ft/nm
 		2. Required Climb Gradient 200ft/nm
 		3. Low, Close in Obstacles
-	3. [[DP]]s: [[ODP]], [[SID]], [[DVA]
+	3. [[DP]]s: [[ODP]], [[SID]], [[DVA]]
 		1. SIDs
-			1. Vectors - KFAT YOSEMITE 3
-			2. Pilot Nav - KSFO MOLEN 8, KCCR BUCHANAN 2 
-			3. RNAV - KSFO TRUKN 2, KSJC SPTNS 1
+			1. Vectors - [KFAT YOSEMITE 3](https://aeronav.faa.gov/d-tpp/2403/00162YOSEMITE.PDF)
+			2. Pilot Nav - [KSFO MOLEN 9](https://aeronav.faa.gov/d-tpp/2403/00375MOLEN.PDF), [KCCR BUCHANAN 2](https://aeronav.faa.gov/d-tpp/2403/05320BUCHANAN.PDF) 
+			3. RNAV - [KSFO TRUKN 2](https://aeronav.faa.gov/d-tpp/2403/00375TRUKN.PDF), [KSJC SPTNS 1](https://aeronav.faa.gov/d-tpp/2403/00693SPTNS.PDF)
 		2. ODP
 			1. KOAK (Textual)
 			2. KSTS (Textual)
@@ -40,8 +41,8 @@ Ground 1.5 hours, flight 3 hours
 			2. KIWA DVA 
 	4. Non-Standard Takeoff Minimums
 	5. VFR-to-IFR departures^[One example of this is the [departure from KSQL](https://www.sancarlosairport.org/Departure-Guidance-030222.pdf)]
-	6. VCOA
-3. Standard Terminal Arrivals (STARS)  
+	6. [[VCOA]]
+3. Standard Terminal Arrivals ([[STAR]]s)  
 	1. KSFO - BDEGA 3 RNAV
 	2. KSFO - POINT REYES 3 
 	3. KPIT - JESEY 3 RNAV
