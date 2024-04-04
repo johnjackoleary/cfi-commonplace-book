@@ -13,7 +13,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] Seat adjusted, cabin organized
 - [ ] POH-specific preflight inspection completed[^insp]
 - [ ] Weight and Balance within limits
-- [ ] Confirm sufficient fuel, with reserves
+- [ ] Confirm sufficient fuel, with reserves (§ 91.151)
 - [ ] All required equipment operational
 	- [ ] FAA-required
 		- [ ] Day VFR: [[A TOMATO FLAMES]] or [[A GOOSE A CAT]]  (§ [[FAR 91.205 Instrument and Equipment Requirements|91.205]])
