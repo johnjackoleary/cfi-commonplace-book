@@ -4,4 +4,4 @@ Refers to an aircraft that has no radio, has had radio failure, or isn't respond
 
 Note, one possible backup is to make a phone call to ATC.  See [[ATC Phone Numbers]].
 
-#glossary #squawk-code
+#glossary
