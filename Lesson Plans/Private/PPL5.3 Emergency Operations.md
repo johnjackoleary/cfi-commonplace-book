@@ -86,7 +86,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Electrical failure
 		- The plane still flies; use backup radio or call on cell phone; land as soon as practical
 	- Radio failure (you can't hear them, or they can't hear you)
-		- Squawk 7600; proceed to destination if safe; call tower/[[tracon]] on cell phone if able; look for light signals
+		- Squawk 7600; proceed to destination if safe; call tower/[[TRACON]] on cell phone if able ([[ATC Phone Numbers]]); look for light signals
 	- Instruments don't seem to be reading correctly
 		- Are altimeter and VSI "stuck" even when you change altitude?
 			- **(POH)** Static source is blocked; try alternate static source
@@ -94,6 +94,8 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 			- Pitot tube is blocked
 		- Are the vacuum-powered instruments dead? (Which ones are they in your plane?)
 			- Vacuum pump is inop
+		- PFD failure
+			- Use reversionary mode to display critical instruments on the MFD
 	- Plane isn't handling correctly
 		- Debug if control surfaces have failed, or flaps aren't extending, or one is stuck
 		- **(POH)** Learn to control the plane with what you have; don't forget trim can help; make a *precautionary landing*
@@ -104,6 +106,8 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Flew into a cloud, or lost minimum VFR visibility
 		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
 	- Icing - **(POH)** Reverse course or choose a different altitude; request help on the radio; deploy all anti-ice measures.  See POH for landing with heavy ice accumulation
+	- Door or window opens in flight
+		- Not an emergency.  Close it, or land normally.
 
 #### Key Procedures in Emergencies
 These are the emergency procedures referenced in the section above.

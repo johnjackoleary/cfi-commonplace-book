@@ -22,7 +22,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 
 ### Lesson Elements
 1. Goal of landing: Smoothly transfer weight from wings to wheels
-2. Determining landing performance and limitations ([[POH]])
+2. Determining landing performance and limitations ([[POH]] Chapter 5)
 3. Other Safety Concerns: Awareness of traffic, obstructions, hazards, wake turbulence -- all factors which may require a go-around
 	1. Collision Avoidance
 		1. Clearing Procedures
