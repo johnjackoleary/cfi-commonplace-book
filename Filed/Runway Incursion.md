@@ -25,13 +25,17 @@ From *[Aviation International News](https://www.ainonline.com/aviation-news/gene
 
 **Mitigations:**
 In short: better planning and preparation.
-- Understand airport diagram and likely taxi routes through airport
+- Familiarize yourself with the airport diagram and likely taxi routes through airport
+- Review all NOTAMs for the airport
+- Write down taxi instructions as they are given, and read them back
 - Exercise a [[Sterile Cockpit]]
 - Review and understand [[Filed/Hotspot|hotspots]], which can be found in airport diagrams ([[KSNA Airport Diagram with Hotspots.pdf|example]]), the Airport/Facility Directory (A/FD) ([[KSNA Hotspot Descriptions.jpeg|example]]), and instrument approach books
-- Know and watch for runway hold position markings ([[Runway Hold Position Marking.png|image]]). If you haven't been cleared to cross it (or you aren't sure), hold short and ask.
+- Know and watch for runway hold position markings ([[Runway Hold Position Marking.png|image]]). If you haven't been cleared to cross it (or you aren't sure), hold short (with no part of the airplane over the first line) and ask.
+- Even when given instructions to "cross" a runway, or to "line up and wait", or to depart, pause at the hold-short position and look both ways.  Trust but verify!
 - If in doubt about your route or where you are: **STOP!** It's ok to ask the controller or request [[progressive taxi]] instructions.
 
 # Additional Resources
+- [[PHAK Ch14]] pages 14-31 - 14-36
 - [[FAA Website on Runway Incursions]]
 - [[Runway Safety]]
 
