@@ -23,3 +23,33 @@ Seems ot be lots of good stuff here: https://www.avweb.com/topics/features/avweb
 > No matter what your POH says, limitation or otherwise, I suggest you consider 400°F an absolute redline CHT on any cylinder with a bayonet probe feeding an all-cylinder monitor (spark plug thermocouple types may show higher). There is mounting evidence that factory limits on CHT are much too high. In any event, try to keep the time above such temperatures at a minimum.
 
 #todo :: Populate this
+
+---
+
+---
+### Objective
+Build the ground knowledge required to safely and proficiently operated a high performance (greater than 200 HP) engine. Begin applying this knowledge to traffic pattern operations.
+
+### Reading
+- [[AFH Ch12]]
+
+### Resources
+- [[G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]]
+- [[G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
+
+### Builds On
+- [[G1.1 G1000 Usage]]
+
+### Schedule
+1.5hr ground, flights until proficient
+
+### Lesson Elements
+
+
+### Completion Standards
+
+### Required Homework
+None
+
+### Recommended Homework 
+None
