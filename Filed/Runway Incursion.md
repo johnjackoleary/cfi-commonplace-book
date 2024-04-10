@@ -36,6 +36,7 @@ In short: better planning and preparation.
 
 # Additional Resources
 - [[PHAK Ch14]] pages 14-31 - 14-36
+- [[AIM 2]] Section 2-3, Airport Marking Aids and Signs
 - [[FAA Website on Runway Incursions]]
 - [[Runway Safety]]
 
