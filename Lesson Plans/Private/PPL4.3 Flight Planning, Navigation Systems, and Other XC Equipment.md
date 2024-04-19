@@ -38,12 +38,12 @@ Ground 2 hours, 1 hour sim
 	3. Images of [various antennas on the aircraft](https://www.aopa.org/training-and-safety/students/presolo/special/antennas) from [[AOPA]]
 4. [[Transponder]]s, and altitude reporting equipment
 	1. [[ADS-B]]
-5. Autopilot
-	1. preflight
-	2. single/dual axis
-6. ATC services and assistance available
+5. ATC services and assistance available
 	1. Flight following (and [[Flight Following Radio Communication Examples]])
 	2. Airport Surveillance Radar ([[ASR]])
+6. Autopilot
+	1. preflight
+	2. single/dual axis
 
 ### Completion Standards
 Client should develop knowledge of navigation equipment on board their training aircraft. Client should be familiar with services available from ATC, and know how and when to request assistance.
