@@ -38,7 +38,7 @@ While many airspaces will be familiar, understanding [[MOA]]s, [[TFR]]s, and oth
 > [!info] See [[PPL2.2 Navigation Charts and National Airspace System]] for more info.
 
 #### FAA Charts and Chart Supplement
-While similar in content, make sure you can effectively use FAA Charts and Chart Supplements for navigation and information.
+Though similar in content, make sure you can effectively use FAA Charts and Chart Supplements for navigation and information.
 
 > [!info] See [[PPL2.2 Navigation Charts and National Airspace System]] for more info.
 
