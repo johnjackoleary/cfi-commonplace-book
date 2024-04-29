@@ -34,14 +34,29 @@ ATC has no authority or responsibility to control air traffic there, but VFR wea
 
 ### Special Use Airspace
 - Prohibited areas: Flight prohibited (e.g. White House)
-- Restricted areas: Not prohibited, but has restrictions
+- Restricted areas: Not wholly prohibited, but has restrictions. May be extremely hazardous to enter without permission of the controlling agency. 
 - Warning areas: Similar to restricted, but not solely US jurisdiction (e.g. over ocean)
-- Military operation areas ([[MOA]]s)
+- Military operation areas ([[MOA]]s): Separate certain military operations from IFR traffic. VFR pilots should exercise caution if traversing a MOA
+	- From [[AIM 3]]
+	- The activity status (active/inactive) of MOAs may change frequently. Therefore, pilots should contact any [[FSS]] within 100 miles of the area to obtain accurate real­time information concerning the MOA hours of operation. 
+	- Prior to entering an active MOA, pilots should contact the controlling agency for traffic advisories
 - Alert areas: Use caution for high volume of pilot training or unusual aerial activities
 - Controlled firing areas ([[CFA]]s): Not charted, as activities suspended when aircraft spotted
+- National Security Areas ([[NSA]]s): Pilots requested to avoid flight through for increased security and safety of ground facilities
+
+### Published VFR Routes
+- VFR Flyways
+- VFR Corridors (eg over KLAX)
+- Class B Airspace VFR Transition Routes
+
 
 ### Other Airspace
 Other airspaces also exist, e.g. near Livermore over the research lab. Make sure to check for these before you fly!
+
+- TFRs
+- Terminal Radar Service Area (TRSA) 
+- Special Air Traffic Rules (SATR) and Special Flight Rules Area (SFRA)
+- MTRs
 
 ## Requirements for Airspace Operations
 ### Equipment
