@@ -6,23 +6,25 @@
 
 # Details
 
-1. [[GNSS]]
-	1. [[GPS]] Constellation
-		1. 24 Satellites, 12,000 miles above sfc of earth, each orbit earth 2x per 24 hours
-	2. Calculating position
-		1. Calculates distance between satellites and receivers via atomic clock
-2. [[RAIM]] + Satellites Required
-	1. 4 Satellites for 3D
-	2. RAIM requires 5 satellites or 4 + barometric altimeter input
-	3. FDE (Fault Detection + Exclusion) 
-		1. Excludes a failed satellite from the position solution; GPS receivers capable of FDE require 6 satellites or 5 satellites with baro-aiding
-3. [[WAAS]] (TSO-145,TSO-146)
-	1. Wide Area Augmentation System
-	2. Uses reference stations with known locations to determine GPS error for a wide area
-	3. Error info sent to WA Master Station, then uplinked to Geosynchronous Satellite that broadcasts to WAAS receivers
+1. Infrastructure and Features
+	1. [[GNSS]]
+		1. [[GPS]] Constellation
+			1. 24 Satellites, 12,000 miles above sfc of earth, each orbit earth 2x per 24 hours
+		2. Calculating position
+			1. Calculates distance between satellites and receivers via atomic clock
+	2. [[RAIM]] + Satellites Required
+		1. Receiver Autonomous Integrity Monitoring
+		2. 4 Satellites for 3D
+		3. RAIM requires 5 satellites or 4 + barometric altimeter input
+		4. FDE (Fault Detection + Exclusion) 
+			1. Excludes a failed satellite from the position solution; GPS receivers capable of FDE require 6 satellites or 5 satellites with baro-aiding
+	4. [[WAAS]] (TSO-145,TSO-146)
+		1. Wide Area Augmentation System
+		2. Uses reference stations with known locations to determine GPS error for a wide area
+		3. Error info sent to WA Master Station, then uplinked to Geosynchronous Satellite that broadcasts to WAAS receivers
+2. VFR Usage
+	1. VFR Waypoints
 
-#todo :: add info on [[RAIM]]
-#todo :: connect this with #ir lessons
 #todo :: add info on VFR Waypoints ([[PHAK Ch16]])
 
 ## GPS
@@ -30,12 +32,13 @@
 https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss/gps/howitworks
 
 ### Using an Aircraft's GPS
-1. preflight
-2. using and entering flight plans
+1. Preflight
+2. Using and entering flight plans
 
 > [!tip] Many GPS devices have simulators you can use to practice at home. For instance, for the [GNC 355 simulator](https://www.garmin.com/en-US/p/685256) from Garmin.
 
 ### Using and Interpreting [[CDI]]
+- Distance from route, unlike radial distance from [[VOR]]
 
 ### Common Issues
 #todo :: add to this
@@ -44,6 +47,9 @@ https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/tech
 ### How WAAS Works
 #todo :: add to this
 https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss/waas/howitworks
+
+## RAIM
+#todo :: add info on [[RAIM]]
 
 ### Common Issues
 Well, not so common, is a WAAS outage: https://www.nstb.tc.faa.gov/
