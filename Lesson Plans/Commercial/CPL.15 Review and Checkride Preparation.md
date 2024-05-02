@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Prepare for Practical Test oral and flight portions. Identify any weaks areas for additional focus.
+Prepare for Practical Test oral and flight portions. Identify any weak areas for additional focus.
 
 ### References
 - [[Commercial ACS]]
@@ -29,7 +29,7 @@ Ground 3 hours, Flight as necessary
 	1. Also helpful to read [[ACS Tips for Evaluators]]
 2. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
-3. Practice for oral potion of practical test
+3. Practice for oral portion of practical test
 	1. Books available for preparation
 	2. Practice oral exams with other students and instructors
 4. Practical test maneuvers to practice and polish - [[CPL.C Ideas for Solo Commercial Practice]]

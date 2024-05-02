@@ -33,6 +33,8 @@ https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/tech
 1. preflight
 2. using and entering flight plans
 
+> [!tip] Many GPS devices have simulators you can use to practice at home. For instance, for the [GNC 355 simulator](https://www.garmin.com/en-US/p/685256) from Garmin.
+
 ### Using and Interpreting [[CDI]]
 
 ### Common Issues

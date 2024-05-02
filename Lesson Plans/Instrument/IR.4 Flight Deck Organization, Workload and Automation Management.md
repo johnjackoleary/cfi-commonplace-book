@@ -8,11 +8,11 @@ tags:
 ### Objective
 Understand the ways to utilize different tools in the flight deck, understand the benefits and risks associated with automation management, and learn techniques to efficiently manage workflows during IFR flight. 
 
-### References
+### Resources
 None
 
 ### Builds On
-- [[PPL.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+- [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 ### Schedule
 Ground 1 hour, sim/airplane 1 hour

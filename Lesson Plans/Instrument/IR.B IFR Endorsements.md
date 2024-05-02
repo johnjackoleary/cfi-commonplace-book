@@ -12,7 +12,6 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 I certify that \[First name, MI, Last name\] has received and logged the required flight time/training of § 61.39(a) in preparation for the practical test within 2 calendar-months preceding the date of the test and has satisfactory knowledge of the subject areas in which \[he or she\] was shown to be deficient by the FAA Airman Knowledge Test Report. I have determined \[he or she\] is prepared for the Instrument–\[airplane, helicopter, or powered lift\] practical test.
 
-
 ***Source***: [[AC 61-65]]
 
 #endorsement 

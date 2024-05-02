@@ -1,19 +1,10 @@
 ## Variation
-> [!summary] From [[PHAK Ch8]]
-> The magnetic North Pole to which the magnetic compass points is not collocated with the geographic North Pole, but is some 1,300 miles away....
-> 
-> In aerial navigation, the difference between true and magnetic directions is called variation.
-
-![[Compass Variation Across US.jpeg]]
+See [[Magnetic Variation]]
 
 ---
 
 ## Deviation
-> [!summary] From [[PHAK Ch8]]
-> The magnets in a compass align with any magnetic field. Some causes for magnetic fields in aircraft include flowing electrical current, magnetized parts, and conflict with the Earth’s magnetic field. These aircraft magnetic fields create a compass error called deviation.
-
-![[Compass Deviation Explanation.jpeg]]
-![[Compass Deviation Card.jpeg]]
+See [[Magnetic Deviation]]
 
 ---
 

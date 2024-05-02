@@ -16,17 +16,17 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 
 ### Builds On
 - [[CPL.10 Slow Flight and Stalls]]
-- [[PPL.8 Power-On and Power-Off Stalls]]
+- [[PPL2.3 Power-On Stalls and Spin Awareness]]
 
 ### Schedule
 0.5-hour ground, 1.0-hour flight, with practice on multiple flights
 
 ### Lesson Elements
 1. Review the aerodynamic principles
-	1. Stall background same as [[PPL.8 Power-On and Power-Off Stalls]]
+	1. Stall background same as [[PPL2.3 Power-On Stalls and Spin Awareness]]
 	2. Why do we experience increased load factor in a level banked turn?
 	3. Why does stall speed increase with load factor?  By how much?
-	4. Why are stall in a banked turn dangerous
+	4. Why are stalls in a banked turn dangerous?
 	5. Per the ACS, you need to understand the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects.
 	6. What is stall speed at 45°, no flaps, in your airplane?
 2. Accelerated stall procedure

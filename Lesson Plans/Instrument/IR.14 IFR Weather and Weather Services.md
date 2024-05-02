@@ -8,17 +8,14 @@ tags:
 ### Objective
 Develop satisfactory knowledge, risk management, and skills associated with obtaining, understanding, and applying weather information for a flight under IFR. 
 
-### References
-- [[AIM 7]]
+### Resources
 - [[Aviation Weather Handbook]]
 - [[Risk Management Handbook]]
-- [[IFH]]
-- [[AC 91-74]]
 - [[Instrument ACS]] Section 1.B
 
 ### Builds On
 - [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[PPL.21 Advanced Weather Briefs and Preflight Planning]]
+- [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 2 hours 

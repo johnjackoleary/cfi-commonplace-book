@@ -8,7 +8,7 @@ tags:
 ### Objective
 Further develop instrument scan procedures, and practice all phases of IFR flight, with transitions between the various maneuvers. Develop and document “gait” chart for the aircraft in use. 
 
-### References
+### Resources
 None
 
 ### Builds On

@@ -6,6 +6,4 @@
 * During the day, to fly after that for at least 30 minutes; or
 * At night, to fly after that for at least 45 minutes.
 
-#source
-
-#todo :: add key quotes
+#source #far

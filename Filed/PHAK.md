@@ -1,6 +1,6 @@
 ***Meaning*** :: <u>P</u>ilot's <u>H</u>andbook of <u>A</u>eronautical <u></u>nowledge
 
-Chapters:
+***Chapters***:
 - [[PHAK Ch1]]
 - [[PHAK Ch2]]
 - [[PHAK Ch3]]

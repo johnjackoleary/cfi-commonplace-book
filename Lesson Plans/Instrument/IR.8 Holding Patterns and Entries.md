@@ -8,7 +8,7 @@ tags:
 ### Objective
 Develop proficiency in flying holding patterns, including recommended entry procedures, while satisfying ACS standards. 
 
-### References
+### Resources
 - [[POH]]/[[AFM]]
 - GPS manual
 - [Practice problems](https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141) from thebackseatpilot.com

@@ -9,3 +9,5 @@ From [[FAR 61.56 Flight Review]]:
 
 > [!tip]
 > The goal is to get the learner back to roughly the same proficiency they were at their checkride. A [[BFR]] is not pass/fail -- it is about training as needed to regain proficiency.
+
+> [!note] [[TSA Endorsement]] is not required for a [[BFR]].

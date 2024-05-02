@@ -15,8 +15,8 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 - [How to REALLY fly a Lazy Eight](https://www.youtube.com/watch?v=6oQOUiHhjaY)
 
 ### Builds On
-- [[PPL.10 Ground Reference Maneuvers]]
-- [[PPL.6 Maneuvering During Slow Flight]]
+- [[PPL2.5 Ground Reference Maneuvers]]
+- [[PPL2.1 Slow Flight and Power Off Stalls]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours
@@ -59,6 +59,10 @@ Client must fly maneuver to [[ACS]] standards:
 - Approximately 30° bank at the steepest point.
 - Constant change of pitch and roll rate and airspeed.
 - At the 180° point: ±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading.
+
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]: 
+- Performance maneuvers
 
 ### Required Homework
  None

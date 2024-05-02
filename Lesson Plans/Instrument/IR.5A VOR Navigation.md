@@ -8,12 +8,12 @@ tags:
 ### Objective
 VOR orientation, course intercepts and tracking, and use of HSI, if available. Autopilot systems and operation. 
 
-### References
+### Resources
 - [[Instrument ACS]] section V
 - [[POH]]/[[AFM]]
 
 ### Builds On
-- [[PPL.19 Flight Planning, Navigation Systems, and Other XC Equipment]]
+- [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 - [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
 
 ### Schedule

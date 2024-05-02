@@ -20,3 +20,14 @@
   --accent-l: 33%;
   /* ... CSS color variables for when dark mode is enabled */
 }
+
+/*From https://forum.obsidian.md/t/obsidian-publish-resources/74582/4*/
+/*For hiding footer*/
+.site-footer a {
+  opacity: 0;
+  transition: 700ms;
+}
+.site-footer:hover a {
+  opacity: 1;
+  transition: 700ms;
+}

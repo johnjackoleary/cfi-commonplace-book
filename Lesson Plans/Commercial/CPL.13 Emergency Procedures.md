@@ -6,15 +6,11 @@ tags:
   - lesson
 ---
 > [!note]
-> This lesson is identical to similar [[PPL]] lessons. Those lessons have been embedded here for convenience.
+> This lesson is identical to [[PPL3.4 Emergency Landings]] and [[PPL5.3 Emergency Operations]].  Please reference those lessons.
+
+### References
+- [[Commercial ACS]] Sec IX.A,B,C,D
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
 
 ---
-
-### Relevant [[PPL]] Lessons
-![[PPL.15 Emergency Landings]]
-
----
-
-![[PPL.24 Emergency Operations]]
