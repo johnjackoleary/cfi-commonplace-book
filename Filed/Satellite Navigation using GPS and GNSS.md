@@ -22,10 +22,7 @@
 		1. Wide Area Augmentation System
 		2. Uses reference stations with known locations to determine GPS error for a wide area
 		3. Error info sent to WA Master Station, then uplinked to Geosynchronous Satellite that broadcasts to WAAS receivers
-2. VFR Usage
-	1. VFR Waypoints
-
-#todo :: add info on VFR Waypoints ([[PHAK Ch16]])
+2. VFR Waypoints: Named as *VPxxx* and can be used to aid in GPS navigation^[A lot more information is available at [VFR Waypoint Chart Program](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap12_section_8.html)]
 
 ## GPS
 ### How GPS Works
