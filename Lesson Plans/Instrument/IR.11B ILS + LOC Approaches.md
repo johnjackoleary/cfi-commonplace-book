@@ -32,7 +32,7 @@ Ground 30m, simulator – 2.5 hours
 	1. LDA
 	2.  Back Course
 4. Errors
-	1. Intercepting the GS from above increases both the possibility of a non-stabilized approach and the risk of capturing a false GS. - [[IFH]] addendum to be added to ch9
+	1. Intercepting the GS from above increases both the possibility of a non-stabilized approach and the risk of capturing a false GS. - [[IFH]] addendum to be added to Ch9
 
 ### Completion Standards
 Student must demonstrate proficiency at understanding ILS approaches and brief an ILS approach plate. Student should be introduced to ILS approaches by flying multiple approaches in an approved simulator
