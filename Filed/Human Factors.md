@@ -16,7 +16,7 @@ All of these subjects are detailed in [[PHAK Ch17]].
 | PA.I.H.K1l | Dissolved nitrogen in the bloodstream after scuba dives ([[Scuba Dive Times]]) |
 | PA.I.H.K2  | Regulations regarding use of drugs and alcohol ([[FAR 91.17 Alcohol or Drugs]])                        |
 | PA.I.H.K3  | Effects of alcohol, drugs, and over-the-counter medications             |
-| PA.I.H.K4  | [[Aeronautical Decision-Making (ADM)]]                                 |
+| PA.I.H.K4  | [[ADM\|Aeronautical Decision-Making]]                                 |
 
 #todo :: add [[Night Visual Illusions]]
 
