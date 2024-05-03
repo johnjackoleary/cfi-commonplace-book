@@ -38,7 +38,7 @@ https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/tech
 > [!tip] Many GPS devices have simulators you can use to practice at home. For instance, for the [GNC 355 simulator](https://www.garmin.com/en-US/p/685256) from Garmin.
 
 ### Using and Interpreting [[CDI]]
-- Distance from route, unlike radial distance from [[VOR]]
+- Distance from route (in nm), unlike angular displacement from [[VOR]]
 
 ### Common Issues
 #todo :: add to this
@@ -57,6 +57,7 @@ Well, not so common, is a WAAS outage: https://www.nstb.tc.faa.gov/
 # Additional Resources
 - [[PHAK Ch16]]
 - https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss
+- https://download.aopa.org/epilot/2007/sa01.pdf "GPS Technology" #safety-advisors
 
 ***Related To***: [[Ground-Based Navigation using VOR, DME, and ILS]]
 
