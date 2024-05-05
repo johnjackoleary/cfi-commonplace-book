@@ -5,6 +5,8 @@ Sunol: https://weathercams.faa.gov/map/-126.17343,28.87872,-117.53817,39.90585/c
 Peninsula: https://weathercams.faa.gov/map/-121.8558,34.57478,6/cameraSite/696/details/camera/12664/full
 San Jose: http://www.met.sjsu.edu/cam_directory/
 Mount Hamilton: https://mthamilton.ucolick.org/hamcam/hamcam1.html
+
+
 Watsonville: https://www.watsonvillepilots.org/airport
 Truckee Area: https://images.ambientweather.net/C8C9A3558B1B/latest.jpg (does not auto-refresh)
 
