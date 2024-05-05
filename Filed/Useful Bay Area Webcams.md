@@ -6,7 +6,7 @@ Peninsula: https://weathercams.faa.gov/map/-121.8558,34.57478,6/cameraSite/696/d
 San Jose: http://www.met.sjsu.edu/cam_directory/
 Mount Hamilton: https://mthamilton.ucolick.org/hamcam/hamcam1.html
 Oakland: https://www.fox10phoenix.com/webcams-sf-bay
-Berkeley
+Berkeley: https://static.lawrencehallofscience.org/scienceview/scienceview.berkeley.edu/html/view/view_assets/images/newview.jpg
 Watsonville: https://www.watsonvillepilots.org/airport
 Truckee Area: https://images.ambientweather.net/C8C9A3558B1B/latest.jpg (does not auto-refresh)
 
