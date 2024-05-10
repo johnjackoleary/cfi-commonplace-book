@@ -51,6 +51,8 @@ https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/tech
 ### Common Issues
 Well, not so common, is a WAAS outage: https://www.nstb.tc.faa.gov/
 
+E.g. ![[WAAS LPV.png]]
+
 # Additional Resources
 - [[PHAK Ch16]]
 - https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss
