@@ -40,6 +40,7 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 	1. GPS Approaches		  
 		1. LNAV, LP, LPV
 		2. LNAV/VNAV, +V
+		3. [The 4 Different Types of Vertical Guidance in IFR Flying](https://www.boldmethod.com/shorts/shorts.ifr.0019/) from [[Bold Method]]
 	2. Flight Plan
 	3. Direct to
 	4. OBS

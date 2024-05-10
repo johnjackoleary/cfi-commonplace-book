@@ -8,7 +8,8 @@ tags:
 
 This page is meant to capture notes on this process, especially highlighting differences in experience and training requirements that may be good to discuss with a [[CFI]].
 
-> [!caution] This document is based on research and some second-hand experience, but it not meant as an authoritative source.
+> [!caution] 
+> This document is based on research and some second-hand experience, but it not meant as an authoritative source.
 
 ### General Process
 There is a [great writeup of this process](https://www.reddit.com/r/flying/comments/xcp8pr/my_experience_getting_my_faa_ppl_based_on_my/) on Reddit from u/MrTrustor.
