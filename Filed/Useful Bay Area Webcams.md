@@ -13,7 +13,7 @@ Truckee Area: https://images.ambientweather.net/C8C9A3558B1B/latest.jpg
 ---
 
 > [!tip] iOS Shortcut to Quickly View Cameras Above
-> https://www.icloud.com/shortcuts/ab21e5b311a64659983ae92bf43b44f1
+> https://www.icloud.com/shortcuts/5d65888d1a3c442d80f808349970c79c
 
 --- 
 
