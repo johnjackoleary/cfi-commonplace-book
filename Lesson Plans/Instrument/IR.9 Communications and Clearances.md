@@ -67,6 +67,7 @@ Ground 1.5 hours
 		3. Release Time
 		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
 	8. What if I don’t like the clearance? (AIM 4-4-4)
+3. Request for delay vector or, similarly, request to continue holding
 
 
 ![[IFR Radio Comm Part 1 General.jpeg]]

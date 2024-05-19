@@ -12,8 +12,9 @@ Review instrument systems and diagnosis of instrument or system failures. To dev
 None
 
 ### Builds On
-[[IR.6 Unusual Attitude Recoveries, Including Partial Panel]]
-[[IR.9 Communications and Clearances]]
+- [[PPL5.3 Emergency Operations]]
+- [[IR.6 Unusual Attitude Recoveries, Including Partial Panel]]
+- [[IR.9 Communications and Clearances]]
 
 ### Schedule
 Ground 1 hour, simulator and/or airplane 1 hour
@@ -42,6 +43,7 @@ Ground 1 hour, simulator and/or airplane 1 hour
 	4. G1000 partial panel operations: See Garmin guidance doc (next page) 
 4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
 5. ATC notification 
+	1. Can also always ask for a delay vector
 6. No-gyro PAR approaches and ASR approaches 
 7. Common errors: 
 	1. Slow to recognize failure could result in unusual attitude 
