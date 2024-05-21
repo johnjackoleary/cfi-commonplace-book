@@ -16,7 +16,7 @@ Develop knowledge and skill in recognition of and recovery from unusual attitude
 [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]]
 
 ### Schedule
-Ground 1.5 hours, sim/airplane 1.5 hours
+Ground 0.5 hours, sim/airplane 1.5 hours
 
 ### CFI Equipment
 Hood or foggles
@@ -31,7 +31,7 @@ Hood or foggles
 	2. Full panel recoveries
 	3. Partial panel recoveries
 3. Recognize nose-high unusual attitude
-	1. ASI slow or decreasing repidly
+	1. ASI slow or decreasing rapidly
 	2. VSI shows climb, altimeter shows climb
 	3. TC shows turn
 	4. Recovery:
