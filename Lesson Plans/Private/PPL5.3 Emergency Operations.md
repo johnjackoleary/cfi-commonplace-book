@@ -141,6 +141,9 @@ These are the emergency procedures referenced in the section above.
 > - "I see flames on the right side of the cowling"
 > 	- This is your cue to demonstrate an *Emergency Descent*
 > 	- If the examiner then says "the flames are out", transition to a *Forced Landing*
+> 
+> > [!note]
+> A forced landing maneuver is a no-go-around maneuver per DPE instruction, however, never risk safety of flight to try and salvage a maneuver.
 
 #### Common errors
 1. Failure to use flow patterns or memory items

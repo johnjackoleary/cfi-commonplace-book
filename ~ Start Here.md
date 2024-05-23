@@ -1,3 +1,8 @@
+---
+description: A useful starting point for CFIs, students, and anyone hoping to learn more about aviation.
+cover: "Media/Axes of Airplane.jpeg"
+---
+
 > [!note] From Jack
 > This project is meant to allow anyone in the aviation community to contribute ideas, resources, and knowledge.
 > 

@@ -65,8 +65,7 @@ N/A
 	5. Incorrect position of controls relative to wind
 
 > [!note]
-> The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]]
-> 
+> The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]].
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 
