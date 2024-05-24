@@ -18,6 +18,7 @@ From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the 
 		- [ ] 250nm miles along airways or directed routing from ATC
 		- [ ] An instrument approach at each airport
 		- [ ] Three different kinds of approaches with the use of navigation systems
+	- [ ] Maximum of 20 hours in an approved [[AATD]]
 
 **General Before Checkride**
 1. Current Private/Commercial Pilot
