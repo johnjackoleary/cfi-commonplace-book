@@ -57,6 +57,7 @@
 | O20         | 55          | Self-Serve Fuel, Runway Backtaxi                                                                                                     |
 | L53         | 56          | Short Field                                                                                                                          |
 | 1C9         | ~~50~~      | Grass Runway (Note: distance too short for XC logging)                                                                               |
+KOAR
 
 > [!tip]
 > Review [[Complete VFR Preflight Checklist]] for a useful Cross-Country Checklist.
