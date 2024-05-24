@@ -11,6 +11,8 @@ Further develop instrument scan procedures, and practice all phases of IFR fligh
 ### Resources
 None
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
 

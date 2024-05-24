@@ -13,6 +13,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 - GPS manual
 - [Practice problems](https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141) from thebackseatpilot.com
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[IR.5A VOR Navigation]]
 - [[IR.5B GPS Navigation]]

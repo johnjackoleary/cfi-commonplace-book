@@ -15,6 +15,8 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 - [[IPH]] 
 - [[Instrument ACS]] Section 1.C
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[IR.9 Communications and Clearances]]
 [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]

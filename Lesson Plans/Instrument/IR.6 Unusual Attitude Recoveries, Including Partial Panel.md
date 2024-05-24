@@ -11,6 +11,8 @@ Develop student knowledge and skill in recognition of and recovery from unusual 
 ### Resources
 None
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL5.2 Emergency Flight by Instruments - Unusual Attitude Recovery]]
 

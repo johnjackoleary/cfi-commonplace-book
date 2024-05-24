@@ -12,6 +12,8 @@ Develop proficiency in using [[SID]]s, [[STAR]]s, [[ODP]]s. Understand takeoff m
 - [[TERPS]]
 - [[TPP]] Supplemental
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[IR.10 Approach Charts and Procedures]]
 [[IR.9 Communications and Clearances]]

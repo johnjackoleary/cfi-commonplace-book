@@ -40,8 +40,8 @@ From [[AC 61-98]] Appendix F:
 ## Environment
 - [ ] **Airports**:
 	- [ ] Markings (AIM chapter 2, section 3)
-	- [ ] Operations (AIM chapter 4, section 3; §§ 91.125 and 91.126)
-	- [ ] Traffic Patterns (§ 91.126)
+	- [ ] Operations (AIM chapter 4, section 3; §§ [[FAR 91.125|91.125]] and [[FAR 91.126|91.126]])
+	- [ ] Traffic Patterns (§ [[FAR 91.126|91.126]])
 - [ ] **Airspace**:
 	- [ ] Altimeter Settings (§ 91.121; AIM chapter 7, section 2)
 	- [ ] Minimum Safe Altitudes (§§ 91.119 and 91.177)

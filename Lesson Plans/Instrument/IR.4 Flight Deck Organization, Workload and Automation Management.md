@@ -11,6 +11,8 @@ Understand the ways to utilize different tools in the flight deck, understand th
 ### Resources
 None
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 

@@ -11,6 +11,8 @@ Review instrument systems and diagnosis of instrument or system failures. To dev
 ### Resources
 None
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL5.3 Emergency Operations]]
 - [[IR.6 Unusual Attitude Recoveries, Including Partial Panel]]

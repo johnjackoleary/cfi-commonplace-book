@@ -12,6 +12,8 @@ Learn proper IFR communications techniques, include copying clearances, normal c
 - [[FAR 91.185 Lost Comms]]
 - [[IFH]] Appendix A (clearance shorthand)
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 N/A
 
