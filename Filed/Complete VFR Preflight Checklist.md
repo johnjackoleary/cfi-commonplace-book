@@ -3,7 +3,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 ## Pilot
 - [ ] [[IMSAFE|I.M.S.A.F.E.]]
 - [ ] Government-Issued ID, Pilot License, and Medical Certificate[^med] in your possession (§ [[FAR 61.3|61.3]])
-	- [ ] If on a solo, logbook with solo endorsement (§ [[FAR 61.3|61.3]] and § [[FAR 61.51|61.51(i)(2)]])
+	- [ ] If on a solo, logbook with solo endorsement (§ [[FAR 61.3|61.3]] and § [[FAR 61.51 Pilot Logbooks|61.51(i)(2)]])
 - [ ] Checkride or Flight Review in the past 24 months (§ [[FAR 61.56 Flight Review|61.56]])
 - [ ] Recent Flight Experience for carrying passengers (§ [[FAR 61.57 Recent Flight Experience|61.57]])
 - [ ] [[Personal Minimums]] met
