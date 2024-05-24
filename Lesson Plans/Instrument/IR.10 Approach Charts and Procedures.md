@@ -14,6 +14,8 @@ Develop an understanding to interpret, apply, and brief various types of charted
 ### Resources
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[IR.4 Flight Deck Organization, Workload and Automation Management]]
 - [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]

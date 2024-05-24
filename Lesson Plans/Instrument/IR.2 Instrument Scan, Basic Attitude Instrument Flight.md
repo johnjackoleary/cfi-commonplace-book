@@ -11,6 +11,8 @@ Understand and practice instrument scan procedures, instrument interpretation, c
 ### Resources
 - Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[IFH]] such as [[Rectangular Scan.jpeg]])
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[IR.1 Introduction and Instrument Systems]]
 

@@ -12,6 +12,8 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. A
 - [[Instrument ACS]] section V
 - [[POH]]/[[AFM]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 - [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]

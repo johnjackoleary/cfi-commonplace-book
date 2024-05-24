@@ -13,6 +13,8 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 - [[Risk Management Handbook]]
 - [[Instrument ACS]] Section 1.B
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
 - [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]

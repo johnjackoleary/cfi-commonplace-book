@@ -12,6 +12,8 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 - [[POH]]/[[AFM]]
 - GPS manual
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[IR.5A VOR Navigation]]
 

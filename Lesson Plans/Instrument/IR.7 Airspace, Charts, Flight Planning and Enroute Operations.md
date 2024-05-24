@@ -11,6 +11,8 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight pla
 ### Resources
 - [[Instrument ACS]] Section 1.C
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 None
 

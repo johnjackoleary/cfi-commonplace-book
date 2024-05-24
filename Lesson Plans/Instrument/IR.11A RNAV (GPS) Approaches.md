@@ -13,6 +13,8 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 - POH/AFM
 - GPS manual 
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[IR.5B GPS Navigation]]
 - [[IR.10 Approach Charts and Procedures]]

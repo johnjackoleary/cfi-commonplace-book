@@ -15,6 +15,8 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 - [[IR.A Instrument Rating Flight Experience Requirements]]
 - [[POH]]/[[AFM]] 
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 

@@ -11,6 +11,8 @@ Review instrument systems and diagnosis of instrument or system failures. To dev
 ### Resources
 None
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 [[IR.6 Unusual Attitude Recoveries, Including Partial Panel]]
 [[IR.9 Communications and Clearances]]

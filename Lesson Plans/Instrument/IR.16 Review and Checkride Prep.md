@@ -12,6 +12,8 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 - [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
 - [[IFR Regulatory Review Assignment]]
 
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+
 ### Builds On
 - [[~ IR Lesson Plan Outline|All Lessons]]
 - [[PPL7.1 Review and Checkride Preparation]]
