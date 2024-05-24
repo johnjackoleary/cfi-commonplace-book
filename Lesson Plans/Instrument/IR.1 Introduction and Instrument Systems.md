@@ -26,19 +26,20 @@ Ground 3 hours
 	1. Aircraft choice, high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
 		1. Private: 70-90 hours, about $20k-$30k
 		2. Instrument 40-60 hours, about $15k-$20k
-		3. Simulation software and PC tools 
+		3. Simulation software and PC tools
+		4. Use of [[AATD]]/[[BATD]] and safety pilots to reduce costs
 	2. [[IR.A Instrument Rating Flight Experience Requirements]]
 	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	4. Recency of experience [[FAR 61.57 Recent Flight Experience]], logbook records 61.51, personal minimums 
 		1. Logging [[IAP]], what’s required  ([[InFO15012]])
-	5. Stages of training, Phase checks 
+	5. Stages of training, Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
 	6. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists 
 		2. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
 2. Instrument systems and power sources, flight characteristics, limitations, errors, pre-flight check methods 
 	1. Required equipment for IFR flight, and IFR airworthiness requirements ([[FAR 91.205 Instrument and Equipment Requirements]])
 		1. Mnemonic [[GRABCARDD]]
-	2. Inoperative equipment – [[MEL]], placarding - [[FAR 91.213 Inop Equip]]
+	2. [[FAR 91.213 Inop Equip]]
 	3. Instruments
 		1. Pitot-Static instruments: Altimeter (+/- 75’), Airspeed Indicator, Vertical Speed Indicator, pitot heat (use below 10C or 50F, in visible moisture) 
 			1. Pitot Heat check during preflight
