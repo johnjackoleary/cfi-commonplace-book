@@ -21,7 +21,7 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 
 ### Schedule
-Ground 3 hours
+Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Lesson Elements
 1. Overview of [[IFR]] flight training process, syllabus overview 
