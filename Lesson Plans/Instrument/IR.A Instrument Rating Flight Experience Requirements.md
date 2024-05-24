@@ -10,7 +10,7 @@ From [[FAR 61.65 Instrument Rating Reqs]] (c) *Flight proficiency*
 - [ ] Postflight procedures.
 
 **Instrument Pilot Aeronautical Experience**
-From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the instrument-airplane rating*
+From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the instrument-airplane rating* and (i) *Use of an aviation training device*
 - [ ] 50 hours XC PIC flight time, >=10 hours must be in an airplane
 - [ ] 40 hours of actual or simulated instrument time in the areas of operation listed in paragraph (c) of this section, of which 15 hours must have been received from an authorized instructor who holds an instrument-airplane rating, and the instrument time includes
 	- [ ] 3 hours instrument training from authorized instructor within 2 months of checkride
@@ -18,7 +18,7 @@ From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the 
 		- [ ] 250nm miles along airways or directed routing from ATC
 		- [ ] An instrument approach at each airport
 		- [ ] Three different kinds of approaches with the use of navigation systems
-	- [ ] Maximum of 20 hours in an approved [[AATD]]
+- [ ] Maximum of 20 hours of instrument time in an approved [[AATD]]
 
 **General Before Checkride**
 1. Current Private/Commercial Pilot
