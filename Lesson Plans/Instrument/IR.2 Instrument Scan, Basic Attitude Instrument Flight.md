@@ -20,7 +20,7 @@ Understand and practice instrument scan procedures, instrument interpretation, c
 Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Lesson Elements
-1. Fundamentals of instrument flight: cross check, instrument interpretation, aircraft control
+1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA to Remember Fundamentals of Instrument Flight|CIA]] as a memory aid)
 2. Control/Performance ([[AFH Ch6]])
 	1.  Pitch + Power = Performance
 	2. Control Instruments
