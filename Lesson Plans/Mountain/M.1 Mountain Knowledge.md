@@ -51,7 +51,9 @@ Background knowledge required for safe mountain flying.
 			2. Enroute
 				1. Pulse oximeter
 				2. Water
+				3. Oxygen bottle
 		3. Periodic Self Checkins ([[IMSAFE]])
+			1. Impact of cold on sinus pressure issues
 		4. [[Personal Minimums]]
 	2. Aircraft
 		1. Performance at High [[Density Altitude]]
@@ -84,8 +86,9 @@ Background knowledge required for safe mountain flying.
 		4. Wx information
 			1. [[Weather Brief]]
 			2. [[Area Forecast Discussion]]
-			3. Contact someone at the destination airport
-			4. Be wary -- mountain weather can change quickly!
+			3. WebCams
+			4. Contact someone at the destination airport
+			5. Be wary -- mountain weather can change quickly!
 		5. Specific weather factors
 			1. Visibility
 			2. Clouds
@@ -135,6 +138,7 @@ Background knowledge required for safe mountain flying.
 			4. [[Box Canyon Turn]] technique
 		5. Ridges
 			1. Fly at least 1000' above, and be there 3 miles before you arrive (although 2000' often results in less turbulence)
+				1. Consider only descending to ensure you're not trying to uoutclimb terrian
 			2. If you can't see terrain beyond the pass, you're too low to pass
 			3. Approach crossing at 45° angles so better able to turn around, then depart at 90° angle
 		6. [[CFIT]]
@@ -150,6 +154,12 @@ Background knowledge required for safe mountain flying.
 	7. Landing -- will feel fast!
 		1. Leaning procedure
 		2. Expect higher [[GS]] and [[TAS]], but same [[IAS]]
+
+
+
+Look for the next cylinder where you could turn around continuously as a safe place to circle while you figure out how to get out of sticky situation.
+
+Stay on right side of canyon?
 
 ### Completion Standards
 Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.
