@@ -1,5 +1,3 @@
-#todo :: Make sure to note the logbook text requirements from Hartzell and Oord in the Instrument Syllabus somewhere
-
 Commercial Pilot Aeronautical Experience (prior to checkride):
 
 From [[FAR 61.129 CPL Aeronautical Experience|FAR 61.129]](a):

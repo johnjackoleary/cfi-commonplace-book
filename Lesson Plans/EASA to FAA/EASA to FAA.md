@@ -33,6 +33,9 @@ For this reason, it's a good idea to fly with an instructor before flying alone 
 
 > [!info] See [[PPL6.1 Night Operations and Night Cross Country]] for more info.
 
+#### PIREPs
+Taught but not frequently used.
+
 #### Special Use Airspaces
 While many airspaces will be familiar, understanding [[MOA]]s, [[TFR]]s, and other special use airspaces will be important.
 

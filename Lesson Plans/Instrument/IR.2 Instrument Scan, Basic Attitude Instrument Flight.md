@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Understand and practice instrument scan procedures, instrument interpretation, common errors, and partial panel procedures in case of system failure. 
+Understand and practice instrument scan procedures, instrument interpretation, and common errors in case of system failure. 
 
 ### Resources
 - Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[IFH]] such as [[Rectangular Scan.jpeg]])
@@ -20,7 +20,7 @@ Understand and practice instrument scan procedures, instrument interpretation, c
 Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Lesson Elements
-1. Fundamentals of instrument flight: cross check, instrument interpretation, aircraft control
+1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA to Remember Fundamentals of Instrument Flight|CIA]] as a memory aid)
 2. Control/Performance ([[AFH Ch6]])
 	1.  Pitch + Power = Performance
 	2. Control Instruments
@@ -53,7 +53,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	6. Improper trim control
 
 ### Completion Standards
-Learner must demonstrate understanding of: control and performance instruments; instrument scan methods and ability to diagnose and respond to system failures. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
+Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]](c):

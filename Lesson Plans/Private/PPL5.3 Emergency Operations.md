@@ -10,7 +10,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 ### Resources
 - [[AFM]]/[[POH]]
 - [[Private Pilot ACS]] Sections IX.A,C,D
-- [C172 Electrical System Interactive Tool](http://avitmedia.aero.und.edu/c172sElectrical/index.html) from [[UND]]
+- [C172 Electrical System Interactive Tool](https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/c172s-electrical-system/) from [[UND]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
@@ -42,7 +42,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 > [!quote] From [[AIM 6]]
 > Pilots who become apprehensive for their safety for any reason should _request assistance immediately._
 
-#### Something is Wrong!
+#### Oh no! Something is Wrong!
 > [!note]
 > - "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it -- and in many cases, memorize it. The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
 > - *Procedures in italics* are a reference to [[PPL5.3 Emergency Operations#Key Procedures in Emergencies]] below.
@@ -67,7 +67,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 			- **(POH)** Cut off fuel flow; *Emergency Descent and Forced Landing*; pros/cons of turning off master switch
 		- Inside the dashboard (probably electrical) or cabin?
 			- **(POH)** Master and stby switches off; turn off cabin heat/air; deploy fire extinguisher
-				- Fire extinguished? - open windows to clear smoke; if required, follow procedure to re-power some items; *Precautionary Landing*
+				- Fire extinguished? - open windows to clear smoke; if required, follow *procedure to re-power some items*; *Precautionary Landing*
 				- Not extinguished? - *Emergency Descent*
 		- Wing?
 			- **(POH)** Turn wing lights, taxi/landing lights, and pitot heat off; sideslip to keep flames away from fuel tank; *Precautionary landing*
@@ -82,18 +82,18 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 			- Bad mixture/throttle settings - Adjust
 			- Fuel pump failure - Turn on backup pump
 			- Fuel tank running dry - Switch tanks
-			- Ignition switch in 'A' or 'B' - Switch to 'both'
+			- Ignition switch in 'L' or 'R' - Switch to 'both'
 	- Electrical failure
 		- The plane still flies; use backup radio or call on cell phone; land as soon as practical
 	- Radio failure (you can't hear them, or they can't hear you)
 		- Squawk 7600; proceed to destination if safe; call tower/[[TRACON]] on cell phone if able ([[ATC Phone Numbers]]); look for light signals
 	- Instruments don't seem to be reading correctly
-		- Are altimeter and VSI "stuck" even when you change altitude?
+		- Are the altimeter and VSI "stuck" even when you change altitude?
 			- **(POH)** Static source is blocked; try alternate static source
 		- Does airspeed vary with altitude?
 			- Pitot tube is blocked
 		- Are the vacuum-powered instruments dead? (Which ones are they in your plane?)
-			- Vacuum pump is inop
+			- Vacuum pump (pumps?) is inop
 		- PFD failure
 			- Use reversionary mode to display critical instruments on the MFD
 	- Plane isn't handling correctly
@@ -106,8 +106,9 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Flew into a cloud, or lost minimum VFR visibility
 		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
 	- Icing - **(POH)** Reverse course or choose a different altitude; request help on the radio; deploy all anti-ice measures.  See POH for landing with heavy ice accumulation
+		- What are the anti- or de-icing systems in this aircraft?^[Consider pitot heat, alternate air intake, and window heat to defrost.]
 	- Door or window opens in flight
-		- Not an emergency.  Close it, or land normally.
+		- Not an emergency. Close it, or land normally.
 
 #### Key Procedures in Emergencies
 These are the emergency procedures referenced in the section above.
@@ -128,7 +129,7 @@ These are the emergency procedures referenced in the section above.
 
 #### Other important topics for emergencies
 1. Emergency equipment and survival gear
-	1. [[ACS]] IX.C mentions: [[ELT]].  Fire extinguisher operation. Survival gear (food, water, shelter).  Overwater operations.
+	1. [[ACS]] IX.C mentions: [[ELT]].  Fire extinguisher operation. Survival gear (food, water, shelter). Overwater operations.
 2. Emergency squawk codes: [[Squawk 7700]], [[Squawk 7600]], [[Squawk 7500]]
 > [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through one accidentally.
 3. [[Intercept Procedures]]

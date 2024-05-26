@@ -34,8 +34,10 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	4. Recency of experience [[FAR 61.57 Recent Flight Experience]] and [[FAR 61.51 Pilot Logbooks]]
 		1. Logging [[IAP]], what’s required  ([[InFO15012]])
-	5. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
-	6. Risk avoidance and management 
+		2. > [!warning] For future commercial pilots
+		   > This time does NOT automatically satisfy the required instrument training for the commercial certificate, unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](e) and also [[FAR 61.129 CPL Aeronautical Experience|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.
+	1. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
+	2. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists 
 		2. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
 2. Instrument systems and power sources, flight characteristics, limitations, errors, pre-flight check methods 

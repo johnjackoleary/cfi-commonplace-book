@@ -41,7 +41,8 @@ Background knowledge required for safe mountain flying.
 			1. Oxygen (legal, practical, and at night)
 			2. [[Dehydration]]
 			3. Fatigue
-			4. #Illusions
+			4. Impact of sinus issues at altitude
+			5. #Illusions
 		2. Equipment
 			1. Survival
 				1. Air Search and Rescue won' begin until daylight; chances are good of spending at least one night outdoors
@@ -51,6 +52,7 @@ Background knowledge required for safe mountain flying.
 			2. Enroute
 				1. Pulse oximeter
 				2. Water
+				3. Oxygen bottle
 		3. Periodic Self Checkins ([[IMSAFE]])
 		4. [[Personal Minimums]]
 	2. Aircraft
@@ -75,6 +77,8 @@ Background knowledge required for safe mountain flying.
 			1. Best to test [[ELT]] before departing (More info from [[AOPA]] [here](https://www.aopa.org/news-and-media/all-news/2017/february/flight-training-magazine/how-it-works-elt#:~:text=You%20can%20test%20your%20121.5,the%20first%20order%20of%20business.)) - average time to find down aircraft with ELT is 6.8hr, compared to 40.7hr without^[https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue]
 	3. Environment
 		1. Account for [[Density Altitude]]
+			1. > [!quote] From [CFI on Reddit](https://www.reddit.com/r/flying/comments/okujin/comment/h5aldtx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)^[So take it with a grain of salt]
+			> Remember the things you can do to help reduce the effects: weight (reduce pax/baggage), wait (for the temperature to decrease), wait (for winds to increase), and lean.
 		2. Time of day
 			1. Often better in morning (cooler, less winds, less turbulent)
 			2. Many folks prefer not to fly after noon
@@ -84,8 +88,9 @@ Background knowledge required for safe mountain flying.
 		4. Wx information
 			1. [[Weather Brief]]
 			2. [[Area Forecast Discussion]]
-			3. Contact someone at the destination airport
-			4. Be wary -- mountain weather can change quickly!
+			3. Webcams^[Some for Tahoe area in [[Useful Bay Area Webcams]]]
+			4. Contact someone at the destination airport
+			5. Be wary -- mountain weather can change quickly!
 		5. Specific weather factors
 			1. Visibility
 			2. Clouds
@@ -120,6 +125,7 @@ Background knowledge required for safe mountain flying.
 		5. Alternative airports
 	3. Runup
 		1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean find peak power)
+		2. Gravel considerations (can get picked up and damage propeller)
 	4. Takeoff/Climb -- will take longer!
 		1. Power Settings
 		2.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
@@ -128,18 +134,20 @@ Background knowledge required for safe mountain flying.
 		1. Important to know wind direction (both from preflight and from signs while flying)
 		2. Updraft and Downdrafts
 		3. Flying along valleys -- choose a side, preferably updraft side, not the middle!
-		4. Box Canyons
+		4. Consider looking for the next cylinder of air in a canyon where you can turn around continuously. This can be used as a safe place to circle if you are lost or need to resolve a situation.^[This was a tip given to Jack from a Swiss pilot. However, I haven't found good resources in the US to back this idea up, so take it with a grain of salt.]
+		5. Box Canyons
 			1. Never fly up a canyon that you haven't already flown down so you know there's room to turn around
 			2. NEVER try to out climb the terrain in ANY airplane
 			3. Make sure canyon is sufficiently wide given your turn radius
 			4. [[Box Canyon Turn]] technique
-		5. Ridges
+		6. Ridges
 			1. Fly at least 1000' above, and be there 3 miles before you arrive (although 2000' often results in less turbulence)
+				1. Consider only ever crossing a ridge while descending, to ensure you're not trying to out-climb terrain
 			2. If you can't see terrain beyond the pass, you're too low to pass
 			3. Approach crossing at 45° angles so better able to turn around, then depart at 90° angle
-		6. [[CFIT]]
-		7. Be comfortable stopping early if conditions deteriorate
-		8. Hazard Advisor tools
+		7. [[CFIT]]
+		8. Be comfortable stopping early if conditions deteriorate
+		9. Hazard Advisor tools
 	6. Descent/Traffic Pattern
 		1. May be irregular for surrounding terrain (see [[L05]] -- helpful to check Google Maps/Earth before going)
 		2. May be on top of ridge (see [[KAVX]]) with unique illusions
