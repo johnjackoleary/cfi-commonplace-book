@@ -106,9 +106,9 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Flew into a cloud, or lost minimum VFR visibility
 		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
 	- Icing - **(POH)** Reverse course or choose a different altitude; request help on the radio; deploy all anti-ice measures.  See POH for landing with heavy ice accumulation
-		- https://www.boldmethod.com/blog/quizzes/2023/07/do-you-know-these-6-aircraft-engine-parts/ for alternate intake air
+		- What are the anti- or de-icing systems in this aircraft?^[Consider pitot heat, alternate air intake, and window heat to defrost.]
 	- Door or window opens in flight
-		- Not an emergency.  Close it, or land normally.
+		- Not an emergency. Close it, or land normally.
 
 #### Key Procedures in Emergencies
 These are the emergency procedures referenced in the section above.

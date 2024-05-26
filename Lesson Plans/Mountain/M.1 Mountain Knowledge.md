@@ -41,7 +41,8 @@ Background knowledge required for safe mountain flying.
 			1. Oxygen (legal, practical, and at night)
 			2. [[Dehydration]]
 			3. Fatigue
-			4. #Illusions
+			4. Impact of sinus issues at altitude
+			5. #Illusions
 		2. Equipment
 			1. Survival
 				1. Air Search and Rescue won' begin until daylight; chances are good of spending at least one night outdoors
@@ -53,7 +54,6 @@ Background knowledge required for safe mountain flying.
 				2. Water
 				3. Oxygen bottle
 		3. Periodic Self Checkins ([[IMSAFE]])
-			1. Impact of cold on sinus pressure issues
 		4. [[Personal Minimums]]
 	2. Aircraft
 		1. Performance at High [[Density Altitude]]
