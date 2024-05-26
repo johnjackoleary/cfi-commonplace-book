@@ -125,7 +125,7 @@ Background knowledge required for safe mountain flying.
 		5. Alternative airports
 	3. Runup
 		1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean find peak power)
-		2. gravel considerations
+		2. Gravel considerations (can get picked up and damage propeller)
 	4. Takeoff/Climb -- will take longer!
 		1. Power Settings
 		2.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
@@ -142,7 +142,7 @@ Background knowledge required for safe mountain flying.
 			4. [[Box Canyon Turn]] technique
 		6. Ridges
 			1. Fly at least 1000' above, and be there 3 miles before you arrive (although 2000' often results in less turbulence)
-				1. Consider only descending to ensure you're not trying to uoutclimb terrian
+				1. Consider only ever crossing a ridge while descending, to ensure you're not trying to out-climb terrain
 			2. If you can't see terrain beyond the pass, you're too low to pass
 			3. Approach crossing at 45° angles so better able to turn around, then depart at 90° angle
 		7. [[CFIT]]
