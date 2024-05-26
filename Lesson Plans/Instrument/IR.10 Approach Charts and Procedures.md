@@ -57,6 +57,7 @@ Ground 1.5 hours
 		3. N5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
 5. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
+		1. Great [[AOPA]] article [here](https://www.aopa.org/news-and-media/all-news/2020/march/pilot/on-instruments-diving-and-driving)
 	2. [[VDP]]
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 

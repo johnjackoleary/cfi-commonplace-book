@@ -53,7 +53,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	6. Improper trim control
 
 ### Completion Standards
-Learner must demonstrate understanding of: control and performance instruments; instrument scan methods and ability to diagnose and respond to system failures. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
+Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]](c):

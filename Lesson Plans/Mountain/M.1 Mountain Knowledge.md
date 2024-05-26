@@ -123,6 +123,7 @@ Background knowledge required for safe mountain flying.
 		5. Alternative airports
 	3. Runup
 		1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean find peak power)
+		2. gravel considerations
 	4. Takeoff/Climb -- will take longer!
 		1. Power Settings
 		2.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
