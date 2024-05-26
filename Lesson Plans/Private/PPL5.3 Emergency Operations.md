@@ -10,7 +10,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 ### Resources
 - [[AFM]]/[[POH]]
 - [[Private Pilot ACS]] Sections IX.A,C,D
-- [C172 Electrical System Interactive Tool](http://avitmedia.aero.und.edu/c172sElectrical/index.html) from [[UND]] (may be down?)
+- [C172 Electrical System Interactive Tool](https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/c172s-electrical-system/) from [[UND]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
