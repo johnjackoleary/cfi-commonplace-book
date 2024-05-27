@@ -17,7 +17,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 - [[PPL3.3 Forward Slips and No Flap Landings]]
 
 ### Schedule
-1 hour ground, 1 hour flight, frequent practice on multiple flights
+1 hour ground, 2 hour flight, frequent practice on multiple flights
 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]:
@@ -36,10 +36,10 @@ Develop knowledge and skills associated with emergency landings, including choos
 		1.  Flow from memory based on type of emergency
 		2. Cross-check POH checklist (best to have paper copy ready!)
 	4. Declare
-		1. Squawk [[Squawk 7700]]
+		1. [[Squawk 7700]]
 		2. Mayday call with Approach or Center, nearby tower, or 121.5 (last resort)
 	5. Execute emergency landing
-		1. Survival statement
+		1. Survival statement ("I'm a glider pilot, I'm going to land this plane.")
 		2. Get to key point @1000' AGL: Spiral descent, then rectangular pattern (if altitude permits) ![[Key Position for Power Off 180.jpeg]]
 5. Details on flying the approach
 	1. Effects of headwinds/tailwinds 
@@ -55,8 +55,9 @@ Develop knowledge and skills associated with emergency landings, including choos
 	2. Protect the passengers: Make sure seatbelts are on and secure
 	3. Remove energy slowly on landing: look for ways to absorb energy during landing (field of corn, brush), and reduce groundspeed as much as possible
 		1. Trying to minimize peak deceleration in controlled crash -- spread out the energy loss
+	4. Consider landing near road infrastructure given the option, for easier search and rescue
 7. Notes on best terrain selection
-	1. Roads are a tempting options, especially at night, but most large road carry a risk of manmade structures like electrical wires that will be hard to see from far away. Plus, there's traffic on the road -- it may not be your best option.
+	1. Roads are tempting options, especially at night, but most large roads carry a risk of manmade structures like electrical wires that will be hard to see from far away. Plus, there's traffic on the road -- it may not be your best option.
 	2. Read through additional comments from [[FAA]] in [[AFH Ch18]]
 	3. [Emergency Landing: Beach or Breakers?](https://www.youtube.com/watch?v=0LwGYBBhTss) from [[Paul Bertorelli]] of [[AVweb]]
 	4. [How to Crash Land An Airplane On A Freeway With Style and Grace And Survive](https://www.youtube.com/watch?v=99DomTe9JY4) from [[Paul Bertorelli]] of [[AVweb]]
@@ -76,7 +77,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 	4. Failure to use checklist
 
 ### Completion Standards
-Client should develop knowledge of emergency situations and procedures, and demonstrate ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
+Client should develop knowledge of emergencies and procedures, and demonstrate the ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 
