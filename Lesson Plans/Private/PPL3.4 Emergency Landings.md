@@ -89,7 +89,7 @@ For [[FAR 61.87 Student Solo Reqs]]:
 - [ ] Memorize engine out restart flow
 - [ ] Read [[POH]] Section 3
 
-### Recommended Homework 
+### Recommended Homework
 - [ ] Chair fly emergency landing
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
