@@ -23,10 +23,6 @@
 	3. VS, FLC, ALT, VNV
 	4. NAV
 	5. APP, BC
-7. Risks Associated with Autopilot Usage
-	1. Complacency
-	2. Unusual Attitude/Upset
-	3. Loss of Situational Awareness/Behind the Plane
 
 ## Autopilot Risks
 1. Complacency
