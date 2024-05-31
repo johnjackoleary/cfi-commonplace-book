@@ -17,9 +17,10 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. A
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 - [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
+- [[IR.4 Flight Deck Organization, Workload and Automation Management]]
 
 ### Schedule
-Ground 2 hour; simulator and/or airplane, 2 hours 
+Ground 1 hour; simulator and/or airplane, 2 hours 
 
 ### Lesson Elements
 1. VOR Information from [[Ground-Based Navigation using VOR, DME, and ILS#VOR]]
