@@ -24,7 +24,7 @@ Ground 1 hour, sim/airplane 1 hour
 1. [[Aviate, Navigate, Communicate]]
 2. Digital Charts ([[EFB]])
 	1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
-	2. Cons - Battery, fragile, can’t update inflight, expensive
+	2. Cons - Battery, fragile, can’t update inflight, expensive, over heat
 3. Paper Charts
 	1. Pros - Don’t require battery, less fragile than EFB
 	2. Cons - Expire, no search function, take space and weight
@@ -39,16 +39,19 @@ Ground 1 hour, sim/airplane 1 hour
 	1. Use mental checklists and flow patterns 
 	2. Double check and back-up with written checklists 
 2. Mental checklists 
-	1. Before takeoff: [[CIGARS]] / [[CIGAR TIP]]
+	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
 	2. Before taking runway: [[Lights, Camera, Action, Time]]
 	4. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]
 	5. Non-radar position reports: [[PTATEN]]
 	6. At each IFR waypoint or turn: [[5 Ts]]
-	7. Before final intercept: Morse (ID nav receivers, Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm cdi course), Force (throttle)
+	7. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle)
 	8. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Set, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
 	9. Before landing: [[GUMPS]]
-	10. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed,
-3. Common Errors 
+	10. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
+3. [[SRM]]
+	1. Verbalize flows and checklists, changes, and "next two things"
+	2. Callouts with 1000' and 500' to be before a level off or [[DA]]
+4. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
 	3. Diverting attention during maneuvers like turning, or before reaching altitude. 
