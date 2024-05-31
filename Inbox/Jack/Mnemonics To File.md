@@ -5,7 +5,7 @@
 ## From [[AVweb]]
 [URL](https://www.avweb.com/features/leading-edge-4-checklists-and-flows/)
 
-CIGARTIP as a before-takeoff check:
+[[CIGAR TIP]] as a before-takeoff check:
 -   Controls free and correct
 -   Instruments read correctly
 -   Gas sufficient for flight and proper tank selected for takeoff
@@ -22,9 +22,9 @@ If youâ€™re an instrument pilot, you probably remember the four-, five- or six â
 -   Tires (gear down as appropriate) 
 -   Throttle
 -   Talk (report to ATC)
-> Note: Lou has a different meaning for these, specifcally no 'tires' and tune/twist
+> Note: Lou has a different meaning for these, specifically no 'tires' and tune/twist
 
-Another frequently used for landing is GUMPS :
+Another frequently used for landing is [[GUMPS]] :
 -   Gas set to the proper tank for landing
 -   Undercarriage (landing gear) down and locked
 -   Mixture set

@@ -1,7 +1,7 @@
 # Key Takeaways
 - Typically autopilot can fly either lateral (single axis) or lateral+vertical (dual axis)
 - Valuable tool for workload reduction
-- Safe usage requires and understanding of risks associated with automation
+- Safe usage requires an understanding of risks associated with automation
 
 # Details
 1. Types of Autopilot

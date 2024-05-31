@@ -66,7 +66,9 @@ Ground 1.5 hours
 	4. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
-6. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
+6. Airport lighting and environment
+	1. What are you expecting to see based on the plate? E.g. REIL, ALS, PAPI
+7. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
 	1. Continuously in position to land, with normal descent rate and maneuvers 
 	2. AND Flight visibility >= minimum 
 	3. AND any one of:
@@ -77,11 +79,11 @@ Ground 1.5 hours
 		5. Touchdown zone, touchdown zone markings, touchdown zone lights
 		6. [[VGSI]]
 	4. Threshold
-7. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
+8. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At DA or MAP, if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
 	3. During circling maneuver at or above MDA, airport not visible 
-8. Missed approach 
+9. Missed approach 
 	1. When to execute missed approach?
 	2. Procedure: Cram, Climb, Cool, Configure, Call
 	3. How to handle MA before MAP 
@@ -90,7 +92,7 @@ Ground 1.5 hours
 		1. May choose to cancel IFR if conditions permit
 		2. In ATC environment - immediately contact ATC to obtain amended clearance
 		3. If unable to contact ATC, attempt to re-intercept published segment of missed approach
-9. Circle to land approaches (AIM 5-4-20)
+10. Circle to land approaches (AIM 5-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
 	3. Review circling approach protected areas (maneuvering radius)
@@ -99,10 +101,10 @@ Ground 1.5 hours
 		3. AIM 5-4-20
 	4. Loss of flight visibility or airport, execute missed 
 	5. Missed approach during circle-to-land procedure (AIM 5-4-21)
-10. Visual and Contact approaches: 
+11. Visual and Contact approaches: 
 	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
 	2. Contact approach (AIM 5-4-25) – pilot must request, vis >1 SM, clear of clouds 
-11. Common errors 
+12. Common errors 
 	1. Getting “behind” the airplane, not ready for missed approach, failing to accomplish checklist items 
 	2. Overcontrolling during final phase of approach, with high CDI sensitivity 
 	3. Using wrong navigation source during approach 
