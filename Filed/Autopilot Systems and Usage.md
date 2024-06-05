@@ -13,6 +13,9 @@
 	3. Task Management
 4. [[POH]] and [[AFM]] supplements pertaining to autopilot 
 	1. Preflight check of autopilot 
+		1. Note, some autopilots include specific steps, some are minimal
+		2. Still good to check basic functionality and ability to disconnect.
+		3. Good video for GFC 500 [Autopilot Preflight Test](https://www.youtube.com/watch?v=PMRVKs64Rtw) by [Holladay Aviation](https://www.youtube.com/@HolladayAviation)
 	2. Autopilot usage, modes, GPS integration, altitude functions 
 	3. Ways to disengage
 	4. Limitations
