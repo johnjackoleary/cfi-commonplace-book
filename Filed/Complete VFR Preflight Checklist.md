@@ -21,7 +21,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 			- [ ] Additional info on position lights (§ 91.209)
 		- [ ] Night VFR adds: [[FLAPS]] (§ [[FAR 91.205 Instrument and Equipment Requirements|91.205]])
 		- [ ] Transponder Requirements (§ 91.215)
-	- [ ] Manufacturer-required: See [[Kinds Of Equipment List]]
+	- [ ] Manufacturer-required: See [[KOEL]]
 	- [ ] Process for determining if equipment is required: [[FAR 91.213 Inop Equip]]
 - [ ] All required inspections complete ("[[AAV1ATE]]")
 

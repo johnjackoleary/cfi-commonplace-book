@@ -36,6 +36,7 @@ Ground 1.5 hours, Flight 3 hours
 	5. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
 	6. Personal minimums and go/no-go decisions. 
 	7. Filing IFR flight plan, and procedures for activating and closing IFR flight plans
+		1. Useful ForeFlight resource for equipment codes: https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Guide
 	8. Knowledge of GPS and RAIM capability and prediction, if necessary
 3. Enroute procedures
 	1. Required reports and position report format 
