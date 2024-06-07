@@ -16,6 +16,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 
 ### Builds On
 - [[PPL3.4 Emergency Landings]]
+- [[PPL2.6 Aircraft Systems]]
 
 ### Schedule
 1.5 hours ground, flight practice as necessary
