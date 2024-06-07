@@ -29,7 +29,7 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 		3. Altimeter
 		4. Vertical Speed Indicator
 		5. Pitot-Static Failures
-			1. Use and impact of alternative static usage^[Jack always struggled to remember how alternate static impacted static pressure. Recently, he heard a story of an old, disagreeable man who owned a lake resort. He wanted his ashes to be scattered over the lake, so when he died, they took a small plane and poured out the ashes. But, since the air pressure in the cabin is lower than outside, all the ashes were pulled back into the airplane. Thus he continued to be a pain even after death. Also, alternate static is lower pressure than normal.]
+			1. Use and impact of alternative static usage^[Jack always struggled to remember how alternate static impacted static pressure. Recently, he heard a story of an old, disagreeable man who owned a lake resort. He wanted his ashes to be scattered over the lake, so when he died, they took a small plane and poured out the ashes. But, since the air pressure in the cabin is lower than outside, all the ashes were pulled back into the airplane. Thus he continued to be a pain even after death. Also, alternate static inside the cabin is lower than normal pressure outside.]
 			2. Pitot Heat
 	2. Gyroscopic ([Gyroscopic Instruments](https://www.youtube.com/watch?v=hVsx4XWafXg) from [[ERAU SpecialVFR]])
 		1. Characteristics of a gyroscope - precession and rigidity in space
@@ -61,7 +61,7 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 		2. Throttle vs mixture controls
 		3. Fuel injected vs carburetor
 			1. Priming
-			2. [[How and Why Carburetor Ice Forms]]
+			2. Carb heat use, [[How and Why Carburetor Ice Forms]], and [[Carb Heat Demystified|why Piper and Cessna differ in use]]
 	9. Oil ([Aircraft Systems - 06 - Oil System](https://www.youtube.com/watch?v=cWDCXFwPLIs))
 		1. Lubrication, Cleaning, Cooling, Sealing
 3. Electrical System ([Aircraft Systems - 08 - Electrical System](https://www.youtube.com/watch?v=d5sXmNplQHw) from [[ERAU SpecialVFR]])
