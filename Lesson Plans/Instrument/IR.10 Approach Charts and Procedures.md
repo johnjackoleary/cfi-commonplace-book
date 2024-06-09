@@ -66,12 +66,12 @@ Ground 1.5 hours
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 
 			1. Take the AGL value of the MDA and divide it by 300
-	3. MDA - what is required to continue descent? 
+	3. [[MDA]] - what is required to continue descent? 
 	4. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
 7. Airport lighting and environment
-	1. What are you expecting to see based on the plate? E.g. REIL, ALS, PAPI
+	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 8. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
 	1. Continuously in position to land, with normal descent rate and maneuvers 
 	2. AND Flight visibility >= minimum 
@@ -84,7 +84,7 @@ Ground 1.5 hours
 		6. [[VGSI]]
 	4. Threshold
 9. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
-	1. At DA or MAP, if references above are not visible 
+	1. At [[DA]] or [[MAP]], if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
 	3. During circling maneuver at or above MDA, airport not visible 
 10. Missed approach 

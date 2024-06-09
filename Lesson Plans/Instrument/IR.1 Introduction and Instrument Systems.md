@@ -83,8 +83,8 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 	9. Electrical instruments: ammeter, voltmeter, alternator 
 	10. Navigation radios and databases 
 		1. [[VOR]] Checks
-			1. 30-day VOR check
-			2. [[VOT]], GND VOR, airborne VOR, Dual VOR
+			1. 30 Day [[Ground-Based Navigation using VOR, DME, and ILS#VOR Checks]]
+			2. [[VOT]], GND VOR checkpoint, airborne VOR, Dual VOR
 		3. GPS 
 			1. [[WAAS]] vs non-WAAS
 			2. [[RAIM]] Check RAIM (RAIM prediction with old-style GPS, website: sapt.faa.gov)
