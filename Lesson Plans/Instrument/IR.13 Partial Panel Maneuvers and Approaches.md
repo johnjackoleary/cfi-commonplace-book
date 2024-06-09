@@ -47,9 +47,11 @@ Ground 1 hour, simulator and/or airplane 1 hour
 5. ATC notification 
 	1. Can also always ask for a delay vector
 6. No-gyro PAR approaches and ASR approaches 
-7. Common errors: 
+7. [[Human Factors]], especially [[Vestibular and Visual Illusions]]
+8. Common errors: 
 	1. Slow to recognize failure could result in unusual attitude 
 	2. Overcontrolling with partial panel 
+
 ### Completion Standards
 Student must demonstrate understanding of instrument systems and ability to diagnose instrument and system failures. Student must become proficient in partial panel procedures, including enroute and instrument approaches (to be practiced frequently in future lessons).
 
