@@ -44,7 +44,8 @@ Ground 1 hour, Flight 3 hours
 	8. Practice checkride including phase check as appropriate 
 	9. Logbook entries and endorsements 
 	10. Aircraft prep for checkride, tab MX records, POH/AFM, etc.
-	11. [[IFR Regulatory Review Assignment]]
+	11. [[Human Factors]] and [[Vestibular and Visual Illusions]] for instrument flight
+	12. [[IFR Regulatory Review Assignment]]
 3. Video, showing DPE’s perspectives on Instrument Practical Test - Andy Munnis (specifically on oral part of exam): https://www.youtube.com/watch?v=EUzR8f1Npss
  
 ### Completion Standards

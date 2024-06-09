@@ -6,11 +6,9 @@ tags:
   - syllabus
 ---
 ### Instrument Rating Airplane Single-Engine, Lesson Plan Outline
-> [!note]
-> "Lessons" will often consist of multiple ground and/or flight sessions.
+> [!note] "Lessons" will often consist of multiple ground and/or flight sessions.
 
-> [!note]
-> Relevant ground school or home study content to prep before each lesson can be found in [[~ IR Pre-Lesson Reading]].
+> [!note] Relevant ground school or home study content to prep before each lesson can be found in [[~ IR Pre-Lesson Reading]].
 
 #### Stage I: Flight by Reference to Instruments
 [[IR.1 Introduction and Instrument Systems]]

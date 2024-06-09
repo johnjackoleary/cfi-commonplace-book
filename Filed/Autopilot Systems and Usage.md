@@ -13,6 +13,9 @@
 	3. Task Management
 4. [[POH]] and [[AFM]] supplements pertaining to autopilot 
 	1. Preflight check of autopilot 
+		1. > [!note] Some autopilots include specific preflight steps, while others are surprisingly sparse
+		2. Generally good to check basic functionality and the ability to disconnect
+		3. Example GFC 500 [Autopilot Preflight Test](https://www.youtube.com/watch?v=PMRVKs64Rtw) by [Holladay Aviation](https://www.youtube.com/@HolladayAviation)
 	2. Autopilot usage, modes, GPS integration, altitude functions 
 	3. Ways to disengage
 	4. Limitations
@@ -23,10 +26,6 @@
 	3. VS, FLC, ALT, VNV
 	4. NAV
 	5. APP, BC
-7. Risks Associated with Autopilot Usage
-	1. Complacency
-	2. Unusual Attitude/Upset
-	3. Loss of Situational Awareness/Behind the Plane
 
 ## Autopilot Risks
 1. Complacency

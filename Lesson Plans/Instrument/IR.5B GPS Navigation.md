@@ -54,7 +54,7 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 	2. How to resume approach after holding? 
 	3. Pop-up or other method to resume sequencing to missed approach point
 	4. Use of vectors to final (VTF) with GPS (don’t do it!) 
-		1. If ATC changes their mind, you've already deleted all your points^[Usually, depending on the GPS being used]
+		1. If ATC changes their mind, you've already deleted all your points^[This was most true of older GPS models, many newer ones don't automatically delete all points]
 		2. Best to load full procedure and activate a specific leg along the approach when you're vectored in
 	5. Using GPS for guidance on ILS and VOR approaches – how and when to transition from GPS guidance to VOR or Localizer? Auto or manual?
 9. [[Autopilot Systems and Usage]]
@@ -65,7 +65,7 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 		2. Plus, want to practice flying ILS procedure turn without GPS, even though you can technically fly using GPS if you monitor ILS raw data
 	3. Autoswitch GPS>VLOC errors
 		1. Won't switch if vectored too close to FAF, or if GPS doesn't hear the morse code
-		2. DPEs call this the $800 button, since it's the most common cause of failures
+		2. DPEs call this the $1000 button, since it's the most common cause of failures
 	4. Switching autopilot between GPS, VOR, heading bug, etc. 
 	5. Always practicing with GPS flight plan installed or as a backup monitoring -- you should be able to fly a full IFR flight plan with only VOR equipment
 	6. Risk management - New or unfamiliar GPS demands significant practice with VFR conditions before using in IMC! GPS brings impressive capabilities and situational awareness, but at the risk of significant complexity and variability between systems! 

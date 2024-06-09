@@ -1,3 +1,5 @@
+> [!tip] You do not need to you use all of these resources, and you are welcome to use a different option if you'd like.
+
 > [!note] Text with a ~~strikethrough~~ is still relevant to a lesson, but was already listed in a prior lesson.
 
 | Section                                                               | FAA                                                             | Jeppesen Guided Flight Discovery Private Pilot^[See note below for links] |

@@ -29,10 +29,12 @@ VOR receivers detect the phase difference between a reference and variable signa
 
 ### Using VOR
 > [!tip]
-> It can be helpful to practice using a [[VOR]] in a simulator beforehand. Consider [Fergo IFR Simulator](https://www.fergonez.net/projects/ifrsimulator/) or your own favorite.
+> It can be helpful to practice using a [[VOR]] in a simulator beforehand. Consider [Fergo IFR Simulator](https://www.fergonez.net/projects/ifrsimulator/) or your favorite.
 
 1. VOR, OBS, CDI, To/From indicator, HSI, tuning, identification, and receiver check (logged in last 30 days) 
 	1. Always tune and identify!
+		1. > [!quote] From [[AIM 1]]-1-1c
+		> Some VOR equipment decodes the identifier and displays it to the pilot for verification to charts, while other equipment simply displays the expected identifier from a database.... If your equipment automatically decodes the identifier, it is not necessary to listen to the audio identification.
 	2. Can help to [[Think of VOR Radials as Two Not To]]
 2. Determining relative location
 	1. Where are you relative to the station? (Center CDI with FROM) 
@@ -53,7 +55,17 @@ VOR receivers detect the phase difference between a reference and variable signa
 See [[IR.8 Holding Patterns and Entries]]
 
 ### Regulations and Requirements
-#todo :: expand on this
+#### VOR Checks
+[[FAR 91.171 VOR Check|FAR 91.171]] requires a VOR check be performed within the preceding 30 days.
+
+| Method            | Max Error |
+| ----------------- | --------- |
+| VOT               | 4°        |
+| Ground Checkpoint | 4°        |
+| Dual              | 4°        |
+| Airborne          | 6°        |
+
+This check must be recorded with the date, place, bearing error, and your signature.
 
 #### [[VOR]] [[MON]]
 > [!quote] [Navigation Programs - Very High Frequency Omnidirectional Range Minimum Operational Network (VOR MON)](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gbng/vormon)
