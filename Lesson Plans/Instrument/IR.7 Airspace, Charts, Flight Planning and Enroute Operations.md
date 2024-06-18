@@ -17,20 +17,20 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight pla
 None
 
 ### Schedule
-Ground 2 hours 
+Ground 1.5 hours 
 
 ### Lesson Elements
 1. [[National Airspace System]] and Regulations 
 	1. Airspace classification 
-	2. VFR minimums 
-	3. IFR minimums for departure, approach, alternates
+	2. VFR minimums ([[Categorical Outlooks]])
+	3. IFR minimums for departure, approach, and alternates
 	4. Federal Airways
 		1. 4nm width
 2. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
 	3. Navaids
-	4. Q,T,V,J Routes, COPs, mileage
+	4. Q,T,V,J Routes, [[COP]]s, mileage
 	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s - Obstacle Clearance (Mountainous/Non-Mountainous)
 	6. [[MCA]], [[MRA]]
 	7. Finding airport and [[ARTCC]] frequencies 
@@ -38,13 +38,13 @@ Ground 2 hours
 3. Flight planning 
 	1. Navigation logs, plotters, computers (E6B, etc.), wind computations
 	2. Flight plan forms and filing 
-	3. Fuel planning and requirements (14CFR 91.167)
+	3. Fuel planning and requirements ([[FAR 91.167]])
 4. [[ATC]] system 
-	1. Communication and Navigation facilities (Approach, Departure, Center) 
+	1. Communication and Navigation facilities (Approach, Departure, Center)
 	2. Radar and transponders 
 	3. [[ADS-B]]
-	4. [[FSS]] 
-5. Alternates and Diversions 
+	4. [[FSS]]
+5. Alternates and Diversions
 	1. Alternate requirement ([[1-2-3 Rule]]) (14CFR 91.167(c))
 		1. Alternatives for non-[[WAAS]] cannot also use non-WAAS (AIM 1-1-17)
 	2. Non-standard Alternate minimums

@@ -32,7 +32,7 @@ Ground 0.5-hour, simulator^[Preferred due to being able to fail specific instrum
 	1. Unusual attitudes are those not normally required during instrument flight. Recovery includes prompt return to straight-and-level flight 
 	2. Full panel recoveries 
 	3. Partial panel recoveries 
-4. 3. Recognize nose-high unusual attitude: 
+4. Recognize nose-high unusual attitude: 
 	1. ASI slow or decreasing rapidly 
 	2. VSI shows climb, altimeter shows climb 
 	3. TC shows turn 

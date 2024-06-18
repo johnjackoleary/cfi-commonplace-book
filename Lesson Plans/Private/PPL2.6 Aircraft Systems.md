@@ -21,6 +21,8 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 ### Schedule
 3 hour ground (can be completed more quickly with good preparation)
 
+burn off spark plugs
+
 ### Lesson Elements 
 1. Aircraft Instruments
 	1. Pitot-Static System ([Pitot-Static Instruments](https://www.youtube.com/watch?v=kdFGbUouE_4) from [[ERAU SpecialVFR]])

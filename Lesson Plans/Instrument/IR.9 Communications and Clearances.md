@@ -26,7 +26,7 @@ Ground 1.5 hours
 ### Lesson Elements
 1. Communications
 	1. Priorities: Aviate, Navigate, Communicate 
-	2. Required position reports (MARVELOUS VFR C500) - (AIM 5-3-3)
+	2. Required position reports ([[MARVELOUS VFR C500]]) - (AIM 5-3-3)
 		1. Missed approach
 		2. Airspeed changes more than 10 knots or 5 percent
 		3. Reaching a holding fix
@@ -41,7 +41,7 @@ Ground 1.5 hours
 		12. Radio or nav failures
 		13. Compulsory reporting points (no radar)
 		14. 500 FPM climb or descent unable. 
-	3. Position report structure (PTATEN mnemonic) (AIM 5-3-2(d))
+	3. Position report structure ([[PTATEN]] mnemonic) (AIM 5-3-2(d))
 		1. Position
 		2. Time
 		3. Altitude
