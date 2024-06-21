@@ -17,13 +17,13 @@ None
 [[PPL5.2 Emergency Flight by Instruments - Unusual Attitude Recovery]]
 
 ### Schedule
-Ground 1.5-hour, simulator and/or airplane, 1.5 hours 
+Ground 0.5-hour, simulator^[Preferred due to being able to fail specific instruments] and/or airplane, 1.5 hours 
 
 ### Lesson Elements
 1. Causes of unusual flight attitudes 
-	1. Failure to properly trim the controls 
-	2. Distraction, or fixation 
-	3. Turbulence and Wake Turbulence 
+	1. Failure to properly trim the controls
+	2. Distraction, or fixation
+	3. Turbulence and wake turbulence
 2. Diagnosing system failures
 	1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
 	2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
@@ -32,7 +32,7 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 	1. Unusual attitudes are those not normally required during instrument flight. Recovery includes prompt return to straight-and-level flight 
 	2. Full panel recoveries 
 	3. Partial panel recoveries 
-4. 3. Recognize nose-high unusual attitude: 
+4. Recognize nose-high unusual attitude: 
 	1. ASI slow or decreasing rapidly 
 	2. VSI shows climb, altimeter shows climb 
 	3. TC shows turn 
@@ -50,6 +50,7 @@ Ground 1.5-hour, simulator and/or airplane, 1.5 hours
 	1. Failure to recognize unusual attitude 
 	2. Dependence on senses other than instrument indications 
 	3. Failure to use proper recovery sequence, i.e. power-pitch-bank for nose high, and power-bank-pitch for nose low 
+
 ### Completion Standards
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 

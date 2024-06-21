@@ -49,6 +49,8 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 	3. Ignition
 		1. [[Magneto]]s
 		2. Spark Plugs
+			1. Risk of carbon buildup
+			2. How to 'burn off' in a failed magneto check
 		3. Ignition Switch
 	4. Starter^[Often colocated with the ignition, but a different system]
 	5. Induction

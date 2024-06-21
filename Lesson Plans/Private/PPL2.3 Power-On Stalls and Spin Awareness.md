@@ -68,7 +68,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	5. Configure and perform power-off stall (no flaps), stick full aft
 	6. As stall breaks, add full rudder in desired direction of spin
 	7. Hold full aft elevator and full rudder for desired number of turns in spin
-	8. Recover with PARE procedure described above
+	8. Recover with [[POH]] (often [[PARE]]) procedure as described above
 	9. Pull up from dive and add power to regain altitude as necessary
 10. Common errors
 	1. Failure to configure aircraft properly (e.g. spinning with flaps down, since recover may exceed flap limit speed)
@@ -79,7 +79,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
 ### Completion Standards
-Client must be able to demonstrate power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
+Learner must be able to demonstrate power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
 
 The client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
 

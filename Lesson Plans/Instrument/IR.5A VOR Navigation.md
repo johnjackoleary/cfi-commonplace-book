@@ -20,7 +20,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. A
 - [[IR.4 Flight Deck Organization, Workload and Automation Management]]
 
 ### Schedule
-Ground 1 hour; simulator and/or airplane, 2 hours 
+Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
 
 ### Lesson Elements
 1. VOR Information from [[Ground-Based Navigation using VOR, DME, and ILS#VOR]]

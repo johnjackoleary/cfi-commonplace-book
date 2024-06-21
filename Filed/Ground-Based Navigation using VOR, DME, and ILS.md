@@ -31,7 +31,7 @@ VOR receivers detect the phase difference between a reference and variable signa
 > [!tip]
 > It can be helpful to practice using a [[VOR]] in a simulator beforehand. Consider [Fergo IFR Simulator](https://www.fergonez.net/projects/ifrsimulator/) or your favorite.
 
-1. VOR, OBS, CDI, To/From indicator, HSI, tuning, identification, and receiver check (logged in last 30 days) 
+1. VOR, OBS, CDI, To/From indicator, [[HSI]], tuning, identification, and receiver check (logged in last 30 days) 
 	1. Always tune and identify!
 		1. > [!quote] From [[AIM 1]]-1-1c
 		> Some VOR equipment decodes the identifier and displays it to the pilot for verification to charts, while other equipment simply displays the expected identifier from a database.... If your equipment automatically decodes the identifier, it is not necessary to listen to the audio identification.
@@ -41,7 +41,7 @@ VOR receivers detect the phase difference between a reference and variable signa
 	2. Where are you relative to assigned course? (Parallel course, set OBS to course, CDI needle points toward the course) 
 	3. Where are you relative to intersection defined by VOR radial? (Set OBS to radial, confirm FROM, if CDI needle deflected toward station, you’re not there yet. For HSI, CDI needle ahead, you’re not there yet.)
 3. VOR intercepts 
-	1. Use 45° intercept heading if CDI fully deflected. 
+	1. Use 40° intercept heading if CDI fully deflected. 
 	2. Use 20° intercept if CDI is alive
 4. VOR course tracking 
 	1. Wind correction angle – start with 20°s, at intercept, reduce to 10°s, keep reducing or increasing by half until it works. 
