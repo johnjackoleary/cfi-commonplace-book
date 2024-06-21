@@ -41,7 +41,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 	3. Teardrop (turn with 30° offset from outbound leg)
 5. Flying Hold
 	1. Workload Management
-		1. 5 T’s: Time, Turn, Throttle, Tune, Talk 
+		1. [[5 Ts]]: Time, Turn, Throttle, Tune, Talk 
 	2. Standard Turns = Right!!
 	3. DME/GPS vs. not
 		1. When not DME/GPS: 1min standard inbound leg (below 14000’)
@@ -50,20 +50,20 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 6. Accounting for Wind
 	1. Crosswind correction during pattern
 		1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg (AIM 5-3-8) 
-	2. More info from AOPA
+	2. More info from [[AOPA]] in [On Instruments: Flying in Place](https://www.aopa.org/news-and-media/all-news/2020/september/pilot/on-instruments-holding-patterns)
 7. Clearances
 	1. Direction of outbound leg from the fix in terms of the eight cardinal compass points 
 	2. Holding fix
 	3. Radial, course, bearing, airway or route 
 	4. Leg length in miles if DME or RNAV is to be used
 	5. Direction of turn if left turns are to be made
-	6. Expect further clearance (EFC) time and any pertinent additional delay information
+	6. Expect further clearance ([[EFC]]) time and any pertinent additional delay information
 8. Common Errors
 	1. Wasting fuel - use slow cruise or even max endurance speed if fuel is a factor
 	2. GPS confusion
 	3. Incorrect entry choice
 	4. Insufficient wind correction
-	5. Fuel monitoring and “minimum fuel” situations (Avianca Flight)
+	5. Fuel monitoring and “minimum fuel” situations ([Avianca Flight](https://en.wikipedia.org/wiki/Avianca_Flight_052))
 
 
 ### Completion Standards

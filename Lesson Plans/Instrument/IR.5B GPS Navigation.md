@@ -18,7 +18,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 [[IR.5A VOR Navigation]]
 
 ### Schedule
-Ground 1-hour, simulator and/or airplane, 2 hours^[may need only half this time if PPL training was thourough]
+Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
 
 ### Lesson Elements
 1. [[Satellite Navigation using GPS and GNSS]]

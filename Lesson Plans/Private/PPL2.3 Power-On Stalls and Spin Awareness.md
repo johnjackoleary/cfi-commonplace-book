@@ -68,7 +68,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	5. Configure and perform power-off stall (no flaps), stick full aft
 	6. As stall breaks, add full rudder in desired direction of spin
 	7. Hold full aft elevator and full rudder for desired number of turns in spin
-	8. Recover with PARE procedure described above^[Or the POH procedure should be used if they differ]
+	8. Recover with [[POH]] (often [[PARE]]) procedure as described above
 	9. Pull up from dive and add power to regain altitude as necessary
 10. Common errors
 	1. Failure to configure aircraft properly (e.g. spinning with flaps down, since recover may exceed flap limit speed)
