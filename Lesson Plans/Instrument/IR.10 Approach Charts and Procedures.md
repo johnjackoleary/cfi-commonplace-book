@@ -82,7 +82,6 @@ Ground 1.5 hours
 		4. Runway, runway markings, runway lights
 		5. Touchdown zone, touchdown zone markings, touchdown zone lights
 		6. [[VGSI]]
-	4. Threshold
 9. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At [[DA]] or [[MAP]], if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
@@ -115,6 +114,7 @@ Ground 1.5 hours
 	4. Unstable approach, failure to configure for approach and landing 
 	5. Descent below DA (slight dip is allowed)
 
+flaps in landing
 
 ### Completion Standards
 Learner understand the information contained in an approach plate and is able to brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.

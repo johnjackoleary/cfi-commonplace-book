@@ -20,7 +20,7 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 - [[IR.10 Approach Charts and Procedures]]
 
 ### Schedule
-Ground 30m, Sim – 2.5 hours 
+Ground 30m, Sim/airplane – 2.5 hours 
 
 ### Lesson Elements
 
@@ -41,7 +41,7 @@ Ground 30m, Sim – 2.5 hours
 	2. GPS Failures
 	
 ### Completion Standards
-Student must demonstrate proficiency at understanding the different types of RNAV (GPS) approaches, different landing minimums, and basic shapes of RNAV (GPS) approaches. Student should be introduced to RNAV (GPS) approaches by flying multiple approaches in an approved simulator
+Student must demonstrate proficiency at understanding the different types of RNAV (GPS) approaches, different landing minimums, and basic shapes of RNAV (GPS) approaches. Student should be introduced to RNAV (GPS) approaches by flying multiple approaches in an approved simulator.
 
 ### Required Logbook Phraseology
 
