@@ -6,6 +6,7 @@
 | KSNS RNAV 13  | LPV               |                          |
 | KNUQ RNAV 32R | Step downs        |                          |
 | C83 RNAV 30   | Discussion on VTF |                          |
+| KDVO RNAV 13  | LP                  |                          |
 
 Suggested Circuits: 
 - RNAV 11 KOAR -> RNAV 13 SNS -> RNAV 32R KNUQ
@@ -26,7 +27,7 @@ Suggested Circuits:
 | KOAK ILS or LOC/DME 28R | Sidestep                           |             |
 
 Suggested Circuit:
-- KMOD ILS 28R -> KSCK ILS 29R -> KLVK ILS 25R
+- KSCK ILS 29R -> KLVK ILS 25R -> KHWD LOC/DME 28L
 
 ## VOR ([[IR.11C VOR + Circling Approaches]])
 | Approach       | Skill Areas                                       | XC Distance |
@@ -37,15 +38,17 @@ Suggested Circuit:
 | KSNS VOR 13    |                                                   |             |
 | KPRB VOR-B, 19 | DME Arc                                           |             |
 | KWVI VOR-A     | DME Arc                                           |             |
-| KTCY VOR 26           |                                                   |             |
+| KTCY VOR 26    |                                                   |             |
 
 Suggested Circuit:
+- KSNS VOR 13 -> KWVI VOR A
 - KPRB VOR 19 -> KPRB VOR-B
+- KCCR VOR 19R -> KAPC VOR 6
 
 ## Holds, Course Reversals, TAA, Etc
 #todo :: Add a few suggestions
 
 # Checkride Prep
-- KSQL VFR-to-IFR departure -> KHAF RNAV 30 -> KNUQ ILS 32R -> KOAK ILS 28R
-- KCCR (BCHN.2.CROIT) -> KAPC ILS 1L -> Missed -> KAPC VOR 6 circle to land -> KCCR 19R
+- KSQL VFR-to-IFR departure -> KHAF RNAV 30 -> KNUQ ILS 32R -> KPAO RNAV 31
+- KCCR (BCHN.2.CROIT) -> KAPC ILS 1L -> Missed -> KAPC VOR 6 circle to land -> KCCR 19R RNAV
 - KTCY RNAV 12 circle-to-land -> KTCY VOR 26 -> Missed -> KLVK ILS 25R
