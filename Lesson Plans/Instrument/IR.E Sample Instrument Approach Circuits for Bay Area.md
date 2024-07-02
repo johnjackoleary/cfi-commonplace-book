@@ -27,7 +27,7 @@ Suggested Circuits:
 | KOAK ILS or LOC/DME 28R | Sidestep                           |             |
 
 Suggested Circuit:
-- KSCK ILS 29R -> KLVK ILS 25R -> KHWD LOC/DME 28L
+- KSCK ILS 29R, turn at IPDEW -> KLVK ILS 25R, touch and go -> KHWD LOC/DME 28L
 
 ## VOR ([[IR.11C VOR + Circling Approaches]])
 | Approach       | Skill Areas                                       | XC Distance |
