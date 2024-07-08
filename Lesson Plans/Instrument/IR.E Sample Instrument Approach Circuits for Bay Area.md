@@ -25,6 +25,7 @@ Suggested Circuits:
 | KMRY LOC 28L            |                                    |             |
 | KHWD LOC/DME 28L        |                                    |             |
 | KOAK ILS or LOC/DME 28R | Sidestep                           |             |
+|                         |          BC?                          |             |
 
 Suggested Circuit:
 - KSCK ILS 29R, turn at IPDEW -> KLVK ILS 25R, touch and go -> KHWD LOC/DME 28L
