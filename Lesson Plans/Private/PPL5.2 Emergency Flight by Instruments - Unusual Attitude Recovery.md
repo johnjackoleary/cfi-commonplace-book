@@ -47,7 +47,7 @@ Hood or foggles
 5. Common Errors
 	1. Failure to recognize unusual attitude
 	2. Dependency on sense other than instrument indications
-	3. Failure to use proper recovery sequence, i.d. power-pitch-bank for nose-high, and power-bank-pitch for nose low
+	3. Failure to use proper recovery sequence
 
 ### Completion Standards
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
