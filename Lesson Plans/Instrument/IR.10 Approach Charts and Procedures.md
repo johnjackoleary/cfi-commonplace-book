@@ -78,11 +78,11 @@ Ground 1.5 hours
 	2. AND Flight visibility >= minimum 
 	3. AND any one of:
 		1. [[ALS]], although only to [[TDZE]]+100’
-		2. Threshold, threshold markings, threshold lights
-		3. Runway end identifier lights
-		4. Runway, runway markings, runway lights
-		5. Touchdown zone, touchdown zone markings, touchdown zone lights
-		6. [[VGSI]]
+		2. Runway end identifier lights
+		3. [[VGSI]]
+		4. Threshold, threshold markings, threshold lights
+		5. Runway, runway markings, runway lights
+		6. Touchdown zone, touchdown zone markings, touchdown zone lights
 9. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At [[DA]] or [[MAP]], if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
