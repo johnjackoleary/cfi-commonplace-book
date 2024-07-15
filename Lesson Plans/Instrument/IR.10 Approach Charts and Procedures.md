@@ -116,7 +116,7 @@ Ground 1.5 hours
 	5. Descent below DA (slight dip is allowed)
 
 ### Completion Standards
-Learner understand the information contained in an approach plate and is able to brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
+Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
 
 ### Required Logbook Phraseology
 
