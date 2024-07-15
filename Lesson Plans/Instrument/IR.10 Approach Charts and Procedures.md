@@ -70,6 +70,7 @@ Ground 1.5 hours
 	4. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
+	5. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
 7. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 8. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
@@ -113,8 +114,6 @@ Ground 1.5 hours
 	3. Using wrong navigation source during approach 
 	4. Unstable approach, failure to configure for approach and landing 
 	5. Descent below DA (slight dip is allowed)
-
-flaps in landing
 
 ### Completion Standards
 Learner understand the information contained in an approach plate and is able to brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
