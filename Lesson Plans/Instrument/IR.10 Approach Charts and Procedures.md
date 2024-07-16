@@ -70,6 +70,7 @@ Ground 1.5 hours
 	4. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
+	5. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
 7. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 8. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
@@ -77,12 +78,11 @@ Ground 1.5 hours
 	2. AND Flight visibility >= minimum 
 	3. AND any one of:
 		1. [[ALS]], although only to [[TDZE]]+100’
-		2. Threshold, threshold markings, threshold lights
-		3. Runway end identifier lights
-		4. Runway, runway markings, runway lights
-		5. Touchdown zone, touchdown zone markings, touchdown zone lights
-		6. [[VGSI]]
-	4. Threshold
+		2. Runway end identifier lights
+		3. [[VGSI]]
+		4. Threshold, threshold markings, threshold lights
+		5. Runway, runway markings, runway lights
+		6. Touchdown zone, touchdown zone markings, touchdown zone lights
 9. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At [[DA]] or [[MAP]], if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
@@ -115,9 +115,8 @@ Ground 1.5 hours
 	4. Unstable approach, failure to configure for approach and landing 
 	5. Descent below DA (slight dip is allowed)
 
-
 ### Completion Standards
-Learner understand the information contained in an approach plate and is able to brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
+Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
 
 ### Required Logbook Phraseology
 

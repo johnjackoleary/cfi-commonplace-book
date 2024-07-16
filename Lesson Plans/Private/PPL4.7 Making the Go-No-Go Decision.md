@@ -34,6 +34,7 @@ Ground 1 hours
 	2. [[5 Hazardous Attitudes and Antidotes]]
 	3. [[Operational Pitfalls]]
 	4. [[Risk Management]] and [[Flight Risk Assessment Tool Worksheet]]
+		1. [[Personal Minimums]]
 3. Where else can you get help making the call?
 	1. Weather briefers
 	2. Your CFI

@@ -26,7 +26,7 @@ Hood or foggles
 
 ### Lesson Elements
 1. Introduction to Instrument Scan (ground portion)
-	1. Primary and supporting instruments
+	1. Primary/supporting instruments vs. control/performance instruments
 	2. Instrument Scan
 		1. Control and performance instruments
 		2. Instrument cross-check, types of scans
@@ -38,7 +38,7 @@ Hood or foggles
 2. Attitude instrument flight basics
 	1. Straight and Level flight ([[IFH]] 7-2)
 	2. Straight climbs and descents (IFH 7-14)
-		1. Power-Pitch-Trim sequence to initiate climb, Pitch-Power-Trim for descent.
+		1. Pitch-Power-Trim sequence to initiate climb, Power-Pitch-Trim for descent.
 	3. Turns (IFH 7-19)
 4. Common errors
 	1. Spatial disorientation (see [[Vestibular and Visual Illusions]])
