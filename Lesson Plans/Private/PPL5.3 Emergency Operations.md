@@ -4,6 +4,9 @@ tags: ppl, lesson
 aliases: [PPL.24, XC.9, PPL5.3]
 ---
 
+
+https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/ especially for two pilots
+
 ### Objective
 Develop knowledge of all abnormal and emergency procedures for the training aircraft in use, including all ACS risk management and skill tasks.
 
