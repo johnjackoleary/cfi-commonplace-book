@@ -5,5 +5,5 @@ Flight controls
 Autopilot 
 Radio
 Navigation
-Landing
+Landing in emergencies (airspeed control and landing attitude )
 Instrument conditions 
