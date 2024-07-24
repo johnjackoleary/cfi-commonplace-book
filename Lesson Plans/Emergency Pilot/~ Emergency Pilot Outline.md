@@ -9,4 +9,5 @@ Flight controls and Autopilot
 Radio and Navigation
 Aeromedical information (could you also become incapacitated)
 Instruments and Landing in emergencies (airspeed control and landing attitude )
+Parachutes 
 Instrument conditions 
