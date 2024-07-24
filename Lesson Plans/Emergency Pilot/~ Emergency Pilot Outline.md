@@ -1,5 +1,5 @@
 All done from right seat
-Goal is learn to land in emergency, but also learn more what is going on flying with partner 
+Goal is learn to land in emergency, but also learn more what is going on flying with partner for more enjoyable flights. Can also help with workload in high workload portions  
 https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/pinch-hitter
 https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-syllabi/pinchhitter.pdf
 
