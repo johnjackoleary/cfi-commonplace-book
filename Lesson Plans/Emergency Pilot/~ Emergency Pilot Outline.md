@@ -6,7 +6,7 @@ https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-syllabi/
 
 
 Flight controls and Autopilot
-Radio and Navigation
+Radio Use and Navigation
 Aeromedical information (could you also become incapacitated)
 Instruments and Landing in emergencies (airspeed control and landing attitude, stall avoidance)
 Parachutes 
