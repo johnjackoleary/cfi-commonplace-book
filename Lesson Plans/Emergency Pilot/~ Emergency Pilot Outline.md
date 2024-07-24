@@ -3,6 +3,7 @@ Goal is learn to land in emergency, but also learn more what is going on flying 
 https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/pinch-hitter
 https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-syllabi/pinchhitter.pdf
 
+Checklist handout probably worthwhile 
 
 
 Flight controls and Autopilot
