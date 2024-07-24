@@ -6,6 +6,8 @@ https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-syllabi/
 Checklist handout probably worthwhile 
 
 
+Discussion of actual risk involved, very low likelihood to need these skills
+
 Flight controls and Autopilot
 Radio Use, Transponders, and Navigation (atc instructions or GPS)
 Aeromedical information (could you also become incapacitated)
