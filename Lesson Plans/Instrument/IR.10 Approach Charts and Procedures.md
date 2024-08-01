@@ -71,8 +71,10 @@ Ground 1.5 hours
 		1. Timing from FAF to MAP
 		2. GPS/DME
 	5. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
+	6. Using vertical guiadnace beyond FAF(?) https://www.ifr-magazine.com/avionics/watch-your-stepdown/
 7. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
+	2. Inop equipment impact? (here?)
 8. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
 	1. Continuously in position to land, with normal descent rate and maneuvers 
 	2. AND Flight visibility >= minimum 

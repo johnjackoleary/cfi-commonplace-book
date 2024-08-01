@@ -3,7 +3,9 @@ In addition to the suggestions in [[PPL.E Suggestions for XC Activities and Dest
 
 # Resources and Reading
 
-# [[WINGS - Pilot Proficiency Program|WINGS]] and Proficiency
+# Keeping Proficient
+## [[WINGS - Pilot Proficiency Program|WINGS]] 
+
 | WINGS Credit for Initial Certification - Private Pilot                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%201112) |

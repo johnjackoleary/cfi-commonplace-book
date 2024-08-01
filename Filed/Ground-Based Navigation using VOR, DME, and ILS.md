@@ -93,6 +93,7 @@ An aircraft sends a interrogation pulses to a [[DME]] ground station, then the g
 4. Note how quickly the needle swings, and lead turn appropriately
 	1. Should lead by ~1nm
 	2. Consider (60 / DME distance) = degrees deflection to lead by
+5. Alternative: hold bearing pointer at wings (although need to account still for wind)
 
 ## ILS
 1. Localizer  (Lateral)
