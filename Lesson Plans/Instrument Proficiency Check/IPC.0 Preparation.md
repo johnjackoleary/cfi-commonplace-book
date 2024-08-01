@@ -9,6 +9,8 @@ Gather background information and set expectations for an [[IPC]].
 - Based on [[AC 61-98]] and [[Instrument ACS]]
 - [[AOPA]] has a good [writeup on IPCs](https://www.aopa.org/news-and-media/all-news/2022/may/pilot/on-instruments-facing-the-ipc)
 
+[[WINGS - Pilot Proficiency Program|WINGS]]: https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%201501 or https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%2077196 ?
+
 ### Builds On
 N/A
 
