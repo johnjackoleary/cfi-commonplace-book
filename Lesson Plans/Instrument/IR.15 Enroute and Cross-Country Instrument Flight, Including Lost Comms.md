@@ -22,6 +22,9 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
 [[IR.14 IFR Weather and Weather Services]]
 
+
+https://aviationnewstalk.libsyn.com/342-n990pt-cirrus-sr22-fatal-accident-at-kbhb-bar-harbor-maine
+
 ### Schedule
 Ground 1.5 hours, Flight 3 hours 
 
