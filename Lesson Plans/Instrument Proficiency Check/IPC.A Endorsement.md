@@ -3,8 +3,6 @@
 
 I certify that \[First name, MI, Last name\], \[grade of pilot certificate\], \[certificate number\], has satisfactorily completed the instrument proficiency check of § 61.57(d) in a \[make and model\] aircraft on \[date\].
 
-## Optional for [[WINGS - Pilot Proficiency Program|WINGS]]
-
 
 ***Source***: [[AC 61-65]]
 

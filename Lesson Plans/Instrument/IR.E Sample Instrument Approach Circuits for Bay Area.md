@@ -53,3 +53,5 @@ Suggested Circuit:
 - KSQL VFR-to-IFR departure -> KHAF RNAV 30 -> KNUQ ILS 32R -> KPAO RNAV 31
 - KCCR (BCHN.2.CROIT) -> KAPC ILS 1L -> Missed -> KAPC VOR 6 circle to land -> KCCR 19R RNAV
 - KTCY RNAV 12 circle-to-land -> KTCY VOR 26 -> Missed -> KLVK ILS 25R
+
+*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
