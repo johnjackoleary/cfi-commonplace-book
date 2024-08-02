@@ -77,7 +77,7 @@ This check must be recorded with the date, place, bearing error, and your signat
 > [[VHF]] transmissions require line-of-sight
 
 ## DME
-An aircraft sends a interrogation pulses to a [[DME]] ground station, then the ground station transmits paired pulses back to the aircraft at same spacing but different frequency. The time required to receive a response is used to determine [[slant range]] distance to the ground station.
+An aircraft sends interrogation pulses to a [[DME]] ground station, then the ground station transmits paired pulses back to the aircraft at same spacing but different frequency. The time required to receive a response is used to determine [[slant range]] distance to the ground station.
 
 >[!warning] DME uses [[slant range]] distance.
 
@@ -93,7 +93,7 @@ An aircraft sends a interrogation pulses to a [[DME]] ground station, then the g
 4. Note how quickly the needle swings, and lead turn appropriately
 	1. Should lead by ~1nm
 	2. Consider (60 / DME distance) = degrees deflection to lead by
-5. Alternative: hold bearing pointer at wings (although need to account still for wind)
+5. Alternatively, consider using a bearing pointer and keeping it pointed at 90° to your heading^[Although remember, you'll still need to account for wind]
 
 ## ILS
 1. Localizer  (Lateral)

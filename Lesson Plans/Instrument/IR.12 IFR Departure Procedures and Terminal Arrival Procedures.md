@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Develop proficiency in using [[SID]]s, [[STAR]]s, and [[ODP]]s. Understand takeoff minimums and required aircraft performance for Departure Procedures. 
+Develop proficiency in using [[SID]]s, [[STAR]]s, [[ODP]]s, and more. Understand takeoff minimums and required aircraft performance for Departure Procedures. 
 
 ### Resources
 - [[TERPS]]

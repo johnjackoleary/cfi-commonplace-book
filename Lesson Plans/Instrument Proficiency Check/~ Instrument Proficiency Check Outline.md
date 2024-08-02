@@ -18,3 +18,4 @@ tags:
 [[IPC.A Endorsement]]
 [[IPC.B Requirements]]
 [[IPC.C Background Information]]
+[[IPC.D WINGS Credit]]

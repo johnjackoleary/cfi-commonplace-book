@@ -1,18 +1,21 @@
 # Your First Few Flights
-In addition to the suggestions in [[PPL.E Suggestions for XC Activities and Destinations]]
+Some initial suggestions are in [[PPL.E Suggestions for XC Activities and Destinations]].
+
+#todo :: Add more suggestions for early flights, especially around the Bay Area
 
 # Resources and Reading
+## Websites
+- [[AOPA]]
+- [[Bold Method]]
 
-# Keeping Proficient
-## [[WINGS - Pilot Proficiency Program|WINGS]] 
+## Books
+- [Stick and Rudder](https://en.wikipedia.org/wiki/Stick_and_Rudder)
+- [Fate Is the Hunter](https://en.wikipedia.org/wiki/Fate_Is_the_Hunter)
+- [101 Things To Do With Your Private Pilot's License](https://g.co/kgs/BE8zwop)
 
-| WINGS Credit for Initial Certification - Private Pilot                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| [Accredited Activity Page](https://www.faasafety.gov/WINGS/pub/accreditedactivities/accreditedActivityViewer.aspx?aaid=%201112) |
-| Activity # A071102-02                                                                                                           | 
-| Credits for Basic Flight Topic 1-3 and Basic Knowledge Topic 1-3                                                                                               |
-| No Activity Worksheet                                                                                                           |
+# Keeping Proficient with [[WINGS - Pilot Proficiency Program|WINGS]] 
+By completing your private pilot checkride, you can claim WINGS credit for all three basic ground and knowledge credits. See [[WINGS.PPL Initial Certification - Private Pilot]] for more information on this.
 
-WINGS credit for checkride - 
+The WINGS program is a great way to keep proficient as a pilot. You can learn more about the program in [[WINGS - Pilot Proficiency Program|WINGS]], [[WINGS.B Requirements]], or on [their website](https://www.faasafety.gov/WINGS/pub/learn_more.aspx).
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
