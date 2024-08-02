@@ -41,6 +41,7 @@ tags:
 [[IR.C Important References to Study]]
 [[IR.D Kneeboard Cheatsheets]]
 [[IR.E Sample Instrument Approach Circuits for Bay Area]]
+[[IR.F Beyond Your Instrument Rating]]
 
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]

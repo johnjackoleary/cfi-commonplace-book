@@ -73,6 +73,7 @@ tags:
 [[PPL.C When to Acquire Various Equipment]]
 [[PPL.D Suggestions for Solo Flight Practice]]
 [[PPL.E Suggestions for XC Activities and Destinations]]
+[[PPL.F Beyond Your Private Pilot]]
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]

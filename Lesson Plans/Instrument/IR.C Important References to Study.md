@@ -18,3 +18,5 @@
 	3. G1000 failure mode guidance for CFIs and DPEs: [[G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
 
 #todo :: would be good to combine this with [[~ IR Pre-Lesson Reading]]
+
+*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
