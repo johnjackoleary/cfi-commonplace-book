@@ -28,6 +28,8 @@ Suggested Circuits:
 Suggested Circuit:
 - KMOD ILS 28R -> KSCK ILS 29R -> KLVK ILS 25R
 
+SMX Has BC
+
 ## VOR ([[IR.11C VOR + Circling Approaches]])
 | Approach       | Skill Areas                                       | XC Distance |
 | -------------- | ------------------------------------------------- | ----------- |
