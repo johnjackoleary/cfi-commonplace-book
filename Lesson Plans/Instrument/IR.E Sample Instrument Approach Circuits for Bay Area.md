@@ -30,6 +30,8 @@ Suggested Circuits:
 Suggested Circuit:
 - KSCK ILS 29R, turn at IPDEW -> KLVK ILS 25R, touch and go -> KHWD LOC/DME 28L
 
+SMX Has BC
+
 ## VOR ([[IR.11C VOR + Circling Approaches]])
 | Approach       | Skill Areas                                       | XC Distance |
 | -------------- | ------------------------------------------------- | ----------- |
