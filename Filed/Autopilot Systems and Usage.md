@@ -19,7 +19,7 @@
 	2. Autopilot usage, modes, GPS integration, altitude functions 
 	3. Ways to disengage
 	4. Limitations
-5. VVM: Verbalize, Verify, Monitor 
+5. [[VVM]]: Verbalize, Verify, Monitor 
 6. Autopilot Function Demonstrations (Sim or Plane)
 	1. Pitch and Roll
 	2. HDG
@@ -31,7 +31,7 @@
 1. Complacency
 2. Unusual Attitude/Upset
 3. Loss of Situational Awareness/Behind the Plane
-4. Autopilot Surprise
+4. Autopilot Surprise^[A term from [[Jeppesen Instrument-Commercial]] for when the autopilot does something unexpected. Related to [[Children of the Magenta Line]].]
 
 ***Demonstration of risks, completed in a simulator***
 1. Stall
@@ -42,7 +42,7 @@
 
 
 ## Case Studies
-- [Children of the Magenta Line](https://www.youtube.com/watch?v=5ESJH1NLMLs)
+- [[Children of the Magenta Line]]
 - [American 965 Crash](https://www.faa.gov/lessons_learned/transport_airplane/accidents/N651AA)
 
 # Additional Resources
