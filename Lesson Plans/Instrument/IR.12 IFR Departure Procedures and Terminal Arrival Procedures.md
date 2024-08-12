@@ -25,7 +25,7 @@ Ground 1.5 hours, flight 3 hours
 1. Takeoff Minimums
 	1. [[FAR 91.175 IFR Takeoff and Landing]]
 	2. Non-standard
-	3. Personal minimums that allow for an approach after departure, if needed
+	3. [[Personal minimums]] that allow for an approach after departure, if needed
 2.  Departures
 	1. > [!quote] From [[AIM 5]]-2
 	> Unless specified otherwise, required obstacle clearance for all departures, including diverse, is based on the pilot crossing the departure end of the runway at least 35 feet above the departure end of runway elevation, climbing to 400 feet above the departure end of runway elevation before making the initial turn, and maintaining a minimum climb gradient of 200 feet per nautical mile (FPNM), unless required to level off by a crossing restriction, until the minimum IFR altitude.
@@ -37,9 +37,9 @@ Ground 1.5 hours, flight 3 hours
 	4. [[DP]]s: [[ODP]], [[SID]], [[DVA]]
 		1. SIDs
 			1. Examples
-				1. Vectors - [KFAT YOSEMITE 3](https://aeronav.faa.gov/d-tpp/2403/00162YOSEMITE.PDF)
-				2. Pilot Nav - [KSFO MOLEN 9](https://aeronav.faa.gov/d-tpp/2403/00375MOLEN.PDF), [KCCR BUCHANAN 2](https://aeronav.faa.gov/d-tpp/2403/05320BUCHANAN.PDF) 
-				3. RNAV - [KSFO TRUKN 2](https://aeronav.faa.gov/d-tpp/2403/00375TRUKN.PDF), [KSJC SPTNS 1](https://aeronav.faa.gov/d-tpp/2403/00693SPTNS.PDF)
+				1. Vectors - [KFAT YOSEMITE 3](https://aeronav.faa.gov/d-tpp/2407/00162YOSEMITE.PDF)
+				2. Pilot Nav - [KSFO MOLEN 9](https://aeronav.faa.gov/d-tpp/2407/00375MOLEN.PDF), [KCCR BUCHANAN 2](https://aeronav.faa.gov/d-tpp/2407/05320BUCHANAN.PDF) 
+				3. RNAV - [KSFO TRUKN 2](https://aeronav.faa.gov/d-tpp/2407/00375TRUKN.PDF), [KSJC SPTNS 1](https://aeronav.faa.gov/d-tpp/2407/00693SPTNS.PDF)
 			2. Use of "NO SID" in flight plan remarks
 		3. ODP
 			1. Examples

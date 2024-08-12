@@ -31,6 +31,7 @@
 1. Complacency
 2. Unusual Attitude/Upset
 3. Loss of Situational Awareness/Behind the Plane
+4. Autopilot Surprise
 
 ***Demonstration of risks, completed in a simulator***
 1. Stall
