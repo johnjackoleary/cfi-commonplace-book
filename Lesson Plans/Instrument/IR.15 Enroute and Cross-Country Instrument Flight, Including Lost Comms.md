@@ -14,6 +14,7 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 - [[IFH]]
 - [[IPH]] 
 - [[Instrument ACS]] Section 1.C
+- https://aviationnewstalk.libsyn.com/342-n990pt-cirrus-sr22-fatal-accident-at-kbhb-bar-harbor-maine
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
