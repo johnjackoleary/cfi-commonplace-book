@@ -35,7 +35,7 @@ Ground 1.5 hours, Flight 3 hours
 	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
 	3. Fuel planning and monitoring, and definitions of minimum and emergency fuel 
 	4. Alternate airport selection and planning
-		1. https://www.boldmethod.com/shorts/shorts.ifr.0103/
+		1. [The Advantage Of Landing On Runways With An ILS](https://www.boldmethod.com/shorts/shorts.ifr.0103/)
 	5. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
 	6. Personal minimums and go/no-go decisions. 
 	7. Filing IFR flight plan, and procedures for activating and closing IFR flight plans

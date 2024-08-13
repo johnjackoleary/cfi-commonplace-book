@@ -12,20 +12,21 @@ Suggested Circuits:
 - RNAV 11 KOAR -> RNAV 13 SNS -> RNAV 32R KNUQ
 
 ## ILS ([[IR.11B ILS + LOC Approaches]])
-| Approach                | Skill Areas                        | XC Distance |
-| ----------------------- | ---------------------------------- | ----------- |
-| KLVK ILS 25R            |                                    |             |
-| KSCK ILS 26R            | HILPT at IAF                       |             |
-| KSNS ILS 31             |                                    |             |
-| KMOD ILS                |                                    |             |
-| KNUQ ILS 32R            |                                    |             |
-| KSUU ILS 21L            | Multiple IAP types on single chart |             |
-| KWVI LOC 2              |                                    |             |
-| KCCR 19R LDA            | LDA                                |             |
-| KMRY LOC 28L            |                                    |             |
-| KHWD LOC/DME 28L        |                                    |             |
-| KOAK ILS or LOC/DME 28R | Sidestep                           |             |
-|                         |          BC?                          |             |
+| Approach                                                                              | Skill Areas                        | XC Distance |
+| ------------------------------------------------------------------------------------- | ---------------------------------- | ----------- |
+| KLVK ILS 25R                                                                          |                                    |             |
+| KSCK ILS 26R                                                                          | HILPT at IAF                       |             |
+| KSNS ILS 31                                                                           |                                    |             |
+| KMOD ILS                                                                              |                                    |             |
+| KNUQ ILS 32R                                                                          |                                    |             |
+| KSUU ILS 21L                                                                          | Multiple IAP types on single chart |             |
+| KWVI LOC 2                                                                            |                                    |             |
+| KCCR 19R LDA                                                                          | LDA                                |             |
+| KMRY LOC 28L                                                                          |                                    |             |
+| KHWD LOC/DME 28L                                                                      |                                    |             |
+| KOAK ILS or LOC/DME 28R                                                               | Sidestep                           |             |
+| [KMCE LOC BC RWY 12](https://cfijack.com/latest-plate-redirect/?plate=00665LBC12.PDF) | BC                                   |             |
+| [KSMX LOC/DME BC-A](https://cfijack.com/latest-plate-redirect/?plate=00379LDBCA.PDF)  | BC                                 |             |
 
 Suggested Circuit:
 - KSCK ILS 29R, turn at IPDEW -> KLVK ILS 25R, touch and go -> KHWD LOC/DME 28L

@@ -1,0 +1,1 @@
+https://cfijack.com/latest-plate-redirect/?plate=
