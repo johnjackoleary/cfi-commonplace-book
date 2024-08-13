@@ -1,6 +1,5 @@
 ---
 aliases:
-  - nm
   - Nautical Mile
 ---
 ***Meaning*** :: <u>N</u>autical <u>M</u>ile
