@@ -25,7 +25,7 @@ Ground 1.5 hours, flight 3 hours
 1. Takeoff Minimums
 	1. [[FAR 91.175 IFR Takeoff and Landing]]
 	2. Non-standard
-	3. Personal minimums that allow for an approach after departure, if needed
+	3. [[Personal minimums]] that allow for an approach after departure, if needed
 2.  Departures
 	1. > [!quote] From [[AIM 5]]-2
 	> Unless specified otherwise, required obstacle clearance for all departures, including diverse, is based on the pilot crossing the departure end of the runway at least 35 feet above the departure end of runway elevation, climbing to 400 feet above the departure end of runway elevation before making the initial turn, and maintaining a minimum climb gradient of 200 feet per nautical mile (FPNM), unless required to level off by a crossing restriction, until the minimum IFR altitude.
@@ -37,40 +37,40 @@ Ground 1.5 hours, flight 3 hours
 	4. [[DP]]s: [[ODP]], [[SID]], [[DVA]]
 		1. SIDs
 			1. Examples
-				1. Vectors - [KFAT YOSEMITE 3](https://aeronav.faa.gov/d-tpp/2403/00162YOSEMITE.PDF)
-				2. Pilot Nav - [KSFO MOLEN 9](https://aeronav.faa.gov/d-tpp/2403/00375MOLEN.PDF), [KCCR BUCHANAN 2](https://aeronav.faa.gov/d-tpp/2403/05320BUCHANAN.PDF) 
-				3. RNAV - [KSFO TRUKN 2](https://aeronav.faa.gov/d-tpp/2403/00375TRUKN.PDF), [KSJC SPTNS 1](https://aeronav.faa.gov/d-tpp/2403/00693SPTNS.PDF)
+				1. Vectors - [KFAT YOSEMITE 3](https://cfijack.com/latest-plate-redirect/?plate=00162YOSEMITE.PDF)
+				2. Pilot Nav - [KSFO MOLEN 9](https://cfijack.com/latest-plate-redirect/?plate=00375MOLEN.PDF), [KCCR BUCHANAN 2](https://cfijack.com/latest-plate-redirect/?plate=05320BUCHANAN.PDF) 
+				3. RNAV - [KSFO TRUKN 2](https://cfijack.com/latest-plate-redirect/?plate=00375TRUKN.PDF), [KSJC SPTNS 1](https://cfijack.com/latest-plate-redirect/?plate=00693SPTNS.PDF)
 			2. Use of "NO SID" in flight plan remarks
 		3. ODP
 			1. Examples
-				1. [KOAK](https://aeronav.faa.gov/d-tpp/2407/SW2TO.PDF#page=19) (Textual)
-				2. [KSTS](https://aeronav.faa.gov/d-tpp/2407/SW2TO.PDF#page=28) (Textual)
-				3. [KWVI - WATSONVILLE 4](https://aeronav.faa.gov/d-tpp/2407/00805WATSONVILLE.PDF) (Graphical)
-				4. [KLVK](https://www.airnav.com/airport/KLVK) - LIVERMORE 3 ([page 1](https://aeronav.faa.gov/d-tpp/2407/06075LIVERMORE.PDF) and [page 2](https://aeronav.faa.gov/d-tpp/2407/06075LIVERMORE_C.PDF)) (Graphical)
+				1. [KOAK](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=19) (Textual)
+				2. [KSTS](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28) (Textual)
+				3. [KWVI - WATSONVILLE 4](https://cfijack.com/latest-plate-redirect/?plate=00805WATSONVILLE.PDF) (Graphical)
+				4. [KLVK](https://www.airnav.com/airport/KLVK) - LIVERMORE 3 ([page 1](https://cfijack.com/latest-plate-redirect/?plate=06075LIVERMORE.PDF) and [page 2](https://cfijack.com/latest-plate-redirect/?plate=06075LIVERMORE_C.PDF)) (Graphical)
 			2. No clearance required to use^[Might hear something like "upon entering controlled airspace, fly heading...", although ATC is supposed to mention "fly the ODP..."]
 			3. Useful for both IFR and VFR marginal/night
 		4. DVA
 			1. Examples
-				1. [KIWA](https://aeronav.faa.gov/d-tpp/2407/SW4TO.PDF#page=28) DVA 
-				2. [KSQL](https://aeronav.faa.gov/d-tpp/2407/SW2TO.PDF#page=25) DVA
+				1. [KIWA](https://cfijack.com/latest-plate-redirect/?plate=SW4TO.PDF#page=28) DVA 
+				2. [KSQL](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=25) DVA
 			2. ATC provides obstacle clearance via radar vectors prior to reaching the MVA and minimum IFR altitude
 	6. VFR-to-IFR departures^[One example of this is the [departure from KSQL](https://www.sancarlosairport.org/Departure-Guidance-030222.pdf)]
 	7. [[VCOA]]
 		1. Examples
-			1. [E16](https://aeronav.faa.gov/d-tpp/2407/SW2TO.PDF#page=28)
-			2. [KSTS](https://aeronav.faa.gov/d-tpp/2407/SW2TO.PDF#page=28)
+			1. [E16](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28)
+			2. [KSTS](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28)
 4. Standard Terminal Arrivals ([[STAR]]s)
 	1. Examples
-		1. [KSFO - BDEGA 4 RNAV](https://aeronav.faa.gov/d-tpp/2407/00375BDEGA.PDF)^[Notice the amusing, locally relevant waypoint names]
-		2. [KSFO - POINT REYES 3](https://aeronav.faa.gov/d-tpp/2407/00375POINTREYES.PDF)
-		3. [KPIT - JESEY 4 RNAV](https://aeronav.faa.gov/d-tpp/2407/00570JESEY.PDF)
+		1. [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)^[Notice the amusing, locally relevant waypoint names]
+		2. [KSFO - POINT REYES 3](https://cfijack.com/latest-plate-redirect/?plate=00375POINTREYES.PDF)
+		3. [KPIT - JESEY 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00570JESEY.PDF)
 	2. Fly-by vs fly-over points
 5. ATC with SIDs/STARs
 	1. Accepting
 	2. Charts
 	3. Descend via/Climb via^[vs cleared via, which is only clearance for lateral and not altitudes]/via except maintain
-		1. Climb via [KIAH](https://www.airnav.com/airport/KIAH) - RITAA 7 ([page 1](https://aeronav.faa.gov/d-tpp/2407/05461RITAA.PDF) and [page 2](https://aeronav.faa.gov/d-tpp/2407/05461RITAA_C.PDF))
-		2. Descend via [KSFO - BDEGA 4 RNAV](https://aeronav.faa.gov/d-tpp/2407/00375BDEGA.PDF)
+		1. Climb via [KIAH](https://www.airnav.com/airport/KIAH) - RITAA 7 ([page 1](https://cfijack.com/latest-plate-redirect/?plate=05461RITAA.PDF) and [page 2](https://cfijack.com/latest-plate-redirect/?plate=05461RITAA_C.PDF))
+		2. Descend via [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)
 6. Common errors 
 	1. Accepting a SID or STAR without briefing
 	2. Not knowing performance capability of aircraft to to fly any procedure

@@ -25,7 +25,7 @@ Ground 1 hour, Flight 3 hours
 1. Emergencies 
 	1. Instrument or system failures 
 	2. Partial panel, no-gyro approaches (ASR, PAR) 
-	3. Lost communications review (see Appendix B). Recognizing loss of communications and attempting to re-establish. 
+	3. Lost communications review (see [[IR.D Kneeboard Cheatsheets]]). Recognizing loss of communications and attempting to re-establish. 
 	4. Weather emergencies: Icing, thunderstorms 
 	5. Electrical system failures, EFD or MFD failure 
 	6. “Minimum fuel” vs “Fuel Emergency” 
