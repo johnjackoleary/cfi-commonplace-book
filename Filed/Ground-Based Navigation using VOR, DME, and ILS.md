@@ -126,6 +126,7 @@ If your airplane has a working [[ADF]], you can tune to a nearby AM radio statio
 - [[PHAK Ch16]]
 - [[AIM 1]]
 - Videos on using VOR: https://www.youtube.com/watch?v=RTxW1VB_Qog and https://www.youtube.com/watch?v=_j0dLlRwpvk
+- Sim to practice with VOR: https://www.fergonez.net/projects/ifrsimulator/
 - [[FAA]] article on [Navigation Programs - Ground-Based Navigation](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gbng)
 
 ***Related To***: [[Satellite Navigation using GPS and GNSS]]

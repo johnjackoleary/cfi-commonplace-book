@@ -50,6 +50,7 @@ N/A
 7. Before Takeoff Checks
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
+	3. [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
 8. Flight
 	1. Following roughly the [[PPL0.0 Optional Introductory or Demo Flight]] lesson
 9. Postflight Procedures

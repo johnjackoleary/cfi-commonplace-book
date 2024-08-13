@@ -43,6 +43,7 @@
 | L53         | 53          | Short Field                                                                                                                          |
 | 069         | 53          | Bravo or Charlie Transition, similar to Bay Tour                                                                                     |
 | 1C9         | ~~44~~      | Grass Runway (Note: distance too short for XC logging)                                                                               |
+| KOAR        | ~~50~~      | Coastal Wx considerations                                                                                                            |
 
 ## From KSQL
 | Destination | Distance To | Notable Draws                                                                                                                        |
@@ -53,6 +54,7 @@
 | KMRY        | 59          | Class C, Santa Cruz Mountain Discussion                                                                                              |
 | KCVH        | 55          | Tower-to-tower transition                                                                                                            |
 | KSNS        | 60          | Class D, Santa Cruz Mountain Discussion                                                                                              |
+| KOAR        | 55          | Coastal Wx considerations                                                                                                                                     |
 | O22         | 93          | Foothills Airport, Grass Runway                                                                                                      |
 | O20         | 55          | Self-Serve Fuel, Runway Backtaxi                                                                                                     |
 | L53         | 56          | Short Field                                                                                                                          |

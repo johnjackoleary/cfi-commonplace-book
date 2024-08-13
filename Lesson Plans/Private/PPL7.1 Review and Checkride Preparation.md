@@ -27,6 +27,7 @@ Ground 3 hours, Flight as necessary
 2. Odds and Ends FARs
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
+	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
 3. [[ADM]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]

@@ -39,6 +39,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	2. When you need higher priority handling from ATC
 3. MAYDAY (distress) vs PAN-PAN (urgency)
 	1. Both should be said 3x
+4. [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
 
 > [!quote] From [[AIM 6]]
 > Pilots who become apprehensive for their safety for any reason should _request assistance immediately._
