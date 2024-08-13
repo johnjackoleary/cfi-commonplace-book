@@ -2,7 +2,7 @@
 
 > [!note] Text with a ~~strikethrough~~ is still relevant to a lesson, but was already listed in a prior lesson.
 
-| Section                                                                     | FAA                                            | [[Jeppesen Instrument-Commercial]] |
+| Section                                                                     | FAA                                            | [[Jeppesen Instrument-Commercial\|Jeppesen]] |
 | --------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | [[IR.1 Introduction and Instrument Systems]]                                | [[IFH]] Ch5                                    | 1A, 2A-B                                                                                                                  |
 | [[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]                  | [[IFH]] Ch6                                    | 2C                                                                                                                        |
