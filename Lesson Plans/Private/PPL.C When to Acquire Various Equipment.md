@@ -16,7 +16,7 @@ Before Starting XC:
 - E6B
 	- Electronic is fine, whiz-wheel also ok if you're excited about it
 	- Consider buying used -- this is mostly important for the knowledge test. We can use an online E6B otherwise.
-- ForeFlight subscription, if you'd like
+- [[ForeFlight]] subscription, if you'd like
 
 Before Night Flights:
 - Headlamp with red light
