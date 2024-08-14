@@ -47,7 +47,7 @@ N/A
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways
-7. Before Takeoff Checks
+7. Before Takeoff Checks / Runup
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
 	3. [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
