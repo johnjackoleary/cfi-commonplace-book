@@ -8,7 +8,7 @@ Soon After Starting:
 - SFO [[TAC]]
 - Kneeboard (simple is fine, nice if it has info like light gun signals)
 - [[Choosing a Ground School|Ground School]] Subscription (or other plan for ground school)
-- Laminated checklists for your aircraft, such as [this one](https://www.mypilotstore.com/mypilotstore/sep/5067) or [this one](https://www.sportys.com/qref-cessna-checklist-pro-version.html)
+- Laminated checklists for your aircraft, such as [this one](https://www.mypilotstore.com/mypilotstore/sep/5067) or [this one](https://www.sportys.com/qref-cessna-checklist-pro-version.html)^[There can be a lot of value in making a custom checklist, potentially on [[ForeFlight]] or in a spreadsheet software. Just make sure it covers everything in the [[POH]] at a minimum.]
 
 Before Starting XC:
 - SFO Sectional
@@ -24,6 +24,6 @@ Before Night Flights:
 
 After Checkride:
 - Headset for the first passenger^[Some folks will get themselves a nice headset, and their training headset becomes their first passenger headset]^[Clubs will often have loaner headsets, which may or may not be available or work]
-- A Sentry or similar portable ADS-B In
+- A Sentry or similar portable [[ADS-B]] In
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
