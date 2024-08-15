@@ -8,7 +8,7 @@
 ### Ground Work Before First Flight
 - [ ] Read [[POH]] for this aircraft and its avionics
 - [ ] Create initial [[Gait Chart]] based on [[POH]] to be confirmed in first few flights
-- [ ] Set up foreflight profile and glide info
+- [ ] Set up [[ForeFlight]] profile and glide info
 - [ ] Complete ground review form with school.
 - [ ] Purchase, find, or create a checklist you plan to use
 
@@ -24,11 +24,13 @@
 ### Subsequent Flights with Instructor
 - [ ] Use and improve your checklists/gaits
 - [ ] Practice all emergencies, especially new procedures from planes you already know
-- [ ] You instructor will tell you when they feel your ready to fly on your own, depending on the complexity of the aircraft
+- [ ] Practice instrument procedures, if applicable
+- [ ] Your instructor will tell you when they feel you're ready to fly on your own, depending on the complexity of the aircraft
 
 ### Subsequent Flights without Instructor
 - [ ] Practice with all avionics and their features on the ground
-- [ ] Practice all private (and commercial, if you know them) maneuvers to develop proficiency at various speeds/attitudes 
+- [ ] Practice all private (and commercial, if you know them) maneuvers to develop proficiency at various speeds/attitudes
+- [ ] File and fly [[IFR]], even in [[VMC]], if applicable
 - [ ] Fly many full stop patterns, until able to consistently meet ACS standards
 
 
