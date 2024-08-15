@@ -11,10 +11,9 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 ### Resources
 - [[FAR 61.65 Instrument Rating Reqs]], 91.167-187
 - [[Risk Management Handbook]]
-- [[IFH]]
-- [[IPH]] 
+- [[IFH]] / [[IPH]] 
 - [[Instrument ACS]] Section 1.C
-- https://aviationnewstalk.libsyn.com/342-n990pt-cirrus-sr22-fatal-accident-at-kbhb-bar-harbor-maine
+- [A good case study and analysis](https://aviationnewstalk.libsyn.com/342-n990pt-cirrus-sr22-fatal-accident-at-kbhb-bar-harbor-maine) by [[Max Trescott]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
