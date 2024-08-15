@@ -25,7 +25,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Lesson Elements
 1. Overview of [[IFR]] flight training process, syllabus overview 
-	1. Aircraft choice, high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
+	1. Aircraft choice, [[Choosing a Ground School|ground school choice]], high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
 		1. Private: 70-90 hours, about $20k-$30k
 		2. Instrument 40-60 hours, about $15k-$20k
 		3. Simulation software and PC tools
