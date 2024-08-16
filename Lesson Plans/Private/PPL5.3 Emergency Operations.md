@@ -96,7 +96,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 			- Pitot tube is blocked
 		- Are the vacuum-powered instruments dead? (Which ones are they in your plane?)
 			- Vacuum pump (pumps?) is inop
-		- PFD failure
+		- [[PFD]] failure
 			- Use reversionary mode to display critical instruments on the MFD
 	- Plane isn't handling correctly
 		- Debug if control surfaces have failed, or flaps aren't extending, or one is stuck
@@ -106,7 +106,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Alternator failure - **(POH)** Shed as much electric load as possible; estimate time available; land accordingly
 	- Retractable gear malfunction - (out of scope for this lesson)
 	- Flew into a cloud, or lost minimum VFR visibility
-		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio
+		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio, use your [[Autopilot Systems and Usage|autopilot]]
 	- Icing - **(POH)** Reverse course or choose a different altitude; request help on the radio; deploy all anti-ice measures.  See POH for landing with heavy ice accumulation
 		- What are the anti- or de-icing systems in this aircraft?^[Consider pitot heat, alternate air intake, and window heat to defrost.]
 	- Door or window opens in flight
