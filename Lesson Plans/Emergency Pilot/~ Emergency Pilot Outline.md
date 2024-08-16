@@ -6,6 +6,8 @@ tags:
   - syllabus
 ---
 
+> [!tip] Sometimes called 'pinch-hitter' training
+
 ### Objective
 Goal is learn to land in emergency, but also learn more what is going on flying with partner for more enjoyable flights. Can also help with workload in high workload portions.
 
