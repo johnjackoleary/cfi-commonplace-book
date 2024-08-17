@@ -27,7 +27,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 
 ## Environment
 - [ ] VFR weather minimums are met locally, at the destination, and everywhere in between
-- [ ] [[All Available Information Concerning That Flight]]
+- [ ] [[All Available Information Concerning That Flight]] (e.g. [[NWKRAFT]])
 
 ## External Pressure
 - [ ] Don't let yourself be rushed

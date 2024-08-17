@@ -6,4 +6,5 @@
 | **Impulsivity**     | Do it quickly.         | Not so fast. Think first.                  |
 | **Resignation**     | What's the use?        | I'm not helpless. I can make a difference. |
 
-Source: [[PHAK Ch2]]
+***Source***: [[PHAK Ch2]]
+***Additional Information***: [Accident Case Study: Hazardous Attitudes](https://www.youtube.com/watch?v=MBL1iy0V9VM) from [[Air Safety Institute]]

@@ -26,7 +26,7 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 Ground 1.5 hours, Flight 3 hours 
 
 ### Lesson Elements
-1. IFR cross-country requirement before checkride 
+1. IFR cross-country requirement before checkride ([[IR.A Instrument Rating Flight Experience Requirements]])
 	1. IFR flight of 250 nm minimum 
 	2. An instrument approach at each airport 
 	3. 3 different kinds of approaches (VOR, GPS, ILS) 
