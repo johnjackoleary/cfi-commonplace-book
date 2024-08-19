@@ -12,6 +12,8 @@ tags:
 
 > [!tip] Completion of this training grants [[WINGS.3E High Performance Endorsement]].
 
+> [!tip] Sometimes folks like to couple HP training with a [[M.2 Mountain Flight]].
+
 #### Appendices
 [[HP.A High-Performance Flight Experience Requirements]]
 [[HP.B High-Performance Endorsements]]
