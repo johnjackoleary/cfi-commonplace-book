@@ -39,7 +39,8 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- Cycling the propeller in run-up
 - Departure
 	- Know engine takeoff limits, e.g. reduce RPM within 5 minutes
-	- Importance of checklists for each stage of flight, especially with more advancedt systems
+	- Pitching for a cruise climb to improve engine cooling
+	- Importance of checklists for each stage of flight, especially with more advanced systems
 - En Route
 	- Order of changing power settings ("[[Don't Crush The Egg]]")
 - Descent
@@ -72,5 +73,11 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	  Unless there is some **limitation** in the POH, climb at WOT (Wide Open Throttle), 100 or 200 RPM below the max (for noise), full-rich mixture and cowl flaps open (cooling), or cowl flaps as called for in the manual. You can’t go wrong doing this. **Monitor** your CHTs, preferably on a modern all-cylinder monitor, and if **any** CHT goes above 380°F to 400°F, **do something about it**. There are several things you can do. The most effective one is to lower the nose and increase airspeed. Open the cowl flaps if they’re not already open. Enrich the mixture, if you’re ROP (or lean it more if LOP). If you’re already full rich, this might be a good time to turn on the boost pump to “LOW” (if available) or “HIGH” to increase the fuel flow. With the boost running, you may get too much fuel, and the cure for this is to lean a little. All of these will reduce climb performance, but unless you’re about to hit something, it always makes sense to take the “hit” on climb rate in order to keep the engine nice and cool.<br>
 	  No matter what your POH says, limitation or otherwise, I suggest you consider 400°F an absolute redline CHT on any cylinder with a bayonet probe feeding an all-cylinder monitor (spark plug thermocouple types may show higher). There is mounting evidence that factory limits on CHT are much too high. In any event, try to keep the time above such temperatures at a minimum.
 
+#### Traffic Pattern
+- Apply theory above to flying the traffic pattern
+- Practice short and soft field landings
+
 ### Completion Standards
 Learner preflights and flies several laps in the pattern using proper procedures for a constant-speed propeller and a high-performance engine.
+
+*Return to [[~ HP Lesson Plan Outline|Table of Contents]]^*

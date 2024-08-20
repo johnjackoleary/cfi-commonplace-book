@@ -4,4 +4,4 @@
 > 
 > (ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a high-performance airplane.
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ HP Lesson Plan Outline|Table of Contents]]^*

@@ -4,6 +4,6 @@ I certify that \[First name, MI, Last name\], \[grade of pilot certificate\], \[
 
 > [!tip] Completion of this training grants [[WINGS.3E High Performance Endorsement]].
 
-***Source***: [[AC 61-65]]
+***Source***: [[AC 61-65]] #endorsement 
 
-#endorsement 
+*Return to [[~ HP Lesson Plan Outline|Table of Contents]]^*
