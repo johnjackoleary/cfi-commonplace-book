@@ -65,7 +65,7 @@ Ground 2 hours
 	3. Establishing [[Personal Minimums]]
 
 ### Completion Standards
-The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, determine if an  is required, ensure the alternate meets regulatory requirements, and obtain weather updates during flight. 
+The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, and obtain weather updates during flight. 
 
 ### Required Logbook Phraseology
 

@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country and filing a flight plan, including [[Lost Communications]] procedures. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs]].
+Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country, choosing an alternate, and filing a flight plan, including [[Lost Communications]] procedures. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs]].
 
 ### Resources
 - [[FAR 61.65 Instrument Rating Reqs]], 91.167-187
@@ -34,18 +34,19 @@ Ground 1.5 hours, Flight 3 hours
 	1. Symbology on IFR enroute and approach charts 
 	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
 	3. Fuel planning and monitoring, and definitions of minimum and emergency fuel 
-		1. Japan flight crash short
-	4. Alternate airport selection and planning
-		1. [The Advantage Of Landing On Runways With An ILS](https://www.boldmethod.com/shorts/shorts.ifr.0103/)
-	5. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
-	6. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
-		1. [[GRABCARDD]]
-	7. Filing IFR flight plan, and procedures for activating and closing IFR flight plans
-		1. Useful ForeFlight resource for equipment codes: https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Guide
-	8. Knowledge of GPS and [[RAIM]] capability and prediction, if necessary
-	9. Knowledge of VOR
+		1. [Avianca Flight 052](https://en.wikipedia.org/wiki/Avianca_Flight_052) #case-study
+	4. Alternate airport selection and planning^[See also [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]])
+		1. Standard and alternate minimums
+		2. [[1-2-3 Rule]]
+		3. Non-WAAS impact on alternate
+		4. [The Advantage Of Landing On Runways With An ILS](https://www.boldmethod.com/shorts/shorts.ifr.0103/)
+	6. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
+	7. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
+	8. Filing IFR flight plan, and procedures for activating and closing IFR flight plans
+		1. Useful [ForeFlight resource](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Guide) for equipment codes
+	9. Knowledge of [[GPS]] and [[RAIM]] capability and prediction, and when necessary to check
 3. Enroute procedures
-	1. Required reports and position report format 
+	1. Required reports and position report format ([[PTATEN]])
 	2. Fuel planning and monitoring, re-calculating fuel reserves 
 	3. Weather updates 
 	4. Route changes 
