@@ -27,25 +27,27 @@ Ground 2 hours
 	1. Weather system formation, including air masses and fronts 
 	2. Cloud types and hazards 
 	3. Turbulence 
-	4. Thunderstorms and microbursts 
-	5. Fog 
-	6. Type and hazards of icing, including frost, conditions conducive to icing 
+	4. [[Thunderstorm]]s and [[Wind Shear#Microbursts|microbursts]] 
+	5. [[Fog]]
+	6. Ice hazards, [[Aircraft Icing]], including frost, conditions conducive to icing
 	7. Wind 
 	8. Moisture and precipitation 
-3. Current and forecast weather for departure, enroute, and arrival
+	9. [[Area Forecast Discussion]]
+2. Current and forecast weather for departure, enroute, and arrival
 	1. Sources of weather information 
 	2. Weather briefing and contents 
 	3. Graphical weather products 
 	4. Electronic Flight Bags (EFBs, e.g. Foreflight, Garmin Pilot) 
-4. Enroute weather Services 
+3. Enroute weather Services 
 	1. Onboard weather information 
 	2. Inflight [[FSS]] weather 
-5. Hazardous Inflight Weather
+4. Hazardous Inflight Weather
 	1. Turbulence
 	2. Thunderstorms / Hail
-	3. [[Ice Hazards and Aircraft Icing]] - Tailplane stall, roll upset stall, freezing rain, [[SLD]]
+	3. [[Ice Hazards and Aircraft Icing]] - Tailplane stall, roll upset stall, [[Freezing Rain]], [[SLD]]
+		1. https://www.youtube.com/watch?v=7rryvSQhK7k
 	4. What to do if any of these are encountered or forecast
-6. Anti-ice/deicing and weather detection equipment and their operating characteristics to include—
+5. Anti-ice/deicing and weather detection equipment and their operating characteristics to include—
 	1. Airframe and/or induction Icing
 		1. De-ice: rubber boots, weeping wings
 		2. Anti-Ice: thermal (bleed air), electro thermal, weeping wings, propeller anti-ice
@@ -57,13 +59,13 @@ Ground 2 hours
 		1. [[FIS-B]] 
 		2. Onboard radar
 		3. Sirius XM
-7. Other Weather risks for IFR flight 
-	1. Limitations of forecasts and inflight weather resources 
+6. Other Weather risks for IFR flight 
+	1. Limitations of forecasts and inflight weather resources^[[Accident Case Study: Time Lapse – misunderstanding in-cockpit weather displays can lead to tragedy](https://www.youtube.com/watch?v=83uvKWJS2os) from [[Air Safety Institute]]]
 	2. How to identify alternates, when to divert to alternate 
 	3. Establishing [[Personal Minimums]]
 
 ### Completion Standards
-The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, determine if an alternate is required, ensure the alternate meets regulatory requirements, and obtain weather updates during flight. 
+The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, and obtain weather updates during flight. 
 
 ### Required Logbook Phraseology
 

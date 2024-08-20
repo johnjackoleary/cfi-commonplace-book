@@ -33,8 +33,8 @@ Ground 1 hour, flight 3 hours
 		> Pilots are encouraged to turn on their landing lights when operating within 10 miles of an airport and below 10,000 feet.
 	4. Interior and panel lighting
 3. Airport lighting
-	1. Beacons, runway and taxi lighting, [[VASI]], [[PAPI]], REIL
-	2. Pilot controlled lighting and how to operate
+	1. Beacons, runway and taxi lighting, [[VASI]], [[PAPI]], [[REIL]]
+	2. Pilot-controlled lighting and how to operate
 4. Navigation at night
 	1. Plan a route to maximize time within glide range of an airport
 	2. Pilotage and chart-reading techniques

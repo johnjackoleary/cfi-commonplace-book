@@ -44,7 +44,7 @@ Hood or foggles
 	1. Spatial disorientation (see [[Vestibular and Visual Illusions]])
 	2. Distraction
 	3. Fixation or omission
-	4. While turning -- watching the turn, and doing nothing else until complete
+	4. Multitasking in a turn -- watch the turn, and do nothing else until complete
 	5. Heavy touching, over-controlling
 	6. Improper trim control
 

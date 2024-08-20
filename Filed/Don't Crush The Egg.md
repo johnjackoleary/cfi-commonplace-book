@@ -11,9 +11,9 @@ Throttle Control
 \
  \       Firewall
   |-------|
-		  |
-		  |🥚|
-		     |
+          |
+          |🥚|
+             |
   |----------|
  /          Propeller
 /
