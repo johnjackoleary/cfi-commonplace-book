@@ -39,8 +39,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- Cycling the propeller in run-up
 - Departure
 	- Know engine takeoff limits, e.g. reduce RPM within 5 minutes
+	- Importance of checklists for each stage of flight, especially with more advancedt systems
 - En Route
-	- Order of changing power settings ("Don't crush the egg")
+	- Order of changing power settings ("[[Don't Crush The Egg]]")
 - Descent
 	- Shock cooling
 		- avoid changes in MP >5MP at a time (this will require additional descent planning)
@@ -49,6 +50,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- If you do need to idle the engine, try to 'clear' it every 15 seconds or so to keep it warm
 - Pattern
 	- Many HP aircraft require flaps deployed before entry into the traffic pattern -- abeam the numbers may not give time to slow down
+	- Impact of heavier nose in round out -- lack of airspeed over threshold ('chop and drop') may not give enough energy to round out
 - Go-Arounds
 	- Smooth power application
 	- [[4 C's (Go-Around)]]
