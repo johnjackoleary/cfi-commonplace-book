@@ -55,7 +55,6 @@ N/A
 5. Back-pressure results in load factor > 1.0, and increased stall speed
 
 **Discussion**
-- At any given bank angle, what load factor is required to maintain level flight?
 - What is the difference between 'slip' and 'skid'?  Which is more dangerous?
 
 **In Practice**
