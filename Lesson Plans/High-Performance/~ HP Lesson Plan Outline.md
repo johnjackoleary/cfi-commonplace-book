@@ -12,8 +12,9 @@ tags:
 [[HP.3 Cross-Country and IFR]]
 
 > [!tip] Tips
-> - Completion of this training grants [[WINGS.3E High Performance Endorsement|WINGS credit]]
-> - Consider coupling HP training with a [[M.2 Mountain Flight|mountain checkout]]
+> - Completion of this training grants a HP-specific [[WINGS.3E High Performance Endorsement|WINGS credit]]
+> - This training may also qualify for additional [[~ WINGS Phase Outline|WINGS]] credits
+> - Consider coupling training with a [[M.2 Mountain Flight|mountain checkout]]
 
 #### Appendices
 [[HP.A High-Performance Flight Experience Requirements]]

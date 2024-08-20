@@ -9,7 +9,7 @@ tags:
 ### Objective
 Become familiar with all avionics and instrumentation available for a cross-country flight. If applicable, learn IFR procedures for this aircraft.
 
-> [!tip] This is often combined with a [[M.2 Mountain Flight|mountain flight]] for a mountain checkout.
+> [!tip] This is can be combined with a [[M.2 Mountain Flight|mountain flight]] during a mountain checkout.
 
 ### Resources
 - [[Instrument ACS]]

@@ -1,5 +1,3 @@
-
-
 ***Link***      :: [§ 61.31 Type rating requirements, additional training, and authorization requirements.](https://www.ecfr.gov/current/title-14/section-61.31)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]

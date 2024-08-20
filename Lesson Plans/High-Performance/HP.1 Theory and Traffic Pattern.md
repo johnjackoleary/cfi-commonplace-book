@@ -54,9 +54,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- Impact of heavier nose in round out -- lack of airspeed over threshold ('chop and drop') may not give enough energy to round out
 - Go-Arounds
 	- Smooth power application
-	- [[4 C's (Go-Around)]]
+	- [[4 C's (Go-Around)]] or [[5 C's (Going Missed)]]
 - IFR Considerations
-	- Make sure you're slowing to an approach speed early
+	- Slow to an approach speed early -- a couple miles before [[IAF]]
 	- If you're falling behind the plane, go missed and try again
 
 #### Engine Management and Monitoring
@@ -75,9 +75,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 
 #### Traffic Pattern
 - Apply theory above to flying the traffic pattern
-- Practice short and soft field landings
+- Practice short, soft, forward slip, and power-off landings
 
 ### Completion Standards
-Learner preflights and flies several laps in the pattern using proper procedures for a constant-speed propeller and a high-performance engine.
+Learner preflights and flies several laps in the pattern using proper procedures for a constant-speed propeller and a high-performance engine. They demonstrate short, soft, forward slip, and power-off landings.
 
 *Return to [[~ HP Lesson Plan Outline|Table of Contents]]^*
