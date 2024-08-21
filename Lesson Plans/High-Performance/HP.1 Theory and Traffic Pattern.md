@@ -57,6 +57,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - Go-Arounds
 	- Smooth power application
 	- [[4 C's (Go-Around)]] or [[5 C's (Going Missed)]] or [[Power Up, Pitch Up, Clean Up]]
+	- [[4 C's (Go-Around)]] or [[5 C's (Going Missed)]]
+- Emergency
+	- Feather for power off glide 
 - IFR Considerations
 	- Slow to an approach speed early -- a couple miles before [[IAF]]
 	- If you're falling behind the plane, go missed and try again
