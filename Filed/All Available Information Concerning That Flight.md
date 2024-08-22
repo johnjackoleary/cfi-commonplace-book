@@ -12,7 +12,7 @@
 	5. [[AIRMET]] / [[SIGMET]]
 	6. [[Categorical Outlooks]]
 	7. [[Area Forecast Discussion]]
-	8. Webcams or calling someone at the airport 
+	8. Webcams^[[[Useful Bay Area Webcams]]] or calling someone at the airport 
 3. Known traffic delays (https://nasstatus.faa.gov/map)
 4. Runway lengths
 5. Available alternatives
@@ -21,7 +21,7 @@
 7. Takeoff and landing distance -- aircraft performance vs airport elevation, gross weight, wind and temperatures
 
 **The best sources for this information are:**
-1. ForeFlight and other EFBs
+1. ForeFlight and other [[EFB]]s
 2. https://aviationweather.gov/
 3. Flight service online: 1800wxbrief.com
 4. Flight Service by phone: 1-800-WXBrief
