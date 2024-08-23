@@ -42,21 +42,21 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 		3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
 		4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing
 4. Additional Considerations for Crosswind Takeoffs
-	1. Crosswind component of wind
+	1. [[Crosswind Component]] of wind
 	2. Max demo'd crosswind ([[POH]])
 	3. Apply full aileron pressure into the crosswind
 	4. ![[Crosswind Takeoff.jpeg]]
 	5. Transition from side-slip to wings-level crab when out of usable runway
 	6. ![[Crosswind Slip to Crab.jpeg]]
-5. Normal Climbs 
+6. Normal Climbs 
 	1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
 	2. No turns below 400'^[Unless required for safety, of course], usually wait to [[TPA]] minus 300'
 	3. Awareness of noise abatement rules/recommendations (at Palo Alto, turn right 10 degrees for climb out on 31)
-6. Emergency Considerations
+7. Emergency Considerations
 	1. [[Plans for Rejected Takeoff]]. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
 	2. Emergency plans must be in mind BEFORE TAKEOFF
 	3. Engine failure on upwind climb below safe altitude -- LAND STRAIGHT AHEAD
-7. Common Errors
+8. Common Errors
 	1. Ignoring crosswind
 	2. Drifting from centerline during takeoff roll
 	3. Drifting from centerline during climb out
