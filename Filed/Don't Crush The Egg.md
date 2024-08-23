@@ -1,4 +1,4 @@
-A memory aid for which order to change throttle and propeller controls in a [[high performance]] aircraft.
+A #memory-aid for which order to change throttle and propeller controls in a [[high performance]] aircraft.
 
 - Imagine the throttle lever is attached to the firewall, and the propeller lever is attached to the propeller. (See image below.) 
 - Also imagine (though not true) pushing each forward moves the firewall or propeller forward, and pulling back moves them back.

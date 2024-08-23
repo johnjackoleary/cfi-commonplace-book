@@ -36,13 +36,13 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this!] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 - Preflight testing
-	- Cycling the propeller in run-up
+	- Cycling the propeller in run-up^[Cycling 3 times is common. Sometimes this is presented as checking first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, once to check for any oil mist from the prop. Cycling 1 time may be equally appropriate. This checks all of the above at once, shile still getting the warmer crankcase oil up to the propeller. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
-	- Know engine takeoff limits, e.g. reduce RPM within 5 minutes
+	- Know engine takeoff limits, e.g. when and how much to reduce RPM after takeoff, if at all.
 	- Pitching for a cruise climb to improve engine cooling
 	- Importance of checklists for each stage of flight, especially with more advanced systems
 - En Route
-	- Order of changing power settings ("[[Don't Crush The Egg]]")
+	- Order of changing power settings ("[[Don't Crush The Egg]]" or [[Power Up - 7 Up, Power Down - 7 Down]])
 - Descent
 	- Shock cooling
 		- avoid changes in MP >5MP at a time (this will require additional descent planning)
