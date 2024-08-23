@@ -1,0 +1,1 @@
+A #memory-aid reminder that a [[METAR]]/[[TAF]] is reported in true north (written in a brief), while a [[ATIS]]/[[AWOS]]/[[ASOS]] is reported in magnetic north (heard on the radio).

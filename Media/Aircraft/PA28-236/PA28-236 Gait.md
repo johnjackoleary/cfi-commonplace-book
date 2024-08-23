@@ -32,7 +32,7 @@ speed-units: kts
 
 | Topic          | Details                                                                                   |
 | -------------- |:----------------------------------------------------------------------------------------- |
-| Leaning        | TBD                                                                                       |
+| Leaning        | 150F ROP EGT                                                                                       |
 | V<sub>A</sub>  | (Va-mgw::124)kts @ [mgw::3000]lb; 96kts @ 1761lb                                          |
 | Short T.O.     | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{59, 63}@`=this.mgw`lb; {48,52}@2000lb |
 | Fuel Burn Est. | 14 gph @ 75% power                                                                                         |

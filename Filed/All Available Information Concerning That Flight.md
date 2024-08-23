@@ -8,6 +8,7 @@
 	2. [[PIREP]]s
 	3.  [[ATIS]]/[[METAR]]s (towered airports), [[AWOS]]/[[ASOS]] (non-towered)
 		1. Can often call instead of using radio
+		2. [[Crosswind Component]]
 	4. [[TAF]]
 	5. [[AIRMET]] / [[SIGMET]]
 	6. [[Categorical Outlooks]]
