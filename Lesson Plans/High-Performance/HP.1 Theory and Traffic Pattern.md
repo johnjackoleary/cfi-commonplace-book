@@ -29,6 +29,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- [[MP]] background
 	- Danger of high MP and low RPM
 	- Throttle control difference in fixed-pitch vs constant speed
+	- Change of RPM impact on MP, and lack of impact conversely
 	- If loss of oil pressure, which pitch does the propeller fail to?
 - Preflight planning
 	- Selection of MP and RPM for cruise flight^[Good overview [here](https://www.aopa.org/news-and-media/all-news/1998/november/flight-training-magazine/engine-power-settings) from [[AOPA]]]
@@ -36,7 +37,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this!] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 - Preflight testing
-	- Cycling the propeller in run-up^[Cycling 3 times is common. Sometimes this is presented as checking first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, once to check for any oil mist from the prop. Cycling 1 time may be equally appropriate. This checks all of the above at once, shile still getting the warmer crankcase oil up to the propeller. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
+	- Cycling the propeller in run-up^[Cycling 3 times is common. For example, the Piper Dakota [[POH]] recommends 3 cycles in cold weather to circulate warm oil. Sometimes this is presented as checking instruments for first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, and once to check for any oil mist from the prop. Cycling only 1 time may also be appropriate. This checks all of the above at once, while still getting the warmer crankcase oil up to the propeller. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
 	- Know engine takeoff limits, e.g. when and how much to reduce RPM after takeoff, if at all.
 	- Pitching for a cruise climb to improve engine cooling
