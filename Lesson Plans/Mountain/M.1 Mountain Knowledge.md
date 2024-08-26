@@ -27,6 +27,16 @@ Background knowledge required for safe mountain flying.
 ### Schedule
 2-3hr ground
 
+Weather in the mountains is a trendline, it’s unlikely to get better once it starts to get worse
+
+Making assessments en route about signs of developing weather 
+
+Last PAVE before entering the mountains / hostile terrain 
+
+
+
+
+
 ### Lesson Elements
 1. What counts as mountain flying?
 	> [!quote] From [[Tips on Mountain Flying]]
