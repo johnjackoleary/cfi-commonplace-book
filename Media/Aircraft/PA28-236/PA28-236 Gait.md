@@ -40,7 +40,3 @@ speed-units: kts
 | V<sub>A</sub>  | (Va-mgw::124)kts @ [mgw::3000]lb; 96kts @ 1761lb                                          |
 | Short T.O.     | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{59, 63}@`=this.mgw`lb; {48,52}@2000lb |
 | Fuel Burn Est. | 16 gph @ 75% power                                                                                         |
-
-<br>
-
-Specific tips for N3038B are [available here](https://docs.google.com/document/d/1TckLuBS34hkWiAkEOl1KFzfXaApoDq8JF07a0z7psXs/edit#heading=h.g2wja4d55w93).
