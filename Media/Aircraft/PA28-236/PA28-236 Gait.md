@@ -13,7 +13,7 @@ maneuver-speed:
 speed-units: kts
 ---
 
-| **(model::PA28-236) Gaits** v1.0 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
+| **(model::PA28-236) Gaits** v1.1 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
 | -------------------------------- |:---------:|:------:|:-------:|:-----------------------------:|
 | ⚠️ V<sub>G</sub>                 |           |        |  idle   |           (Vg::85)            |
 | 🛫 V<sub>R</sub>                 |           |  max   |   max   |           (Vr::60)            |
@@ -26,11 +26,11 @@ speed-units: kts
 | 🌫️ IAF Inbound Descent           |           |        |         |                               |
 | 🌫️ Prec Appr to DA               |    10°    |  13"   |   max   |              90               |
 | 🌫️ Non-Prec Appr to MDA          |    10°    |        |         |                               |
-| 🛬 Downwind                      |           |  16"   |   max   |              100              |
-| 🛬 Abeam Numbers                 |           |  13"   |   max   |              90               |
-| 🛬 Base                          |           |  13"   |   max   |              80               |
+| 🛬 Downwind                      |    10°    |  16"   |   max   |              90               |
+| 🛬 Abeam Numbers                 |    10°    |  13"   |   max   |              90               |
+| 🛬 Base                          |    25°    |  13"   |   max   |              80               |
 | 🛬 Final                         |    40°    | as req |   max   |          (Vref::72)           |
-| Short                            |    40°    |        |   max   |        (Vshort::72-59)        |
+| Short                            |    40°    |  as req      |   max   |        (Vshort::72-59)        |
 
 <br>
 
