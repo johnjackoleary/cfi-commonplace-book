@@ -12,6 +12,7 @@ tags: [maneuver]
 [[C152 PPL Maneuver Quick Guide.pdf]]
 [[C172S PPL Maneuver Quick Guide.pdf]]
 [[Archer II KTS PPL Maneuver Quick Guide.pdf]]
+[[PA28-236 PPL Maneuver Quick Guide.pdf]]
 
 > [!note] These guides are exported from [this Google Sheet](https://docs.google.com/spreadsheets/d/1ytTyark2ZThp4QQPov8K8IJexR_2zJDzZ3totaWRqKs/edit?usp=sharing).
 
