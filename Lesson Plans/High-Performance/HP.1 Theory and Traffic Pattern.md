@@ -13,7 +13,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - [[AFH Ch12]]
 
 ### Resources
-- [Pelican's Perch](https://www.avweb.com/topics/features/avweb-classics/pelicans-perch/) of [[AVweb]], especially #15 and #19^[Might require the use of archive.org, e.g. for [#15](https://web.archive.org/web/20201112024522/https://www.avweb.com/features_old/pelicans-perch-15manifold-pressure-sucks/)]
+- [Pelican's Perch](https://www.avweb.com/topics/features/avweb-classics/pelicans-perch/) of [[AVweb]], especially #15, #16, and #19^[Might require the use of archive.org, e.g. for [#15](https://web.archive.org/web/20201112024522/https://www.avweb.com/features_old/pelicans-perch-15manifold-pressure-sucks/) and [#16](https://web.archive.org/web/20201112021057/www.avweb.com/features_old/pelicans-perch-16those-marvelous-props/)]
 - [Managing the Engine](https://www.aopa.org/training-and-safety/students/solo/skills/managing-the-engine) by [[AOPA]]
 
 ### Builds On
