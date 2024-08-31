@@ -35,7 +35,7 @@ Last PAVE before entering the mountains / hostile terrain
 
 FBO rental cars and courtesy cars
 
-Knife with seatbelt cutter
+Knife with seatbelt cutter? LAPG maybe
 
 ### Lesson Elements
 1. What counts as mountain flying?
