@@ -39,7 +39,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - Preflight testing
 	- Cycling the propeller in run-up^[Cycling 3 times is common. For example, the Piper Dakota [[POH]] recommends 3 cycles in cold weather to circulate warm oil. Sometimes this is presented as checking instruments for first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, and once to check for any oil mist from the prop. Cycling only 1 time is also sometimes appropriate. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
-	- Know engine takeoff limits, e.g. when and how much to reduce RPM after takeoff, if at all.
+	- Know engine takeoff limits, e.g. when and how much to reduce MP/RPM after takeoff, if at all.
 	- Pitching for a cruise climb to improve engine cooling
 	- Importance of checklists for each stage of flight, especially with more advanced systems
 - En Route
@@ -47,7 +47,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - Descent
 	- Shock cooling
 		- avoid changes in MP >5MP at a time (this will require additional descent planning)
-		- alternatively, 1" MP per 1 minute is a good #rule-of-thumb 
+		- alternatively, 2" MP per 2 minute is a good #rule-of-thumb 
 	- Avoid power-off descents, even through the end of the traffic pattern, as a full-power go-around with a cool engine can cause the engine to falter
 	- If you do need to idle the engine, try to 'clear' it every 15 seconds or so to keep it warm
 - Pattern

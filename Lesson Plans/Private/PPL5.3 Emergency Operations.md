@@ -4,6 +4,8 @@ tags: ppl, lesson
 aliases: [PPL.24, XC.9, PPL5.3]
 ---
 
+ditching?
+
 ### Objective
 Develop knowledge of all abnormal and emergency procedures for the training aircraft in use, including all ACS risk management and skill tasks.
 
@@ -58,6 +60,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 		- Else, take off, and land straight out
 	- Engine Failure!
 		- **(POH)** Abort takeoff, or forced landing straight ahead.^[[Cub Theatre: The-Not-That-Impossible Turn](https://www.youtube.com/watch?v=byBh1Qd6IgA) from [[Paul Bertorelli]] of [[AVweb]]]
+		- See also takeoff brief
 	- Airspeed isn't alive
 		- Abort takeoff, or fly the pattern and land normally
 	- A door opens
@@ -78,7 +81,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Engine failure!
 		- **(POH)** Best glide; aim for landing spot; attempt restart; Else declare emergency and execute *Forced Landing* ([[ABCDE]])
 	- Engine running poorly!
-		- Identify a landing spot and navigate toward it; Climb if possible, to bank energy; Debug the problem, but be prepared for a *Forced Landing*
+		- Identify a landing spot and navigate toward it; Climb if possible, to store energy; Debug the problem, but be prepared for a *Forced Landing*
 		- Possible problems (usually part of the restart checklist) include:
 			- Carburetor icing - Add carb heat [[How and Why Carburetor Ice Forms]]
 			- Bad mixture/throttle settings - Adjust
