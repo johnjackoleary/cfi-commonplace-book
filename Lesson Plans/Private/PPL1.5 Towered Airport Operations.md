@@ -22,8 +22,8 @@ N/A
 
 ### Lesson Elements
 1. Airport Features
-	2. Signs and Markings
-	3. Flashcards from [[AOPA]] ([slideshow](https://www.nxtbook.com/nxtbooks/aopa/runwaysafetyflashcard/index.php#/p/1) or [cards](https://www.aopa.org/-/media/FIles/AOPA/Home/Online-Education/Flash-Cards/RWcards_lo.pdf))
+	1. Signs and Markings
+	2. Flashcards from [[AOPA]] ([slideshow](https://www.nxtbook.com/nxtbooks/aopa/runwaysafetyflashcard/index.php#/p/1) or [cards](https://www.aopa.org/-/media/FIles/AOPA/Home/Online-Education/Flash-Cards/RWcards_lo.pdf))
 2. Radio communications
 	1. [[Phonetic Alphabet]]
 		1. Memorize them! Alpha through Zulu
@@ -51,7 +51,7 @@ N/A
 	3. Few you may hear
 		1. Roger - I understand (although typically you will just say your N-number instead)
 		2. Wilco - I understand and will comply (when a readback is not needed)
-		3. Affirmative / Negative - Yes / No
+		3. Affirm(ative) / Negative - Yes / No
 		4. (Negative) Contact - I (do not) have the aircraft in sight
 		5. Say Again - Please repeat
 		6. Standby - Please wait, and there's no need to acknowledge this standby
