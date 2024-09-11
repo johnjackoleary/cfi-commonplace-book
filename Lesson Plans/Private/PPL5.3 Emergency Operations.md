@@ -106,7 +106,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 		- **(POH)** Learn to control the plane with what you have; don't forget trim can help; make a *precautionary landing*
 	- Low oil pressure - **(POH)** Could lead to engine failure. Watch for oil temperature rise to confirm not a instrument error. *Precautionary Landing*
 	- Low fuel - Divert to alternate to refuel
-	- Alternator failure - **(POH)** Shed as much electric load as possible; estimate time available; land accordingly
+	- Alternator failure - **(POH)** Shed as much electric load as possible; estimate time available; land accordingly. Cycle master
 	- Retractable gear malfunction - (out of scope for this lesson)
 	- Flew into a cloud, or lost minimum VFR visibility
 		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio, use your [[Autopilot Systems and Usage|autopilot]]

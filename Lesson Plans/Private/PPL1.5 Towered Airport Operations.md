@@ -38,13 +38,6 @@ N/A
 	6. Mentally rehearse what you will say before keying the mic.
 	7. If in doubt, ask for clarification or request "say again"
 	8. Anticipate the response and pay attention for any unusual elements
-	9. Stuck microphones -- how to detect, how to respond
-4.  Taxiing Procedure
-	1. Receiving and recording [[ATIS]]
-	2. Airport and taxiway familiarization
-	3. Taxi instructions/clearances
-	4. [[Runway Incursion]]
-6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
 7. Radio communications practice (ATC phraseology):
 	1. [[Tower Radio Communication Examples]]
 	2. Standard Phraseology in [[AIM 4-2]]
@@ -57,16 +50,23 @@ N/A
 		6. Standby - Please wait, and there's no need to acknowledge this standby
 		7. Unable, *reason* - I cannot do that request because of *reason*
 	4. [[FAR 91.123 Compliance with ATC]]
-8. [[Light Gun Signals]]
-	1. Example
-		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
-		2. From *[Real Light Gun Signals | ATC Tower](https://www.youtube.com/watch?v=nxoakUa8UqQ)* by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199)
-	2. Debugging common radio issues (volume low, cable disconnect)
-	3. Study and memorize the signals
-	4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
-9. Departure and Arrival Procedures and Communication at Home Airport
-	1. #todo :: clean up ordering of lesson
-10. Common Errors
+8. Taxiing Procedure
+	1. Receiving and recording [[ATIS]]
+	2. Airport and taxiway familiarization
+	3. Taxi instructions/clearances
+	4. [[Runway Incursion]]
+6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
+7. Departure and Arrival Procedures and Communication at Home Airport
+8. Radio Issues
+	1. Stuck microphones -- how to detect, how to respond
+	2. [[Light Gun Signals]]
+		1. Example
+			1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
+			2. From *[Real Light Gun Signals | ATC Tower](https://www.youtube.com/watch?v=nxoakUa8UqQ)* by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199)
+		2. Debugging common radio issues (volume low, cable disconnect)
+		3. Study and memorize the signals
+		4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
+9. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not scanning for traffic, or keeping traffic to follow in sight
