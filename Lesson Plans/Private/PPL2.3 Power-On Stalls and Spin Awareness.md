@@ -4,7 +4,7 @@ tags: ppl, lesson
 aliases: [PPL.8, PPL.11, SOLO.8, SOLO.11, PPL2.3]
 ---
 ### Objective
-Develop knowledge, risk management, and skills associated with power-on stalls and spins spins. Understand flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
+Develop knowledge, risk management, and skills associated with power-on stalls and spins. Understand flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
 
 ### Resources
 - [[Private Pilot ACS]] Sections VII.C and VII.D

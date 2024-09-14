@@ -1,6 +1,6 @@
 Based on [online writeup]( https://www.reddit.com/r/flying/comments/tgn67t/ive_been_asked_about_this_a_couple_times_so_here/).
 
-#todo :: Replace with #source file links as they are added to Obisidan
+#todo :: Replace with #source file links as they are added to Obsidian
 
 |                                                                                                     FAR/AC/Document | What It Means                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------- |
@@ -65,9 +65,9 @@ Based on [online writeup]( https://www.reddit.com/r/flying/comments/tgn67t/ive_b
 |                                                                                                           [[FAR 61.51 Pilot Logbooks\|FAR 61.51]] | Logbook Entries                                                                                                |
 |                                                                                                        FAA-H-8083-1 | Aircraft Weight and Balance Handbook                                                                           |
 |                                                                                             [[IFH\|FAA-H-8083-15B]] | Instrument Flying Handbook                                                                                     |
-|                                                                                                      FAA-H-8083-25A | Pilot's Handbook of Aeronautical Knowledge                                                                     |
+|                                                                                                      [[PHAK\|FAA-H-8083-25A]] | Pilot's Handbook of Aeronautical Knowledge                                                                     |
 |                                                                                                      FAA-H-8083-27A | Student Pilot Guide                                                                                            |
-|                                                                                                       FAA-H-8083-3A | Airplane Flying Handbook                                                                                       |
+|                                                                                                       [[AFH\|FAA-H-8083-3A]] | Airplane Flying Handbook                                                                                       |
 |                                                                                                       FAA-H-8083-9A | Aviation Instructor Handbook                                                                                   |
 |                                                                                                  [[Commercial ACS]] | `= [[Commercial ACS]].Link`                                                                                    |
 |                                                                                                  [[Instrument ACS]] | Instrument Rating Airman Certification Standards                                                               |

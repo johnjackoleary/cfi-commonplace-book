@@ -15,4 +15,4 @@ aliases:
 > - 1 Credit of Flight Topic 2 - Positive Aircraft Control 
 > - 1 Credit of Flight Topic 3 - Basic Flying Skills
 
-***See Also***: [[AC 61-91]] and [[WINGS Pilot Proficiency Program Users Guide]]
+***See Also***: [[AC 61-91]] and [[WINGS Pilot Proficiency Program Users Guide]] and [[~ WINGS Phase Outline]]

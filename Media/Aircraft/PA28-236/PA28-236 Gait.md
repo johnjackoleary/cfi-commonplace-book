@@ -13,7 +13,7 @@ maneuver-speed:
 speed-units: kts
 ---
 
-| **(model::PA28-236) Gaits** v1.1 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
+| **(model::PA28-236) Gaits** v2.0 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
 | -------------------------------- |:---------:|:------:|:-------:|:-----------------------------:|
 | ⚠️ V<sub>G</sub>                 |           |        |  idle   |           (Vg::85)            |
 | 🛫 V<sub>R</sub>                 |           |  max   |   max   |           (Vr::60)            |
@@ -29,14 +29,14 @@ speed-units: kts
 | 🛬 Downwind                      |    10°    |  16"   |   max   |              90               |
 | 🛬 Abeam Numbers                 |    10°    |  13"   |   max   |              90               |
 | 🛬 Base                          |    25°    |  13"   |   max   |              80               |
-| 🛬 Final                         |    40°    | as req |   max   |          (Vref::72)           |
-| Short                            |    40°    |  as req      |   max   |        (Vshort::72-59)        |
+| 🛬 Final                         |    25°-40°    | as req |   max   |          (Vref::72)           |
+| Short                            |    40°    |  as req      |   max   |        (Vshort::59-72)        |
 
 <br>
 
 | Topic          | Details                                                                                   |
 | -------------- |:----------------------------------------------------------------------------------------- |
-| Leaning        | 100F (?) ROP                                                                                       |
+| Leaning        | Peak EGT for economy cruise                                                                                       |
 | V<sub>A</sub>  | (Va-mgw::124)kts @ [mgw::3000]lb; 96kts @ 1761lb                                          |
 | Short T.O.     | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{59, 63}@`=this.mgw`lb; {48,52}@2000lb |
-| Fuel Burn Est. | 16 gph @ 75% power                                                                                         |
+| Fuel Burn Est. | 15 gph @ 75% power economy cruise                                                                                        |

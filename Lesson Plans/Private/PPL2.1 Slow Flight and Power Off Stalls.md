@@ -26,7 +26,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 		2. From [The Secret of Flight 4: Discovery of Dynamic Lift](https://www.youtube.com/watch?v=8WKNrfFDaYM) by [University of Iowa](https://www.youtube.com/@universityofiowa)
 	2. We experience this during takeoffs, landings, go-arounds
 2. Aerodynamics of slow flight
-	1. Angle-of-Attack ([[AOA]]), airspeed ([[Angle of Attack vs Speed.jpeg|image]]), [[Load Factor]] (such as in turn, [[Forces in Level Turn.jpeg|image]]), aircraft configuration, weight, and attitude
+	1. Angle-of-Attack ([[AOA]]), airspeed ([[Angle of Attack vs Speed.jpeg|image]]), [[Load Factor]] (such as in turn, [[Forces in Level Turn.jpeg|image]]), aircraft configuration, weight, attitude
 		1. ![[Angle of Attack Impact to Pressure on Airfoil.jpeg]]
 	2. The drag curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
 		1. ![[Drag vs Speed.jpeg]]
@@ -91,7 +91,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 
 ### Completion Standards
 -Client should be proficient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude ±100’, heading ±10°, airspeed +10/-0 knots, specified bank angle ±10°.
--Client must be able to demonstrate power-off and power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
+-Client must be able to demonstrate power-off stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 

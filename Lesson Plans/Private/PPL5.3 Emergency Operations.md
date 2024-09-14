@@ -58,6 +58,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 		- Else, take off, and land straight out
 	- Engine Failure!
 		- **(POH)** Abort takeoff, or forced landing straight ahead.^[[Cub Theatre: The-Not-That-Impossible Turn](https://www.youtube.com/watch?v=byBh1Qd6IgA) from [[Paul Bertorelli]] of [[AVweb]]]
+		- See also takeoff brief
 	- Airspeed isn't alive
 		- Abort takeoff, or fly the pattern and land normally
 	- A door opens
@@ -78,7 +79,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Engine failure!
 		- **(POH)** Best glide; aim for landing spot; attempt restart; Else declare emergency and execute *Forced Landing* ([[ABCDE]])
 	- Engine running poorly!
-		- Identify a landing spot and navigate toward it; Climb if possible, to bank energy; Debug the problem, but be prepared for a *Forced Landing*
+		- Identify a landing spot and navigate toward it; Climb if possible, to store energy; Debug the problem, but be prepared for a *Forced Landing*
 		- Possible problems (usually part of the restart checklist) include:
 			- Carburetor icing - Add carb heat [[How and Why Carburetor Ice Forms]]
 			- Bad mixture/throttle settings - Adjust
@@ -88,7 +89,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Electrical failure
 		- The plane still flies; use backup radio or call on cell phone; land as soon as practical
 	- Radio failure (you can't hear them, or they can't hear you)
-		- Squawk 7600; proceed to destination if safe; call tower/[[TRACON]] on cell phone if able ([[ATC Phone Numbers]]); look for light signals
+		- [[Squawk 7600]]; proceed to destination if safe; call tower/[[TRACON]] on cell phone if able ([[ATC Phone Numbers]]); look for light signals
 	- Instruments don't seem to be reading correctly
 		- Are the altimeter and VSI "stuck" even when you change altitude?
 			- **(POH)** Static source is blocked; try alternate static source
@@ -103,7 +104,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 		- **(POH)** Learn to control the plane with what you have; don't forget trim can help; make a *precautionary landing*
 	- Low oil pressure - **(POH)** Could lead to engine failure. Watch for oil temperature rise to confirm not a instrument error. *Precautionary Landing*
 	- Low fuel - Divert to alternate to refuel
-	- Alternator failure - **(POH)** Shed as much electric load as possible; estimate time available; land accordingly
+	- Alternator failure - **(POH)** Shed as much electric load as possible; cycle master; estimate time available; land accordingly. 
 	- Retractable gear malfunction - (out of scope for this lesson)
 	- Flew into a cloud, or lost minimum VFR visibility
 		- Rely on [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] skills; reverse course; request help on the radio, use your [[Autopilot Systems and Usage|autopilot]]
@@ -133,6 +134,7 @@ These are the emergency procedures referenced in the section above.
 1. Emergency equipment and survival gear
 	1. [[ACS]] IX.C mentions: [[ELT]].  Fire extinguisher operation. Survival gear (food, water, shelter). Overwater operations.
 2. Emergency squawk codes: [[Squawk 7700]], [[Squawk 7600]], [[Squawk 7500]]
+	1. [[Squawk Code Memory Aid]]
 > [!caution] Even passing through one of these codes will trigger an alert for [[ATC]]. As you set a squawk code, be mindful to not pass through one accidentally.
 3. [[Intercept Procedures]]
 4. Ballistic parachutes

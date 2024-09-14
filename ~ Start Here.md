@@ -17,7 +17,7 @@ cover: "Media/Axes of Airplane.jpeg"
 - Instrument Rating: [[~ IR Lesson Plan Outline]]
 
 ### Instructor Interested in Resources
-- [[+ Sources]] and [[CFI Checkride Table of Contents]]
+- [[+ Sources]] and [[CFI Checkride Resources]]
 - A [[All Maneuvers Quick Reference|quick reference guide to all maneuvers]]
 - A [[Aircraft Gait Charts|variety of gait charts]] (pitch+power+config) for commonly used airplanes
 
