@@ -61,7 +61,7 @@ N/A
 	1. Stuck microphones -- how to detect, how to respond
 	2. [[Light Gun Signals]]
 		1. Example
-			1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
+			1. <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
 			2. From *[Real Light Gun Signals | ATC Tower](https://www.youtube.com/watch?v=nxoakUa8UqQ)* by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199)
 		2. Debugging common radio issues (volume low, cable disconnect)
 		3. Study and memorize the signals

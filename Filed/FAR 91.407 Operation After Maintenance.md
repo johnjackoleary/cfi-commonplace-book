@@ -5,6 +5,6 @@
 #### Key Quotes
 * No person may operate any aircraft that has undergone maintenance, preventive maintenance, rebuilding, or alteration unless—
 	* It has been approved for return to service by a person authorized under § [[FAR 43.7|43.7]] of this chapter; and
-	* The maintenance record entry required by § [[FAR 43.9|43.9]] or § [[FAR 43.11|43.11]], as applicable, of this chapter has been made.
+	* The maintenance record entry required by § [[FAR 43.9 Maintenance Records|43.9]] or § [[FAR 43.11|43.11]], as applicable, of this chapter has been made.
 
 #source #far
