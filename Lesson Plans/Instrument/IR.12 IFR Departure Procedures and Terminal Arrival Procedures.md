@@ -71,7 +71,10 @@ Ground 1.5 hours, flight 3 hours
 	3. Descend via/Climb via^[vs cleared via, which is only clearance for lateral and not altitudes]/via except maintain
 		1. Climb via [KIAH](https://www.airnav.com/airport/KIAH) - RITAA 7 ([page 1](https://cfijack.com/latest-plate-redirect/?plate=05461RITAA.PDF) and [page 2](https://cfijack.com/latest-plate-redirect/?plate=05461RITAA_C.PDF))
 		2. Descend via [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)
-6. Common errors 
+6. ATC Commons
+	1. Include runway
+	2. Good to mention use of ODP if unclear
+7. Common errors 
 	1. Accepting a SID or STAR without briefing
 	2. Not knowing performance capability of aircraft to to fly any procedure
 
