@@ -67,7 +67,9 @@ Ground 1.5 hours
 		1. Clearance void time (don’t exceed 30min)
 		2. Hold for release 
 		3. Release Time
-		4. EDCT (depart no earlier than 5 min before and no later than 5 min after)
+		4. [[EDCT]] (depart no earlier than 5 min before and no later than 5 min after)
+		5. Include runway in clearance request
+		6. Good to mention use of [[ODP]] if unclear
 	8. What if I don’t like the clearance? (AIM 4-4-4)
 3. Request for delay vector or, similarly, request to continue holding
 
