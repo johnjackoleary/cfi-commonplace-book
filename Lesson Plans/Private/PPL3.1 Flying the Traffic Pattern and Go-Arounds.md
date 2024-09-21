@@ -130,7 +130,7 @@ GPS/Sentry/ADS-B In
 	4. Lack of rudder usage to correct for P-factor and torque
 	5. Drifting from runway centerline (unless offsetting for conflicting traffic)
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
-	7. Expecting CFI to fix a dangerous landing attempt
+	7. Expecting CFI to fix a risky landing attempt (may not be possible!)
 
 > <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/evE3WmYAvVY"  frameborder="0"></iframe>
 > 
