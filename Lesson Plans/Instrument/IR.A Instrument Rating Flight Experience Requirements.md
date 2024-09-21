@@ -13,7 +13,7 @@ From [[FAR 61.65 Instrument Rating Reqs]] (c) *Flight proficiency*
 From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the instrument-airplane rating* and (i) *Use of an aviation training device*
 
 >[!warning] For future commercial pilots
->This time does NOT automatically satisfy the [[CPL.A Part 61 Commercial Training Requirements|required instrument training for the commercial certificate]], unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](e) and [[FAR 61.129 CPL Aeronautical Experience|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.)</span>
+>This time does NOT automatically satisfy the [[CPL.A Part 61 Commercial Training Requirements|required instrument training for the commercial certificate]], unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](d) and [[FAR 61.129 CPL Aeronautical Experience|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.)</span>
 
 - [ ] 50 hours XC PIC flight time, >=10 hours must be in an airplane
 - [ ] 40 hours of actual or simulated instrument time in the areas of operation listed in paragraph (c) of this section, of which 15 hours must have been received from an authorized instructor who holds an instrument-airplane rating, and the instrument time includes:
