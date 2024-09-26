@@ -4,7 +4,7 @@ tags: ppl, lesson
 aliases: [PPL.9, SOLO.9, PPL2.4]
 ---
 ### Objective
-Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop risk management and skills associated with steep turns.
+Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop [[risk management]] and skills associated with steep turns.
 
 ### Resources
 - [[Private Pilot ACS]] Section V.A
@@ -28,7 +28,7 @@ Ground 0.5 hours, Flight 1 hour
 	7. [[Maneuvering speed]] Va - define and discuss entry speed for steep turn
 2. Flying the maneuver
 	1. Set-up for maneuvering, start at [[Va]]
-	2. Crisp roll into 45° bank; add power; aft pressure for altitude
+	2. Crisp roll into 45° bank; add power passing ~30°; aft pressure for altitude
 	3. Rollout on entry heading
 3. Notes
 	1. You may notice (subtle) opposite aileron during turn to prevent [[overbanking tendency]]
