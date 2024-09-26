@@ -55,7 +55,7 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 3. Plan for required checkouts, as needed
 	1. [[Suggested Aircraft Checkout Process|Aircraft Checkout]]
 	2. [[~ G1000 Lesson Plan Outline|G1000 Checkout]]
-	3. Simulator Checkout
+	3. [[SIM.1 Sim Checkout]]
 
 ### Completion Standards
 Learner understands the instrument flight training process and roadmap ahead.
