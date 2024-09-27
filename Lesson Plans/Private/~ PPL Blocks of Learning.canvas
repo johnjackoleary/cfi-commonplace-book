@@ -25,7 +25,7 @@
 		{"id":"6c37e30d30c8825b","type":"text","text":"Steep Turns","x":1160,"y":2610,"width":440,"height":60,"color":"5"},
 		{"id":"6884678bdfc46272","type":"text","text":"Flight at various airspeeds from cruise to slow flight;","x":1160,"y":1650,"width":440,"height":60,"color":"3"},
 		{"id":"302e29821a51994c","type":"file","file":"Lesson Plans/Private/PPL1.5 Towered Airport Operations.md","x":40,"y":1240,"width":400,"height":400},
-		{"id":"27b7fba85f644bcf","type":"file","file":"Lesson Plans/Private/PPL2.4 Performance Maneuvers - Steep Turns.md","x":600,"y":2440,"width":400,"height":400},
+		{"id":"27b7fba85f644bcf","type":"file","file":"Lesson Plans/Private/PPL2.4 Steep Turns.md","x":600,"y":2440,"width":400,"height":400},
 		{"id":"a13a0bcf34a84907","type":"text","text":"Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;","x":1160,"y":2113,"width":440,"height":95,"color":"3"},
 		{"id":"d31131a99b9a078e","type":"file","file":"Lesson Plans/Private/PPL1.4 Normal and Crosswind Takeoffs and Climbs.md","x":600,"y":1000,"width":400,"height":400},
 		{"id":"56299b1faba63274","type":"text","text":"Takeoffs, including normal and crosswind;","x":1160,"y":1170,"width":440,"height":60,"color":"3"},

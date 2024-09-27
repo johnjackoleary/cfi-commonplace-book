@@ -26,7 +26,7 @@ tags:
 [[PPL2.1 Slow Flight and Power Off Stalls]]
 [[PPL2.2 Navigation Charts and National Airspace System]]
 [[PPL2.3 Power-On Stalls and Spin Awareness]]
-[[PPL2.4 Performance Maneuvers - Steep Turns]]
+[[PPL2.4 Steep Turns]]
 [[PPL2.5 Ground Reference Maneuvers]]
 [[PPL2.6 Aircraft Systems]]
 
