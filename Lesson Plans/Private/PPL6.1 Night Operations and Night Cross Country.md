@@ -32,10 +32,11 @@ Ground 1 hour, flight 3 hours
 		1. > [!quote] From [[AFH Ch11]]
 		> Pilots are encouraged to turn on their landing lights when operating within 10 miles of an airport and below 10,000 feet.
 	4. Interior and panel lighting
-3. Airport lighting
+	5. Fueling at night or before
+1. Airport lighting
 	1. Beacons, runway and taxi lighting, [[VASI]], [[PAPI]], [[REIL]]
 	2. Pilot-controlled lighting and how to operate
-4. Navigation at night
+2. Navigation at night
 	1. Plan a route to maximize time within glide range of an airport
 	2. Pilotage and chart-reading techniques
 	3. Illusion affecting night flight
@@ -44,24 +45,31 @@ Ground 1 hour, flight 3 hours
 		3. [[Black-Hole Approach]]
 			1. Importance of [[VASI]] or [[PAPI]] lights
 	4. Greater reliance on instruments is required
-5. Pilot considerations
+3. Pilot considerations
 	1. Physiology of night flight with respect to vision
+		1. Consdier covering one eye
 	2. Personal lighting equipment
-6. The go/no-go decision
+4. The go/no-go decision
 	1. Weather matters more than ever.  Clouds are invisible on a moon-less night
 	2. A narrow temperature/dewpoint spread means fog could form soon
 	3. How to detect inadvertent flight into IMC
-7. Night flight experience -- 3 hours required:
+5. Night flight experience -- 3 hours required:
 	1. Dual cross-country of > 100nm
 	2. 10 takeoffs and landings in pattern, full stop^[Notice both takeoff and landings must be at night. If you depart before/during civil twilight and land after civil twilight, that counts as 1 night landing, but not 1 night takeoff.]^[These 10 takeoffs and landings must also be around the pattern, not just the end of a flight.]
-8. Common errors
+6. Common errors
 	1. Navigational disorientation
 	2. Loss of situational awareness, due to loss of visual horizon
 	3. Getting low on final approach, due to black hole illusion
 	4. Inadvertent flight into clouds is possible
 
 ### Completion Standards
-Client demonstrates the knowledge and skills to safely fly and navigate at night.
+Client demonstrates the knowledge and skills to fly and navigate at night safely.
+
+### Required Logbook Phraseology
+For [[FAR 61.107]]:
+- Night operations
+
+[[FAR 61.109 Private Pilot Reqs]]
 
 ### Required Homework
  
