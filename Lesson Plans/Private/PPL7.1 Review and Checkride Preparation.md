@@ -57,7 +57,6 @@ Client should be able to answer oral questions on all topics listed in the ACS, 
 For [[FAR 61.105 PPL Knowledge Reqs]]:
 - Applicable Federal Aviation Regulations of this chapter that relate to private pilot privileges, limitations, and flight operations
 - Accident reporting requirements of the National Transportation Safety Board
-- 
 
 ### Required Homework
 - [ ] Study and practice

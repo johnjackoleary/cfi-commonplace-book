@@ -46,7 +46,6 @@ All pre-solo lessons
    > [!quote] 
    > A student pilot may log pilot-in-command time when the student pilot (i) Is the sole occupant of the aircraft; (ii) Has a solo flight endorsement as required under [[FAR 61.87 Student Solo Reqs|FAR 61.87]]; and (iii) Is undergoing training for a pilot certificate or rating.
 
-
 ### Required Logbook Phraseology
 After confirming everything for [[FAR 61.87 Student Solo Reqs]], endorse with [[Pre-Solo Endorsements]].
 
