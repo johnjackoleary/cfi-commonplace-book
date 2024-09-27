@@ -47,13 +47,16 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
 	3. Takeoff and landing distances for ground roll and obstacle clearance
 	4. Rate of climb and time to climb
-	5. Power settings for cruise, airspeed and fuel burn
+	5. Impact of [[Density Altitude]] on takeoff and climb performance
+	6. Power settings for cruise, airspeed and fuel burn
 		1. Importance of and methods for [[Leaning the Mixture]]
-	6. [[Personal Minimums]] and other safety factor considerations 
+	7. [[Personal Minimums]] and other safety factor considerations 
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
+For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]:
 - Use of aircraft performance charts pertaining to cross-country flight
+- Effects of density altitude on takeoff and climb performance
+- Weight and balance computations
 
 ### Completion Standards
 Client should develop knowledge of [[POH]]/[[AFM]] organization, including performance and weight & balance calculations.

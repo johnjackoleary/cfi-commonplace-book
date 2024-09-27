@@ -52,8 +52,9 @@ Hood or foggles
 Client must demonstrate basic attitude instrument flying skills, to ACS standards (±200 feet, heading ±20 degrees, airspeed ±10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed climbs and descents, by reference to flight instruments only.  Concurrent tasks will include looking up and tuning radio and navigation frequencies.
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
+For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.107 PPL Flight Reqs]]:
 - Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives
+- Basic instrument maneuvers
 
 ### Required Homework
  None

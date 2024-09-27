@@ -70,9 +70,11 @@ N/A
 > The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]].
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Taxiing or surface operations, including runups;
-- Proper flight preparation procedures, including... powerplant operation, and aircraft systems;
+For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.107 PPL Flight Reqs]]: 
+- Taxiing or surface operations, including runups
+- Proper flight preparation procedures, including... powerplant operation, and aircraft systems
+- Preflight procedures
+- Postflight procedures
 
 ### Completion Standards
 Learner must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.

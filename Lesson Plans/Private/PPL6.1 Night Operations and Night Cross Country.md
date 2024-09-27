@@ -66,10 +66,14 @@ Ground 1 hour, flight 3 hours
 Client demonstrates the knowledge and skills to fly and navigate at night safely.
 
 ### Required Logbook Phraseology
-For [[FAR 61.107]]:
+For [[FAR 61.107 PPL Flight Reqs]]:
 - Night operations
 
-[[FAR 61.109 Private Pilot Reqs]]
+> [!note] 
+> Specific night flight requirements from [[FAR 61.109 PPL Experience Reqs]]:
+> - 3 hours of night flight training in a single-engine airplane that includes—
+> 	- (i) One cross-country flight of over 100 nautical miles total distance; and
+> 	- (ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 
 ### Required Homework
  

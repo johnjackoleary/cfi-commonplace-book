@@ -98,9 +98,10 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 Learner must become proficient at flying stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
+For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.107 PPL Flight Reqs]]: 
 - Landings, including normal and crosswind
 - Collision avoidance, windshear avoidance, and wake turbulence avoidance
+- Takeoffs, landings, and go-arounds
 
 ### Required Homework
 - [ ] Read [[FAA P-8740-40 Wind Shear]]

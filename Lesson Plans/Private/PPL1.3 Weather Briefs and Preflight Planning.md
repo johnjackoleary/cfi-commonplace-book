@@ -48,8 +48,9 @@ Develop initial knowledge of and sources for preflight briefings.
 Learner completes first pre-flight briefing, and is able to complete a briefing for all future flights.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
+For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.107 PPL Flight Reqs]]: 
 - Proper flight preparation procedures, including preflight planning and preparation...
+- Preflight preparation
 
 ### Required Homework
 - [ ] Start using [1800wxbrief.com](https://www.1800wxbrief.com) for pre-flight briefings before every lesson

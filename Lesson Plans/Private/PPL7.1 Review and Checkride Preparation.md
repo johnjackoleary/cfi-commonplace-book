@@ -28,6 +28,7 @@ Ground 3 hours, Flight as necessary
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
+	4. [[Part 830]] review: [[Accident and Incident Reporting]] to [[NTSB]]
 3. [[ADM]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
@@ -51,6 +52,12 @@ Ground 3 hours, Flight as necessary
 
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
+
+### Required Logbook Phraseology
+For [[FAR 61.105 PPL Knowledge Reqs]]:
+- Applicable Federal Aviation Regulations of this chapter that relate to private pilot privileges, limitations, and flight operations
+- Accident reporting requirements of the National Transportation Safety Board
+- 
 
 ### Required Homework
 - [ ] Study and practice

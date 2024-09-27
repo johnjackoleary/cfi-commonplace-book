@@ -49,9 +49,11 @@ Ground 2 hours, 1 hour sim
 Client should develop knowledge of navigation equipment on board their training aircraft. Client should be familiar with services available from ATC, and know how and when to request assistance.
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
+For [[FAR 61.93 Solo XC Reqs]], [[FAR 61.105 PPL Knowledge Reqs]], and [[FAR 61.107 PPL Flight Reqs]]:
 - Procedures for operating the instruments and equipment installed in the aircraft to be flown, including recognition and use of the proper operational procedures and indications
 - Recognition, avoidance, and operational restrictions of hazardous terrain features in the geographical area where the cross-country flight will be flown
+- Use of aeronautical charts for VFR navigation using pilotage, dead reckoning, and navigation systems
+- Navigation
 
 ### Required Homework
 None

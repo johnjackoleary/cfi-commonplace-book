@@ -83,10 +83,12 @@ Ground 2 hours, 1 hour sim/flight
 Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
+For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]:
 - Traffic pattern procedures that include area departure, area arrival, entry into the traffic pattern, and approach
 - Use of radios for VFR navigation and two-way communication
 - Procedures and operating practices for collision avoidance, wake turbulence precautions, and windshear avoidance
+- Use of the applicable portions of the “Aeronautical Information Manual” and FAA advisory circulars
+- Safe and efficient operation of aircraft, including collision avoidance, and recognition and avoidance of wake turbulence
 
 ### Required Homework
 - [ ] Read [[AC 90-66]]

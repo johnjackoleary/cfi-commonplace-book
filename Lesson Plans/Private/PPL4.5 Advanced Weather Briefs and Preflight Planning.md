@@ -48,7 +48,8 @@ Ground 1.5 hour, practice on multiple flights
 		1. Outlook
 		2. Standard
 		3. Abbreviated
-2. Other topics related to cross-country planning and flying:
+2. Review of [[All Available Information Concerning That Flight]]^[Similar to [[NWKRAFT]]]
+3. Other topics related to cross-country planning and flying:
 	1. [[Human Factors]]
 	2. How to share expenses? [[AC 61-142]] and [[FAR 61.113 Private Pilot Privileges and Limitations]]^[Good WINGS program online [here](https://www.faasafety.gov/gslac/ALC/course_content.aspx?cID=1093)]
 	3. Flight Services Enroute
@@ -63,8 +64,12 @@ Ground 1.5 hour, practice on multiple flights
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
+For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]:
 - Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
+- Recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts
+- Preflight action that includes—
+	- How to obtain information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and forecasts, and fuel requirements; and
+	- How to plan for alternatives if the planned flight cannot be completed or delays are encountered.
 
 ### Required Homework
 None
