@@ -1,4 +1,4 @@
-***Link***      :: [Solo requirements for student pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.87)
+***Link***      :: [Solo requirements for student pilots](https://www.ecfr.gov/current/title-14/section-61.87)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

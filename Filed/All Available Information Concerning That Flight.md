@@ -2,7 +2,7 @@
 
 **The elements of NWKRAFT are:**
 
-1. [[NOTAM]]s (and [[Approved NOTAM Contractions]])
+1. [[NOTAM]]s and [[TFR]]s (and [[Approved NOTAM Contractions]])
 2. Weather reports and forecasts
 	1. [[Weather Brief]]
 	2. [[PIREP]]s
@@ -30,5 +30,3 @@
 
 **When is an NWKRAFT briefing required?**
 According to [[FAR 91.103 Preflight Action]], not for a VFR flight "in the vicinity of an airport".  But even for a flight in the pattern, runway lengths and takeoff/landing distance are required.  And it would be foolish not to check the [[ATIS]], [[NOTAM]]s, and the weather forecast.
-
-#todo Shouldn't TFRs be here somewhere?

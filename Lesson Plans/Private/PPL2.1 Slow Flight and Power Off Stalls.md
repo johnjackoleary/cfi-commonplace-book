@@ -94,9 +94,11 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 -Client must be able to demonstrate power-off stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
+For [[FAR 61.87 Student Solo Reqs]], [[FAR 61.105 PPL Knowledge Reqs]], and [[FAR 61.107 PPL Flight Reqs]]: 
 - Flight at various airspeeds from cruise to slow flight
-- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;
+- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall
+- Slow flight and stalls
+- Principles of aerodynamics...
 
 ### Required Homework
  None

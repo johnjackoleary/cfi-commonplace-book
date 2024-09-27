@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: ppl, lesson
+tags: ppl, lesson, maneuver
 aliases: [PPL.9, SOLO.9, PPL2.4]
 ---
 ### Objective
@@ -43,10 +43,14 @@ Ground 0.5 hours, Flight 1 hour
 	7. Rolling out on wrong heading
 
 ### Completion Standards
-Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360-degree turn in either direction with 45-degree bank, maintaining altitude and adding power to maintain airspeed. Tolerances: ±100 feet, ±10 knots, ±5 degrees bank, ±10 degrees heading on rollout.
+Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360° turn in either direction with 45° bank, maintain altitude and add power to maintain airspeed.
+
+> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+±100'; ±10kts; bank±5°; hdg±10°
 
 ### Required Logbook Phraseology
-Technically none, although Steep Turns are in [[Private Pilot ACS]].
+For [[FAR 61.107 PPL Flight Reqs]]:
+- Performance maneuvers
 
 ### Required Homework
  None

@@ -4,7 +4,7 @@ tags: ppl, lesson
 aliases: [PPL.7, SOLO.7, PPL2.2]
 ---
 ### Objective
-Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, weather briefings, and flight plans.
+Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, and Part 91 operations.
 
 ### Resources
 - [[Private Pilot ACS]] Section I.E
@@ -32,11 +32,16 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 		2. https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/various-safety-pdfs/airspace2011.pdf
 	4. Altitudes for cruise flight ([[FAR 91.159 VFR Altitudes]])
 	5. Minimum altitudes ([[FAR 91.119 Minimum Altitudes]])
-7. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
-8. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
+	6. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
+	7. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
+6. Equipment Requirements
+	1. [[FAR 91.205 Instrument and Equipment Requirements]] Day/Night VFR
+		1. [[KOEL]]
+	2. [[FAR 91.213 Inop Equip|Inoperative Equipment]]
+		1. Discuss flow chart
 
 ### Completion Standards
-Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, weather briefings, and flight plans.
+Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, and FARs.
 
 ### Required Homework
 - [ ] Memorize VFR weather minimums

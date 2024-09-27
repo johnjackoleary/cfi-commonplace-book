@@ -84,8 +84,9 @@ Learner must be able to demonstrate power-on stalls, to ACS standards. Recovery 
 The client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall;
+For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]: 
+- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall
+- Stall awareness, spin entry, spins, and spin recovery techniques for the airplane and glider category ratings
 
 ### Required Homework
 None
