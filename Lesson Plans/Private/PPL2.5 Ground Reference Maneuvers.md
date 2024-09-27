@@ -62,7 +62,7 @@ GPS/Sentry/ADS-B In
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards. 
 
 > [!success]- Tolerances from [[Private Pilot ACS|ACS]]
-> ±100 feet, ±10 knots
+> ±100'; ±10kts; constant radius
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.109 Private Pilot Reqs]]:
