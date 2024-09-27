@@ -59,10 +59,13 @@ GPS/Sentry/ADS-B In
 	5. Failure to maintain altitude or airspeed throughout the maneuver
 
 ### Completion Standards
-Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards. Tolerances: ±100 feet, ±10 knots.
+Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards. 
+
+> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> ±100 feet, ±10 knots
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
+For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.109 Private Pilot Reqs]]:
 - Ground reference maneuvers
 
 ### Required Homework
