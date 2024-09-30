@@ -14,7 +14,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL2.1 Slow Flight and Power Off Stalls]]
+- [[PPL2.1 Slow Flight and Power-Off Stalls]]
 - [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
 
 ### Schedule

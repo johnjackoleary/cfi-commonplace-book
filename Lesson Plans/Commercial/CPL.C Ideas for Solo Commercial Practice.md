@@ -97,7 +97,7 @@
 	3. ‡ **30° bank at the steepest point.**
 	4. ‡ At the 180° point, **±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading**.
 	5. Resume straight-and-level flight.
-5. Slow Flight ([[PPL2.1 Slow Flight and Power Off Stalls]])
+5. Slow Flight ([[PPL2.1 Slow Flight and Power-Off Stalls]])
 6. Power On and Off Stalls ([[PPL2.3 Power-On Stalls and Spin Awareness]])
 8. Accelerated Stalls (VII.D)
 	1. Must complete task above 3000' AGL.

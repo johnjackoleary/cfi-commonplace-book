@@ -19,7 +19,7 @@
 		{"id":"6c37e30d30c8825b","type":"text","text":"Performance maneuvers","x":1160,"y":2610,"width":440,"height":60,"color":"5"},
 		{"id":"27b7fba85f644bcf","type":"file","file":"Lesson Plans/Private/PPL2.4 Steep Turns.md","x":600,"y":2440,"width":400,"height":400},
 		{"id":"23bd6872665d2ea8","type":"file","file":"Lesson Plans/Private/PPL3.4 Emergency Landings.md","x":600,"y":4840,"width":400,"height":400},
-		{"id":"d977536e0370a3b3","type":"file","file":"Lesson Plans/Private/PPL2.1 Slow Flight and Power Off Stalls.md","x":600,"y":1480,"width":400,"height":400},
+		{"id":"d977536e0370a3b3","type":"file","file":"Lesson Plans/Private/PPL2.1 Slow Flight and Power-Off Stalls.md","x":600,"y":1480,"width":400,"height":400},
 		{"id":"d31131a99b9a078e","type":"file","file":"Lesson Plans/Private/PPL1.4 Normal and Crosswind Takeoffs and Climbs.md","x":600,"y":1000,"width":400,"height":400},
 		{"id":"56299b1faba63274","type":"text","text":"Takeoffs, including normal and crosswind","x":1160,"y":1170,"width":440,"height":60,"color":"3"},
 		{"id":"ad9f4e82d3ea3e2c","type":"text","text":"Descents, with and without turns, using high and low drag configurations;","x":1160,"y":690,"width":440,"height":60,"color":"3"},
