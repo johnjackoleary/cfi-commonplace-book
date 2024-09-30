@@ -74,8 +74,12 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 4. Brakes / Hydraulic System ([Aircraft Systems - 07 - Hydraulic System](https://www.youtube.com/watch?v=M1UddxRAjbc) from [[ERAU SpecialVFR]])
 5. Cabin Heat, Ventilation, and Defrost ([Aircraft Systems - 09 - Enviromental [*sic*] System](https://www.youtube.com/watch?v=MVlEOlM-DPo) from [[ERAU SpecialVFR]])
 	1. [[Carbon Monoxide Poisoning|Carbon Monoxide poisoning]] risk from cabin heat
-6. Review of [[FAR 91.205 Instrument and Equipment Requirements|Required Equipment]] and [[FAR 91.213 Inop Equip|Inoperative Equipment]]
-8. If possible, find an aircraft without a cowling to see these systems up close
+6. Equipment Requirements
+	1. [[FAR 91.205 Instrument and Equipment Requirements]] Day/Night VFR
+		1. [[KOEL]]
+	2. [[FAR 91.213 Inop Equip|Inoperative Equipment]]
+		1. Discuss flow chart
+7. If possible, find an aircraft without a cowling to see these systems up close
 
 > [!note] Navigation equipment discussed in [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL4.3]].
 

@@ -67,7 +67,7 @@ GPS/Sentry/ADS-B In
 	4. "Final"
 	5. "Short Final"
 	6. "On the go"
-	7. "Upwind"
+	7. "Upwind" / "Departure"
 	8. "Right crosswind"
 	9. "Departing straight out"
 	10. "Departing right crosswind"
@@ -76,10 +76,12 @@ GPS/Sentry/ADS-B In
 6. At an un-towered airport, the default is to enter on the 45.  What if that's not the direction you're coming from?
 	1. Circle wide
 	2. Cross midfield above the pattern, and cloverleaf onto the 45
+	3. More in [[PPL4.2 Advanced Airport Operations]]
 7. Flying the pattern
 	1. Memorize power settings/airspeeds, use wind correction angle like the [[PPL2.5 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
+	4. Patterns with extended legs
 8. Palo Alto specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
@@ -109,9 +111,10 @@ GPS/Sentry/ADS-B In
 	1. [[Go-Around Procedure.jpeg]]
 	2. Stop the Descent (Cram)
 		1. Full power (throttle and prop), smooth but rapid, carb heat off
-		2. Be prepared to resist nose-up tendency
-		3. Raise flaps one notch
-		4. Accelerate to Vx
+		2. Right rudder
+		3. Be prepared to resist nose-up tendency
+		4. Raise flaps one notch
+		5. Accelerate to Vx
 	3. Climb
 		1. Pitch to Vx or Vy climb attitude by visual reference to horizon
 		2. Trim for Vx or Vy
@@ -121,7 +124,7 @@ GPS/Sentry/ADS-B In
 	5. Configure
 		1. Verify positive rate of climb, incrementally set flaps for normal climb
 	6. Call
-		1. Report go-around to tower ([[Aviate, Navigate, Communicate|Aviate, Navigate, then Communicate]])
+		1. Report go-around to tower ([[Aviate, Navigate, Communicate|Aviate, Navigate, then Communicate]]), if needed
 	7. Use take-off check-list
 4. Common Errors
 	1. Initiating go-around too late
