@@ -59,7 +59,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 			6. [[PPL4.6 Pilotage and Dead Reckoning]]
 			7. [[PPL4.7 Making the Go-No-Go Decision]]
 	5. I.E. National Airspace System
-		1. Review [[PPL2.2 Navigation Charts and National Airspace System]]
+		1. Review [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
 	6. I.F. Performance and Limitation
 		1. Review [[PPL4.4 Aircraft Performance and Weight+Balance]]
 	7. I.G. Operation of Systems

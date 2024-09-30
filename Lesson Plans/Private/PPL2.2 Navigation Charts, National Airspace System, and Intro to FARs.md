@@ -24,7 +24,7 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts
 	1. ![[VFR Chart Legend.pdf|chart symbology]]
 4. [[Chart Supplement]] (formerly Airports/Facility Directory, still called A/FD in ForeFlight) - [[KPAO Chart Supplement.pdf|image]]
-5. [[National Airspace System]]
+5. [[National Airspace System]] (much of this lesson is spent in this subpage)
 	1. Types of airspace -- Class A, B, C, D, E, G
 	2. [[FAR 91.155 VFR Weather Minimums]] (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums List Memory Aid|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
 	3. Required equipment for each Airspace
@@ -34,11 +34,6 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 	5. Minimum altitudes ([[FAR 91.119 Minimum Altitudes]])
 	6. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
 	7. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
-6. Equipment Requirements
-	1. [[FAR 91.205 Instrument and Equipment Requirements]] Day/Night VFR
-		1. [[KOEL]]
-	2. [[FAR 91.213 Inop Equip|Inoperative Equipment]]
-		1. Discuss flow chart
 
 ### Completion Standards
 Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, and FARs.

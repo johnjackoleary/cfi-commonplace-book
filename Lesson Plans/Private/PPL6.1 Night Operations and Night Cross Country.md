@@ -13,7 +13,7 @@ Develop knowledge and skill pertaining to night flight.
 
 ### Builds On
 - [[PPL1.5 Towered Airport Operations]]
-- [[PPL2.2 Navigation Charts and National Airspace System]]
+- [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
 - [[PPL4.6 Pilotage and Dead Reckoning]]
 
 ### Schedule

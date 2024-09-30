@@ -13,7 +13,7 @@ Develop knowledge and ability to plot a course, then use onboard navigation equi
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL2.2 Navigation Charts and National Airspace System]]
+[[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
 
 ### Schedule
 Ground 2 hours, 1 hour sim

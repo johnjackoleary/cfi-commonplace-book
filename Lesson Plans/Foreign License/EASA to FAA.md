@@ -39,12 +39,12 @@ Taught but not frequently used.
 #### Special Use Airspaces
 While many airspaces will be familiar, understanding [[MOA]]s, [[TFR]]s, and other special use airspaces will be important.
 
-> [!info] See [[PPL2.2 Navigation Charts and National Airspace System]] for more info.
+> [!info] See [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]] for more info.
 
 #### FAA Charts and Chart Supplement
 Though similar in content, make sure you can effectively use FAA Charts and Chart Supplements for navigation and information.
 
-> [!info] See [[PPL2.2 Navigation Charts and National Airspace System]] for more info.
+> [!info] See [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]] for more info.
 
 #### Radio and Flight Following
 Understanding and using services from [[ATC]] is important, especially in locations with busy airspace.

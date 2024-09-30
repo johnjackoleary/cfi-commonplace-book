@@ -16,7 +16,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 ### Builds On
 - [[PPL1.5 Towered Airport Operations]]
 - [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
-- [[PPL2.2 Navigation Charts and National Airspace System]]
+- [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
 
 ### Schedule
 Ground 2 hours, 1 hour sim/flight

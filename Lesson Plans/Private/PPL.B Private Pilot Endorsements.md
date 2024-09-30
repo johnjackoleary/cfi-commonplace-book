@@ -26,7 +26,7 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 **A.33 Flight proficiency/practical test: §§ [[FAR 61.103|61.103]](f), [[FAR 61.107 PPL Flight Reqs|61.107]](b), and [[FAR 61.109 PPL Experience Reqs|61.109]].** The endorsement for a practical test is required in addition to the § 61.39 endorsements provided in paragraphs A.1 and A.2.
 
-I certify that \[First name, MI, Last name\] has received the required training in accordance with §§ 61.107 and 61.109. I have determined \[h61.103e or she\] is prepared for the Private Pilot Airplane Single Engine Land (ASEL) practical test.
+I certify that \[First name, MI, Last name\] has received the required training in accordance with §§ 61.107 and 61.109. I have determined \[he or she\] is prepared for the Private Pilot Airplane Single Engine Land (ASEL) practical test.
 
 ---
 
