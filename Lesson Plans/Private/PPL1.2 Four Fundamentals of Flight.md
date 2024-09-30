@@ -87,7 +87,10 @@ Establish climb or descent, then initiate turn.
 5. Lack of rudder coordination
 
 ### Completion Standards
-Learner must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Learner must develop habit of visual scanning for traffic, and check for traffic before maneuvers. (ACS standards: ±10 knots, ±10 degrees, ±100 feet)
+Learner must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Learner must develop habit of visual scanning for traffic, and check for traffic before maneuvers. 
+
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> ±10 knots, ±10° degrees, ±100 feet^[These are a reasonable blend of minimums from other ACS standards, since four fundamentals is assessed as part of other maneuvers in the checkride.]
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]]: 

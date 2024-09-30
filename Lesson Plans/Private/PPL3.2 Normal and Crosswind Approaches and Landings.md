@@ -14,7 +14,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-- [[PPL2.1 Slow Flight and Power Off Stalls]]
+- [[PPL2.1 Slow Flight and Power-Off Stalls]]
 - [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
 
 ### Schedule
@@ -96,6 +96,9 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 
 ### Completion Standards
 Learner must become proficient at flying stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
+
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> Land within 400' of specified point; parallel, on centerline, nose up, no drift
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.107 PPL Flight Reqs]]: 

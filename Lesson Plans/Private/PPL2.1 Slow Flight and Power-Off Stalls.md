@@ -90,8 +90,17 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	3. Secondary stall due to aggressive pitch up during recovery
 
 ### Completion Standards
--Client should be proficient at entering slow flight, maneuvering, and recovering. During slow flight maneuvers, maintain altitude ±100’, heading ±10°, airspeed +10/-0 knots, specified bank angle ±10°.
--Client must be able to demonstrate power-off stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
+**Slow Flight**
+Client should be proficient at entering slow flight, maneuvering, and recovering.
+
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> ±100', heading ±10°, airspeed +10/-0 knots, specified bank angle ±10°
+
+**Power-Off Stall**
+Client must be able to demonstrate power-off stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
+
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]], [[FAR 61.105 PPL Knowledge Reqs]], and [[FAR 61.107 PPL Flight Reqs]]: 

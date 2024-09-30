@@ -7,7 +7,7 @@ tags:
 ---
 > [!note]
 > With the exception of a few tolerance changes, this lesson is identical to:
->  - [[PPL2.1 Slow Flight and Power Off Stalls]]
+>  - [[PPL2.1 Slow Flight and Power-Off Stalls]]
 >  - [[PPL2.3 Power-On Stalls and Spin Awareness]]
 
 > [!tip] Spin Awareness and Recovery Procedure

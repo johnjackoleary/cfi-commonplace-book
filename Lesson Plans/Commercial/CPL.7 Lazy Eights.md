@@ -16,7 +16,7 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 
 ### Builds On
 - [[PPL2.5 Ground Reference Maneuvers]]
-- [[PPL2.1 Slow Flight and Power Off Stalls]]
+- [[PPL2.1 Slow Flight and Power-Off Stalls]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours

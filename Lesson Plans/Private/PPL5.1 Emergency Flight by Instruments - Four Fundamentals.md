@@ -49,7 +49,10 @@ Hood or foggles
 	6. Improper trim control
 
 ### Completion Standards
-Client must demonstrate basic attitude instrument flying skills, to ACS standards (±200 feet, heading ±20 degrees, airspeed ±10 knots). Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed climbs and descents, by reference to flight instruments only.  Concurrent tasks will include looking up and tuning radio and navigation frequencies.
+Client must demonstrate basic attitude instrument flying skills, to ACS standards. Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed climbs and descents, by reference to flight instruments only.  Concurrent tasks will include looking up and tuning radio and navigation frequencies.
+
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> ±200', heading ±20°, airspeed ±10 knots
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.107 PPL Flight Reqs]]:

@@ -14,7 +14,7 @@ Understand purpose and procedures of a chandelle. Develop skills required to exe
 - [[All Maneuvers Quick Reference]]
 
 ### Builds On
-- [[PPL2.1 Slow Flight and Power Off Stalls]]
+- [[PPL2.1 Slow Flight and Power-Off Stalls]]
 
 ### Schedule
 Ground 0.5 hours, Flight 2 hours

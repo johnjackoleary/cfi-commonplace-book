@@ -45,8 +45,8 @@ Ground 0.5 hours, Flight 1 hour
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, perform 360° turn in either direction with 45° bank, maintain altitude and add power to maintain airspeed.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
-±100'; ±10kts; bank±5°; hdg±10°
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> ±100'; ±10kts; bank±5°; hdg±10°
 
 ### Required Logbook Phraseology
 For [[FAR 61.107 PPL Flight Reqs]]:

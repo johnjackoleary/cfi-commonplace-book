@@ -15,7 +15,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
-[[PPL2.1 Slow Flight and Power Off Stalls]]
+[[PPL2.1 Slow Flight and Power-Off Stalls]]
 
 ### Schedule
 1 hour ground, 2 hour flight, with practice on multiple flights
@@ -79,9 +79,11 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
 ### Completion Standards
-Learner must be able to demonstrate power-on stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
+Learner must be able to demonstrate power-on stalls, to ACS standards. The client must be able to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentional spins.
 
-The client must have the ability to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentionally spins.
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure.
+
 
 ### Required Logbook Phraseology
 For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]: 

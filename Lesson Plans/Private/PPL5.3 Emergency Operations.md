@@ -158,6 +158,13 @@ These are the emergency procedures referenced in the section above.
 ### Completion Standards
 Client demonstrates appropriate knowledge of aircraft systems, abnormal and emergency procedures, and the ability to perform emergency procedures to ACS standards.
 
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
+> **Emergency Descent**:
+> - Bank 30°-45° (+ G's)
+> - Airspeed >= 100kts to put out fire
+> - +0/-10kts
+> - Level off at specified alt ±100'
+
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.107 PPL Flight Reqs]]:
 - Emergency procedures^[Also in [[PPL5.4 Lost Procedures and Diversion to Alternates]]]
