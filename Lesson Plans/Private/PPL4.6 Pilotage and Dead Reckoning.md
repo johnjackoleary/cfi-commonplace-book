@@ -54,11 +54,12 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 		2. Generated with info like forecasted winds from [[ForeFlight]], [SkyVector](https://skyvector.com/), or others
 
 ### Completion Standards
-Client should be able to:
-- Complete a navlog and fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival
-- Arrive at checkpoints within 3NM and within 5 minutes of initial or revised estimate
-- Maintain appropriate altitude ±200' and heading ±15°
-- Update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
+Client should be able to complete a navlog and fly a cross country route, using dead reckoning and pilotage, visually identifying each waypoint, and recording actual time of arrival
+
+> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> - Arrive at checkpoints within 3NM and within 5 minutes of initial or revised estimate
+> - Maintain appropriate altitude ±200' and heading ±15°
+> - Update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
 
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:

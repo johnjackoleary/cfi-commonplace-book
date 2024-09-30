@@ -63,6 +63,16 @@ Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights
 ### Completion Standards
 Client should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
 
+> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> **Lost Procedures**: 
+> - determine position
+> - select an appropriate course of action
+>   
+> **Diversion**: 
+> - make a reasonable estimate of heading, groundspeed, arrival time, and fuel required
+> - promptly divert
+> - alt ±200'; hdg ±15°
+
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
 - Emergency procedures^[Also in [[PPL5.3 Emergency Operations]]]
