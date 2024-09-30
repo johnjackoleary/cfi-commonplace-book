@@ -71,8 +71,6 @@ Client should demonstrate ability to perform short- and soft-field takeoffs and 
 > - **Soft Field Takeoff**: Taxi w/ minimal braking and no stops; Liftoff early; Accelerate in ground effect; At V<sub>X</sub> or V<sub>Y</sub> start climb
 > - **Soft Field Landing**: Minimum sink, parallel, centerline, nose up, no drift; elevator back through exit
 
-
-
 ### Required Logbook Phraseology
 For [[FAR 61.93 Solo XC Reqs]]:
 - Climbs at best angle and best rate
