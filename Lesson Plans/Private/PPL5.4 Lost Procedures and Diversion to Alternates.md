@@ -63,7 +63,7 @@ Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights
 ### Completion Standards
 Client should be able to use multiple means to identify location, and to plan route to an alternate airport, including estimate of distance, time, and fuel usage to the alternate.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > **Lost Procedures**: 
 > - determine position
 > - select an appropriate course of action

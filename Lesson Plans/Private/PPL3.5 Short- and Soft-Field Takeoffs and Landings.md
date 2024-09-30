@@ -65,7 +65,7 @@ Overview of short- and soft-field operations
 ### Completion Standards
 Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > - **Short Field Takeoff**: Hold brakes, add full power; Check gauges, release brakes; Rotate per POH; Climb at V<sub>X</sub> +10/-5kt until at least 50' AGL.
 > - **Short Field Landing**: Land w/in 200' of specified point; parallel, centerline, nose up, no drift
 > - **Soft Field Takeoff**: Taxi w/ minimal braking and no stops; Liftoff early; Accelerate in ground effect; At V<sub>X</sub> or V<sub>Y</sub> start climb

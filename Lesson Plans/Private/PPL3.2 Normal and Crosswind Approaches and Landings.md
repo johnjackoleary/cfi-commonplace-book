@@ -97,7 +97,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 ### Completion Standards
 Learner must become proficient at flying stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Land within 400' of specified point; parallel, on centerline, nose up, no drift
 
 ### Required Logbook Phraseology

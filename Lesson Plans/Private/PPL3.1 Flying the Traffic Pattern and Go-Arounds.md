@@ -142,7 +142,7 @@ GPS/Sentry/ADS-B In
 ### Completion Standards
 Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with AIM recommended procedures, and maintaining awareness of and proper spacing from other aircraft.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > - Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots. 
 > - For go-around, apply takeoff power immediately and transition to climb pitch attitude for [[Vx]] or [[Vx]] as appropriate +10/-5 knots.
 

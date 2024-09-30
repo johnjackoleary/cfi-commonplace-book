@@ -52,7 +52,7 @@ Hood or foggles
 ### Completion Standards
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Correct sequence in recovery
 
 ### Required Homework

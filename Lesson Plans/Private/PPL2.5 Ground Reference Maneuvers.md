@@ -61,7 +61,7 @@ GPS/Sentry/ADS-B In
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > ±100'; ±10kts; constant radius
 
 ### Required Logbook Phraseology

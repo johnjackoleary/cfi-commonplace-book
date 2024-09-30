@@ -51,7 +51,7 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 ### Completion Standards
 Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. They must additionally demonstrate energy management while landing without the use of flaps.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > **Forward slip**: Land within 400' of specified point; parallel, on centerline, nose up, no drift
 
 ### Required Logbook Phraseology

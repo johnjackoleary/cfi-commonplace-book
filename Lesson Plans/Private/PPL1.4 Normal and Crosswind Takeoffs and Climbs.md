@@ -68,7 +68,7 @@ For [[FAR 61.87 Student Solo Reqs]]:
 ### Completion Standards
 Client must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > V<sub>Y</sub> +10/-5 kts
 
 ### Required Homework

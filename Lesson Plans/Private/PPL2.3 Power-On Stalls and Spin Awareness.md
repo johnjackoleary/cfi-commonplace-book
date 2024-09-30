@@ -81,7 +81,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 ### Completion Standards
 Learner must be able to demonstrate power-on stalls, to ACS standards. The client must be able to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentional spins.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure.
 
 

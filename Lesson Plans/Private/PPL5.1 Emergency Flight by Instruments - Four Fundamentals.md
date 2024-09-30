@@ -51,7 +51,7 @@ Hood or foggles
 ### Completion Standards
 Client must demonstrate basic attitude instrument flying skills, to ACS standards. Maneuvers will include straight-and-level, turn to headings, and perform constant airspeed climbs and descents, by reference to flight instruments only.  Concurrent tasks will include looking up and tuning radio and navigation frequencies.
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > ±200', heading ±20°, airspeed ±10 knots
 
 ### Required Logbook Phraseology

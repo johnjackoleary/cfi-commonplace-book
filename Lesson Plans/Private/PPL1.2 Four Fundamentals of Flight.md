@@ -89,7 +89,7 @@ Establish climb or descent, then initiate turn.
 ### Completion Standards
 Learner must demonstrate ability to use external visual references to maintain appropriate pitch and bank attitudes, with occasional cross-check of aircraft instruments. Learner must develop habit of visual scanning for traffic, and check for traffic before maneuvers. 
 
-> [!success]- Tolerances from [[Private Pilot ACS|ACS]]
+> [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > ±10 knots, ±10° degrees, ±100 feet^[These are a reasonable blend of minimums from other ACS standards, since four fundamentals is assessed as part of other maneuvers in the checkride.]
 
 ### Required Logbook Phraseology
