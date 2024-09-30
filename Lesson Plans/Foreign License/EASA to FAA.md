@@ -19,7 +19,7 @@ Not included in the writeup, but also good to know, [[TSA]]'s [[FTSP]] is not re
 > [!quote] From [Non-U.S. Citizens Seeking Flight Training](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training) by [[AOPA]]
 > TSA has clarified that getting a U.S. certificate based on a foreign license ( [reference FAR 61.75](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-B/section-61.75)) does not apply to the requirements of the rule.  However, if you choose to apply for a “stand-alone” FAA pilot certificate no longer based on your foreign license, you must comply with this rule. The TSA views this as receiving an initial FAA pilot certificate and qualifies under the TSA definition of flight training.
 
-For more info on the required Flight Review, see [[~ Biennial Flight Review Outline]].
+For more info on the required Flight Review, see [[~ Flight Review Outline]].
 
 ### Training Differences
 There are a few notable differences in expected maneuvers and experience for a [[EASA]] [[PPL]] [[SEP]] compared to an [[FAA]] [[PPL]] [[ASEL]].
