@@ -35,10 +35,5 @@ Student must be able to tune and ID VOR navaid, detect failures; check receiver 
 For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Navigation systems
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

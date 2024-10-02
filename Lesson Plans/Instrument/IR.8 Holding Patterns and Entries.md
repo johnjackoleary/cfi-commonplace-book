@@ -73,10 +73,5 @@ Student must demonstrate proficiency in planning, entering, and flying holding p
 For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Air traffic control clearances and procedures
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

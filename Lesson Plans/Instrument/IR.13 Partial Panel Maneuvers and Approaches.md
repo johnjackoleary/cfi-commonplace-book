@@ -59,10 +59,5 @@ Student must demonstrate understanding of instrument systems and ability to diag
 For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Emergency operations
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

@@ -57,10 +57,5 @@ Learner must be able to plan a cross country flight, including routing, fuel pla
 ### Required Logbook Phraseology
 None
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

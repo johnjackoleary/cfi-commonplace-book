@@ -58,10 +58,5 @@ Student demonstrates the ability to recognize, confirm, and recover from unusual
 For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Emergency operations
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

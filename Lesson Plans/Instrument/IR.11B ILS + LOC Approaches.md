@@ -43,10 +43,5 @@ Student must demonstrate proficiency at understanding ILS approaches and brief a
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

@@ -78,10 +78,5 @@ Student must understand the different types of GPS installations and â€œflavorsâ
 For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Navigation systems
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

@@ -69,10 +69,5 @@ The learner must demonstrate the ability to use weather resources to obtain a we
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

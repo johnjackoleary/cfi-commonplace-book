@@ -50,10 +50,5 @@ Student must demonstrate proficiency at flying non-precision approaches to ACS s
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

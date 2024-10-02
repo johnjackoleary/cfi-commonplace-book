@@ -77,10 +77,5 @@ Ground 1.5 hours, flight 3 hours
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

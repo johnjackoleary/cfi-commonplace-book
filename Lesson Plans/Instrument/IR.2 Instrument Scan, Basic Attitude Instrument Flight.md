@@ -61,10 +61,5 @@ For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Postflight procedures
 - Preflight preparation
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

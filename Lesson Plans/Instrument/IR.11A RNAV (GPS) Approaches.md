@@ -45,10 +45,5 @@ Student must demonstrate proficiency at understanding the different types of RNA
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

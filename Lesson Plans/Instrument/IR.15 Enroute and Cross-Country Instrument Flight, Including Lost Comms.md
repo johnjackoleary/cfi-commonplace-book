@@ -64,10 +64,5 @@ To demonstrate knowledge, skill, and judgment in IFR cross country planning to m
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

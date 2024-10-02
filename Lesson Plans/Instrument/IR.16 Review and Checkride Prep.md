@@ -53,10 +53,5 @@ The student must demonstrate proficiency at IFR flight planning and all phases o
 
 ### Required Logbook Phraseology
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

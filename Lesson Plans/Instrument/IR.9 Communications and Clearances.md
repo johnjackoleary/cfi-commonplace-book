@@ -83,10 +83,5 @@ The student must become proficient at typical IFR communications using standard 
 For [[FAR 61.65 Instrument Rating Reqs]](c):
 - Air traffic control clearances and procedures
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
