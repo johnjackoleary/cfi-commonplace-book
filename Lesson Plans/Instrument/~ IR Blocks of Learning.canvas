@@ -18,11 +18,7 @@
 		{"id":"c054f94a2df5b94a","type":"file","file":"Lesson Plans/Instrument/IR.4 Flight Deck Organization, Workload and Automation Management.md","x":40,"y":942,"width":400,"height":400},
 		{"id":"c1a4277d83cff8ea","type":"text","text":"Safe and efficient operation of aircraft under instrument flight rules and conditions","x":1160,"y":1111,"width":440,"height":60,"color":"4"},
 		{"id":"ed73a0dc5ff9aa04","type":"file","file":"Lesson Plans/Instrument/IR.7 Airspace, Charts, Flight Planning and Enroute Operations.md","x":40,"y":2280,"width":400,"height":400},
-		{"id":"33d3c707edfa9319","type":"file","file":"Lesson Plans/Instrument/IR.9 Communications and Clearances.md","x":40,"y":2730,"width":400,"height":400},
-		{"id":"fe437dba8528fecd","type":"file","file":"Lesson Plans/Instrument/IR.8 Holding Patterns and Entries.md","x":600,"y":2500,"width":400,"height":400},
-		{"id":"8bb36ef6d834d31f","type":"file","file":"Lesson Plans/Instrument/IR.10 Approach Charts and Procedures.md","x":40,"y":3200,"width":400,"height":400},
 		{"id":"3c9e5423a8f26f67","type":"file","file":"Lesson Plans/Instrument/IR.13 Partial Panel Maneuvers and Approaches.md","x":40,"y":4240,"width":400,"height":400},
-		{"id":"16fa2810f8e7607e","type":"text","text":"Air traffic control clearances and procedures","x":1160,"y":2900,"width":440,"height":60,"color":"5"},
 		{"id":"ed09f70bf0aeac77","type":"text","text":"Procurement and use of aviation weather reports and forecasts and the elements of forecasting...","x":1160,"y":5090,"width":440,"height":60,"color":"4"},
 		{"id":"705e3da973c5100b","type":"text","text":"Recognition of critical weather situations and windshear avoidance","x":1160,"y":5150,"width":440,"height":60,"color":"4"},
 		{"id":"3803cc903a7a2290","type":"file","file":"Lesson Plans/Instrument/IR.14 IFR Weather and Weather Services.md","x":40,"y":4920,"width":400,"height":400},
@@ -57,7 +53,11 @@
 		{"id":"e8e05333c1558d7e","type":"text","text":"Long XC, under IFR rules and filed with ATC, >=250nm along airways/directed, appr. at each airport, 3 diff kinds of appr.","x":1160,"y":5482,"width":440,"height":101,"color":"1"},
 		{"id":"b3e82fb90111f178","type":"text","text":"Appropriate information that applies to flight operations under IFR in the [[AIM]]","x":1160,"y":5890,"width":440,"height":60,"color":"4"},
 		{"id":"79e3f7bcd487e412","type":"text","text":"Aeronautical decision making and judgment","x":1160,"y":5950,"width":440,"height":60,"color":"4"},
-		{"id":"c15c3839ed916f51","type":"text","text":"3hr instrument training from CFII w/in 2 month of checkride","x":1160,"y":6010,"width":440,"height":60,"color":"1"}
+		{"id":"c15c3839ed916f51","type":"text","text":"3hr instrument training from CFII w/in 2 month of checkride","x":1160,"y":6010,"width":440,"height":60,"color":"1"},
+		{"id":"33d3c707edfa9319","type":"file","file":"Lesson Plans/Instrument/IR.9 Communications and Clearances.md","x":40,"y":2760,"width":400,"height":400},
+		{"id":"8bb36ef6d834d31f","type":"file","file":"Lesson Plans/Instrument/IR.10 Approach Charts and Procedures.md","x":40,"y":3240,"width":400,"height":400},
+		{"id":"fe437dba8528fecd","type":"file","file":"Lesson Plans/Instrument/IR.8 Holding Patterns and Entries.md","x":600,"y":2520,"width":400,"height":400},
+		{"id":"16fa2810f8e7607e","type":"text","text":"Air traffic control clearances and procedures","x":1160,"y":2930,"width":440,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"9615e805cb2f3334","fromNode":"3c9e5423a8f26f67","fromSide":"right","toNode":"0e74b2512d547859","toSide":"left"},

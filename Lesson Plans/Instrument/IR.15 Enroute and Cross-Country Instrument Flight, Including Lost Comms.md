@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country, choosing an alternate, and filing a flight plan, including [[Lost Communications]] procedures. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs]].
+Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country, choosing an alternate, and filing a flight plan, including [[lost communications]] procedures. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs|FAR 61.65]].
 
 ### Resources
 - [[FAR 61.65 Instrument Rating Reqs]]
