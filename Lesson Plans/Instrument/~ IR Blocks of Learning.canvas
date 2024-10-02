@@ -8,7 +8,7 @@
 		{"id":"f34175a1ef9f814f","type":"group","x":20,"y":60,"width":440,"height":1370,"color":"#c89c51","label":"Ground-Only"},
 		{"id":"d0db3b99a39b9a36","type":"group","x":580,"y":1200,"width":880,"height":460,"label":"Navigation"},
 		{"id":"13ca7288ac5faa91","type":"group","x":20,"y":4880,"width":440,"height":460,"color":"#c89c51","label":"Ground-Only"},
-		{"id":"1723f8a3dcbb20da","type":"group","x":20,"y":-400,"width":380,"height":340,"label":"Legend"},
+		{"id":"1723f8a3dcbb20da","type":"group","x":1260,"y":-400,"width":380,"height":340,"label":"Legend"},
 		{"id":"c1568a5bf4586aec","type":"file","file":"Lesson Plans/Instrument/IR.5A VOR Navigation.md","x":600,"y":1240,"width":400,"height":400},
 		{"id":"5f1646a7956af713","type":"file","file":"Lesson Plans/Instrument/IR.5B GPS Navigation.md","x":1040,"y":1240,"width":400,"height":400},
 		{"id":"347ec7d678a2df4c","type":"file","file":"Lesson Plans/Instrument/IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits.md","x":600,"y":711,"width":400,"height":400},
@@ -45,10 +45,6 @@
 		{"id":"3a48ac6691da958c","type":"text","text":"Air traffic control system and procedures for instrument flight operations","x":1160,"y":4380,"width":440,"height":60,"color":"4"},
 		{"id":"e0999ef4e40db8df","type":"text","text":"Instrument approach procedures","x":1160,"y":4440,"width":440,"height":60,"color":"5"},
 		{"id":"e03a22043fd3ae42","type":"file","file":"Lesson Plans/Instrument/IR.1 Introduction and Instrument Systems.md","x":40,"y":100,"width":400,"height":400},
-		{"id":"2928bc5d9e6725ae","type":"text","text":"Milestones","x":40,"y":-140,"width":337,"height":60,"color":"6"},
-		{"id":"1099f1da53fd0a0c","type":"text","text":"[[FAR 61.65 Instrument Rating Reqs|FAR 61.65(d) IR Experience Reqs]]","x":40,"y":-220,"width":337,"height":60,"color":"1"},
-		{"id":"336fa31ae679492d","type":"text","text":"[[FAR 61.65 Instrument Rating Reqs|FAR 61.65(b) IR Knowledge Reqs]]","x":40,"y":-380,"width":337,"height":60,"color":"4"},
-		{"id":"352e8c95ff78660f","type":"text","text":"[[FAR 61.65 Instrument Rating Reqs|FAR 61.65(c) IR Flight Reqs]]","x":40,"y":-300,"width":337,"height":60,"color":"5"},
 		{"id":"5063ec33f83f6280","type":"text","text":"Federal Aviation Regulations of this chapter that apply to flight operations under IFR","x":1160,"y":5422,"width":440,"height":60,"color":"4"},
 		{"id":"e8e05333c1558d7e","type":"text","text":"Long XC, under IFR rules and filed with ATC, >=250nm along airways/directed, appr. at each airport, 3 diff kinds of appr.","x":1160,"y":5482,"width":440,"height":101,"color":"1"},
 		{"id":"b3e82fb90111f178","type":"text","text":"Appropriate information that applies to flight operations under IFR in the [[AIM]]","x":1160,"y":5890,"width":440,"height":60,"color":"4"},
@@ -57,7 +53,11 @@
 		{"id":"33d3c707edfa9319","type":"file","file":"Lesson Plans/Instrument/IR.9 Communications and Clearances.md","x":40,"y":2760,"width":400,"height":400},
 		{"id":"8bb36ef6d834d31f","type":"file","file":"Lesson Plans/Instrument/IR.10 Approach Charts and Procedures.md","x":40,"y":3240,"width":400,"height":400},
 		{"id":"fe437dba8528fecd","type":"file","file":"Lesson Plans/Instrument/IR.8 Holding Patterns and Entries.md","x":600,"y":2520,"width":400,"height":400},
-		{"id":"16fa2810f8e7607e","type":"text","text":"Air traffic control clearances and procedures","x":1160,"y":2930,"width":440,"height":60,"color":"5"}
+		{"id":"16fa2810f8e7607e","type":"text","text":"Air traffic control clearances and procedures","x":1160,"y":2930,"width":440,"height":60,"color":"5"},
+		{"id":"2928bc5d9e6725ae","type":"text","text":"Milestones","x":1280,"y":-140,"width":337,"height":60,"color":"6"},
+		{"id":"1099f1da53fd0a0c","type":"text","text":"[[FAR 61.65 Instrument Rating Reqs|FAR 61.65(d) IR Experience Reqs]]","x":1280,"y":-220,"width":337,"height":60,"color":"1"},
+		{"id":"336fa31ae679492d","type":"text","text":"[[FAR 61.65 Instrument Rating Reqs|FAR 61.65(b) IR Knowledge Reqs]]","x":1280,"y":-380,"width":337,"height":60,"color":"4"},
+		{"id":"352e8c95ff78660f","type":"text","text":"[[FAR 61.65 Instrument Rating Reqs|FAR 61.65(c) IR Flight Reqs]]","x":1280,"y":-300,"width":337,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"9615e805cb2f3334","fromNode":"3c9e5423a8f26f67","fromSide":"right","toNode":"0e74b2512d547859","toSide":"left"},
