@@ -56,15 +56,10 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]](c):
+For [[FAR 61.65 Instrument Rating Reqs]]:
 - Preflight procedures
 - Postflight procedures
 - Preflight preparation
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

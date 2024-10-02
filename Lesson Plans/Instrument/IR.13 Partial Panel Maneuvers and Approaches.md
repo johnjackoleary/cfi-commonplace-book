@@ -56,13 +56,8 @@ Ground 1 hour, simulator and/or airplane 1 hour
 Student must demonstrate understanding of instrument systems and ability to diagnose instrument and system failures. Student must become proficient in partial panel procedures, including enroute and instrument approaches (to be practiced frequently in future lessons).
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]](c):
+For [[FAR 61.65 Instrument Rating Reqs]]:
 - Emergency operations
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

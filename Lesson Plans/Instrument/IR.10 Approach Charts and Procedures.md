@@ -123,11 +123,8 @@ Ground 1.5 hours
 Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
 
 ### Required Logbook Phraseology
-
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- IFR navigation and approaches by use of navigation systems
+- Use of... instrument approach procedure charts
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

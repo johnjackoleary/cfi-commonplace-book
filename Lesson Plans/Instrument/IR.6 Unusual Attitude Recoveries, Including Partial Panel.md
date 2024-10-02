@@ -55,13 +55,8 @@ Ground 0.5-hour, simulator^[Preferred due to being able to fail specific instrum
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]](c):
+For [[FAR 61.65 Instrument Rating Reqs]]:
 - Emergency operations
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

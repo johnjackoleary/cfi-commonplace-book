@@ -75,13 +75,8 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 Student must understand the different types of GPS installations and “flavors” of GPS approaches. Student must become proficient at creating GPS flight plans, navigating with GPS, and modifying flight plans and approach selections. Student must understand particular GPS techniques for holding and flying missed approaches and using autopilot interfaces (if installed).
 
 ### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]](c):
+For [[FAR 61.65 Instrument Rating Reqs]]:
 - Navigation systems
 
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

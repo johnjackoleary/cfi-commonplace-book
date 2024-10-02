@@ -44,11 +44,7 @@ Ground 30m, Sim/airplane – 2.5 hours
 Student must demonstrate proficiency at understanding the different types of RNAV (GPS) approaches, different landing minimums, and basic shapes of RNAV (GPS) approaches. Student should be introduced to RNAV (GPS) approaches by flying multiple approaches in an approved simulator.
 
 ### Required Logbook Phraseology
-
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Instrument approach procedures
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

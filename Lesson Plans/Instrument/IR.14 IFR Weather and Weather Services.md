@@ -68,11 +68,8 @@ Ground 2 hours
 The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, and obtain weather updates during flight. 
 
 ### Required Logbook Phraseology
-
-### Required Homework
-- [ ] 
-
-### Recommended Homework
-- [ ] 
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Procurement and use of aviation weather reports and forecasts and the elements of forecasting weather trends based on that information and personal observation of weather conditions
+- Recognition of critical weather situations and windshear avoidance
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
