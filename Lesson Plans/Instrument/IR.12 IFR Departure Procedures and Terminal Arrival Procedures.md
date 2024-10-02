@@ -76,6 +76,7 @@ Ground 1.5 hours, flight 3 hours
 	2. Not knowing performance capability of aircraft to to fly any procedure
 
 ### Required Logbook Phraseology
-
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Air traffic control system and procedures for instrument flight operations
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

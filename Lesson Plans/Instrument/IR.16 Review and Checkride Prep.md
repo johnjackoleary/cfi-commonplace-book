@@ -22,7 +22,7 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 Ground 1 hour, Flight 3 hours 
 
 ### Lesson Elements
-1. Emergencies 
+1. Emergencies and [[ADM]]
 	1. Instrument or system failures 
 	2. Partial panel, no-gyro approaches (ASR, PAR) 
 	3. Lost communications review (see [[IR.D Kneeboard Cheatsheets]]). Recognizing loss of communications and attempting to re-establish. 
@@ -52,6 +52,8 @@ Ground 1 hour, Flight 3 hours
 The student must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, including ability to complete no precision approach without use of primary flight instruments.
 
 ### Required Logbook Phraseology
-
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Aeronautical decision making and judgment
+- Appropriate information that applies to flight operations under IFR in the [[AIM]]
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

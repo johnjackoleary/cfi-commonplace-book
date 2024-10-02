@@ -55,7 +55,7 @@ Ground 1.5 hours
 Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and on-line).
 
 ### Required Logbook Phraseology
-None
-
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Use of IFR en route... charts
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

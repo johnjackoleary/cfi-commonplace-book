@@ -22,15 +22,22 @@ Ground 1 hour, sim/airplane 1 hour
 ### Lesson Elements
 #### Flight Deck Organization
 1. [[Aviate, Navigate, Communicate]]
-2. Digital Charts ([[EFB]])
+2. [[SRM]] and [[CRM]] including crew communication and coordination ([[AC 120-51]])
+		1. CRM Basics
+			1. Communications Processes and Decision Behavior^[Briefings, Inquiry/Advocacy/Assertion, Crew Self-Critique (Decisions and Actions), Conflict Resolution, Communications and Decisionmaking]
+			2. Team Building and Maintenance
+		2. [[SRM]] basics
+			1. appropriate management of all resources (in and out of aircraft) available to the single pilot
+			2. How can resources be organized before the flight for better [[SRM]]?
+3. Digital Charts ([[EFB]])
 	1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
 	2. Cons - Battery, fragile, can’t update inflight, expensive, over heat
-3. Paper Charts
+4. Paper Charts
 	1. Pros - Don’t require battery, less fragile than EFB
 	2. Cons - Expire, no search function, take space and weight
-4. Mounting
+5. Mounting
 	1. Yoke, kneeboard, suction
-5. Chart and database currency
+6. Chart and database currency
 	1. Every 56 days (8 weeks)
 	2. [[FAA]] vs. Jeppesen
 
@@ -49,7 +56,7 @@ Ground 1 hour, sim/airplane 1 hour
 	9. Before landing: [[GUMPS]]
 	10. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
 3. [[SRM]]
-	1. Verbalize flows and checklists, changes, and "next two things"
+	1. Verbalize flows and checklists, changes, and "[[Two Most Important Things in Aviation|next two things]]"
 	2. Callouts with 1000' and 500' to be before a level off or [[DA]]
 4. Common Errors 
 	1. Forgetting to use mental checklists 
@@ -64,11 +71,11 @@ Ground 1 hour, sim/airplane 1 hour
 The student must demonstrate the ability to prioritize tasks during IFR flight, “stay ahead” of the airplane by using mental checklists and written checklists.
 
 ### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Safe and efficient operation of aircraft under instrument flight rules and conditions
+- Crew resource management, including crew communication and coordination
 
 ### Required Homework
 - [ ] Memorize flows above and add to kneeboard
-
-### Recommended Homework
-- [ ] 
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
