@@ -8,8 +8,6 @@ aliases: [PPL.12, SOLO.12, PPL3.1]
 ---
 
 AFH ch 9 here maybe? Since covers things like sight picture coming down
-flysto.net suggestion
-metar-taf.com
 
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
@@ -18,6 +16,7 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 - [[Private Pilot ACS]] Sections III.B, IV.N
 - [[Pattern Precision]]
 - [skyvector.com](http://www.skyvector.com)
+- [flysto.net](http://www.flysto.net)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
