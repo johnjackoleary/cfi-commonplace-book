@@ -6,6 +6,11 @@ tags:
   - lesson
 aliases: [PPL.12, SOLO.12, PPL3.1]
 ---
+
+AFH ch 9 here maybe? Since covers things like sight picture coming down
+flysto.net suggestion
+metar-taf.com
+
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
 
@@ -82,7 +87,7 @@ GPS/Sentry/ADS-B In
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
 	4. Descending when tower delays base turn
-8. Palo Alto specifics worth knowing
+8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
 		1. Visual Reporting points for calling in to KPAO: SLAC, Woodside VOR, Windy Hill, Leslie Salt, Coyote Hills, Sunol Pass, etc....
