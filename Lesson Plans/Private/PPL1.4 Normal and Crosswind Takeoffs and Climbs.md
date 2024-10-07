@@ -3,6 +3,7 @@ cssclass: lesson
 tags: ppl, lesson
 aliases: [PPL.4, SOLO.4, PPL1.4]
 ---
+
 ### Objective
 Understand and become proficient at the procedures used for normal/crosswind takeoffs and climbs. 
 
@@ -37,7 +38,7 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 		1. Check for traffic
 		2. "[[Lights, Camera, Action, Time]]"
 	4. Ground roll
-		1. Feet off brakes
+		1. Feet off brakes / heels on the floor
 		2. [[Smooth Power Application]]
 		3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
 		4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing
