@@ -27,10 +27,11 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 	3. Adjust "steepness" of slip as necessary for intended landing spot
 	4. Airspeed errors - what is effect of slip on indicated airspeed? Depends on number and location of static ports
 	5. Check [[POH]] - are slips allowed with full flaps? Will fuel ports uncover?
+		1. Improve wording
 2. Flying the forward slip
 	1. Reduce power to idle
 	2. Bank into wind (if any), and apply opposite rudder to prevent turn
-	3. Adjust bank angle to control glide path as necessary. Adjust bank and rudder to maintain runway centerline
+	3. Adjust bank and rudder to maintain runway centerline
 	4. Maintain normal final approach indicated airspeed, depending on static port locations
 	5. Transition from forward slip to side slip (or no slip) before landing flare
 	6. Beware of excessive sink rate due to forward slip. Keep enough airspeed to round out and flare.

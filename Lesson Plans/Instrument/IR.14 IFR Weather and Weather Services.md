@@ -35,9 +35,10 @@ Ground 2 hours
 	9. [[Area Forecast Discussion]]
 2. Current and forecast weather for departure, enroute, and arrival
 	1. Sources of weather information 
-	2. Weather briefing and contents 
-	3. Graphical weather products 
-	4. Electronic Flight Bags (EFBs, e.g. Foreflight, Garmin Pilot) 
+	2. Weather briefing and contents ([[All Available Information Concerning That Flight]])
+	3. [[Inflight Aviation Weather Advisories]]
+	4. Graphical weather products 
+	5. Electronic Flight Bags (EFBs, e.g. Foreflight, Garmin Pilot) 
 3. Enroute weather Services 
 	1. Onboard weather information 
 	2. Inflight [[FSS]] weather 

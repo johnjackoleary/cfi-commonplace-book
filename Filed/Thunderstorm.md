@@ -1,4 +1,5 @@
 # Key Takeaways
+- [[Convective SIGMET]]s will be issued for expected thunderstorms
 
 # Details
 #todo :: expand on this to highlight dangers, formation, etc

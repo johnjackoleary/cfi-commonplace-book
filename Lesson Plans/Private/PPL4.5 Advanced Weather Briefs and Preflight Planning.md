@@ -41,7 +41,7 @@ Ground 1.5 hour, practice on multiple flights
 	2. Interpreting weather radar
 	3. Weather briefings in depth
 		1. Structure of weather briefings
-		2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s, etc.
+		2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s^[And other [[Inflight Aviation Weather Advisories]]], etc.
 		3. Current weather
 		4. Forecasts: Area, [[TAF]]s, [[Winds Aloft]], [[MOS]]
 	4. Types of [[weather brief|weather briefings]] from Flight Service

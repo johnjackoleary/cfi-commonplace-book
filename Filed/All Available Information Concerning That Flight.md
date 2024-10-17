@@ -10,7 +10,7 @@
 		1. Can often call instead of using radio
 		2. [[Crosswind Component]]
 	4. [[TAF]]
-	5. [[AIRMET]] / [[SIGMET]]
+	5. [[Inflight Aviation Weather Advisories]]
 	6. [[Categorical Outlooks]]
 	7. [[Area Forecast Discussion]]
 	8. Webcams^[[[Useful Bay Area Webcams]]] or calling someone at the airport 
