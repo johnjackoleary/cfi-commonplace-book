@@ -11,7 +11,7 @@ Prepare for practical test oral and flight portions.
 - [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
 - [[FAR]] [[part 91]] and [[part 61]]
 - [[AIM]]
-- [Answers to the ACS Study App](https://answerstotheacs.com/pages/private.php)
+- ["Answers to the ACS" Study App](https://answerstotheacs.com/pages/private.php)
 - Chart Supplements
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
@@ -30,7 +30,7 @@ Ground 3 hours, Flight as necessary
 	2. [[FAR 91.213 Inop Equip]] review
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
 		1. [[Pilot's Bill of Rights]]
-	4. [[Part 830]] review: [[Accident and Incident Reporting]] to [[NTSB]]
+	4. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
 3. [[ADM]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
@@ -39,7 +39,7 @@ Ground 3 hours, Flight as necessary
 5. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially oral portion (Andy Munnis, DPE): https://www.youtube.com/watch?v=zVE-gIeZUpk
 		1. http://attheready.com/from-my-perspective-
-	2. Books available for preparation
+	2. Books available for preparation ([ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
 	3. Practice oral exams with other students and instructors
 6. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 	1. Takeoffs, landings, go-arounds, including short-and soft-field techniques, and forward slips to landing
