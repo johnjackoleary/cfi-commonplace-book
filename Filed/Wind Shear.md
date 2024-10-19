@@ -46,6 +46,7 @@ A typical microburst:
 - [[AC 00-54]]
 - [[PHAK Ch12]]
 - [[AIM 7]]
+- delta 191
 
 ## FAA Definition
 ***Definition***    :: Wind shear is a sudden, drastic change in wind speed and/or direction over a very small area.
