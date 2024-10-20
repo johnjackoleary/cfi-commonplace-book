@@ -62,7 +62,7 @@ For [[FAR 61.105 PPL Knowledge Reqs]]:
 - Accident reporting requirements of the National Transportation Safety Board
 
 ### Required Homework
-- [ ] Study and practice
+- [ ] Study and practice ([[PPL.D Suggestions for Solo Flight Practice]])
 - [ ] [[Part 91 Regulatory Review Assignment]]
 
 ### Recommended Homework 
