@@ -11,6 +11,9 @@
 
 > [!note] All references to the [[Private Pilot ACS|ACS]] are for the November 2023 version.
 
+> [!abstract]- Suggestions for how to use this plan...
+> Pick a sequence for that day’s flight. Read the referenced ACS section.  Build a detailed flight plan that covers all the tasks listed in the sequence, making note of the tolerances listed in the ACS. Go fly the plan. Keep a record of your performance on the flight - notably, was the execution of the task within ACS standards? Record results in your flight diary. Keep working through the sequences until you can’t get them wrong!
+
 ## For Every Practice Flight
 | Task                                                                                                                                  | ACS Code        |
 | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
