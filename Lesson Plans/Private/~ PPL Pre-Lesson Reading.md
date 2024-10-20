@@ -42,7 +42,7 @@
 
 
 
-#todo :: Consider adding, Sporty's, [[King Schools]], etc.
+#todo :: Consider adding, Sporty's, [[King Schools]], [[Pilot Institute]], etc.
 #todo :: feel free to add other source materials if you're using something else!
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

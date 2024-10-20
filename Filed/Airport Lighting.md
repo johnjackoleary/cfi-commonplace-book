@@ -60,5 +60,6 @@ Consider questions like:
 - [[AIM 2]]
 - [[PHAK Ch14]]
 - [[AC 70-7460-1]]
+- [Runway Lights Explained | Colors, Spacing, Types](https://pilotinstitute.com/runway-lights-explained-colors-spacing-types/) from [[Pilot Institute]]
 
 #concept
