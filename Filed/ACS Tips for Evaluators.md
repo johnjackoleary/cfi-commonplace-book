@@ -1,4 +1,4 @@
-***Link***      :: [ACS Tips for Evaluators](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/acs_tips.pdf)
+***Link***      :: [ACS Tips for Evaluators](https://web.archive.org/web/20240929060853/https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/acs_tips.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

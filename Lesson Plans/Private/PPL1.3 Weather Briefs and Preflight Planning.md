@@ -14,6 +14,7 @@ Develop initial knowledge of and sources for preflight briefings.
 - [[POH]]/[[AFM]]
 - [[AC 91-92]]
 - [[Aviation Weather Handbook]]
+- [metar-taf.com](https://metar-taf.com/)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

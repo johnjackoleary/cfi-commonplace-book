@@ -149,8 +149,8 @@ Background knowledge required for safe mountain flying.
 		8. Be comfortable stopping early if conditions deteriorate
 		9. Hazard Advisor tools
 	6. Descent/Traffic Pattern
-		1. May be irregular for surrounding terrain (see [[L05]] -- helpful to check Google Maps/Earth before going)
-		2. May be on top of ridge (see [[KAVX]]) with unique illusions
+		1. May be irregular for surrounding terrain (see [[Kern Valley Airport]] -- helpful to check Google Maps/Earth before going)
+		2. May be on top of ridge (see [[Catalina Airport]]) with unique illusions
 		3. Higher [[GS]] considerations
 			1. Careful not to overshoot final
 			2. Plan descent carefully

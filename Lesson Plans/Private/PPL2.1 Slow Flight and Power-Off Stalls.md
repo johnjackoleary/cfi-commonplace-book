@@ -97,7 +97,7 @@ Client should be proficient at entering slow flight, maneuvering, and recovering
 > ±100', heading ±10°, airspeed +10/-0 knots, specified bank angle ±10°
 
 **Power-Off Stall**
-Client must be able to demonstrate power-off stalls, to ACS standards. Recovery no lower than 1500' AGL, maintain heading ±10 degrees before stall, or specified bank angle ±10 degrees, recognize stall and recover promptly with proper procedure.
+Client must be able to demonstrate power-off stalls, to ACS standards.
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure

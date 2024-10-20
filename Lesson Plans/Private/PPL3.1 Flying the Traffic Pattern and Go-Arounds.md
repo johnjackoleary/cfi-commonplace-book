@@ -6,6 +6,7 @@ tags:
   - lesson
 aliases: [PPL.12, SOLO.12, PPL3.1]
 ---
+
 ### Objective
 Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
 
@@ -13,6 +14,7 @@ Develop knowledge of towered airport traffic patterns, skill and judgement in ap
 - [[Private Pilot ACS]] Sections III.B, IV.N
 - [[Pattern Precision]]
 - [skyvector.com](http://www.skyvector.com)
+- [flysto.net](http://www.flysto.net)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
@@ -82,7 +84,7 @@ GPS/Sentry/ADS-B In
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
 	4. Descending when tower delays base turn
-8. Palo Alto specifics worth knowing
+8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
 		1. Visual Reporting points for calling in to KPAO: SLAC, Woodside VOR, Windy Hill, Leslie Salt, Coyote Hills, Sunol Pass, etc....
