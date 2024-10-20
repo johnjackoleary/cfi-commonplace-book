@@ -6,8 +6,8 @@
 	- for no more than 3 hours
 	- up to 12 hours into the future
 - AIRMET Sierra
-	- IFR conditions (ceiling <1,000 ft and/or surface visibility <3 mi).
-	- Widespread mountain obscuration.
+	- IFR conditions (ceiling <1,000 ft and/or surface visibility <3 mi)
+	- Widespread mountain obscuration
 - AIRMET Zulu
 	- Moderate icing
 	- Freezing levels

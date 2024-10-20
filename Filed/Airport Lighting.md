@@ -28,11 +28,15 @@
 ### Taxiway
 - Taxiway Edge Lights
 - Taxiway Centerline Lights
-- Clearance Bar, Runway Guard, and Stop Bar Lights
+- Clearance Bar, Runway Guard, Stop Bar Lights
 
 ### Beacons
-- white/green: land+civilian
-- white/white/green: military
+| Light Sequence           | Meaning                 |
+| ------------------------ | ----------------------- |
+| <span style="background-color:whitesmoke;">White</span> / <span style="background-color:lightgreen;">Green</span>          | Lighted land airport    |
+| <span style="background-color:whitesmoke;">White</span> / <span style="background-color:whitesmoke;">White</span> / <span style="background-color:lightgreen;">Green</span>        | Lighted land (military) | 
+| <span style="background-color:whitesmoke;">White</span> / <span style="background-color:Yellow;">Yellow</span>         | Lighted water airport   |
+| <span style="background-color:lightgreen;">Green</span> / <span style="background-color:Yellow;">Yellow</span> / <span style="background-color:whitesmoke;">White</span> | Lighted heliport        |
 
 ### Obstacles
 - Berms

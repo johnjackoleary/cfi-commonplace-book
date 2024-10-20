@@ -3,7 +3,7 @@
 ***Author*** :: [[FAA]]
 
 #### Key Quotes
-* vigilance shall be maintained by each person operating an aircraft so as to [[See and Avoid]] other aircraft
+* vigilance shall be maintained by each person operating an aircraft so as to [[see and avoid]] other aircraft
 * When a rule of this section gives another aircraft the right-of-way, the pilot shall give way to that aircraft and may not pass over, under, or ahead of it unless well clear.
 
 #source #far

@@ -18,6 +18,7 @@ tags: [gait]
 | 🛬 Final             | Full      |    TBD    | 13       | as req  | 65            |      TBD      |
 | Short                | Full      |    TBD    | 13       | as req  | 60            |      TBD      |
 
+<br>
 
 | Topic         | Details                              |
 | ------------- |:------------------------------------ |

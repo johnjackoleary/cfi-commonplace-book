@@ -37,10 +37,11 @@ Ground 3 hours, Flight as necessary
 4. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
 5. Practice for oral potion of practical test
-	1. Good video, showing DPE’s expectations for checkride, especially oral portion (Andy Munnis, DPE): https://www.youtube.com/watch?v=zVE-gIeZUpk
-		1. http://attheready.com/from-my-perspective-
-	2. Books available for preparation ([ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
-	3. Practice oral exams with other students and instructors
+	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
+		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
+		2. [[Scott Rohlfing]], DPE: http://attheready.com/from-my-perspective-
+	3. Books available for preparation (e.g [ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
+	4. Practice oral exams with other students and instructors
 6. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 	1. Takeoffs, landings, go-arounds, including short-and soft-field techniques, and forward slips to landing
 	2. Steep turns and ground reference maneuvers: rectangular patterns, turns-around-a-point, and S-turns-across-a-road
