@@ -54,7 +54,7 @@ Ground 1.5 hours
 		1. Clearance Delivery/GND at Towered Airport
 		2. FSS
 		3. Approach/Departure Radio OR Phone
-	3. CRAFT mnemonic 
+	3. [[CRAFT]] mnemonic^[[[ATC]] uses [[A Cold Squirrel Ran Around My Home And Froze]]]
 		1. Clearance limit 
 		2. Route 
 		3. Altitude 
