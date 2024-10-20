@@ -8,6 +8,6 @@
 	* A description (or reference to data acceptable to the Administrator) of work performed.
 	* The date of completion of the work performed.
 	* The name of the person performing the work...
-	* If the work performed on the aircraft, airframe, aircraft engine, propeller, appliance, or component part has been performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work. The signature constitutes the approval for return to service only for the work performed.
+	* If the work performed on the aircraft, airframe, aircraft engine, propeller, appliance, or component part has been performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work. The signature constitutes the approval for [[RTS|return to service]] only for the work performed.
 
 #source #far
