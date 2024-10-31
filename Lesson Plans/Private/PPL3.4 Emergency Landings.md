@@ -70,6 +70,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 10. Practicing Today
 	1. Emergency procedures in flight
 	2. Flying to land from key point
+	3. "Short approach" request meaning and use in traffic pattern
 11. Common Errors
 	1. Aviate first! Don't let distractions lead to loss of control.
 	2. Route of flight with few or no landing options
