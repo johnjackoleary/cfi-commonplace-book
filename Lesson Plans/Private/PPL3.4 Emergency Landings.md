@@ -31,7 +31,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 		2. Land INTO the wind!
 		3. If altitude allows: GPS NRST - what is closest airport?
 		4. If you identify a better place on the way, can change this. But should turn to best known option right away.
-		5. Rule of Thumb: Can glide 1.5 NM per 1000 feet altitude in C172SP (see also [[POH]])
+		5. #rule-of-thumb: Can glide 1.5 NM per 1000 feet altitude in C172SP (see also [[POH]])
 	3. Checklist
 		1.  Flow from memory based on type of emergency
 		2. Cross-check POH checklist (best to have paper copy ready!)
@@ -70,6 +70,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 10. Practicing Today
 	1. Emergency procedures in flight
 	2. Flying to land from key point
+	3. "Short approach" request meaning and use in traffic pattern
 11. Common Errors
 	1. Aviate first! Don't let distractions lead to loss of control.
 	2. Route of flight with few or no landing options

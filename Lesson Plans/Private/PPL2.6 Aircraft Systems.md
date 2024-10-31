@@ -11,6 +11,7 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 - [[Private Pilot ACS]] Section I.G
 - [Inside a Single-Engine Aircraft | How a Cessna 172 Works](https://www.youtube.com/watch?v=DvCv2SuKCE8)^[Not all pronunciations here are correct, but the overview itself is good]
 - Many videos from [ERAU Private Pilot (P.A.C.E.)](https://www.youtube.com/playlist?list=PL-5QlDZlK74GrL0fb6V_FZSLX86V9A7j4) by [[ERAU SpecialVFR]]
+- [C172 Electrical System Interactive Tool](https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/c172s-electrical-system/) from [[UND]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 

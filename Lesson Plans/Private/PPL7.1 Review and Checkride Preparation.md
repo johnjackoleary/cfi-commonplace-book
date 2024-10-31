@@ -43,15 +43,6 @@ Ground 3 hours, Flight as necessary
 	3. Books available for preparation (e.g [ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
 	4. Practice oral exams with other students and instructors
 6. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
-	1. Takeoffs, landings, go-arounds, including short-and soft-field techniques, and forward slips to landing
-	2. Steep turns and ground reference maneuvers: rectangular patterns, turns-around-a-point, and S-turns-across-a-road
-	3. Cross-country -- diversion and lost procedures
-	4. Maneuvering during slow flight, power-off and power-on stalls
-	5. Spin Awareness (optional spin training in-flight)
-	6. Basic instrument flight maneuvers (S&L, climbs, descents, turns) and unusual attitude recovery
-	7. Emergency operations
-		1. Emergency descent (simulated engine fire)
-		2. Emergency approach and landing
 7. Simulated practical test (optional) with senior CFI
 
 ### Completion Standards

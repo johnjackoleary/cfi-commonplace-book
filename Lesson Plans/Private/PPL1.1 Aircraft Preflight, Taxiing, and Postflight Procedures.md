@@ -63,7 +63,7 @@ N/A
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
-	4. Taxiing too fast, or carrying too much power while taxiing
+	4. Taxiing too fast (>12kt [[GS]]), or carrying too much power while taxiing
 	5. Incorrect position of controls relative to wind
 
 > [!note]

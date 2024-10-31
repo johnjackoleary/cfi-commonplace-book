@@ -49,7 +49,8 @@ N/A
 		5. Say Again - Please repeat
 		6. Standby - Please wait, and there's no need to acknowledge this standby
 		7. Unable, *reason* - I cannot do that request because of *reason*
-	4. [[FAR 91.123 Compliance with ATC]]
+	4. Handling traffic advisories: negative contact, looking, or traffic in sight
+	5. [[FAR 91.123 Compliance with ATC]]
 8. Taxiing Procedure
 	1. Receiving and recording [[ATIS]]
 	2. Airport and taxiway familiarization
