@@ -77,4 +77,4 @@ tags:
 
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on October 22, 2024.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on October 31, 2024.
