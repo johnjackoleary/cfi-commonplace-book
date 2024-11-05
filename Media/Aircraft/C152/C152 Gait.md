@@ -12,7 +12,7 @@ maneuver-speed: 90
 speed-units: kts
 ---
 
-| **(model::C152) Gaits** v1.1 |         **Flaps**          |           **RPM**            |          **IAS (kts)**           |
+| **(model::C152) Gaits** v1.2 |         **Flaps**          |           **RPM**            |          **IAS (kts)**           |
 | ---------------------------- |:--------------------------:|:----------------------------:|:--------------------------------:|
 | ⚠️ V<sub>G</sub>             |                            |             idle             |             (Vg::60)             |
 | 🛫 V<sub>R</sub>             |                            |             max              |             (Vr::50)             |
@@ -22,7 +22,7 @@ speed-units: kts
 | 🛫 V<sub>Climb</sub>         |                            |             max              |        (cruise-climb::80)        |
 | Cruise                       |                            |      (cruise-rpm::2400)      |       (cruise-speed::100)        |
 | Cruise Descent               |                            |      `=this.cruise-rpm`      |   (cruise-descent-speed::TBD)    |
-| 🛬 Downwind                  |                            | (pattern-downwind-rpm::2100) | (pattern-downwind-speed::as req) |
+| 🛬 Downwind                  |                            | (pattern-downwind-rpm::2100) | (pattern-downwind-speed::80) |
 | 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |  (pattern-abeam-rpm::1500)   |    (pattern-abeam-speed::70)     |
 | 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1500)   |     (pattern-base-speed::65)     |
 | 🛬 Final                     | (pattern-final-flaps::30°) | (pattern-final-rpm::as req)  |            (Vref::60)            |
