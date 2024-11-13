@@ -16,6 +16,9 @@
 | Berkeley       | https://lawrence-view.wilderz.workers.dev                                |
 | Watsonville    | https://www.watsonvillepilots.org/airport                                |
 | Truckee Area   | https://images.ambientweather.net/C8C9A3558B1B/latest.jpg                |
+https://command.verkada.com/view/863aa188-69da-465e-a375-890f4c8d990e/cameras/4057ed42-b134-46a6-8131-88497bd2cd65/?shard=prod1
+
+---
 
 > [!tip] iOS Shortcut to Quickly View Cameras Above
 > https://www.icloud.com/shortcuts/5d65888d1a3c442d80f808349970c79c
