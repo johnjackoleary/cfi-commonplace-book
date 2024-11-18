@@ -1,3 +1,8 @@
+---
+aliases: [Left Turning Tendencies,]
+---
+
+
 Source of quotes: [[PHAK Ch5]]
 
 # Overview
@@ -40,7 +45,7 @@ Use right rudder ([[Step on the Ball]]) to keep the airplane coordinated.
 
 ---
 
-## P-Factor (Asymmetric Loading)
+## [[P-Factor]] (Asymmetric Loading)
 > When an aircraft is flying with a high AOA, the “bite” of the downward moving blade is greater than the “bite” of the upward moving blade. This moves the center of thrust to the right of the prop disc area, causing a yawing moment toward the left around the vertical axis.^[This is a great one to look at on an actual plane. It's easier to see when you have a real propeller in front of you to look at.]
 
 ![[Propeller Blade AOA.jpeg]]

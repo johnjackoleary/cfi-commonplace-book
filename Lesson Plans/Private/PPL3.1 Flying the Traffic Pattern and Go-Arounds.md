@@ -132,7 +132,7 @@ GPS/Sentry/ADS-B In
 	1. Initiating go-around too late
 	2. Too slow power application, leaving carb heat on
 	3. Improper pitch attitude, causing touch down or porpoise
-	4. Lack of rudder usage to correct for P-factor and torque
+	4. Lack of rudder usage to correct for [[P-factor]] and torque
 	5. Drifting from runway centerline (unless offsetting for conflicting traffic)
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
 	7. Expecting CFI to fix a risky landing attempt (may not be possible!)

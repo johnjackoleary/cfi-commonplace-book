@@ -29,11 +29,12 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
 1. Organization of [[POH]]
-2. Weight and Balance calculations
-	1. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
-	2. Effect of gross weight on performance
-	3. How to calculate
-3. Performance calculations
+2. [[Weight and Balance]] calculations
+	1. [[MGW]], [[MTW]], and [[MLW]]
+	2. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
+	3. Effect of gross weight on performance
+	4. How to calculate
+4. Performance calculations
 	1. [[Wind Triangle]] and relevant terminology
 		1. [[Course]] - intended path over the earth
 		2. [[Heading]] - where the plane's nose is pointing
@@ -42,7 +43,7 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 		5. [[Magnetic Variation]]
 		6. [[Magnetic Deviation]]
 	2. Using an [[E6B]]
-		1. Finding [[TAS]]
+		1. Finding [[CAS]] and [[TAS]]
 		2. Finding [[WCA]] and [[GS]]
 		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
 	3. Takeoff and landing distances for ground roll and obstacle clearance

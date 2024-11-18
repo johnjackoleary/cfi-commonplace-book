@@ -36,9 +36,11 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 		3. 14,001’+: 265kts
 		4. Or as depicted / given by ATC
 4. Entries (AIM 5-3-8)
-	1. Direct (turn to outbound heading)
-	2. Parallel (first turn direction is OPPOSITE of hold turns.)
-	3. Teardrop (turn with 30° offset from outbound leg)
+	1. Types
+		1. Direct (turn to outbound heading)
+		2. Parallel (first turn direction is OPPOSITE of hold turns.)
+		3. Teardrop (turn with 30° offset from outbound leg)
+	2. Tips for determining hold entry
 5. Flying Hold
 	1. Workload Management
 		1. [[5 Ts]]: Time, Turn, Throttle, Tune, Talk 
@@ -49,7 +51,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 	4. Holding Turns: Standard Rate (3° per second)
 6. Accounting for Wind
 	1. Crosswind correction during pattern
-		1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg (AIM 5-3-8) 
+		1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg (AIM 5-3-8)
 	2. More info from [[AOPA]] in [On Instruments: Flying in Place](https://www.aopa.org/news-and-media/all-news/2020/september/pilot/on-instruments-holding-patterns)
 7. Clearances
 	1. Direction of outbound leg from the fix in terms of the eight cardinal compass points 

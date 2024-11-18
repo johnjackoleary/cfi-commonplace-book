@@ -35,8 +35,10 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	5. Difference between attitude and AOA
 	6. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
 	7. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
-3. Slow flight maneuvering
-	1. Set Up
+3. Introduction to [[Weight and Balance]]
+	- > [!note] [[WVFC]] requires W&B as part of solo ground review form
+4. Slow flight maneuvering
+	1. Set Up ([[CHAPS]])
 		1. Altitude limits (ACS calls for 1500' minimum recovery - too low!) -- start at > 3000' AGL
 		1. Be careful of overlaying Bravo
 		2. Select practice area, perform clearing turns
@@ -48,7 +50,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	7. S&L, turns, climbs, descents at various configurations (flaps and power)
 	8. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	9. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
-4.  Aerodynamics of stalls
+5.  Aerodynamics of stalls
 	1. [[Stall]] occurs at critical angle of attack
 	2. Stall can occur at ANY airspeed, attitude, or power setting!
 	3. Aircraft designed to pitch down at stall 
@@ -61,17 +63,17 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
 	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.jpeg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
-5. Situations where risk of where stalls increase
+6. Situations where risk of where stalls increase
 	1. Landing approach, especially skidding base to final turn
 	2. Climb-out, trying to clear an obstacle, especially at high density altitude
 	3. Emergency landing, power-off glide, trying to stretch the glide
 	4. Exceeding max gross, CG out of limits
 	5. Ice or frost accumulation on wings
-6. Stall recognition
+7. Stall recognition
 	1. Sight - high pitch attitude (not always)
 	2. Sound - reduced airflow, less wind noise
 	3. Feel - mushy controls, less effective, buffeting
-7. Power Off Stall Maneuver
+8. Power Off Stall Maneuver
 	1. Simulates stall during approach to landing
 	2. Clearing Turns, ID Emergency Field, Outside Reference
 	3. Enter slow flight in landing configuration
@@ -80,7 +82,7 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	6. Verbally acknowledge stall horn
 	7. Continue holding pitch to full stall
 	8. Recover: pitch down just below horizon, full power, raise flaps one notch, then incrementally up. Climb [[Vy]].
-8. Common errors
+9. Common errors
 	1. Poor rudder coordination, drifting off altitude, heading, etc
 	2. Using excessive bank angle
 	3. Unintentional stall

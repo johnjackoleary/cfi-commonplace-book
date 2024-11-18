@@ -36,6 +36,7 @@ Ground 3 hours, Flight as necessary
 	2. Going forward, be careful of [[Operational Pitfalls]]
 4. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
+	2. Video on [10 Mistakes People Make When Scheduling a Checkride](https://www.youtube.com/watch?v=5-jc7BXndhM)
 5. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
