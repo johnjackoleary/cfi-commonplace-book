@@ -15,6 +15,7 @@
 # Additional Resources
 - [[AIM 6]]-2
 - [[Lost Communication Procedure Practice]]
+- Video of [Real Lost Comms in IMC](https://pilotworkshop.com/lost-comm-imc-video/)
 - [[IFR Radio Comm Part 1 General.jpeg]] and [[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 - [[FAR 91.185 Lost Comms]]
 - [[Turri 2011]], [[Turri 2011]], [[Van West 2018]]

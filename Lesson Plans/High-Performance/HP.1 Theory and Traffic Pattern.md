@@ -27,18 +27,19 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 #### Constant Speed Propellers
 - Theory: [Great article](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/) from [[Bold Method]]
 	- [[MP]] background
-	- Danger of high MP and low RPM
+	- Danger of high [[MP]] and low [[RPM]]
 	- Throttle control difference in fixed-pitch vs constant speed
 	- Change of RPM impact on MP, and lack of impact conversely
 	- If loss of oil pressure, which pitch does the propeller fail to?
 - Preflight planning
 	- Selection of MP and RPM for cruise flight^[Good overview [here](https://www.aopa.org/news-and-media/all-news/1998/november/flight-training-magazine/engine-power-settings) from [[AOPA]]]
 		- > [!note] From Jack: 
-		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this!] and treat it more like a memory aid.
+		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this! I've heard some POHs explicitly request highest RPM available] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 - Preflight testing
 	- Cycling the propeller in run-up^[Cycling 3 times is common. For example, the Piper Dakota [[POH]] recommends 3 cycles in cold weather to circulate warm oil. Sometimes this is presented as checking instruments for first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, and once to check for any oil mist from the prop. Cycling only 1 time is also sometimes appropriate. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
+	- Additional power may cause strong [[Four Left Turning Tendencies|left turning tendencies]]
 	- Know engine takeoff limits, e.g. when and how much to reduce MP/RPM after takeoff, if at all.
 	- Pitching for a cruise climb to improve engine cooling
 	- Importance of checklists for each stage of flight, especially with more advanced systems
@@ -68,6 +69,8 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- Importance of leaning
 	- How to use engine monitor to lean
 - Temperature management
+	- > [!quote] Continental Motors Tech Rep Bob “Mose” Moseley
+	> There are three things that affect how long your engine will last: (1) temperature, (2) temperature, and (3) temperature!
 	- Gauges for temperature management
 	- How to address high temperatures
 	- > [!quote] From [Pelican’s Perch #19: Putting It All Together](https://www.avweb.com/flight-safety/pelicans-perch-19putting-it-all-together/) from [[AVweb]]

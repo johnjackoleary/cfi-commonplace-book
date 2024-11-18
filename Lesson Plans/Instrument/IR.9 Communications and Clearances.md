@@ -71,6 +71,7 @@ Ground 1.5 hours
 		5. Include runway in clearance request
 		6. Good to mention use of [[ODP]] if unclear
 	8. What if I don’t like the clearance? ([[AIM 4]]-4-4)
+	9. Deviation - Emergency or [[TCAS]] alert
 3. Request for delay vector or, similarly, request to continue holding
 
 

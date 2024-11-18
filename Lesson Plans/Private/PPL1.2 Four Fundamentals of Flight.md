@@ -24,6 +24,11 @@ N/A
 > [!tip]
 > Lift can be increased by increasing velocity, increasing angle of attack (up to [[Critical Angle of Attack]]), or adding flaps.
 
+#### Use of Primary and Secondary Control Surfaces
+This follows the topics covered in a demo flight, if not previously flown.
+
+![[PPL0.0 Optional Introductory or Demo Flight#Lesson Elements]]
+
 #### Straight and Level
 
 **Aerodynamic Principles**
@@ -70,7 +75,7 @@ N/A
 **Notes**
 - Different situations require climbs at Vx, Vy, or normal/cruise climb
 - It's useful to memorize power settings for repeatable climbs/descents
-- During climb, P-factor increases the need for right rudder
+- During climb, [[P-factor]] increases the need for right rudder
 
 **In Practice**
 

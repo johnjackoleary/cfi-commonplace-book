@@ -82,6 +82,7 @@ Background knowledge required for safe mountain flying.
 		2. Time of day
 			1. Often better in morning (cooler, less winds, less turbulent)
 			2. Many folks prefer not to fly after noon
+			3. Mountain shadow can make valley airports dark early
 		3. Seasonal Considerations
 			1. Summer -- [[Hot, High, and Heavy]]
 			2. Winter -- Survival and options for emergency landings
@@ -93,15 +94,18 @@ Background knowledge required for safe mountain flying.
 			5. Be wary -- mountain weather can change quickly!
 		5. Specific weather factors
 			1. Visibility
-			2. Clouds
+			2. Turbulence
+				1. Mountain Wave
+				2. Venturi Effects
+			3. Clouds
 				1. [[Mountain Wave]] Signs![[Mountain Waves and Associated Clouds.jpeg]]
 				3. [[Kelvin–Helmholtz Cloud]]s
-			3. [[Thunderstorm]]s
+			4. [[Thunderstorm]]s
 				1. [[Roll Cloud]]s
-			4. Winds at peaks
+			5. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
 				2. Increased likelihood of [[Mountain Wave]]
-	4. External Pressures - Standard, but different solutions may be available
+	1. External Pressures - Standard, but different solutions may be available
 		1. E.g. Too much weight can be resolved by taking multiple trips from high to low elevation airports, then departing as a group from the low altitude airport
 2. Go/No-Go Decision and [[ADM]]
 	1. Factors of [[PAVE]] above, and how they relate to your [[Personal Minimums]]

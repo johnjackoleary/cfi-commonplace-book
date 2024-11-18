@@ -39,6 +39,7 @@ Ground 1.5 hours
 	1. Navigation logs, plotters, computers (E6B, etc.), wind computations
 	2. Flight plan forms and filing 
 	3. Fuel planning and requirements ([[FAR 91.167]])
+	4. [[TEC]] routes
 4. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach, Departure, Center)
 	2. Radar and transponders 

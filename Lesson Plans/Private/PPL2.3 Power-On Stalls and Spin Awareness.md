@@ -53,7 +53,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 7. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide
-	3. Climb-out stall that develops into spin (lots of P-factor during takeoff/go-around climb)
+	3. Climb-out stall that develops into spin (lots of [[P-factor]] during takeoff/go-around climb)
 	4. Iced up airframe
 8. Spin Recovery Procedure
 	1. Follow the [[POH]]!

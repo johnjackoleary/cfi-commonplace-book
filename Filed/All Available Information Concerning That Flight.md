@@ -24,7 +24,7 @@
 **The best sources for this information are:**
 1. ForeFlight and other [[EFB]]s
 2. https://aviationweather.gov/
-3. Flight service online: 1800wxbrief.com
+3. Flight service online: [1800wxbrief.com](http://www.1800wxbrief.com)
 4. Flight Service by phone: 1-800-WXBrief
 5. Webcams [[Useful Bay Area Webcams]]
 
