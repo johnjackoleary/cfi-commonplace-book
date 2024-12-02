@@ -10,6 +10,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 - [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
 - [[Private Pilot ACS]] Section III.B
 - [[Non-Tower Radio Communication Examples]]
+- https://medium.com/faa/how-to-talk-like-a-pilot-c0d15bd1327f
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
