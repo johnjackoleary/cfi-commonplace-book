@@ -51,6 +51,7 @@
 	- [GFC 500 Manual Links](https://support.garmin.com/en-US/?partNumber=GFC-500AP-00&tab=manuals)
 	- [G1000 Manual](https://static.garmin.com/pumac/190-00498-08_0A_Web.pdf)
 - [2015 International Air Transport Association (IATA) FMS Data Entry Error Prevention Best Practices](https://www.iata.org/contentassets/b6eb2adc248c484192101edd1ed36015/fms-data-entry-error-prevention-ed-1-2015.pdf)
+- https://medium.com/faa/cfit-and-overreliance-on-automation-48eed783b1e9
 
 
 #concept
