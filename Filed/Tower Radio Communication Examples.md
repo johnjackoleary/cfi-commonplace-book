@@ -5,7 +5,7 @@ Don’t forget to listen to [[ATIS]] prior to first call (before taxi, or before
 | ATC | You |
 | --- | --- |
 |     |   <i>"Palo Alto Ground,<br>Citabria one-two-three-alpha-bravo, <br>Hotel row, <br>closed traffic, <br>with November" </i>  |
-|   <i>"Citabria 123AB, <br>Taxi Three-One via hangar side[^1], Juliet, Papa, Yankee, Yankee One, Zulu; <br>Advise Ground when runup complete."</i>  |     |
+|   <i>"Citabria 123AB, <br>Taxi Three-One via Juliet, Papa, Yankee, Yankee One, Zulu; <br>Advise Ground when runup complete."</i>  |     |
 |     |   <i>"Runway Three One via Juliet, Papa, Yankee, Yankee One, Zulu, <br>123AB"</i>   |
 
 
@@ -14,12 +14,11 @@ Don’t forget to listen to [[ATIS]] prior to first call (before taxi, or before
 
 | ATC | You |
 | --- | --- |
-|     |   <i>"Palo Alto Ground, <br>Citabria 123AB, <br>parked West Valley, with November<br>Left 270 Overhead departure[^2]" </i>  |
-|   <i>"Citabria 123AB, <br>Taxi runway One-Three via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three" </i>   |     |
-|     |  <i>"Runway One-Three <br>via Hangar Side, Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three, <br>123AB" </i>    |
+|     |   <i>"Palo Alto Ground, <br>Citabria 123AB, <br>parked West Valley, with November<br>Left 270 Overhead departure[^1]" </i>  |
+|   <i>"Citabria 123AB, <br>Taxi runway One-Three via Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three" </i>   |     |
+|     |  <i>"Runway One-Three <br>via Juliet, Yankee, Yankee Three, Zulu, <br>hold short Yankee Three, <br>123AB" </i>    |
 
-[^1]: At Palo Alto, "hangar side" and "terminal side" are common taxi instructions
-[^2]: Other common departure requests include "left downwind", "right downwind", "right/left overhead 270", and "straight out".  Palo Alto-specific requests include "left/right Dumbarton"
+[^1]: Other common departure requests include "left downwind", "right downwind", "right/left overhead 270", and "straight out".  Palo Alto-specific requests include "left/right Dumbarton"
 
 #### Ready to taxi (runway 31, with flight following):
 
@@ -75,8 +74,8 @@ Don’t forget to listen to [[ATIS]] prior to first call (before taxi, or before
 | ATC | You |
 | --- | --- |
 |     |  <i>"Palo Alto Ground, <br>Citabria 123AB, <br>on Zulu, <br>taxi West Valley parking"</i>   |
-|  <i>"3AB, <br>Palo Alto Ground, <br>taxi to parking via Zulu, Yankee2, suggest Juliet, hangar side" </i>  |    |
-|     | <i>"Taxi Zulu, Yankee2, Juliet, hangar side, <br>3AB"</i> |
+|  <i>"3AB, <br>Palo Alto Ground, <br>taxi to parking via Zulu, Yankee2, suggest Juliet" </i>  |    |
+|     | <i>"Taxi Zulu, Yankee2, Juliet, <br>3AB"</i> |
 
 ---
 

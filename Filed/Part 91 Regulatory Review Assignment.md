@@ -15,6 +15,7 @@ From [[AC 61-98]] Appendix F:
 	- [ ] Alcohol or Drugs (§ [[FAR 91.17 Alcohol or Drugs|91.17]])
 	- [ ] Supplemental Oxygen (§ [[FAR 91.211 Supplemental Oxygen|91.211]])
 	- [ ] Fitness for Flight ([[AIM 8]], section 1)
+
 ## Aircraft
 - [ ] **Airworthiness**:
 	- [ ] Basic (§ [[FAR 91.7 Aircraft Airworthiness|91.7]])
@@ -39,29 +40,29 @@ From [[AC 61-98]] Appendix F:
 
 ## Environment
 - [ ] **Airports**:
-	- [ ] Markings (AIM chapter 2, section 3)
-	- [ ] Operations (AIM chapter 4, section 3; §§ [[FAR 91.125|91.125]] and [[FAR 91.126|91.126]])
+	- [ ] Markings ([[AIM 2]]-3)
+	- [ ] Operations ([[AIM 4]]-3; §§ [[FAR 91.125|91.125]] and [[FAR 91.126|91.126]])
 	- [ ] Traffic Patterns (§ [[FAR 91.126|91.126]])
 - [ ] **Airspace**:
-	- [ ] Altimeter Settings (§ 91.121; AIM chapter 7, section 2)
-	- [ ] Minimum Safe Altitudes (§§ 91.119 and 91.177)
-	- [ ] Cruising Altitudes (§§ 91.159 and 91.179; AIM paragraph 3-1-5)
-	- [ ] Speed Limits (§ 91.117)
-	- [ ] Right-of-Way (§ 91.113)
-	- [ ] Formation (§ 91.111)
-	- [ ] Types of Airspace (AIM chapter 3):
-		- [ ] Controlled Airspace (AIM chapter 3, section 2; §§ 91.129, 91.130, 91.131, and 91.135)
-		- [ ] Class G Airspace (AIM chapter 3, section 3)
-		- [ ] Special Use (AIM chapter 3, section 4; §§ 91.133, 91.137, 91.141, 91.143, and 91.145)
-	- [ ] Emergency Air Traffic Rules (§ 91.139; AIM chapter 5, section 6)
+	- [ ] Altimeter Settings (§ [[FAR 91.121|91.121]]; [[AIM 7]]-2)
+	- [ ] Minimum Safe Altitudes (§§ [[FAR 91.119 Minimum Altitudes|91.119]] and [[FAR 91.177|91.177]])
+	- [ ] Cruising Altitudes (§§ [[FAR 91.159 VFR Altitudes|91.159]] and [[FAR 91.179|91.179]]; [[AIM 3]]-1-5)
+	- [ ] Speed Limits (§ [[FAR 91.117|91.117]])
+	- [ ] Right-of-Way (§ [[FAR 91.113 Right-of-Way Rules|91.113]])
+	- [ ] Formation (§ [[FAR 91.111|91.111]])
+	- [ ] Types of Airspace ([[AIM 3]]):
+		- [ ] Controlled Airspace ([[AIM 3]]-2; §§ [[FAR 91.129|91.129]], [[FAR 91.130|91.130]], [[FAR 91.131|91.131]], and [[FAR 91.135|91.135]])
+		- [ ] Class G Airspace ([[AIM 3]]-3)
+		- [ ] Special Use ([[AIM 3]]-4; §§ [[FAR 91.133|91.133]], [[FAR 91.137|91.137]], [[FAR 91.141|91.141]], [[FAR 91.143|91.143]], and [[FAR 91.145|91.145]])
+	- [ ] Emergency Air Traffic Rules (§ [[FAR 91.139|91.139]]; [[AIM 5]]-6)
 - [ ] **ATC and Procedures**:
-	- [ ] Services (AIM chapter 4, section 1)
-	- [ ] Radio Communications (AIM chapter 4, section 2 and [[Pilot-Controller Glossary]])
-	- [ ] Clearances (AIM chapter 4, section 4)
-	- [ ] Procedures (AIM chapter 5)
+	- [ ] Services ([[AIM 4]]-1)
+	- [ ] Radio Communications ([[AIM 4]]-2 and [[Pilot-Controller Glossary]])
+	- [ ] Clearances ([[AIM 4]]-4)
+	- [ ] Procedures ([[AIM 5]])
 - [ ] **Weather**:
-	- [ ] Meteorology (AIM chapter 7, section 1)
-	- [ ] [[Wake Turbulence]] (AIM chapter 7, section 3)
+	- [ ] Meteorology ([[AIM 7]]-1)
+	- [ ] [[Wake Turbulence]] ([[AIM 7]]-3)
 
 ## External Pressure
 - [ ] [[Personal Minimums]] Worksheet

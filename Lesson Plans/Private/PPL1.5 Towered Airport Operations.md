@@ -32,7 +32,7 @@ N/A
 	3. Format for all radio calls: YOU (who you're calling), ME (who you are), WHERE you are (in 3D space), WHAT you want
 	4. Required readbacks:
 		1. Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc.
-		2. Sometimes specific request for readback in the ATIS
+		2. Sometimes specific request for readback in the [[ATIS]]
 		3. If in doubt, readback full instructions
 	5. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
 	6. Mentally rehearse what you will say before keying the mic.
@@ -58,6 +58,7 @@ N/A
 	4. [[Runway Incursion]]
 6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
 7. Departure and Arrival Procedures and Communication at Home Airport
+	1. Listen to LiveATC for local radio calls
 8. Radio Issues
 	1. Stuck microphones -- how to detect, how to respond
 	2. [[Light Gun Signals]]
@@ -70,7 +71,7 @@ N/A
 9. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
-	3. Not scanning for traffic, or keeping traffic to follow in sight
+	3. Not [[Scanning for Traffic]], or keeping traffic to follow in sight
 
 ### Completion Standards
 Learner must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.

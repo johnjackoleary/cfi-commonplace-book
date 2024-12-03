@@ -51,7 +51,7 @@ Ground 0.5 hours, Flight 2 hours
 	7. Airspeed or bank angle standards not met
 	8. Control roughness
 	9. Poor flight control coordination
-	10. Not scanning for other traffic during the maneuver
+	10. Not [[Scanning for Traffic]] during the maneuver
 	11. Performing by reference to the flight instruments rather than visual references 
 
 ### Completion Standards

@@ -8,5 +8,5 @@ DCS after scuba diving is a significant risk.  Recommendations:
 	- The flight is at or below 8000', and
 	- The dive did not involve a controlled ascent
 
-Additional info in [[AIM 8-1]]
+Additional info in [[AIM 8]]
 

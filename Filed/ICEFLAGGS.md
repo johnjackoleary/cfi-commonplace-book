@@ -12,6 +12,6 @@
 > - [[Graveyard Spin]] (Pilot recovers from spin but senses they are in a new spin, so re-enter that spin)
 > - [[Somatogravic Illusion]] (Caused by rapid acceleration or deceleration that results in a pitch up or down)
 
-***Related To***: [[Vestibular and Visual Illusions]]
+***Related To***: [[Illusions Leading to Spatial Disorientation]]
 
 #acronym #illusions 
