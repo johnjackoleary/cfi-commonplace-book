@@ -39,7 +39,7 @@ This follows the topics covered in a demo flight, if not previously flown.
 - What happens, during straight-and-level flight, if you extend flaps?  Why?
 
 **In Practice**
-1. Always be scanning for traffic!
+1. Always be [[scanning for traffic]]!
 2. Use the visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
 3. Use wingtip reference to maintain level flight
 4. Periodically cross-check the altimeter and heading indicator ([[90%-10% Outside vs Inside|aim for 90-10 split of time looking outside vs inside]])

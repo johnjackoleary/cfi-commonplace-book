@@ -41,7 +41,7 @@ Hood or foggles
 		1. Pitch-Power-Trim sequence to initiate climb, Power-Pitch-Trim for descent.
 	3. Turns (IFH 7-19)
 4. Common errors
-	1. Spatial disorientation (see [[Vestibular and Visual Illusions]])
+	1. Spatial disorientation (see [[Illusions Leading to Spatial Disorientation]])
 	2. Distraction
 	3. Fixation or omission
 	4. Multitasking in a turn -- watch the turn, and do nothing else until complete

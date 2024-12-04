@@ -1,3 +1,3 @@
-***Meaning*** :: <u>C</u>learing Turns, <u>H</u>eading, <u>A</u>ltitude, <u>P</u>ower Setting, <u>S</u>pot to Land
+***Meaning*** :: <u>C</u>learing turns, <u>H</u>eading and outside reference, <u>A</u>ltitude, <u>P</u>lace to land, <u>S</u>et power and aircraft configuration
 
 #acronym

@@ -29,7 +29,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 			1. Clearing Turns
 			2. Avoid descending into traffic patterns
 			3. Several more good suggestions in [[PHAK Ch14]]
-		2. Scanning for traffic
+		2. [[Scanning for Traffic]]
 			1. 10° at a time
 			2. Key points in pattern
 		3. [[FAR 91.113 Right-of-Way Rules]]

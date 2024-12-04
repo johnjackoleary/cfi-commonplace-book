@@ -37,30 +37,28 @@ Ground 1 hour, flight 3 hours
 2. Navigation at night
 	1. Plan a route to maximize time within glide range of an airport
 	2. Pilotage and chart-reading techniques
-	3. Illusion affecting night flight
-		1. [[False Horizon]]
-		2. [[Autokinesis]]
-		3. [[Black-Hole Approach]]
-			1. Importance of [[VASI]] or [[PAPI]] lights
-	4. Greater reliance on instruments is required
+	3. Greater reliance on instruments is required
 3. Pilot considerations
 	1. Physiology of night flight with respect to vision
-		1. Red light impact
-			1. Consider covering one eye for white light use
-		2. Altitude impact
-	3. Personal lighting equipment
+		1. [[Illusions Leading to Landing Errors]] are particularly prevalent at night
+			1. [[False Horizon]]
+			2. [[Autokinesis]]
+			3. [[Black-Hole Approach]]
+				1. Importance of [[VASI]] or [[PAPI]] lights
+		2. [[Vision in Flight]] of even greater importance
+	2. Personal lighting equipment
 4. Night emergencies
 5. The go/no-go decision
 	1. Weather matters more than ever.  Clouds are invisible on a moon-less night
 	2. A narrow temperature/dewpoint spread means fog could form soon
-	3. How to detect inadvertent flight into IMC
+	3. How to detect inadvertent flight into [[IMC]]
 6. Night flight experience -- 3 hours required:
 	1. Dual cross-country of > 100nm
 	2. 10 takeoffs and landings in pattern, full stop^[Notice both takeoff and landings must be at night. If you depart before/during civil twilight and land after civil twilight, that counts as 1 night landing, but not 1 night takeoff.]^[These 10 takeoffs and landings must also be around the pattern, not just the end of a flight.]
 7. Common errors
 	1. Navigational disorientation
-	2. Loss of situational awareness, due to loss of visual horizon
-	3. Getting low on final approach, due to black hole illusion
+	2. Loss of spatial awareness, due to loss of visual horizon^[[[Illusions Leading to Spatial Disorientation]]]
+	3. Getting low on final approach, due to black hole illusion^[[[Illusions Leading to Landing Errors]]]
 	4. Inadvertent flight into clouds is possible
 
 ### Completion Standards
