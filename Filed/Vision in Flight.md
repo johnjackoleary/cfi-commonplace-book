@@ -8,7 +8,7 @@ tags:
 - Red light benefits and drawbacks
 	- Consider covering one eye for white light use
 
-#todo :: Add more details on how long night vision takes to develop and to loose
+#todo :: add more details on how long night vision takes to develop and to loose
 
 ## Altitude Impact
 
@@ -17,8 +17,7 @@ tags:
 ## Scanning for Other Aircraft
 Proper and consistent scanning technique is a key factor in collision avoidance.
 
-For more information, see [[Scanning for Traffic]].
-
+For more information, see [[scanning for traffic]].
 
 
 ***Definition***    :: 

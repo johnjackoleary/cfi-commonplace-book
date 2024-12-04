@@ -71,7 +71,7 @@ N/A
 9. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
-	3. Not [[Scanning for Traffic]], or keeping traffic to follow in sight
+	3. Not [[scanning for traffic]], or keeping traffic to follow in sight
 
 ### Completion Standards
 Learner must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.
