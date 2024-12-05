@@ -64,10 +64,12 @@ Ground 1.5 hour, practice on multiple flights
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]:
-- Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
-- Recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts
-- Preflight action that includes—
+[[FAR 61.93 Solo XC Reqs]]:
+- (e)(3) Procurement and analysis of aeronautical weather reports and forecasts, including recognition of critical weather situations and estimating visibility while in flight
+
+[[FAR 61.105 PPL Knowledge Reqs]]:
+- (b)(6) Recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts
+- (b)(13) Preflight action that includes—
 	- How to obtain information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and forecasts, and fuel requirements; and
 	- How to plan for alternatives if the planned flight cannot be completed or delays are encountered.
 

@@ -62,8 +62,8 @@ Client should be able to complete a navlog and fly a cross country route, using 
 > - Update the navigation plan in-flight to account for variations in heading and groundspeed due to unforecasted winds.
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
-- Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass
+[[FAR 61.93 Solo XC Reqs]]:
+- (e)(1) Use of aeronautical charts for VFR navigation using pilotage and dead reckoning with the aid of a magnetic compass
 
 ### Required Homework
 - [ ] Complete a full navlog from Palo Alto to a destination assigned by the instructor.

@@ -81,9 +81,9 @@ Develop knowledge and skills associated with emergency landings, including choos
 Client should develop knowledge of emergencies and procedures, and demonstrate the ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Emergency procedures and equipment malfunctions
-- Approaches to a landing area with simulated engine malfunctions
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(11) Emergency procedures and equipment malfunctions
+- (d)(13) Approaches to a landing area with simulated engine malfunctions
 
 ### Required Homework
 - [ ] Memorize [[Vg]]

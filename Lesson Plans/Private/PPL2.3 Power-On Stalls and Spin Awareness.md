@@ -86,9 +86,11 @@ Learner must be able to demonstrate power-on stalls, to ACS standards. The clien
 
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]: 
-- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall
-- Stall awareness, spin entry, spins, and spin recovery techniques for the airplane and glider category ratings
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(10) Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall^[Also covered in [[PPL2.1 Slow Flight and Power-Off Stalls]]]
+
+[[FAR 61.105 PPL Knowledge Reqs]]
+- (b)(11) Stall awareness, spin entry, spins, and spin recovery techniques for the airplane and glider category ratings
 
 ### Required Homework
 None

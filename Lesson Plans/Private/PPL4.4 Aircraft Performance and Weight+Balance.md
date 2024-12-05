@@ -54,10 +54,12 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 	7. [[Personal Minimums]] and other safety factor considerations 
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.105 PPL Knowledge Reqs]]:
-- Use of aircraft performance charts pertaining to cross-country flight
-- Effects of density altitude on takeoff and climb performance
-- Weight and balance computations
+[[FAR 61.93 Solo XC Reqs]]:
+- (e)(2) Use of aircraft performance charts pertaining to cross-country flight
+
+[[FAR 61.105 PPL Knowledge Reqs]]:
+- (b)(8) Effects of density altitude on takeoff and climb performance
+- (b)(9) Weight and balance computations
 
 ### Completion Standards
 Client should develop knowledge of [[POH]]/[[AFM]] organization, including performance and weight & balance calculations.

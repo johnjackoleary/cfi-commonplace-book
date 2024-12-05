@@ -65,8 +65,8 @@ Ground 1 hour, flight 3 hours
 Client demonstrates the knowledge and skills to fly and navigate at night safely.
 
 ### Required Logbook Phraseology
-For [[FAR 61.107 PPL Flight Reqs]]:
-- Night operations
+[[FAR 61.107 PPL Flight Reqs]]:
+- (b)(1)(xi) Night operations
 
 > [!note] 
 > Specific night flight requirements from [[FAR 61.109 PPL Experience Reqs]]:
