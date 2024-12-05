@@ -65,8 +65,11 @@ Client must demonstrate the ability to choose an appropriate location, select a 
 > ±100'; ±10kts; constant radius
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]] and [[FAR 61.107 PPL Flight Reqs]]:
-- Ground reference maneuvers
+[[FAR 61.87 Student Solo Reqs]]:
+- (d)(12) Ground reference maneuvers
+
+[[FAR 61.107 PPL Flight Reqs]]
+- (b)(1)(vi) Ground reference maneuvers
 
 ### Required Homework
 None

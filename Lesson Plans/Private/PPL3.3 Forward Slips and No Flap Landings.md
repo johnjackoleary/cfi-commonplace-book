@@ -62,8 +62,8 @@ Client must demonstrate smooth entry into a forward slip, with upwind wing down,
 > **Forward slip**: Land within 400' of specified point; parallel, on centerline, nose up, no drift
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Slips to a landing
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(14) Slips to a landing
 
 ### Required Homework
 None

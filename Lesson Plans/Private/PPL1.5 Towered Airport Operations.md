@@ -77,10 +77,14 @@ N/A
 Learner must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]], [[FAR 61.105 PPL Knowledge Reqs]], and [[FAR 61.107 PPL Flight Reqs]]: 
-- Airport traffic patterns, including entry and departure procedures
-- Airport and seaplane base operations
-- Radio communication procedures
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(6) Airport traffic patterns, including entry and departure procedures
+
+[[FAR 61.105 PPL Knowledge Reqs]]:
+- (b)(5) Radio communication procedures
+
+[[FAR 61.107 PPL Flight Reqs]]:
+- (b)(1)(iii) Airport and seaplane base operations
 
 ### Required Homework
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands, or practicing license plates on drive

@@ -72,9 +72,9 @@ Client should demonstrate ability to perform short- and soft-field takeoffs and 
 > - **Soft Field Landing**: Minimum sink, parallel, centerline, nose up, no drift; elevator back through exit
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]]:
-- Climbs at best angle and best rate
-- Takeoff, approach, and landing procedures, including short-field, soft-field, and crosswind takeoffs, approaches, and landings
+[[FAR 61.93 Solo XC Reqs]]:
+- (e)(11) Climbs at best angle and best rate
+- (e)(10) Takeoff, approach, and landing procedures, including short-field, soft-field, and crosswind takeoffs, approaches, and landings
 
 ### Required Homework
 - [ ] Complete solo quiz

@@ -98,10 +98,10 @@ Learner must demonstrate ability to use external visual references to maintain a
 > ±10 knots, ±10° degrees, ±100 feet^[These are a reasonable blend of minimums from other ACS standards, since four fundamentals is assessed as part of other maneuvers in the checkride.]
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Straight and level flight, and turns in both directions;
-- Climbs and climbing turns;
-- Descents, with and without turns, using high and low drag configurations;
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(4) Straight and level flight, and turns in both directions;
+- (d)(5) Climbs and climbing turns;
+- (d)(8) Descents, with and without turns, using high and low drag configurations;
 
 ### Required Homework
 None

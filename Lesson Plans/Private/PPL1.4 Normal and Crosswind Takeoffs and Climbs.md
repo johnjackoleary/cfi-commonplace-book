@@ -63,8 +63,8 @@ Understand and become proficient at the procedures used for normal/crosswind tak
 	3. Drifting from centerline during climb out
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Takeoffs, including normal and crosswind
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(3) Takeoffs^[Landings covered in [[PPL3.2 Normal and Crosswind Approaches and Landings]]], including normal and crosswind
 
 ### Completion Standards
 Client must demonstrate proficiency and safety for normal takeoffs and climbs, including pre-takeoff checks, traffic awareness, and emergency options.

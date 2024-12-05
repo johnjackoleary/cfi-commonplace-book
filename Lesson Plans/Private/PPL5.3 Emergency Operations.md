@@ -166,9 +166,11 @@ Client demonstrates appropriate knowledge of aircraft systems, abnormal and emer
 > - Level off at specified alt ±100'
 
 ### Required Logbook Phraseology
-For [[FAR 61.93 Solo XC Reqs]] and [[FAR 61.107 PPL Flight Reqs]]:
-- Emergency procedures^[Also in [[PPL5.4 Lost Procedures and Diversion to Alternates]]]
-- Emergency operations
+[[FAR 61.93 Solo XC Reqs]]:
+- (e)(4) Emergency procedures^[Also in [[PPL5.4 Lost Procedures and Diversion to Alternates]]]
+
+[[FAR 61.107 PPL Flight Reqs]]:
+- (b)(1)(x) Emergency operations
 
 ### Required Homework
 - [ ] Memorize emergency flows (you may wish to reserve an aircraft and practice on the ground, although a picture also works)

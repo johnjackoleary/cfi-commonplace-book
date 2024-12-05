@@ -49,8 +49,8 @@ Client must demonstrate the ability to choose an appropriate location, select a 
 > ±100'; ±10kts; bank±5°; hdg±10°
 
 ### Required Logbook Phraseology
-For [[FAR 61.107 PPL Flight Reqs]]:
-- Performance maneuvers
+[[FAR 61.107 PPL Flight Reqs]]:
+- (b)(1)(v) Performance maneuvers
 
 ### Required Homework
  None

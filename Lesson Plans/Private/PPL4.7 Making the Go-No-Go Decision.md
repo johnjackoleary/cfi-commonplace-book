@@ -45,7 +45,7 @@ Learner completes a full navlog for a cross-country trip, and makes a wise and i
 
 ### Required Logbook Phraseology
 For [[FAR 61.105 PPL Knowledge Reqs]]:
-- Aeronautical decision making and judgment
+- (b)(12) Aeronautical decision making and judgment
 
 ### Required Homework
 - [ ]  Create your [[personal minimums]]

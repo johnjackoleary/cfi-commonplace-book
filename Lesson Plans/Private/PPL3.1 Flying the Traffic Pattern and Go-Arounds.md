@@ -149,8 +149,8 @@ Client must demonstrate proficiency at planning and flying pattern approaches an
 > - For go-around, apply takeoff power immediately and transition to climb pitch attitude for [[Vx]] or [[Vx]] as appropriate +10/-5 knots.
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]]: 
-- Go-arounds
+[[FAR 61.87 Student Solo Reqs]]: 
+- (d)(15) Go-arounds
 
 ### Required Homework
 - [ ] Memorize power settings/airspeeds for pattern

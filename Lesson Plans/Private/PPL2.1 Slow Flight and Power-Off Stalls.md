@@ -105,11 +105,15 @@ Client must be able to demonstrate power-off stalls, to ACS standards.
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure
 
 ### Required Logbook Phraseology
-For [[FAR 61.87 Student Solo Reqs]], [[FAR 61.105 PPL Knowledge Reqs]], and [[FAR 61.107 PPL Flight Reqs]]: 
-- Flight at various airspeeds from cruise to slow flight
-- Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall
-- Slow flight and stalls
-- Principles of aerodynamics...
+[[FAR 61.87 Student Solo Reqs]]:
+- (d)(9) Flight at various airspeeds from cruise to slow flight
+- (d)(10) Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall^[Also covered in [[PPL2.3 Power-On Stalls and Spin Awareness]]]
+
+[[FAR 61.105 PPL Knowledge Reqs]], and : 
+- (b)(10) (partial) Principles of aerodynamics...
+
+[[FAR 61.107 PPL Flight Reqs]]
+- (b)(1)(viii) Slow flight and stalls
 
 ### Required Homework
  None
