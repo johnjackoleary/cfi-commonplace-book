@@ -63,6 +63,7 @@ Other airspaces also exist. Make sure to check for these before you fly!
 See [[FAR 91.155 VFR Weather Minimums]].
 
 # Additional Resources
+- [FAA Airspace for VFR Flight](https://youtu.be/wYKI-4XKp1c)
 - [[AIM 3]]
 - [[PHAK Ch15]]
 - [[Sectional Chart]]
