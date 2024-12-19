@@ -16,7 +16,7 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
 ### Builds On
--[[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+- [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 
 
 ### Schedule
@@ -77,7 +77,8 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 	1. [[Carbon Monoxide Poisoning|Carbon Monoxide poisoning]] risk from cabin heat
 6. Equipment Requirements
 	1. [[FAR 91.205 Instrument and Equipment Requirements]] Day/Night VFR
-		1. [[KOEL]]
+		1. Equipment List
+		2. [[KOEL]]
 	2. [[FAR 91.213 Inop Equip|Inoperative Equipment]]
 		1. Discuss flow chart
 7. If possible, find an aircraft without a cowling to see these systems up close

@@ -34,6 +34,9 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 	5. Minimum altitudes ([[FAR 91.119 Minimum Altitudes]])
 	6. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
 	7. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
+6. Talk through airspace involved in KPAO-VPMIN
+	1. At 3500', 2500', and 1000'
+	2. During day and night
 
 ### Completion Standards
 Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, and FARs.

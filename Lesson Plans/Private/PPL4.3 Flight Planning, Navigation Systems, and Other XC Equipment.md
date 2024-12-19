@@ -39,9 +39,9 @@ Ground 2 hours, 1 hour sim
 4. [[Transponder]]s, and altitude reporting equipment
 	1. [[ADS-B]]
 5. ATC services and assistance available
-	1. Flight following (and [[Flight Following Radio Communication Examples]])
-	2. Airport Surveillance Radar ([[ASR]])
-6. Autopilot
+	1. [[Radar|Surveillance Systems]]
+	2. Flight following (and [[Flight Following Radio Communication Examples]])
+6. [[Autopilot Systems and Usage]]
 	1. preflight
 	2. single/dual axis
 

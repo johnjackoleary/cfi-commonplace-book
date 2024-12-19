@@ -31,6 +31,7 @@ Ground 3 hours, Flight as necessary
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
 		1. [[Pilot's Bill of Rights]]
 	4. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
+	5. [[ASRS]] Reports^[Informally NASA reports]
 3. [[ADM]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
