@@ -15,6 +15,7 @@
 | Oakland        | https://www.fox10phoenix.com/webcams-sf-bay                              |
 | Berkeley       | https://lawrence-view.wilderz.workers.dev                                |
 | Watsonville    | https://www.watsonvillepilots.org/airport                                |
+| Truckee Airport| https://truckeetahoeairport.com/webcam                                   |
 | Truckee Area   | https://images.ambientweather.net/C8C9A3558B1B/latest.jpg                |
 
 > [!tip] iOS Shortcut to Quickly View Cameras Above
