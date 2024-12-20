@@ -1,0 +1,1 @@
+pilot in command of a civil turbojet-powered aircraft must use, as a final flap setting, the minimum certificated landing flap setting - [[FAR 91.126 Class G Airspace Ops Near Airport]]

@@ -11,5 +11,4 @@ cssclass: lightguntable
 |   Flashing white<br><span style="color:white">\_ \_ \_</span>    | Return to starting point on airport               | Return to starting point on airport | Not applicable                                                         |
 | Alternating red and green<br><span style="color:red">\_ </span><span style="color:green">\_ </span><span style="color:red">\_</span>  | Exercise extreme caution                          | Exercise extreme caution            | Exercise extreme caution                                               |
 
-*Source: [AIM 4-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html)*
-
+***Source***: [AIM 4-3](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_3.html), [[FAR 91.125 ATC Light Signals]]
