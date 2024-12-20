@@ -46,10 +46,10 @@ From [[AC 61-98]] Appendix F:
 - [ ] **Airspace**:
 	- [ ] Altimeter Settings (§ [[FAR 91.121 Altimeter Settings|91.121]]; [[AIM 7]]-2)
 	- [ ] Minimum Safe Altitudes (§§ [[FAR 91.119 Minimum Altitudes|91.119]] and [[FAR 91.177 Minimum Altitudes for IFR|91.177]])
-	- [ ] Cruising Altitudes (§§ [[FAR 91.159 VFR Altitudes|91.159]] and [[FAR 91.179|91.179]]; [[AIM 3]]-1-5)
-	- [ ] Speed Limits (§ [[FAR 91.117|91.117]])
+	- [ ] Cruising Altitudes (§§ [[FAR 91.159 VFR Altitudes|91.159]] and [[FAR 91.179 IFR Altitudes|91.179]]; [[AIM 3]]-1-5)
+	- [ ] Speed Limits (§ [[FAR 91.117 Aircraft Speed|91.117]])
 	- [ ] Right-of-Way (§ [[FAR 91.113 Right-of-Way Rules|91.113]])
-	- [ ] Formation (§ [[FAR 91.111|91.111]])
+	- [ ] Formation (§ [[FAR 91.111 Formation|91.111]])
 	- [ ] Types of Airspace ([[AIM 3]]):
 		- [ ] Controlled Airspace ([[AIM 3]]-2; §§ [[FAR 91.129 Class D Ops|91.129]], [[FAR 91.130 Class C Ops|91.130]], [[FAR 91.131 Class B Ops|91.131]], and [[FAR 91.135 Class A Ops|91.135]])
 		- [ ] Class G Airspace ([[AIM 3]]-3)
