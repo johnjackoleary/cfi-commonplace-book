@@ -51,10 +51,10 @@ From [[AC 61-98]] Appendix F:
 	- [ ] Right-of-Way (§ [[FAR 91.113 Right-of-Way Rules|91.113]])
 	- [ ] Formation (§ [[FAR 91.111|91.111]])
 	- [ ] Types of Airspace ([[AIM 3]]):
-		- [ ] Controlled Airspace ([[AIM 3]]-2; §§ [[FAR 91.129|91.129]], [[FAR 91.130|91.130]], [[FAR 91.131|91.131]], and [[FAR 91.135|91.135]])
+		- [ ] Controlled Airspace ([[AIM 3]]-2; §§ [[FAR 91.129 Class D Ops|91.129]], [[FAR 91.130 Class C Ops|91.130]], [[FAR 91.131 Class B Ops|91.131]], and [[FAR 91.135 Class A Ops|91.135]])
 		- [ ] Class G Airspace ([[AIM 3]]-3)
-		- [ ] Special Use ([[AIM 3]]-4; §§ [[FAR 91.133|91.133]], [[FAR 91.137|91.137]], [[FAR 91.141|91.141]], [[FAR 91.143|91.143]], and [[FAR 91.145|91.145]])
-	- [ ] Emergency Air Traffic Rules (§ [[FAR 91.139|91.139]]; [[AIM 5]]-6)
+		- [ ] Special Use ([[AIM 3]]-4; §§ [[FAR 91.133 Restricted and Prohibited Areas|91.133]], [[FAR 91.137 TFRs in Disaster or Hazard Areas|91.137]], [[FAR 91.141 Presidential TfFRs|91.141]], [[FAR 91.143 Space Flight TFRs|91.143]], and [[FAR 91.145 Aerial Demos and Sporting Event TFRs|91.145]])
+	- [ ] Emergency Air Traffic Rules (§ [[FAR 91.139 Emergency Air Traffic Rules|91.139]]; [[AIM 5]]-6)
 - [ ] **ATC and Procedures**:
 	- [ ] Services ([[AIM 4]]-1)
 	- [ ] Radio Communications ([[AIM 4]]-2 and [[Pilot-Controller Glossary]])
