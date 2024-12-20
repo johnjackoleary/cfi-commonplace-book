@@ -1,4 +1,4 @@
-***Link***      :: [91.159 VFR cruising altitude or flight level](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR4d5279ba676bedc/section-91.159)
+***Link***      :: [91.159 VFR cruising altitude or flight level](https://www.ecfr.gov/current/title-14/section-91.159)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

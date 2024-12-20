@@ -45,7 +45,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 	2. I.B. Airworthiness Requirements
 		1. Review [[Complete VFR Preflight Checklist#Aircraft]] section
 		2. Obtaining a special flight permit
-		3. Pilot-performed preventative maintenance (see [§ 43.3](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/section-43.3)(g) and [§ 43 Appendix A](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043))
+		3. Pilot-performed preventative maintenance (see [[FAR 43.3 Persons Authorized to Maintain|§ 43.3]](g) and [§ 43 Appendix A](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043))
 	3. I.C. Weather Information
 		1. Review [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 		2. Gain deeper understanding from [[PHAK Ch12]] and [[PHAK Ch13]]

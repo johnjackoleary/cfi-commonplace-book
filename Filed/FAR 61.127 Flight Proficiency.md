@@ -1,4 +1,4 @@
-***Link***      :: [Flight proficiency requirements for commercial pilots](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-F/section-61.127)
+***Link***      :: [Flight proficiency requirements for commercial pilots](https://www.ecfr.gov/current/title-14/section-61.127)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

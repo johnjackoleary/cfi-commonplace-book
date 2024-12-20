@@ -1,4 +1,4 @@
-**A.3  Pre-solo aeronautical knowledge: § [61.87(b)](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-C/section-61.87).**
+**A.3  Pre-solo aeronautical knowledge: § [[FAR 61.87 Student Solo Reqs|61.87(b)]].**
 
 I certify that \[First name, MI, Last name\] has satisfactorily completed the pre-solo knowledge test of § 61.87(b) for the \[make and model\] aircraft.
 

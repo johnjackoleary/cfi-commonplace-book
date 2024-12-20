@@ -1,4 +1,4 @@
-***Link***      :: [§ 91.3 Responsibility and authority of the pilot in command.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-A/section-91.3)
+***Link***      :: [§ 91.3 Responsibility and authority of the pilot in command.](https://www.ecfr.gov/current/title-14/section-91.3)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 
