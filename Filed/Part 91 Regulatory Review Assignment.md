@@ -41,11 +41,11 @@ From [[AC 61-98]] Appendix F:
 ## Environment
 - [ ] **Airports**:
 	- [ ] Markings ([[AIM 2]]-3)
-	- [ ] Operations ([[AIM 4]]-3; §§ [[FAR 91.125|91.125]] and [[FAR 91.126|91.126]])
-	- [ ] Traffic Patterns (§ [[FAR 91.126|91.126]])
+	- [ ] Operations ([[AIM 4]]-3; §§ [[FAR 91.125 ATC Light Signals|91.125]] and [[FAR 91.126 Class G Airspace Ops Near Airport|91.126]])
+	- [ ] Traffic Patterns (§ [[FAR 91.126 Class G Airspace Ops Near Airport|91.126]])
 - [ ] **Airspace**:
-	- [ ] Altimeter Settings (§ [[FAR 91.121|91.121]]; [[AIM 7]]-2)
-	- [ ] Minimum Safe Altitudes (§§ [[FAR 91.119 Minimum Altitudes|91.119]] and [[FAR 91.177|91.177]])
+	- [ ] Altimeter Settings (§ [[FAR 91.121 Altimeter Settings|91.121]]; [[AIM 7]]-2)
+	- [ ] Minimum Safe Altitudes (§§ [[FAR 91.119 Minimum Altitudes|91.119]] and [[FAR 91.177 Minimum Altitudes for IFR|91.177]])
 	- [ ] Cruising Altitudes (§§ [[FAR 91.159 VFR Altitudes|91.159]] and [[FAR 91.179|91.179]]; [[AIM 3]]-1-5)
 	- [ ] Speed Limits (§ [[FAR 91.117|91.117]])
 	- [ ] Right-of-Way (§ [[FAR 91.113 Right-of-Way Rules|91.113]])
