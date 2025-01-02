@@ -26,8 +26,8 @@ All pre-solo lessons
 		2. Demonstrated satisfactory proficiency and safety...
 2. FAA documentation and paperwork
 	1. [[Pre-Solo Endorsements]] completed
-	2. Student Pilot Certificate in possession ([[FAR Part 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]])
-	3. Government Issued ID in possession ([[FAR Part 61.3 Cert and Rating Reqs]])
+	2. Student Pilot Certificate in possession ([[FAR 61.3 Cert and Rating Reqs]], [[FAR 61.85 Student Application]])
+	3. Government Issued ID in possession ([[FAR 61.3 Cert and Rating Reqs]])
 	4. Medical Certificate in possession ([[FAR 61.113 Private Pilot Privileges and Limitations]])
 3. [[WVFC]]-Specific Pre-Solo Requirements.  (See [WVFC Paperwork Checklist](https://drive.google.com/drive/u/0/folders/1o0t2y5GHl9PufTb4cpF_d1ATFkSAYL7N) for latest list.  Many of these forms are in the [Checkout Documents](https://drive.google.com/drive/u/0/folders/1AjOTq2JIVqbOnVhQuSeowCBw3K5Ux1wT) folder):
 	1. Aircraft Checkout Form

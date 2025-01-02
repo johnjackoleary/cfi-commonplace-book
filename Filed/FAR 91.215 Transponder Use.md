@@ -1,7 +1,10 @@
-***Link***      :: [§ ATC transponder and altitude reporting equipment and use.](https://www.ecfr.gov/current/title-14/section-91.215)
+***Link***      :: [§ 91.215 ATC transponder and altitude reporting equipment and use.](https://www.ecfr.gov/current/title-14/section-91.215)
 ***Description***      :: `= this.link`
 ***Related To***: [[Transponder]]
 ***Author*** :: [[FAA]]
+
+#### Useful Resources
+[[ADS-B and Mode C Requirements.jpg]]
 
 #### Key Quotes
 * ...no person may operate an aircraft in the airspace described \[below\] unless that aircraft is equipped with an operable coded radar beacon transponder...

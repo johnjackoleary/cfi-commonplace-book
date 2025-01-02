@@ -67,7 +67,7 @@ From [[AC 61-98]] Appendix F:
 ## External Pressure
 - [ ] [[Personal Minimums]] Worksheet
 - [ ] [[Risk Management]] ([[3P Model]])
-- [ ] Practical Test Standards ([[PTS]])/Airman Certification Standards ([[ACS]])
+- [ ] Airman Certification Standards ([[ACS]])
 
 ---
 
