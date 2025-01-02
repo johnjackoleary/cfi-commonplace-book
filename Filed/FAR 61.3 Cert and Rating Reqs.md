@@ -1,4 +1,4 @@
-***Link***      :: [Requirement for certificates, ratings, and authorizations](https://www.ecfr.gov/current/title-14/section-61.3)
+***Link***      :: [§ 61.3 Requirement for certificates, ratings, and authorizations](https://www.ecfr.gov/current/title-14/section-61.3)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 
