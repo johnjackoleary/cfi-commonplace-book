@@ -39,17 +39,19 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	- > [!note] [[WVFC]] requires W&B as part of solo ground review form
 4. Slow flight maneuvering
 	1. Set Up ([[CHAPS]])
-		1. Altitude limits (ACS calls for 1500' minimum recovery - too low!) -- start at > 3000' AGL
-		1. Be careful of overlaying Bravo
-		2. Select practice area, perform clearing turns
-		3. ID emergency field
-		4. Reduce power, maintaining altitude while aircraft slows down, extend gear and flaps at appropriate speeds if applicable
-	4. Reduce speed to ~5 knots above stall or stall-warning^[Can find this speed by continuing to slow until first indication of stall, then flying at 5kts faster]
-	5. Add power as necessary to maintain altitude
-	6. Maintain rudder coordination, adjust trim as necessary
-	7. S&L, turns, climbs, descents at various configurations (flaps and power)
-	8. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
-	9. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
+		1. Clear the area - perform clearing turns
+		2. Heading - choose a heading and set the heading bug
+		3. Altitude - choose a safe altitude and set the bug.
+			1. ACS calls for 1500' minimum recovery, but this is too low to start! -- start at > 3000' AGL
+			2. Be careful of overlaying Bravo
+		4. Position - Identify an emergency landing location
+		5. Settings - Reduce power, maintaining altitude while aircraft slows down, extend gear and flaps at appropriate speeds if applicable
+	3. Reduce speed to ~5 knots above stall or stall-warning^[Can find this speed by continuing to slow until first indication of stall, then flying at 5kts faster]
+	4. Add power as necessary to maintain altitude
+	5. Maintain rudder coordination, adjust trim as necessary
+	6. S&L, turns, climbs, descents at various configurations (flaps and power)
+	7. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
+	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
 5.  Aerodynamics of stalls
 	1. [[Stall]] occurs at critical angle of attack
 	2. Stall can occur at ANY airspeed, attitude, or power setting!
