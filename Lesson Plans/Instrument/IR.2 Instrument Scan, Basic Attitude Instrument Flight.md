@@ -21,7 +21,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 
 ### Lesson Elements
 1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA to Remember Fundamentals of Instrument Flight|CIA]] as a memory aid)
-2. Control/Performance ([[AFH Ch6]])
+2. Control/Performance ([[IFH]] Ch6)
 	1.  Pitch + Power = Performance
 	2. Control Instruments
 		1. Attitude Indicator
