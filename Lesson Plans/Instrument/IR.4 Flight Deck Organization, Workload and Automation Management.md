@@ -23,12 +23,12 @@ Ground 1 hour, sim/airplane 1 hour
 #### Flight Deck Organization
 1. [[Aviate, Navigate, Communicate]]
 2. [[SRM]] and [[CRM]] including crew communication and coordination ([[AC 120-51]])
-		1. CRM Basics
-			1. Communications Processes and Decision Behavior^[Briefings, Inquiry/Advocacy/Assertion, Crew Self-Critique (Decisions and Actions), Conflict Resolution, Communications and Decisionmaking]
-			2. Team Building and Maintenance
-		2. [[SRM]] basics
-			1. appropriate management of all resources (in and out of aircraft) available to the single pilot
-			2. How can resources be organized before the flight for better [[SRM]]?
+	1. CRM Basics
+		1. Communications Processes and Decision Behavior^[Briefings, Inquiry/Advocacy/Assertion, Crew Self-Critique (Decisions and Actions), Conflict Resolution, Communications and Decisionmaking]
+		2. Team Building and Maintenance
+	2. [[SRM]] basics
+		1. appropriate management of all resources (in and out of aircraft) available to the single pilot
+		2. How can resources be organized before the flight for better [[SRM]]?
 3. Digital Charts ([[EFB]])
 	1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
 	2. Cons - Battery, fragile, can’t update inflight, expensive, over heat
