@@ -11,6 +11,10 @@ tags:
 ### References
 - [[Commercial ACS]] Sec XI.A
 
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]
+- Postflight procedures
+
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
 
 ---

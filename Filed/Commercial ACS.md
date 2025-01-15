@@ -1,4 +1,4 @@
-***Link***      :: [Commercial Pilot ‒ Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/media/commercial_airplane_acs_change_1.pdf)
+***Link***      :: [Commercial Pilot ‒ Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/commercial_airplane_acs_7.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

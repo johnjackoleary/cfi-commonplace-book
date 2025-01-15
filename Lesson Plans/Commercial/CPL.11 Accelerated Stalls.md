@@ -50,7 +50,8 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 Client must understand and be able to demonstrate impending accelerated stalls to [[Commercial ACS]]. Recovery no lower than 3000’ AGL, speed below V<sub>A</sub>, acknowledge impending stall, and recover as specified by the examiner.
 
 ### Required Logbook Phraseology
-None
+For [[FAR 61.127 Flight Proficiency]]
+- Slow flight and stalls
 
 ### Required Homework
 None
