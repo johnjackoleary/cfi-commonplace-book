@@ -36,7 +36,8 @@ Ground 1 hour
 Demonstrate satisfactory knowledge, risk management, and skills for flight at higher altitudes where supplemental oxygen is required.
 
 ### Required Logbook Phraseology
-#todo :: TBD
+For [[FAR 61.127 Flight Proficiency]]
+- High-altitude operations
 
 ### Required Homework
 None

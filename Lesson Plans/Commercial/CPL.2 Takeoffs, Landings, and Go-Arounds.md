@@ -20,4 +20,8 @@ tags:
 - Normal landing within 200ft
 - Short field landing within 100ft
 
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]
+- Takeoffs, landings, and go-arounds
+
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*

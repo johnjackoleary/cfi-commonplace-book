@@ -83,7 +83,10 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 Learner understands similarities and differences between commercial and private certificates. They are able to start brushing up on weak areas of the [[FAR]]/[[AIM]], [[POH]]/[[AFM]], [[PHAK]], etc.
 
 ### Required Logbook Phraseology
-#todo :: any requirements to log?
+For [[FAR 61.127 Flight Proficiency]]
+- Preflight preparation
+- Preflight procedures
+- Airport operations
 
 ### Required Homework
 None

@@ -20,5 +20,9 @@ For Pilotage and Dead Reckoning:
 - Arrive within 3min of planned ETA
 - Altitude ±100ft, heading ±10°
 
+### Required Logbook Phraseology
+For [[FAR 61.127 Flight Proficiency]]
+- Navigation
+
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
 
