@@ -41,6 +41,9 @@ N/A
 	9. Seat adjustments
 5. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
 6. Engine start, including use of primer and propeller safety
+	1. Hot start, cold start, flooded start
+	2. What to do if it doesn't start, especially in cold weather
+		1. [[Starter Duty Cycle]]
 7. Taxiing Procedure
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
@@ -52,7 +55,7 @@ N/A
 8. Before Takeoff Checks / Runup
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
-	3. [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
+	3. [[Plans for Rejected Takeoff]] and [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
 9. Flight
 	1. Following roughly the [[PPL0.0 Optional Introductory or Demo Flight]] lesson
 10. Postflight Procedures
