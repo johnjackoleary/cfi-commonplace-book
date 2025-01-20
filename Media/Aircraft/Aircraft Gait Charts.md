@@ -6,6 +6,7 @@
 [[C172M Gait MPH.pdf]]
 [[C172N Gait.pdf]]
 [[C172S Gait.pdf]]
+[[PA28-161 Gait.pdf]]
 [[PA28-181 Gait KTS.pdf]]
 [[PA28-181 Gait MPH.pdf]]
 [[PA28-236 Gait.pdf]]
