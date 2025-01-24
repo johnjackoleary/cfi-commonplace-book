@@ -78,7 +78,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 	7. #G1000 specific topics: 
 		1. [[AHRS]] vs [[ADC]] – what are they, what do you do if they fail?
 		2. Electrical system – how do you know if the alternator has failed? 
-			1. https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/c172s-electrical-system/
+			1. [[C172 G1000 Electrical System Interactive Tool]]
 		3. If you are running on Standby battery – what still functions?
 			1. PFD, AHRS, [[ADC]], Com1, Nav1, stby inst lights, stby bus 
 			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, etc) 
