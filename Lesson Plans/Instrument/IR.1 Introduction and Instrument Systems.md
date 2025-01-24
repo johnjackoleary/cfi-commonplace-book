@@ -29,7 +29,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		1. Private: 70-90 hours, about $20k-$30k
 		2. Instrument 40-60 hours, about $15k-$20k
 		3. Simulation software and PC tools
-		4. Use of [[AATD]]/[[BATD]] and safety pilots to reduce costs
+		4. Use of [[AATD]]/[[BATD]] and [[safety pilot]] to reduce costs
 	2. [[IR.A Instrument Rating Flight Experience Requirements]]
 		1. Part of training can be done with a [[Safety Pilot]]
 	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
@@ -48,35 +48,37 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 	3. Instruments
 		1. Pitot-Static instruments: Altimeter (+/- 75’), Airspeed Indicator, Vertical Speed Indicator, pitot heat (use below 10C or 50F, in visible moisture) 
 			1. Pitot Heat check during preflight
-		2. Gyro instruments: Attitude indicator, Heading Indicator, Horizontal Situation Indicator, Turn Coordinator, vacuum systems 
+		2. Gyro instruments: Attitude indicator, Heading Indicator, Turn Coordinator, vacuum systems 
 			1. DG precession limit - 3° in 15 minutes (industry suggestion)
+			2. Horizontal Situation Indicator ([[HSI]])
 		3. Magnetic [[Compass Errors]]: check freely turns during taxi check
 		4. Electronic flight instrument display
 			1. normally includes primary flight display ([[PFD]]) and multi-function display ([[MFD]]), sometimes on a single screen
 			2. [[AHRS]] (Attitude and Heading Reference System) replaces conventional gyroscopic instrument
 				1. AHRS uses Inertial Measurement Units (IMUs) to detect roll, pitch, and yaw. It corrects for drift over time using magnetometers (to find magnetic north) and accelerometers (to find “down” from Earth’s gravity).
 			3. [[ADC]] does computations using pitot/static
-		8. Flight management system ([[FMS]]) (AIM 1-2-1)
+		5. Flight management system ([[FMS]]) (AIM 1-2-1)
 			1. Suite of sensors, receivers, and computers couples with navigation database
 			2. Provide performance and RNAV guidance to displays and automation
 			3. Inputs can be accepted from multiple sources - [[GPS]], [[DME]], [[VOR]], LOC
 			4. Inputs may be applied to navigation solution one at a time or with any combination
-		9. Multifunction display, if installed
+		6. Multifunction display, if installed
 			1. Used in conjunction with PFD
 			2. Contains various additional information (maps, weather, engine performance, etc)
-			3. Often can be used as a backup to PFD (e.g. reversionary mode)
-		10. [[TAA]] definition
-	4. Transponder and altitude encoders
+			3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
+		7. [[TAA]] definition
+	4. [[Transponder]] and altitude encoders
 		1. Blind Encoder (cheaper, no integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line
 		3. Mode A (squawk code + position) vs Mode C (squawk code + position + altitude)
-		4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C)
-		5. Set to ALT (Lights, Camera, Action, Time check)
+		4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C), GND
+		5. Set to ALT ([[Lights, Camera, Action, Time]] check)
 	5. [[ADS-B]] weather/traffic
 	6. Radio: Look for TX, RX
 	7. #G1000 specific topics: 
 		1. [[AHRS]] vs [[ADC]] – what are they, what do you do if they fail?
 		2. Electrical system – how do you know if the alternator has failed? 
+			1. https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/c172s-electrical-system/
 		3. If you are running on Standby battery – what still functions?
 			1. PFD, AHRS, [[ADC]], Com1, Nav1, stby inst lights, stby bus 
 			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, etc) 
@@ -86,9 +88,10 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		1. [[VOR]] Checks
 			1. 30 Day [[Ground-Based Navigation using VOR, DME, and ILS#VOR Checks]]
 			2. [[VOT]], GND VOR checkpoint, airborne VOR, Dual VOR
-		3. GPS 
+		3. GPS ([[Satellite Navigation using GPS and GNSS]])
 			1. [[WAAS]] vs non-WAAS
-			2. [[RAIM]] Check RAIM (RAIM prediction with old-style GPS, website: sapt.faa.gov)
+			2. [[RAIM]] 
+				1. Check RAIM (RAIM prediction with old-style GPS, website: sapt.faa.gov)
 			3. [Real-Time WAAS and GPS Monitoring](https://www.nstb.tc.faa.gov/realtime-plots.html)
 			4. [[GPS]] Status Page
 			5. Operational Checks
