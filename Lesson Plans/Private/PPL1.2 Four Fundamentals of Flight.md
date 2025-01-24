@@ -34,10 +34,6 @@ This follows the topics covered in a demo flight, if not previously flown.
 **Aerodynamic Principles**
 ![[Forces in Stabilized Flight]]
 
-**Discussion**
-- What happens, during straight-and-level flight, if you add throttle? Why?
-- What happens, during straight-and-level flight, if you extend flaps?  Why?
-
 **In Practice**
 1. Always be [[scanning for traffic]]!
 2. Use the visual horizon to maintain direction and pitch attitude ([[NoseReferenceForSL.jpeg|image]])
@@ -59,9 +55,6 @@ This follows the topics covered in a demo flight, if not previously flown.
 4. [[Overbanking Tendency]] means you need to apply a bit of opposite aileron to keep the bank angle constant.
 5. Back-pressure results in load factor > 1.0, and increased stall speed
 
-**Discussion**
-- What is the difference between 'slip' and 'skid'?  Which is more dangerous?
-
 **In Practice**
 1. Check for traffic (high wing plane - lift wing slightly before banking)
 2. Roll into turn while adding rudder, and pulling back lightly on the controls
@@ -76,6 +69,8 @@ This follows the topics covered in a demo flight, if not previously flown.
 - Different situations require climbs at Vx, Vy, or normal/cruise climb
 - It's useful to memorize power settings for repeatable climbs/descents
 - During climb, [[P-factor]] increases the need for right rudder
+- Q: What happens, during straight-and-level flight, if you add throttle? Why?
+- Q: What happens, during straight-and-level flight, if you extend flaps?  Why?
 
 **In Practice**
 
