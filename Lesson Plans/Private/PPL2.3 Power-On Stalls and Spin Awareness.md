@@ -55,6 +55,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	2. Trying to stretch a power-off glide
 	3. Climb-out stall that develops into spin (lots of [[P-factor]] during takeoff/go-around climb)
 	4. Iced up airframe
+	5. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
 8. Spin Recovery Procedure
 	1. Follow the [[POH]]!
 	2. [[PARE]] - Power Off - Ailerons neutral - Rudder opposite rotation - Elevator stick/yoke forward briskly. Then, neutralize rudder and recover from dive.
