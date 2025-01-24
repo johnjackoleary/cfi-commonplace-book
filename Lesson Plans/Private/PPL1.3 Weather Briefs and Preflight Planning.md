@@ -26,14 +26,14 @@ Develop initial knowledge of and sources for preflight briefings.
 
 ### Lesson Elements
 1. Preflight - [[PAVE]]
-	1. <u>P</u>ilot:
+	1. <u>P</u>ilot
 		1. [[IMSAFE]] checklist
 		2. Government ID, pilot license, and medical certificate - in possession ([[FAR 61.3]])
 		4. Currency for carrying passengers (day or night) - met ([[FAR 61.57 Recent Flight Experience]])
 	2. <u>A</u>ircraft
 		1. [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 		2.  Introduction to Weight & Balance
-	3. en<u>V</u>ironment:
+	3. en<u>V</u>ironment
 		1. Weather, airspace/[[TFR]]s, terrain, etc
 		2. [[All Available Information Concerning That Flight]] (most of the lesson is spent on this subpage)
 	4. <u>E</u>xternal Pressures

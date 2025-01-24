@@ -1,10 +1,12 @@
 # Key Takeaways
 - Refers to the general weather conditions pilots can expect at the surface.
-- [[VFR]], [[MVFR]], [[IFR]], [[LIFR]]
-	- LIFR (Low IFR). Ceiling less than 500 feet and/or visibility less than 1 mile.
-	- IFR. Ceiling 500 to less than 1,000 feet and/or visibility 1 to less than 3 miles.
-	- MVFR (Marginal VFR). Ceiling 1,000 to 3,000 feet and/or visibility 3 to 5 miles inclusive.
-	- VFR. Ceiling greater than 3,000 feet and visibility greater than 5 miles; includes sky clear.
+
+| Category |                Color                 | Ceiling Range | Visibility | 
+| -------- |:------------------------------------:| ------------- | ---------- |
+| [[VFR]]  |  <span style="color:green">█</span>  | >3000' AGL    | >5 SM      |
+| [[MVFR]] |  <span style="color:blue">█</span>   | 1000'-3000'   | 3-5 SM     |
+| [[IFR]]  |   <span style="color:red">█</span>   | 500' - 999'   | 1-3 SM     |
+| [[LIFR]] | <span style="color:magenta">█</span> | <500'         | <1 SM      |
 
 # Details
 

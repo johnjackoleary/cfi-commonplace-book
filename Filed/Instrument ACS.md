@@ -1,4 +1,4 @@
-***Link***      :: [Instrument Rating ‒ Airplane Airman Certification Standards](https://www.faa.gov/sites/faa.gov/files/training_testing/testing/acs/instrument_rating_acs_change_1.pdf)
+***Link***      :: [Instrument Rating ‒ Airplane Airman Certification Standards](https://www.faa.gov/training_testing/testing/acs/instrument_rating_airplane_acs_8.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 
