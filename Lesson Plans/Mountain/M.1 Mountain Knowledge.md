@@ -134,12 +134,13 @@ Background knowledge required for safe mountain flying.
 		1. Power Settings
 		2.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
 		3. May need to [[shuttle climb]]
+		4. Vx/Vy pitch attitudes in climb may be shallower
 	5. Enroute
 		1. Important to know wind direction (both from preflight and from signs while flying)
 		2. Updraft and Downdrafts
 		3. Flying along valleys -- choose a side, preferably updraft side, not the middle!
 		4. Consider looking for the next cylinder of air in a canyon where you can turn around continuously. This can be used as a safe place to circle if you are lost or need to resolve a situation.^[This was a tip given to Jack from a Swiss pilot. However, I haven't found good resources in the US to back this idea up, so take it with a grain of salt.]
-		5. Box Canyons
+		5. [[Box Canyon]]
 			1. Never fly up a canyon that you haven't already flown down so you know there's room to turn around
 			2. NEVER try to out climb the terrain in ANY airplane
 			3. Make sure canyon is sufficiently wide given your turn radius
@@ -162,6 +163,9 @@ Background knowledge required for safe mountain flying.
 	7. Landing -- will feel fast!
 		1. Leaning procedure
 		2. Expect higher [[GS]] and [[TAS]], but same [[IAS]]
+	8. Parking and Securing
+		1. Be mindful of parking on slopes, can drain fuel
+		2. May need chocks or rope/stakes
 
 ### Completion Standards
 Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.

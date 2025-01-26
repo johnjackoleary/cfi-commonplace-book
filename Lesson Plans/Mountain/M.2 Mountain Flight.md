@@ -6,10 +6,10 @@ tags: mountain, lesson
 Practice flying in a mountainous environment while demonstrating mountain flying knowledge, skills, and risk management.
 
 ### References
-See [[M.1 Mountain Knowledge]]
+See [[M.1 Mountain Knowledge#References]]
 
 ### Resources
-See [[M.1 Mountain Knowledge]]
+See [[M.1 Mountain Knowledge#Resources]]
 
 ### Builds On
 [[M.1 Mountain Knowledge]]

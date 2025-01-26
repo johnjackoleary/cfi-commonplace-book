@@ -2,7 +2,7 @@
 ![](https://www.youtube.com/watch?v=MlCK97CWd-A)
 
 > [!warning] Quote from [Box Canyon Turn](https://www.mountainflying.com/Pages/mountain-flying/box_canyon_turn.html)
-> The box canyon turn is an emergency procedure. The best advice is to avoid a situation that might require a box canyon turn course reversal.
+> The [[box canyon]] turn is an emergency procedure. The best advice is to avoid a situation that might require a box canyon turn course reversal.
 
 ***Definition***    :: 
 ***Source***         :: [[Mountain Flying Bible]]
