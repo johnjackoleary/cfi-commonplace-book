@@ -22,9 +22,8 @@ See [[Magnetic Deviation]]
 
 Useful Mnemonics: [[ANDS]], [[UNOS]]
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/UvhooB--P2s"  frameborder="0"></iframe>
-
-From *[Magnetic Compass Errors: Acceleration](https://www.youtube.com/watch?v=UvhooB--P2s)* by [[Aviation Theory]]
+> [!youtube] From [[Aviation Theory]]
+> ![](https://www.youtube.com/watch?v=UvhooB--P2s)
 
 ### Turning Errors
 > [!summary] From [[PHAK Ch8]]
@@ -35,9 +34,8 @@ Useful Mnemonics: [[NOSE]]
 > [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *Molasses in the Compass* by Andrew Godfrey 
 > I shared how I think of the fluid in the compass as molasses instead of a "[[Whiskey Compass]]" where on a northern heading, the molasses is thick, and the compass lags behind. The molasses is like warm syrup on a southern heading and leads the heading.
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/GxnvoRG6MDg"  frameborder="0"></iframe>
-
-From *[Magnetic Compass Errors: Turning](https://www.youtube.com/watch?v=GxnvoRG6MDg)* by [[Aviation Theory]]
+> [!youtube] Published by [[Aviation Theory]]
+> ![](https://www.youtube.com/watch?v=GxnvoRG6MDg)
 
 ---
 

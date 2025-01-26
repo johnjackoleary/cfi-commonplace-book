@@ -4,7 +4,10 @@ cssclasses:
 tags:
   - ppl
   - lesson
-aliases: [PPL.1, SOLO.1, PPL1.1]
+aliases:
+  - PPL.1
+  - SOLO.1
+  - PPL1.1
 ---
 ### Objective
 Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
@@ -33,12 +36,12 @@ N/A
 		3. Legal vs Safety
 	4. POH sections
 	5. Fuel sampling and fuel level
-		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/rya4YFDpsPs?start=193"  frameborder="0"></iframe>
-		1. From *[Aircraft Systems - 05 - Fuel System](https://www.youtube.com/watch?v=rya4YFDpsPs)* by [@ERAUSpecialVFR](https://www.youtube.com/@ERAUSpecialVFR)
-	6. Oil levels - see [[POH]] and club policies
-	7. Required documents on board - [[AR(R)OW]]
-	8. Flight deck organization
-	9. Seat adjustments
+		1. > [!youtube] Published by [[ERAU SpecialVFR]] 
+		   ![](https://www.youtube.com/watch?v=rya4YFDpsPs)
+	7. Oil levels - see [[POH]] and club policies
+	8. Required documents on board - [[AR(R)OW]]
+	9. Flight deck organization
+	10. Seat adjustments
 5. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
 6. Engine start, including use of primer and propeller safety
 	1. Hot start, cold start, flooded start

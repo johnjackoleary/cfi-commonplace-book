@@ -1,7 +1,13 @@
 ---
-cssclass: lesson
-tags: ppl, lesson
-aliases: [PPL.5, SOLO.5, PPL1.5]
+cssclasses:
+  - lesson
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.5
+  - SOLO.5
+  - PPL1.5
 ---
 
 ### Objective
@@ -63,8 +69,8 @@ N/A
 	1. Stuck microphones -- how to detect, how to respond
 	2. [[Light Gun Signals]]
 		1. Example
-			1. <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/nxoakUa8UqQ"  frameborder="0"></iframe>
-			2. From *[Real Light Gun Signals | ATC Tower](https://www.youtube.com/watch?v=nxoakUa8UqQ)* by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199)
+			1. > [!youtube] Published by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199) 
+			   > ![](https://www.youtube.com/watch?v=nxoakUa8UqQ)
 		2. Debugging common radio issues (volume low, cable disconnect)
 		3. Study and memorize the signals
 		4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
