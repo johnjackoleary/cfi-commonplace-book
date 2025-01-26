@@ -26,7 +26,7 @@ Completed before first lesson
 4. Assign Cross-Country Flight Plan Assignment
 
 ### Completion Standards
-Learner and [[CFII]] align on goals, plan, and schedule for [[BFR]].
+Learner and [[CFII]] align on goals, plan, and schedule for [[IPC]].
  
 ### Required Homework
 - [ ] [[IFR Regulatory Review Assignment]]
