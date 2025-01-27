@@ -85,7 +85,7 @@ Background knowledge required for safe mountain flying.
 			3. Mountain shadow can make valley airports dark early
 		3. Seasonal Considerations
 			1. Summer -- [[Hot, High, and Heavy]]
-			2. Winter -- Survival and options for emergency landings
+			2. Winter -- Survival and options for emergency landings; Icing
 		4. Wx information
 			1. [[Weather Brief]]
 			2. [[Area Forecast Discussion]]
@@ -115,6 +115,7 @@ Background knowledge required for safe mountain flying.
 		3. Winds more than 30kts at mountain tops
 		4. Unsuitable airport conditions
 	3. Abort on takeoff roll for insufficient power ([[50-70 Rule]])
+	4. Runway condition (Runway Condition Codes (RCCs))
 3. Flight Considerations
 	1. Preparation
 		1. Survival for off airport landing
@@ -138,6 +139,7 @@ Background knowledge required for safe mountain flying.
 	5. Enroute
 		1. Important to know wind direction (both from preflight and from signs while flying)
 		2. Updraft and Downdrafts
+			1. Use of autopilot
 		3. Flying along valleys -- choose a side, preferably updraft side, not the middle!
 		4. Consider looking for the next cylinder of air in a canyon where you can turn around continuously. This can be used as a safe place to circle if you are lost or need to resolve a situation.^[This was a tip given to Jack from a Swiss pilot. However, I haven't found good resources in the US to back this idea up, so take it with a grain of salt.]
 		5. [[Box Canyon]]
