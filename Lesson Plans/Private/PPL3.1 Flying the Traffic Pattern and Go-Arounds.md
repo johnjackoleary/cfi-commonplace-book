@@ -4,7 +4,10 @@ cssclasses:
 tags:
   - ppl
   - lesson
-aliases: [PPL.12, SOLO.12, PPL3.1]
+aliases:
+  - PPL.12
+  - SOLO.12
+  - PPL3.1
 ---
 
 ### Objective
@@ -137,9 +140,8 @@ GPS/Sentry/ADS-B In
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
 	7. Expecting CFI to fix a risky landing attempt (may not be possible!)
 
-> <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/evE3WmYAvVY"  frameborder="0"></iframe>
-> 
-> From *[Go Around Song (Lyric and Music Video!) - Extended Version - Flight ATC](https://www.youtube.com/watch?v=evE3WmYAvVY)* by [@FlightATC](https://www.youtube.com/@FlightATC)
+> [!youtube] Published by [@FlightATC](https://www.youtube.com/@FlightATC)
+> ![](https://www.youtube.com/watch?v=evE3WmYAvVY)
 
 ### Completion Standards
 Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with AIM recommended procedures, and maintaining awareness of and proper spacing from other aircraft.

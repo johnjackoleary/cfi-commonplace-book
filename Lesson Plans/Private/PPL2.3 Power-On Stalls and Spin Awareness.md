@@ -32,7 +32,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 
 1. Power On Stall Maneuver
 	1. Simulates stall during climb after takeoff
-	2. Clearing Turns, ID Emergency Field, Outside Reference
+	2. [[CHAPS]]
 	3. Enter slow flight in takeoff configuration
 	4. At [[Vr]], add >65% power
 	5. Pitch up slowly for full stall, establish gentle turn if needed
@@ -68,7 +68,8 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	5. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
 9. Spin Recovery Procedure
 	1. Follow the [[POH]]!
-	2. [[PARE]] - Power Off - Ailerons neutral - Rudder opposite rotation - Elevator stick/yoke forward briskly. Then, neutralize rudder and recover from dive.
+	2. [[PARE]]/[[PARENT]] - Power Off - Ailerons neutral - Rudder opposite rotation - Elevator stick/yoke forward briskly. Then, neutralize rudder and recover from dive.
+	3. What if we enter a spin today?
 10. Practicing Spins and Recoveries (optional)
 	1. Before departure
 		1. Confirm aircraft W&B in utility/acrobatic category approved for spins
