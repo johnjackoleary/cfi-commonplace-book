@@ -85,8 +85,11 @@ Background knowledge required for safe mountain flying.
 			2. Many folks prefer not to fly after noon
 			3. Mountain shadow can make valley airports dark early
 		3. Seasonal Considerations
-			1. Summer -- [[Hot, High, and Heavy]]
-			2. Winter -- Survival and options for emergency landings; Icing
+			1. Summer
+				1. [[Hot, High, and Heavy]]
+			2. Winter
+				1. Survival and options for emergency landings
+				2. [[Ice Hazards and Aircraft Icing]]
 		4. Wx information
 			1. [[Weather Brief]]
 			2. [[Area Forecast Discussion]]
