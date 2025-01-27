@@ -61,12 +61,13 @@ Background knowledge required for safe mountain flying.
 			2. Takeoff/Landing Calculations
 				1. [[50-70 Rule]]
 				2. Higher [[TAS]] and [[GS]] on landing, same [[IAS]]
+				3. Impact of downslope, grass, etc^[[[AC 91-79]] has more info on this]
 			3. Climb performance degradation
 				1. May require circling to gain altitude ([[Shuttle Climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
 			4. Power and performance impacts
 				1. Power in normally aspirated engines decreases 3% for every 1000'^[From [[Mountain Flying]]]
-			2. Service ceiling consideration
+			5. Service ceiling consideration
 				1. Remember that Vx and Vy converge at higher altitudes ([[Vx vs Vy at Higher Altitudes.jpeg|image]])
 		2. Selecting an aircraft for the mission
 			1. Some experts recommend that 160 horsepower should be considered the absolute minimum for the airplane, especially when the pilot lacks significant mountain flying experience. 
@@ -78,7 +79,7 @@ Background knowledge required for safe mountain flying.
 	3. Environment
 		1. Account for [[Density Altitude]]
 			1. > [!quote] From [CFI on Reddit](https://www.reddit.com/r/flying/comments/okujin/comment/h5aldtx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)^[So take it with a grain of salt]
-			> Remember the things you can do to help reduce the effects: weight (reduce pax/baggage), wait (for the temperature to decrease), wait (for winds to increase), and lean.
+			> Remember the things you can do to help reduce the effects: **weight** (reduce pax/baggage), **wait** (for the temperature to decrease), **wait** (for winds to increase), and **lean**.
 		2. Time of day
 			1. Often better in morning (cooler, less winds, less turbulent)
 			2. Many folks prefer not to fly after noon
@@ -115,7 +116,7 @@ Background knowledge required for safe mountain flying.
 		3. Winds more than 30kts at mountain tops
 		4. Unsuitable airport conditions
 	3. Abort on takeoff roll for insufficient power ([[50-70 Rule]])
-	4. Runway condition (Runway Condition Codes (RCCs))
+	4. Runway Condition Codes ([[RwyCC Assessment Matrix.png]])^[See [[AC 91-79]] for more info]
 3. Flight Considerations
 	1. Preparation
 		1. Survival for off airport landing
