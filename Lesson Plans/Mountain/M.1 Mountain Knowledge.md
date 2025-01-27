@@ -61,12 +61,13 @@ Background knowledge required for safe mountain flying.
 			2. Takeoff/Landing Calculations
 				1. [[50-70 Rule]]
 				2. Higher [[TAS]] and [[GS]] on landing, same [[IAS]]
+				3. Impact of downslope, grass, etc^[[[AC 91-79]] has more info on this]
 			3. Climb performance degradation
 				1. May require circling to gain altitude ([[Shuttle Climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
 			4. Power and performance impacts
 				1. Power in normally aspirated engines decreases 3% for every 1000'^[From [[Mountain Flying]]]
-			2. Service ceiling consideration
+			5. Service ceiling consideration
 				1. Remember that Vx and Vy converge at higher altitudes ([[Vx vs Vy at Higher Altitudes.jpeg|image]])
 		2. Selecting an aircraft for the mission
 			1. Some experts recommend that 160 horsepower should be considered the absolute minimum for the airplane, especially when the pilot lacks significant mountain flying experience. 
@@ -78,14 +79,17 @@ Background knowledge required for safe mountain flying.
 	3. Environment
 		1. Account for [[Density Altitude]]
 			1. > [!quote] From [CFI on Reddit](https://www.reddit.com/r/flying/comments/okujin/comment/h5aldtx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)^[So take it with a grain of salt]
-			> Remember the things you can do to help reduce the effects: weight (reduce pax/baggage), wait (for the temperature to decrease), wait (for winds to increase), and lean.
+			> Remember the things you can do to help reduce the effects: **weight** (reduce pax/baggage), **wait** (for the temperature to decrease), **wait** (for winds to increase), and **lean**.
 		2. Time of day
 			1. Often better in morning (cooler, less winds, less turbulent)
 			2. Many folks prefer not to fly after noon
 			3. Mountain shadow can make valley airports dark early
 		3. Seasonal Considerations
-			1. Summer -- [[Hot, High, and Heavy]]
-			2. Winter -- Survival and options for emergency landings
+			1. Summer
+				1. [[Hot, High, and Heavy]]
+			2. Winter
+				1. Survival and options for emergency landings
+				2. [[Ice Hazards and Aircraft Icing]]
 		4. Wx information
 			1. [[Weather Brief]]
 			2. [[Area Forecast Discussion]]
@@ -115,6 +119,7 @@ Background knowledge required for safe mountain flying.
 		3. Winds more than 30kts at mountain tops
 		4. Unsuitable airport conditions
 	3. Abort on takeoff roll for insufficient power ([[50-70 Rule]])
+	4. Runway Condition Codes ([[RwyCC Assessment Matrix.png]])^[See [[AC 91-79]] for more info]
 3. Flight Considerations
 	1. Preparation
 		1. Survival for off airport landing
@@ -134,12 +139,14 @@ Background knowledge required for safe mountain flying.
 		1. Power Settings
 		2.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
 		3. May need to [[shuttle climb]]
+		4. Vx/Vy pitch attitudes in climb may be shallower
 	5. Enroute
 		1. Important to know wind direction (both from preflight and from signs while flying)
 		2. Updraft and Downdrafts
+			1. Use of autopilot
 		3. Flying along valleys -- choose a side, preferably updraft side, not the middle!
 		4. Consider looking for the next cylinder of air in a canyon where you can turn around continuously. This can be used as a safe place to circle if you are lost or need to resolve a situation.^[This was a tip given to Jack from a Swiss pilot. However, I haven't found good resources in the US to back this idea up, so take it with a grain of salt.]
-		5. Box Canyons
+		5. [[Box Canyon]]
 			1. Never fly up a canyon that you haven't already flown down so you know there's room to turn around
 			2. NEVER try to out climb the terrain in ANY airplane
 			3. Make sure canyon is sufficiently wide given your turn radius
@@ -162,6 +169,9 @@ Background knowledge required for safe mountain flying.
 	7. Landing -- will feel fast!
 		1. Leaning procedure
 		2. Expect higher [[GS]] and [[TAS]], but same [[IAS]]
+	8. Parking and Securing
+		1. Be mindful of parking on slopes, can drain fuel
+		2. May need chocks or rope/stakes
 
 ### Completion Standards
 Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.

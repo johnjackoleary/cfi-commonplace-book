@@ -1,7 +1,15 @@
 ---
-cssclass: lesson
-tags: ppl, lesson
-aliases: [PPL.6, PPL.8, SOLO.6, SOLO.8, PPL2.1]
+cssclasses:
+  - lesson
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.6
+  - PPL.8
+  - SOLO.6
+  - SOLO.8
+  - PPL2.1
 ---
 ### Objective
 Develop knowledge, risk management and skills associated with maneuvers during [[slow flight]] and power-off stalls. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
@@ -22,9 +30,9 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 ### Lesson Elements
 1. What is slow flight? Why do we practice this?
 	1. Flight at high [[AOA]], close to [[stall]], or stall warning
-		1. <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/8WKNrfFDaYM?start=1322"  frameborder="0"></iframe>
-		2. From [The Secret of Flight 4: Discovery of Dynamic Lift](https://www.youtube.com/watch?v=8WKNrfFDaYM) by [University of Iowa](https://www.youtube.com/@universityofiowa)
-	2. We experience this during takeoffs, landings, go-arounds
+		1. > [!youtube] Published by [University of Iowa](https://www.youtube.com/@universityofiowa)
+		   ![](https://www.youtube.com/watch?v=8WKNrfFDaYM&start=1322)
+	3. We experience this during takeoffs, landings, go-arounds
 2. Aerodynamics of slow flight
 	1. Angle-of-Attack ([[AOA]]), airspeed ([[Angle of Attack vs Speed.jpeg|image]]), [[Load Factor]] (such as in turn, [[Forces in Level Turn.jpeg|image]]), aircraft configuration, weight, attitude
 		1. ![[Angle of Attack Impact to Pressure on Airfoil.jpeg]]

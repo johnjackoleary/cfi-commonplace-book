@@ -1,7 +1,14 @@
 ---
-cssclass: lesson
-tags: ppl, lesson, maneuver
-aliases: [PPL.16, SOLO.16, PPL3.5]
+cssclasses:
+  - lesson
+tags:
+  - ppl
+  - lesson
+  - maneuver
+aliases:
+  - PPL.16
+  - SOLO.16
+  - PPL3.5
 ---
 ### Objective
 Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
@@ -31,9 +38,9 @@ Overview of short- and soft-field operations
 	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]
 	6. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
 	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
-	8. Here's how **NOT** to do it: [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/xXz7UyPTytE"  frameborder="0"></iframe>
-
+	8. Here's how **NOT** to do it: 
+	   > [!youtube] [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)
+	   > ![](https://www.youtube.com/watch?v=xXz7UyPTytE)
 
 2. Landing
 	1. Complete pre-landing checklist ([[GUMPS]])

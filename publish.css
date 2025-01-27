@@ -1,6 +1,11 @@
 :root {
   /* ... By default, nothing is placed within :root in Publish. However, CSS variables here are considered global, and accessible to all sub-elements such as body and .theme-light. */
 }
+/* Custom theme for Youtube callouts */
+.callout[data-callout="youtube"] {
+    --callout-color: 255, 0, 0;
+    --callout-icon: youtube;
+}
 
 .published-container {  
   /* ... CSS variables for Publish that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */

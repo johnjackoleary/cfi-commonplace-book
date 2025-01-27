@@ -2,7 +2,8 @@
   "cssTheme": "CFIJack",
   "enabledCssSnippets": [
     "dataview-inline-fields",
-    "radio-comms"
+    "radio-comms",
+    "youtube-embed"
   ],
   "baseFontSize": 16,
   "theme": "moonstone",

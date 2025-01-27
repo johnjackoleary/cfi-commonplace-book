@@ -12,9 +12,9 @@
 # Details
 ## Wingtip Vortices
 ![[Wake Vortex Generation.jpeg]]
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/0HIddtgGzDE"  frameborder="0"></iframe>
 
-[ADB Antonov An-225 Mriya UR-82060 Amazing landing in the fog / 9.01.2022 RWY27 EPRZ Rzeszów Jasionka](https://www.youtube.com/watch?v=0HIddtgGzDE) by [EPML Flight & Spotting](https://www.youtube.com/@epmlspotter)
+> [!youtube] Published by [EPML Flight & Spotting](https://www.youtube.com/@epmlspotter)
+> ![](https://www.youtube.com/watch?v=0HIddtgGzDE)
 
 ## Areas To Avoid
 ![[Avoid Wake Turbulence Below Path.jpeg]]
@@ -22,9 +22,8 @@
 ![[Vortices in Crosswind Linger.jpeg]]
 
 ## Examples
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/9YvL62T3Hm0"  frameborder="0"></iframe>
-
-[Hazardous Helicopter Wake Turbulence!](https://www.youtube.com/watch?v=9YvL62T3Hm0) by [blancolirio](https://www.youtube.com/@blancolirio)
+> [!youtube] Published by [blancolirio](https://www.youtube.com/@blancolirio)
+> ![](https://www.youtube.com/watch?v=9YvL62T3Hm0)
 
 # Additional Resources
 - [[AC 90-23]]
