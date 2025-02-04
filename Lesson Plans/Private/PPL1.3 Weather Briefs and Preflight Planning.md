@@ -41,6 +41,17 @@ Develop initial knowledge of and sources for preflight briefings.
 		2. Early expectation setting with passengers, having backup plans, etc
 		3. Bottom line: Don't let yourself be rushed; Don't go if something's not right
 
+> [!note] Expectations on Weather Briefs During Training
+> While you are expected to get a weather brief before each flight, what you'll do with it changes as you learn more.
+> 
+> Initiailly (PPL1.\*-PPL2.\*), we'll discuss a go/no-go decision each lesson. I'll heavily guide the conversation as you start to develop a framework for good weather [[ADM]].
+> 
+> As you get closer to solo, the go/no-go may look like "I wouldn't fly solo, but I'd like ot practice with you"
+> 
+> In to xc, I'll push back if I think there's a good day to learn something, but increasing the decision is yours.
+> 
+> Nearing checkride, the decision is completely yours. I'll push back if there's a specific thing worth experiencing, but generally as long as it's safe and legal to be up, we can fly if you'd like. These flights can be the most eye-opening, as going when there's an Airmet for turbulence may really be miserable to be up, even if it is safe.
+
 > [!note]
 > The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]]
 

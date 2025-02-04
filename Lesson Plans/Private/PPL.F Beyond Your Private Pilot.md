@@ -14,6 +14,10 @@ Some initial suggestions are in [[PPL.E Suggestions for XC Activities and Destin
 - [Fate Is the Hunter](https://en.wikipedia.org/wiki/Fate_Is_the_Hunter)
 - [101 Things To Do With Your Private Pilot's License](https://g.co/kgs/BE8zwop)
 
+# Groups
+- Bay Area Pilots Facebook Group
+- Mailing List for [[San Carlos Airport|KSQL]]
+
 # Keeping Proficient with [[WINGS - Pilot Proficiency Program|WINGS]] 
 By completing your private pilot checkride, you can claim WINGS credit for all three basic ground and knowledge credits. See [[WINGS.PPL Initial Certification - Private Pilot]] for more information on this.
 
