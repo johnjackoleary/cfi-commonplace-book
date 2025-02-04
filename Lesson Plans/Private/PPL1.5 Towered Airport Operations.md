@@ -42,7 +42,7 @@ N/A
 		3. If in doubt, readback full instructions
 	5. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
 	6. Mentally rehearse what you will say before keying the mic.
-	7. If in doubt, ask for clarification or request "say again"
+	7. If in doubt, ask for clarification or request "say again" (or "say again *\<element\>*")
 	8. Anticipate the response and pay attention for any unusual elements
 7. Radio communications practice (ATC phraseology):
 	1. [[Tower Radio Communication Examples]]
@@ -52,7 +52,7 @@ N/A
 		2. Wilco - I understand and will comply (when a readback is not needed)
 		3. Affirm(ative) / Negative - Yes / No
 		4. (Negative) Contact - I (do not) have the aircraft in sight
-		5. Say Again - Please repeat
+		5. Say Again (*\<element\>*") - Please repeat (*specific info*, e.g. altitude)
 		6. Standby - Please wait, and there's no need to acknowledge this standby
 		7. Unable, *reason* - I cannot do that request because of *reason*
 	4. Handling traffic advisories: negative contact, looking, or traffic in sight
@@ -99,6 +99,7 @@ Learner must demonstrate good radio communications and etiquette as specified in
 
 ### Recommended Homework 
 - [ ] Listen to www.liveatc.net tower + ground for training airport
+- [ ] Consider [Radio Communications Made Easy](https://pilotinstitute.com/course/radio-communications/) from [[Pilot Institute]] or [Pilot Edge](https://pilotedge.net), if looking to practice
 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

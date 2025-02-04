@@ -25,6 +25,17 @@ Develop initial knowledge of and sources for preflight briefings.
 3 hour ground
 
 ### Lesson Elements
+> [!summary]- Expectations on Weather Briefs During Training
+> Plan to get a weather brief before each flight.
+> 
+> Early in training, we'll discuss each lesson's go/no-go decision. Please message what you're seeing and if we could fly. That said, go/no-go will primarily be a [[CFI]] decision at this point, while you're developing weather [[ADM]].
+> 
+> Closer to solo, the go/no-go is more nuanced. Would you fly if you were going solo? What about flying with an instructor on board?
+> 
+> As we start cross-country, more of the PIC responsibility moves to you for go/no-go. I'll push back if it's a good day to practice something in particular, but increasingly the decision to fly is yours.
+> 
+> Nearing checkride, the go/no-go decision is completely yours. I'll make suggestions if there's a specific reason for learning, but generally, as long as it's safe and legal, we'll fly if you decide to.^[These flights are sometimes the most eye-opening, as going when there's an [[AIRMET]] Tango at altitude may be safe but miserable.]
+
 1. Preflight - [[PAVE]]
 	1. <u>P</u>ilot
 		1. [[IMSAFE]] checklist
