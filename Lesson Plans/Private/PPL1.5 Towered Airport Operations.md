@@ -99,7 +99,8 @@ Learner must demonstrate good radio communications and etiquette as specified in
 
 ### Recommended Homework 
 - [ ] Listen to www.liveatc.net tower + ground for training airport
-- [ ] Consider [Radio Communications Made Easy](https://pilotinstitute.com/course/radio-communications/) from [[Pilot Institute]] or [Pilot Edge](https://pilotedge.net), if looking to practice
+- [ ] Consider [Radio Communications Made Easy](https://pilotinstitute.com/course/radio-communications/) from [[Pilot Institute]]
+- [ ] Consider [Pilot Edge](https://pilotedge.net) in a #sim, if looking for realistic practice^[Example of Pilot Edge [here](https://www.youtube.com/watch?v=N2G-mwXZkfA). Jack has heard really good reports from folks who use it.]
 
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
