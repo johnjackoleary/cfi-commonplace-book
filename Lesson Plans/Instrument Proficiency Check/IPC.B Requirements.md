@@ -27,4 +27,4 @@ The [[Instrument ACS]] notes the following areas as minimum required tasks for a
 #endorsement 
 
 > [!tip]
-> The goal of an [[IPC]] is to get the learner back to roughly the same proficiency they were at their checkride.
+> The goal of an [[IPC]] is to get the learner back to the proficiency they were at their checkride.
