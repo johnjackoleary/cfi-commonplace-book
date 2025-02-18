@@ -4,11 +4,19 @@ A memory aid checklist for executing an emergency landing.
 
 **Details**: 
 - **Airspeed** - Establish best glide speed, which maximizes your landing options
-- **Best Landing Spot** - Survey the area and choose one
-- **Checklist** - Have the POH checklist for engine restart and emergency landing handy, and follow it
-- **Declare** - Squawk 7700 and tell ATC you're declaring an emergency
-- **Execute** - Fly in a spiral down to your chosen landing spot, arriving at the right altitude and direction to land with minimum speed and the fewest obstacles
+- **Best Landing Spot** - Survey the area and choose one^[Hopefully you already had one in mind! Some people think of this liek [[Tarzan swinging vine to vine]]]
+- **Checklist** for engine restart
+	- Flow from memory, then..
+	- Back it up with the checklist
+- **Declare** - 
+	- Squawk 7700
+	- Tell ATC you're declaring an emergency^[They may ask follow-up questions. Remember to [[Aviate, Navigate, Communicate]], and feel free to ignore them if it helps focus.]
+- **Execute** - Follow the engine failure and emergency landing checklist. Generally:
+	- Secure fuel and electrical systems
+	- Secure the cabin
+	- Fly in a spiral down to your chosen landing spot
+	- Arriving at the right altitude and direction to land with minimum speed and the fewest obstacles
 
-See [[PPL3.4 Emergency Landings]] for more detail.
+See [[PPL3.4 Emergency Landings]] for more details.
 
 #acronym 

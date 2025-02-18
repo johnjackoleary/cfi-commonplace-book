@@ -42,7 +42,7 @@ Ground 1.5 hours
 	4. [[TEC]] routes
 4. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach, Departure, Center)
-	2. Radar and transponders 
+	2. [[Radar]] and [[transponder]]s 
 	3. [[ADS-B]]
 	4. [[FSS]]
 5. Alternates and Diversions
