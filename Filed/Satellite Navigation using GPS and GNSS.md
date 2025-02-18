@@ -9,7 +9,8 @@
 1. Infrastructure and Features
 	1. [[GNSS]]
 		1. [[GPS]] Constellation
-			1. 24 Satellites, 12,000 miles above sfc of earth, each orbit earth 2x per 24 hours
+			1. 31 Satellite, ~11,000 miles above sfc of earth, each orbit earth 2x per 24 hours
+			2. Minimum of 24 satellites is required in full constellation
 		2. Calculating position
 			1. Calculates distance between satellites and receivers via atomic clock
 	2. [[RAIM]] + Satellites Required

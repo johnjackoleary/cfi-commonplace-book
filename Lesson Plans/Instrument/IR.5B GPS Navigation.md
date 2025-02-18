@@ -26,6 +26,7 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 	1. Required Preflight
 		1. Check for DB alerts (e.g. [From Garmin](https://www.garmin.com/en-US/aviationalerts/))^[If an approach was published with errors, you want to know!]
 		2. Review the self-test output: includes things like displaying a specific course, lateral/vertical deflection, etc^[This check is part of Section 4 added by the GPS [[STC]].]
+		3. WAAS availability (https://www.nstb.tc.faa.gov/ and [[WAAS LPV.png]])
 	2. Installation approval and operational approval required
 	3. TSO 129/196 (Non-WAAS) requires alternate approved and operational means of navigation
 	4. Expired database - https://www.ifr-magazine.com/charts-plates/is-expired-data-usable/
@@ -38,23 +39,23 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 		1. Within 31nm of destination
 		2. In term on dep until beyond 30nm from departure
 	3. Approach - ±0.3nm 
-		1. 2.0nm from FAF
+		1. 2.0nm from [[FAF]]
 6. GPS Functions
 	1. GPS Approaches		  
-		1. LNAV, LP
-		2. LPV, LNAV/VNAV, LNAV+V
+		1. [[LNAV]], [[LP]]
+		2. [[LPV]], LNAV/VNAV, LNAV+V
 		3. [The 4 Different Types of Vertical Guidance in IFR Flying](https://www.boldmethod.com/shorts/shorts.ifr.0019/) from [[Bold Method]]
 	2. Flight Plan
 	3. Direct to
-	4. OBS
+	4. [[OBS]]
 	5. Airport/NAVAID Information
-	6. Identifying waypoints (e.g. for DME)
+	6. Identifying waypoints (e.g. for [[DME]])
 	7. Flight calculations
 7. Managing risk of various GPS idiosyncrasies
 	1. How to suspend GPS sequencing for multiple turns in a hold? 
 	2. How to resume approach after holding? 
 	3. Pop-up or other method to resume sequencing to missed approach point
-	4. Use of vectors to final (VTF) with GPS (don’t do it!) 
+	4. Use of vectors to final ([[VTF]]) with GPS (don’t do it!) 
 		1. If ATC changes their mind, you've already deleted all your points^[This was most true of older GPS models, many newer ones don't automatically delete all points]
 		2. Best to load full procedure and activate a specific leg along the approach when you're vectored in
 	5. Using GPS for guidance on ILS and VOR approaches – how and when to transition from GPS guidance to VOR or Localizer? Auto or manual?
