@@ -37,15 +37,16 @@ Ground 1 hour, sim/airplane 1 hour
 	2. Cons - Expire, no search function, take space and weight
 5. Mounting
 	1. Yoke, kneeboard, suction
+	2. Turbulence
 6. Chart and database currency
 	1. Every 56 days (8 weeks)
 	2. [[FAA]] vs. Jeppesen
 
 #### IFR Flows
-1. Use of BOTH written and mental checklists 
+7. Use of BOTH written and mental checklists 
 	1. Use mental checklists and flow patterns 
 	2. Double check and back-up with written checklists 
-2. Mental checklists 
+8. Mental checklists 
 	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
 	2. Before taking runway: [[Lights, Camera, Action, Time]]
 	4. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]
@@ -55,10 +56,10 @@ Ground 1 hour, sim/airplane 1 hour
 	8. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Set, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
 	9. Before landing: [[GUMPS]]
 	10. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
-3. [[SRM]]
+9. [[SRM]]
 	1. Verbalize flows and checklists, changes, and "[[Two Most Important Things in Aviation|next two things]]"
-	2. Callouts with 1000' and 500' to be before a level off or [[DA]]
-4. Common Errors 
+	2. Callouts with 1000', 500', 200', 100' to be before a level off or [[DA]]
+10. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
 	3. Diverting attention during maneuvers like turning, or before reaching altitude. 

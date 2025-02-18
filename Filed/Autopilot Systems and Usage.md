@@ -18,7 +18,7 @@
 		3. Example GFC 500 [Autopilot Preflight Test](https://www.youtube.com/watch?v=PMRVKs64Rtw) by [Holladay Aviation](https://www.youtube.com/@HolladayAviation)
 	2. Autopilot usage, modes, GPS integration, altitude functions 
 	3. Ways to disengage
-	4. Limitations
+	4. Limitations from POH
 5. [[VVM]]: Verbalize, Verify, Monitor 
 6. Autopilot Function Demonstrations (Sim or Plane)
 	1. Pitch and Roll
