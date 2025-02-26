@@ -48,7 +48,7 @@ Ground 1.5 hours
 		4. Type of flight plan (only required for reports to FSS…not to center or approach)
 		5. Estimated time of arrival at the next reporting point
 		6. Name of the reporting point after that
-2. Clearances 
+2. Clearances ([[Sample IFR Clearances]])
 	1. When are clearances required? [[FAR 91.173 ATC Clearance Reqd|FAR 91.173]]
 	2. How to obtain clearance
 		1. Clearance Delivery/GND at Towered Airport
@@ -60,7 +60,7 @@ Ground 1.5 hours
 		3. Altitude 
 		4. Frequency 
 		5. Transponder code 
-	4. Clearance shorthand (IFH Appendix A)
+	4. Clearance shorthand ([[IFH]] Appendix A)
 	5. “At Pilots Discretion” ([[AIM 4]]-4-10)
 	6. VFR on top ([[AIM 4]]-4-8)
 	7. Departure Restrictions ([[AIM 5]]-2-7)
