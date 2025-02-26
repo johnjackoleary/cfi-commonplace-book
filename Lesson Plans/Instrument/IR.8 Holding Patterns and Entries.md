@@ -50,11 +50,11 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 			1. If it's "painful" (wrist rotating to outside of body), **teardrop**^[Tears for the pain 😢]
 			2. If not painful (wrist rotating toward body), **parallel**
 			3. For anything beyond 70° of teardrop and 110° of parallel, **direct**
-		3. Method 3: No-Math Hold Entry / Visualize the approach^[from Feb 2025 of [[IFR Magazine]]]
+		3. Method 3: No-Math Hold Entry / Visualize the approach
 			1. [[TLAR]] method, and not amusing to a [[DPE]]
 			2. > [!quote] *Holding Entry* from [[IFR Magazine]], Feb 2025
-			> 1. If your heading to the holding fix takes you across the fix and outside the hold, that is a parallel. You would turn as appropriate, to parallel the inbound course for one minute before turning back towards the hold to the holding fix, again, per the AIM.
-			> 2. If your heading takes you across the holding fix and then into the hold, that is a teardrop entry. Crossing the holding fix, proceed as per the AIM.
+			> 1. If your heading to the holding fix takes you across the fix and outside the hold, that is a parallel. You would turn as appropriate, to parallel the inbound course for one minute before turning back towards the hold to the holding fix, again, per the [[AIM]].
+			> 2. If your heading takes you across the holding fix and then into the hold, that is a teardrop entry. Crossing the holding fix, proceed as per the [[AIM]].
 			> 3. If your heading is taking you directly to the fix or navaid that makes up the hold, and you are able to simply, directly make the correct turn entering the hold, then that is a direct entry.
 		4. Method 4: 'Draw' the entry on the heading indicator
 			1. #todo :: Add more info on this method
