@@ -119,7 +119,7 @@ Background knowledge required for safe mountain flying.
 		3. Winds more than 30kts at mountain tops
 		4. Unsuitable airport conditions
 	3. Abort on takeoff roll for insufficient power ([[50-70 Rule]])
-	4. Runway Condition Codes ([[RwyCC Assessment Matrix.png]])^[See [[AC 91-79]] for more info]
+	4. Runway Condition Codes ([[RwyCC Assessment Matrix.png]] and [[Runway Conditions and Runway Condition Assessment Matrix]])^[See [[AC 91-79]] for more info]
 3. Flight Considerations
 	1. Preparation
 		1. Survival for off airport landing

@@ -4,7 +4,7 @@ A memory aid checklist for executing an emergency landing.
 
 **Details**: 
 - **Airspeed** - Establish best glide speed, which maximizes your landing options
-- **Best Landing Spot** - Survey the area and choose one^[Hopefully you already had one in mind! Some people think of this liek [[Tarzan swinging vine to vine]]]
+- **Best Landing Spot** - Survey the area and choose one^[Hopefully you already had one in mind! Some people think of this like [[Tarzan Swinging Vine to Vine]]]
 - **Checklist** for engine restart
 	- Flow from memory, then..
 	- Back it up with the checklist

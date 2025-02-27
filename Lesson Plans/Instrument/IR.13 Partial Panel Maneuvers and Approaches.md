@@ -45,11 +45,12 @@ Ground 1 hour, simulator and/or airplane 1 hour
 	4. G1000 partial panel operations: See Garmin guidance doc ([[IR.C Important References to Study]])
 4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
 5. ATC notification 
-	1. Can also always ask for a delay vector
+	1. May be required, likely good idea ([[FAR 91.187 IFR Malfunction Reports]])
+	2. Can also always ask for a delay vector
 6. No-gyro [[PAR]] approaches and [[ASR]] approaches 
 7. [[Human Factors]], especially [[Illusions Leading to Spatial Disorientation]]
 8. Common errors: 
-	1. Slow to recognize failure could result in unusual attitude 
+	1. Slow to recognize failure could result in an unusual attitude 
 	2. Overcontrolling with partial panel 
 
 ### Completion Standards

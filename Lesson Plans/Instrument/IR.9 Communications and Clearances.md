@@ -26,7 +26,7 @@ Ground 1.5 hours
 ### Lesson Elements
 1. Communications
 	1. Priorities: Aviate, Navigate, Communicate 
-	2. Required position reports ([[MARVELOUS VFR C500]]) - ([[AIM 5]]-3-3)
+	2. Required reports ([[MARVELOUS VFR C500]]) - ([[AIM 5]]-3-3)
 		1. Missed approach
 		2. Airspeed changes more than 10 knots or 5 percent
 		3. Reaching a holding fix
@@ -41,14 +41,16 @@ Ground 1.5 hours
 		12. Radio or nav failures
 		13. Compulsory reporting points (no radar)
 		14. 500 FPM climb or descent unable. 
-	3. Position report structure ([[PTATEN]] mnemonic) ([[AIM 5]]-3-2(d))
-		1. Position
-		2. Time
-		3. Altitude
-		4. Type of flight plan (only required for reports to FSS…not to center or approach)
-		5. Estimated time of arrival at the next reporting point
-		6. Name of the reporting point after that
-2. Clearances 
+	3. Position reports^[Good read in [[IFR Magazine]] at [this link](https://www.ifr-magazine.com/technique/position-reports/)]
+		1. [[designated reporting point]]s ([[FAR 91.183 IFR Communications]](a) and [[AIM 5]]-3-2)
+		2. Position report structure ([[PTATEN]] mnemonic) ([[AIM 5]]-3-2(d))
+			1. Position
+			2. Time
+			3. Altitude
+			4. Type of flight plan (only required for reports to FSS…not to center or approach)
+			5. Estimated time of arrival at the next reporting point
+			6. Name of the reporting point after that
+2. Clearances ([[Sample IFR Clearances]])
 	1. When are clearances required? [[FAR 91.173 ATC Clearance Reqd|FAR 91.173]]
 	2. How to obtain clearance
 		1. Clearance Delivery/GND at Towered Airport
@@ -60,7 +62,7 @@ Ground 1.5 hours
 		3. Altitude 
 		4. Frequency 
 		5. Transponder code 
-	4. Clearance shorthand (IFH Appendix A)
+	4. Clearance shorthand ([[IFH]] Appendix A)
 	5. “At Pilots Discretion” ([[AIM 4]]-4-10)
 	6. VFR on top ([[AIM 4]]-4-8)
 	7. Departure Restrictions ([[AIM 5]]-2-7)
