@@ -25,7 +25,7 @@ Ground 1.5 hours
 	2. VFR minimums ([[Categorical Outlooks]])
 	3. IFR minimums for departure, approach, and alternates
 	4. Federal Airways
-		1. 4nm width (wording)
+		1. 8nm width (4nm either side of course centerline)
 2. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
@@ -48,8 +48,8 @@ Ground 1.5 hours
 	4. [[FSS]]
 5. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
 	1. When is one needed? ([[1-2-3 Rule]])
-	2. Precision, Non Precision, no published [[IAP]]
-	3. Non-standard Alternate minimums
+	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
+	3. Non-standard alternate minimums
 	4. Alternatives for non-[[WAAS]] cannot also use non-WAAS ([[AIM 1]]-1-17)
 6. Diversions while in flight vs. planned alternate
 
