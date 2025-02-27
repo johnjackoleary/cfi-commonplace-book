@@ -39,18 +39,19 @@ Ground 1.5 hours
 3. Flight planning 
 	1. Navigation logs, plotters, computers (E6B, etc.), wind computations
 	2. Flight plan forms and filing 
-	3. Fuel planning and requirements ([[FAR 91.167]])
+	3. Fuel planning and requirements ([[FAR 91.167 IFR Fuel Reqs]])
 	4. [[TEC]] routes
 4. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach/Departure ([[TRACON]]), Center [[ARTCC]])
 	2. [[Radar]] and [[transponder]]s 
 	3. [[ADS-B]]
 	4. [[FSS]]
-5. Alternates and Diversions
-	1. Alternate requirement ([[1-2-3 Rule]]) (14CFR 91.167(c))
-		1. Alternatives for non-[[WAAS]] cannot also use non-WAAS (AIM 1-1-17)
+5. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
+	1. When is one needed? ([[1-2-3 Rule]])
 	2. Precision, Non Precision, no published [[IAP]]
 	3. Non-standard Alternate minimums
+	4. Alternatives for non-[[WAAS]] cannot also use non-WAAS ([[AIM 1]]-1-17)
+6. Diversions while in flight vs. planned alternate
 
 
 ### Completion Standards
