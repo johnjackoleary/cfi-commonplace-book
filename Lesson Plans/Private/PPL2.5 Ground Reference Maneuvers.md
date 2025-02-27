@@ -27,13 +27,16 @@ GPS/Sentry/ADS-B In
 2. Use [[Maneuvering Speed]]
 	1. This speed changes with weight -- more weight raises maneuvering speed
 3. Rate of turn and bank angle changes with ground speed -- more ground speed means more bank needed
-4. Finding the Wind https://images.app.goo.gl/JUmkgPrhjn6FUo9B9
-5. Flying all maneuvers
+4. Finding the wind
+	1. [[METAR]] / [[ATIS]]
+	2. [[Winds Aloft]] Forecast
+5. Flying all maneuvers ([[CHAPS]])
 	1. Select location without excessive traffic, and with suitable emergency landing fields
-		1. Select altitude (600'-1000' agl) and appropriate airspeed for maneuver
-	2. Check for traffic in area before and between each maneuver
-	3. Divide attention between airplane control, traffic, and ground references
-	4. Be aware of low altitude hazards like wires
+	2. Select altitude (600'-1000' [[agl]]) and appropriate airspeed for maneuver
+		1. Once power is set correctly, shouldn't need to change it in the maneuver
+	3. Check for traffic in area before and between each maneuver
+	4. Divide attention between airplane control, traffic, and ground references
+	5. Be aware of low altitude hazards like wires
 6. Maneuver Specific
 	1. Rectangular Course![[Rectangular Course.jpeg]]
 		1. Select suitable reference
@@ -58,8 +61,8 @@ GPS/Sentry/ADS-B In
 	3. Improper correction for wind drift
 	4. Lack of rudder coordination
 	5. Failure to maintain altitude or airspeed throughout the maneuver
-]
-Set and don't change power
+	6. Changing power during the maneuver
+
 
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards.
