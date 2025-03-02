@@ -23,7 +23,10 @@ tags:
 - Power-On Stalls: no change, recover at first indication
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]
+[[FAR 61.125 CPL Knowledge Reqs]]:
+- Basic aerodynamics and the principles of flight
+
+[[FAR 61.127 CPL Flight Reqs]]:
 - Slow flight and stalls
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
