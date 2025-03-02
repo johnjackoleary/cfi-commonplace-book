@@ -54,7 +54,7 @@ Ground 0.5 hours, Flight 2 hours
 Pilot is able to maintain a constant radius around a reference point at the specified airspeed, ±10 knots, roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ [[AGL]], without exceeding 60° of bank.
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]: 
+[[FAR 61.127 CPL Flight Reqs]]: 
 - Performance maneuvers
 
 ### Required Homework

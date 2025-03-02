@@ -43,7 +43,7 @@ Ground 0.5 hour, Flight 1.5 hour, practice on many flights
 Learner is able to consistently land in the 200' zone, regardless of wind conditions.
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]
+[[FAR 61.127 CPL Flight Reqs]]:
 - Takeoffs, landings, and go-arounds
 
 ### Required Homework

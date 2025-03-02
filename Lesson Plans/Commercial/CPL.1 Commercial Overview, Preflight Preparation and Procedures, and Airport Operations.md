@@ -45,7 +45,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		7. [[Medical Certificate Requirements]]
 	2. I.B. Airworthiness Requirements
 		1. Review [[Complete VFR Preflight Checklist#Aircraft]] section
-		2. Obtaining a special flight permit
+		2. Obtaining a special flight permit^[For the San Jose [[FSDO]], it sounds like this takes about a week]
 		3. Pilot-performed preventative maintenance (see [[FAR 43.3 Persons Authorized to Maintain|§ 43.3]](g) and [§ 43 Appendix A](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043))
 	3. I.C. Weather Information
 		1. Review [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
@@ -64,7 +64,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 	6. I.F. Performance and Limitation
 		1. Review [[PPL4.4 Aircraft Performance and Weight+Balance]]
 	7. I.G. Operation of Systems
-		1. Review [[PHAK Ch7]]
+		1. Review [[PPL2.6 Aircraft Systems]]
 	8. I.H. Human Factors
 		1. Review [[Human Factors]]
 4. Preflight Procedures
@@ -74,6 +74,7 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		1. Approved [[MEL]] and the [[4 Types of MEL's]], related to [[FAR 91.213 Inop Equip]]
 		2. [[Risk Management]] and related mnemonics ([[PAVE]], [[IMSAFE]], [[5Ps]], etc)
 		3. [[5 Hazardous Attitudes and Antidotes]]
+5. Postflight procedures
 6. [[ADM]] and [[Operational Pitfalls]]
 7. Airport Operations (ACS III.A and III.B)
 	1. Q&A to feel out weak areas in understanding of [[PPL1.5 Towered Airport Operations]] and [[PPL4.2 Advanced Airport Operations]]
@@ -84,10 +85,21 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 Learner understands similarities and differences between commercial and private certificates. They are able to start brushing up on weak areas of the [[FAR]]/[[AIM]], [[POH]]/[[AFM]], [[PHAK]], etc.
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]
+[[FAR 61.125 CPL Knowledge Reqs]]:
+- Applicable Federal Aviation Regulations of this chapter that relate to commercial pilot privileges, limitations, and flight operations
+- Accident reporting requirements of the National Transportation Safety Board
+- Meteorology to include recognition of critical weather situations, windshear recognition and avoidance, and the use of aeronautical weather reports and forecasts
+- Safe and efficient operation of aircraft
+- Weight and balance computations
+- Use of performance charts
+- Aeronautical decision making and judgment
+- Principles and functions of aircraft systems
+
+[[FAR 61.127 CPL Flight Reqs]]:
 - Preflight preparation
 - Preflight procedures
 - Airport operations
+- Postflight procedures
 
 ### Required Homework
 None

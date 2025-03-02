@@ -29,8 +29,12 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 	4. Why are stalls in a banked turn dangerous?
 	5. Per the ACS, you need to understand the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects.
 	6. What is stall speed at 45°, no flaps, in your airplane?
-2. Accelerated stall procedure
-	1. Select practice area, clear the area, altitude 3000’ AGL minimum RECOVERY altitude.
+2. Significance and effects of exceeding aircraft performance limitations
+	1. [[Maneuvering Speed]]
+	2. [[Vg Diagram.jpg]]
+3. Accelerated stall procedure
+	1. [[CHAPS]]
+		1. Altitude 3000’ AGL minimum RECOVERY altitude.
 	2. Establish 45 degree bank turn (at relatively low speed/power, definitely below V<sub>A</sub>)
 	3. Use rudder to maintain coordinated flight (ball in center)
 	4. Gradual pitch up until first indication of a stall (stall horn, buffet, etc). Verbally acknowledge the indications.  Don’t do a full-stall!
@@ -40,7 +44,7 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 		3. Level wings (primarily rudder, ailerons also as airspeed increases)
 		4. Pitch up to establish climb at V<sub>X</sub> or V<sub>Y</sub>
 		5. Return to altitude, heading, and airspeed specified by the examiner
-3. Common Errors:
+5. Common Errors:
 	1. Starting maneuver at too-high airspeed, causing lots of time, climb, and /or g-force to get to the accelerated stall.
 	2. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
 	3. Delay in stall recovery, causing excessive altitude loss or spin entry
@@ -50,8 +54,8 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 Client must understand and be able to demonstrate impending accelerated stalls to [[Commercial ACS]]. Recovery no lower than 3000’ AGL, speed below V<sub>A</sub>, acknowledge impending stall, and recover as specified by the examiner.
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]
-- Slow flight and stalls
+[[FAR 61.125 CPL Knowledge Reqs]]:
+- Significance and effects of exceeding aircraft performance limitations
 
 ### Required Homework
 None

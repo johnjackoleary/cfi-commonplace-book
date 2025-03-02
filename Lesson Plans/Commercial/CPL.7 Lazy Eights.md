@@ -61,7 +61,7 @@ Client must fly maneuver to [[ACS]] standards:
 - At the 180° point: ±100 feet from entry altitude, ±10 knots from entry airspeed, ±10° from heading.
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]: 
+[[FAR 61.127 CPL Flight Reqs]]: 
 - Performance maneuvers
 
 ### Required Homework
