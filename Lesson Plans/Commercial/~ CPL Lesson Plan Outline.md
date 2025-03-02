@@ -5,7 +5,6 @@ tags:
   - cpl
   - syllabus
 ---
-#todo :: add all logbook endorsements for 61.125(b) and 61.127(b)
 
 ### Commercial Pilot Airplane Single-Engine, Lesson Plan Outline
 > [!note]
@@ -23,7 +22,7 @@ tags:
 [[CPL.10 Slow Flight and Stalls]]
 [[CPL.11 Accelerated Stalls]]
 [[CPL.12 High Altitude Operations]]
-[[CPL.13 Emergency Procedures]]
+[[CPL.14 Emergency Procedures]]
 [[CPL.14 Postflight Procedures]]
 [[CPL.15 Review and Checkride Preparation]]
 [[CPL.A Part 61 Commercial Training Requirements]]

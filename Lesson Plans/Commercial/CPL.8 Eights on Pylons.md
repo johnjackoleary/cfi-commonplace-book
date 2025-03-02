@@ -59,7 +59,7 @@ Ground 0.5 hours, Flight 2 hours
 Client must calculate and enter at pivotal altitude, select suitable pylons which allow straight-and-level flight between (3-5 seconds), establish a bank angle <40°, and maintain pylon in line-of-sight without slips/skids. Client must be able to divide attention inside and outside aircraft.
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]: 
+[[FAR 61.127 CPL Flight Reqs]]: 
 - Ground reference maneuvers
 
 ### Required Homework

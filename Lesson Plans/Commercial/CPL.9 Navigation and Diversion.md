@@ -21,7 +21,12 @@ For Pilotage and Dead Reckoning:
 - Altitude ±100ft, heading ±10°
 
 ### Required Logbook Phraseology
-For [[FAR 61.127 Flight Proficiency]]
+[[FAR 61.125 CPL Knowledge Reqs]]:
+- Use of aeronautical charts and a magnetic compass for pilotage and dead reckoning
+- Use of air navigation facilities
+- Procedures for operating within the National Airspace System
+
+[[FAR 61.127 CPL Flight Reqs]]:
 - Navigation
 
 *Return to [[~ CPL Lesson Plan Outline|Table of Contents]]^*
