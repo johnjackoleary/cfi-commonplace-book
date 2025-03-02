@@ -23,14 +23,13 @@ Ground 1 hour
 1. Physiological factors ([[Human Factors]])
 	1. Impairment
 	2. [[Hypoxia]]
-		1. Difference between CO and hypoxic hypoxia symptoms
+		1. Difference between [[Carbon Monoxide Poisoning|CO]] and hypoxic [[hypoxia]] symptoms
 	3. Time of useful consciousness
-2. Oxygen Systems
+2. [[Oxygen Systems]]
 	1. Operation of various sorts of oxygen systems (see [[Oxygen Equipment Use in General Aviation Operations]])
 	2. Determining quantity of oxygen required in various scenarios
-	3. #todo :: add oxygen requirements in the flight levels
-4. Pressurized aircraft systems
-	1. #todo :: Add more details about pressurization system
+	3. [[FAR 91.211 Supplemental Oxygen]] requirements
+3. [[Pressurized Aircraft Systems]]
 
 ### Completion Standards
 Demonstrate satisfactory knowledge, risk management, and skills for flight at higher altitudes where supplemental oxygen is required.

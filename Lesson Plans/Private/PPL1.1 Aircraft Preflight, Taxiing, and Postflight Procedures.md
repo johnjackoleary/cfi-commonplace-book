@@ -29,13 +29,14 @@ N/A
 2. Syllabus overview
 3. Preflight
 	1. Ramp safety^[[Woman dies after backing into plane propeller while taking photos](https://www.youtube.com/watch?v=4wMeTCxZoDk)]
-	2. Walk-around inspection, use of checklists^[[[Wes Irish]] has a nice set of photos [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/pre-flight-fails) for things he's noticed in preflights before]
-	3. Airworthiness (who determines, who is responsible for)
+	2. [[Adjusting Seat Height]]
+	3. Walk-around inspection, use of checklists^[[[Wes Irish]] has a nice set of photos [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/pre-flight-fails) for things he's noticed in preflights before]
+	4. Airworthiness (who determines, who is responsible for)
 		1. Who is responsible for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403 General Maintenance]]
 		2. Who determines airworthiness? Pilot-In-Command - [[FAR 91.7 Aircraft Airworthiness]]
 		3. Legal vs Safety
-	4. POH sections
-	5. Fuel sampling and fuel level
+	5. POH sections
+	6. Fuel sampling and fuel level
 		1. > [!youtube] Published by [[ERAU SpecialVFR]] 
 		   ![](https://www.youtube.com/watch?v=rya4YFDpsPs)
 	7. Oil levels - see [[POH]] and club policies

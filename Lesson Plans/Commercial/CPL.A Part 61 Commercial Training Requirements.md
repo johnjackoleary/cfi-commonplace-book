@@ -1,5 +1,9 @@
 Commercial Pilot Aeronautical Experience (prior to checkride):
 
+Knowledge areas of [[FAR 61.125 CPL Knowledge Reqs]]
+
+Flight areas of [[FAR 61.127 Flight Proficiency]]
+
 From [[FAR 61.129 CPL Aeronautical Experience|FAR 61.129]](a):
 - [ ] 250 hours of flight time as a pilot that consists of at least:
 	- [ ] 100 hours in powered aircraft (50 in Airplane category)

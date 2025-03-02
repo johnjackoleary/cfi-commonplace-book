@@ -17,6 +17,7 @@ Discussion of differences between commercial and private pilot licenses, and set
 
 ### Resources
 - [[Pyramid of Airworthiness]]
+- [[UND]] [playlist of commercial and instrument maneuvers](https://youtube.com/playlist?list=PL1B5890E8D2DB569C)
 
 ### Builds On
 - [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
@@ -38,8 +39,8 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 		1. Builds on the foundation in [[Complete VFR Preflight Checklist#Pilot]] section
 		2. Review [[FAR 61.133]]
 		3. May carry persons or property for hire subject to common carriage vs private carriage limitations
-		4. [[Private and Commercial Pilot Privileges and Limitation]] #todo :: Add source, maybe [[AC 61-142]]
-		5. [[Distinction Between Pilot Privileges and Operational Rules]] #todo :: Add source
+		4. [[Private and Commercial Pilot Privileges and Limitation]]
+		5. [[Distinction Between Pilot Privileges and Operational Rules]]
 		6. [[CPL]]+[[IRA]] allows commercial flights >50nm and at night.
 		7. [[Medical Certificate Requirements]]
 	2. I.B. Airworthiness Requirements
