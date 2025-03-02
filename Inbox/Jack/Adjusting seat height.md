@@ -1,1 +1,0 @@
-https://skybrary.aero/sites/default/files/bookshelf/4247.pdf
