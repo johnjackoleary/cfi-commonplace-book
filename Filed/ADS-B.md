@@ -7,7 +7,11 @@
 > - Surveillance because it provides a method of determining 3 dimensional position and identification of aircraft, vehicles, or other assets.
 > - Broadcast because it transmits the information available to anyone with the appropriate receiving equipment.
 
-***Additional Resources:*** [[AIM 4]]-5
+***Additional Resources:***
+- [[AIM 4]]-5
+- [[FAR 91.215 Transponder Use]]
+- [[ADS-B and Mode C Requirements.jpg]]
+
 ***Source***         :: [[PHAK Glossary]]
 
 #glossary #acronym
