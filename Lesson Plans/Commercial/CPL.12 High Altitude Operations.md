@@ -26,9 +26,9 @@ Ground 1 hour
 		1. Difference between [[Carbon Monoxide Poisoning|CO]] and hypoxic [[hypoxia]] symptoms
 	3. Time of useful consciousness
 2. [[Oxygen Systems]]
-	1. Operation of various sorts of oxygen systems (see [[Oxygen Equipment Use in General Aviation Operations]])
-	2. Determining quantity of oxygen required in various scenarios
-	3. [[FAR 91.211 Supplemental Oxygen]] requirements
+	4. Operation of various sorts of oxygen systems (see [[Oxygen Equipment Use in General Aviation Operations]])
+	5. Determining quantity of oxygen required in various scenarios
+	6. [[FAR 91.211 Supplemental Oxygen]] requirements
 3. [[Pressurized Aircraft Systems]]
 
 ### Completion Standards
