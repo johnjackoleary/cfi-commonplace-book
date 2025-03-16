@@ -66,12 +66,12 @@ Ground 1.5 hours
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 
 			1. Take the AGL value of the MDA and divide it by 300
-	3. [[MDA]]
-	4. Identifying MAP
+		3. Many decide to go missed at this point
+	3. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
-	5. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
-	6. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
+	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
+	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
 7. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
