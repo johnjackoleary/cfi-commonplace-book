@@ -37,7 +37,7 @@ Develop knowledge and skills associated with emergency landings, including choos
 		2. Cross-check POH checklist (best to have paper copy ready!)
 	4. Declare
 		1. [[Squawk 7700]]
-		2. Mayday call with Approach or Center, nearby tower, or 121.5 (last resort)
+		2. Mayday call with Approach or Center, nearby tower, or [[Emergency Frequency|121.5]] (last resort)
 	5. Execute emergency landing
 		1. Survival statement ("I'm a glider pilot, I'm going to land this plane.")
 		2. Get to key point @1000' AGL: Spiral descent, then rectangular pattern (if altitude permits) ![[Key Position for Power Off 180.jpeg]]

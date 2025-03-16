@@ -4,7 +4,7 @@
 | KSQL    |     125.9     |      119.0       | 121.6  |
 | KHAF    |    127.27     |      122.8       |        |
 
-> [!note] Emergency Frequency: 121.5
+> [!note] [[Emergency Frequency]]: 121.5
 
 
 > [!tip]
