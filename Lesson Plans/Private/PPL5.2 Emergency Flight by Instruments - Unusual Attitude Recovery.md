@@ -16,7 +16,7 @@ Develop knowledge and skill in recognition of and recovery from unusual attitude
 [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]]
 
 ### Schedule
-Ground 0.5 hours, sim/airplane 1.5 hours
+Ground 0.5 hours, sim/airplane 1 hours
 
 ### CFI Equipment
 Hood or foggles
@@ -28,8 +28,9 @@ Hood or foggles
 	3. Turbulence and wake turbulence
 2. Unusual attitude recoveries (IFH 7-26)
 	1. Unusual attitudes are those not normally required during instrument flight. Recovery includes prompt return to straight and level flight
-	2. Full panel recoveries
-	3. Partial panel recoveries
+	2. Concern is [[Loss of Control In-Flight|LOC]]
+	3. Full panel recoveries
+	4. Partial panel recoveries
 3. Recognize nose-high unusual attitude
 	1. ASI slow or decreasing rapidly
 	2. VSI shows climb, altimeter shows climb

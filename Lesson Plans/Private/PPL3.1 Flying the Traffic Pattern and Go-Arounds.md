@@ -87,6 +87,7 @@ GPS/Sentry/ADS-B In
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
 	4. Descending when tower delays base turn
+	5. How to tell where you're gliding to
 8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
@@ -101,7 +102,6 @@ GPS/Sentry/ADS-B In
 	1. Lack of planning ahead, staying ahead of the airplane
 	2. Lack of situation awareness or awareness of other traffic
 	3. Improper radio usage, forgetting radio calls at non-towered airports
-
 
 #### Go-Arounds
 1. Situations requiring a go-around
@@ -139,12 +139,13 @@ GPS/Sentry/ADS-B In
 	5. Drifting from runway centerline (unless offsetting for conflicting traffic)
 	6. Forgetting checklist items (flaps, carb heat, cowl flaps)
 	7. Expecting CFI to fix a risky landing attempt (may not be possible!)
+	8. Expecting CFI to call for a go-around
 
 > [!youtube] Published by [@FlightATC](https://www.youtube.com/@FlightATC)
 > ![](https://www.youtube.com/watch?v=evE3WmYAvVY)
 
 ### Completion Standards
-Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with AIM recommended procedures, and maintaining awareness of and proper spacing from other aircraft.
+Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with [[AIM]] recommended procedures, and maintaining awareness of and proper spacing from other aircraft.
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > - Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots. 

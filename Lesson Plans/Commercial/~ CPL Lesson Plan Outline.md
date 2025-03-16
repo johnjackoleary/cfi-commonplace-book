@@ -10,7 +10,7 @@ tags:
 > [!note]
 > "Lessons" will often consist of multiple ground and/or flight sessions.
 
-[[CPL.1 Commercial Overview, Preflight Preparation and Procedures, and Airport Operations]]
+[[CPL.1 Commercial Overview, Preflight, Postflight, and Airport Operations]]
 [[CPL.2 Takeoffs, Landings, and Go-Arounds]]
 [[CPL.3 Power Off 180 Accuracy Approach and Landing]]
 [[CPL.4 Steep Turns]]

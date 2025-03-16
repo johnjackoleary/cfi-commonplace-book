@@ -10,7 +10,7 @@ A memory aid checklist for executing an emergency landing.
 	- Back it up with the checklist
 - **Declare** - 
 	- Squawk 7700
-	- Tell ATC you're declaring an emergency^[They may ask follow-up questions. Remember to [[Aviate, Navigate, Communicate]], and feel free to ignore them if it helps focus.]
+	- Tell ATC you're declaring an emergency^[Can declare on [[Emergency Frequency]] or with whomever you're already talking to]^[They may ask follow-up questions. Remember to [[Aviate, Navigate, Communicate]], and feel free to ignore them if it helps focus.]
 - **Execute** - Follow the engine failure and emergency landing checklist. Generally:
 	- Secure fuel and electrical systems
 	- Secure the cabin

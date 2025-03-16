@@ -35,7 +35,11 @@ Hood or foggles
 			2. Inverted V-scan to check trends
 			3. Scan primary instruments
 			4. Scan all instruments
-2. Attitude instrument flight basics
+2. Scenarios of particular concern for accidental IMC
+	1. Accidentally fly into a cloud -- turn around!
+	2. Accidentally trapped above a cloud layer -- go elsewhere to VFR conditions
+		1. If unable to go elsewhere, with ATC's help/instructions, establish stable, slow descent through layer
+3. Attitude instrument flight basics
 	1. Straight and Level flight ([[IFH]] 7-2)
 	2. Straight climbs and descents (IFH 7-14)
 		1. Pitch-Power-Trim sequence to initiate climb, Power-Pitch-Trim for descent.

@@ -67,13 +67,13 @@ Background knowledge required for safe mountain flying.
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
 			4. Power and performance impacts
 				1. Power in normally aspirated engines decreases 3% for every 1000'^[From [[Mountain Flying]]]
-			5. Service ceiling consideration
+			5. [[Service ceiling]] consideration
 				1. Remember that Vx and Vy converge at higher altitudes ([[Vx vs Vy at Higher Altitudes.jpeg|image]])
 		2. Selecting an aircraft for the mission
 			1. Some experts recommend that 160 horsepower should be considered the absolute minimum for the airplane, especially when the pilot lacks significant mountain flying experience. 
 		3. Weight & Balance considerations
 			1. 90% of [[MGW]] recommended
-			2. Impact of aft CG
+			2. Impact of aft [[CG]]
 		4. Equipment
 			1. Best to test [[ELT]] before departing (More info from [[AOPA]] [here](https://www.aopa.org/news-and-media/all-news/2017/february/flight-training-magazine/how-it-works-elt#:~:text=You%20can%20test%20your%20121.5,the%20first%20order%20of%20business.)) - average time to find down aircraft with ELT is 6.8hr, compared to 40.7hr without^[https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue]
 	3. Environment
