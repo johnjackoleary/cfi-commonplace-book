@@ -23,21 +23,21 @@ Prepare for practical test oral and flight portions.
 Ground 3 hours, Flight as necessary
 
 ### Lesson Elements
-1. Thorough review of ACS
+1. Thorough review of [[ACS]]
 	1. Also helpful to read [[ACS Tips for Evaluators]]
-2. Odds and Ends FARs
+2. Odds and Ends FARs (for a general review, see [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]])
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
-		1. [[Pilot's Bill of Rights]]
-	4. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
-	5. [[ASRS]] Reports^[Informally NASA reports]
+	4. [[Pilot's Bill of Rights]]
+	5. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
+	6. [[ASRS]] Reports^[Informally [NASA reports](https://asrs.arc.nasa.gov)]
 3. [[ADM]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
+	3. [[The Killing Zone]]
 4. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
-	2. Video on [10 Mistakes People Make When Scheduling a Checkride](https://www.youtube.com/watch?v=5-jc7BXndhM)
 5. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk

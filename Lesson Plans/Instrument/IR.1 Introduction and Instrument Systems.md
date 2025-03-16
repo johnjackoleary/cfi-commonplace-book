@@ -49,7 +49,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		1. Pitot-Static instruments: Altimeter (+/- 75’), Airspeed Indicator, Vertical Speed Indicator, pitot heat (use below 10C or 50F, in visible moisture) 
 			1. Pitot Heat check during preflight
 		2. Gyro instruments: Attitude indicator, Heading Indicator, Turn Coordinator, vacuum systems 
-			1. DG precession limit - 3° in 15 minutes (industry suggestion)
+			1. [[DG]] precession limit - 3° in 15 minutes (industry suggestion)
 			2. Horizontal Situation Indicator ([[HSI]])
 		3. Magnetic [[Compass Errors]]: check freely turns during taxi check
 		4. Electronic flight instrument display
@@ -72,6 +72,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		2. Connected to static line
 		3. Mode A (squawk code + position) vs Mode C (squawk code + position + altitude)
 		4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C), GND
+			1. ALT mode on the ground?
 		5. Set to ALT ([[Lights, Camera, Action, Time]] check)
 	5. [[ADS-B]] weather/traffic
 	6. Radio: Look for TX, RX
@@ -91,12 +92,11 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		3. GPS ([[Satellite Navigation using GPS and GNSS]])
 			1. [[WAAS]] vs non-WAAS
 			2. [[RAIM]] 
-				1. Check RAIM (RAIM prediction with old-style GPS, website: sapt.faa.gov)
+				1. Check RAIM (RAIM prediction with old-style GPS, [website](http://sapt.faa.gov))
 			3. [Real-Time WAAS and GPS Monitoring](https://www.nstb.tc.faa.gov/realtime-plots.html)
 			4. [[GPS]] Status Page
 			5. Operational Checks
 			6. 28-day GPS cycle
-	11. Procedures and documentation for flying with [[FAR 91.213 Inop Equip|inoperative equipment]]
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.

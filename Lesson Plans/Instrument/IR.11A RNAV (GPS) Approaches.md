@@ -25,19 +25,19 @@ Ground 30m, Sim/airplane – 2.5 hours
 ### Lesson Elements
 
 1. GPS Receiver Types
-	1. Non [[WAAS]]: TSO-C129 or TSO C-196
+	1. Non-[[WAAS]]: TSO-C129 or TSO C-196
 	2. WAAS: TSO C-145 or TSO C-146
-2. Types of RNAV (GPS) Approaches
-	1. Lateral Guidance Only (MDA): LNAV, LP
-	3. Lateral and Vertical Guidance (DA): LNAV/VNAV, LPV
-	4. Lateral and Advisory Vertical Guidance: LNAV+V, LP+V
-	5. Other RNAV approaches: GLS, RNP
-3. CDI Sensitivity: [[RNP Precision per Approach Segment.jpeg]]
+2. Types of [[RNAV]] (GPS) Approaches
+	1. Lateral Guidance Only (MDA): [[LNAV]], [[LP]]
+	2. Lateral and Vertical Guidance (DA): LNAV/VNAV, [[LPV]]
+	3. Lateral and Advisory Vertical Guidance: LNAV+V, LP+V
+	4. Other RNAV approaches: [[GLS]], [[RNP]]
+3. [[CDI]] Sensitivity: [[RNP Precision per Approach Segment.jpeg]]
 4. RNAV (GPS) Approach Shapes
 	1. Basic T Shape
-	2. TAA
+	2. [[TAA]] -- [KSCK RNAV 29R](https://cfijack.com/latest-plate-redirect/?plate=00407R29R.PDF)
 5. GPS Specific
-	1. Fly over vs. Fly By
+	1. Fly Over vs. Fly By
 	2. GPS Failures
 	
 ### Completion Standards

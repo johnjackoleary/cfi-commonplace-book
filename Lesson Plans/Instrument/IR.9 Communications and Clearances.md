@@ -25,12 +25,12 @@ Ground 1.5 hours
 
 ### Lesson Elements
 1. Communications
-	1. Priorities: Aviate, Navigate, Communicate 
+	1. Priorities: [[Aviate, Navigate, Communicate]] 
 	2. Required reports ([[MARVELOUS VFR C500]]) - ([[AIM 5]]-3-3)
-		1. Missed approach
+		1. Missed approach ([[5 C's (Going Missed)]])
 		2. Airspeed changes more than 10 knots or 5 percent
 		3. Reaching a holding fix
-		4. VFR-on-top altitude change
+		4. [[VFR-On-Top]] altitude change
 		5. ETA change more than 3 minutes (no radar)
 		6. Leaving a holding fix
 		7. Outer marker inbound (no radar)
@@ -64,23 +64,24 @@ Ground 1.5 hours
 		5. Transponder code 
 	4. Clearance shorthand ([[IFH]] Appendix A)
 	5. “At Pilots Discretion” ([[AIM 4]]-4-10)
-	6. VFR on top ([[AIM 4]]-4-8)
-	7. Departure Restrictions ([[AIM 5]]-2-7)
+	6. [[VFR-On-Top]] ([[AIM 4]]-4-8)
+	7. As Filed
+	8. Departure Restrictions ([[AIM 5]]-2-7)
 		1. Clearance void time (don’t exceed 30min)
 		2. Hold for release 
 		3. Release Time
 		4. [[EDCT]] (depart no earlier than 5 min before and no later than 5 min after)
 		5. Include runway in clearance request
 		6. Good to mention use of [[ODP]] if unclear
-	8. What if I don’t like the clearance? ([[AIM 4]]-4-4)
-	9. Deviation - Emergency or [[TCAS]] alert
+	9. What if I don’t like the clearance? ([[AIM 4]]-4-4)
+	10. Deviation - Emergency or [[TCAS]] alert
 3. Request for delay vector or, similarly, request to continue holding
 
 
 ![[IFR Radio Comm Part 1 General.jpeg]]
 
 ### Completion Standards
-The student must become proficient at typical IFR communications using standard phraseology and demonstrate an understanding of lost communication procedures.
+The student must become proficient at typical IFR communications using standard phraseology.
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:

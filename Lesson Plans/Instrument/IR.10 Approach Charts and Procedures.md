@@ -66,12 +66,12 @@ Ground 1.5 hours
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 
 			1. Take the AGL value of the MDA and divide it by 300
-	3. [[MDA]] - what is required to continue descent? 
-	4. Identifying MAP
+		3. Many decide to go missed at this point
+	3. Identifying MAP
 		1. Timing from FAF to MAP
 		2. GPS/DME
-	5. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
-	6. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
+	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
+	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
 7. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
@@ -95,8 +95,9 @@ Ground 1.5 hours
 	1. When to execute missed approach?
 	2. Procedure: Cram, Climb, Cool, Configure, Call
 	3. How to handle MA before MAP 
-		1. Fly to MAP and 
-	4. How to handle after MAP
+		1. "Fly over" MAP first (must stay on the lateral course)
+		2. You can begin to climb anytime, assuming no contrary notes in the [[IAP]]
+	4. How to handle "go-around" after MAP^[Example in [this video](https://www.youtube.com/watch?v=vtlS0sxFlHk) of loosing visibility on final]
 		1. May choose to cancel IFR if conditions permit
 		2. In ATC environment - immediately contact ATC to obtain amended clearance
 		3. If unable to contact ATC, attempt to re-intercept published segment of missed approach

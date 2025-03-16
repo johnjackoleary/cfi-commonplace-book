@@ -55,6 +55,7 @@ Ground 1.5 hours, Flight 3 hours
 	3. Weather updates 
 	4. Route changes 
 	5. Diversion to alternate 
+	6. Handling VFR traffic in your way
 5. [[Lost Communications]] ([[FAR 91.185 Lost Comms]])
 6. Common errors 
 	1. Inadequate preflight planning and briefings 

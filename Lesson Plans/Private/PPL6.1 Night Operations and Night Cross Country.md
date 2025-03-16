@@ -26,7 +26,7 @@ Ground 1 hour, flight 3 hours
 	3. Logging night flight -- after civil twilight ([[Night - For Logging Time]])
 	4. Night currency for carrying passengers -- 3 takeoffs and (fullstop) landings within 90 days, >1 hour after sunset ([[FAR 61.57 Recent Flight Experience|§ 61.57]])
 2. Bay Area local information
-	1. PAO reverts to Class G, which means only right traffic on 31 when tower closed
+	1. [[Palo Alto Airport|KPAO]] reverts to Class G, which means only right traffic on 31 when tower closed
 	2. Many airports have unique noise abatement procedures at night
 3. Aircraft lighting and night equipment
 	1. Anti-collision lights -- strobes and/or beacon -- (required day or night, per [[FAR 91.209 Aircraft Lights|§ 91.209]])
@@ -82,6 +82,6 @@ Client demonstrates the knowledge and skills to fly and navigate at night safely
 - [ ] Plan >101nm night cross-country flight
 
 ### Recommended Homework
-None 
+- [ ] Read [Hazards Associated with Flying at Night](https://tc.canada.ca/en/aviation/publications/system-safety-summer-briefing-kit-tp-14112/hazards-associated-flying-night-powerpoint-presentation)
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
