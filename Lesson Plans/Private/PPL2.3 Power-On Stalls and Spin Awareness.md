@@ -110,6 +110,6 @@ None
  
 ### Recommended Homework 
 - [ ] Chair fly power-off stalls
-- [ ] Char fly spin recovery
+- [ ] Chair fly spin recovery
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
