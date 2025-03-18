@@ -12,7 +12,7 @@ Prepare for Practical Test oral and flight portions. Identify any weak areas for
 - [[Commercial ACS]]
 - [[AFH]] (descriptions of maneuvers)
 - [[POH]]/[[AFM]]
-- [[part 61]] / [[part 91]]
+- [[part 61]] / [[Part 91]]
 - [[AIM]]
 
 ### Resources

@@ -9,7 +9,7 @@ Prepare for practical test oral and flight portions.
 ### Resources
 - [[Private Pilot ACS]] – all sections
 - [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
-- [[FAR]] [[part 91]] and [[part 61]]
+- [[FAR]] [[Part 91]] and [[part 61]]
 - [[AIM]]
 - ["Answers to the ACS" Study App](https://answerstotheacs.com/pages/private.php)
 - Chart Supplements

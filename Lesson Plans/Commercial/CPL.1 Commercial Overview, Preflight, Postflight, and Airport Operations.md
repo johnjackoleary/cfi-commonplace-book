@@ -37,12 +37,8 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 3. [[Commercial ACS]] I. Preflight Preparation
 	1. I.A. Pilot Qualifications
 		1. Builds on the foundation in [[Complete VFR Preflight Checklist#Pilot]] section
-		2. Review [[FAR 61.133]]
-		3. May carry persons or property for hire subject to common carriage vs private carriage limitations
-		4. [[Private and Commercial Pilot Privileges and Limitation]]
-		5. [[Distinction Between Pilot Privileges and Operational Rules]]
-		6. [[CPL]]+[[IRA]] allows commercial flights >50nm and at night.
-		7. [[Medical Certificate Requirements]]
+		2. Understand the nuances of [[Commercial Pilot Privileges and Limitations]]
+		3. [[Medical Certificate Requirements]]
 	2. I.B. Airworthiness Requirements
 		1. Review [[Complete VFR Preflight Checklist#Aircraft]] section
 		2. Obtaining a special flight permit^[For the San Jose [[FSDO]], it sounds like this takes about a week]
