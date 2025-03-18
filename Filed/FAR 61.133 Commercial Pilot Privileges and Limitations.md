@@ -4,3 +4,5 @@
 
 #### Key Quotes
 - A person who holds a commercial pilot certificate may act as pilot in command of an aircraft... Carrying persons or property for compensation or hire, provided the person is qualified in accordance with this part...
+
+#source #far

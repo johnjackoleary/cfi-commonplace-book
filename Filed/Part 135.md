@@ -10,3 +10,5 @@ To fly under Part 135:
 - In some cases, a pilot may fly for a Part 135 with only a Commercial Pilot License
 	- But there are additional requirement for hours of experience, and ratings
 - However, if the aircraft has 10+ seats, or is a turbojet, or is multiengine, an Air Transport Pilot rating is required.  See FAR 135.243.
+
+#source #far

@@ -3,3 +3,5 @@
 ***Author*** :: [[FAA]]
 
 Describes numerous conditions and limitations for classifying a flight as a "charitable flight", which allows for certain compensation, even for Private Pilots. See [[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]](d).
+
+#source #far

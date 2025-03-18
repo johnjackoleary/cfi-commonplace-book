@@ -59,7 +59,7 @@ See [[Holding Out]]
 - Private carriage is also defined in [[AC 120-12]]
 - Private carriage is characterized by having one or a small number of contracts, generally long-term.  According to examples given in the AC, 3 is OK, but 18 to 24 is too many.
 
-One article which touches on these topics is [https://www.boldmethod.com/blog/lists/2021/09/6-things-you-need-to-know-about-common-carriage/](https://www.boldmethod.com/blog/lists/2021/09/6-things-you-need-to-know-about-common-carriage/).
+One article which touches on these topics is [6 things you need to know about common carriage](https://www.boldmethod.com/blog/lists/2021/09/6-things-you-need-to-know-about-common-carriage/).
 
 ## Sharing Operating Expenses
 Private pilots learn that they can share direct expenses (fuel, oil, etc.) with their passengers ([[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]](c)).  But [[AC 61-142]] is critical for understanding expense-sharing.
