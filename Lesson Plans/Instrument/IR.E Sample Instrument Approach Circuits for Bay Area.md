@@ -20,11 +20,11 @@ Suggested Circuits:
 | [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)             |                                    |             |
 | [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF)            | HILPT at IAF                       |             |
 | [KSNS ILS 31](https://cfijack.com/latest-plate-redirect/?plate=00363I31.PDF)               | Arc, HILPT, [[LR]]                         |             |
-| [KMOD ILS or LOC RWY 28R](https://cfijack.com/latest-plate-redirect/?plate=00643IL28R.PDF) | HILPT                                   |             |
+| [KMOD ILS or LOC 28R](https://cfijack.com/latest-plate-redirect/?plate=00643IL28R.PDF) | HILPT                                   |             |
 | KNUQ ILS 32R                                                                               |                                    |             |
 | [KSUU ILS 21L](https://cfijack.com/latest-plate-redirect/?plate=)                          | Multiple IAP types on single chart |             |
 | KWVI LOC 2                                                                                 |                                    |             |
-| KCCR 19R LDA                                                                               | LDA                                |             |
+| KCCR 19R LDA                                                                               | [[LDA]]                                |             |
 | KMRY LOC 28L                                                                               |                                    |             |
 | KHWD LOC/DME 28L                                                                           |                                    |             |
 | KOAK ILS or LOC/DME 28R                                                                    | Sidestep                           |             |
@@ -51,7 +51,7 @@ Suggested Circuit:
 - KCCR VOR 19R -> KAPC VOR 6
 
 # Simulator Practice
-- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF) -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF)
+- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF)
 - [KBIY RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=00068R20.PDF) (obstacles on final)
 
 # Checkride Prep
