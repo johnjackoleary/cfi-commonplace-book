@@ -67,7 +67,7 @@ Ground 1.5 hours
 		2. Good to calculate if not published 
 			1. Take the AGL value of the MDA and divide it by 300
 		3. Many decide to go missed at this point
-	3. Identifying MAP
+	3. Identifying [[MAP]]
 		1. Timing from FAF to MAP
 		2. GPS/DME
 	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
@@ -77,7 +77,7 @@ Ground 1.5 hours
 	2. Inop components impact available in [[TPP]]s
 	3. Pilot controlled lights
 	4. May need to ask towered airports to turn lights up (or down)
-8. At DA – what is required to descend below DA or MDA? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
+8. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
 	1. Continuously in position to land, with normal descent rate and maneuvers 
 	2. AND Flight visibility >= minimum 
 	3. AND any one of:

@@ -6,4 +6,4 @@ Drawn from [[FAR 61.23|§ 61.23]]
 | 2nd Class        | Commercial                           | 12 calendar months             | 12 calendar months   |
 | 3rd Class        | Personal/Business                    | 60 calendar months             | 24 calendar months   |
 
-Basic Med is not authorized for Commercial Operations, and has its own restrictions.  See AC 61-1A.
+[[BasicMed]] is not authorized for Commercial Operations, and has its own restrictions.  See [[AC 61-1]]A.

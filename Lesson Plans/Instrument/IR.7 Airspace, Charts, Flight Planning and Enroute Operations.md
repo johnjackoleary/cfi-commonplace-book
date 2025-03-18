@@ -31,16 +31,17 @@ Ground 1.5 hours
 	2. Airports, airspace
 	3. Navaids
 	4. Q,T,V,J Routes, [[COP]]s, mileage
-	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s - Obstacle Clearance (Mountainous/Non-Mountainous)
-	6. [[MVA]], [[MIA]]
-	7. [[MCA]], [[MRA]]
-	8. Finding airport and [[ARTCC]] frequencies 
-	9. Compulsory reporting points ([[AIM 5]]-3-2)
+	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s
+	6. Off-Route Obstacle Clearance (Mountainous/Non-Mountainous)
+	7. [[MVA]], [[MIA]]
+	8. [[MCA]], [[MRA]]
+	9. Finding airport and [[ARTCC]] frequencies 
+	10. Compulsory reporting points ([[AIM 5]]-3-2)
 3. Flight planning 
-	1. Navigation logs, plotters, computers (E6B, etc.), wind computations
-	2. Flight plan forms and filing 
-	3. Fuel planning and requirements ([[FAR 91.167 IFR Fuel Reqs]])
-	4. [[TEC]] routes
+	1. Navigation logs, plotters, computers (E6B, etc.), wind computations 
+	2. Fuel planning and requirements ([[FAR 91.167 IFR Fuel Reqs]])
+	3. [[TEC]] routes
+	4. Flight plan forms and filing
 4. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach/Departure ([[TRACON]]), Center [[ARTCC]])
 	2. [[Radar]] and [[transponder]]s 
@@ -48,14 +49,15 @@ Ground 1.5 hours
 	4. [[FSS]]
 5. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
 	1. When is one needed? ([[1-2-3 Rule]])
+		1. How to get the weather forecasts at airports without a TAF
 	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
 	3. Non-standard alternate minimums
 	4. Alternatives for non-[[WAAS]] cannot also use non-WAAS ([[AIM 1]]-1-17)
+	5. Practical advice ([[TAF]], [[ILS]], etc)
 6. Diversions while in flight vs. planned alternate
 
-
 ### Completion Standards
-Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and on-line).
+Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and online).
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:
