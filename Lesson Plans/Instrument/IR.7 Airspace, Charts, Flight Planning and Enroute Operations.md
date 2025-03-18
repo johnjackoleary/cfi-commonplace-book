@@ -49,17 +49,15 @@ Ground 1.5 hours
 	4. [[FSS]]
 5. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
 	1. When is one needed? ([[1-2-3 Rule]])
-		1. How to get the wx without taf
+		1. How to get the weather forecasts at airports without a TAF
 	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
 	3. Non-standard alternate minimums
 	4. Alternatives for non-[[WAAS]] cannot also use non-WAAS ([[AIM 1]]-1-17)
-	5. Practical considerations ([[TAF]], [[ILS]], etc)
+	5. Practical advice ([[TAF]], [[ILS]], etc)
 6. Diversions while in flight vs. planned alternate
 
-myflightroute.com
-
 ### Completion Standards
-Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and on-line).
+Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and online).
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:
