@@ -77,8 +77,6 @@ Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
 	2. [[Part 830]] review: [[Accident and Incident Reporting]]
 	3. Use of portable electronic devices (see [[AC 91-21]])
 
-Flight instructor goes to tahoe "for training" but it's not really to train, more for student
-
 ### Completion Standards
 Learner understands similarities and differences between commercial and private certificates. They are able to start brushing up on weak areas of the [[FAR]]/[[AIM]], [[POH]]/[[AFM]], [[PHAK]], etc.
 
