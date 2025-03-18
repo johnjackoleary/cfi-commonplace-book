@@ -53,7 +53,6 @@ See [[Holding Out]]
 - [[Common Carriage]] is a common law term, which probably predates aviation.
 - For aviation purposes, the term is defined in [[AC 120-12]]
 - Common carriage operations must be conducted under [[Part 121]] or [[Part 135]].
-- [[Holding Out]], even by reputation, makes it "common carriage".
 
 #### Private Carriage
 - Private carriage is also defined in [[AC 120-12]]
