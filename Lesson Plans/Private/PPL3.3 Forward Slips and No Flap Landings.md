@@ -54,6 +54,7 @@ Ground 0.5, multiple flights to practice this maneuver frequently
 	2. Geometry of the approach (e.g. extend downwind)
 3. Landing attitude will be nose higher than normal to maintain same landing airspeed
 4. Tips on flying a no-flap landing can be found in [this article](https://www.boldmethod.com/blog/learn-to-fly/manuevers/how-to-fly-a-no-flap-landing-pattern-through-touchdown/) from [[Bold Method]]
+5. Approach speeds
 
 ### Completion Standards
 Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. They must additionally demonstrate energy management while landing without the use of flaps.
