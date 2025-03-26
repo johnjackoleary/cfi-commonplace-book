@@ -57,10 +57,11 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 			> 2. If your heading takes you across the holding fix and then into the hold, that is a teardrop entry. Crossing the holding fix, proceed as per the [[AIM]].
 			> 3. If your heading is taking you directly to the fix or navaid that makes up the hold, and you are able to simply, directly make the correct turn entering the hold, then that is a direct entry.
 		4. Method 4: 'Draw' the entry on the heading indicator
-			1. #todo :: Add more info on this method
-		5. Method 5: Draw the entry in a notebook
+			1. From [[Jeppesen Instrument-Commercial]] 5-48
+			2. #todo :: Add more info on this method
+		6. Method 5: Draw the entry in a notebook
 			1. Generally too slow to do in flight
-		6. Method 6: [[MFD]] or [[EFB]] plotting
+		7. Method 6: [[MFD]] or [[EFB]] plotting
 			1. Learn to program them efficiently to provide a backup on one of the above
 5. Flying Hold
 	1. Workload Management
@@ -82,7 +83,10 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 		> 4. Leg length in miles if [[DME]] or [[RNAV]] is to be used (leg length will be specified in minutes on pilot request or if the controller considers it necessary).
 		> 5. Direction of turn if left turns are to be made, the pilot requests, or the controller considers it necessary.
 		> 6. Time to expect further clearance ([[EFC]]) and any pertinent additional delay information.
-8. Common Errors
+8. When can you log a hold
+	1. > [!quote] [[AIM 5]]-4-9, on [[HILPT]]
+	   > The holding pattern maneuver is completed when the aircraft is established on the inbound course after executing the appropriate entry.
+9. Common Errors
 	1. Wasting fuel - use slow cruise or even max endurance speed if fuel is a factor
 	2. GPS confusion
 	3. Incorrect entry choice

@@ -8,5 +8,6 @@
 - [[IPH Ch5]]
 - [[IPH Ch6]]
 - [[IPH Ch7]]
+- [[IPH Glossary]]
 
 #acronym #handbook/iph 
