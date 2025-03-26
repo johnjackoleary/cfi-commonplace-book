@@ -36,16 +36,30 @@ Ground 1.5 hours
 	2. Non-Precision
 		1. Lateral Guidance Only
 		2. Fly to a Minimum Descent Altitude
-2. Approaches (Part 97)
-	1. Reading plates 
+2. Approaches ([[Part 97]])
+	1. Briefing a plate
+		1. Top to bottom, left to right
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
-	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
-3. Nav equipment considerations
+	3. Parts of approach: [[Feeder Route]]s, Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
+	4. Specific notable elements
+		1. Expiration and amended dates
+		2. Inverted T, A, W, C, and D
+		3. Water
+		4. Highest obstacle
+		5. [[MSA]]
+		6. NoPT
+		7. Approach NA for arrivals on ___
+3. Airport lighting and environment
+	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
+	2. Inop components impact available in [[TPP]]s
+	3. Pilot controlled lights
+	4. May need to ask towered airports to turn lights up (or down)
+4. Nav equipment considerations
 	1. Use of GPS maps and guidance for initial approach ([[AC 90-108]])
 	2. Methods for switching CDI from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
-4. ATC Approach Clearances
+5. ATC Approach Clearances
 	1. [[PTAC]] #memory-aid for an approach clearance
 		1. >[!quote] 81034, you are 5 miles from UUHUT. Fly heading 220. Maintain 3100 until established on the localizer. Cleared ILS 25R approach.
 		2. >[!quote] 5286C, 3 miles from SMONE. Fly direct SMONE. Cross SMONE at 4900. Cleared RNAV 25R.
@@ -58,8 +72,8 @@ Ground 1.5 hours
 			3. How will the approach terminate?
 		2. >[!quote] 81034 requesting the ILS 31 practice approach into Salinas, own navigation, followed by the published missed
 		3. >[!quote] 5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
-5. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
-6. Descent Profiles: 
+6. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
+7. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
 		1. Great [[AOPA]] article [here](https://www.aopa.org/news-and-media/all-news/2020/march/pilot/on-instruments-diving-and-driving)
 	2. [[VDP]]
@@ -72,11 +86,6 @@ Ground 1.5 hours
 		2. GPS/DME
 	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
 	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
-7. Airport lighting and environment
-	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
-	2. Inop components impact available in [[TPP]]s
-	3. Pilot controlled lights
-	4. May need to ask towered airports to turn lights up (or down)
 8. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
 	1. Continuously in position to land, with normal descent rate and maneuvers 
 	2. AND Flight visibility >= minimum 
