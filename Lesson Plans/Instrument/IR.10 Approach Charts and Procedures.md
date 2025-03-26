@@ -40,15 +40,16 @@ Ground 1.5 hours
 	1. Briefing a plate
 		1. Top to bottom, left to right
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
-	3. Parts of approach: [[Feeder Route]]s, Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
+	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
 	4. Specific notable elements
 		1. Expiration and amended dates
 		2. Inverted T, A, W, C, and D
 		3. Water
 		4. Highest obstacle
 		5. [[MSA]]
-		6. NoPT
-		7. Approach NA for arrivals on ___
+		6. [[Feeder Route]]s
+		7. NoPT
+		8. Approach NA for arrivals on ___
 3. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
