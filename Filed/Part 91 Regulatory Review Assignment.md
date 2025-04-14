@@ -5,7 +5,7 @@ From [[AC 61-98]] Appendix F:
 	- [ ] Recent Flight Experience (§ [[FAR 61.57 Recent Flight Experience|61.57]])
 - [ ] **Responsibility**:
 	- [ ] Authority (§ [[FAR 91.3 PIC Responsibility and Authority|91.3]])
-	- [ ] Air Traffic Control (ATC) Instructions (§ [[FAR 91.123 Compliance with ATC|91.123]])
+	- [ ] Air Traffic Control ([[ATC]]) Instructions (§ [[FAR 91.123 Compliance with ATC|91.123]])
 	- [ ] Preflight Action (§ [[FAR 91.103 Preflight Action|91.103]])
 	- [ ] Safety Belts (§ [[FAR 91.107 Use of Seat Belts|91.107]])
 	- [ ] Flightcrew at Station (§ [[FAR 91.105 Seatbelts and Shoulder Harness|91.105]])

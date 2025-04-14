@@ -36,12 +36,13 @@ Ground 30m, Sim/airplane – 2.5 hours
 3. Other elements of a GPS approach
 	1. Fly Over vs. Fly By
 4. [[CDI]] Sensitivity: [[RNP Precision per Approach Segment.jpeg]]
-	2. Localizer-like precision^[[What's The Difference Between LPV and LNAV/VNAV Approaches?](https://www.boldmethod.com/learn-to-fly/navigation/what-is-the-difference-between-lpv-and-lnav-vnav-and-plus-v-gps-approaches/) from [[Bold Method]]]
+	1. Localizer-like precision^[[What's The Difference Between LPV and LNAV/VNAV Approaches?](https://www.boldmethod.com/learn-to-fly/navigation/what-is-the-difference-between-lpv-and-lnav-vnav-and-plus-v-gps-approaches/) from [[Bold Method]]]
 5. RNAV (GPS) Approach Shapes
-	3. Basic T Shape -- [KHYR RNAV 21](https://cfijack.com/latest-plate-redirect/?plate=05411R21.PDF)
-	4. [[TAA]] -- [KSCK RNAV 29R](https://cfijack.com/latest-plate-redirect/?plate=00407R29R.PDF) with a T, or [KLVN RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=06652R12.PDF) without a T
+	1. Basic T Shape -- [KHYR RNAV 21](https://cfijack.com/latest-plate-redirect/?plate=05411R21.PDF)
+	2. [[TAA]] -- [KSCK RNAV 29R](https://cfijack.com/latest-plate-redirect/?plate=00407R29R.PDF) with a T, or [KLVN RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=06652R12.PDF) without a T
+		1. Right TAA?
 6. GPS Failures
-	5.  **W** at [C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)
+	1.  **W** at [C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)
 7. Bugging an [[MDA]] for [[ACS]] standards -- consider setting it +50' since standards are -0/+100
 	
 ### Completion Standards

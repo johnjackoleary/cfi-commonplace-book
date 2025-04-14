@@ -44,7 +44,8 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	2. Straight and Level flight ([[IFH]] 7-2)
 	3. Straight climbs and descents ([[IFH]] 7-14)
 	4. Turns ([[IFH]] 7-19)
-5. Common Errors: 
+5. [[See and Avoid]] still expected [[IFR]] on [[VMC]] day
+6. Common Errors: 
 	1. Spatial disorientation 
 	2. Distraction 
 	3. Fixation or omission 

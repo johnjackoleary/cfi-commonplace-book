@@ -22,22 +22,22 @@ Suggested Circuits:
 | [KSNS ILS 31](https://cfijack.com/latest-plate-redirect/?plate=00363I31.PDF)           | Arc, HILPT, [[LR]]                 |             |
 | [KMOD ILS or LOC 28R](https://cfijack.com/latest-plate-redirect/?plate=00643IL28R.PDF) | HILPT                              |             |
 | [KNUQ ILS 32R](https://cfijack.com/latest-plate-redirect/?plate=00410IL32R.PDF)        |                                    |             |
-| [KSUU ILS 21L](https://cfijack.com/latest-plate-redirect/?plate=)                      | Multiple IAP types on single chart |             |
+| KSUU ILS 21L                                                                          | Multiple IAP types on single chart |             |
 | [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)             |                                    |             |
 | [KCCR 19R LDA](https://cfijack.com/latest-plate-redirect/?plate=05320LDA19R.PDF)       | [[LDA]]                            |             |
 | KMRY LOC 28L                                                                           |                                    |             |
-| KHWD LOC/DME 28L                                                                       |                                    |             |
+| [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)     |                                    |             |
 | KOAK ILS or LOC/DME 28R                                                                | Sidestep                           |             |
 | [KMCE LOC BC RWY 12](https://cfijack.com/latest-plate-redirect/?plate=00665LBC12.PDF)  | BC                                 |             |
 | [KSMX LOC/DME BC-A](https://cfijack.com/latest-plate-redirect/?plate=00379LDBCA.PDF)   | BC                                 |             |
 
 Suggested Circuit:
-- [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF), turn at IPDEW -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF), touch and go -> KHWD LOC/DME 28L
+- [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF), turn at IPDEW -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF), touch and go -> [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)
 
 ## [[VOR]] ([[IR.11C VOR + Circling Approaches]])
 | Approach                                                                     | Skill Areas                          | XC Distance |
 | ---------------------------------------------------------------------------- | ------------------------------------ | ----------- |
-| KAPC VOR 6                                                                   | Course Reversal, VOR Station Passage |             |
+| [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)                                                                   | Course Reversal, VOR Station Passage |             |
 | [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF)  | HILPT, Timed FAF to MAP              |             |
 | [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) |                                      |             |
 | KPRB VOR-B, 19                                                               | DME Arc                              |             |
@@ -47,7 +47,7 @@ Suggested Circuit:
 Suggested Circuit:
 - [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) -> [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)
 - KPRB VOR 19 -> KPRB VOR-B
-- [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF) -> KAPC VOR 6
+- [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF) -> [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)
 
 # Challenge Circuits
 ## Simulator Practice
@@ -56,7 +56,7 @@ Suggested Circuit:
 
 ## In Airplane Practice
 - [KSQL VFR-to-IFR departure](https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3282452782098945323) -> KHAF RNAV 30 -> KNUQ ILS 32R -> alternate missed hold 3500' at OSI-> KPAO RNAV 31
-- [KCCR BCHN.2.CROIT](https://cfijack.com/latest-plate-redirect/?plate=05320BUCHANAN.PDF) -> KAPC ILS 1L -> Missed -> KAPC VOR 6 circle to land -> [KCCR 19R RNAV](https://cfijack.com/latest-plate-redirect/?plate=05320R19R.PDF)
+- [KCCR BCHN.2.CROIT](https://cfijack.com/latest-plate-redirect/?plate=05320BUCHANAN.PDF) -> [KAPC ILS 1L](https://cfijack.com/latest-plate-redirect/?plate=00281ILZ1L.PDF) -> Missed -> [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF) circle to land -> [KCCR 19R RNAV](https://cfijack.com/latest-plate-redirect/?plate=05320R19R.PDF)
 - [KTCY RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=05815R12.PDF) circle-to-land -> [KTCY DP](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF) -> [KTCY VOR 26](https://cfijack.com/latest-plate-redirect/?plate=05815V26.PDF) -> Missed -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)
 - [KWVI ODP](https://cfijack.com/latest-plate-redirect/?plate=00805WATSONVILLE.PDF) -> [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) -> missed -> [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF) -> missed -> [KWVI RNAV 2](https://cfijack.com/latest-plate-redirect/?plate=00805R2.PDF) circle-to-land -> [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)
 
