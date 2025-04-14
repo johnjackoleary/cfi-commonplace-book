@@ -37,10 +37,9 @@ Ground 1.5 hours, Flight 3 hours
 3. IFR cross country flight planning: 
 	1. Symbology on IFR enroute and approach charts 
 	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
-	3. Fuel planning and monitoring, and definitions of minimum and emergency fuel 
-		1. https://www.faa.gov/sites/faa.gov/files/2022-11/INFO_08004.pdf
-		2. https://www.ifr-magazine.com/technique/what-is-minimum-fuel/
-		3. [Avianca Flight 052](https://en.wikipedia.org/wiki/Avianca_Flight_052) #case-study
+	3. Fuel planning and monitoring, and definitions of [[Minimum Fuel]] and [[Emergency Fuel]] 
+		1. [[InFO 08004]]
+		2. [Avianca Flight 052](https://en.wikipedia.org/wiki/Avianca_Flight_052) #case-study
 	4. Alternate airport selection and planning^[See also [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]])
 		1. Standard and alternate minimums
 		2. [[1-2-3 Rule]]

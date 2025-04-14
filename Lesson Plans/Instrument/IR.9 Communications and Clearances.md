@@ -53,9 +53,7 @@ Ground 1.5 hours
 2. Clearances ([[Sample IFR Clearances]])
 	1. When are clearances required? 
 		1. [[FAR 91.173 ATC Clearance Reqd|FAR 91.173]]
-		2. Lamb 2016 LOI https://www.ifr-magazine.com/technique/legal-interpretations/
-			1. Some IFR requirements apply generally; others only to controlled airspace. A flight plan and clearance are required by 91.173, but only in controlled airspace. The reg doesn’t require either when operating IFR in uncontrolled airspace. But, as the Chief Counsel reminded Daniel Lamb (and the rest of us) in 2016, a technically legal operation can be careless and reckless under 91.13, depending on the circumstances. The warning is not hollow. In a 1993 case, George Murphy was tired of waiting for his IFR release from a nontowered airport, so he took off uncontrolled IFR into low ceilings with passengers, figuring he would reach VMC before entering controlled airspace at 700 AGL. The violation for operating without a clearance was dismissed, but that did not stop the NTSB from giving him a 90-day flight vacation for careless and reckless operation.
-		3. NTSB Order EA 3935
+		2. However, see Lamb 2016 LOI, which states operating IFR in uncontrolled airspace can be careless and reckless under [[FAR 91.13 Careless or Reckless Ops|91.13]], depending on the circumstances^[[Legal Interpretations](https://ifr-magazine.com/technique/legal-interpretations/) by [[IFR Magazine]]: "In a 1993 case, George Murphy was tired of waiting for his IFR release from a nontowered airport, so he took off uncontrolled [[IFR]] into low ceilings with passengers, figuring he would reach [[VMC]] before entering controlled airspace at 700 AGL. The violation for operating without a clearance was dismissed, but that did not stop the [[NTSB]] from giving him a 90-day flight vacation for careless and reckless operation."]
 	2. How to obtain clearance
 		1. Clearance Delivery/GND at Towered Airport
 		2. FSS
@@ -66,7 +64,7 @@ Ground 1.5 hours
 		3. Altitude 
 		4. Frequency 
 		5. Transponder code 
-	4.  Tips on writing clearances
+	4. Tips on writing clearances
 		1. Clearance shorthand ([[IFH]] Appendix A)
 	5. “At Pilots Discretion” ([[AIM 4]]-4-10)
 	6. [[VFR-On-Top]] ([[AIM 4]]-4-8)
