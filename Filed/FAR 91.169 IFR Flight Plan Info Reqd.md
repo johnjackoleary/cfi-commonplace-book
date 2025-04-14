@@ -1,6 +1,7 @@
 ***Link***      :: [§ 91.169 IFR flight plan: Information required.](https://www.ecfr.gov/current/title-14/section-91.169)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
+***Related To:*** [[1-2-3 Rule]]
 
 #### Key Quotes
 * each person filing an IFR flight plan must include...

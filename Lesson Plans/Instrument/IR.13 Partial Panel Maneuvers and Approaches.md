@@ -19,7 +19,7 @@ None
 - [[IR.9 Communications and Clearances]]
 
 ### Schedule
-Ground 1 hour, simulator and/or airplane 1 hour
+Ground 0.5 hour, simulator and/or airplane 1 hour
 
 ### Lesson Elements
 1. Review instrument systems and power sources 

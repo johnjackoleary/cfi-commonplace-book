@@ -31,12 +31,11 @@ Ground 1 hour, simulator – 2.5 hours
 		1. 1.3nm from each runway end for Category A at most altitudes
 		2. Old vs new approach categories
 		3. AIM 5-4-20
-	4. Loss of flight visibility or airport, execute missed 
-	5. Missed approach during circle-to-land procedure (AIM 5-4-21)
-4. Visual and Contact approaches: 
-	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
-	2. Contact approach (AIM 5-4-25) – pilot must request, vis >1 SM, clear of clouds 
-5. Common errors 
+	4. How to circle
+	5. Loss of flight visibility or airport, execute missed 
+	6. Missed approach during circle-to-land procedure (AIM 5-4-21)
+	7. Personal minimums
+4. Common errors 
 	1. Unstable approaches 
 	2. Failure to configure aircraft for approach and landing 
 	3. Failure to manage automation

@@ -105,7 +105,6 @@ Background knowledge required for safe mountain flying.
 				1. [[Mountain Wave]] Signs![[Mountain Waves and Associated Clouds.jpeg]]
 				3. [[Kelvin–Helmholtz Cloud]]s
 			4. [[Thunderstorm]]s
-				1. [[Roll Cloud]]s
 			5. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])
 				2. Increased likelihood of [[Mountain Wave]]

@@ -28,13 +28,13 @@ Ground 1.5 hours, flight 3 hours
 	3. [[Personal minimums]] that allow for an approach after departure, if needed
 2.  Departures
 	1. > [!quote] From [[AIM 5]]-2
-	> Unless specified otherwise, required obstacle clearance for all departures, including diverse, is based on the pilot crossing the departure end of the runway at least 35 feet above the departure end of runway elevation, climbing to 400 feet above the departure end of runway elevation before making the initial turn, and maintaining a minimum climb gradient of 200 feet per nautical mile (FPNM), unless required to level off by a crossing restriction, until the minimum IFR altitude.
-	3. Diverse Departure Obstacle Assessment (5-2-9) - [[TERPS]]
-		1. Obstacle Clearance Surface (40:1) 152ft/nm
+	> Unless specified otherwise, required obstacle clearance for all departures, including diverse, is based on the pilot **crossing the departure end of the runway at least 35 feet above the departure end of runway** elevation, **climbing to 400 feet above the departure end of runway elevation before making the initial turn**, and maintaining a **minimum climb gradient of 200 feet per nautical mile** (FPNM), unless required to level off by a crossing restriction, until the minimum IFR altitude.
+	2. Diverse Departure Obstacle Assessment (5-2-9) - [[TERPS]]
+		1. Obstacle Clearance Surface ([[OCS]]) (40:1) 152ft/nm
 		2. Required Climb Gradient 200ft/nm
 		3. Low, Close in Obstacles
 		4. Finding required climb performance in [[fpm]]
-	4. [[DP]]s: [[ODP]], [[SID]], [[DVA]]
+	3. [[DP]]s: [[ODP]], [[SID]], [[DVA]]
 		1. SIDs
 			1. Examples
 				1. Vectors - [KFAT YOSEMITE 3](https://cfijack.com/latest-plate-redirect/?plate=00162YOSEMITE.PDF)
@@ -54,9 +54,11 @@ Ground 1.5 hours, flight 3 hours
 				1. [KIWA](https://cfijack.com/latest-plate-redirect/?plate=SW4TO.PDF#page=28) DVA 
 				2. [KSQL](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=25) DVA
 			2. ATC provides obstacle clearance via radar vectors prior to reaching the MVA and minimum IFR altitude
-	6. VFR-to-IFR departures^[One example of this is the [departure from KSQL](https://www.sancarlosairport.org/Departure-Guidance-030222.pdf)]
-	7. [[VCOA]]
-		1. Examples
+	4. VFR-to-IFR departures^[One example of this is the departure from KSQL]
+	5. [[VCOA]]
+		1. > [!quote] From [[AIM 5]]-2-9
+		   > When departing using the VCOA, obstacle avoidance is not guaranteed if the pilot maneuvers farther from the airport than the published visibility minimum for the VCOA prior to reaching the published VCOA altitude.
+		2. Examples
 			1. [E16](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28)
 			2. [KSTS](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28)
 4. Standard Terminal Arrivals ([[STAR]]s)
@@ -73,7 +75,7 @@ Ground 1.5 hours, flight 3 hours
 		2. Descend via [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)
 6. Common errors 
 	1. Accepting a SID or STAR without briefing
-	2. Not knowing performance capability of aircraft to to fly any procedure
+	2. Not knowing performance capability of aircraft to fly any procedure
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:

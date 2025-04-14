@@ -39,6 +39,7 @@ Ground 1.5 hours
 2. Approaches ([[Part 97]])
 	1. Briefing a plate
 		1. Top to bottom, left to right
+		2. Other ideas in [this article](https://www.aopa.org/news-and-media/all-news/1996/june/pilot/technique) from [[AOPA]]
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
 	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
 	4. Specific notable elements
@@ -50,6 +51,7 @@ Ground 1.5 hours
 		6. [[Feeder Route]]s
 		7. NoPT
 		8. Approach NA for arrivals on ___
+		9. Increase MDAs if local Wx not available, e.g. [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)
 3. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
@@ -107,7 +109,7 @@ Ground 1.5 hours
 	3. How to handle MA before MAP 
 		1. "Fly over" MAP first (must stay on the lateral course)
 		2. You can begin to climb anytime, assuming no contrary notes in the [[IAP]]
-	4. How to handle "go-around" after MAP^[Example in [this video](https://www.youtube.com/watch?v=vtlS0sxFlHk) of loosing visibility on final]
+	4. How to handle "go-around" after MAP^[Example in [this video](https://www.youtube.com/watch?v=vtlS0sxFlHk) of losing visibility on final]
 		1. May choose to cancel IFR if conditions permit
 		2. In ATC environment - immediately contact ATC to obtain amended clearance
 		3. If unable to contact ATC, attempt to re-intercept published segment of missed approach
