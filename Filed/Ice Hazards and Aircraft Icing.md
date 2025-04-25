@@ -29,7 +29,7 @@ Ice can form on any exposed surface, and different locations cause different iss
 | Severe    | 3+ inch/hr          | Immediate diversion required          |
 | [[SLD]]   | ++                  | Immediate diversion required          |
 
-Up to moderate ice, you can fly into it with a plane that is certified for [[FIKI]] (following the proper procedures for the airplane).
+A plane that is certified for [[FIKI]] can operate in up to moderate icing (following the proper procedures for the airplane).
 
 | Intensity | Effects^[[Icing](https://www.weather.gov/source/zhu/ZHU_Training_Page/icing_stuff/icing/icing.htm) from [[weather.gov]]] |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +44,7 @@ Up to moderate ice, you can fly into it with a plane that is certified for [[FIK
 	- Air intake icing and alternative intake solutions
 	- [[How and Why Carburetor Ice Forms|Carburetor Icing]]
 - Instrument Icing
-	- Icing on pitot tube, antennas, etc.
+	- Icing on pitot tube, static port, antennas, etc.
 
 ## Icing Avoidance
 ### Icing Conditions
@@ -54,7 +54,7 @@ In general, any time^[This is really common advice, but Jack could not find a sp
 
 Certain fronts and atmospheric structures are more likely to cause icing conditions.
 
-Typically, ice only forms within a 2000-3000' layer, so descending may help. (Climbing may also help, but also increases the risk of [[SLD]].) A key initial goal is to stop the accumulation.
+Typically, ice only forms within a 2000'-3000' layer,^[From [Aircraft Icing: Everything You Ever Wanted to Know](https://www.youtube.com/watch?v=BNUekm12_xM)] so descending may help. (Climbing may also help, but also increases the risk of [[SLD]].) A key initial goal is to stop the accumulation.
 
 ### Flight Into Known Icing Conditions
 Aircraft certified for [[FIKI]] need to have specific tests completed. All equipment must be functional to fly into known icing conditions.
@@ -71,7 +71,8 @@ Aircraft certified for [[FIKI]] need to have specific tests completed. All equip
 	- Windshield defroster
 	- Fluids released from leading edge of propeller or wing
 - De-icers remove ice after formation
-	- Rubber boots to crack ice that's formed
+	- Rubber boots
+	- Weeping Wing
 - You may be able to knock some ice from a constant-speed propeller by varying the pitch
 
 > [!youtube] Published by [[Air Safety Institute]]
@@ -86,6 +87,7 @@ Aircraft certified for [[FIKI]] need to have specific tests completed. All equip
 - [[Aircraft Icing]]
 - [[How to Properly Use an Icing Forecast]]
 - [[How and Why Carburetor Ice Forms]]
+- [Aircraft Icing: Everything You Ever Wanted to Know](https://www.youtube.com/watch?v=BNUekm12_xM)
 - From [[Air Safety Institute]]
 	- [Beyond Proficient | IFR Series: Avoiding Icing](https://www.youtube.com/watch?v=gOUkAq8oWy0)
 	- [Accident Case Study: Trapped in Ice](https://www.youtube.com/watch?v=7rryvSQhK7k)
