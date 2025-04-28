@@ -45,7 +45,7 @@ Ground 2 hours
 4. Hazardous Inflight Weather
 	1. Turbulence
 	2. Thunderstorms / Hail
-	3. [[Ice Hazards and Aircraft Icing]] - Tailplane stall, roll upset stall, [[Freezing Rain]], [[SLD]]
+	3. [[Ice Hazards and Aircraft Icing]] - Stalls, tailplane stall, roll upset stall, [[Freezing Rain]], [[SLD]]
 		1. https://www.youtube.com/watch?v=7rryvSQhK7k
 	4. What to do if any of these are encountered or forecast
 5. Anti-ice/deicing and weather detection equipment and their operating characteristics to include—
