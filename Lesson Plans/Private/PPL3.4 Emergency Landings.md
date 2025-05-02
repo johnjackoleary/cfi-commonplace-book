@@ -25,22 +25,6 @@ Develop knowledge and skills associated with emergency landings, including choos
 2. Types of emergency landings: forced landing, precautionary landing, ditching
 3. [[Aviate, Navigate, Communicate]]
 4. [[ABCDE]]
-	1. Airspeed - best glide ([[Vg]])^[Best glide is often achieved by just flying wings level with the horizon. See [Best Glide Simplified](https://pilotworkshop.com/tips/best-glide-simplified/) for more info.]
-	2. Best place to land -- (hopefully) a preselected landing area
-		1. Turn there immediately!
-		2. Land INTO the wind!
-		3. If altitude allows: GPS NRST - what is closest airport?
-		4. If you identify a better place on the way, can change this. But should turn to best known option right away.
-		5. #rule-of-thumb: Can glide 1.5 NM per 1000 feet altitude in C172SP (see also [[POH]])
-	3. Checklist
-		1.  Flow from memory based on type of emergency
-		2. Cross-check POH checklist (best to have paper copy ready!)
-	4. Declare
-		1. [[Squawk 7700]]
-		2. Mayday call with Approach or Center, nearby tower, or [[Emergency Frequency|121.5]] (last resort)
-	5. Execute emergency landing
-		1. Survival statement ("I'm a glider pilot, I'm going to land this plane.")
-		2. Get to key point @1000' AGL: Spiral descent, then rectangular pattern (if altitude permits) ![[Key Position for Power Off 180.jpeg]]
 5. Details on flying the approach
 	1. Effects of headwinds/tailwinds 
 		1. ![[Effect of Headwind on Landing Point.jpeg]]

@@ -61,14 +61,15 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 	7. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
 5.  Aerodynamics of stalls
-	1. [[Stall]] occurs at critical angle of attack
+	1. [[Stall]] occurs when you exceed the **critical angle of attack** ([[AOA]])
 	2. Stall can occur at ANY airspeed, attitude, or power setting!
 	3. Aircraft designed to pitch down at stall 
 		1. ![[Longitudinal Stability.png]]
 		2. ![[Effect of Speed on Downwash.jpeg]]
 	4. Discuss effect from
 		1. Change wing shape
-			1. flaps: wing generates more lift, so can fly at lower angle of attack w/ flaps, so lower stall speed
+			1. Vs, Vs0
+			2. flaps: wing generates more lift -> can fly at lower angle of attack w/ flaps -> lower stall speed
 		2. Change wing loading
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
