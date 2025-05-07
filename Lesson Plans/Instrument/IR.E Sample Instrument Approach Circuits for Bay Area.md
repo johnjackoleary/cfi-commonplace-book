@@ -51,7 +51,7 @@ Suggested Circuit:
 
 # Challenge Circuits
 ## Simulator Practice
-- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF)
+- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> KSGS DP -> KRGK RNAV 27
 - [KBIY RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=00068R20.PDF) (obstacles on final)
 
 ## In Airplane Practice
