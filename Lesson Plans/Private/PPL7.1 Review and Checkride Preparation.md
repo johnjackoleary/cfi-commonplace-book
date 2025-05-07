@@ -25,27 +25,31 @@ Ground 3 hours, Flight as necessary
 ### Lesson Elements
 1. Thorough review of [[ACS]]
 	1. Also helpful to read [[ACS Tips for Evaluators]]
-2. Odds and Ends FARs (for a general review, see [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]])
+2. Thoughts on when to discontinue
+	1. Not feeling well, or drained from the oral
+	2. Winds or weather beyond personal minimums
+	3. If you wouldn't take your grandma flying today, it's not a good day for a checkride
+3. Odds and Ends FARs (for a general review, see [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]])
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
 	4. [[Pilot's Bill of Rights]]
 	5. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
 	6. [[ASRS]] Reports^[Informally [NASA reports](https://asrs.arc.nasa.gov)]
-3. [[ADM]] discussion
+4. [[ADM]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
 	3. [[The Killing Zone]]
-4. Choice of [[DPE]] and location of checkride
+5. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
-5. Practice for oral potion of practical test
+6. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
 		2. [[Scott Rohlfing]], DPE: http://attheready.com/from-my-perspective-
 	3. Books available for preparation (e.g [ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
 	4. Practice oral exams with other students and instructors
-6. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
-7. Simulated practical test (optional) with senior CFI
+7. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
+8. Simulated practical test (optional) with senior CFI
 
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.

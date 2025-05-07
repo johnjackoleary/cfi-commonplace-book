@@ -39,7 +39,7 @@ Develop initial knowledge of and sources for preflight briefings.
 1. Preflight - [[PAVE]]
 	1. <u>P</u>ilot
 		1. [[IMSAFE]] checklist
-		2. Government ID, pilot license, and medical certificate - in possession ([[FAR 61.3]])
+		2. Government ID, pilot license, and medical certificate - in possession ([[FAR 61.3 Reqs for Certs, Ratings, Etc]])
 		4. Currency for carrying passengers (day or night) - met ([[FAR 61.57 Recent Flight Experience]])
 	2. <u>A</u>ircraft
 		1. [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]

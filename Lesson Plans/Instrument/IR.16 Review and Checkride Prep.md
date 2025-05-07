@@ -22,7 +22,10 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 Ground 1 hour, Flight 3 hours 
 
 ### Lesson Elements
-1. Emergencies and [[ADM]]
+1. [[WVFC]] specific
+	1. Instrument knowledge quiz
+	2. Instrument phase check
+2. Emergencies and [[ADM]]
 	1. Instrument or system failures 
 	2. Partial panel, no-gyro approaches (ASR, PAR) 
 	3. Lost communications review (see [[IR.D Kneeboard Cheatsheets]]). Recognizing loss of communications and attempting to re-establish. 
@@ -32,7 +35,7 @@ Ground 1 hour, Flight 3 hours
 		1. Fuel reserves are required at takeoff, it is not illegal to use part of that reserve. 
 		2. Declare “Minimum fuel” when in your judgment, you can accept no undue delay. This is NOT an emergency declaration 
 		3. Declare fuel emergency when in your judgment, it is necessary to proceed directly to your destination airport. ATC will give priority. 
-2. Review and practice: 
+3. Review and practice: 
 	1. Review knowledge test items 
 	2. ACS requirements and standards 
 		1. Also helpful to read [[ACS Tips for Evaluators]]
@@ -46,7 +49,7 @@ Ground 1 hour, Flight 3 hours
 	10. Aircraft prep for checkride, tab MX records, POH/AFM, etc.
 	11. [[Human Factors]] and [[Illusions Leading to Spatial Disorientation]] for instrument flight
 	12. [[IFR Regulatory Review Assignment]]
-3. Video, showing DPE’s perspectives on Instrument Practical Test - Andy Munnis (specifically on oral part of exam): https://www.youtube.com/watch?v=EUzR8f1Npss
+4. Video, showing DPE’s perspectives on Instrument Practical Test - Andy Munnis (specifically on oral part of exam): https://www.youtube.com/watch?v=EUzR8f1Npss
  
 ### Completion Standards
 The student must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, including ability to complete no precision approach without use of primary flight instruments.
