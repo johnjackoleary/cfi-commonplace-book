@@ -1,6 +1,6 @@
 # Key Takeaways
 - A safety pilot is required when "under the hood"^[[[FAR 91.109 Flight Instruction, Sim Instrument, Tests|FAR 91.109]]]
-- Safety pilot requirements change slightly if that person will be acting as PIC (and logging PIC time) or if they will not
+- Safety pilot requirements expand slightly if that person will be acting as PIC (and logging PIC time)
 - Seeing how others fly is an excellent way to improve as a pilot
 
 # Details
@@ -18,7 +18,7 @@ In order to act as PIC, the safety pilot must meet the qualifications to be PIC.
 If these qualifications are not met, or if the person would prefer not to act as PIC, they can still be a safety pilot.
 
 ## Acting or Not Acting as PIC
-While only one pilot may be ***serving as PIC***, both pilots may be ***logging PIC time***.
+While only one pilot may be ***acting as PIC***, both pilots may be ***logging PIC time***.
 
 > [!quote] From [[Hicks 1993]]
 > The two pilots may, prior to initiating the flight, agree that the safety pilot will be the PIC responsible for the operation and safety of the aircraft during the flight.
@@ -44,17 +44,16 @@ If a safety pilot cannot or does not want to act as PIC, they may instead log [[
 > - PIC: Depends on club and insurance policies.
 
 ## Logging
-The pilot "under the hood" is required to log the name of the safety pilot.^[[[FAR 61.51 Pilot Logbooks]]] [[AOPA]] suggests the safety pilot also log the name of the other pilot.
-
-The safety pilot may not log cross-country time, since they are not required for the entire flight.
+- The pilot "under the hood" is required to log the name of the safety pilot.^[[[FAR 61.51 Pilot Logbooks]]] [[AOPA]] suggests the safety pilot also log the name of the other pilot.
+- The safety pilot may not log cross-country time, since they are not required for the entire flight.
 
 ## Sample Conversation Before Departure
-> [!quote]
+> [!quote] Sample
 > If you'd like to act as PIC, and therefore log PIC, you'll need to be qualified and current to fly this airplane today. Could you take me (a passenger) up flying today?
 > 
 > *If so:* You'll be acting as PIC for the parts of this flight I'm under the hood. That means you can log that time as PIC, although you're also responsible for keeping us safe and legal. Of course, I'll also be attentive to those things as well.
 > 
-> *If not:* We can still fly together, and I'll act as PIC. You'll be my eyes outside for see-and-avoid, although any additional help is greatly appreciated. You can log SIC time if you'd like.
+> *If not:* We can still fly together, and I'll act as PIC. You'll be my eyes outside for see-and-avoid, although any additional help is appreciated. You can log SIC time if you'd like.
 
 # Additional Resources
 - [[FAR]]s
