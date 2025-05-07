@@ -26,9 +26,9 @@ Ground 3 hours, Flight as necessary
 1. Thorough review of [[ACS]]
 	1. Also helpful to read [[ACS Tips for Evaluators]]
 2. Thoughts on when to discontinue
-	1. Not feeling well
-	2. Winds or weather below personal minimums
-		1. If you wouldn't take your grandma flying today, it's not a good day for a checkride
+	1. Not feeling well, or drained from the oral
+	2. Winds or weather beyond personal minimums
+	3. If you wouldn't take your grandma flying today, it's not a good day for a checkride
 3. Odds and Ends FARs (for a general review, see [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]])
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
