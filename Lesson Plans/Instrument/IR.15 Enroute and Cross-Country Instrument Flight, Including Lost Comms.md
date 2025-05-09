@@ -57,8 +57,9 @@ Ground 1.5 hours, Flight 3 hours
 	4. Route changes 
 	5. Diversion to alternate 
 	6. Handling VFR traffic in your way
-5. [[Lost Communications]] ([[FAR 91.185 Lost Comms]])
-6. Common errors 
+5. Canceling IFR, visual approaches, and dealing with NA procedures (e.g. KPAO at night)
+6. [[Lost Communications]] ([[FAR 91.185 Lost Comms]])
+7. Common errors 
 	1. Inadequate preflight planning and briefings 
 	2. Incorrect understanding of non-standard takeoff minimums and alternate minimums
 
