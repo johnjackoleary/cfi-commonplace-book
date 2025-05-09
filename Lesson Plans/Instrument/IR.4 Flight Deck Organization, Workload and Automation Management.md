@@ -49,13 +49,13 @@ Ground 1 hour, sim/airplane 1 hour
 2. Mental checklists 
 	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
 	2. Before taking runway: [[Lights, Camera, Action, Time]]
-	4. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]
-	5. Non-radar position reports: [[PTATEN]]
-	6. At each IFR waypoint or turn: [[5 Ts]]
-	7. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle)
-	8. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Set, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
-	9. Before landing: [[GUMPS]]
-	10. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
+	3. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
+	4. Non-radar position reports: [[PTATEN]]
+	5. At each IFR waypoint or turn: [[5 Ts]]
+	6. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle)
+	7. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Set, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
+	8. Before landing: [[GUMPS]]
+	9. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
 3. [[SRM]]
 	1. Verbalize flows and checklists, changes, [[VVM]], and "[[Two Most Important Things in Aviation|next two things]]"
 	2. Callouts with 1000', 500', 200', 100' to be before a level off or [[DA]]

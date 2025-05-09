@@ -73,7 +73,8 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		3. Mode A (squawk code + position) vs Mode C (squawk code + position + altitude)
 		4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C), GND
 			1. ALT mode on the ground?
-		5. Set to ALT ([[Lights, Camera, Action, Time]] check)
+		5. Mode S - transmits additional info like heading, speed
+		6. Set to ALT ([[Lights, Camera, Action, Time]] check)
 	5. [[ADS-B]] weather/traffic
 	6. Radio: Look for TX, RX
 	7. #G1000 specific topics: 

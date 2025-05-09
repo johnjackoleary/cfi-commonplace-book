@@ -1,0 +1,4 @@
+- Shouldn't include SSN
+- When to file it
+- Student, PPL, others
+- Gotcha

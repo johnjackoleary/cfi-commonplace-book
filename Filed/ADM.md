@@ -9,7 +9,7 @@ alias: "Aeronautical Decision-Making"
 > [!note] From [[PHAK Ch2]]
 > ADM is a systematic approach to risk assessment and stress management. To understand ADM is to also understand how personal attitudes can influence decision-making and how those attitudes can be modified to enhance safety in the flight deck. It is important to understand the factors that cause humans to make decisions and how the decision-making process not only works, but can be improved.
 
-The two main models of [[ADM]] are [[DECIDE]] and the 3P Model.
+The two main models of [[ADM]] are [[DECIDE]] and the [[3P Model]].
 
 ### DECIDE
 1. Detect that a change has occurred

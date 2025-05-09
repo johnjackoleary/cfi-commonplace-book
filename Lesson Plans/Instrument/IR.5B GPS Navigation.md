@@ -40,6 +40,7 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 		2. In term on dep until beyond 30nm from departure
 	3. Approach - ±0.3nm 
 		1. 2.0nm from [[FAF]]
+	4. Missed - 0.3/1?
 6. GPS Functions
 	1. GPS Approaches		  
 		1. [[LNAV]], [[LP]]
