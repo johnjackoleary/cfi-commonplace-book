@@ -1,3 +1,8 @@
+---
+aliases: aeromedical
+---
+
+
 All of these subjects are detailed in [[PHAK Ch17]]. 
 
 These are related to [[IMSAFE]].

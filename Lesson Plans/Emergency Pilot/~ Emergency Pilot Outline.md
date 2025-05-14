@@ -9,22 +9,16 @@ tags:
 > [!info] Sometimes called 'pinch-hitter' training
 
 ### Objective
-The learner understands the aviation systems and infrastructure that could aid them in the event of an incapacitated pilot, and they can land an airplane if necessary.
+Learner understands the aviation systems and infrastructure that could aid them in the event of an incapacitated pilot, and they can land an airplane if necessary.
 
 ### Outline
-- [[E.1 Course Goals, Aeromedical, Flight Controls and Instruments, Approach to Landing]]
-- [[E.2 Radios, Transponders, Navigation, Autopilot, IFR]] ([[ATC]] instructions or GPS)
-	- 	- Instrument conditions  and autopilot coupled approaches
-- [[E.3 Landing in an Emergency]]
-	- (airspeed control and landing attitude, stall avoidance)
-	- Parachutes
-
+- [[E.1 Flight Controls and Instruments, Approaches to Landing]]
+- [[E.2 Radios, Transponders, Navigation, Autopilot]]
+- [[E.3 Handling an Emergency and Landing]]
 
 ### Resources
-- https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/pinch-hitter
-- https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-syllabi/pinchhitter.pdf (probably worthwhile?)
-
-### Appendices
+- [Pinch Hitter](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/pinch-hitter) from [[AOPA]]
+- [Companion Copilot videos](https://www.aopa.org/training-and-safety/air-safety-institute/companion-copilot) from [[Air Safety Institute]]
 
 
 
