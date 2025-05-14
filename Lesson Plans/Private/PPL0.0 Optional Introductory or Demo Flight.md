@@ -15,11 +15,11 @@ N/A
 N/A
 
 ### Schedule
-Ground 15 min, Flight 30 min
+Ground 30 min, Flight ~1hr
 
 ### Lesson Elements
 1. Discussion of any questions before the flight
-2. Review control surfaces, four forces, principles of lift, and principles of stalls
+2. Review [[Flight Controls]], four forces, principles of lift, and principles of stalls
 3. Instructor flies to practice area
 4. Learner tries using all primary and secondary control surfaces
 5. Learner tries flying the plane through straight and level, turns, climbs, and descents

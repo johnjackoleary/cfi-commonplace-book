@@ -23,26 +23,7 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 3 hour ground (can be completed more quickly with good preparation)
 
 ### Lesson Elements 
-1. Aircraft Instruments
-	1. Pitot-Static System ([Pitot-Static Instruments](https://www.youtube.com/watch?v=kdFGbUouE_4) from [[ERAU SpecialVFR]])
-		1. Ram air vs. static air
-		2. Airspeed
-		3. Altimeter
-		4. Vertical Speed Indicator
-		5. Pitot-Static Failures
-			1. Use and impact of alternative static usage^[Jack always struggled to remember how alternate static impacted static pressure. Recently, he heard a story of an old, disagreeable man who owned a lake resort. He wanted his ashes to be scattered over the lake, so when he died, they took a small plane and poured out the ashes. But, since the air pressure in the cabin is lower than outside, all the ashes were pulled back into the airplane. Thus he continued to be a pain even after death. Also, alternate static inside the cabin is lower than normal pressure outside.]
-			2. Pitot Heat
-	2. Gyroscopic ([Gyroscopic Instruments](https://www.youtube.com/watch?v=hVsx4XWafXg) from [[ERAU SpecialVFR]])
-		1. Characteristics of a gyroscope - precession and rigidity in space
-		2. Vacuum Driven
-			1. Attitude Indicator
-			2. Directional Gyro
-		3. Electrically Driven
-			1. Turn Coordinator
-	3. Compass ([Aircraft Magnetic Compass Introduction](https://www.youtube.com/watch?v=4dDKjdj_Dvc) from [[ERAU SpecialVFR]])
-		1. Construction
-		2. [[Compass Errors]]: [[Magnetic Variation|Variation]], [[Magnetic Deviation|Deviation]], [[Magnetic Dip]] and Acceleration Errors
-	4. [[AHRS]] and [[ADC]], if relevant
+1. [[Aircraft Instruments]]
 2. Engine ([Aircraft Systems - 03 - Engine](https://youtube.com/watch?v=gIdXLMVP6VU) from [[ERAU SpecialVFR]])
 	1. [[LHAND]] memory aid
 	2. Construction of Engine

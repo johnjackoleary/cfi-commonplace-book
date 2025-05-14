@@ -3,8 +3,7 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* to safely fly any aircraft, a pilot must understand how to interpret and operate the flight instruments
+* also needs to be able to recognize associated errors and malfunctions
 
 #source #handbook/phak 
-
-#todo :: add key quotes

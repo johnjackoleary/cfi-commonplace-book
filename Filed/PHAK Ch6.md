@@ -3,8 +3,7 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* flight control systems a pilot uses to control the forces of flight and the aircraft’s direction and attitude
+* can vary greatly depending on the type of aircraft flown
 
 #source #handbook/phak 
-
-#todo :: add key quotes
