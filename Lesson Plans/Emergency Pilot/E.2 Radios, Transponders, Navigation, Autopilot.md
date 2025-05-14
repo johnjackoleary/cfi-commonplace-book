@@ -8,8 +8,6 @@ tags:
 ### Objective
 Learner understands the systems and infrastructure available to help in an emergency. They can use the GPS and autopilot for navigation.
 
-### Resources
-
 ### Builds On
 [[E.1 Flight Controls and Instruments, Approaches to Landing]]
 
