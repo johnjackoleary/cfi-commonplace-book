@@ -1,6 +1,7 @@
 ***Link***      :: [4 Step Instrument Scan](https://www.aopa.org/news-and-media/all-news/2003/october/flight-training-magazine/4-step-instrument-scan)
 ***Description***      :: `= this.link`
 ***Author*** :: [[AOPA]]
+***Related To:*** [[Aircraft Instruments]]
 
 #### Key Quotes
 * A good instrument scan procedure means that the pilot is always looking at meaningful information. Telling a student to "keep your eyes moving and scan all the instruments" does not fulfill this objective. That action will cause you to look at nonessential information, which wastes time, causes poor performance, and decimates self-confidence.

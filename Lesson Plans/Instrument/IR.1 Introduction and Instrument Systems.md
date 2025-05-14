@@ -41,7 +41,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 	2. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists 
 		2. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
-2. Instrument systems and power sources, flight characteristics, limitations, errors, pre-flight check methods 
+2. [[Aircraft Instruments]] and power sources, flight characteristics, limitations, errors, pre-flight check methods 
 	1. Required equipment for IFR flight, and IFR airworthiness requirements ([[FAR 91.205 Instrument and Equipment Requirements]])
 		1. Mnemonic [[GRABCARDD]]
 	2. [[FAR 91.213 Inop Equip]]

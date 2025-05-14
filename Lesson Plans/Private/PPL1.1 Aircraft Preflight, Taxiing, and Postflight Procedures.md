@@ -43,12 +43,13 @@ N/A
 	8. Required documents on board - [[AR(R)OW]]
 	9. Flight deck organization
 	10. Seat adjustments
-5. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
-6. Engine start, including use of primer and propeller safety
+	11. Overview of [[Aircraft Instruments]]
+4. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
+5. Engine start, including use of primer and propeller safety
 	1. Hot start, cold start, flooded start
 	2. What to do if it doesn't start, especially in cold weather
 		1. [[Starter Duty Cycle]]
-7. Taxiing Procedure
+6. Taxiing Procedure
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
@@ -56,18 +57,18 @@ N/A
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways
-8. Before Takeoff Checks / Runup
+7. Before Takeoff Checks / Runup
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
 	3. [[Plans for Rejected Takeoff]] and [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
-9. Flight
+8. Flight
 	1. Following roughly the [[PPL0.0 Optional Introductory or Demo Flight]] lesson
-10. Postflight Procedures
+9. Postflight Procedures
 	1. Tie-down technique
 	2. Securing aircraft
 	3. Quick look for any serious problems, like a flat tire or oil on the underbody
 	4. Documenting flight time and squawks/observations
-11. Common Errors
+10. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
