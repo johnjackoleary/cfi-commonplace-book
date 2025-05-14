@@ -1,13 +1,15 @@
 # Your First Few Flights
 Some initial suggestions are in [[PPL.E Suggestions for XC Activities and Destinations]].
 
+If you'll be regularly flying with someone, they may enjoy a [[~ Emergency Pilot Outline|pinch-hitter]] course to learn to help in an emergency.
+
 #todo :: Add more suggestions for early flights, especially around the Bay Area
 
 # Resources and Reading
 ## Websites
 - [[AOPA]]
 - [[Bold Method]]
-- Youtube playlist of things not to do [[What's inside an Airplane](https://www.youtube.com/playlist?list=PLnjaM9eVs4ptgG0eeporNLMSBMC44BW6g)](https://www.youtube.com/watch?v=HFRnX7ZVGFo&list=PLnjaM9eVs4ptgG0eeporNLMSBMC44BW6g&index=1) from [[FLY8MA.com]]
+- Youtube playlist of things not to do: [What's inside an Airplane](https://www.youtube.com/playlist?list=PLnjaM9eVs4ptgG0eeporNLMSBMC44BW6g) from [[FLY8MA.com]]
 
 ## Books
 - [Stick and Rudder](https://en.wikipedia.org/wiki/Stick_and_Rudder)
