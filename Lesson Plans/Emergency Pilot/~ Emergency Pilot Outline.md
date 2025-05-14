@@ -19,14 +19,3 @@ Learner understands the aviation systems and infrastructure that could aid them 
 ### Resources
 - [Pinch Hitter](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/pinch-hitter) from [[AOPA]]
 - [Companion Copilot videos](https://www.aopa.org/training-and-safety/air-safety-institute/companion-copilot) from [[Air Safety Institute]]
-
-
-
-
-All done from right seat
-
-
-Discussion of actual risk involved, very low likelihood to need these skills
-
-
-TSA requirements?
