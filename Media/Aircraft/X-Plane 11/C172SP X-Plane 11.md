@@ -21,9 +21,9 @@ speed-units:
 | 🛫 V<sub>Climb</sub>     |           | 7°        |   max   |              90               | 1100    |
 | Cruise                   |           |           |         |                               |         |
 | Cruise Descent           |           |           |         |                               |         |
-| 🌫️ IAF Inbound Level     |           | 0°        |  2200   |              90               | 0       |
+| 🌫️ IAF Inbound Level     |           | 2°        |  2100   |              90               | 0       |
 | 🌫️ IAF Inbound Descent   |           | -4°       |  1600   |              90               | -800    |
-| 🌫️ Prec Appr to DA       |    10°    |           |         |              90               | -450    |
+| 🌫️ Prec Appr to DA       |    10°    | -3°       |  1900   |              90               | -450    |
 | 🌫️ Non-Prec Appr to MDA  |    10°    | -6°       |  1800   |              90               | -800    |
 | 🛬 Downwind              |           |           |         |                               |         |
 | 🛬 Abeam Numbers         |           |           |         |                               |         |

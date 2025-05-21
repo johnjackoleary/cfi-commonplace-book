@@ -33,13 +33,14 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 		1. IFR enroute/terminal - verification of data for correctness
 		2. IFR approach - current database or verification procedure has not been amended since expiration of database
 		3. Checkride - not allowed per [[Instrument ACS]]
-5. GPS Sensitivity ([[RNP Precision per Approach Segment.jpeg]])
+5. GPS Sensitivity ([[RNP Precision per Approach Segment.jpeg]] and [[G1000 Automatic CDI Scaling.png]])
 	1. Enroute  ±2nm, default
 	2. Terminal - ±1nm
 		1. Within 31nm of destination
 		2. In term on dep until beyond 30nm from departure
 	3. Approach - ±0.3nm 
 		1. 2.0nm from [[FAF]]
+	4. Missed - 0.3nm
 6. GPS Functions
 	1. GPS Approaches		  
 		1. [[LNAV]], [[LP]]

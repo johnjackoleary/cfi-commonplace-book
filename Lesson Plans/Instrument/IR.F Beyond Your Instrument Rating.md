@@ -7,6 +7,8 @@
 
 ## Books
 
+## Podcast
+- [[Max Trescott]]'s [Aviation New Talk](https://aviationnewstalk.com/)
 
 # Keeping Proficient with WINGS
 By completing your instrument checkride, you can claim WINGS credit for all advanced flight and knowledge credits, and many of the basic level credits. See [[WINGS.IR Initial Certification - Instrument Rating]] for more information on this.

@@ -105,11 +105,11 @@ An aircraft sends interrogation pulses to a [[DME]] ground station, then the gro
 	1. Straight, sloped line guidance from FAF to TDZ
 	2. Housed 750-1,250ft down runway from approach end, between 400-600 ft to one side of the centerline
 	3. Like localizer on its side
-	4. 2.5° to 3.5° slope Intercept OM 1,400 ft above runway, MM 200ft above runway
+	4. 2.5° to 3.5° slope Intercept [[OM]] 1,400 ft above runway, [[MM]] 200ft above runway
 	5. False Glideslopes
 3. Outer Marker (Distance)
-	1. Can be subbed by compass locator, PAR, ASR, DME, VOR, NDB, RNAV in conjunction with a fix
-	2. Identifies the Final Approach Fix (FAF) for nonprecision approach
+	1. Can be subbed by compass locator, PAR, ASR, DME, VOR, NDB, [[RNAV]] in conjunction with a fix
+	2. Identifies the Final Approach Fix ([[FAF]]) for nonprecision approach
 
 
 ## Less Common Navaids
