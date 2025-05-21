@@ -68,7 +68,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
 		7. [[TAA]] definition
 	4. [[Transponder]] and altitude encoders
-		1. Blind Encoder (cheaper, no integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
+		1. Blind Encoder (cheaper, not integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line
 		3. Mode A (squawk code + position) vs Mode C (squawk code + position + altitude)
 		4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C), GND
