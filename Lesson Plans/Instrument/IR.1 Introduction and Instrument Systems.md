@@ -82,7 +82,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		2. Electrical system – how do you know if the alternator has failed? 
 			1. [[C172 G1000 Electrical System Interactive Tool]]
 		3. If you are running on Standby battery – what still functions?
-			1. PFD, AHRS, [[ADC]], Com1, Nav1, stby inst lights, stby bus 
+			1. PFD, AHRS, [[ADC]], Com1, Nav1, standby instrument lights, essentials bus 
 			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, etc) 
 	8. Power Instruments: Engine gauges, Electronic engine instruments
 	9. Electrical instruments: ammeter, voltmeter, alternator 
