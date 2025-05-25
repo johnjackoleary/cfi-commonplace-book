@@ -21,16 +21,16 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 
 ### Lesson Elements
 1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA|CIA]] as a memory aid)
-2. Control/Performance ([[AFH Ch6]])
+2. Control/Performance ([[IFH]] Ch6)
 	1.  Pitch + Power = Performance
-	2. Control Instruments
+	2. Control Instruments depict immediate attitude and power changes
 		1. Attitude Indicator
 		2. Turn Coordinator
 		3. Tachometer and Manifold Pressure (set by sound, then verify)
-	3. Performance Instruments
+	3. Performance Instruments reflect the performance the aircraft is achieving
 		1. Airspeed
-		2. [[VSI]]
-		3. Altimeter
+		2. Altimeter and [[VSI]]
+		3. Heading
 3. Introduction to Instrument Scan (ground portion) 
 	1. Instrument cross check, types of scans 
 	2. 4-step scan procedure to initiate any maneuver (*[4 Step Instrument Scan](https://www.aopa.org/news-and-media/all-news/2003/october/flight-training-magazine/4-step-instrument-scan)* from [[AOPA]])
