@@ -25,16 +25,16 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 ### Lesson Elements
 1. Why Holds?
 	1. Traffic or weather
-	2. Keeps aircraft in specified airspace awaiting clearance
-	3. Types of fixes: VOR, intersection, VOR/DME, GPS waypoint
-	4. [[HILPT]]
-2. Published vs unpublished holds
-3. Protected Airspace
-	1. Maximum airspeeds
-		1. MHA-6,000’: 200kts
-		2. 6,001’-14,000’: 230kts
-		3. 14,001’+: 265kts
-		4. Or as depicted/given by ATC
+	2. Keep aircraft in specified airspace awaiting clearance
+	3. For course reversal: [[HILPT]]
+2. Types of fixes:
+	1. VOR, intersection, VOR/DME, GPS waypoint
+	2. Published vs unpublished
+3. Maximum airspeeds in protected airspace
+	1. MHA-6,000’: 200kts
+	2. 6,001’-14,000’: 230kts
+	3. 14,001’+: 265kts
+	4. Or as depicted/given by ATC
 4. Entries ([[AIM 5]]-3-8)
 	1. Types
 		1. Direct (turn to outbound heading)
