@@ -1,6 +1,6 @@
 **_Meaning_** :: <u>M</u>inimum <u>O</u>bstacle <u>C</u>learance <u>A</u>ltitude
 
-> [!quote] [[IFH]] Chapter 2
+> [!quote] [[IPH Ch2]]
 > 
 > "The MOCA is the lowest published altitude in effect between radio fixes on VOR airways, off-airway routes, or route segments that meets obstacle clearance requirements for the entire route segment. This altitude also assures acceptable navigational signal coverage only within 22 NM of a VOR."
 >
