@@ -30,12 +30,22 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 2. Types of fixes:
 	1. VOR, intersection, VOR/DME, GPS waypoint
 	2. Published vs unpublished
-3. Maximum airspeeds in protected airspace
+3. Hold Geometry
+	1. Standard Turns = Right!
+	2. Leg length can be time-based or distance-based
+		1. By default, holds are time-based
+			1. Example: [C83 RNAV RWY 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)
+			2. If time is not specificed, standard inbound leg is 1min below 14,000', 1.5min above. 
+		2. Some holds are distance based, and require DME/GPS
+			1. Example: [KSPZ RNAV RWY 24](https://cfijack.com/latest-plate-redirect/?plate=09917r24.PDF)
+			2. Distance is measured diagonally. (extra info from IFR-Magazine)
+	3. Turns: Standard Rate (3° per second)
+4. Maximum airspeeds in protected airspace
 	1. MHA-6,000’: 200kts
 	2. 6,001’-14,000’: 230kts
 	3. 14,001’+: 265kts
 	4. Or as depicted/given by ATC
-4. Entries ([[AIM 5]]-3-8)
+5. Hold Entries ([[AIM 5]]-3-8)
 	1. Types
 		1. Direct (turn to outbound heading)
 		2. Parallel (first turn direction is OPPOSITE of hold turns.)
@@ -63,18 +73,12 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 			1. Generally too slow to do in flight
 		7. Method 6: [[MFD]] or [[EFB]] plotting
 			1. Learn to program them efficiently to provide a backup on one of the above
-5. Flying Hold
+6. Flying the Hold
 	1. Workload Management
 		1. [[5 Ts]]: Time, Turn, Twist, Throttle, Talk 
-	2. Standard Turns = Right!
-	3. DME/GPS vs. not
-		1. When not DME/GPS: 1min standard inbound leg (below 14000’)
-		2. When using DME/GPS: 4nm diagonal distance (extra info from IFR-Magazine)
-	4. Holding Turns: Standard Rate (3° per second)
-6. Accounting for Wind
-	1. Crosswind correction during pattern
+	2. Crosswind correction during pattern
 		1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg (AIM 5-3-8)
-	2. More info from [[AOPA]] in [On Instruments: Flying in Place](https://www.aopa.org/news-and-media/all-news/2020/september/pilot/on-instruments-holding-patterns)
+	3. More info from [[AOPA]] in [On Instruments: Flying in Place](https://www.aopa.org/news-and-media/all-news/2020/september/pilot/on-instruments-holding-patterns)
 7. Clearances ([[Sample Holding Clearances]])
 	1. > [!quote] From [[AIM 5]]-3
 		> 1. Direction of holding from the fix in terms of the eight cardinal compass points (i.e., N, NE, E, SE, etc.).
