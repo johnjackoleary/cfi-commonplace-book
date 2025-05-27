@@ -2,8 +2,14 @@
 ![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 
 # Details
-1. [[Squawk 7600]] 
-2. Consider calling [[TRACON]] or Center on your cell phone!
+1. [[Squawk 7600]]
+2. Debug the comms problem:
+	1. Try both radios (Com1, Com2)
+	2. Try left and right headsets, which are each triggered by their own PTT switch
+	3. Are headset plugs securely inserted?
+	4. Do you see 'TX' on transmit? If not, you may have a stuck mic, or a bad PTT switch
+	5. Consider calling [[TRACON]] or Center on your cell phone!
+	6. Consider using a backup handheld radio
 3. In VMC, continue VFR, land as soon as practicable. 
 4. In IMC: 
 	1. For Route, use mnemonic [[AVE-F|AVE-F]] – Assigned, Vectored, Expected, then Filed (in that order of priority) 
