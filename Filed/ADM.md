@@ -5,7 +5,7 @@ alias: "Aeronautical Decision-Making"
 ***Definition***    ::  a systematic approach to risk assessment and stress management
 ***Source***         :: [[PHAK Ch2]]
 ***Additional Resources***: 
-- [[Risk Management Handbook]], [[FRAT]]
+- [[Risk Management Handbook]], [[FRAT]], [[Risk Management]]
 - [ALC-28: The Art of Aeronautical Decision-Making](https://www.faasafety.gov/files/helpcontent/Courses/ALC-28%20The%20Art%20of%20Aeronautical%20Decision-Making/content/index.html#/)
 
 > [!note] From [[PHAK Ch2]]

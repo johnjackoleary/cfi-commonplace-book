@@ -2,7 +2,7 @@
 > [!quote] From [[AIH AppD]]
 > * Your Personal Minimums Checklist
 >	* Is an easy-to-use, personal tool tailored to your level of skill, knowledge, and ability.
->	* Helps you control and manage risk by identifying even subtle risk factors.
+>	* Helps you control and [[Risk Management|manage risk]] by identifying even subtle risk factors.
 >	* Allows you to fly with less stress and less risk. Practice "Conservatism Without Guilt."
 
 > [!quote] From [[Getting the Maximum from Personal Minimums]]
@@ -48,6 +48,10 @@ Pilots typically set different minimums for instrument conditions and [[IFR]] fl
 > When the blow exceeds 20 knots, you must be on top of your game, and above 25 knots is for serious players only.
 
 For additional methods to find your wind minimums, see [[Personal Minimums for Wind]].
+
+## Night VFR as a New Pilot
+> [!quote] From [[PHAK Ch2]]
+> The accident rate during night visual flight rules ([[VFR]]) decreases by nearly 50 percent once a pilot obtains 100 hours and continues to decrease until the 1,000 hour level. The data suggest that for the first 500 hours, pilots flying VFR at night might want to establish higher personal limitations than are required by the regulations and, if applicable, apply instrument flying skills in this environment.
 
 #todo :: add additional expert sources on setting your personal minimums along specific dimensions
 
