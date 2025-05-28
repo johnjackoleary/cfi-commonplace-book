@@ -56,6 +56,9 @@ Suggested Circuit:
 
 ## In Airplane Practice
 - [KSQL VFR-to-IFR departure](https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3282452782098945323) -> KHAF RNAV 30 -> KNUQ ILS 32R -> alternate missed hold 3500' at OSI-> KPAO RNAV 31
+- Precision-like approaches and missed
+	- KAPC ILS 01L -> missed -> O69 RNAV 29 -> missed -> KSTS ILS 32
+	- C83 RNAV 30 -> missed -> KTCY RNAV 12 -> missed -> KLVK ILS 25R
 - [KCCR BCHN.2.CROIT](https://cfijack.com/latest-plate-redirect/?plate=05320BUCHANAN.PDF) -> [KAPC ILS 1L](https://cfijack.com/latest-plate-redirect/?plate=00281ILZ1L.PDF) -> Missed -> [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF) circle to land -> [KCCR 19R RNAV](https://cfijack.com/latest-plate-redirect/?plate=05320R19R.PDF)
 - [KTCY RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=05815R12.PDF) circle-to-land -> [KTCY DP](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF) -> [KTCY VOR 26](https://cfijack.com/latest-plate-redirect/?plate=05815V26.PDF) -> Missed -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)
 - [KWVI ODP](https://cfijack.com/latest-plate-redirect/?plate=00805WATSONVILLE.PDF) -> [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) -> missed -> [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF) -> missed -> [KWVI RNAV 2](https://cfijack.com/latest-plate-redirect/?plate=00805R2.PDF) circle-to-land -> [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)

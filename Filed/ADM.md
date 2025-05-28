@@ -4,7 +4,9 @@ alias: "Aeronautical Decision-Making"
 ***Meaning*** :: <u>A</u>eronautical <u>D</u>ecision <u>M</u>aking
 ***Definition***    ::  a systematic approach to risk assessment and stress management
 ***Source***         :: [[PHAK Ch2]]
-***Additional Resources***: [[Risk Management Handbook]], [[FRAT]]
+***Additional Resources***: 
+- [[Risk Management Handbook]], [[FRAT]]
+- [ALC-28: The Art of Aeronautical Decision-Making](https://www.faasafety.gov/files/helpcontent/Courses/ALC-28%20The%20Art%20of%20Aeronautical%20Decision-Making/content/index.html#/)
 
 > [!note] From [[PHAK Ch2]]
 > ADM is a systematic approach to risk assessment and stress management. To understand ADM is to also understand how personal attitudes can influence decision-making and how those attitudes can be modified to enhance safety in the flight deck. It is important to understand the factors that cause humans to make decisions and how the decision-making process not only works, but can be improved.

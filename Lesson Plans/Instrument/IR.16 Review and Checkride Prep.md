@@ -50,6 +50,7 @@ Ground 1 hour, Flight 3 hours
 	11. [[Human Factors]] and [[Illusions Leading to Spatial Disorientation]] for instrument flight
 	12. [[IFR Regulatory Review Assignment]]
 4. Video, showing DPE’s perspectives on Instrument Practical Test - Andy Munnis (specifically on oral part of exam): https://www.youtube.com/watch?v=EUzR8f1Npss
+	1. Use of checklists / resources in the oral portion
  
 ### Completion Standards
 The student must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, including ability to complete no precision approach without use of primary flight instruments.

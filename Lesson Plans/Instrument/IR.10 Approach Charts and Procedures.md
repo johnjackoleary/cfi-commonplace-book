@@ -39,7 +39,7 @@ Ground 1.5 hours
 2. Approaches ([[Part 97]])
 	1. Briefing a plate
 		1. Top to bottom, left to right
-		2. Other ideas in [this article](https://www.aopa.org/news-and-media/all-news/1996/june/pilot/technique) from [[AOPA]]
+		2. Other ideas in [this article](https://www.aopa.org/news-and-media/all-news/1996/june/pilot/technique) and in this [video](https://youtu.be/VOQcdXE6MPo?si=c1-1pl_6xJnoNvro&t=923) from [[AOPA]]
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
 	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
 	4. Specific notable elements
