@@ -79,7 +79,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 	 > 1. Get a paper plate, and draw a right-turn hold on one side and a left-turn hold on the other
 	 > 2. Throw the dinner plate like a frisbee
 	 > 3. Have the student walk to the plate, and figure out the proper hold entry while they approach
-6. Flying Hold
+6. Flying the Hold
 	1. Workload Management
 		1. [[5 Ts]]: Time, Turn, Twist, Throttle, Talk 
 	2. Crosswind correction during pattern

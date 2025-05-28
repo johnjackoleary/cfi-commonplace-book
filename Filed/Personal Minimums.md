@@ -65,7 +65,7 @@ For additional methods to find your wind minimums, see [[Personal Minimums for W
 - [[Getting the Maximum from Personal Minimums]]
 - [VFR Pilot Personal Minimums Contract](https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/Personal-Mins-Contracts/Personal-Minimums-Contract-VFR.pdf) and [IFR Pilot Personal Minimums Contract](https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/Personal-Mins-Contracts/Personal-Minimums-Contract-IFR.pdf) from [[AOPA]] [[Air Safety Institute]]
 - [Personal Minimums Checklist](https://www.faasafety.gov/files/gslac/courses/content/28/212/Personal%20Minimums%20Checklist.pdf) made as a partnership of [[FAA Safety Team]] and [[King Schools]]
-- https://www.faa.gov/sites/faa.gov/files/training_testing/training/fits/guidance/Pers%20Wx%20Risk%20Assessment%20Guide-V1.0.pdf
+- [FAA/Industry Training Standards Personal and Weather Risk Assessment Guide](https://www.faa.gov/sites/faa.gov/files/training_testing/training/fits/guidance/Pers%20Wx%20Risk%20Assessment%20Guide-V1.0.pdf)
 
 ***Definition***    :: an individual pilot’s set of procedures, rules, criteria, and guidelines for deciding whether, and under what conditions, to operate (or continue operating) in the [[National Airspace System]].
 ***Source***         :: [[Getting the Maximum from Personal Minimums]]
