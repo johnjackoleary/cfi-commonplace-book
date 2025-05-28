@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-Learn proper IFR communications techniques, include copying clearances, normal communications, and lost communication procedures 
+Learn proper IFR communications techniques, include copying clearances, normal communications
 
 ### Resources
 - [[FAR 91.185 Lost Comms]]

@@ -48,7 +48,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 5. Hold Entries ([[AIM 5]]-3-8)
 	1. Types
 		1. Direct (turn to outbound heading)
-		2. Parallel (first turn direction is OPPOSITE of hold turns.)
+		2. Parallel (first turn direction is OPPOSITE of hold turns, fly for 1min, turn back to intercept inbound)
 			1. VOR vs GPS turning to outbound
 		3. Teardrop (turn with 30° offset from outbound leg)
 	2. Tips for determining hold entry
@@ -68,16 +68,23 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 			> 3. If your heading is taking you directly to the fix or navaid that makes up the hold, and you are able to simply, directly make the correct turn entering the hold, then that is a direct entry.
 		4. Method 4: 'Draw' the entry on the heading indicator
 			1. From [[Jeppesen Instrument-Commercial]] 5-48
-			2. #todo :: Add more info on this method
-		6. Method 5: Draw the entry in a notebook
+			2. #todo :: Add more info on this method^[It looks like this is "Draw inbound leg from radial to center of aircraft on HI. Then build rest of hold." Not moving out of footnote, however, document until verified.]
+		5. Method 5: Draw the entry in a notebook
 			1. Generally too slow to do in flight
-		7. Method 6: [[MFD]] or [[EFB]] plotting
+		6. Method 6: [[MFD]] or [[EFB]] plotting
 			1. Learn to program them efficiently to provide a backup on one of the above
+	3. Dinner Plate Practice
+	 > [!tip] From Jack
+	 > I ran into a [[DPE]] once while refueling and asked for teaching tips. He recommended this exercise to teach hold entry:
+	 > 1. Get a paper plate, and draw a right-turn hold on one side and a left-turn hold on the other
+	 > 2. Throw the dinner plate like a frisbee
+	 > 3. Have the student walk to the plate, and figure out the proper hold entry while they approach
 6. Flying the Hold
 	1. Workload Management
 		1. [[5 Ts]]: Time, Turn, Twist, Throttle, Talk 
 	2. Crosswind correction during pattern
-		1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg (AIM 5-3-8)
+		1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg ([[AIM 5]]-3-8)
+		2. [[Example Hold Wind Correction.jpeg]]^[Shows an initial direct entry without knowledge of the winds. While flying on the outbound heading, the student realized they had been blown outside the protected area and made a heading change to allow a turn inbound. The next two laps were learning the inbound and outbound headings.]
 	3. More info from [[AOPA]] in [On Instruments: Flying in Place](https://www.aopa.org/news-and-media/all-news/2020/september/pilot/on-instruments-holding-patterns)
 7. Clearances ([[Sample Holding Clearances]])
 	1. > [!quote] From [[AIM 5]]-3
@@ -90,7 +97,10 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 8. When can you log a hold
 	1. > [!quote] [[AIM 5]]-4-9, on [[HILPT]]
 	   > The holding pattern maneuver is completed when the aircraft is established on the inbound course after executing the appropriate entry.
-9. Common Errors
+9. What if you reach a clearance limit without holding instruction^[E.g. On the [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF) missed.]
+	> [!quote] From [[AIM 5]]-3
+	> If no holding pattern is charted and holding instructions have not been issued, the pilot should ask ATC for holding instructions prior to reaching the fix. This procedure will eliminate the possibility of an aircraft entering a holding pattern other than that desired by ATC. If unable to obtain holding instructions prior to reaching the fix (due to frequency congestion, stuck microphone, etc.), then enter a standard pattern on the course on which the aircraft approached the fix and request further clearance as soon as possible.
+10. Common Errors
 	1. Wasting fuel - use slow cruise or even max endurance speed if fuel is a factor
 	2. GPS confusion
 	3. Incorrect entry choice

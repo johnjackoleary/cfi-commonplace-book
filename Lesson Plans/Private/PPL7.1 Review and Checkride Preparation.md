@@ -40,6 +40,7 @@ Ground 3 hours, Flight as necessary
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
 	3. [[The Killing Zone]]
+	4. Consider something like "Adhere to these minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
 5. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
 6. Practice for oral potion of practical test

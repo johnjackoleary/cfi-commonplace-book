@@ -26,6 +26,7 @@ Ground 1.5 hours
 	3. IFR minimums for departure, approach, and alternates
 	4. Federal Airways
 		1. 8nm width (4nm either side of course centerline)
+	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
 2. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
@@ -42,6 +43,8 @@ Ground 1.5 hours
 	2. Fuel planning and requirements ([[FAR 91.167 IFR Fuel Reqs]])
 	3. [[TEC]] routes
 	4. Flight plan forms and filing
+	5. [Equipment codes](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide) on [[ForeFlight]]
+	6. Clearance available 30min before departure time and 120min after
 4. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach/Departure ([[TRACON]]), Center [[ARTCC]])
 	2. [[Radar]] and [[transponder]]s 
