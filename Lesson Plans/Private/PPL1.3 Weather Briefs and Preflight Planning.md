@@ -37,7 +37,7 @@ Develop initial knowledge of and sources for preflight briefings.
 > Nearing checkride, the go/no-go decision is completely yours. I'll make suggestions if there's a specific reason for learning, but generally, as long as it's safe and legal, we'll fly if you decide to.^[These flights are sometimes the most eye-opening, as going when there's an [[AIRMET]] Tango at altitude may be safe but miserable.]
 
 > [!quote] 
-> ![[A Superior Pilot#^960615]]
+> ![[A Superior Pilot#^quote]]
 
 1. Preflight - [[PAVE]]
 	1. <u>P</u>ilot
