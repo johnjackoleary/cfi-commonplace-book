@@ -57,7 +57,7 @@ The student must demonstrate proficiency at IFR flight planning and all phases o
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:
-- Aeronautical decision making and judgment
+- [[ADM|Aeronautical decision making]] and judgment
 - Appropriate information that applies to flight operations under IFR in the [[AIM]]
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

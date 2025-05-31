@@ -62,22 +62,23 @@ These layers of defense form the Swiss cheese model to preventing and [[incident
 Some pilots employ the [[Three Strikes and You’re Out Rule]] to avoid building an accident chain. While a single decision or event may not lead to an accident, a series of events and the resultant decisions together form a chain of events leading to an outcome.
 
 ### Automation
-The use and misuse of automation is a significant topic in risk management.
+The use and misuse of automation are significant topics in risk management.
 
 For more information, see [[Autopilot Systems and Usage]].
 
 ### Aeronautical Decision-Making
-For more information, see [[ADM]].
+For more information, see [[ADM]] and [[Operational Pitfalls]].
 
 ## In Comparison
 The risks in aviation often look different than other fields, and decision-making may fall to one person.
 
 > [!quote] From [[Risk Management Handbook]]
-> If having a doubt about risk mitigation, a pilot should consider the value of mitigation against the potential cost of property damage and loss of life. A saying goes, safety costs a lot less than an accident. In fact, risk mitigation makes long-term economic sense.
+> If in doubt about risk mitigation, a pilot should consider the value of mitigation against the potential cost of property damage and loss of life. A saying goes, safety costs a lot less than an accident. In fact, risk mitigation makes long-term economic sense.
 
 # Additional Resources
 - [[Risk Management Handbook]]
 - [[PHAK Ch2]]
+- [[AC 60-22]]
 
 
 ***Definition***    :: The part of the decision-making process which relies on situational awareness, problem recognition, and good judgment to reduce risks associated with each flight.
