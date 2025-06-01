@@ -22,7 +22,7 @@ From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the 
 		- [ ] 250nm miles along airways or directed routing from ATC
 		- [ ] An instrument approach at each airport
 		- [ ] Three different kinds of approaches with the use of navigation systems
-- [ ] Maximum of 20 hours of instrument time in an approved [[AATD]], or maximum of 10 hours in a [[BATD]]^[Note that no more than 20 hours total can come from these training devices - [[FAR 61.65 Instrument Rating Reqs|FAR 61.65]](j)]
+	- [ ] Of these 40 hours, a maximum of 20 hours may be in an approved [[AATD]], or maximum of 10 hours in a [[BATD]], and those hours must be accompanied by an instructor.^[[[FAR 61.65 Instrument Rating Reqs|FAR 61.65]](i)]
 
 **General Before Checkride**
 1. Current Private/Commercial Pilot
