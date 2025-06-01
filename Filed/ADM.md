@@ -46,7 +46,7 @@ Each of Perceive, Process, and Perform have their own acronyms to ensure complet
 
 1. Perceive with [[PAVE]]: Pilot, Aircraft, Environment, External Pressures
 2. Process with [[CARE]]: Consequences, Alternatives, Reality, External factors
-3. Perform with [[TEAM]]: 
+3. Perform with [[TEAM]]: Transfer, Eliminate, Accept, Mitigate
 
 > [!warning] A good rule of thumb for the processing phase
 > If you find yourself saying that it will “probably” be okay, it is definitely time for a solid reality check
