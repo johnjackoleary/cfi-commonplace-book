@@ -1,3 +1,4 @@
-Meaning*** :: <u>P</u>ilot; <u>A</u>ircraft; e<u>V</u>ironment; <u>E</u>xternal Pressures
+***Meaning*** :: <u>P</u>ilot; <u>A</u>ircraft; e<u>V</u>ironment; <u>E</u>xternal Pressures
+***Additional Info***: Used to identify hazards and personal minimums
 
 #acronym #safety 

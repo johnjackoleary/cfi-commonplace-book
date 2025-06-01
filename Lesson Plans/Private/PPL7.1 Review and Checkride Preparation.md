@@ -43,6 +43,7 @@ Ground 3 hours, Flight as necessary
 	4. Consider something like "Adhere to these minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
 5. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
+	2. List from 2025 in the Bay on [WVFC Drive](https://drive.google.com/drive/folders/1hH3F2mtutMlbpZ7yaCWb9q1oersNw6tG)
 6. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
