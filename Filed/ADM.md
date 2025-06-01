@@ -4,7 +4,7 @@ aliases:
 ---
 # Key Takeaways
 - While closely related to [[risk management]], ADM primarily addresses in-flight decisions
-- The [[5P Model]] can be used to assess the totality situation
+- The [[5P Model]] can be used to assess all aspects of a decision
 - The [[3P Model]] can be used to make a good, time-critical decision
 - Some situations require automatic decision-making based on training and experience
 
@@ -29,16 +29,30 @@ By considering each of these, a pilot can make the appropriate decision required
 ## Time-Critical Decisions
 Most decisions a pilot makes are time-sensitive. Depending on the circumstances, either **analytical decision-making** or **automatic decision-making** may be more appropriate.
 
+![[Analytical and Automatic Decision Making.png]]
+
 ### Analytical Decision-Making
 If time allows, such as in an [[urgency]] condition, the [[3P Model|3P]] or [[DECIDE]] model can be used.
 
+#### 3P
 3P is simpler and often favored in practice.
+
 > [!summary] 3Ps
 > 1. **Perceive** the current set of circumstances for the flight
 > 2. **Process** by evaluating their potential impact on flight safety
 > 3. **Perform** by implementing the best course of action
 
-DECIDE is more complete, and it emphasizes the feedback loop inherent to good decision-making.
+Each of Perceive, Process, and Perform have their own acronyms to ensure completeness.
+
+1. Perceive with [[PAVE]]: Pilot, Aircraft, Environment, External Pressures
+2. Process with [[CARE]]: Consequences, Alternatives, Reality, External factors
+3. Perform with [[TEAM]]: 
+
+> [!warning] A good rule of thumb for the processing phase
+> If you find yourself saying that it will “probably” be okay, it is definitely time for a solid reality check
+
+#### DECIDE
+DECIDE is more complete and emphasizes the feedback loop inherent to good decision-making.
 
 > [!summary] DECIDE
 > 4. **Detect** that a change has occurred
@@ -48,8 +62,10 @@ DECIDE is more complete, and it emphasizes the feedback loop inherent to good de
 > 8. **Do**.  Take the necessary action
 > 9. **Evaluate** the effect of the action countering the change
 
-### Automatic/Naturalized Decision-Making
-#todo finish this
+### Automatic/Naturalistic Decision-Making
+When time is not available, experts match the situation to their past experiences. This allows them to clarify options quickly and select a workable option.
+
+This naturalistic or automatic decision-making improves with training and experience. It is also more susceptible to [[operational pitfalls]].
 
 # Additional Resources
 - [[PHAK Ch2]]
