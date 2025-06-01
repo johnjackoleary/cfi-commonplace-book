@@ -67,7 +67,7 @@ The use and misuse of automation are significant topics in risk management.
 For more information, see [[Autopilot Systems and Usage]].
 
 ### Aeronautical Decision-Making
-For more information, see [[ADM]] and [[Operational Pitfalls]].
+For more information, see [[ADM]].
 
 ## In Comparison
 The risks in aviation often look different than other fields, and decision-making may fall to one person.

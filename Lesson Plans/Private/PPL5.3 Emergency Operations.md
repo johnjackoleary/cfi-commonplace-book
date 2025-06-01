@@ -37,7 +37,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 2. What is an emergency? When should you declare one?
 	1. When the outcome of the flight is in doubt
 	2. When you need higher priority handling from ATC
-3. MAYDAY (distress) vs PAN-PAN (urgency)
+3. MAYDAY ([[distress]]) vs PAN-PAN ([[urgency]])
 	1. Both should be said 3x
 4. [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
 
