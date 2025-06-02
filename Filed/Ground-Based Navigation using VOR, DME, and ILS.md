@@ -38,7 +38,7 @@ VOR receivers detect the phase difference between a reference and variable signa
 	2. Can help to [[Think of VOR Radials as Two Not To]]
 2. Determining relative location
 	1. Where are you relative to the station? (Center CDI with FROM) 
-	2. Where are you relative to assigned course? (Parallel course, set OBS to course, CDI needle points toward the course) 
+	2. Where are you relative to assigned course? (Point your heading parallel to the course; set OBS to course; CDI needle points toward the course) 
 	3. Where are you relative to intersection defined by VOR radial? (Set OBS to radial, confirm FROM, if CDI needle deflected toward station, you’re not there yet. For HSI, CDI needle ahead, you’re not there yet.)
 3. VOR intercepts 
 	1. Use 40° intercept heading if CDI fully deflected. 

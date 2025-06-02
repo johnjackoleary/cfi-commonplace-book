@@ -32,6 +32,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		4. Use of [[AATD]]/[[BATD]] and [[safety pilot]] to reduce costs
 	2. [[IR.A Instrument Rating Flight Experience Requirements]]
 		1. Part of training can be done with a [[Safety Pilot]]
+		2. Part of training can be done with an instructor in an [[AATD]] like the PFC1000s at [[WVFC]]
 	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	4. Recency of experience [[FAR 61.57 Recent Flight Experience]] and [[FAR 61.51 Pilot Logbooks]]
 		1. Logging [[IAP]], what’s required  ([[InFO 15012]])
@@ -66,7 +67,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			1. Used in conjunction with PFD
 			2. Contains various additional information (maps, weather, engine performance, etc)
 			3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
-		7. [[TAA]] definition
+		7. Technically Advanced Aircraft (TAA) definition
 	4. [[Transponder]] and altitude encoders
 		1. Blind Encoder (cheaper, not integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line
@@ -83,7 +84,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			1. [[C172 G1000 Electrical System Interactive Tool]]
 		3. If you are running on Standby battery – what still functions?
 			1. PFD, AHRS, [[ADC]], Com1, Nav1, standby instrument lights, essentials bus 
-			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, etc) 
+			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, audio panel, etc) 
 	8. Power Instruments: Engine gauges, Electronic engine instruments
 	9. Electrical instruments: ammeter, voltmeter, alternator 
 	10. Navigation radios and databases 
