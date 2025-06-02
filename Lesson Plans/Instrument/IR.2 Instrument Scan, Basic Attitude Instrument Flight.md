@@ -46,7 +46,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	4. Turns ([[IFH]] 7-19)
 5. [[See and Avoid]] still expected [[IFR]] on [[VMC]] day
 6. Common Errors: 
-	1. Spatial disorientation 
+	1. [[Illusions Leading to Spatial Disorientation|Spatial disorientation]] 
 	2. Distraction 
 	3. Fixation or omission 
 	4. While turning – do nothing else 
