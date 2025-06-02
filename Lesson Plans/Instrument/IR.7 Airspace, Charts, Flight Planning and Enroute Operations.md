@@ -56,7 +56,10 @@ Ground 1.5 hours
 	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
 	3. Non-standard alternate minimums
 	4. Alternatives for non-[[WAAS]] cannot also use non-WAAS ([[AIM 1]]-1-17)
-	5. Practical advice ([[TAF]], [[ILS]], etc)
+	5. Practical advice. The best alternatives:
+		1. Are in a different microclimate than your destination
+		2. Have an [[ILS]], which gives you the best chance of landing in IMC
+		3. Have a [[TAF]], making it easier to forecast the weather specifically at the airport
 6. Diversions while in flight vs. planned alternate
 
 ### Completion Standards

@@ -26,21 +26,22 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 	1. Required Preflight
 		1. Check for DB alerts (e.g. [From Garmin](https://www.garmin.com/en-US/aviationalerts/))^[If an approach was published with errors, you want to know!]
 		2. Review the self-test output: includes things like displaying a specific course, lateral/vertical deflection, etc^[This check is part of Section 4 added by the GPS [[STC]].]
-		3. WAAS availability (https://www.nstb.tc.faa.gov/ and [[WAAS LPV.png]])
+		3. WAAS availability viewable at https://www.nstb.tc.faa.gov/.
+			1. An example of a [[WAAS LPV.png|significant outage]].
 	2. Installation approval and operational approval required
 	3. TSO 129/196 (Non-WAAS) requires alternate approved and operational means of navigation
 	4. Expired database - https://www.ifr-magazine.com/charts-plates/is-expired-data-usable/
 		1. IFR enroute/terminal - verification of data for correctness
-		2. IFR approach - current database or verification procedure has not been amended since expiration of database
-		3. Checkride - not allowed per [[Instrument ACS]]
+		2. IFR approach - current database or verification procedure has not been amended since expiration of database ([[AIM 1]]-1-19)
+		3. Checkride - expired DB not allowed per [[Instrument ACS]]
 5. GPS Sensitivity ([[RNP Precision per Approach Segment.jpeg]] and [[G1000 Automatic CDI Scaling.png]])
-	1. Enroute  ±2nm, default
+	1. Enroute  ±2nm (or ±5nm for non-WAAS receivers)
 	2. Terminal - ±1nm
-		1. Within 31nm of destination
-		2. In term on dep until beyond 30nm from departure
+		1. On arrival - within 30nm of the [[FAF]]
+		2. On departure - until beyond 30nm from departure
 	3. Approach - ±0.3nm 
-		1. 2.0nm from [[FAF]]
-	4. Missed - 0.3nm
+		1. Starting 2.0nm before the [[FAF]]
+	4. Missed - ±0.3nm
 6. GPS Functions
 	1. GPS Approaches		  
 		1. [[LNAV]], [[LP]]
