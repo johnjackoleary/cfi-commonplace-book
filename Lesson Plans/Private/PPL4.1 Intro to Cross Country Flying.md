@@ -22,6 +22,7 @@ Ground 0.5 hours
 - Logging time: For [[PPL]]/[[CPL]]/[[IRA]] experience requirements, different than more general definition
 	- Importantly, must include *"a point of landing that was at least a straight-line distance of more than 50 nautical miles from the original point of departure"*^[[[FAR 61.1 Applicability and Definitions]] and [[Keller 2009]]]^[Note though, how you break up a flight log is up to you, and this can allow certain flights to count partially as xc time -- see [[Van Zanen 2009]]]
 	- Good habit to note the furthest straight-line distance from original point of departure for each xc flight
+- XC equipment
 
 #### Lesson Structure and Flow
 - Lessons PPL4.2-PPL4.7^[May be helpful to review flow from [[~ PPL Blocks of Learning.png]] and [[XC Syllabus Topics On Flight Plan.pdf]]] cover key requirements to plan and execute a successful cross-country flight. These subjects include:

@@ -46,7 +46,7 @@ Overview of short- and soft-field operations
 	1. Complete pre-landing checklist ([[GUMPS]])
 	2. Identify touchdown target (200' zone for Private Pilot; 100' zone for Commercial Pilot)
 	3. Establish [[POH]]-recommended approach configuration and airspeed, adjust pitch and power as required
-	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference) +10/-5 kts
+	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference)
 	5. Aim for a point 100-200 feet short of target ([[Stabilized Approach.jpeg]])
 	6. If you're not stabilized, **go around**
 	7. Touch down smoothly at or beyond target, with minimal float, at or within 200 feet (PPL) or 100' (CPL) beyond the specified touchdown point

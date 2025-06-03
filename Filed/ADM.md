@@ -49,7 +49,7 @@ Each of Perceive, Process, and Perform have their own acronyms to ensure complet
 3. Perform with [[TEAM]]: Transfer, Eliminate, Accept, Mitigate
 
 > [!warning] A good rule of thumb for the processing phase
-> If you find yourself saying that it will "probably" be okay, it is definitely time for a solid reality check
+> If you find yourself saying that it will "probably" be okay, it is definitely time for a solid reality check.
 
 #### DECIDE
 DECIDE is more complete and emphasizes the feedback loop inherent to good decision-making.
