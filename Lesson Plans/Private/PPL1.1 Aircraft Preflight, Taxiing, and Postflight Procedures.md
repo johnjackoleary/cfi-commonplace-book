@@ -25,7 +25,7 @@ N/A
 2.5 hours ground^[From Jack: I've found this lesson often takes a full 3 hours, without including engine start or runup. Perhaps this should be split into two lessons, or the taxi + runup portion added to PPL.2.], 0.5 hour flight (optional)
 
 ### Lesson Elements
-1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, [[TSA]] ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/[non-citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training)))
+1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, [[TSA]] ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/[non-citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training)), student pilot cert)
 2. Syllabus overview
 3. Preflight
 	1. Ramp safety^[[Woman dies after backing into plane propeller while taking photos](https://www.youtube.com/watch?v=4wMeTCxZoDk)]
@@ -37,16 +37,13 @@ N/A
 		3. Legal vs Safety
 	5. POH sections
 	6. Fuel sampling and fuel level
-		1. > [!youtube] Published by [[ERAU SpecialVFR]] 
-		   ![](https://www.youtube.com/watch?v=rya4YFDpsPs)
 	7. Oil levels - see [[POH]] and club policies
 	8. Required documents on board - [[AR(R)OW]]
 	9. Flight deck organization
-	10. Seat adjustments
-	11. Overview of [[Aircraft Instruments]]
+	10. Overview of [[Aircraft Instruments]]
 4. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
 5. Engine start, including use of primer and propeller safety
-	1. Hot start, cold start, flooded start
+	1. Cold start, hot start, flooded start
 	2. What to do if it doesn't start, especially in cold weather
 		1. [[Starter Duty Cycle]]
 6. Taxiing Procedure

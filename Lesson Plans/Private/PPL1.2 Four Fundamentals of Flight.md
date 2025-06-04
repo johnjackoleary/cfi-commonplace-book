@@ -54,6 +54,7 @@ This follows the topics covered in a demo flight, if not previously flown.
 3. [[Adverse Yaw]] requires using the rudder to maintain coordinated flight
 4. [[Overbanking Tendency]] means you need to apply a bit of opposite aileron to keep the bank angle constant.
 5. Back-pressure results in load factor > 1.0, and increased stall speed
+6. Sight picture differs slightly in left vs right turns
 
 **In Practice**
 1. Check for traffic (high wing plane - lift wing slightly before banking)
@@ -66,9 +67,9 @@ This follows the topics covered in a demo flight, if not previously flown.
 #### Climbs and Descents
 
 **Notes**
-- Different situations require climbs at Vx, Vy, or normal/cruise climb
+- Different situations require climbs at [[Vx]], [[Vy]], or normal/cruise climb
 - It's useful to memorize power settings for repeatable climbs/descents
-- During climb, [[P-factor]] increases the need for right rudder
+- During climb, [[Four Left Turning Tendencies#P-Factor (Asymmetric Loading)|P-Factor]] increases the need for right rudder
 - Q: What happens, during straight-and-level flight, if you add throttle? Why?
 - Q: What happens, during straight-and-level flight, if you extend flaps?  Why?
 
