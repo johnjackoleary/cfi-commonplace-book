@@ -24,7 +24,7 @@ The simplest practical version requires memorizing the sine at a few key angles.
 | ----- | ---- | ----------------------------------- |
 | 30    | 0.5  | 50%                                 |
 | 45    | 0.7  | 75%                                 |
-| 60    | 1    | 100%                                    |
+| 60    | 0.9 | 100%                                |
 
 ### Rule of Sixths
 A slightly higher resolution rule-of-thumb uses the [[Rule of Sixths]].
