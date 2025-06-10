@@ -15,6 +15,8 @@ cover: "Media/Axes of Airplane.jpeg"
 - Private Pilot: [[~ PPL Lesson Plan Outline]]
 - Commercial Pilot: [[~ CPL Lesson Plan Outline]]
 - Instrument Rating: [[~ IR Lesson Plan Outline]]
+- High-Performance Endorsement: [[~ HP Lesson Plan Outline]]
+- Mountain Checkout: [[~ Mountain Lesson Plan Outline]]
 
 ### Instructor Interested in Resources
 - [[+ Sources]] and [[CFI Checkride Resources]]
