@@ -38,12 +38,16 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	5. Pitch up slowly for full stall, establish gentle turn if needed
 	6. Verbally acknowledge stall horn
 	7. Continue holding pitch to full stall
-	8. Recover: pitch down to normal climb attitude, full power. Climb Vy.
+	8. Recover: pitch down to normal climb attitude, full power. Climb [[Vy]].
 2. Common errors:
 	1. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry
 	3. Secondary stall due to aggressive pitch up during recovery
-3. Aerodynamics of spins
+3. Spin Recovery Procedure
+	1. Follow the [[POH]]!
+	2. [[PARE]]/[[PARENT]] - Power Off - Ailerons neutral - Rudder opposite rotation - Elevator stick/yoke forward briskly. Then, neutralize rudder and recover from dive.
+	3. What if we enter a spin today?
+4. Aerodynamics of spins
 	1. Spins are stalls, but with one wing "more stalled" than the other, causing rapid autorotation and descent. The nose may be pointing near the ground, but angle of attack is high, airspeed is slow, and descent rate is moderate.
 		1. ![[Spin Autorotation.jpeg]]
 		2. ![[Spin Entry and Recovery.jpeg]]
@@ -51,26 +55,22 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	3. Rudder effectiveness in a spin
 	4. Relationship to [[CG]] -- If CG is too far aft (e.g. aft of utility category limits) spin may not be recoverable!
 	5. An altitude loss of approximately 500 feet per each 3-second autorotation ("turn") can be expected in most small aircraft
-4. What does it look like from the outside?
+5. What does it look like from the outside?
 	1. > [!youtube] Published by [Aaron's Airways](https://www.youtube.com/@aaronsairways)
 	   ![](https://www.youtube.com/watch?v=oDiIO8SnRFM)
-5. What does it look like from the inside?
+6. What does it look like from the inside?
 	1. > [!youtube] Published by [@StephanEdelman](https://www.youtube.com/@StephanEdelman)
 	   ![](https://www.youtube.com/watch?v=4dSrjVR0MvE)
-6. What aircraft are approved for spins?
+7. What aircraft are approved for spins?
 	1. Check [[POH]]. Some airplanes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
 	2. Normal category planes are tested to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
 	3. Note: Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018|Fitzpatrick - Spartan College interpretation from FAA Chief Counsel in Feb 2018]]
-7. Situations where unintentional spins may occur
+8. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide
 	3. Climb-out stall that develops into spin (lots of [[P-factor]] during takeoff/go-around climb)
 	4. Iced up airframe
 	5. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
-8. Spin Recovery Procedure
-	1. Follow the [[POH]]!
-	2. [[PARE]]/[[PARENT]] - Power Off - Ailerons neutral - Rudder opposite rotation - Elevator stick/yoke forward briskly. Then, neutralize rudder and recover from dive.
-	3. What if we enter a spin today?
 9. Practicing Spins and Recoveries (optional)
 	1. Before departure
 		1. Confirm aircraft W&B in utility/acrobatic category approved for spins
