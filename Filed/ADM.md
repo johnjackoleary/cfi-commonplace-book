@@ -4,14 +4,15 @@ aliases:
 ---
 # Key Takeaways
 - Ongoing process used by pilots to determine the best course of action when facing a given set of circumstances
-- The [[3P Model]] can be used to make a good, time-critical decision
+- The [[3P Model]] can be used to make good, time-critical decisions
 - Some situations require automatic decision-making based on training and experience
 
 # Details
 > [!note] From [[PHAK Ch2]]
 > ADM is a systematic approach to risk assessment and stress management. To understand ADM is to also understand how personal attitudes can influence decision-making and how those attitudes can be modified to enhance safety in the flight deck. It is important to understand the factors that cause humans to make decisions and how the decision-making process not only works, but can be improved.
-> ...
-> The steps leading to this decision constitute a decision-making process. Three models of a structured framework for problem-solving and decision-making are the [[5P Model|5P]], the [[3P Model|3P]] (using [[PAVE]], [[CARE]] and [[TEAM]]), and the [[DECIDE]] models.
+
+The three models of a structured framework for problem-solving and decision-making are:
+[[5P Model|5P]], [[3P Model|3P]] (using [[PAVE]], [[CARE]], and [[TEAM]]), and [[DECIDE]] models.
 
 ## Evaluating the Situation (5Ps)
 A pilot must know the areas that present challenges and opportunities while flying. The [[5P Model]] helps itemize these areas, and should be reviewed at key times of a flight.^[Preflight, pretakeoff, hourly or at the midpoint of the flight, pre-descent, and just before the final approach fix or (for VFR operations) just before entering the traffic pattern.]

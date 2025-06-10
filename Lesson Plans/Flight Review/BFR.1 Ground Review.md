@@ -31,7 +31,16 @@ Schedule set as part of [[BFR.0 Preparation]]
 
 ### Completion Standards
 Learner has sufficient knowledge for safe, legal, and proficient flight operations.
- 
+
+### Suggested Logbook Phraseology
+For [[AC 61-98]]:
+- FAA Aviation English Language Standard (AELS) Requirement
+- Regulatory Review
+- Cross-Country Flight Plan Review
+- Weather & Weather Decision Making
+- Risk Management and Personal Minimums
+- General Aviation (GA) Security Issues
+
 ### Required Homework
 None
 

@@ -76,6 +76,18 @@ Hood, foggles, or other view-limiting device
 ### Completion Standards
 Learner demonstrates safe, legal, and proficient aircraft operation through all phases of flight.
 
+### Suggested Logbook Phraseology
+For [[AC 61-98]]:
+- Physical aircraft (basic skills)
+- Takeoffs and stabilized approaches to landings
+- Slow flight
+- Stalls and recovery/spin recognition and avoidance
+- Recovery from unusual attitudes
+- Simulated loss of power/engine
+- Operating the aircraft by sole reference to instruments under actual or simulated conditions
+- Aeronautical decision-making (ADM)
+- Automation system failures
+
 ### Required Homework
 None
 
