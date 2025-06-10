@@ -29,9 +29,6 @@ A [[FRAT]] can help with this process.
 2. Then, use a [[Risk Assessment Matrix.png|risk assessment matrix]] to determine the risk level.
 3. For any risk greater than 'medium', a mitigation should be found.
 
-> [!quote] From [[Risk Management Handbook]]
-> If in doubt about risk mitigation, a pilot should consider the value of mitigation against the potential cost of property damage and loss of life.
-
 For an example of this, see the #case-study in [Risk Assessment: Student Solo with Showers in the Vicinity](https://cfijack.com/risk-assessment-student-solo-with-showers-in-the-vicinity/) by [[CFI Jack]].
 
 ### Personal Minimums
