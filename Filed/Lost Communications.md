@@ -20,10 +20,12 @@
 
 # Additional Resources
 - [[AIM 6]]-2
+- [Lost Communications Procedures | FAR 91.185](https://www.youtube.com/watch?v=RNVh1QtHrQs) - a really good practical example from [[FlightInsight]]
 - [[Lost Communication Procedure Practice]]
 - Video of [Real Lost Comms in IMC](https://pilotworkshop.com/lost-comm-imc-video/)
 - [[IFR Radio Comm Part 1 General.jpeg]] and [[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 - [[FAR 91.185 Lost Comms]]
 - [[Turri 2011]], [[Turri 2011]], [[Van West 2018]]
+- [Handling A Radio Failure In IMC](https://www.boldmethod.com/learn-to-fly/regulations/handling-a-radio-failure-in-imc/) from [[Bold Method]]
 
 #concept
