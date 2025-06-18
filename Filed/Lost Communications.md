@@ -10,8 +10,8 @@
 	4. Do you see 'TX' on transmit? If not, you may have a stuck mic, or a bad PTT switch
 	5. Consider calling [[TRACON]] or Center on your cell phone!
 	6. Consider using a backup handheld radio
-3. In VMC, continue VFR, land as soon as practicable. 
-4. In IMC: 
+3. In [[VMC]], continue VFR, land as soon as practicable. 
+4. In [[IMC]]: 
 	1. For Route, use mnemonic [[AVE-F|AVE-F]] – Assigned, Vectored, Expected, then Filed (in that order of priority) 
 	2. For Altitude on each route segment, use highest of mnemonic [[MEA (Lost Comms)]] – Minimum (MEA), Expected, Assigned 
 	3. Leave Clearance Limit^[See also [[How Far Can You Go]]]
