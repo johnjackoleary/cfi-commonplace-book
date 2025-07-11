@@ -36,13 +36,14 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 2. Aerodynamics of slow flight
 	1. Angle-of-Attack ([[AOA]]), airspeed ([[Angle of Attack vs Speed.jpeg|image]]), [[Load Factor]] (such as in turn, [[Forces in Level Turn.jpeg|image]]), aircraft configuration, weight, attitude
 		1. ![[Angle of Attack Impact to Pressure on Airfoil.jpeg]]
-	2. The drag curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
+	2. The [[drag]] curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
 		1. ![[Drag vs Speed.jpeg]]
 		2. ![[Power Required Curve.jpeg]]
-	4. Stall warning devices and other indications of impending stall (mushy controls, buffeting)
-	5. Difference between attitude and AOA
-	6. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
-	7. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
+		3. Where to teach induced drag
+	3. Stall warning devices and other indications of impending stall (mushy controls, buffeting)
+	4. Difference between attitude and AOA
+	5. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
+	6. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
 3. Introduction to [[Weight and Balance]]
 	- > [!note] [[WVFC]] requires W&B as part of solo ground review form
 4. Slow flight maneuvering
