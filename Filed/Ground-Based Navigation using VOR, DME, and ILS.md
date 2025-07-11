@@ -18,6 +18,9 @@
 	1. Service Volumes (New vs. Original) - T, L, H, VL, VH
 7. Identifying
 8. Distance with 10° Full Scale Deflection ([[60-to-1 Rule]])
+9. Calculating 180° off bearing for VOR radial
+	1. Look at where the 'tail' of the CDI is pointing
+	2. +/- 200°, then -/+ 20° (e.g. 345-200 => 145 + 20 => 165)
 
 ### How VOR Works
 VOR receivers detect the phase difference between a reference and variable signal. They use this difference to determine the radial an aircraft is on.^[VOR navigation technology uses a ground-based antenna at a station to send a directional signal that rotates clockwise 30 times a second, or 360 degrees in azimuth. A reference signal is also emitted timed to be in phase with the directional signal as the directional signal passes magnetic north. The "phase difference" between the reference signal and the directional signal is the bearing from the station to the aircraft position. This bearing or line of position is called the VOR radial.]

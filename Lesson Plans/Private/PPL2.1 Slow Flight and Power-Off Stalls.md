@@ -36,7 +36,10 @@ Develop knowledge, risk management and skills associated with maneuvers during [
 2. Aerodynamics of slow flight
 	1. Angle-of-Attack ([[AOA]]), airspeed ([[Angle of Attack vs Speed.jpeg|image]]), [[Load Factor]] (such as in turn, [[Forces in Level Turn.jpeg|image]]), aircraft configuration, weight, attitude
 		1. ![[Angle of Attack Impact to Pressure on Airfoil.jpeg]]
-	2. The drag curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
+	2. Types of drag
+		1. [[Parasite Drag]]
+		2. [[Induced Drag]]
+	3. The [[drag]] curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
 		1. ![[Drag vs Speed.jpeg]]
 		2. ![[Power Required Curve.jpeg]]
 	4. Stall warning devices and other indications of impending stall (mushy controls, buffeting)

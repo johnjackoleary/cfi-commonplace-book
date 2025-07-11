@@ -1,9 +1,8 @@
-#todo :: Update this, should be that induced drag is from downwash of wingtip vortices, not deflection of relative wind
-
 # Key Takeaways
-- Induced drag exists whenever lift is created. It is the portion of lift which is directed backwards.
+- Induced drag is caused by [[Wingtip Vortex|wingtip vortices]]
+- Induced drag exists whenever lift is created. It is the portion of lift that is directed backwards.
 - Induced drag increases rapidly at slower airspeeds.
-- Ground effect reduces induced drag, making the airplane perform better.
+- [[Ground effect]] reduces induced drag, making the airplane perform better.
 
 # Details
 ## What It Is
@@ -17,7 +16,7 @@ Where parasite drag is most pronounced at faster speeds, induced drag is most pr
 ## What Causes It
 An airstream flowing over the wing generates lift perpendicular to the relative airstream.
 
-When air passes around a wing generating lift, that relative airstream is deflected downward. (**Note**: Start video at 53 seconds.)
+When air passes around a wing generating lift, it creates wing tip vortices. These vortices deflect the relative airstream downward. (**Note**: Start video at 53 seconds.)
 <iframe src="https://commons.wikimedia.org/wiki/File:Flow_over_aerofoils.webm?embedplayer=yes" width="320" height="240" frameborder="0"></iframe>
 
 <cite>Holger Babinsky, University of Cambridge, CC BY-SA 3.0, via Wikimedia Commons</cite>

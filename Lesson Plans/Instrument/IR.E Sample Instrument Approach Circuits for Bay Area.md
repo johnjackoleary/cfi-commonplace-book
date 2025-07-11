@@ -55,6 +55,7 @@ Suggested Circuit:
 - [KBIY RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=00068R20.PDF) (obstacles on final)
 
 ## In Airplane Practice
+- [KEDU RNAV 17](https://cfijack.com/latest-plate-redirect/?plate=06030R17.PDF) ->  published missed -> vectors to [KSMF ILS 17R](https://cfijack.com/latest-plate-redirect/?plate=05490IL17R.PDF) -> right x-wind departure -> [KVCB RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=06094R20.PDF)
 - [KSQL VFR-to-IFR departure](https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3282452782098945323) -> KHAF RNAV 30 -> KNUQ ILS 32R -> alternate missed hold 3500' at OSI-> KPAO RNAV 31
 - Precision-like approaches and missed
 	- KAPC ILS 01L -> missed -> O69 RNAV 29 -> missed -> KSTS ILS 32

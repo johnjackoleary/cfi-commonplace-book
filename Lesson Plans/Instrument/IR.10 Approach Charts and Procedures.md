@@ -13,6 +13,7 @@ Develop an understanding to interpret, apply, and brief various types of charted
 
 ### Resources
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
+- [[IR.E Sample Instrument Approach Circuits for Bay Area]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
@@ -22,7 +23,7 @@ Develop an understanding to interpret, apply, and brief various types of charted
 - [[IR.9 Communications and Clearances]]
 
 ### Schedule
-Ground 1.5 hours
+Ground 2.5 hours
 
 > [!note] 
 > Can be completed at the same time as [[IR.9 Communications and Clearances]].
@@ -33,9 +34,10 @@ Ground 1.5 hours
 		1. [[ILS]] 
 		2. [[PAR]] 
 		3. GPS [[LPV]] (technically not a precision approach, but included here because of similarity^[This is not a precision approach because it does not require the same equipment available to transition from IMC to VMC, namely things like the [[ALS]]. Good video on this topic from [[The Finer Points]] is viewable [here](https://www.youtube.com/watch?v=w1a-9KOdxQY).])
+		4. Fly to a [[DA]]
 	2. Non-Precision
 		1. Lateral Guidance Only
-		2. Fly to a Minimum Descent Altitude
+		2. Fly to a Minimum Descent Altitude ([[MDA]])
 2. Approaches ([[Part 97]])
 	1. Briefing a plate
 		1. Top to bottom, left to right
@@ -51,7 +53,7 @@ Ground 1.5 hours
 		6. [[Feeder Route]]s
 		7. NoPT
 		8. Approach NA for arrivals on ___
-		9. Increase MDAs if local Wx not available, e.g. [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)
+		9. Increase MDAs if local Wx not available, e.g. KPAO
 3. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
@@ -85,7 +87,7 @@ Ground 1.5 hours
 			1. Take the AGL value of the MDA and divide it by 300
 		3. Many decide to go missed at this point
 	3. Identifying [[MAP]]
-		1. Timing from FAF to MAP
+		1. Timing from [[FAF]] to [[MAP]]
 		2. GPS/DME
 	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
 	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
@@ -105,7 +107,7 @@ Ground 1.5 hours
 	3. During circling maneuver at or above MDA, airport not visible 
 10. Missed approach 
 	1. When to execute missed approach?
-	2. Procedure: Cram, Climb, Cool, Configure, Call
+	2. Procedure: Cram, Climb, Cool, Configure, Call ([[5 C's (Going Missed)]])
 	3. How to handle MA before MAP 
 		1. "Fly over" MAP first (must stay on the lateral course)
 		2. You can begin to climb anytime, assuming no contrary notes in the [[IAP]]
