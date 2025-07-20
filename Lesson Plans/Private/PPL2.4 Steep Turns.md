@@ -27,7 +27,7 @@ Ground 0.5 hours, Flight 1 hour
 	6. Most light aircraft designed for 3.8 positive g max (corresponds to 75-degree bank level turn)
 	7. [[Maneuvering speed]] Va - define and discuss entry speed for steep turn
 2. Flying the maneuver
-	1. Set-up for maneuvering, start at [[Va]]
+	1. Set-up for maneuvering ([[CHAPS]]), start at [[Va]]
 	2. Crisp roll into 45° bank; add power passing ~30°; aft pressure for altitude
 	3. Rollout on entry heading
 3. Notes

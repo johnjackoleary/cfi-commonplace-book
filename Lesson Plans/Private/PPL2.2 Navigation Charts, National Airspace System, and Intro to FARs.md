@@ -35,7 +35,7 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 	6. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
 	7. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
 6. Talk through airspace involved in KPAO-VPMIN
-	1. At 3500', 2500', and 1000'
+	1. At 3500' and 1000'
 	2. During day and night
 
 ### Completion Standards

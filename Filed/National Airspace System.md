@@ -62,6 +62,11 @@ Other airspaces also exist. Make sure to check for these before you fly!
 ### VFR Weather
 See [[FAR 91.155 VFR Weather Minimums]].
 
+## Handoffs During Flight
+A flight leaving from a busy Charlie in the Bay Area would be handed off between:
+
+1. 
+
 ## Relevant FARs/AIM
 > [!example]- Controlled Airspace
 	> - [[AIM 3]]-2
@@ -78,7 +83,7 @@ See [[FAR 91.155 VFR Weather Minimums]].
 	> - [[AIM 3]]-4
 	> - [[FAR 91.133 Restricted and Prohibited Areas]]
 	> - [[FAR 91.137 TFRs in Disaster or Hazard Areas]]
-	> - [[FAR 91.141 Presidential TfFRs]]
+	> - [[FAR 91.141 Presidential TFRs]]
 	> - [[FAR 91.143 Space Flight TFRs]]
 	> - [[FAR 91.145 Aerial Demos and Sporting Event TFRs]]
 

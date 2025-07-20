@@ -53,6 +53,8 @@ Suggested Circuit:
 ## Simulator Practice
 - [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> KSGS DP -> KRGK RNAV 27
 - [KBIY RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=00068R20.PDF) (obstacles on final)
+- ILS Z 4R PHNL
+- VOR 15 KMTN
 
 ## In Airplane Practice
 - [KEDU RNAV 17](https://cfijack.com/latest-plate-redirect/?plate=06030R17.PDF) ->  published missed -> vectors to [KSMF ILS 17R](https://cfijack.com/latest-plate-redirect/?plate=05490IL17R.PDF) -> right x-wind departure -> [KVCB RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=06094R20.PDF)

@@ -24,22 +24,23 @@ Develop understanding of IFR flight training process, and detailed knowledge of 
 Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Lesson Elements
-1. Overview of [[IFR]] flight training process, syllabus overview 
-	1. Aircraft choice, [[Choosing a Ground School|ground school choice]], high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
+1. Overview of [[IFR]] flight training process, syllabus overview
+	1. TSA, onboarding, etc
+	2. Aircraft choice, [[Choosing a Ground School|ground school choice]], high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
 		1. Private: 70-90 hours, about $20k-$30k
 		2. Instrument 40-60 hours, about $15k-$20k
 		3. Simulation software and PC tools
 		4. Use of [[AATD]]/[[BATD]] and [[safety pilot]] to reduce costs
-	2. [[IR.A Instrument Rating Flight Experience Requirements]]
+	3. [[IR.A Instrument Rating Flight Experience Requirements]]
 		1. Part of training can be done with a [[Safety Pilot]]
 		2. Part of training can be done with an instructor in an [[AATD]] like the PFC1000s at [[WVFC]]
-	3. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
-	4. Recency of experience [[FAR 61.57 Recent Flight Experience]] and [[FAR 61.51 Pilot Logbooks]]
+	4. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
+	5. Recency of experience [[FAR 61.57 Recent Flight Experience]] and [[FAR 61.51 Pilot Logbooks]]
 		1. Logging [[IAP]], what’s required  ([[InFO 15012]])
 		2. > [!warning] For future commercial pilots
 		   > This time does NOT automatically satisfy the required instrument training for the commercial certificate, unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](d) and also [[FAR 61.129 CPL Experience Reqs|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.
-	1. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
-	2. Risk avoidance and management 
+	6. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
+	7. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists 
 		2. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
 2. [[Aircraft Instruments]] and power sources, flight characteristics, limitations, errors, pre-flight check methods 
@@ -67,13 +68,13 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			1. Used in conjunction with PFD
 			2. Contains various additional information (maps, weather, engine performance, etc)
 			3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
-		7. Technically Advanced Aircraft (TAA) definition
+		7. Technically Advanced Aircraft ([[TAA]]) definition
 	4. [[Transponder]] and altitude encoders
 		1. Blind Encoder (cheaper, not integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line
 		3. Mode A (squawk code + position) vs Mode C (squawk code + position + altitude)
 		4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C), GND
-			1. ALT mode on the ground?
+			1. Use ALT mode on the ground
 		5. Mode S - transmits additional info like heading, speed
 		6. Set to ALT ([[Lights, Camera, Action, Time]] check)
 	5. [[ADS-B]] weather/traffic
