@@ -52,6 +52,7 @@
 	- [G1000 Manual](https://static.garmin.com/pumac/190-00498-08_0A_Web.pdf)
 - [2015 International Air Transport Association (IATA) FMS Data Entry Error Prevention Best Practices](https://www.iata.org/contentassets/b6eb2adc248c484192101edd1ed36015/fms-data-entry-error-prevention-ed-1-2015.pdf)
 - [Staying ahead of the airplane - automation tips from a human factors expert](https://www.youtube.com/watch?v=VOQcdXE6MPo) from [[AOPA]]
+- [CFIT and Overreliance on Automation](https://medium.com/faa/cfit-and-overreliance-on-automation-48eed783b1e9) from [[FAA Safety Team|FAASTeam]]
 
 
 #concept

@@ -84,6 +84,7 @@ Background knowledge required for safe mountain flying.
 		2. Time of day
 			1. Often better in morning (cooler, less winds, less turbulent)
 			2. Many folks prefer not to fly after noon
+				1. >[!tip] Weather in the mountains is a trendline, it’s unlikely to get better once it starts to get worse
 			3. Mountain shadow can make valley airports dark early
 		3. Seasonal Considerations
 			1. Summer
@@ -97,6 +98,7 @@ Background knowledge required for safe mountain flying.
 			3. Webcams^[Some for Tahoe area in [[Useful Bay Area Webcams]]]
 			4. Contact someone at the destination airport
 			5. Be wary -- mountain weather can change quickly!
+				1. Making assessments en route about signs of developing weather 
 		5. Specific weather factors
 			1. Visibility
 			2. Turbulence
@@ -133,6 +135,7 @@ Background knowledge required for safe mountain flying.
 	3. [[Chart Supplement]]
 	4. Check departure procedures for local obstructions and noise abatement
 	5. Alternative airports
+	6. [[FBO]] rental cars and courtesy cars on arrival
 3. Runup
 	1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean to find peak power)
 	2. Gravel considerations (can get picked up and damage propeller)
@@ -182,7 +185,6 @@ Background knowledge required for safe mountain flying.
 > - Compute takeoff and climb performance
 > - Determine cruise power settings and performance
 > - Review weather as though departing today
-
 
 ### Completion Standards
 Learner understands the unique considerations required for mountain flying. They are able to apply these considerations while planning subsequent mountain flying.

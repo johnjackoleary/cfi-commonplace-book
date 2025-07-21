@@ -1,6 +1,7 @@
 # General Sites
 - https://cameras.alertcalifornia.org
 - https://weathercams.faa.gov
+- [[ForeFlight]] [Webcam Integration](https://foreflight.com/blog/bringing-real-time-weather-cameras-to-more-pilots)
 
 # Specific Cameras
 | Camera         | URL                                                                      |
@@ -17,6 +18,8 @@
 | Watsonville    | https://www.watsonvillepilots.org/airport                                |
 | Truckee Airport| https://truckeetahoeairport.com/webcam                                   |
 | Truckee Area   | https://images.ambientweather.net/C8C9A3558B1B/latest.jpg                |
+
+---
 
 > [!tip] iOS Shortcut to Quickly View Cameras Above
 > https://www.icloud.com/shortcuts/5d65888d1a3c442d80f808349970c79c

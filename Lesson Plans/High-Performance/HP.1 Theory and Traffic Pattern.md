@@ -57,7 +57,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- Impact of heavier nose in round out -- lack of airspeed over threshold ('chop and drop') may not give enough energy to round out
 - Go-Arounds
 	- Smooth power application
-	- [[4 C's (Go-Around)]] or [[5 C's (Going Missed)]], [[Power, Pedal, Pitch]], or [[Power Up, Pitch Up, Clean Up]]
+	- [[4 C's (Go-Around)]], [[5 C's (Going Missed)]], [[Power, Pedal, Pitch]], or [[Power Up, Pitch Up, Clean Up]]
+- Emergency Considerations
+	- Feather for power off glide, if able
 - IFR Considerations
 	- Slow to an approach speed early -- a couple miles before [[IAF]]
 	- If you're falling behind the plane, go missed and try again

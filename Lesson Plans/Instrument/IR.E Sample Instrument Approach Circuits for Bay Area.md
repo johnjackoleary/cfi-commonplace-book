@@ -49,6 +49,9 @@ Suggested Circuit:
 - KPRB VOR 19 -> KPRB VOR-B
 - [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF) -> [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)
 
+# Discover Your Own
+- [https://find-an-approach.github.io](https://find-an-approach.github.io/)
+
 # Challenge Circuits
 ## Simulator Practice
 - [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> KSGS DP -> KRGK RNAV 27
