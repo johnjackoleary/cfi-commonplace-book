@@ -34,11 +34,11 @@ Ground 2 hours, 1 hour sim/flight
 		1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 		2. Towered airports become non-towered when tower closed
 	2. Review the runway layout: numbering, lengths, left/right pattern, [[TPA]]
-	3. Read the AF/D Entry: Any disagreements with ForeFlight?  Are there noise abatement procedures?  Which is the calm wind runway?
+	3. Read the AF/D Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
 	4. Are there [[NOTAM|NOTAMs]]?
 	5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
 	6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
-	7. Read ForeFlight comments
+	7. Read [[ForeFlight]] comments
 	8. Where to record this in XC planner
 3. En route, pick up the weather as soon as it's in range
 	1. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio

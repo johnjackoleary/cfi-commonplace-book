@@ -11,8 +11,6 @@ Further develop instrument scan procedures, and practice all phases of IFR fligh
 ### Resources
 None
 
-Combine with IR.2?
-
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On

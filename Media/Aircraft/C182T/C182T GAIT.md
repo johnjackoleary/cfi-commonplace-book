@@ -4,23 +4,23 @@ tags: [gait]
 
 | **C182T Gaits** v2.0    | **Flaps** | **Pitch** | MP<br/>" | **RPM** | IAS<br>(kts)      | VSI<br>(fpm) |
 | ----------------------- | --------- |:---------:| -------- |:-------:| ----------------- |:------------:|
-| ⚠️ V<sub>G</sub>        |           |    TBD    | idle     |  idle   | 75@MGW<br>58@2100 |     TBD      |
-| 🛫 V<sub>R</sub>        | 10°       |    TBD    | max      |  2400   | 50-60             |     TBD      |
-| V<sub>X(20°)</sub>      | 20°       |    TBD    | max      |  2400   | 58                |     TBD      |
-| V<sub>X</sub>           |           |    TBD    | max      |  2400   | 65                |     TBD      |
-| 🛫 V<sub>Y</sub>        |           |    TBD    | max      |  2400   | 80                |     TBD      |
-| 🛫 V<sub>Climb</sub>    |           |    TBD    | 23       |  2400   | 90                |     TBD      |
-| Cruise                  |           |    TBD    | 23       |  2300   |                   |      0       |
-| 🌫️ IAF Inbound Level    |           |           | 16"      | full        | 90                |              |
-| 🌫️ IAF Inbound Descent  |           |           |          |         | 90                |              |
-| 🌫️ Prec Appr to DA      | 10°       |   -2.5°   | 13"      |  full   | 90                |              |
-| 🌫️ Non-Prec Appr to MDA |           |           |          |         | 90                |              |
-| Descent                 |           |    TBD    |          |   TBD   |                   |    \-500     |
-| 🛬 Downwind             |           |    TBD    | 16       |   TBD   | 90                |      0       |
-| 🛬 Abeam \#s            | 10°       |    TBD    | 13       |   TBD   | 80                |     TBD      |
-| 🛬 Base                 | 20°       |    TBD    | 13       |   TBD   | 70                |     TBD      |
-| 🛬 Final                | Full      |    TBD    | 13       | as req  | 65                |     TBD      |
-| Short                   | Full      |    TBD    | 13       | as req  | 60                |     TBD      |
+| ⚠️ V<sub>G</sub>        |           |           | idle     |  idle   | 75@MGW<br>58@2100 |              |
+| 🛫 V<sub>R</sub>        | 10°       |           | max      |  2400   | 50-60             |              |
+| V<sub>X(20°)</sub>      | 20°       |           | max      |  2400   | 58                |              |
+| V<sub>X</sub>           |           |           | max      |  2400   | 65                |              |
+| 🛫 V<sub>Y</sub>        |           |           | max      |  2400   | 80                |              |
+| 🛫 V<sub>Climb</sub>    |           |           | 23       |  2400   | 90                |              |
+| Cruise                  |           |           | 23       |  2300   |                   |      0       |
+| 🌫️ IAF Inbound Level    | 10°       |           | 16"      |  full   | 90                |      0       |
+| 🌫️ IAF Inbound Descent  | 10°       |           |          |         | 90                |      0       |
+| 🌫️ Prec Appr to DA      | 10°       |   -2.5°   | 13"      |  full   | 90                |     -450     |
+| 🌫️ Non-Prec Appr to MDA | 10°       |           |          |         | 90                |     -800     | 
+| Descent                 |           |           |          |         |                   |    \-500     |
+| 🛬 Downwind             |           |           | 16       |         | 90                |      0       |
+| 🛬 Abeam \#s            | 10°       |           | 13       |         | 80                |              |
+| 🛬 Base                 | 20°       |           | 13       |         | 70                |              |
+| 🛬 Final                | Full      |           | 13       | as req  | 65                |              |
+| Short                   | Full      |           | 13       | as req  | 60                |              |
 
 <br>
 

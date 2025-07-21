@@ -63,9 +63,13 @@ Other airspaces also exist. Make sure to check for these before you fly!
 See [[FAR 91.155 VFR Weather Minimums]].
 
 ## Handoffs During Flight
-A flight leaving from a busy Charlie in the Bay Area would be handed off between:
+A flight leaving from a busy Charlie in the Bay Area would be handed off from:
 
-1. 
+1. Clearance Delivery
+2. Ground
+3. Tower
+4. [[TRACON]] (NorCal, in the Bay)
+5. [[ARTCC]] (Oakland Center, in the Bay)
 
 ## Relevant FARs/AIM
 > [!example]- Controlled Airspace
