@@ -58,6 +58,7 @@ E.g. ![[WAAS LPV.png]]
 - [[PHAK Ch16]]
 - https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/techops/navservices/gnss
 - https://download.aopa.org/epilot/2007/sa01.pdf "GPS Technology" #safety-advisors
+- [How GPS Works](https://www.ifr-magazine.com/avionics/how-gps-works/) from [[IFR Magazine]]
 
 ***Related To***: [[Ground-Based Navigation using VOR, DME, and ILS]]
 

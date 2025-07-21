@@ -11,6 +11,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 - [[Private Pilot ACS]] Section III.B
 - [[Non-Tower Radio Communication Examples]]
 - [[AC 90-66]]
+- [How to Talk Like a Pilot](https://medium.com/faa/how-to-talk-like-a-pilot-c0d15bd1327f) from [[FAA Safety Team]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
 
