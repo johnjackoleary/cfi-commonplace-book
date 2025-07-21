@@ -19,5 +19,7 @@ tags:
 ***Definition***    :: 
 ***Source***         :: [[AIM 8]]
 ***Related To***: [[Illusions Leading to Spatial Disorientation]], [[Vision in Flight]]
+***Additional Resources***:
+- [# Quiz: Do You Know These 6 Landing Illusions?](https://www.boldmethod.com/blog/quizzes/2024/05/do-you-know-these-6-landing-illusions/) from [[Bold Method]]
 
 #glossary #aeromedical

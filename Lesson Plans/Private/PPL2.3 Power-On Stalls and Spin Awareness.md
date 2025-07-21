@@ -30,7 +30,8 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 
 ### Lesson Elements
 
-1. Power On Stall Maneuver
+#### Power On Stall Maneuver
+1. Procedure
 	1. Simulates stall during climb after takeoff
 	2. [[CHAPS]]
 	3. Enter slow flight in takeoff configuration
@@ -43,35 +44,38 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	1. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry
 	3. Secondary stall due to aggressive pitch up during recovery
-3. Spin Recovery Procedure
+
+#### Spins
+1. Spin Recovery Procedure
 	1. Follow the [[POH]]!
 	2. [[PARE]]/[[PARENT]] - Power Off - Ailerons neutral - Rudder opposite rotation - Elevator stick/yoke forward briskly. Then, neutralize rudder and recover from dive.
 	3. What if we enter a spin today?
-4. Aerodynamics of spins
+2. Aerodynamics of spins
 	1. Spins are stalls, but with one wing "more stalled" than the other, causing rapid autorotation and descent. The nose may be pointing near the ground, but angle of attack is high, airspeed is slow, and descent rate is moderate.
+	2. > [!tip] Spins happen when the plane is stalled and has a yawing moment
 		1. ![[Spin Autorotation.jpeg]]
 		2. ![[Spin Entry and Recovery.jpeg]]
-	2. At spin entry, trying to lift the down wing with aileron deepens the stall and accelerates stall entry!
-	3. Rudder effectiveness in a spin
-	4. Relationship to [[CG]] -- If CG is too far aft (e.g. aft of utility category limits) spin may not be recoverable!
-	5. An altitude loss of approximately 500 feet per each 3-second autorotation ("turn") can be expected in most small aircraft
-5. What does it look like from the outside?
+	3. At spin entry, trying to lift the down wing with aileron deepens the stall and accelerates stall entry!
+	4. Rudder effectiveness in a spin
+	5. Relationship to [[CG]] -- If CG is too far aft (e.g. aft of utility category limits) spin may not be recoverable!
+	6. An altitude loss of approximately 500 feet per each 3-second autorotation ("turn") can be expected in most small aircraft
+3. What does it look like from the outside?
 	1. > [!youtube] Published by [Aaron's Airways](https://www.youtube.com/@aaronsairways)
 	   ![](https://www.youtube.com/watch?v=oDiIO8SnRFM)
-6. What does it look like from the inside?
+4. What does it look like from the inside?
 	1. > [!youtube] Published by [@StephanEdelman](https://www.youtube.com/@StephanEdelman)
 	   ![](https://www.youtube.com/watch?v=4dSrjVR0MvE)
-7. What aircraft are approved for spins?
+5. What aircraft are approved for spins?
 	1. Check [[POH]]. Some airplanes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
 	2. Normal category planes are tested to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
 	3. Note: Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018|Fitzpatrick - Spartan College interpretation from FAA Chief Counsel in Feb 2018]]
-8. Situations where unintentional spins may occur
+6. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide
 	3. Climb-out stall that develops into spin (lots of [[P-factor]] during takeoff/go-around climb)
 	4. Iced up airframe
 	5. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
-9. Practicing Spins and Recoveries (optional)
+7. Practicing Spins and Recoveries (optional)
 	1. Before departure
 		1. Confirm aircraft W&B in utility/acrobatic category approved for spins
 		2. Secure interior - no loose objects
@@ -83,7 +87,7 @@ Develop knowledge, risk management, and skills associated with power-on stalls a
 	7. Hold full aft elevator and full rudder for desired number of turns in spin
 	8. Recover with [[POH]] (often [[PARE]]) procedure as described above
 	9. Pull up from dive and add power to regain altitude as necessary
-10. Common errors
+8. Common errors
 	1. Failure to configure aircraft properly (e.g. spinning with flaps down, since recover may exceed flap limit speed)
 	2. Failure to hold full stall, resulting in a steep spiral and high airspeed
 	3. Improper use of controls during recovery, especially neutral ailerons (instinct is to lift the low wing with ailerons)
