@@ -22,8 +22,10 @@ Do you lycoming/etc training?
 
 Questions:
 - Different mechanics for different types of work?
+	- Yes very normal
 - Other mechanic sees things missed by previous mechanic 
 - What does it mean to have an uncalibrated torque wrench?
 
 Torque: can think of a bolt as like a spring being stretched 
+
 
