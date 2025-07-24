@@ -19,3 +19,13 @@ Not finished until climbing
 
 Make sure stick not forward too long on recovery 
 
+On finding rotation direction: Look off the nose. Ground moves to one shoulder. That’s the rudder you push. 
+
+If airspeed is increasing, you’re spiraling not spinning and you need to recover. Or if g-load increase 
+
+Spin lesson plan picture 
+
+if you’re light in the seat, you’ve recovered 
+
+Stall/spin awareness book by rich stowell 
+
