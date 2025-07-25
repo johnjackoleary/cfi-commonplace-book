@@ -30,8 +30,8 @@ This is simply airspace not designated as class A, B, C, D, or E.
 > Some Class D airports may revert to either a Class E or Class G when the tower is closed.
 
 ### Special Use Airspace
-- Prohibited areas: Flight prohibited (e.g. White House)
-- Restricted areas: Not wholly prohibited, but has restrictions. Contact the controlling agency for permission. May be extremely hazardous to enter without permission.
+- Prohibited areas: Flight prohibited (e.g. White House) to protect things on the ground 
+- Restricted areas: Not wholly prohibited, but has restrictions. Contact the controlling agency for permission. May be extremely hazardous to enter without permission. [[R-2531]] to protect things in the air
 - Warning areas: Similar to restricted, but not solely US jurisdiction (e.g. over ocean)
 - Military operation areas ([[MOA]]s): Separate certain military operations from IFR traffic. VFR pilots should exercise caution if traversing a MOA
 	- > [!quote] From [[AIM 3]]

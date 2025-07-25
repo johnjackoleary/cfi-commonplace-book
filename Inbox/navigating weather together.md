@@ -42,7 +42,12 @@ Questions for them:
 
 Questions for John:
 - filing IFR circuits
+	- Leg by leg 
 - Filing to VFR on top
+	- Just file to a destination you can actually go to so you have a full IFR plan if you need it
 - best to ask “VFR request”?
+	- Just call sign is enough to get a code
+	- TRACON has internal codes
 - Turn off the radio in emergency?
 - Pop up IFR etiquette and timing 
+	- 
