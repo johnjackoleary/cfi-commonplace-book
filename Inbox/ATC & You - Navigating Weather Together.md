@@ -1,20 +1,16 @@
-Atc and you 
+A #lecture at [[EAA AirVenture Oshkosh|Oshkosh]] 2025 by [[NATCA]].
 
-https://linktr.ee/drcnatca For disaster response 
-
-They only see precipitation, not generic buildup 
-
-They have an onsite meteorologist. Controllers get a full briefing before they start each shift 
-
-
-
-Ask in plain English if you don’t know phraseology. Don’t hesitate to ask.
-
-PIREPs can be just a quick heads up to them, don’t stress the format too much. Good to give PIREPs if you would like to know 
+1. [[TRACON]] and [[ARTCC]] can only see precipitation, not generic buildup.
+2. [[ATC]] has an on-site meteorologist. 
+3. Controllers get a full [[weather brief]] before they start each shift.
+4. Feel free to ask in plain English if you don’t know proper phraseology. Don’t hesitate to ask.
+5. [[PIREP]]s can be just a quick heads up to them, don’t stress the format too much. 
+6. Give PIREPs of anything you would have liked to know. They'll pass it on to the next pilots.
+7. Declaring the emergency: if you declare, they are also allowed to break any rule to help get you safe. Sort of like an ATC version of [[FAR 91.3 PIC Responsibility and Authority|91.3]].
 
 Pic of when they’re required to ask for PIREPs 
 
-Declaring the emergency: if you declare, they are also allowed to break any rule to help get you safe.
+
 
 Average of 178 seconds until bad outcome with VFR into IM 
 
@@ -50,4 +46,5 @@ Questions for John:
 	- TRACON has internal codes
 - Turn off the radio in emergency?
 - Pop up IFR etiquette and timing 
-	- 
+
+Source: https://events.rdmobile.com/Sessions/Details/2959003
