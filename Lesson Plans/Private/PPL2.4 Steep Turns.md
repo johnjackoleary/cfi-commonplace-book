@@ -33,6 +33,7 @@ Ground 0.5 hours, Flight 1 hour
 3. Notes
 	1. You may notice (subtle) opposite aileron during turn to prevent [[overbanking tendency]]
 	2. There's a lot of debate on if you should or shouldn't use trim. I suggest not, but you may want to.
+	3. May be ask to do one 360, or two back-to-back
 4. Common errors
 	1. Forgetting to scan for traffic or locating emergency field
 	2. Staring at the instruments too much -- this is easiest to fly just looking outside!
