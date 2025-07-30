@@ -4,3 +4,4 @@ aliases:
 - AirVenture
 - Oshkosh
 ---
+***Website***: https://www.eaa.org/airventure/
