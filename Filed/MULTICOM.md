@@ -1,3 +1,5 @@
-***Meaning*** :: <u>M</u>ULTICOM <u>M</u>ULTICOM <u>M</u>ULTICOM <u>M</u>ULTICOM <u>M</u>ULTICOM <u>M</u>ULTICOM <u>M</u>ULTICOM <u>M</u>ULTICOM
+***Meaning*** :: MULTICOM
+
+> [!note] Not technically an acronym, though it is stylized like one.
 
 #acronym
