@@ -1,3 +1,3 @@
-***Meaning*** :: <u>A</u>irport/Facility <u>D</u>irectory <u>D</u>irectory
+***Meaning*** :: <u>A</u>irport/<u>F</u>acility <u>D</u>irectory
 
 #acronym
