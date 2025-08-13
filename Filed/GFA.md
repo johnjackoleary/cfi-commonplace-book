@@ -1,3 +1,3 @@
-***Meaning*** :: <u>G</u>raphical <u>F</u>orecast <u>A</u>viation
+***Meaning*** :: <u>G</u>raphical <u>A</u>rea <u>F</u>orecast
 
 #acronym
