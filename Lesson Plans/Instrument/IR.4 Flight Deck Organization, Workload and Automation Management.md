@@ -36,7 +36,7 @@ Ground 1 hour, sim/airplane 1 hour
 	1. Pros - Don’t require battery, less fragile than EFB
 	2. Cons - Expire, no search function, take space and weight
 5. Mounting
-	1. Yoke, kneeboard, suction
+	1. Yoke^[weight on controls], kneeboard^[head motion down], suction^[obscures peripheral vision]
 	2. Turbulence
 6. Chart and database currency
 	1. Every 56 days (8 weeks)
