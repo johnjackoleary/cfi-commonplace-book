@@ -40,7 +40,7 @@ GPS/Sentry/ADS-B In
 	3. Distances around traffic pattern
 		1. Downwind is 1/2 to 1 mile out
 		2. Turn base at approximately 45° to the approach end of runway
-		3. Upwind
+		3. Upwind is >1/2mi and until [[TPA]]-300'
 	4. Left traffic (meaning making left turns) unless otherwise noted
 	5. Emphasis on the word 'pattern'
 2. As you approach an airport to land, what information do you need?
