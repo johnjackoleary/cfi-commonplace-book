@@ -27,7 +27,7 @@ Low-level wind shear is commonly associated with passing frontal systems, thunde
 Microbursts are a very severe form of [[LLWS]].
 
 > [!caution] From [[AIM 7]]
-> They may be embedded in heavy rain associated with a thunderstorm or in light rain in benign appearing virga. When there is little or no precipitation at the surface accompanying the microburst, a ring of blowing dust may be the only visual clue of its existence.
+> They may be embedded in heavy rain associated with a thunderstorm or in light rain in benign appearing [[virga]]. When there is little or no precipitation at the surface accompanying the microburst, a ring of blowing dust may be the only visual clue of its existence.
 
 A typical microburst:
 - Has a horizontal diameter of 1–2 miles and a nominal depth of 1,000 feet. 

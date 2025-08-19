@@ -70,6 +70,7 @@ Background knowledge required for safe mountain flying.
 				1. Power in normally aspirated engines decreases 3% for every 1000'^[From [[Mountain Flying]]]
 			5. [[Service ceiling]] consideration
 				1. Remember that Vx and Vy converge at higher altitudes ([[Vx vs Vy at Higher Altitudes.jpeg|image]])
+			6. Extrapolating from performance data
 		2. Selecting an aircraft for the mission
 			1. Some experts recommend that 160 horsepower should be considered the absolute minimum for the airplane, especially when the pilot lacks significant mountain flying experience. 
 		3. Weight & Balance considerations

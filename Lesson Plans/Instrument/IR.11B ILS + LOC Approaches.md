@@ -36,10 +36,12 @@ Ground 30m, simulator – 2.5 hours
 	2. "Cleared Straight In" vs just "Cleared"
 3. When to switch to [[VLOC]] if using GPS
 4. When are you established on the LOC
-5. Other Types of Approaches
+5. When should you intercept the glideslope?^[Thoughtful analysis in [[Watch Your Step(Down)]] and [[When to Descend on a Precision Approach - How to Fly an ILS Approach]]]
+	1. Intercepting early doesn't guarantee we'll cross points before the FAF correctly (e.g. in warmer than standard temperatures) - [[InFO 11009]]
+6. Other Types of Approaches
 	1. [[LDA]]
 	2.  Back Course
-6. Errors
+7. Errors
 	1. Intercepting the GS from above increases both the possibility of a non-stabilized approach and the risk of capturing a false GS. - [[IFH]] addendum to be added to Ch9
 	2. From [[Max Trescott]]'s [podcast](https://aviationnewstalk.libsyn.com/383-why-your-rnav-glide-path-wont-captureand-how-to-fix-it-ga-news), step down leading up to FAF on an LPV
 

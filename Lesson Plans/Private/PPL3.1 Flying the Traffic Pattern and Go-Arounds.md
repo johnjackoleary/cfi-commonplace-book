@@ -40,6 +40,7 @@ GPS/Sentry/ADS-B In
 	3. Distances around traffic pattern
 		1. Downwind is 1/2 to 1 mile out
 		2. Turn base at approximately 45° to the approach end of runway
+		3. Upwind is >1/2mi and until [[TPA]]-300'
 	4. Left traffic (meaning making left turns) unless otherwise noted
 	5. Emphasis on the word 'pattern'
 2. As you approach an airport to land, what information do you need?
@@ -91,7 +92,7 @@ GPS/Sentry/ADS-B In
 8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
-		1. Visual Reporting points for calling in to KPAO: SLAC, Woodside VOR, Windy Hill, Leslie Salt, Coyote Hills, Sunol Pass, etc....
+		1. Visual Reporting points for calling in to KPAO: [[SLAC]], Woodside [[VOR]], Windy Hill, Leslie Salt, Coyote Hills, Sunol Pass, etc....
 		2. Approaching from west: maintain 1500' until crossing 101 freeway
 		3. Typically enter on 45° downwind, unless told otherwise by tower
 	3. Leaving the Pattern

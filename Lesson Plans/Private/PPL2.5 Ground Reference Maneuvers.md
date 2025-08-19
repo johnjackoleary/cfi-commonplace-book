@@ -24,7 +24,7 @@ GPS/Sentry/ADS-B In
 1. Effect of wind during ground reference maneuvers
 	1. Effects of wind on ground track and crab angle![[Wind Drift.jpeg]]
 	2. Effect of bank angle and groundspeed on rate and radius of turn (relative to ground)![[Effect of Wind on Turn.jpeg]]
-2. Use [[Maneuvering Speed]]
+2. Use [[Maneuvering Speed]] ([[Va]])
 	1. This speed changes with weight -- more weight raises maneuvering speed
 3. Rate of turn and bank angle changes with ground speed -- more ground speed means more bank needed
 4. Finding the wind
@@ -50,7 +50,8 @@ GPS/Sentry/ADS-B In
 		1. Select suitable reference
 		3. Enter downwind, 1/4-1/2mi from reference
 		4. Tailwind: Steeper bank; Headwind: Shallower bank
-		5. Use 4 points along circle to help maintain constant radius
+		5. Note sarting point
+		6. Use 4 points along circle to help maintain constant radius
 	3. S-Turns![[S-Turns.jpeg]]
 		1. Select suitable reference, perpendicular to wind
 		2. Enter downwind
@@ -59,7 +60,7 @@ GPS/Sentry/ADS-B In
 		4. Wings level and parallel to reference as you cross
 7. Common errors
 	1. Forgetting to check for traffic or to locate emergency field
-	2. Failure to divide attention aircraft control, instrument check, ground references, traffic and situational awareness
+	2. Failure to divide attention between aircraft control, instrument check, ground references, traffic and situational awareness
 	3. Improper correction for wind drift
 	4. Lack of rudder coordination
 	5. Failure to maintain altitude or airspeed throughout the maneuver
