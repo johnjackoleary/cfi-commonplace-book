@@ -25,7 +25,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Lesson Elements
 1. Overview of [[IFR]] flight training process, syllabus overview
-	1. TSA, onboarding, etc
+	1. [[TSA]], onboarding, etc
 	2. Aircraft choice, [[Choosing a Ground School|ground school choice]], high performance, traditional vs technically advanced. Time and cost commitment and scheduling 
 		1. Private: 70-90 hours, about $20k-$30k
 		2. Instrument 40-60 hours, about $15k-$20k
@@ -68,7 +68,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			1. Used in conjunction with PFD
 			2. Contains various additional information (maps, weather, engine performance, etc)
 			3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
-		7. Technically Advanced Aircraft ([[TAA]]) definition
+		7. Technically Advanced Aircraft ([[TAA Fix]]) definition
 	4. [[Transponder]] and altitude encoders
 		1. Blind Encoder (cheaper, not integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line
@@ -89,17 +89,8 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 	8. Power Instruments: Engine gauges, Electronic engine instruments
 	9. Electrical instruments: ammeter, voltmeter, alternator 
 	10. Navigation radios and databases 
-		1. [[VOR]] Checks
-			1. 30 Day [[Ground-Based Navigation using VOR, DME, and ILS#VOR Checks]]
-			2. [[VOT]], GND VOR checkpoint, airborne VOR, Dual VOR
-		3. GPS ([[Satellite Navigation using GPS and GNSS]])
-			1. [[WAAS]] vs non-WAAS
-			2. [[RAIM]] 
-				1. Check RAIM (RAIM prediction with old-style GPS, [website](http://sapt.faa.gov))
-			3. [Real-Time WAAS and GPS Monitoring](https://www.nstb.tc.faa.gov/realtime-plots.html)
-			4. [[GPS]] Status Page
-			5. Operational Checks
-			6. 28-day GPS cycle
+		1. Part of [[IR.5A VOR Navigation]]
+		2. Part of [[IR.5B GPS Navigation]]
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.

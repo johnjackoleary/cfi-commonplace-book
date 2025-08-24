@@ -73,12 +73,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 			1. Generally too slow to do in flight
 		6. Method 6: [[MFD]] or [[EFB]] plotting
 			1. Learn to program them efficiently to provide a backup on one of the above
-	3. Dinner Plate Practice
-	 > [!tip] From Jack
-	 > I ran into a [[DPE]] once while refueling and asked for teaching tips. He recommended this exercise to teach hold entry:
-	 > 1. Get a paper plate, and draw a right-turn hold on one side and a left-turn hold on the other
-	 > 2. Throw the dinner plate like a frisbee
-	 > 3. Have the student walk to the plate, and figure out the proper hold entry while they approach
+	3. ![[Dinner Plate Holds Practice]]
 6. Flying the Hold
 	1. Workload Management
 		1. [[5 Ts]]: Time, Turn, Twist, Throttle, Talk 
