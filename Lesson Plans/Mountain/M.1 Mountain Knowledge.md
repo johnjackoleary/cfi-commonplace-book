@@ -194,3 +194,4 @@ Learner understands the unique considerations required for mountain flying. They
 
 ### Recommended Homework 
 - [ ] Monitor the weather as the flight gets closer^[Forecasts too far out can be surprisingly inaccurate. It's good to see this in practice for a training flight, because knowing how to account for these issues will be relevant in future flights.]
+- [ ] Purchase cannula to try oxygen, if desired
