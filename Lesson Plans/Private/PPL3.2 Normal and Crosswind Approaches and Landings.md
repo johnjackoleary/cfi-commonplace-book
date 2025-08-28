@@ -21,7 +21,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 
 ### Lesson Elements
 1. Goal of landing: Smoothly transfer weight from wings to wheels
-2. Determining landing performance and limitations ([[POH]] Chapter 5)
+2. Determining landing performance and limitations ([[POH]] Chapter 5) (confirm in ppl4.5)
 3. Other Safety Concerns: Awareness of traffic, obstructions, hazards, wake turbulence -- all factors which may require a go-around
 	1. Collision Avoidance
 		1. Clearing Procedures
@@ -68,8 +68,9 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 			1. [[Rod Machado]] has a helpful video on this called ["The Runway Expansion Effect"](https://www.youtube.com/watch?v=9JfoZERqM7Q)
 		5. Smooth power reduction and pitch increase to level off just above runway at idle power
 		6.  ![[Well Executed Roundout.jpeg]]
-		7. > [!tip] Look at midpoint of runway to help roundout at correct altitude
-		8. > [!tip] Use peripheral vision to judge descent rate
+		7. Hands only ever coming backwards, like a rollarcoaster start clink clink
+		8. > [!tip] Look at midpoint of runway to help roundout at correct altitude
+		9. > [!tip] Use peripheral vision to judge descent rate
 	5. Flare/Touchdown^[Great article breaking this down from [[AOPA]] here: [Landing With Flair](https://www.aopa.org/news-and-media/all-news/2017/june/flight-training-magazine/landing-with-flair)]
 		1. Fly level above the runway while increasing back pressure until reaching the landing attitude
 		2. After reaching landing attitude, let the runway come up to the airplane
@@ -79,6 +80,7 @@ Develop knowledge, risk management and skills associated with normal and crosswi
 		1. Maintain centerline with rudder
 		2. Deflect ailerons into the wind, gradually increasing to full deflection at taxi speed
 		3. Gentle braking
+		4. This is more like flying than taxiing
 	7. Taxi
 		1. Exit runway, completely beyond hold-short lines
 		2. Stop and complete after-landing checklist
