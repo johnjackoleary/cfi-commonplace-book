@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: mountain, lesson
+tags: [mountain, lesson]
 ---
 ### Objective
 Background knowledge required for safe mountain flying.

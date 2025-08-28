@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: ppl, lesson
+tags: [ppl, lesson]
 aliases: [PPL.25, XC.10, PPL5.4]
 ---
 ### Objective

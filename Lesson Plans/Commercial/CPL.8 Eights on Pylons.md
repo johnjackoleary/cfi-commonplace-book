@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: cpl, lesson
+tags: [cpl, lesson]
 ---
 ### Objective
 To develop knowledge of pivotal altitude and the skill to maneuver the airplane accurately, while dividing attention between the flight path and the selected pylons.

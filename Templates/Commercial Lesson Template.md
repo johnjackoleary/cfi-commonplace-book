@@ -1,6 +1,6 @@
 ---
 cssclass: lesson
-tags: cpl, lesson
+tags: [cpl, lesson]
 ---
 ### Objective
 
