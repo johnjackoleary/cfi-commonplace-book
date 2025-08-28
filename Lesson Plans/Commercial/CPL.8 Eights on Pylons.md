@@ -1,5 +1,4 @@
 ---
-cssclass: lesson
 tags: [cpl, lesson]
 ---
 ### Objective

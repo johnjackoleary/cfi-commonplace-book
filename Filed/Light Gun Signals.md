@@ -1,6 +1,3 @@
----
-cssclass: lightguntable
----
 
 |                 **Color and Type of Signal**                  | **Movement of Vehicles, Equipment and Personnel** | **Aircraft on the Ground**          | **Aircraft in Flight**                                                 |
 |:-------------------------------------------------------------:| ------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------- |

@@ -1,5 +1,4 @@
 ---
-cssclass: lesson
 tags: [bfr, lesson]
 ---
 ### Objective

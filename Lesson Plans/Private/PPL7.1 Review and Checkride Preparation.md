@@ -1,5 +1,4 @@
 ---
-cssclass: lesson
 tags: [ppl, lesson]
 aliases: [PPL.28, PPL.3, PPL7.1]
 ---

@@ -1,5 +1,4 @@
 ---
-cssclass: lesson
 tags: [ipc, lesson]
 ---
 ### Objective
