@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: ppl, lesson, maneuver
+tags: [ppl, lesson], maneuver
 aliases: [PPL.9, SOLO.9, PPL2.4]
 ---
 ### Objective

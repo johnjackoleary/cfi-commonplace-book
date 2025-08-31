@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: bfr, lesson
+tags: [bfr, lesson]
 ---
 ### Objective
 Gather background information and set expectations for a [[BFR]].

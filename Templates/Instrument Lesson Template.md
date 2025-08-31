@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: ir, lesson
+tags: [ir, lesson]
 ---
 ### Objective
 

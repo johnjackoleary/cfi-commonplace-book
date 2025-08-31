@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: mountain, lesson
+tags: [mountain, lesson]
 ---
 ### Objective
 Practice flying in a mountainous environment while demonstrating mountain flying knowledge, skills, and risk management.

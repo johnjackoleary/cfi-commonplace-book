@@ -1,5 +1,4 @@
 ---
-cssclass: maneuver
 tags: [maneuver, ppl, cpl]
 ---
 

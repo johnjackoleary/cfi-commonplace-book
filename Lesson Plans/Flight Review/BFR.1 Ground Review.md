@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: bfr, lesson
+tags: [bfr, lesson]
 ---
 ### Objective
 Discuss all regulatory and knowledge areas relevant to learner's [[BFR]]. Confirm learner's understanding is comparable to when they passed their checkride, and work to close any knowledge gaps.

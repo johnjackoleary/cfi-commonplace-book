@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: ppl, lesson, sim
+tags: [ppl, lesson], sim
 aliases: [PPL.19, XC.3, PPL4.3]
 ---
 ### Objective

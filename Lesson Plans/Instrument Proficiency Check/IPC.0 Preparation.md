@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: ipc, lesson
+tags: [ipc, lesson]
 ---
 ### Objective
 Gather background information and set expectations for an [[IPC]].

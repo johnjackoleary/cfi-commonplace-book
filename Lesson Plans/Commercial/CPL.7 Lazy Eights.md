@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: cpl, lesson
+tags: [cpl, lesson]
 ---
 ### Objective
 Understand purpose and procedures of a lazy eight. Develop skills required to execute a lazy eight to ACS standards.

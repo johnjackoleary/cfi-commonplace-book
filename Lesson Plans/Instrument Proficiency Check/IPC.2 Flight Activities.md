@@ -1,6 +1,5 @@
 ---
-cssclass: lesson
-tags: ipc, lesson
+tags: [ipc, lesson]
 ---
 ### Objective
 Confirm learner's flight proficiency is comparable to when they passed their checkride, and work to close any gaps.
