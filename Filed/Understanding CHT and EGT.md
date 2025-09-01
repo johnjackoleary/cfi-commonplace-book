@@ -9,6 +9,4 @@
 * [[EGT]] measures heat energy wasted during the exhaust stroke, when the cylinder is under relatively low stress.
 * High CHTs generally indicate that the engine is under excessive stress for its own good.... By contrast, high EGTs do not indicate that the engine is under excessive stress.
 
-#source
-
-#todo :: add key quotes
+#source 

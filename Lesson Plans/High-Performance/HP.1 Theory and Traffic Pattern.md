@@ -30,6 +30,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 	- [[MP]] background
 	- Danger of high [[MP]] and low [[RPM]]
 	- Throttle control difference in fixed-pitch vs constant speed
+		- However, throttle controls RPM at low MP
 	- Change of RPM impact on MP, and lack of impact conversely
 	- If loss of oil pressure, which pitch does the propeller fail to?
 - Preflight planning
@@ -38,8 +39,8 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this! I've heard some POHs explicitly request highest RPM available] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 	- [[MGW]] vs [[MRW]] vs [[MTOW]] vs [[MLW]]
-	- Note on wraparound covers
 - Preflight testing
+	- Careful with wrap-around covers to avoid touching the ground
 	- Cycling the propeller in run-up^[Cycling 3 times is common. For example, the Piper Dakota [[POH]] recommends 3 cycles in cold weather to circulate warm oil. Sometimes this is presented as checking instruments for first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, and once to check for any oil mist from the prop. Cycling only 1 time is also sometimes appropriate. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
 	- Additional power may cause strong [[Four Left Turning Tendencies|left turning tendencies]]
@@ -57,7 +58,6 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - Pattern
 	- Many HP aircraft require flaps deployed before entry into the traffic pattern -- abeam the numbers may not give time to slow down
 	- Impact of heavier nose in round out -- lack of airspeed over threshold ('chop and drop') may not give enough energy to round out
-	- RPM governer stops
 - Go-Arounds
 	- Smooth power application
 	- [[4 C's (Go-Around)]], [[5 C's (Going Missed)]], [[Power, Pedal, Pitch]], or [[Power Up, Pitch Up, Clean Up]]
