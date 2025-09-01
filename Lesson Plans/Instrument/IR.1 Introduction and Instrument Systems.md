@@ -78,19 +78,18 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		5. Mode S - transmits additional info like heading, speed
 		6. Set to ALT ([[Lights, Camera, Action, Time]] check)
 	5. [[ADS-B]] weather/traffic
-	6. Radio: Look for TX, RX
+	6. Radio: Look for [[TX]], [[RX]]
 	7. #G1000 specific topics: 
 		1. [[AHRS]] vs [[ADC]] – what are they, what do you do if they fail?
 		2. Electrical system – how do you know if the alternator has failed? 
 			1. [[C172 G1000 Electrical System Interactive Tool]]
 		3. If you are running on Standby battery – what still functions?
-			1. PFD, AHRS, [[ADC]], Com1, Nav1, standby instrument lights, essentials bus 
+			1. [[PFD]], [[AHRS]], [[ADC]], Com1, Nav1, standby instrument lights, essentials bus 
 			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, audio panel, etc) 
 	8. Power Instruments: Engine gauges, Electronic engine instruments
 	9. Electrical instruments: ammeter, voltmeter, alternator 
 	10. Navigation radios and databases 
-		1. Part of [[IR.5A VOR Navigation]]
-		2. Part of [[IR.5B GPS Navigation]]
+		1. Covered in depth as part of [[IR.5A VOR Navigation]] and [[IR.5B GPS Navigation]]
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.
