@@ -7,7 +7,7 @@ tags:
 ---
 
 ### Objective
-Build ground knowledge required to preflight and operate a high-performance (greater than 200 HP) engine safely and proficiently. Begin applying this knowledge to traffic pattern operations.
+Build ground knowledge required to preflight and operate a high-performance (greater than 200 [[HP]]) engine safely and proficiently. Begin applying this knowledge to traffic pattern operations.
 
 ### Reading
 - [[AFH Ch12]]
@@ -25,10 +25,12 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 
 ### Lesson Elements
 #### Constant Speed Propellers
-- Theory: [Great article](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/) from [[Bold Method]]
+- Theory: 
+	- Constant speed prop theory ([Great article](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/) from [[Bold Method]])
 	- [[MP]] background
 	- Danger of high [[MP]] and low [[RPM]]
 	- Throttle control difference in fixed-pitch vs constant speed
+		- However, throttle controls RPM at low MP
 	- Change of RPM impact on MP, and lack of impact conversely
 	- If loss of oil pressure, which pitch does the propeller fail to?
 - Preflight planning
@@ -36,8 +38,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 		- > [!note] From Jack: 
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this! I've heard some POHs explicitly request highest RPM available] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
-	- [[MGW]] vs [[MTOW]] vs [[MLW]]
+	- [[MGW]] vs [[MRW]] vs [[MTOW]] vs [[MLW]]
 - Preflight testing
+	- Careful with wrap-around covers to avoid touching the ground
 	- Cycling the propeller in run-up^[Cycling 3 times is common. For example, the Piper Dakota [[POH]] recommends 3 cycles in cold weather to circulate warm oil. Sometimes this is presented as checking instruments for first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, and once to check for any oil mist from the prop. Cycling only 1 time is also sometimes appropriate. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
 	- Additional power may cause strong [[Four Left Turning Tendencies|left turning tendencies]]
@@ -71,6 +74,9 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - Leaning With an Engine Monitor
 	- Importance of leaning
 	- How to use engine monitor to lean
+	- However:
+	- > [!quote] From [[Understanding CHT and EGT]] by [[Mike Busch]]
+	 > I very seldom refer to [[EGT]] when I lean my engines; I use fuel flow to get somewhere in the ballpark, and then fine-tune by reference to [[CHT]].
 - Temperature management
 	- > [!quote] Continental Motors Tech Rep Bob “Mose” Moseley
 	> There are three things that affect how long your engine will last: (1) temperature, (2) temperature, and (3) temperature!

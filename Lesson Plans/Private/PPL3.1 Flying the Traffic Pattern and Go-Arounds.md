@@ -81,14 +81,15 @@ GPS/Sentry/ADS-B In
 	12. "Landing straight in on runway 27" (only if no one else is in the pattern, and even then be careful)
 6. At an un-towered airport, the default is to enter on the 45.  What if that's not the direction you're coming from?
 	1. Circle wide
-	2. Cross midfield above the pattern, and cloverleaf onto the 45
+	2. Cross midfield above the pattern, and teardrop onto the 45
 	3. More in [[PPL4.2 Advanced Airport Operations]]
 7. Flying the pattern
 	1. Memorize power settings/airspeeds, use wind correction angle like the [[PPL2.5 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
 	4. Descending when tower delays base turn
-	5. How to tell where you're gliding to
+	5. Turning with traffic ahead on final
+	6. How to tell where you're gliding to
 8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
@@ -146,7 +147,7 @@ GPS/Sentry/ADS-B In
 > ![](https://www.youtube.com/watch?v=evE3WmYAvVY)
 
 ### Completion Standards
-Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with [[AIM]] recommended procedures, and maintaining awareness of and proper spacing from other aircraft.
+Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, go-arounds, complying with [[AIM]] recommended procedures, and maintaining awareness of and proper spacing from other aircraft.
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > - Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots. 

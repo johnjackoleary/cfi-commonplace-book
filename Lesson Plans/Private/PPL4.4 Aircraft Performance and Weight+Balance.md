@@ -29,7 +29,7 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 
 1. Organization of [[POH]]
 2. [[Weight and Balance]] calculations
-	1. [[MGW]], [[MTW]], and [[MLW]]
+	1. [[MGW]], [[MRW]], [[MTOW]], and [[MLW]]
 	2. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
 	3. Effect of gross weight on performance
 	4. How to calculate
