@@ -78,7 +78,7 @@ GPS/Sentry/ADS-B In
 	9. "Departing straight out"
 	10. "Departing right crosswind"
 	11. "Departing right downwind"
-	12. "Landing straight in on runway 27" (only if no one else is in the pattern, and even then be careful. Like a no-stop right on red)
+	12. "Landing straight in on runway 27" (only if no one else is in the pattern, and even then be careful)
 6. At an un-towered airport, the default is to enter on the 45.  What if that's not the direction you're coming from?
 	1. Circle wide
 	2. Cross midfield above the pattern, and teardrop onto the 45
@@ -147,7 +147,7 @@ GPS/Sentry/ADS-B In
 > ![](https://www.youtube.com/watch?v=evE3WmYAvVY)
 
 ### Completion Standards
-Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, complying with [[AIM]] recommended procedures, and maintaining awareness of and proper spacing from other aircraft. Go-arounds?
+Client must demonstrate proficiency at planning and flying pattern approaches and departures at towered airports, go-arounds, complying with [[AIM]] recommended procedures, and maintaining awareness of and proper spacing from other aircraft.
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > - Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots. 
