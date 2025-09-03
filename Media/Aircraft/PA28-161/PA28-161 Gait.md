@@ -12,7 +12,7 @@ maneuver-speed:
 speed-units:
 ---
 
-| **(model::PA28-161) Gaits** v0.0 | **Flaps** | **RPM** | **IAS (`=this.speed-units`)** |
+| **(model::PA28-161) Gaits** v0.1 | **Flaps** | **RPM** | **IAS (`=this.speed-units`)** |
 | ------------------------ |:---------:|:-------:|:-----------------------------:|
 | ⚠️ V<sub>G</sub>         |           |  idle   |           (Vg::73)            |
 | 🛫 V<sub>R</sub>         |           |   max   |           (Vr::55)            |
@@ -29,9 +29,10 @@ speed-units:
 
 <br>
 
-| Topic          | Details                                                                                             |
-| -------------- |:--------------------------------------------------------------------------------------------------- |
-| Leaning        | 50°F ROP, or lean until rough then enrich to smooth                                                 |
-| V<sub>A</sub>  | (Va-mgw::111) @ [mgw::2440 lb]; 88 @ 1531 lb                                                        |
-| Short T.O.     | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*} @ *weight*:<br>{52, 57}@`=this.mgw` lb; {48, 53}@ 2200lb | 
-| Fuel Burn Est. | ~10 GPH (pessimistic)                                                                               |
+| Topic          | Details                                                                                                       |
+| -------------- |:------------------------------------------------------------------------------------------------------------- |
+| Leaning        | 50°F ROP, or lean until rough then enrich to smooth                                                           |
+| V<sub>A</sub>  | (Va-mgw::111) @ [mgw::2440 lb]; 88 @ 1531 lb                                                                  |
+| Short T.O.     | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*} @ *weight*:<br>{52, 57}@`=this.mgw` lb; {48, 53}@ 2200lb |
+| Fuel Burn Est. | ~10 GPH (pessimistic)                                                                                         |
+| Magnetos  | 175 RPM max; 50 RPM diff                                                                                                               |

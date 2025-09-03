@@ -35,3 +35,4 @@ speed-units:
 | V<sub>A</sub>  | (Va-mgw::) @ [mgw::]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (single-weight::) lb |
 | Short T.O.     | (short-takeoff-flaps::) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{, }@`=this.mgw`lb; {,}@lb    |
 | Fuel Burn Est. |                                                                                              |
+| Magnetos       |                                                                                              |
