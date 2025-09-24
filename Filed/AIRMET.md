@@ -13,7 +13,7 @@
 	- Freezing levels
 - AIRMET Tango
 	- Moderate turbulence
-	- Nonconvective LLWS potential below 2,000 ft AGL
+	- Nonconvective [[LLWS]] potential below 2,000 ft AGL
 	- Sustained surface winds greater than 30 kt
 
 ***Related To***: [[SIGMET]]

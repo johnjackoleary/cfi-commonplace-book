@@ -78,7 +78,7 @@ Ground 1.5 hours
 		6. Good to mention use of [[ODP]] if unclear
 	9. What if I don’t like the clearance? ([[AIM 4]]-4-4)
 	10. Deviation - Emergency or [[TCAS]] alert
-3. Request for delay vector or, similarly, request to continue holding
+3. if... Request for delay vector or, similarly, request to continue holding
 
 
 ![[IFR Radio Comm Part 1 General.jpeg]]

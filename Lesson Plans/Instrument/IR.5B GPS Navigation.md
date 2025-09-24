@@ -61,12 +61,11 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 		1. If ATC changes their mind, you've already deleted all your points^[This was most true of older GPS models, many newer ones don't automatically delete all points]
 		2. Best to load full procedure and activate a specific leg along the approach when you're vectored in
 	5. Using GPS for guidance on ILS and VOR approaches – how and when to transition from GPS guidance to VOR or Localizer? Auto or manual?
-8. [[Autopilot Systems and Usage]]
-9. Common Errors
+8. Common Errors
 	1. Not knowing your GPS (GPS simulation software for home practice is great!)
 	2. VLOC vs GPS
 		1. Can you use GPS to fly a ILS procedure turn? No, according to [[AC 90-108]], can't use for "Lateral Navigation on LOC-Based Courses"^[This has to do with GPS terminal mode being less precise then a LOC, and the impact it has on obstacle clearance. [[Max Trescott]] has a great writeup in [[AOPA]] published [here](https://www.aopa.org/news-and-media/all-news/2014/may/05/when-to-switch-to-vloc-on-an-ils-or-vor-approach).]
-		2. Plus, want to practice flying ILS procedure turn without GPS, even though you can technically fly using GPS if you monitor ILS raw data
+		2. Plus, want to practice flying ILS procedure turn without GPS, even though you can technically fly using GPS if you monitor VOR? raw data
 	3. Autoswitch GPS>VLOC errors
 		1. Won't switch if vectored too close to FAF, or if GPS doesn't hear the morse code
 		2. DPEs call this the $1000 button, since it's the most common cause of failures

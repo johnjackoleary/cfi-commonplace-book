@@ -23,10 +23,13 @@ Ground 1.5 hours
 1. [[National Airspace System]] and Regulations 
 	1. Airspace classification 
 	2. VFR minimums ([[Categorical Outlooks]])
-	3. IFR minimums for departure, approach, and alternates
+	3. IFR minimums for departures and approaches (alternates discussed later) - [[FAR 91.175 IFR Takeoff and Landing]]
+		1. https://www.boldmethod.com/shorts/shorts.ifr.0118/
+		2. Add image for each of these 12
 	4. Federal Airways
 		1. 8nm width (4nm either side of course centerline)
 	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
+	6. Reserving airspace for approaches (towered or non)
 2. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
@@ -34,7 +37,7 @@ Ground 1.5 hours
 	4. Q,T,V,J Routes, [[COP]]s, mileage
 	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s
 	6. Off-Route Obstacle Clearance (Mountainous/Non-Mountainous)
-	7. [[MVA]], [[MIA]]
+	7. [[MVA]], [[MIA]] (add link)
 	8. [[MCA]], [[MRA]]
 	9. Finding airport and [[ARTCC]] frequencies 
 	10. Compulsory reporting points ([[AIM 5]]-3-2)
@@ -55,12 +58,12 @@ Ground 1.5 hours
 		1. How to get the weather forecasts at airports without a TAF
 	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
 	3. Non-standard alternate minimums
-	4. Alternatives for non-[[WAAS]] cannot also use non-WAAS ([[AIM 1]]-1-17)
+	4. Alternatives for non-[[WAAS]] GPS cannot use GPS approaches at both destination AND alternate ([[AIM 1]]-1-17)
 	5. Practical advice. The best alternatives:
 		1. Are in a different microclimate than your destination
 		2. Have an [[ILS]], which gives you the best chance of landing in IMC
 		3. Have a [[TAF]], making it easier to forecast the weather specifically at the airport
-6. Diversions while in flight vs. planned alternate
+	6. Diversions while in flight vs. planned alternate
 
 ### Completion Standards
 Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and online).

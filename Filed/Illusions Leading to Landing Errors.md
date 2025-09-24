@@ -13,6 +13,7 @@ tags:
 
 ## Environmental Illusions
 - **Featureless Terrain / [[Black-Hole Approach]]**: Night, water, snow, or similar terrain can give the illusion of flying higher than the aircraft is.
+- **[[Tabletop Runway]]**: 
 - **Atmospheric**: Rain can give the illusion of greater height, and haze the illusion of greater distance. Penetration of fog can look like pitching up.
 - **Ground Lights**: Road or train lights may be mistaken for [[Airport Lighting|airport lights]]. Bright [[ALS]] may appear closer, making the inattentive pilot fly higher.
 

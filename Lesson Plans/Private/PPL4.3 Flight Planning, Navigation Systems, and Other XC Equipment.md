@@ -1,9 +1,9 @@
 ---
-tags: [ppl, lesson], sim
+tags: [ppl, lesson, sim]
 aliases: [PPL.19, XC.3, PPL4.3]
 ---
 ### Objective
-Develop knowledge and ability to plot a course, then use onboard navigation equipment to follow it. Additionally, develop knowledge of [[ATC]] capabilities and ability to use ATC assistance with radar vectors.
+Develop knowledge and ability to plot a course, then use onboard navigation equipment to follow it. Additionally, develop understanding of [[ATC]] capabilities and ability to use ATC assistance with radar vectors.
 
 ### Resources
 - [[Private Pilot ACS]] Section VI.B

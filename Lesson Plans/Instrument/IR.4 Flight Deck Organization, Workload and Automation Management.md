@@ -40,7 +40,7 @@ Ground 1 hour, sim/airplane 1 hour
 	2. Turbulence
 6. Chart and database currency
 	1. Every 56 days (8 weeks)
-	2. [[FAA]] vs. Jeppesen
+	2. [[FAA]] vs. [[Jeppesen]]
 
 #### IFR Flows
 1. Use of BOTH written and mental checklists 

@@ -140,10 +140,11 @@ Background knowledge required for safe mountain flying.
 	1. Leaning procedure for takeoff (always follow POH, generally in mountains use full power runup and lean to find peak power)
 	2. Gravel considerations (can get picked up and damage propeller)
 4. Takeoff/Climb -- will take longer!
-	1. Power Settings
-	2.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
-	3. May need to [[shuttle climb]]
-	4. Vx/Vy pitch attitudes in climb may be shallower
+	1. Calculations
+	2. Power Settings
+	3.  [[PPL3.5 Short- and Soft-Field Takeoffs and Landings|Short Field Technique]]
+	4. May need to [[shuttle climb]]
+	5. Vx/Vy pitch attitudes in climb may be shallower
 5. Enroute
 	1. Important to know wind direction (both from preflight and from signs while flying)
 	2. Updraft and Downdrafts
@@ -166,7 +167,7 @@ Background knowledge required for safe mountain flying.
 	9. Hazard Advisor tools
 6. Descent/Traffic Pattern
 	1. May be irregular for surrounding terrain (see [[Kern Valley Airport]] -- helpful to check Google Maps/Earth before going)
-	2. May be on top of ridge (see [[Catalina Airport]]) with unique illusions
+	2. May be on top of ridge (see [[Catalina Airport]]) with unique tabletop runway illusions^[[[Illusions Leading to Landing Errors]]]
 	3. Higher [[GS]] considerations
 		1. Careful not to overshoot final
 		2. Plan descent carefully

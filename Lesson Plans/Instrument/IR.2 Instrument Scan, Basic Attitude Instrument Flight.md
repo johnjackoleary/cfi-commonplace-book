@@ -35,10 +35,11 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	1. Instrument cross check, types of scans 
 	2. 4-step scan procedure to initiate any maneuver (*[4 Step Instrument Scan](https://www.aopa.org/news-and-media/all-news/2003/october/flight-training-magazine/4-step-instrument-scan)* from [[AOPA]])
 		1. Set approximate attitude and power ([[Aircraft Gait Charts]])
-		2. [[Inverted V-Scan]] (using [[Music Scan]]) to check trends 
+		2. [[Inverted V-Scan]] to check trends 
 		3. [[Music Scan]] primary instruments 
 		4. [[Rectangular Scan]] all instruments 
-	3. Instrument interpretation
+	3. G1000 differences
+	4. Instrument interpretation
 4. Attitude Instrument Flight Basics (simulator and/or airplane) 
 	1. Pitch-Power-Trim sequence for climb initiate and level off, Power-Pitch-Trim for descent initiate and level off
 	2. Straight and Level flight ([[IFH]] 7-2)
@@ -49,7 +50,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 	1. [[Illusions Leading to Spatial Disorientation|Spatial disorientation]] 
 	2. Distraction 
 	3. Fixation or omission 
-	4. While turning – do nothing else 
+	4. Doing things while turning – should do nothing else 
 	5. Heavy touch, over-controlling 
 	6. Improper trim control
 

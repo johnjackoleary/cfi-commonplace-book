@@ -35,7 +35,7 @@
 6. Short-Field Approach and Landing (IV.F)
 	1. Same as Normal Landing, but use short field POH technique.
 	2. ‡ Touch down at a proper pitch attitude **within 100 feet beyond or on the specified point**, threshold markings, or runway numbers, with **no side drift, minimum float, and with the airplane’s longitudinal axis aligned** with and over runway centerline. (Go-arounds allowed.)
-7. Power-Off 180° Accuracy Approach and Landing (IV.M)
+7. [[CPL.3 Power Off 180 Accuracy Approach and Landing|Power-Off 180° Accuracy Approach and Landing]] (IV.M)
 	1. Remove power on downwind leg, abeam numbers.
 	2. Configure plane for V<sub>G</sub>
 	3. As necessary, correlate crosswind with direction of forward slip and transition to side slip for landing.
@@ -56,12 +56,12 @@
 1. For All
 	1. Clear the area.
 	2. Select an altitude that will allow the maneuver to be performed no lower than 1,500 feet above ground level (AGL).
-2. Steep Spiral (V.B)
+2. [[CPL.5 Steep Spiral|Steep Spiral]] (V.B)
 	1. Start with enough altitude to complete three 360° turns.
 	2. Establish and maintain a steep spiral by closing throttle and hitting V<sub>G</sub>
 	3. ‡ Apply wind-drift correction to **track a constant radius circle around selected reference point with bank not to exceed 60°** at steepest point in turn.
 	4. ‡ Maintain the specified **airspeed, ±10 knots and roll out toward an object or specified heading, ±10°, and complete the maneuver no lower than 1,500’ AGL**.
-3. Eights on Pylons
+3. [[CPL.8 Eights on Pylons|Eights on Pylons]]
 	1. State pivotal altitude. Pivotal altitude may be approximated by squaring groundspeed (knots), then dividing by 11.3.
 	2. Pick two pylons that will allow straight-and-level flight between the pylons, preferably perpendicular to wind, and with good landing spot nearby.
 	3. Enter crosswind so first turn is into the wind.

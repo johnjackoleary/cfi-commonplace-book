@@ -59,6 +59,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			2. [[AHRS]] (Attitude and Heading Reference System) replaces conventional gyroscopic instrument
 				1. AHRS uses Inertial Measurement Units (IMUs) to detect roll, pitch, and yaw. It corrects for drift over time using magnetometers (to find magnetic north) and accelerometers (to find “down” from Earth’s gravity).
 			3. [[ADC]] does computations using pitot/static
+			4. Synthetic vision and scale change
 		5. Flight management system ([[FMS]]) (AIM 1-2-1)
 			1. Suite of sensors, receivers, and computers couples with navigation database
 			2. Provide performance and RNAV guidance to displays and automation
@@ -68,7 +69,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			1. Used in conjunction with PFD
 			2. Contains various additional information (maps, weather, engine performance, etc)
 			3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
-		7. Technically Advanced Aircraft ([[TAA Fix]]) definition
+		7. Technically Advanced Aircraft ([[Technically Advanced Aircraft|TAA]]) definition
 	4. [[Transponder]] and altitude encoders
 		1. Blind Encoder (cheaper, not integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
 		2. Connected to static line
@@ -85,7 +86,7 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 			1. [[C172 G1000 Electrical System Interactive Tool]]
 		3. If you are running on Standby battery – what still functions?
 			1. [[PFD]], [[AHRS]], [[ADC]], Com1, Nav1, standby instrument lights, essentials bus 
-			2. voltmeter. (NOTHING ELSE, like flaps, transponder, lights, audio panel, etc) 
+			2. voltmeter?. (NOTHING ELSE, like flaps, transponder, lights, audio panel, etc) 
 	8. Power Instruments: Engine gauges, Electronic engine instruments
 	9. Electrical instruments: ammeter, voltmeter, alternator 
 	10. Navigation radios and databases 
