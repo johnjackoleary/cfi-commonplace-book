@@ -10,6 +10,7 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight pla
 
 ### Resources
 - [[Instrument ACS]] Section 1.C
+- [Minimum Vectoring/Instrument Altitudes KML Files](https://cfi.thomas-daniel.com/mva/)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
@@ -25,12 +26,11 @@ Ground 1.5 hours
 	2. VFR minimums ([[Categorical Outlooks]])
 	3. IFR minimums (alternates discussed later) - [[FAR 91.175 IFR Takeoff and Landing]]
 		1. Departures (standard, non-standard)
-		2. Approaches
-			1. [[Operation Below Below DA or MDA]]
+		2. Approaches - [[Operation Below Below DA or MDA]]
 	4. Federal Airways
 		1. 8nm width (4nm either side of course centerline)
 	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
-	6. Reserving airspace for approaches (towered or non)
+	6. "One in/one out" rule for multiple IFR operations in Class D/E/G^[More info in [this writeup](https://laartcc.org/stm/multiple-ifr-aircraft-approaching-one-airport)]
 2. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
@@ -38,7 +38,7 @@ Ground 1.5 hours
 	4. Q,T,V,J Routes, [[COP]]s, mileage
 	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s
 	6. Off-Route Obstacle Clearance (Mountainous/Non-Mountainous)
-	7. [[MVA]], [[MIA]] (add link)
+	7. [[MVA]], [[MIA]]
 	8. [[MCA]], [[MRA]]
 	9. Finding airport and [[ARTCC]] frequencies 
 	10. Compulsory reporting points ([[AIM 5]]-3-2)
