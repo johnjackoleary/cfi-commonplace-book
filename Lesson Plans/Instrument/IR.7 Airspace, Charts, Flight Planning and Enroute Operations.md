@@ -26,7 +26,7 @@ Ground 1.5 hours
 	2. VFR minimums ([[Categorical Outlooks]])
 	3. IFR minimums (alternates discussed later) - [[FAR 91.175 IFR Takeoff and Landing]]
 		1. Departures (standard, non-standard)
-		2. Approaches - [[Operation Below Below DA or MDA]]
+		2. Approaches - [[Operation Below DA or MDA]]
 	4. Federal Airways
 		1. 8nm width (4nm either side of course centerline)
 	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
