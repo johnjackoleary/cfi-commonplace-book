@@ -16,8 +16,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-- [[IR.5A VOR Navigation]]
-- [[IR.5B GPS Navigation]]
+- [[IR.5A Ground-Based Navigation]]
+- [[IR.5B Satellite Navigation]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 

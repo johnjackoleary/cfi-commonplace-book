@@ -6,9 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-VOR orientation, course intercepts and tracking, and use of HSI, if available. Autopilot systems and operation.
-
-Should this title be VOR and ILS
+VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction. Autopilot systems and operation.
 
 ### Resources
 - [[Instrument ACS]] section V

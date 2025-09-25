@@ -3,7 +3,7 @@
 
 | ATC | You |
 |---|---|
-||<i>"Oakland Center[^1], <br>Skylane 123AB, departed Paso Robles, with VFR request"</i>|
+||<i>"Oakland Center[^1], <br>Skylane 123AB, departed Truckee, with VFR request"</i>|
 |<i>"Skylane 123AB, <br>squawk 4312 and say request"</i> | |
 | | <i>"Skylane 123AB, <br>10 miles west of Truckee at one zero thousand five hundred, <br>request flight following to Palo Alto, Papa Alfa Oscar, type Cessna 182/G"</i>|
 |<i>"Skylane 123AB <br>radar contact 11 miles west of Truckee"</i>||

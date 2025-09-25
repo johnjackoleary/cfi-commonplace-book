@@ -23,9 +23,10 @@ Ground 1.5 hours
 1. [[National Airspace System]] and Regulations 
 	1. Airspace classification 
 	2. VFR minimums ([[Categorical Outlooks]])
-	3. IFR minimums for departures and approaches (alternates discussed later) - [[FAR 91.175 IFR Takeoff and Landing]]
-		1. https://www.boldmethod.com/shorts/shorts.ifr.0118/
-		2. Add image for each of these 12
+	3. IFR minimums (alternates discussed later) - [[FAR 91.175 IFR Takeoff and Landing]]
+		1. Departures (standard, non-standard)
+		2. Approaches
+			1. [[Operation Below Below DA or MDA]]
 	4. Federal Airways
 		1. 8nm width (4nm either side of course centerline)
 	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)

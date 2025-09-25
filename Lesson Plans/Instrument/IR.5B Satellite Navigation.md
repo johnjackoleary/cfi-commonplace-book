@@ -15,7 +15,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-[[IR.5A VOR Navigation]]
+[[IR.5A Ground-Based Navigation]]
 
 ### Schedule
 Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
@@ -64,13 +64,12 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 8. Common Errors
 	1. Not knowing your GPS (GPS simulation software for home practice is great!)
 	2. VLOC vs GPS
-		1. Can you use GPS to fly a ILS procedure turn? No, according to [[AC 90-108]], can't use for "Lateral Navigation on LOC-Based Courses"^[This has to do with GPS terminal mode being less precise then a LOC, and the impact it has on obstacle clearance. [[Max Trescott]] has a great writeup in [[AOPA]] published [here](https://www.aopa.org/news-and-media/all-news/2014/may/05/when-to-switch-to-vloc-on-an-ils-or-vor-approach).]
-		2. Plus, want to practice flying ILS procedure turn without GPS, even though you can technically fly using GPS if you monitor VOR? raw data
+		1. Can you use GPS to fly a ILS procedure turn? No, according to [[AC 90-108]], can't use for "Lateral Navigation on LOC-Based Courses"^[This has to do with GPS terminal mode being less precise then a LOC, and the impact it has on obstacle clearance. [[Max Trescott]] has a great writeup in [[AOPA]] published [here](https://www.aopa.org/news-and-media/all-news/2014/may/05/when-to-switch-to-vloc-on-an-ils-or-vor-approach).]^[This continues "... without reference to raw LOC data"]
 	3. Autoswitch GPS>VLOC errors
 		1. Won't switch if vectored too close to FAF, or if GPS doesn't hear the morse code
 		2. DPEs call this the $1000 button, since it's the most common cause of failures
 	4. Switching autopilot between GPS, VOR, heading bug, etc. 
-	5. Always practicing with GPS flight plan installed or as a backup monitoring -- you should be able to fly a full IFR flight plan with only VOR equipment
+	5. Always practicing with GPS flight plan installed or as a backup monitoring -- you should be able to fly a full IFR flight plan with only VOR/ILS equipment
 	6. Risk management - New or unfamiliar GPS demands significant practice with VFR conditions before using in IMC! GPS brings impressive capabilities and situational awareness, but at the risk of significant complexity and variability between systems! 
 
 ### Completion Standards

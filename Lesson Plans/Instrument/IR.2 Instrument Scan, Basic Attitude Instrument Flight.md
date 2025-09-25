@@ -38,7 +38,7 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 		2. [[Inverted V-Scan]] to check trends 
 		3. [[Music Scan]] primary instruments 
 		4. [[Rectangular Scan]] all instruments 
-	3. G1000 differences
+	3. G1000 scan (pitch horizontal line, bank vertical line)
 	4. Instrument interpretation
 4. Attitude Instrument Flight Basics (simulator and/or airplane) 
 	1. Pitch-Power-Trim sequence for climb initiate and level off, Power-Pitch-Trim for descent initiate and level off

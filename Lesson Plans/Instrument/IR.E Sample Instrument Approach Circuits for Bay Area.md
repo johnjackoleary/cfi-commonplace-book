@@ -34,7 +34,7 @@ Suggested Circuits:
 Suggested Circuit:
 - [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF), turn at IPDEW -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF), touch and go -> [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)
 
-## [[VOR]] ([[IR.11C VOR + Circling Approaches]])
+## [[VOR]] ([[IR.11C VOR + DME + Circling Approaches]])
 | Approach                                                                     | Skill Areas                          | XC Distance |
 | ---------------------------------------------------------------------------- | ------------------------------------ | ----------- |
 | [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)                                                                   | Course Reversal, VOR Station Passage |             |
