@@ -34,7 +34,7 @@ VOR receivers detect the phase difference between a reference and variable signa
 > [!tip]
 > It can be helpful to practice using a [[VOR]] in a simulator beforehand. Consider [Fergo IFR Simulator](https://www.fergonez.net/projects/ifrsimulator/) or your favorite.
 
-1. VOR, OBS, CDI, To/From indicator, [[HSI]], tuning, identification, and receiver check (logged in last 30 days) 
+1. VOR, [[OBS]], [[CDI]], To/From indicator, [[HSI]], tuning, identification, and receiver check (logged in last 30 days) 
 	1. Always tune and identify!
 		1. > [!quote] From [[AIM 1]]-1-1c
 		> Some VOR equipment decodes the identifier and displays it to the pilot for verification to charts, while other equipment simply displays the expected identifier from a database.... If your equipment automatically decodes the identifier, it is not necessary to listen to the audio identification.

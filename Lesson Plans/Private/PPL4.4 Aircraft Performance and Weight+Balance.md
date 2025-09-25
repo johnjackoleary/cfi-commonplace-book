@@ -44,9 +44,9 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 	2. Use of [[ForeFlight]]/[[EFB]] for winds aloft data
 		1. Source of winds aloft [here](https://aviationweather.gov/data/windtemp/?region=sfo&fcst=06&level=low)
 	3. Using an [[E6B]]
-		2. Finding [[CAS]] and [[TAS]]
-		3. Finding [[WCA]] and [[GS]]
-		4. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
+		1. Finding [[CAS]] and [[TAS]]
+		2. Finding [[WCA]] and [[GS]]
+		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
 	4. Takeoff and landing distances for ground roll and obstacle clearance
 	5. Rate of climb and time to climb
 	6. Impact of [[Density Altitude]] on takeoff and climb performance

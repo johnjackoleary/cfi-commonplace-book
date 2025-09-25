@@ -6,7 +6,7 @@ tags:
   - lesson
 ---
 ### Objective
-VOR orientation, course intercepts and tracking, and use of HSI, if available. Autopilot systems and operation.
+VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction. Autopilot systems and operation.
 
 ### Resources
 - [[Instrument ACS]] section V
@@ -23,7 +23,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. A
 Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
 
 ### Lesson Elements
-1. VOR Information from [[Ground-Based Navigation using VOR, DME, and ILS#VOR]]
+1. VOR Information from [[Ground-Based Navigation using VOR, DME, and ILS]]
 2. Common Errors 
 	1. Incorrect tuning and identification procedures 
 	2. Failure to set navigation selector for the course to be intercepted (GPS vs VOR/VLOC switch) 

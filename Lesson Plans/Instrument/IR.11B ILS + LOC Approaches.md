@@ -15,7 +15,7 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-[[IR.5A VOR Navigation]]
+[[IR.5A Ground-Based Navigation]]
 [[IR.10 Approach Charts and Procedures]]
 
 ### Schedule

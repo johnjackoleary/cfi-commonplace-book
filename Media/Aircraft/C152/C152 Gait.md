@@ -12,7 +12,7 @@ maneuver-speed: 90
 speed-units: kts
 ---
 
-| **(model::C152) Gaits** v1.2 |         **Flaps**          |           **RPM**            |          **IAS (kts)**           |
+| **(model::C152) Gaits** v1.4 |         **Flaps**          |           **RPM**            |          **IAS (kts)**           |
 | ---------------------------- |:--------------------------:|:----------------------------:|:--------------------------------:|
 | ⚠️ V<sub>G</sub>             |                            |             idle             |             (Vg::60)             |
 | 🛫 V<sub>R</sub>             |                            |             max              |             (Vr::50)             |
@@ -29,7 +29,8 @@ speed-units: kts
 | Short                        | (pattern-short-flaps::30°) | (pattern-short-rpm::as req)  |           (Vshort::54)           |
 
 
-| Topic         | Details                                                                                                       |
-| ------------- |:------------------------------------------------------------------------------------------------------------- |
-| Leaning       | Lean to RPM drop when above 3000'                                                                           | 
-| V<sub>A</sub> | (Va-mgw::104) @ [mgw::1670]; (Va-dual::98) @ (dual-weight::1500) lb; (Va-single::93) @ (single-weight::1350) lb |
+| Topic         | Details                                                                                                         |
+| ------------- |:--------------------------------------------------------------------------------------------------------------- |
+| Leaning       | Lean to RPM drop when above 3000'                                                                               |
+| V<sub>A</sub> | ~2300 RPM -- (Va-mgw::104) @ [mgw::1670]; (Va-single::93) @ (single-weight::1350) lb |
+| Magnetos      | 125 RPM max drop; 50 RPM diff                                                                                                                |

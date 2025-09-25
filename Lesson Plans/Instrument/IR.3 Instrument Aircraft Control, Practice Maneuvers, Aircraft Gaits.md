@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -42,7 +40,7 @@ Simulator and/or airplane, 1.5 hours
 2. Common Errors
 	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 
-	3. While turning – do nothing else until turn is complete 
+	3. Doing things while turning – should do nothing else until turn is complete 
 	4. Heavy touch, over-controlling
 	5. Improper trim control
 
