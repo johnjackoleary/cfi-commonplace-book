@@ -22,8 +22,8 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 ### Lesson Elements
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts
 	1. ![[VFR Chart Legend.pdf|chart symbology]]
-4. [[Chart Supplement]] (formerly Airports/Facility Directory, still called A/FD in ForeFlight) - [[KPAO Chart Supplement.pdf|image]]
-5. [[National Airspace System]] (much of this lesson is spent in this subpage)
+2. Airport/Facility Directory entries ([[KPAO Chart Supplement.pdf|image]]) (found in Foreflight, or in the FAA [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/) publication)
+3. [[National Airspace System]] (much of this lesson is spent in this subpage)
 	1. Types of airspace -- Class A, B, C, D, E, G
 	2. [[FAR 91.155 VFR Weather Minimums]] (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums List Memory Aid|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
 	3. Required equipment for each Airspace
@@ -31,9 +31,10 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 		2. https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/various-safety-pdfs/airspace2011.pdf
 	4. Altitudes for cruise flight ([[FAR 91.159 VFR Altitudes]])
 	5. Minimum altitudes ([[FAR 91.119 Minimum Altitudes]])
-	6. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
-	7. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
-6. Talk through airspace involved in KPAO-VPMIN
+	6. Speed limits ([[FAR 91.117 Aircraft Speed]])
+	7. Useful review here: [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
+	8. Airspace around home airport, and how it interacts with relevant departure/arrival procedures
+4. Talk through airspace involved in KPAO-VPMIN
 	1. At 3500' and 1000'
 	2. During day and night
 
