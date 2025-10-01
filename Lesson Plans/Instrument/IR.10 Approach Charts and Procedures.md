@@ -29,6 +29,8 @@ Ground 2.5 hours
 > Can be completed at the same time as [[IR.9 Communications and Clearances]].
 
 ### Lesson Elements
+> [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
+
 1. Precision vs. Non Precision
 	1. Precision
 		1. [[ILS]] 
@@ -44,9 +46,11 @@ Ground 2.5 hours
 		2. Other ideas in [this article](https://www.aopa.org/news-and-media/all-news/1996/june/pilot/technique) and in this [video](https://youtu.be/VOQcdXE6MPo?si=c1-1pl_6xJnoNvro&t=923) from [[AOPA]]
 	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
 	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
-	4. Specific notable elements
+	4. Z, Y, etc and A, B, etc
+		1. What can't qualify as a straight in?^[final approach >30° from runway, runway not "clearly defined", or a descent gradient of more than 400 ft/NM from [[FAF]] to [[TCH]]]
+	5. Specific notable elements
 		1. Expiration and amended dates
-		2. Inverted T, A, W, C, and D
+		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and Cold Weather^[[KTVL LDA 18](https://cfijack.com/latest-plate-redirect/?plate=05416LDA18.PDF)]
 		3. Water
 		4. Highest obstacle
 		5. [[MSA]]
@@ -120,8 +124,7 @@ Ground 2.5 hours
 	2. Review circling minimums and notes on approach chart 
 	3. Review circling approach protected areas (maneuvering radius)
 		1. 1.3nm from each runway end for Category A at most altitudes
-		2. Old vs new approach categories
-		3. AIM 5-4-20
+		2. AIM 5-4-20
 	4. Loss of flight visibility or airport, execute missed 
 	5. Missed approach during circle-to-land procedure (AIM 5-4-21)
 12. Visual and Contact approaches: 

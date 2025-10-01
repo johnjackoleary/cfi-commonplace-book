@@ -1,10 +1,10 @@
 # Key Takeaways
 - To descend below DA/DH/MDA, must have three things:
 	1. Continuously in a position to land with normal rate and normal maneuvers^[This is where a [[VDP]] can help]
-	2. Sufficient visibility for this [[IAP]]
+	2. Sufficient visibility for this [[IAP]]^[For an example of not having this, see [this video](https://youtu.be/XHJx7iJQnfY?si=Pg5WdNkiDpXl95IL)]
 	3. At least 1 of 12 allowed visual references
 - The 12 visual references can be grouped as:
-	1. Odds and Ends: 
+	1. Other Lights: 
 		1. **[[ALS]]**, but only to [[TDZE]]+100' unless red terminating bars in sight
 		2. **[[REIL]]**
 		3. **[[VGSI]]**
