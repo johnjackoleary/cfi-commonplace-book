@@ -28,8 +28,8 @@ Ground 1.0; Flight – multiple flights, with frequent practice
 
 ### Lesson Elements
 Overview of short- and soft-field operations
-
-Why do we do these?
+- When would we use these?
+- What if a field is both short and soft?
 
 #### Short-Field
 1. Takeoff
