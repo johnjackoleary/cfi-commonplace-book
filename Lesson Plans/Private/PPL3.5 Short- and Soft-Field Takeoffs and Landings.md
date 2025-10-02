@@ -28,6 +28,8 @@ Ground 1.0; Flight – multiple flights, with frequent practice
 
 ### Lesson Elements
 Overview of short- and soft-field operations
+- When would we use these?
+- What if a field is both short and soft?
 
 #### Short-Field
 1. Takeoff
@@ -47,7 +49,7 @@ Overview of short- and soft-field operations
 	2. Identify touchdown target (200' zone for Private Pilot; 100' zone for Commercial Pilot)
 	3. Establish [[POH]]-recommended approach configuration and airspeed, adjust pitch and power as required
 	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference)
-	5. Aim for a point 100-200 feet short of target ([[Stabilized Approach.jpeg]])
+	5. Aim for a point 200-300 feet short of target ([[Stabilized Approach.jpeg]])
 	6. If you're not stabilized, **go around**
 	7. Touch down smoothly at or beyond target, with minimal float, at or within 200 feet (PPL) or 100' (CPL) beyond the specified touchdown point
 	8. Raise flaps, apply brakes and elevator back-pressure as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions

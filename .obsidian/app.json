@@ -15,5 +15,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "defaultViewMode": "preview",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden"
 }
