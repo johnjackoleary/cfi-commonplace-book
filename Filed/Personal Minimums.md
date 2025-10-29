@@ -53,6 +53,15 @@ For additional methods to find your wind minimums, see [[Personal Minimums for W
 > [!quote] From [[PHAK Ch2]]
 > The accident rate during night visual flight rules ([[VFR]]) decreases by nearly 50 percent once a pilot obtains 100 hours and continues to decrease until the 1,000 hour level. The data suggest that for the first 500 hours, pilots flying VFR at night might want to establish higher personal limitations than are required by the regulations and, if applicable, apply instrument flying skills in this environment.
 
+## Blood Donation
+> [!quote] Summarized from [[FAA]]'s [AME Guide](https://www.faa.gov/ame_guide/app_process/exam_tech/item48/amd/bd)
+| Type | Evaluation Data |
+|:- |:----- |
+| **A. One unit**  <br>(less than or equal to 500 ml)                                                 | 24 hour recovery period and the airman has no symptoms |
+| **B. Two or more units**  <br>(more than 500 ml)^[This includes Power Red (double red cell donation)] | 72 hour recovery period and the airman has no symptoms |
+| **C. Platelet OR Plasma donation**                                                                  | 4-hour recovery period and the airman has no symptoms |
+
+
 #todo :: add additional expert sources on setting your personal minimums along specific dimensions
 
 ## Physio-Minimums
@@ -70,6 +79,7 @@ For additional methods to find your wind minimums, see [[Personal Minimums for W
 - [VFR Pilot Personal Minimums Contract](https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/Personal-Mins-Contracts/Personal-Minimums-Contract-VFR.pdf) and [IFR Pilot Personal Minimums Contract](https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/Personal-Mins-Contracts/Personal-Minimums-Contract-IFR.pdf) from [[AOPA]] [[Air Safety Institute]]
 - [Personal Minimums Checklist](https://www.faasafety.gov/files/gslac/courses/content/28/212/Personal%20Minimums%20Checklist.pdf) made as a partnership of [[FAA Safety Team]] and [[King Schools]]
 - [FAA/Industry Training Standards Personal and Weather Risk Assessment Guide](https://www.faa.gov/sites/faa.gov/files/training_testing/training/fits/guidance/Pers%20Wx%20Risk%20Assessment%20Guide-V1.0.pdf)
+- [Personal Minimums Checklist and Recommendations](https://www.sarahnilsson.org/app/download/963822690/ASI_PBF_Personal%2BMinimums%2BChecklist%2Band%2BRecommendations.pdf)
 
 ***Definition***    :: an individual pilot’s set of procedures, rules, criteria, and guidelines for deciding whether, and under what conditions, to operate (or continue operating) in the [[National Airspace System]].
 ***Source***         :: [[Getting the Maximum from Personal Minimums]]

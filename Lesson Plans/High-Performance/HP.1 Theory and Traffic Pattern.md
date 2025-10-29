@@ -88,6 +88,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 
 #### Traffic Pattern
 - Apply theory above to flying the traffic pattern
+- We'll use 20-20-10 today in the pattern to practice (20" MP, 2000 RPM, 10 GPH)
 - Practice short, soft, forward slip, and power-off landings
 
 ### Completion Standards

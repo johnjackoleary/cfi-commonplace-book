@@ -49,7 +49,8 @@ Ground 0.5 hour, simulator and/or airplane 1 hour
 	2. Can also always ask for a delay vector
 6. No-gyro [[PAR]] approaches and [[ASR]] approaches 
 7. [[Human Factors]], especially [[Illusions Leading to Spatial Disorientation]]
-8. Common errors: 
+8. Sign up for [[WVFC]] Safety Pilot list, if desired
+9. Common errors: 
 	1. Slow to recognize failure could result in an unusual attitude 
 	2. Overcontrolling with partial panel 
 

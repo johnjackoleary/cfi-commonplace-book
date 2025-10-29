@@ -30,6 +30,7 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 2. Types of fixes:
 	1. VOR, intersection, VOR/DME, GPS waypoint
 	2. Published vs unpublished
+	3. Using an [[EFB]]
 3. Hold Geometry
 	1. Standard Turns = Right!
 	2. Leg length can be time-based or distance-based
@@ -66,8 +67,8 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 			> 2. If your heading takes you across the holding fix and then into the hold, that is a teardrop entry. Crossing the holding fix, proceed as per the [[AIM]].
 			> 3. If your heading is taking you directly to the fix or navaid that makes up the hold, and you are able to simply, directly make the correct turn entering the hold, then that is a direct entry.
 		4. Method 4: 'Draw' the entry on the heading indicator
-			1. From [[Jeppesen Instrument-Commercial]] 5-48
-			2. #todo :: Add more info on this method^[It looks like this is "Draw inbound leg from radial to center of aircraft on HI. Then build rest of hold." Not moving out of footnote, however, document until verified.]
+			1. 'Draw' inbound leg from radial to center of aircraft on [[HI]], so the holding fix is where the airplane is.
+			2. Then build out rest of hold.
 		5. Method 5: Draw the entry in a notebook
 			1. Generally too slow to do in flight
 		6. Method 6: [[MFD]] or [[EFB]] plotting
