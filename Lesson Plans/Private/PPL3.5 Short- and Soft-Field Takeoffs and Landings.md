@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ppl
   - lesson

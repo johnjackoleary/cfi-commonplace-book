@@ -57,7 +57,8 @@ Ground 2.5 hours
 		6. [[Feeder Route]]s
 		7. NoPT
 		8. Approach NA for arrivals on ___
-		9. Increase MDAs if local Wx not available, e.g. KPAO
+		9. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
+	6. Using ForeFlight Dynamic Procedures
 3. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
@@ -88,7 +89,7 @@ Ground 2.5 hours
 	2. [[VDP]]
 		1. When published, do not descend below MDA until past
 		2. Good to calculate if not published 
-			1. Take the AGL value of the MDA and divide it by 300
+			1. Take the AGL value of the MDA and divide it by 300 for ~3° GS
 		3. Many decide to go missed at this point
 	3. Identifying [[MAP]]
 		1. Timing from [[FAF]] to [[MAP]]
@@ -122,11 +123,12 @@ Ground 2.5 hours
 11. Circle to land approaches (AIM 5-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
-	3. Review circling approach protected areas (maneuvering radius)
+	3. Which direction to circle? Follow [[FAR 91.126 Class G Airspace Ops Near Airport]] when able
+	4. Review circling approach protected areas (maneuvering radius)
 		1. 1.3nm from each runway end for Category A at most altitudes
 		2. AIM 5-4-20
-	4. Loss of flight visibility or airport, execute missed 
-	5. Missed approach during circle-to-land procedure (AIM 5-4-21)
+	5. Loss of flight visibility or airport, execute missed 
+	6. Missed approach during circle-to-land procedure (AIM 5-4-21)
 12. Visual and Contact approaches: 
 	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
 	2. Contact approach (AIM 5-4-25) – pilot must request, vis >1 SM, clear of clouds 

@@ -6,7 +6,7 @@ aliases: [PPL.18, XC.2, PPL4.2]
 Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.
 
 ### Resources
-- [AOPA's "Operations at Nontowered Airports"](https://www.aopa.org/-/media/files/aopa/home/pilot-resources/asi/safety-advisors/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
+- [AOPA's "Operations at Nontowered Airports"](https://download.aopa.org/epilot/2008/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
 - [[Private Pilot ACS]] Section III.B
 - [[Non-Tower Radio Communication Examples]]
 - [[AC 90-66]]
@@ -28,8 +28,7 @@ Ground 2 hours, 1 hour sim/flight
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
-1. Review [[PPL1.5 Towered Airport Operations]]
-2. Planning ahead to visit a new airport
+1. Planning ahead to visit a new airport
 	1. Look up and note all the frequencies you'll need, including weather, tower, ground, and approach/departure
 		1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 		2. Towered airports become non-towered when tower closed
@@ -40,38 +39,38 @@ Ground 2 hours, 1 hour sim/flight
 	6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
 	7. Read [[ForeFlight]] comments
 	8. Where to record this in XC planner
-3. En route, pick up the weather as soon as it's in range
+2. En route, pick up the weather as soon as it's in range
 	1. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
 	2. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
-	3. Review elements of an ATIS. Why is each one useful?
-4. Possibly overfly before landing
+3. Possibly overfly before landing
 	1. Airport markings
 		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
 		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
-	2. [[Airport Lighting]]
-5. Plan your arrival and entry
+	2. [[Airport Lighting]] is covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]
+4. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
 	2. Determining the [[Active Runway]] based on wind, current activity, or designated calm wind runway
-	3. Planning pattern entry (and use of tools like ForeFlight)
+	3. Planning pattern entry
 		1. Overhead entries, and standard 45-degree entry to traffic patterns
 		2.  ![[Non-Towered Pattern Entry.jpeg]]
 		3. Straight-Ins? Not illegal, but not usually a good idea
+		4. Use of tools like ForeFlight
 	4. Traffic Pattern
 		1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
-			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airport Ops]])
+			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airspace Ops Near Airport]])
 			2. ![[Single Runway Traffic.jpeg]]
 	5. Parallel runway operations (see [[AIM 4-3]]) require extra care ![[Parallel Runway Traffic.jpeg]]
-6. Make your radio calls
+5. Make your radio calls
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios
-7. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
+6. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
 	1. Reminder of safety considerations from [[PPL3.2 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
-8. On the ground, be vigilant and use the radio to broadcast your movements
-9. Departing the traffic pattern and airport
+7. On the ground, be vigilant and use the radio to broadcast your movements
+8. Departing the traffic pattern and airport
 	1. [[FAA]] endorses only straight-out or 45-degree (L/R matching pattern direction) departure
 	2. Be aware, individuals sometimes depart from crosswind or downwind leg
 	3. Turn enroute when clear of pattern
-10. Common errors
+9. Common errors
 	1. Forgetting radio calls
 	2. Selecting wrong runway or inappropriate entry procedure to pattern
 	3. Lack of awareness of other aircraft
