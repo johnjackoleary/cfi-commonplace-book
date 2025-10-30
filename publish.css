@@ -7,6 +7,12 @@
     --callout-icon: youtube;
 }
 
+/* Custom theme for Instagram callouts */
+.callout[data-callout="instagram"] {
+    --callout-color: 193, 53, 132;
+    --callout-icon: instagram;
+}
+
 .published-container {  
   /* ... CSS variables for Publish that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */
 }
