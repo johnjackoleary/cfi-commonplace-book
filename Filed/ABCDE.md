@@ -10,8 +10,9 @@ A memory aid checklist for executing an emergency landing.
 	- If altitude allows: GPS NRST - what is closest airport?
 	- If you identify a better place on the way, can change this. But should turn to best known option right away.
 	- #rule-of-thumb: Can glide 1.5 NM per 1000 feet altitude in C152/C172S (see also [[POH]])
+		- Can zoom GPS to this range en route
 - **Checklist** for engine restart
-	- Flow from memory, then..
+	- Flow from memory, then...
 	- Back it up with the checklist
 - **Declare** - 
 	- [[Squawk 7700]]
