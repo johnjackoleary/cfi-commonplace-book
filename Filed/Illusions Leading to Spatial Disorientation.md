@@ -40,6 +40,7 @@ If we are unsure of our orientation, we are suffering from [[spatial disorientat
 - **Visual Illusions**: Visual illusions are especially hazardous because pilots rely on their eyes for correct information
 	- [[False Horizon]]
 	- [[Autokinesis|Autokinesis (aka UFO Syndrome)]]
+	- [[Empty Field Myopia]]
 
 ***Definition***    :: 
 ***Source***         :: [[AIM 8]]

@@ -13,5 +13,5 @@ Some examples:
 	- not allowed
 
 ***Source***: [[Aviation Medication Database]]
-***Additional Information***: https://www.faa.gov/licenses_certificates/medical_certification/media/OTCMedicationsforPilots.pdf
+***Additional Information***: https://www.faa.gov/pilots/medical_certification/media/OTCMedicationsforPilots.pdf
 

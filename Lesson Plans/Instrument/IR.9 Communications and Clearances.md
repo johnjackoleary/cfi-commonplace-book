@@ -18,7 +18,7 @@ Learn proper IFR communications techniques, include copying clearances, normal c
 N/A
 
 ### Schedule
-Ground 1.5 hours
+Ground 1.0 hours
 
 > [!note] 
 > Can be completed at the same time as [[IR.10 Approach Charts and Procedures]].
