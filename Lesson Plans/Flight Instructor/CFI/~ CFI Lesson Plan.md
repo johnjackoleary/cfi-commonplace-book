@@ -18,6 +18,16 @@ tags:
 - [[Human Factors]]
 - [[Scanning for Traffic]]
 - [[Runway Incursion]]
+- [[Aerodynamics]]
+- [[Flight Controls]] and [[PPL2.6 Aircraft Systems|Aircraft Systems]]
+- [[Performance and Limitations]]
+- [[National Airspace System]]
+- [[Navigation Systems]] and [[Radar Services]]
+- Navigation and XC Flight Planning^[Somehow this doesn't feel like it should have it's own page, but maybe? Related to a lot of lessons in PPL, PPL4.1-4.7]
+- [[FARs and Publications]]^[Also feels like maybe shouldn't be it's own block?]
+- [[Endorsements and Logbooks]]
+- [[PPL6.1 Night Operations and Night Cross Country|Night Operations]]
+- [[CPL.12 High Altitude Operations|High Altitude Operations]] (both supplemental oxygen and pressurization)
 #todo :: finish adding links to existing pages
 
 #### Maneuvers
