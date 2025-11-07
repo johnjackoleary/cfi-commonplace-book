@@ -27,8 +27,8 @@ Ground 30m, simulator – 2.5 hours
 	1. Localizer
 	2. Glideslope
 	3. Outer Marker
-		1. OM substitutions: Compass locator, PAR, ASR, DME, VOR, NDB, RNAV in conjunction with fix
-		2. IM (used for CAT II and CAT III approaches)
+		1. [[OM]] substitutions: Compass locator, PAR, ASR, DME, VOR, NDB, RNAV in conjunction with fix^[Add example]
+		2. [[IM]] (used for CAT II and CAT III approaches)
 	4. Runway Environment
 2. Procedure Turns
 	1. > [!quote] From [[AIM 5]]-4

@@ -26,13 +26,14 @@ Suggested Circuits:
 | [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)             |                                    |             |
 | [KCCR 19R LDA](https://cfijack.com/latest-plate-redirect/?plate=05320LDA19R.PDF)       | [[LDA]]                            |             |
 | KMRY LOC 28L                                                                           |                                    |             |
-| [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)     |                                    |             |
+| [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)     |  PT                                  |             |
 | KOAK ILS or LOC/DME 28R                                                                | Sidestep                           |             |
 | [KMCE LOC BC RWY 12](https://cfijack.com/latest-plate-redirect/?plate=00665LBC12.PDF)  | BC                                 |             |
 | [KSMX LOC/DME BC-A](https://cfijack.com/latest-plate-redirect/?plate=00379LDBCA.PDF)   | BC                                 |             |
 
 Suggested Circuit:
 - [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF), turn at IPDEW -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF), touch and go -> [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)
+- KSNS ILS -> KWVI LOC 2 -> KNUQ ILS 32R
 
 ## [[VOR]] ([[IR.11C VOR + DME + Circling Approaches]])
 | Approach                                                                     | Skill Areas                          | XC Distance |
