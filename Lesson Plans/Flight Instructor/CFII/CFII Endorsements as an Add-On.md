@@ -1,6 +1,6 @@
 > [!caution] This training requires a [[TSA Endorsement]]
 
-> [!note] [[CFI Endorsements]], such as A.41 and A.45, may also be requested at checkride
+> [!note] [[CFI.B CFI Endorsements]], such as A.41 and A.45, may also be requested at checkride
 
 **A.1 Prerequisites for practical test: Title 14 of the Code of Federal Regulations (14 CFR) part 61, § [[FAR 61.39 Prereqs for practical tests|61.39]](a)(6)(i) and (ii).**
 

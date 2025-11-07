@@ -37,3 +37,5 @@ I certify that \[First name, MI, Last name\] has received the required training 
 ***Source***: [[AC 61-65]]
 
 #endorsement
+
+*Return to [[~ CFI Lesson Plan|Table of Contents]]^*
