@@ -26,7 +26,8 @@ I certify that \[First name, MI, Last name\] has received the required training 
 
 ---
 
-**A.45 Spin training: § 61.183(i)(1).** The spin training endorsement is only required of flight instructor airplane and flight instructor glider applicants.
+**A.45 Spin training: § 61.183(i)(1).** 
+*The spin training endorsement is only required of flight instructor airplane and flight instructor glider applicants.*
 
 I certify that \[First name, MI, Last name\] has received the required training of § [[FAR 61.183 CFI Eligibility|61.183]](i) in \[an airplane, a glider\]. I have determined that \[he or she\] is competent and possesses instructional proficiency in stall awareness, spin entry, spins, and spin recovery procedures.
 

@@ -4,7 +4,6 @@ tags:
 - far
 ---
 
-
 ***Link***      :: [§ 61.185 Aeronautical knowledge.](https://www.ecfr.gov/current/title-14/section-61.185)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]

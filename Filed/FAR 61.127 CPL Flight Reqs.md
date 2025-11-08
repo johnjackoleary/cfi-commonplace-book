@@ -3,8 +3,7 @@
 ***Author*** :: [[FAA]]
 
 #### Key Quotes
-* A person who is applying for a flight instructor certificate must receive and log flight and ground training from an authorized instructor on the areas of operation listed in this section
-* The applicant's logbook must contain an endorsement from an authorized instructor certifying that the person is proficient to pass a practical test on those areas of operation
+* A person who applies for a commercial pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section
 
 
 #source #far

@@ -4,7 +4,7 @@ tags:
 - far
 ---
 
-***Link***      :: [§ 61.183 Eligibility requirements](https://www.ecfr.gov/current/title-14/section-61.183)
+***Link***      :: [§ 61.183 Eligibility requirements.](https://www.ecfr.gov/current/title-14/section-61.183)
 ***Description***      :: `= this.link`
 ***Author*** :: [[FAA]]
 

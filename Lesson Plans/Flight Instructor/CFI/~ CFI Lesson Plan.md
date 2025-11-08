@@ -28,9 +28,9 @@ tags:
 - [[Endorsements and Logbooks]]
 - [[PPL6.1 Night Operations and Night Cross Country|Night Operations]]
 - [[CPL.12 High Altitude Operations|High Altitude Operations]] (both supplemental oxygen and pressurization)
-#todo :: finish adding links to existing pages
 
 #### Maneuvers
+#todo :: finish adding links to existing pages
 
 #### Appendix
 - [[CFI.A CFI Training Requirements]]
