@@ -31,16 +31,9 @@ Ground 2 hours, 1 hour sim
 	4. Day-of considerations
 		1. Winds aloft may favor different course/altitude
 		2. Clouds, ice, turbulence, etc may influence course/altitude
-2. Radio navigation equipment
-	1. [[Ground-Based Navigation using VOR, DME, and ILS]]
-	2. [[Satellite Navigation using GPS and GNSS]]
-	3. Images of [various antennas on the aircraft](https://www.aopa.org/training-and-safety/students/presolo/special/antennas) from [[AOPA]]
-4. [[Transponder]]s, and altitude reporting equipment
-	1. [[ADS-B]]
-5. ATC services and assistance available
-	1. [[Radar|Surveillance Systems]]
-	2. Flight following (and [[Flight Following Radio Communication Examples]])
-6. [[Autopilot Systems and Usage]]
+2. [[Navigation Systems]]
+3. [[Radar Services]] and assistance available
+4. [[Autopilot Systems and Usage]]
 	1. preflight
 	2. single/dual axis
 

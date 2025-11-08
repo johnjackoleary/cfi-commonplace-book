@@ -1,0 +1,1 @@
+Related to [[Definition of Professionalism]] and [[Characteristics of a Professional]]
