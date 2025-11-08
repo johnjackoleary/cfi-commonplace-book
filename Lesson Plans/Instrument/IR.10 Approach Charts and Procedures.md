@@ -58,6 +58,7 @@ Ground 2.5 hours
 		7. NoPT
 		8. Approach NA for arrivals on ___
 		9. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
+		10. [[NOTAM]]s
 	6. Using ForeFlight Dynamic Procedures
 3. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
@@ -96,16 +97,7 @@ Ground 2.5 hours
 		2. GPS/DME
 	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
 	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
-8. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) 
-	1. Continuously in position to land, with normal descent rate and maneuvers 
-	2. AND Flight visibility >= minimum 
-	3. AND any one of:
-		1. [[ALS]], although only to [[TDZE]]+100’
-		2. Runway end identifier lights
-		3. [[VGSI]]
-		4. Threshold, threshold markings, threshold lights
-		5. Runway, runway markings, runway lights
-		6. Touchdown zone, touchdown zone markings, touchdown zone lights
+8. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) ![[Operation Below DA or MDA]]
 9. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At [[DA]] or [[MAP]], if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 

@@ -12,6 +12,8 @@
 	3. **Touchdown zone**, touchdown zone markings, or touchdown zone lights
 	4. **Runway**, runway markings, or runway lights
 
+> [!tip] Sometimes summarized as "Paint, Pavement, and Lights"
+
 # Details
 ## Approach Lighting System
 The [[ALS]] can be used to descend to [[TDZE]]+100', until the red terminating bars or side row bars are in sight.

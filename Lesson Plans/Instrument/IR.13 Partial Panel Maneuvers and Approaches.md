@@ -39,9 +39,10 @@ Ground 0.5 hour, simulator and/or airplane 1 hour
 		5. Compass turns ([[UNOS]] mnemonic)
 	2. Electrical failure – loss of T/C and rate-based autopilots 
 		1. Use A/I and DG to replace turn coordinator 
-		2. Bank angle for standard rate turn: 5 kts + airspeed/10 (120 knots gives requires 17°s bank angle) 
+		2. Bank angle for standard rate turn: 5 kts + airspeed/10 (120 knots requires 17°s bank angle) 
 	3. Blocked pitot or static system, affecting A/S, VSI, altimeter 
-		1. Alternate static source 
+		1. Alternate static source
+		2. Pitot heat^[Good example from [this](https://www.youtube.com/watch?v=lZPDfZArP_Q) video]
 	4. G1000 partial panel operations: See Garmin guidance doc ([[IR.C Important References to Study]])
 4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
 5. ATC notification 
