@@ -13,6 +13,24 @@
     --callout-icon: instagram;
 }
 
+/* Base styling for the iframe itself */
+.ig-embed-frame {
+  display: block;
+  width: 100%;
+  
+  /* Keeps the embed nicely vertical, like a phone screen.
+     Obsidian will respect this in Live Preview and Reading mode. */
+  aspect-ratio: 9 / 16;
+
+  max-width: 420px;          /* cap the width so it doesn’t stretch huge on desktop */
+  margin: 0 auto;            /* center it in the note */
+
+  border: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,.15);
+}
+
 .published-container {  
   /* ... CSS variables for Publish that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */
 }

@@ -12,7 +12,7 @@
 	3. **Touchdown zone**, touchdown zone markings, or touchdown zone lights
 	4. **Runway**, runway markings, or runway lights
 
-Pavement, Paint, Lights
+> [!tip] Sometimes summarized as "Paint, Pavement, and Lights"
 
 # Details
 ## Approach Lighting System
