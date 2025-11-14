@@ -41,24 +41,28 @@ Suggested Circuit:
 | [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)   | PT, VOR Station Passage |             |
 | [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF)  | HILPT, Timed FAF to MAP |             |
 | [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) |                         |             |
-| KPRB VOR-B, 19                                                               | DME Arc                 |             |
+| [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF)   | DME Arc, HILPT          |             |
+| [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) | DME Arc                 |             |
 | [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)   | DME Arc                 |             |
 | KTCY VOR 26                                                                  |                         |             |
 
 Suggested Circuit:
 - [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) -> [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)
-- KPRB VOR 19 -> KPRB VOR-B
+- [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) -> [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF)
 - [O69 VOR 29](https://cfijack.com/latest-plate-redirect/?plate=06838V29.PDF) -> [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)
+
+# Unique Approaches
+- Reverse DME Arc - [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)
+- DME Arc Final Segment and Missed - [KMTN VOR 15](https://cfijack.com/latest-plate-redirect/?plate=05222VT15.PDF)
+- Obstacles on Final - [KBIY RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=00068R20.PDF)
 
 # Discover Your Own
 - [https://find-an-approach.github.io](https://find-an-approach.github.io/)
 
 # Challenge Circuits
 ## Simulator Practice
-- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> KSGS DP -> KRGK RNAV 27
-- [KBIY RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=00068R20.PDF) (obstacles on final)
+- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> KSGS DP -> [KRGK RNAV 27](https://cfijack.com/latest-plate-redirect/?plate=06662R27.PDF)
 - [PHNL ILS Z 4R](https://cfijack.com/latest-plate-redirect/?plate=00754IZ4R.PDF)
-- [KMTN VOR 15](https://cfijack.com/latest-plate-redirect/?plate=05222VT15.PDF) (Arc on Final and Missed)
 
 ## In Airplane Practice
 - [KEDU RNAV 17](https://cfijack.com/latest-plate-redirect/?plate=06030R17.PDF) ->  published missed -> vectors to [KSMF ILS 17R](https://cfijack.com/latest-plate-redirect/?plate=05490IL17R.PDF) -> right x-wind departure -> [KVCB RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=06094R20.PDF)

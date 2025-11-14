@@ -1,3 +1,3 @@
-https://www.notams.faa.gov/downloads/contractions.pdf
+https://www.faa.gov/air_traffic/publications/domesticnotices/contractions.html
 
 Related To: [[NOTAM]], [[Weather Brief]]
