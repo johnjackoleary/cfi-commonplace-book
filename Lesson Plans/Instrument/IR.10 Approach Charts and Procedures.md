@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -108,7 +106,7 @@ Ground 2.5 hours
 	3. How to handle MA before MAP 
 		1. "Fly over" MAP first (must stay on the lateral course)
 		2. You can begin to climb anytime, assuming no contrary notes in the [[IAP]]
-	4. How to handle "go-around" after MAP^[Example in [this video](https://www.youtube.com/watch?v=vtlS0sxFlHk) of losing visibility on final]
+	4. How to handle "go-around" after [[MAP]]^[Example in [this video](https://www.youtube.com/watch?v=vtlS0sxFlHk) of losing visibility on final]
 		1. May choose to cancel IFR if conditions permit
 		2. In ATC environment - immediately contact ATC to obtain amended clearance
 		3. If unable to contact ATC, attempt to re-intercept published segment of missed approach
@@ -123,10 +121,13 @@ Ground 2.5 hours
 	6. Missed approach during circle-to-land procedure (AIM 5-4-21)
 12. Visual and Contact approaches: 
 	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
+		1. When going missed on a visual approach
+		> [!quote]- From [[AIM 5]]-4-23(f)...
+		> A visual approach is not an [[IAP]] and therefore has no missed approach segment. If a go-around is necessary for any reason, aircraft operating at controlled airports will be issued an appropriate clearance or instruction by the tower to enter the traffic pattern for landing or proceed as otherwise instructed. In either case, the pilot is responsible to maintain terrain and obstruction avoidance until reaching an ATC assigned altitude if issued, and ATC will provide approved separation or visual separation from other IFR aircraft. At uncontrolled airports, aircraft are expected to remain clear of clouds and complete a landing as soon as possible. If a landing cannot be accomplished, the aircraft is expected to remain clear of clouds and contact ATC as soon as possible for further clearance. Separation from other IFR aircraft will be maintained under these circumstances.
 	2. Contact approach (AIM 5-4-25) – pilot must request, vis >1 SM, clear of clouds 
 13. Common errors 
 	1. Getting “behind” the airplane, not ready for missed approach, failing to accomplish checklist items 
-	2. Overcontrolling during final phase of approach, with high CDI sensitivity 
+	2. Overcontrolling during final phase of approach, with high [[CDI]] sensitivity 
 	3. Using wrong navigation source during approach 
 	4. Unstable approach, failure to configure for approach and landing 
 	5. Descent below DA (slight dip is allowed)

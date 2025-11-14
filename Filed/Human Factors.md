@@ -8,7 +8,7 @@ These are related to [[IMSAFE]].
 
 | ACS ID     | Title                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------ |
-| PA.I.H.K1a | [[Hypoxia]]                                                                                      |
+| PA.I.H.K1a | [[Hypoxia]] (and [[Supplemental Oxygen]])                                                                                     |
 | PA.I.H.K1b | [[Hyperventilation]] (similar symptoms to Hypoxia)                                               |
 | PA.I.H.K1c | Middle ear and sinus problems                                                                    |
 | PA.I.H.K1d | [[Illusions Leading to Spatial Disorientation]]                                                  |

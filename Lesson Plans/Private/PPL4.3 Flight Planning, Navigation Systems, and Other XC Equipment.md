@@ -26,9 +26,10 @@ Ground 2 hours, 1 hour sim
 1. Planning a cross-country flight
 	1. Charting a [[Course]]: [[Sectional Chart with Checkpoints.jpeg]]
 		1. Considerations for hazards and airspace along the course
-	2. Choosing checkpoints
-	3. Choosing altitude
-	4. Day-of considerations
+	2. Choosing an alternate
+	3. Choosing checkpoints
+	4. Choosing altitude
+	5. Day-of considerations
 		1. Winds aloft may favor different course/altitude
 		2. Clouds, ice, turbulence, etc may influence course/altitude
 2. [[Navigation Systems]]
