@@ -3,11 +3,10 @@ tags:
   - cfi
   - syllabus
 ---
-
 ### CFI Airplane Single-Engine, Lesson Plan Outline
 
-#### Fundamentals of Instructing
-- [[Human Behavior]] and [[Effective Communication]]
+#### 1. Fundamentals of Instructing
+- [[CFI1.1 Human Behavior]] and [[CFI1.2 Effective Communication]]
 - [[Learning Process]]
 - [[Teaching Process]]
 - [[Student Evaluation and Assessment]]
