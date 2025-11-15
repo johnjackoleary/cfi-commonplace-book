@@ -1,5 +1,6 @@
 %%
 todo :: Make sure this includes
+FI.I.A.K3 Teaching the adult learner.
 FI.I.A.K4 Effective communication, including:
 FI.I.A.K4a a. Basic elements of communication
 FI.I.A.K4b b. Barriers to effective communication
