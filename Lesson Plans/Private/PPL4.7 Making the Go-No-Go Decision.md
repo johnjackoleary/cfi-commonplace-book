@@ -29,13 +29,13 @@ Ground 1 hours
 ### Lesson Elements
 1. Review the navlog prepared as homework
 2. Discuss the go/no-go decision
-	1. [[ADM]]
-	2. [[Complete VFR Preflight Checklist]]
-	3. [[5 Hazardous Attitudes and Antidotes]]
-	4. [[Operational Pitfalls]]
+	1. [[Complete VFR Preflight Checklist]]
+	2. [[5 Hazardous Attitudes and Antidotes]]
+	3. [[Operational Pitfalls]]
+	4. [[ADM]]
 	5. [[Risk Management]] and [[Flight Risk Assessment Tool Worksheet]]
 		1. [[Personal Minimums]]
-4. Where else can you get help making the call?
+3. Where else can you get help making the call?
 	1. Weather briefers
 	2. Your CFI
 

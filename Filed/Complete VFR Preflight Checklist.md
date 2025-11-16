@@ -9,7 +9,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] [[Personal Minimums]] met
 ## Aircraft
 - [ ] Overall, the PIC is responsible for verifying airworthiness (§ [[FAR 91.7 Aircraft Airworthiness|91.7]], § [[FAR 91.403 General Maintenance|91.403]])
-- [ ] [[AR(R)OW]] (§ 91.9, § 91.203)
+- [ ] [[AR(R)OW]] (§ [[FAR 91.9 Flight Manual, Marking, and Placard Reqs|91.9]], § 91.203)
 - [ ] Seat adjusted, cabin organized
 - [ ] POH-specific preflight inspection completed[^insp]
 - [ ] Weight and Balance within limits

@@ -31,8 +31,7 @@ Ground 1.5 hours, Flight – multiple during dual cross-country flights
 
 1. [[Pilotage]]
 	1. Reading charts and navigating by visual landmarks
-	2. Following flight plans
-	3. When do we use this in practice?
+	2. When do we use this in practice?
 2. [[Dead Reckoning]]
 	1. Navigation by direction, airspeed, distance and time
 	2. Flight log forms, and updating during flight

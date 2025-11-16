@@ -21,7 +21,7 @@ Before Starting XC:
 
 Before Night Flights:
 - Headlamp with red light
-- Backup flashlight (preferably red)
+- Backup flashlight (preferably red)^[Jack uses [this one](https://www.amazon.com/Flashlight-Powerful-Astronomy-Aviation-Observation-Black/dp/B06X3SY4LG/)]
 
 After Checkride:
 - Headset for the first passenger^[Some folks will get themselves a nice headset, and their training headset becomes their first passenger headset]^[Clubs will often have loaner headsets, which may or may not be available or work]
