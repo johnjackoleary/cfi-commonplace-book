@@ -26,7 +26,10 @@ Ground 30m, Sim/airplane – 2.5 hours
 1. GPS Receiver Types
 	1. Non-[[WAAS]]: TSO-C129 or TSO C-196
 	2. WAAS: TSO C-145 or TSO C-146
-2. Types of [[RNAV]] (GPS) Approaches and Minima (see [[AIM 5]]-4-5(m))
+2. Differences in approach plate course and GPS course
+	1. > [!quote] From [[AC 90-100]]
+	> NOTE: Pilots may notice a slight difference between the navigation information portrayed on the chart and their primary navigation display. Differences of 3° or less may result from equipment manufacturer's application of magnetic variation and are operationally acceptable.
+3. Types of [[RNAV]] (GPS) Approaches and Minima (see [[AIM 5]]-4-5(m))
 	1. Some types offer lateral guidance only, and terminate at an [[MDA]]
 	2. Other types offer lateral and vertical guidance (a glideslope) and terminate at a [[DA]]
 	3. Some types make use of [[WAAS]] for higher accuracy
