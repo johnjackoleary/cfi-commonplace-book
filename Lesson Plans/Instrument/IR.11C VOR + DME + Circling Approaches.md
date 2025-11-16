@@ -43,10 +43,11 @@ Ground 1 hour, simulator 2 hours
 	5. Using wrong navigation source during approach 
 	6. Loss of sequencing with GPS during missed approach 
 	7. Loss of situational awareness during missed approach or circling approach 
-5. Sim Activity
-	1. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from EXUPY using GPS
-	2. [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) from JEBNO without GPS
-	3. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from JEBNO
+
+#### Sim Activity
+1. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from EXUPY using GPS
+2. [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) from JEBNO without GPS
+3. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from JEBNO
 
 ### Completion Standards
 Student must demonstrate proficiency at flying non-precision approaches to ACS standards to landing, including circling approaches, and missed approach procedures.

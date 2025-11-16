@@ -15,21 +15,22 @@ Suggested Circuits:
 - [KOAR RNAV 11](https://cfijack.com/latest-plate-redirect/?plate=05271R11.PDF) -> [KSNS RNAV 13](https://cfijack.com/latest-plate-redirect/?plate=00363R13.PDF) -> [KNUQ RNAV 32R](https://cfijack.com/latest-plate-redirect/?plate=00410R32R.PDF)
 
 ## [[ILS]] ([[IR.11B ILS + LOC Approaches]])
-| Approach                                                                               | Skill Areas                        | XC Distance |
-| -------------------------------------------------------------------------------------- | ---------------------------------- | ----------- |
-| [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)         |                                    |             |
-| [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF)        | HILPT at IAF                       |             |
-| [KSNS ILS 31](https://cfijack.com/latest-plate-redirect/?plate=00363I31.PDF)           | Arc, HILPT, [[LR]]                 |             |
-| [KMOD ILS or LOC 28R](https://cfijack.com/latest-plate-redirect/?plate=00643IL28R.PDF) | HILPT                              |             |
-| [KNUQ ILS 32R](https://cfijack.com/latest-plate-redirect/?plate=00410IL32R.PDF)        |                                    |             |
-| KSUU ILS 21L                                                                           | Multiple IAP types on single chart |             |
-| [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)             | PT                                 |             |
-| [KCCR 19R LDA](https://cfijack.com/latest-plate-redirect/?plate=05320LDA19R.PDF)       | [[LDA]], PT                            |             |
-| KMRY LOC 28L                                                                           |                                    |             |
-| [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)     |                                    |             |
-| KOAK ILS or LOC/DME 28R                                                                | Sidestep                           |             |
-| [KMCE LOC BC RWY 12](https://cfijack.com/latest-plate-redirect/?plate=00665LBC12.PDF)  | BC                                 |             |
-| [KSMX LOC/DME BC-A](https://cfijack.com/latest-plate-redirect/?plate=00379LDBCA.PDF)   | BC                                 |             |
+| Approach                                                                                   | Skill Areas                        | XC Distance |
+| ------------------------------------------------------------------------------------------ | ---------------------------------- | ----------- |
+| [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)             |                                    |             |
+| [KAPC ILS 1L](https://cfijack.com/latest-plate-redirect/?plate=00281ILZ1L.PDF)             | HILPT, Unique Notes                                   |             |
+| [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF)            | HILPT at IAF                       |             |
+| [KSNS ILS 31](https://cfijack.com/latest-plate-redirect/?plate=00363I31.PDF)               | Arc, HILPT, [[LR]]                 |             |
+| [KMOD ILS or LOC 28R](https://cfijack.com/latest-plate-redirect/?plate=00643IL28R.PDF)     | HILPT                              |             |
+| [KNUQ ILS 32R](https://cfijack.com/latest-plate-redirect/?plate=00410IL32R.PDF)            |                                    |             |
+| [KSUU ILS 21L](https://cfijack.com/latest-plate-redirect/?plate=00488ILR21L.PDF)           | Multiple IAP types on single chart |             |
+| [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)                 | PT                                 |             |
+| [KCCR 19R LDA](https://cfijack.com/latest-plate-redirect/?plate=05320LDA19R.PDF)           | [[LDA]], PT                        |             |
+| [KMRY LOC 28L](https://cfijack.com/latest-plate-redirect/?plate=00271L28L.PDF)             |                                    |             |
+| [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)         |                                    |             |
+| [KOAK ILS or LOC/DME 28R](https://cfijack.com/latest-plate-redirect/?plate=00294IL28R.PDF) | Sidestep                           |             |
+| [KMCE LOC BC RWY 12](https://cfijack.com/latest-plate-redirect/?plate=00665LBC12.PDF)      | BC                                 |             |
+| [KSMX LOC/DME BC-A](https://cfijack.com/latest-plate-redirect/?plate=00379LDBCA.PDF)       | BC                                 |             |
 
 Suggested Circuit:
 - [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF), turn at IPDEW -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF), touch and go -> [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)
@@ -44,7 +45,7 @@ Suggested Circuit:
 | [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF)   | DME Arc, HILPT          |             |
 | [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) | DME Arc                 |             |
 | [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)   | DME Arc                 |             |
-| KTCY VOR 26                                                                  |                         |             |
+| [KTCY VOR 26](https://cfijack.com/latest-plate-redirect/?plate=05815V26.PDF)                                                                  |                         |             |
 
 Suggested Circuit:
 - [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) -> [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF)
@@ -61,17 +62,17 @@ Suggested Circuit:
 
 # Challenge Circuits
 ## Simulator Practice
-- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> KSGS DP -> [KRGK RNAV 27](https://cfijack.com/latest-plate-redirect/?plate=06662R27.PDF)
+- [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> [KSGS DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF) -> [KRGK RNAV 27](https://cfijack.com/latest-plate-redirect/?plate=06662R27.PDF)
 - [PHNL ILS Z 4R](https://cfijack.com/latest-plate-redirect/?plate=00754IZ4R.PDF)
 
 ## In Airplane Practice
 - [KEDU RNAV 17](https://cfijack.com/latest-plate-redirect/?plate=06030R17.PDF) ->  published missed -> vectors to [KSMF ILS 17R](https://cfijack.com/latest-plate-redirect/?plate=05490IL17R.PDF) -> right x-wind departure -> [KVCB RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=06094R20.PDF)
-- [KSQL VFR-to-IFR departure](https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3282452782098945323) -> KHAF RNAV 30 -> KNUQ ILS 32R -> alternate missed hold 3500' at OSI-> KPAO RNAV 31
+- [KSQL VFR-to-IFR departure](https://notams.aim.faa.gov/lta/main/viewlta?lookupid=3282452782098945323) -> [KHAF RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=06675R30.PDF) -> [KNUQ ILS 32R](https://cfijack.com/latest-plate-redirect/?plate=00410IL32R.PDF) -> alternate missed hold 3500' at OSI-> [KPAO RNAV 31](https://cfijack.com/latest-plate-redirect/?plate=09216R31.PDF)
 - Precision-like approaches and missed
-	- KAPC ILS 01L -> missed -> O69 RNAV 29 -> missed -> KSTS ILS 32
-	- C83 RNAV 30 -> missed -> KTCY RNAV 12 -> missed -> KLVK ILS 25R
+	- [KAPC ILS 1L](https://cfijack.com/latest-plate-redirect/?plate=00281ILZ1L.PDF) -> missed -> [O69 RNAV 29](https://cfijack.com/latest-plate-redirect/?plate=06838R29.PDF) -> missed -> [KSTS ILS 32](https://cfijack.com/latest-plate-redirect/?plate=00696IL32.PDF)
+	- [C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF) -> missed -> [KTCY RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=05815R12.PDF) -> missed -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)
 - [KCCR BCHN.2.CROIT](https://cfijack.com/latest-plate-redirect/?plate=05320BUCHANAN.PDF) -> [KAPC ILS 1L](https://cfijack.com/latest-plate-redirect/?plate=00281ILZ1L.PDF) -> Missed -> [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF) circle to land -> [KCCR 19R RNAV](https://cfijack.com/latest-plate-redirect/?plate=05320R19R.PDF)
-- [KTCY RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=05815R12.PDF) circle-to-land -> [KTCY DP](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF) -> [KTCY VOR 26](https://cfijack.com/latest-plate-redirect/?plate=05815V26.PDF) -> Missed -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)
+- [KTCY RNAV 12](https://cfijack.com/latest-plate-redirect/?plate=05815R12.PDF) circle-to-land -> [KTCY DP](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF) -> [KTCY VOR 26](https://cfijack.com/latest-plate-redirect/?plate=05815V26.PDF) -> missed -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)
 - [KWVI ODP](https://cfijack.com/latest-plate-redirect/?plate=00805WATSONVILLE.PDF) -> [KSNS VOR 13](https://cfijack.com/latest-plate-redirect/?plate=00363V13.PDF) -> missed -> [KWVI VOR-A](https://cfijack.com/latest-plate-redirect/?plate=00805VA.PDF) -> missed -> [KWVI RNAV 2](https://cfijack.com/latest-plate-redirect/?plate=00805R2.PDF) circle-to-land -> [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF)
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
