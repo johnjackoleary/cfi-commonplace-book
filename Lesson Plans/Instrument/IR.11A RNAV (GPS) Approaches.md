@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -55,6 +53,13 @@ Ordered roughly from most accurate to least accurate:
 6. GPS Failures
 	1.  **W** at [C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)
 7. Bugging an [[MDA]] for [[ACS]] standards -- consider setting it +50' since standards are -0/+100
+
+#### Sim Activity
+1. Winds 060@5
+2. Missed on each approach
+3. [KOAR RNAV 11](https://cfijack.com/latest-plate-redirect/?plate=05271R11.PDF) starting from MOVER
+4. [KSNS RNAV 13](https://cfijack.com/latest-plate-redirect/?plate=00363R13.PDF) with vectors to intercept leg between MOVER and EWTOF
+5. [KMRY RNAV Y 28L](https://cfijack.com/latest-plate-redirect/?plate=00271RY28L.PDF) with HILPT at HIXAR
 	
 ### Completion Standards
 Student must demonstrate proficiency at understanding the different types of RNAV (GPS) approaches, different landing minimums, and basic shapes of RNAV (GPS) approaches. Student should be introduced to RNAV (GPS) approaches by flying multiple approaches in an approved simulator.

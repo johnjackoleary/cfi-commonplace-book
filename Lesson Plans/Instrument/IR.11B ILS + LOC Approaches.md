@@ -45,6 +45,12 @@ Ground 30m, simulator – 2.5 hours
 	1. Intercepting the GS from above increases both the possibility of a non-stabilized approach and the risk of capturing a false GS. - [[IFH]] addendum to be added to Ch9
 	2. From [[Max Trescott]]'s [podcast](https://aviationnewstalk.libsyn.com/383-why-your-rnav-glide-path-wont-captureand-how-to-fix-it-ga-news), step down leading up to FAF on an LPV
 
+#### Sim Activity
+1. All approaches going missed
+2. [KSNS ILS 31](https://cfijack.com/latest-plate-redirect/?plate=00363I31.PDF) starting at SNS and following feeder route to AANNE, using GPS
+3. [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF) starting at NALLS with PT, no GPS
+4. [KNUQ ILS 32R](https://cfijack.com/latest-plate-redirect/?plate=00410IL32R.PDF) with vectors to final
+
 ### Completion Standards
 Student must demonstrate proficiency at understanding ILS approaches and brief an ILS approach plate. Student should be introduced to ILS approaches by flying multiple approaches in an approved simulator
 
