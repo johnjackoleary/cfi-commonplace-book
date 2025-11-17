@@ -66,6 +66,7 @@ The study of human behavior is an attempt to explain **how & why humans function
 		2. Learners might come unprepared or give out the vibe that aviation is no longer a priority.
 		3. It is often helpful to remind them *their own stated goals* for seeking aviation training.
 		4. Learning plateaus are a common source of frustration, discouragement — They should be encouraged to continue to work hard and be reassured that *it will pass and that the results will follow.*
+
 > [!tip]
 > It can be easy to forget the fun of aviation when the learner is in the middle of the learning plateau. Take a break in training and go up with the student for a $100 burger or a Bay Tour can also be an effective way to rekindle that passion.
 

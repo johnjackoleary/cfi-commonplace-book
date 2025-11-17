@@ -9,18 +9,18 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] [[Personal Minimums]] met
 ## Aircraft
 - [ ] Overall, the PIC is responsible for verifying airworthiness (§ [[FAR 91.7 Aircraft Airworthiness|91.7]], § [[FAR 91.403 General Maintenance|91.403]])
-- [ ] [[AR(R)OW]] (§ 91.9, § 91.203)
+- [ ] [[AR(R)OW]] (§ [[FAR 91.9 Flight Manual, Marking, and Placard Reqs|91.9]], § [[FAR 91.203 Aircraft Certs Reqd|91.203]])
 - [ ] Seat adjusted, cabin organized
 - [ ] POH-specific preflight inspection completed[^insp]
 - [ ] Weight and Balance within limits
-- [ ] Confirm sufficient fuel, with reserves (§ 91.151)
+- [ ] Confirm sufficient fuel, with reserves (§ [[FAR 91.151 VFR Fuel Reqs|91.151]])
 - [ ] All required equipment operational
 	- [ ] FAA-required
 		- [ ] Day VFR: [[A TOMATO FLAMES]] or [[A GOOSE A CAT]]  (§ [[FAR 91.205 Instrument and Equipment Requirements|91.205]])
-			- [ ] Additional info on Emergency Location Transmitter (ELT) (§ 91.207)
-			- [ ] Additional info on position lights (§ 91.209)
+			- [ ] Additional info on Emergency Location Transmitter (ELT) (§ [[FAR 91.207 Emergency Locator Transmitter|91.207]])
+			- [ ] Additional info on position lights (§ [[FAR 91.209 Aircraft Lights|91.209]])
 		- [ ] Night VFR adds: [[FLAPS]] (§ [[FAR 91.205 Instrument and Equipment Requirements|91.205]])
-		- [ ] Transponder Requirements (§ 91.215)
+		- [ ] Transponder Requirements (§ [[FAR 91.215 Transponder Use|91.215]])
 	- [ ] Manufacturer-required: See [[KOEL]]
 	- [ ] Process for determining if equipment is required: [[FAR 91.213 Inop Equip]]
 - [ ] All required inspections complete ("[[AAV1ATE]]")
