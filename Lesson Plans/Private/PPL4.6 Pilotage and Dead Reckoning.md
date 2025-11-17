@@ -18,7 +18,7 @@ Develop knowledge and skills associated with pilotage navigation by reference to
 Ground 1.5 hours, Flight – multiple during dual cross-country flights
 
 > [!note] 
-> Can be completed at the same time as with [[PPL4.5 Advanced Weather Briefs and Preflight Planning]].
+> Can be completed at the same time as with [[PPL4.7 Making the Go-No-Go Decision]].
 
 ### CFI Equipment
 - [[E6B]] Calculator or App

@@ -57,6 +57,7 @@ Ground 1.5 hour, practice on multiple flights
 		2. Standard
 		3. Abbreviated
 2. Review of [[All Available Information Concerning That Flight]]^[Similar to [[NWKRAFT]]]
+	1. Alternate selection
 3. Other topics related to cross-country planning and flying
 	1. [[Human Factors]]
 	2. How to share expenses? [[AC 61-142]] and [[FAR 61.113 Private Pilot Privileges and Limitations]]^[Good WINGS program online [here](https://www.faasafety.gov/gslac/ALC/course_content.aspx?cID=1093)]
