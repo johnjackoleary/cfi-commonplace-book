@@ -1,7 +1,9 @@
 ---
 aliases:
   - Aeronautical Decision-Making
+  - Higher Order Thinking Skills (HOTS)
 ---
+
 # Key Takeaways
 - Ongoing process used by pilots to determine the best course of action when facing a given set of circumstances
 - The [[3P Model]] can be used to make good, time-critical decisions
