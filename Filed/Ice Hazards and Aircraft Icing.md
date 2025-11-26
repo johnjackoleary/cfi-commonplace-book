@@ -56,6 +56,20 @@ Certain fronts and atmospheric structures are more likely to cause icing conditi
 
 Typically, ice only forms within a 2000'-3000' layer,^[From [Aircraft Icing: Everything You Ever Wanted to Know](https://www.youtube.com/watch?v=BNUekm12_xM)] so descending may help. (Climbing may also help, but also increases the risk of [[SLD]].) A key initial goal is to stop the accumulation.
 
+> [!tip] The best course of action might be to turn around.
+
+Also, be aware that getting in touch with ATC could be challenging, as they are likely busy with many planes if the weather is bad.
+
+> [!danger] Don't hesitate to declare an emergency if the outcome of the flight is ever in doubt.
+
+### Have an Out
+Identify backup plans in your preflight planning:
+
+1. Could you descend below freezing levels and still be above [[MEA]]?
+2. Could you climb?
+3. If these are cumulus-type clouds, could you stay between clouds and get out? 
+4. What will you do if ATC asks you to climb higher than planned?
+
 ### Flight Into Known Icing Conditions
 Aircraft certified for [[FIKI]] need to have specific tests completed. All equipment must be functional to fly into known icing conditions.
 
