@@ -54,6 +54,7 @@ Ground 1.5 hours, flight 3 hours
 				1. [KIWA](https://cfijack.com/latest-plate-redirect/?plate=SW4TO.PDF#page=28) DVA 
 				2. [KSQL](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=25) DVA
 			2. ATC provides obstacle clearance via radar vectors prior to reaching the MVA and minimum IFR altitude
+			3. No DP but has IAP
 	4. VFR-to-IFR departures^[One example of this is the departure from KSQL]
 	5. [[VCOA]]
 		1. > [!quote] From [[AIM 5]]-2-9
@@ -76,6 +77,13 @@ Ground 1.5 hours, flight 3 hours
 6. Common errors 
 	1. Accepting a SID or STAR without briefing
 	2. Not knowing performance capability of aircraft to fly any procedure
+
+#### Sim Activity
+- [KKIC ODP](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF) -> KAPC
+- [KIZA ODP](https://cfijack.com/latest-plate-redirect/?plate=SW3TO.PDF) -> KCMA
+- [KPRB PASO ROBLES 2 ODP](https://cfijack.com/latest-plate-redirect/?plate=00858PASOROBLES.PDF)
+- [KPRB BRALY 1](https://cfijack.com/latest-plate-redirect/?plate=00858BRALY.PDF)
+- STAR?
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:

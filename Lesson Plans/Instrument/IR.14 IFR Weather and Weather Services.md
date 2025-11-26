@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -24,9 +22,9 @@ Ground 2 hours
 
 ### Lesson Elements
 1. Meteorology for IFR flight planning 
-	1. Weather system formation, including air masses and fronts 
+	1. Weather system formation, including [[air mass]]es and [[front]]s 
 	2. Cloud types and hazards 
-	3. Turbulence 
+	3. [[Turbulence]] 
 	4. [[Thunderstorm]]s and [[Wind Shear#Microbursts|microbursts]] 
 	5. [[Fog]]
 	6. Ice hazards, [[Aircraft Icing]], including frost, conditions conducive to icing
