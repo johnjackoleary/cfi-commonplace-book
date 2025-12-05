@@ -52,6 +52,6 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - Flight by reference to instruments
 
 ### Required Homework
-- [ ] Memorize the [[Media/Aircraft/Aircraft Gait Charts|"Gait" table]] and/or have printed on kneeboard
+- [ ] Memorize the [[Aircraft Gait Charts|"Gait" table]] and/or have printed on kneeboard
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
