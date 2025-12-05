@@ -33,7 +33,7 @@ Simulator and/or airplane, 1.5 hours
 		6. Slow cruise descent, vectoring turns 
 		7. Simulated MAP, climb, turn, level off, hold at fix 
 		8. Timed Turns (just a demo, cover DG)
-	7. [[Media/Aircraft/Aircraft Gait Charts]], Learn and make table of following values: 
+	7. [[Aircraft Gait Charts]], Learn and make table of following values: 
 		1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach)
 		2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
 		3. Or use the [[Aircraft Blank Gait]]

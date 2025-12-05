@@ -37,7 +37,7 @@ Practice departing and arriving from the airport, select maneuvers from [[Privat
 	- Selection of MP and RPM for cruise flight^[Good overview [here](https://www.aopa.org/news-and-media/all-news/1998/november/flight-training-magazine/engine-power-settings) from [[AOPA]]]
 		- > [!note] From Jack: 
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this! I've heard some POHs explicitly request highest RPM available] and treat it more like a memory aid.
-	- Preparing speed, power, and configurations for key stages of flight (see [[Media/Aircraft/Aircraft Gait Charts]] for examples)
+	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 	- [[MGW]] vs [[MRW]] vs [[MTOW]] vs [[MLW]]
 - Preflight testing
 	- Careful with wrap-around covers to avoid touching the ground
