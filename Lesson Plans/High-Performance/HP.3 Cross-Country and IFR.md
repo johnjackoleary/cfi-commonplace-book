@@ -16,8 +16,8 @@ Become familiar with all avionics and instrumentation available for a cross-coun
 
 ### Builds On
 - [[PPL4.1 Intro to Cross Country Flying]]
-- [[HP.1 Theory and Traffic Pattern]]
-- [[HP.2 Departing the Airport, Maneuvers, and Emergencies]]
+- [[HP.1 Theory, Maneuvers, and Emergencies]]
+- [[HP.2 Traffic Pattern]]
 
 ### Schedule
 0.5hr ground^[this may require more ground time, depending on how prepared the learner is to use the new instruments], 2.5hr flight

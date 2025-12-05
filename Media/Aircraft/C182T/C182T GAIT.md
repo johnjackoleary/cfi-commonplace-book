@@ -2,7 +2,7 @@
 tags: [gait]
 ---
 
-| **C182T Gaits** v2.0    | **Flaps** | **Pitch** | MP<br/>" | **RPM** | IAS<br>(kts)      | VSI<br>(fpm) |
+| **C182T Gaits** v2.1    | **Flaps** | **Pitch** | MP<br/>" | **RPM** | IAS<br>(kts)      | VSI<br>(fpm) |
 | ----------------------- | --------- |:---------:| -------- |:-------:| ----------------- |:------------:|
 | ⚠️ V<sub>G</sub>        |           |           | idle     |  idle   | 75@MGW<br>58@2100 |              |
 | 🛫 V<sub>R</sub>        | 10°       |           | max      |  2400   | 50-60             |              |
@@ -17,8 +17,8 @@ tags: [gait]
 | 🌫️ Non-Prec Appr to MDA | 10°       |           |          |         | 90                |     -800     | 
 | Descent                 |           |           |          |         |                   |    \-500     |
 | 🛬 Downwind             |           |           | 16       |         | 90                |      0       |
-| 🛬 Abeam \#s            | 10°       |           | 13       |         | 80                |              |
-| 🛬 Base                 | 20°       |           | 13       |         | 70                |              |
+| 🛬 Abeam \#s            | 10°       |           | 13       |         | 85                |              |
+| 🛬 Base                 | 20°       |           | 13       |         | 75                |              |
 | 🛬 Final                | Full      |           | 13       | as req  | 65                |              |
 | Short                   | Full      |           | 13       | as req  | 60                |              |
 

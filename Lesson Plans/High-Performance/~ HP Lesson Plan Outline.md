@@ -7,8 +7,8 @@ tags:
 ---
 
 #### Outline
-[[HP.1 Theory and Traffic Pattern]]
-[[HP.2 Departing the Airport, Maneuvers, and Emergencies]]
+[[HP.1 Theory, Maneuvers, and Emergencies]]
+[[HP.2 Traffic Pattern]]
 [[HP.3 Cross-Country and IFR]]
 
 > [!tip] Tips

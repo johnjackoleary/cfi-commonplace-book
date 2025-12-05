@@ -36,7 +36,7 @@ Overview of short- and soft-field operations
 	3. Taxi into takeoff position using maximum available runway length, and align on runway centerline
 	4. Apply brakes and hold while applying takeoff power, check gauges
 	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]
-	6. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
+	6. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
 	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
 	8. Here's how **NOT** to do it: 
 	   > [!youtube] [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)
@@ -61,7 +61,7 @@ Overview of short- and soft-field operations
 	5. Establish pitch attitude to rapidly transfer weight from wheels to wings
 	6. Lift off at lowest possible airspeed, accelerate to [[Vx]] or [[Vy]] in [[Ground Effect]]
 	7. Establish pitch attitude and airspeed for [[Vx]] or [[Vy]] climb
-	8. Retract gear/flaps after positive rate of climb, and in accordance with POH/AFM
+	8. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
 2. Landing
 	1. Complete pre-landing checklist ([[GUMPS]])
 	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
