@@ -30,7 +30,6 @@ Hood or foggles
 	2. Concern is [[Loss of Control In-Flight|LOC]]
 	3. Full panel recoveries
 	4. Partial panel recoveries
-> [!] power through blue, power down brown
 3. Recognize nose-high unusual attitude
 	1. ASI slow or decreasing rapidly
 	2. VSI shows climb, altimeter shows climb
@@ -49,6 +48,8 @@ Hood or foggles
 	1. Failure to recognize unusual attitude
 	2. Dependency on sense other than instrument indications
 	3. Failure to use proper recovery sequence
+
+> [!tip] Power Through Blue; Power Down Brown
 
 ### Completion Standards
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
