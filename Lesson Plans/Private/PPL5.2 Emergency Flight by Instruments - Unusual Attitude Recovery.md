@@ -49,6 +49,8 @@ Hood or foggles
 	2. Dependency on sense other than instrument indications
 	3. Failure to use proper recovery sequence
 
+> [!tip] Power Through Blue; Power Down Brown
+
 ### Completion Standards
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
 
