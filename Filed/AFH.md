@@ -22,5 +22,6 @@
 - [[AFH Ch16]]
 - [[AFH Ch17]]
 - [[AFH Ch18]]
+- [[AFH Glossary]]
 
 #acronym #handbook/afh #source

@@ -10,6 +10,7 @@
 [[PA28-181 Gait KTS.pdf]]
 [[PA28-181 Gait MPH.pdf]]
 [[PA28-236 Gait.pdf]]
+[[PA32-301 Gait.pdf]]
 [[DA40 XLS Gait.pdf]]
 [[C182T Gait.pdf]]
 [[C182P with STC Gait.pdf]]

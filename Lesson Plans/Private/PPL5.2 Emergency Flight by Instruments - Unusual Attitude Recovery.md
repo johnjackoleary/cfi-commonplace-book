@@ -30,6 +30,7 @@ Hood or foggles
 	2. Concern is [[Loss of Control In-Flight|LOC]]
 	3. Full panel recoveries
 	4. Partial panel recoveries
+> [!] power through blue, power down brown
 3. Recognize nose-high unusual attitude
 	1. ASI slow or decreasing rapidly
 	2. VSI shows climb, altimeter shows climb

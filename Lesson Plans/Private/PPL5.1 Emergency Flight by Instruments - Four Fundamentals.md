@@ -43,6 +43,7 @@ Hood or foggles
 	2. Straight climbs and descents (IFH 7-14)
 		1. Pitch-Power-Trim sequence to initiate climb, Power-Pitch-Trim for descent.
 	3. Turns (IFH 7-19)
+	4. Autopilot use
 4. Common errors
 	1. Spatial disorientation (see [[Illusions Leading to Spatial Disorientation]])
 	2. Distraction
