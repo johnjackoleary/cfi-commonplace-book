@@ -8,8 +8,12 @@
 
 # Details
 ## Dynamic Hydroplaning
+- Relatively high-speed phenomena
+- Wedge of water under tire creates pressure equal to weight of plane
+- Related to tire inflation pressure: `8.6 * sqrt(tire pressure PSI)`
 
 ## Reverted Rubber Hydroplaning 
+- 
 
 ## Viscous Hydroplaning 
 
