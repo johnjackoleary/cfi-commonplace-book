@@ -39,8 +39,10 @@ Practice departing and arriving from the airport, select maneuvers from [[Privat
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this! I've heard some POHs explicitly request highest RPM available] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 	- [[MGW]] vs [[MRW]] vs [[MTOW]] vs [[MLW]]
+		- Club water ballasts for testing at MGW
 - Preflight testing
 	- Careful with wrap-around covers to avoid touching the ground
+	- Inspecting the propeller blades and hub^[Great video from [[Hartzell]] can be found [here](https://youtu.be/WVfr_aexedg?t=361)]
 	- Cycling the propeller in run-up^[Cycling 3 times is common. For example, the Piper Dakota [[POH]] recommends 3 cycles in cold weather to circulate warm oil. Sometimes this is presented as checking instruments for first MP rise, second RPM drop, and third oil pressure drop. Cycling 2 times is also common: once to check gauges, and once to check for any oil mist from the prop. Cycling only 1 time is also sometimes appropriate. See [Cycling a Prop](https://pilotworkshop.com/tips/constant-speed-prop/) for more info.]
 - Departure
 	- Additional power may cause strong [[Four Left Turning Tendencies|left turning tendencies]]
