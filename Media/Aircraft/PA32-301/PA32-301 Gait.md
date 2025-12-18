@@ -25,11 +25,13 @@ speed-units: kts
 | 🌫️ IAF Inbound Descent           |           |           |        |         |                               |
 | 🌫️ Prec Appr to DA               |           |           |        |         |                               |
 | 🌫️ Non-Prec Appr to MDA          |           |           |        |         |                               |
-| 🛬 Downwind                      |           |           |        |         |                               |
-| 🛬 Abeam Numbers                 |           |           |        |         |                               |
-| 🛬 Base                          |           |           |        |         |                               |
-| 🛬 Final                         |    40°    |           |        | as req  |          (Vref::95)           |
+| 🛬 Downwind                      |           |           |        |         |                            |
+| 🛬 Abeam Numbers                 |           |           |        |         |              100               |
+| 🛬 Base                          |           |           |        |         |              90               |
+| 🛬 Final                         |    40°    |           |        | as req  |          (Vref::80)           |
 | Short                            |           |           |        |         |         (Vshort::79)          |
+
+no flap speed = 90 (add 10 kts to approach speed)
 
 <br>
 
