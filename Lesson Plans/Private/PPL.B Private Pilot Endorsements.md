@@ -5,6 +5,7 @@
 > - [[Solo Cross-Country Endorsements]]
 > - [[Repeated Solo Cross-Country Endorsements Between 25NM and 50NM]]
 > - [[Takeoffs and Landings At Airport Within 25 NM Endorsement]]
+> - [[Retest Endorsement]]
 
 **A.1 Prerequisites for practical test: Title 14 of the Code of Federal Regulations (14 CFR) part 61, § [[FAR 61.39 Prereqs for practical tests|61.39]](a)(6)(i) and (ii).**
 
