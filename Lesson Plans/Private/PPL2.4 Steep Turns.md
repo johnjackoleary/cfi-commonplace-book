@@ -4,7 +4,7 @@ aliases: [PPL.9, SOLO.9, PPL2.4]
 ---
 ### Introduction
 
-One of the maneuvers you'll demonstrate on your checkride is the Steep Turn. At first blush, this is a simple, straightforward maneuver.  The goal is to enter a 45° banked turn (55-60° for Commercial Pilots), and complete a 360° turn, while maintaining altitude and airspeed. Often you're asked to repeat the turn in the opposite direction.
+One of the maneuvers you'll demonstrate on your checkride is the Steep Turn. At first blush, this is a simple, straightforward maneuver.  The goal is to enter a 45° banked turn (50° for Commercial Pilots), and complete a 360° turn, while maintaining altitude and airspeed. Often you're asked to repeat the turn in the opposite direction.
 
 Beyond the the checkride, this maneuver is important for many reasons. It gives the pilot a clear experience of [[Adverse Yaw]] and [[Overbanking Tendency]]. It's also the only way to demonstrate increased G-forces in a continuous, non-transient way. In addition to demonstrating the maneuver, you'll also need to understand it, so this lesson covers the aerodynamics of steep turns, including the concept of [[Load Factor]] and its effect on stall speed.
 
