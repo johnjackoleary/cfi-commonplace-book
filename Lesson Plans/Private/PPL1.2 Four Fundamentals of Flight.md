@@ -2,19 +2,18 @@
 tags: [ppl, lesson]
 aliases: [PPL.2, SOLO.2, PPL1.2]
 ---
-### Objective
-Practice the fundamentals of straight and level (S&L) flight, turns, climbs, and descents; and controlling the airplane's attitude by visual reference to the horizon.
+### Introduction
+We often refer to the "Four Fundamentals of Flight", which are
+- Straight and level flight (at various speeds and configurations)
+- Turns
+- Climbs, and
+- Descents
 
-### Resources
-N/A
+While these may seem simple, proper technique and practice form a foundation that allows the pilot to fly with precision while focussing on other tasks. We'll be practicing these fundamentals in every flight, but in this lesson we'll talk about the techniques, tips, and tricks that make each maneuver smooth and controlled. We'll also talk about the aerodynamics of flight in all these configurations, which a pilot is expected to understand, and which often comes up in the oral exam.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 
-### Builds On
-N/A
-
-### Schedule
-1 hour ground, 2 hours flight
+**Schedule:** 1 hour ground, 2 hours flight
 
 ### Lesson Elements
 > [!tip] 

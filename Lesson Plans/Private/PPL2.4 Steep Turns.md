@@ -1,20 +1,16 @@
 ---
-tags: [ppl, lesson], maneuver
+tags: [ppl, lesson, maneuver]
 aliases: [PPL.9, SOLO.9, PPL2.4]
 ---
-### Objective
-Develop knowledge of the aerodynamics of steep turns, including load factor and effect on stall speed. Develop [[risk management]] and skills associated with steep turns.
+### Introduction
 
-### Resources
-- [[Private Pilot ACS]] Section V.A
+One of the maneuvers you'll demonstrate on your checkride is the Steep Turn. At first blush, this is a simple, straightforward maneuver.  The goal is to enter a 45° banked turn (50° for Commercial Pilots), and complete a 360° turn, while maintaining altitude and airspeed. Often you're asked to repeat the turn in the opposite direction.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+Beyond the the checkride, this maneuver is important for many reasons. It gives the pilot a clear experience of [[Adverse Yaw]] and [[Overbanking Tendency]]. It's also the only way to demonstrate increased G-forces in a continuous, non-transient way. In addition to demonstrating the maneuver, you'll also need to understand it, so this lesson covers the aerodynamics of steep turns, including the concept of [[Load Factor]] and its effect on stall speed.
 
-### Builds On
-[[PPL1.2 Four Fundamentals of Flight]]
-
-### Schedule
-Ground 0.5 hours, Flight 1 hour
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
+**Schedule:** Ground 0.5 hours, Flight 1 hour
 
 ### Lesson Elements
 1. Aerodynamics of steep turns
@@ -47,6 +43,9 @@ Client must demonstrate the ability to choose an appropriate location, select a 
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > ±100'; ±10kts; bank±5°; hdg±10°
+
+### Resources
+- [[Private Pilot ACS]] Section V.A
 
 ### Required Logbook Phraseology
 [[FAR 61.107 PPL Flight Reqs]]:

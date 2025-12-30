@@ -2,22 +2,23 @@
 tags: [ppl, lesson]
 aliases: [PPL.7, SOLO.7, PPL2.2]
 ---
-### Objective
-Develop pre-solo knowledge of required preflight planning, VFR navigation, charts, airspace and weather minimums, and Part 91 operations.
+### Introduction
+We live in one of the most complicated airspaces in the nation.  Just getting in and out of PAO requires a solid understanding of airspaces.  But good news: once you know how to fly here, you can fly anywhere.
 
-### Resources
-- [[Private Pilot ACS]] Section I.E
-- [[VFR Chart Legend.pdf]]
-- [[KPAO Chart Supplement.pdf]]
-- [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
+Airspaces also really matter for trip-planning, where you're be required to know what permissions you need to traverse each airspace, and which ones to avoid.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+This lesson starts by looking at the six main types of airspace, specifically
+- Who is allowed into each one
+- Equipment requirements for each one, and
+- VFR visibility requirements for each one
 
-### Builds On
-[[PPL1.5 Towered Airport Operations]]
+Then we'll take a look at VFR charts and chart supplements to see what information we can learn from them. Finally, we'll cover Special Use Airspace (SUA), Special Flight Rules Areas (SFRA), and Temporary Flight Restrictions (TFR).
 
-### Schedule
-2 hours ground
+This lesson is a long one, because there are a lot of details to cover. But understanding each line and symbol on the VFR charts will give you the confidence to fly here, and anywhere.
+
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.5 Towered Airport Operations]]
+**Schedule:** 2 hours ground
 
 ### Lesson Elements
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts
@@ -40,6 +41,12 @@ Develop pre-solo knowledge of required preflight planning, VFR navigation, chart
 
 ### Completion Standards
 Client should demonstrate knowledge, to a level appropriate for solo flight, of required preflight planning, navigation charts, the national airspace system, and FARs.
+
+### Resources
+- [[Private Pilot ACS]] Section I.E
+- [[VFR Chart Legend.pdf]]
+- [[KPAO Chart Supplement.pdf]]
+- [Airspace Flashcards](https://www.nxtbook.com/nxtbooks/aopa/flashcards_2019/index.php#/p/1) from [[AOPA]]
 
 ### Required Homework
 - [ ] Memorize VFR weather minimums
