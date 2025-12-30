@@ -8,7 +8,7 @@ tags:
 #### 1. Fundamentals of Instructing
 - [[CFI1.1 Human Behavior]] and [[CFI1.2 Effective Communication]]
 - [[CFI1.3 Learning Process]]
-- [[Teaching Process]]
+- [[CFI1.4 Teaching Process]]
 - [[Student Evaluation and Assessment]]
 - [[Teaching in a Professional Environment]]
 - [[Teaching Risk Management and Accident Prevention]]
