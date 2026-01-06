@@ -9,25 +9,24 @@ aliases:
   - SOLO.1
   - PPL1.1
 ---
-### Objective
-Develop skills associated with preparation for safe flight, including preflight inspection, engine starting, taxiing, before takeoff check, tie-down and securing aircraft.
+### Introduction
+This is our first real lesson together.  We may not make it into the air this day.  We have some paperwork to do, and we're going to learn about everything we do on the ground to make it safely into the air.
 
-### Resources
-- [[POH]]
-- [[Private Pilot ACS]] Sections II.A, II.C, II.D, II.F, and XII.A
+Safety starts on the ground, by making sure the plane is airworthy.  This generally consists of two parts:
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+- Performing a complete inspection, as defined in the [[POH]] Chapter 4, to reveal any inoperative equipment, or any warning signs that indicate we shouldn't fly
+- Verifying that all required maintenance and inspections have taken place
 
-### Builds On
-N/A
+If the plane is safe to fly, then there's a procedure for starting the engine, a procedure for getting permission to taxi, and a procedure for testing the engine under power before flight. Today we'll run through all of these procedures, so they're familiar the first time we actually fly.
 
-### Schedule
-2.5 hours ground^[From Jack: I've found this lesson often takes a full 3 hours, without including engine start or runup. Perhaps this should be split into two lessons, or the taxi + runup portion added to PPL.2.], 0.5 hour flight (optional)
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Schedule:** 2.5 hours ground^[From Jack: I've found this lesson often takes a full 3 hours, without including engine start or runup. Perhaps this should be split into two lessons, or the taxi + runup portion added to PPL.2.], 0.5 hour flight (optional)
 
 ### Lesson Elements
 1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, [[TSA]] ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/[non-citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training)), student pilot cert)
 2. Syllabus overview
-3. Preflight
+3. The importance and the discipline of checklists
+4. Preflight
 	1. Ramp safety^[[Woman dies after backing into plane propeller while taking photos](https://www.youtube.com/watch?v=4wMeTCxZoDk)]
 	2. [[Adjusting Seat Height]]
 	3. Walk-around inspection, use of checklists^[[[Wes Irish]] has a nice set of photos [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/pre-flight-fails) for things he's noticed in preflights before]
@@ -41,12 +40,12 @@ N/A
 	8. Required documents on board - [[AR(R)OW]]
 	9. Flight deck organization
 	10. Overview of [[Aircraft Instruments]]
-4. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
-5. Engine start, including use of primer and propeller safety
+5. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
+6. Engine start, including use of primer and propeller safety
 	1. Cold start, hot start, flooded start
 	2. What to do if it doesn't start, especially in cold weather
 		1. [[Starter Duty Cycle]]
-6. Taxiing Procedure
+7. Taxiing Procedure
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
@@ -54,18 +53,18 @@ N/A
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways
-7. Before Takeoff Checks / Runup
+8. Before Takeoff Checks / Runup
 	1. Follow checklist as a do-list
 	2. [[FAR 91.107 Use of Seat Belts]]
 	3. [[Plans for Rejected Takeoff]] and [7 Tips For A Perfect Departure Briefing](https://www.boldmethod.com/blog/lists/2024/07/seven-tips-for-a-perfect-departure-briefing/) from [[Bold Method]]
-8. Flight
+9. Flight
 	1. Following roughly the [[PPL0.0 Optional Introductory or Demo Flight]] lesson
-9. Postflight Procedures
+10. Postflight Procedures
 	1. Tie-down technique
 	2. Securing aircraft
 	3. Quick look for any serious problems, like a flat tire or oil on the underbody
 	4. Documenting flight time and squawks/observations
-10. Common Errors
+11. Common Errors
 	1. Forgetting checklist items
 	2. Too much use of brakes! Dragging brakes while taxiing.
 	3. While taxiing, not reducing power before braking
@@ -86,6 +85,10 @@ N/A
 
 ### Completion Standards
 Learner must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
+
+### Resources
+- [[POH]]
+- [[Private Pilot ACS]] Sections II.A, II.C, II.D, II.F, and XII.A
 
 ### Required Homework
 - [ ] Read through [[POH]] Section 1, 2
