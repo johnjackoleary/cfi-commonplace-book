@@ -7,22 +7,12 @@ tags:
 aliases: [PPL.3, SOLO.3, PPL1.3]
 ---
 
-### Objective
-Develop initial knowledge of and sources for preflight briefings.
+### Introduction
+Pilots have a saying: "Better to be on the ground, wishing you were in the air, than in the air, wishing you were on the ground." To avoid making that mistake, a pilot always looks at themself, the airplane, the weather conditions, and other external factors before taking to the air. A flight close to the airport (practicing takeoffs, landings, and maneuvers) doesn't require as much analysis as a decision to travel to another airport. In this lesson we'll cover all the factors a pilot must consider when making a flight close to their home airport. Later ([[PPL4.5 Advanced Weather Briefs and Preflight Planning|PPL4.5]]) we'll cover the additional considerations for a cross-country flight.
 
-### Resources
-- [[POH]]/[[AFM]]
-- [[AC 91-92]]
-- [[Aviation Weather Handbook]]
-- [metar-taf.com](https://metar-taf.com/)
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-[[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-
-### Schedule
-3 hour ground
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+**Schedule:** 3 hour ground
 
 ### Lesson Elements
 > [!summary]- Expectations on Weather Briefs During Training
@@ -62,6 +52,12 @@ Develop initial knowledge of and sources for preflight briefings.
 
 ### Completion Standards
 Learner completes first pre-flight briefing, and is able to complete a briefing for all future flights.
+
+### Resources
+- [[POH]]/[[AFM]]
+- [[AC 91-92]]
+- [[Aviation Weather Handbook]]
+- [metar-taf.com](https://metar-taf.com/)
 
 ### Required Logbook Phraseology
 [[FAR 61.87 Student Solo Reqs]]: 
