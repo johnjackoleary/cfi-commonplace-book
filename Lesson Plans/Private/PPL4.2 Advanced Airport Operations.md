@@ -38,7 +38,8 @@ Ground 2 hours, 1 hour sim/flight
 	5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
 	6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
 	7. Read [[ForeFlight]] comments
-	8. Where to record this in XC planner
+	8. Check the airport's website for local procedures
+	9. Where to record this in XC planner
 2. En route, pick up the weather as soon as it's in range
 	1. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
 	2. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
@@ -63,6 +64,7 @@ Ground 2 hours, 1 hour sim/flight
 5. Make your radio calls
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios
+	3. If you don't know a local landmark or procedure, just say "unfamiliar"!
 6. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
 	1. Reminder of safety considerations from [[PPL3.2 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
 7. On the ground, be vigilant and use the radio to broadcast your movements
