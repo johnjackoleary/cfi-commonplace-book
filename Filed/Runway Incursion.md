@@ -1,6 +1,7 @@
 # Key Takeaways
 - Is the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.
-- Planning and preparation are the best mitigations for runway incursions
+- This is not as rare as you'd think. Some famous examples are below.
+- Planning, preparation, and situational awareness are the best mitigations for runway incursions. Trust but verify.
 
 # Details
 #### Example #1
