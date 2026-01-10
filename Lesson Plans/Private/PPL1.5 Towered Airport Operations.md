@@ -11,20 +11,10 @@ aliases:
 ---
 
 ### Objective
-Understand airport operations, including communications, traffic patterns, and light gun signals.
+Operating out of any airport, towered or untowered, requires an understanding of airport signage, standard taxi and pattern procedures, radio comms, and often some local knowledge you'll learn from a local. Since we're training out of towered airports, we cover those operations here, and will cover untowered operations in [[PPL4.2 Advanced Airport Operations|PPL4.2]].  New pilots often find towered airports more intimidating, because you have to talk to ATC. But once you learn the basics, you'll find that most radio work is following standard patterns that make it easier to both understand and reply to.
 
-### Resources
-- [[AIM 2]]
-- Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communication Examples|common radio calls]], and [[Light Gun Signals]]
-- [[Private Pilot ACS]] Section III.A
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-N/A
-
-### Schedule
-3 hours ground
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Schedule: 3 hours ground**
 
 ### Lesson Elements
 1. Airport Features
@@ -59,13 +49,13 @@ N/A
 	5. [[FAR 91.123 Compliance with ATC]]
 8. Taxiing Procedure
 	1. Receiving and recording [[ATIS]]
-	2. Airport and taxiway familiarization
+	2. Airport and taxiway familiarization - Have your taxi diagram out when taxiing
 	3. Taxi instructions/clearances
 	4. [[Runway Incursion]]
-6. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
-7. Departure and Arrival Procedures and Communication at Home Airport
+9. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
+10. Departure and Arrival Procedures and Communication at Home Airport
 	1. Listen to LiveATC for local radio calls
-8. Radio Issues
+11. Radio Issues
 	1. Stuck microphones -- how to detect, how to respond
 	2. [[Light Gun Signals]]
 		1. Example
@@ -74,13 +64,18 @@ N/A
 		2. Debugging common radio issues (volume low, cable disconnect)
 		3. Study and memorize the signals
 		4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
-9. Common Errors
+12. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not [[scanning for traffic]], or keeping traffic to follow in sight
 
 ### Completion Standards
 Learner must demonstrate good radio communications and etiquette as specified in the AIM, understand the training airport ground environment, and how to use light signals in case of radio/electrical failure.
+
+### Resources
+- [[AIM 2]]
+- Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communication Examples|common radio calls]], and [[Light Gun Signals]]
+- [[Private Pilot ACS]] Section III.A
 
 ### Required Logbook Phraseology
 [[FAR 61.87 Student Solo Reqs]]: 
