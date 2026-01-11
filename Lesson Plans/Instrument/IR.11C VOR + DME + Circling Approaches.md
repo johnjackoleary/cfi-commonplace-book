@@ -47,7 +47,7 @@ Ground 1 hour, simulator 2 hours
 #### Sim Activity
 1. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from EXUPY using GPS
 2. [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) from JEBNO without GPS
-3. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from JEBNO
+3. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from JEBNO, CTL
 
 ### Completion Standards
 Student must demonstrate proficiency at flying non-precision approaches to ACS standards to landing, including circling approaches, and missed approach procedures.
