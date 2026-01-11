@@ -86,16 +86,6 @@ Learner must demonstrate good radio communications and etiquette as specified in
 - Handouts for [[KPAO Airport Diagram.pdf|KPAO taxiways]], [[KPAO Chart Supplement.pdf|Chart Supplements page]], [[Tower Radio Communication Examples|common radio calls]], and [[Light Gun Signals]]
 - [[Private Pilot ACS]] Section III.A
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(6) Airport traffic patterns, including entry and departure procedures
-
-[[FAR 61.105 PPL Knowledge Reqs]]:
-- (b)(5) Radio communication procedures
-
-[[FAR 61.107 PPL Flight Reqs]]:
-- (b)(1)(iii) Airport and seaplane base operations
-
 ### Required Homework
 - [ ] Memorize [[Phonetic Alphabet]] -- consider singing the alphabet while washing hands, or practicing license plates on drive
 - [ ] Memorize training airport frequencies

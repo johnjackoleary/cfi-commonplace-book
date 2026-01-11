@@ -103,13 +103,6 @@ Learner must be able to demonstrate power-on stalls, to ACS standards. The clien
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure.
 
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(10) Stall entries from various flight attitudes and power combinations with recovery initiated at the first indication of a stall, and recovery from a full stall^[Also covered in [[PPL2.1 Slow Flight and Power-Off Stalls]]]
-
-[[FAR 61.105 PPL Knowledge Reqs]]
-- (b)(11) Stall awareness, spin entry, spins, and spin recovery techniques for the airplane and glider category ratings
-
 ### Required Homework
 None
  

@@ -50,9 +50,6 @@ Ground 0.5 hours
 ### Completion Standards
 Learner understands scope and flow of XC lessons.
 
-### Required Logbook Phraseology
-None
-
 ### Required Homework
 - [ ] Purchase items from [[PPL.C When to Acquire Various Equipment]]
 

@@ -58,13 +58,6 @@ Client must demonstrate basic attitude instrument flying skills, to ACS standard
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > ±200', heading ±20°, airspeed ±10 knots
 
-### Required Logbook Phraseology
-[[FAR 61.93 Solo XC Reqs]]:
-- (e)(12) Control and maneuvering solely by reference to flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives
-
-[[FAR 61.107 PPL Flight Reqs]]
-- (b)(1)(ix) Basic instrument maneuvers
-
 ### Required Homework
  None
 

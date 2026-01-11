@@ -101,14 +101,6 @@ Learner must become proficient at flying stabilized approaches to landing, with 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Land within 400' of specified point; parallel, on centerline, nose up, no drift
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(3) Landings^[Takeoffs covered in [[PPL1.4 Normal and Crosswind Takeoffs and Climbs]]], including normal and crosswind
-- (d)(7) Collision avoidance, windshear avoidance, and wake turbulence avoidance
-
-[[FAR 61.107 PPL Flight Reqs]]
-- (b)(1)(iv) Takeoffs, landings, and go-arounds
-
 ### Required Homework
 - [ ] Read [[FAA P-8740-40 Wind Shear]]
 - [ ] Steady progress on ground school

@@ -72,10 +72,6 @@ Client should be able to use multiple means to identify location, and to plan ro
 > - promptly divert
 > - alt ±200'; hdg ±15°
 
-### Required Logbook Phraseology
-[[FAR 61.93 Solo XC Reqs]]:
-- (e)(4) Emergency procedures^[Also in [[PPL5.3 Emergency Operations]]]
-
 ### Required Homework
 - [ ] Schedule pre-solo xc phase check, if required
 
