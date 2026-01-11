@@ -41,10 +41,6 @@ Ground 1 hours
 ### Completion Standards
 Learner completes a full navlog for a cross-country trip, and makes a wise and informed go/no-go decision about that trip.
 
-### Required Logbook Phraseology
-For [[FAR 61.105 PPL Knowledge Reqs]]:
-- (b)(12) Aeronautical decision making and judgment
-
 ### Required Homework
 - [ ]  Create your [[personal minimums]]
 - [ ]  Watch a few VFR-into-IMC videos such as [this one](https://www.youtube.com/watch?v=L6dtOQzHbZU) or [this one](https://www.youtube.com/watch?v=OPM4yBwp7_Q).

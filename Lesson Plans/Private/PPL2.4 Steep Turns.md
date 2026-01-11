@@ -47,10 +47,6 @@ Client must demonstrate the ability to choose an appropriate location, select a 
 ### Resources
 - [[Private Pilot ACS]] Section V.A
 
-### Required Logbook Phraseology
-[[FAR 61.107 PPL Flight Reqs]]:
-- (b)(1)(v) Performance maneuvers
-
 ### Required Homework
  None
  

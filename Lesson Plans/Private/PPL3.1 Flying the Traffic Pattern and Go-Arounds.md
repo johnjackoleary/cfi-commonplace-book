@@ -153,10 +153,6 @@ Client must demonstrate proficiency at planning and flying pattern approaches an
 > - Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots. 
 > - For go-around, apply takeoff power immediately and transition to climb pitch attitude for [[Vx]] or [[Vx]] as appropriate +10/-5 knots.
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(15) Go-arounds
-
 ### Required Homework
 - [ ] Memorize power settings/airspeeds for pattern
 - [ ] Read Chart Supplement for home airport

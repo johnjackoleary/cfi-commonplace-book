@@ -59,13 +59,6 @@ Learner completes first pre-flight briefing, and is able to complete a briefing 
 - [[Aviation Weather Handbook]]
 - [metar-taf.com](https://metar-taf.com/)
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(1) Proper flight preparation procedures, including preflight planning and preparation...^[remaining items covered in [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]]
-
-[[FAR 61.107 PPL Flight Reqs]]
-- (b)(1)(i) Preflight preparation
-
 ### Required Homework
 - [ ] Start using [1800wxbrief.com](https://www.1800wxbrief.com) for pre-flight briefings before every lesson
 
