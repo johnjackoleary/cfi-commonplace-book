@@ -39,7 +39,7 @@ Practice departing and arriving from the airport, select maneuvers from [[Privat
 		  I've heard the reason for choosing low RPM in cruise is to reduce energy loss to friction. I haven't been able to confirm this though,^[Let me know if you have a source for this! I've heard some POHs explicitly request highest RPM available] and treat it more like a memory aid.
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 	- [[MGW]] vs [[MRW]] vs [[MTOW]] vs [[MLW]]
-		- Club water ballasts for testing at MGW
+		- Consider water ballasts for testing at MGW
 - Preflight testing
 	- Careful with wrap-around covers to avoid touching the ground
 	- Inspecting the propeller blades and hub^[Great video from [[Hartzell]] can be found [here](https://youtu.be/WVfr_aexedg?t=361)]

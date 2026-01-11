@@ -12,7 +12,7 @@ maneuver-speed:
 speed-units: kts
 ---
 
-| **(model::PA32-301) Gaits** v0.0 | **Flaps** | **Pitch** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
+| **(model::PA32-301) Gaits** v0.1 | **Flaps** | **Pitch** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
 | -------------------------------- |:---------:|:---------:|:------:|:-------:|:-----------------------------:|
 | ⚠️ V<sub>G</sub>                 |           |           |        |  idle   |           (Vg::80)            |
 | 🛫 V<sub>R</sub>                 |           |           |        |   max   |           (Vr::80)            |
@@ -21,17 +21,16 @@ speed-units: kts
 | 🛫 V<sub>Climb</sub>             |           |           |        |   max   |              100              |
 | Cruise                           |           |           |        |         |                               |
 | Cruise Descent                   |           |           |        |         |                               |
-| 🌫️ IAF Inbound Level             |           |           |        |         |                               |
+| 🌫️ IAF Inbound Level             |           |           |   20   |  2400   |              110              |
 | 🌫️ IAF Inbound Descent           |           |           |        |         |                               |
-| 🌫️ Prec Appr to DA               |           |           |        |         |                               |
+| 🌫️ Prec Appr to DA               |           |           |  12.5  |   max   |              90               |
 | 🌫️ Non-Prec Appr to MDA          |           |           |        |         |                               |
-| 🛬 Downwind                      |           |           |        |         |                            |
-| 🛬 Abeam Numbers                 |           |           |        |         |              100               |
+| 🛬 Downwind                      |           |           |        |         |                               |
+| 🛬 Abeam Numbers                 |           |           |        |         |              100              |
 | 🛬 Base                          |           |           |        |         |              90               |
 | 🛬 Final                         |    40°    |           |        | as req  |          (Vref::80)           |
 | Short                            |           |           |        |         |         (Vshort::79)          |
-
-no flap speed = 90 (add 10 kts to approach speed)
+| ⚠️ No Flap                       |           |           |        |         |              90               | 
 
 <br>
 
