@@ -74,15 +74,6 @@ If the plane is safe to fly, then there's a procedure for starting the engine, a
 > [!note]
 > The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]].
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(1) Proper flight preparation procedures, including...^[remaining items covered in [[PPL1.3 Weather Briefs and Preflight Planning]]] powerplant operation, and aircraft systems
-- (d)(2) Taxiing or surface operations, including runups
-
-[[FAR 61.107 PPL Flight Reqs]]:
-- (b)(1)(ii) Preflight procedures
-- (b)(1)(xii) Postflight procedures
-
 ### Completion Standards
 Learner must become proficient at preflight aircraft inspection, engine start, before takeoff check, and post-flight procedures.
 

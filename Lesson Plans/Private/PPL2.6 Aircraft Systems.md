@@ -69,10 +69,6 @@ Learner understands the primary aircraft systems, how they work, and how they ca
 ### Completion Standards
 Learner understands impact of all preflight and runup checklist items, including which system is being tested and how.
 
-### Required Logbook Phraseology
-[[FAR 61.105 PPL Knowledge Reqs]]:
-- (b)(10)  (partial) Principles of... powerplants, and aircraft systems
-
 ### Required Homework
 None
 

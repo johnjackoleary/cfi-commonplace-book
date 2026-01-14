@@ -13,10 +13,10 @@ maneuver-speed:
 speed-units: kts
 ---
 
-| **(model::PA28-236) Gaits** v2.0 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
+| **(model::PA28-236) Gaits** v2.1 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
 | -------------------------------- |:---------:|:------:|:-------:|:-----------------------------:|
 | ⚠️ V<sub>G</sub>                 |           |        |  idle   |           (Vg::85)            |
-| 🛫 V<sub>R</sub>                 |           |  max   |   max   |           (Vr::60)            |
+| 🛫 V<sub>R</sub>                 |           |  max   |   max   |           (Vr::65)            |
 | V<sub>X</sub>                    |           |  max   |   max   |           (Vx::73)            |
 | 🛫 V<sub>Y</sub>                 |           |  max   |   max   |           (Vy::85)            |
 | 🛫 V<sub>Climb</sub>             |           |  max   |   max   |              100              |

@@ -55,11 +55,6 @@ Ground 3 hours, Flight as necessary
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
 
-### Required Logbook Phraseology
-For [[FAR 61.105 PPL Knowledge Reqs]]:
-- Applicable Federal Aviation Regulations of this chapter that relate to private pilot privileges, limitations, and flight operations
-- Accident reporting requirements of the National Transportation Safety Board
-
 ### Required Homework
 - [ ] Study and practice ([[PPL.D Suggestions for Solo Flight Practice]])
 - [ ] [[Part 91 Regulatory Review Assignment]]

@@ -61,10 +61,6 @@ Client must demonstrate smooth entry into a forward slip, with upwind wing down,
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > **Forward slip**: Land within 400' of specified point; parallel, on centerline, nose up, no drift
 
-### Required Logbook Phraseology
-[[FAR 61.87 Student Solo Reqs]]: 
-- (d)(14) Slips to a landing
-
 ### Required Homework
 None
 

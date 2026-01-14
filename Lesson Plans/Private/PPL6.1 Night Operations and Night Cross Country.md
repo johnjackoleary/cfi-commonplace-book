@@ -66,10 +66,7 @@ Ground 1 hour, flight 3 hours
 ### Completion Standards
 Client demonstrates the knowledge and skills to fly and navigate at night safely.
 
-### Required Logbook Phraseology
-[[FAR 61.107 PPL Flight Reqs]]:
-- (b)(1)(xi) Night operations
-
+### Required Experience
 > [!note] 
 > Specific night flight requirements from [[FAR 61.109 PPL Experience Reqs]]:
 > - 3 hours of night flight training in a single-engine airplane that includes—
