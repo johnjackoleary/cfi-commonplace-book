@@ -11,21 +11,14 @@ aliases:
   - SOLO.8
   - PPL2.1
 ---
-### Objective
-Develop knowledge, risk management and skills associated with maneuvers during [[slow flight]] and power-off stalls. Understand aerodynamics of slow flight, and develop ability to recognize and recover from impending stall.
+### Introduction
+Generally, we spend most of our time flying in a "cruise" configuration, with a low [[Angle of Attack]] (AOA). But airplanes perform in a significantly different way when the wing is at a high AOA. We experience this condition during the takeoff, landing, and go-around phases of flight, and it's important for a pilot to be comfortable with these flight characteristics, since some of the control inputs you need to make are counterintuitive. For this reason, we practice "[[slow flight|Slow Flight]]." This lesson covers the mechanics of slow flight, as well as its aerodynamics.
 
+This lesson also covers Power-Off Stalls, another maneuver you're required to demonstrate on your checkride. In a power-off stall, we will exceed the critical angle of attack, and feel the nose of the airplane sag or drop. This maneuver will teach us to recognize the signs of an impending stall, as well as the simple procedure to recover from one.
 
-### Resources
-- [[Private Pilot ACS]] Section VII.A and VII.B
-- [[POH]]
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-[[PPL1.2 Four Fundamentals of Flight]]
-
-### Schedule
-1.5 hours ground, 1.5 hours flight
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
+**Schedule:** 1.5 hours ground, 1.5 hours flight
 
 ### Lesson Elements
 1. What is slow flight? Why do we practice this?
@@ -117,6 +110,10 @@ Client must be able to demonstrate power-off stalls, to ACS standards.
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure
+
+### Resources
+- [[Private Pilot ACS]] Section VII.A and VII.B
+- [[POH]]
 
 ### Required Homework
  None

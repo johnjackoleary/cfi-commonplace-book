@@ -10,7 +10,7 @@ aliases:
   - PPL1.5
 ---
 
-### Objective
+### Introduction
 Operating out of any airport, towered or untowered, requires an understanding of airport signage, standard taxi and pattern procedures, radio comms, and often some local knowledge you'll learn from a local. Since we're training out of towered airports, we cover those operations here, and will cover untowered operations in [[PPL4.2 Advanced Airport Operations|PPL4.2]].  New pilots often find towered airports more intimidating, because you have to talk to ATC. But once you learn the basics, you'll find that most radio work is following standard patterns. To make progress, learn the patterns so you know what to expect.  Then the information will be easier to catch, and anything unusual will stand out immediately.
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]

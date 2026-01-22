@@ -11,22 +11,14 @@ aliases:
   - SOLO.11
   - PPL2.3
 ---
-### Objective
-Develop knowledge, risk management, and skills associated with power-on stalls and spins. Understand flight situations where unintentional spins may occur, and procedures for recovery from unintentional spins.
+### Introduction
+Stalls are normally to be avoided during routine flight.  But we practice them so we can be aware of the signs of impending stall, know how to safely recover (a stall recovery is quite similar to a go-around), and understand the aerodynamics that are at work. In [[PPL2.1 Slow Flight and Power-Off Stalls|lesson 2.1]] we covered one type of stall, the "power-off stall." Now we're talking about a "power-on stall", which is a stall while climbing under power. Both types of stalls need to be demonstrated on your checkride.
 
-### Resources
-- [[Private Pilot ACS]] Sections VII.C and VII.D
-- [[POH]]
-- [[AC 61-67]]
-- [[General Aviation Pilot Stall Awareness Training Study]]
+Additionally we'll be talking about spins. You are not required to demonstrate a spin, and we won't actually practice them, but it's important to understand flight situations where unintentional spins may occur, and the procedure for recovery.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-[[PPL2.1 Slow Flight and Power-Off Stalls]]
-
-### Schedule
-1 hour ground, 2 hour flight, with practice on multiple flights
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL2.1 Slow Flight and Power-Off Stalls]]
+**Schedule:** 1 hour ground, 2 hour flight, with practice on multiple flights
 
 ### Lesson Elements
 
@@ -102,6 +94,11 @@ Learner must be able to demonstrate power-on stalls, to ACS standards. The clien
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure.
 
+### Resources
+- [[Private Pilot ACS]] Sections VII.C and VII.D
+- [[POH]]
+- [[AC 61-67]]
+- [[General Aviation Pilot Stall Awareness Training Study]]
 
 ### Required Homework
 None
