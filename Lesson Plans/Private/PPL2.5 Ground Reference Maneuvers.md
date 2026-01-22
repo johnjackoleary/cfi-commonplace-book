@@ -1,20 +1,15 @@
 ---
-tags: [ppl, lesson], maneuver
+tags: [ppl, lesson, maneuver]
 aliases: [PPL.10, SOLO.10, PPL2.5]
 ---
-### Objective
-Develop risk management and skills associated with ground reference maneuvers, including rectangular patterns, S-turns, and turns around a point.
+### Introduction
+In this lesson we'll learn to fly three important maneuvers: rectangular patterns, S-turns, and turns around a point. Collectively, these are known as Ground Reference Maneuvers. These are maneuvers that we demonstrate at relatively low altitude (600'-1000' AGL) while maintaining a fixed distance or relationship from landmarks on the ground.
 
-### Resources
-- [[Private Pilot ACS]] Section V.B
+These maneuvers are designed to demonstrate your command of the aircraft, and require the ability to compensate for wind while maintaining a desired course.  You'll use these skills to help fly a correct traffic pattern, and to maintain the desired course during cross-country flight. And of course, you'll need to demonstrate them on the checkride.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-[[PPL1.2 Four Fundamentals of Flight]]
-
-### Schedule
-1 hour ground, 2 hours flight
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
+**Schedule:** 1 hour ground, 2 hours flight
 
 ### CFI Equipment
 GPS/Sentry/ADS-B In
@@ -47,10 +42,10 @@ GPS/Sentry/ADS-B In
 		5. This maneuver simulates flying the traffic pattern
 	2. Turns Around a Point![[Turns Around a Point.jpeg]]
 		1. Select suitable reference
-		3. Enter downwind, 1/4-1/2mi from reference
-		4. Tailwind: Steeper bank; Headwind: Shallower bank
-		5. Note sarting point
-		6. Use 4 points along circle to help maintain constant radius
+		2. Enter downwind, 1/4-1/2mi from reference
+		3. Tailwind: Steeper bank; Headwind: Shallower bank
+		4. Note sarting point
+		5. Use 4 points along circle to help maintain constant radius
 	3. S-Turns![[S-Turns.jpeg]]
 		1. Select suitable reference, perpendicular to wind
 		2. Enter downwind
@@ -71,6 +66,9 @@ Client must demonstrate the ability to choose an appropriate location, select a 
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > ±100'; ±10kts; constant radius
+
+### Resources
+- [[Private Pilot ACS]] Section V.B
 
 ### Required Homework
 None
