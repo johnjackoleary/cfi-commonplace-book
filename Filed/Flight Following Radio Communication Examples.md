@@ -1,5 +1,5 @@
 
-#### Picking up Flight Following En Route:
+#### Picking up Flight Following En Route
 
 | ATC | You |
 |---|---|
@@ -10,7 +10,7 @@
 
 [^1]: But how do you find the frequency for ATC in your area, if you're not already talking to them?  Some frequencies you'll just memorize over time, like 125.35 over the Livermore Valley.  But another trick is to pull up the AF/D for the closest airport, and see what approach/departure frequencies are listed.  If you try one of those, you'll either be right, or they'll refer you to the right one.
 
-#### Controller-to-controller handoffs:
+#### Controller-to-Controller Handoffs
 
 | ATC  | You  |
 |---|---|

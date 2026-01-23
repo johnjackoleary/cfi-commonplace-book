@@ -1,5 +1,7 @@
 ---
-tags: [mountain, lesson]
+tags:
+  - mountain
+  - lesson
 ---
 ### Objective
 Background knowledge required for safe mountain flying.
@@ -92,6 +94,8 @@ Background knowledge required for safe mountain flying.
 			2. Winter
 				1. Survival and options for emergency landings
 				2. [[Ice Hazards and Aircraft Icing]]
+				3. > [!youtube] Published by [[Air Safety Institute]]
+				> ![](https://www.youtube.com/watch?v=r8aYhNjOOiE)
 		4. Wx information
 			1. [[Weather Brief]]
 			2. [[Area Forecast Discussion]]
