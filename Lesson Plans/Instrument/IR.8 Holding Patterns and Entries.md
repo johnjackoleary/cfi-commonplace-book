@@ -12,6 +12,7 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 - [[POH]]/[[AFM]]
 - GPS manual
 - [Practice problems](https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141) from thebackseatpilot.com
+- [Pilot's Cafe Trainer App](https://www.pilotscafe.com/hold-trainer/)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
