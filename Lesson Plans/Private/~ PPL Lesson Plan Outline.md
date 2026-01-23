@@ -75,6 +75,9 @@ tags:
 [[PPL.E Suggestions for XC Activities and Destinations]]
 [[PPL.F Beyond Your Private Pilot]]
 
+#### Logbook Phraseology
+[[~ PPL Required Logbook Phraseology]]
+
 ### Blocks of Learning
 ![[~ PPL Blocks of Learning.png]]
 > [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on October 31, 2024.
