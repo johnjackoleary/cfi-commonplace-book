@@ -5,23 +5,14 @@ tags:
   - ir
   - lesson
 ---
-### Objective
-Develop understanding of IFR flight training process, and detailed knowledge of instrument systems and pre-flight checks.
+### Introduction
+Instrument flying requires a strong foundation of aviation knowledge. Concepts and procedures already learned for VFR flying become more critical when dealing with [[IMC]].
 
-> [!note]
-> This lesson is designed as both an introduction to [[IFR]] training and an in-depth review of instrument systems and pre-flight likely covered in [[PPL]] training.
+To set up for success, this lesson is an in-depth review of instrument systems and pre-flight, much of which was likely covered in [[PPL]] training. It is additionally meant to explain the [[IFR]] flight training process and requirements.
 
-### Resources
-- [[IR.A Instrument Rating Flight Experience Requirements]]
-- [[POH]]/[[AFM]] 
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
-
-### Builds On
-[[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-
-### Schedule
-Ground 1-3 hours, depending on recall from [[PPL]]
+**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Builds On:** [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+**Schedule:** Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Lesson Elements
 1. Overview of [[IFR]] flight training process, syllabus overview
@@ -94,9 +85,6 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.
-
-### Required Logbook Phraseology
-None
 
 ### Required Homework
 - [ ] TSA, as needed

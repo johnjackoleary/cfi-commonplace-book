@@ -1,0 +1,4 @@
+| Lesson                                                           | [[FAR 61.65 Instrument Rating Reqs\|61.65(b) Knowledge]] | [[FAR 61.65 Instrument Rating Reqs\|61.65(c) Flight]] |
+| ---------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- |
+| [[IR.1 Introduction and Instrument Systems\|IR.1]]               |                                                          |                                                       |
+| [[IR.2 Instrument Scan, Basic Attitude Instrument Flight\|IR.2]] |                                                          | Preflight procedures; Postflight procedures; Preflight preparation                                                      |

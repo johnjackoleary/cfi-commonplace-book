@@ -43,6 +43,9 @@ tags:
 [[IR.E Sample Instrument Approach Circuits for Bay Area]]
 [[IR.F Beyond Your Instrument Rating]]
 
+#### Logbook Phraseology
+[[~ IR Required Logbook Phraseology]]
+
 ### Blocks of Learning
 ![[~ IR Blocks of Learning.png]]
 > [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Sep 24, 2025.
