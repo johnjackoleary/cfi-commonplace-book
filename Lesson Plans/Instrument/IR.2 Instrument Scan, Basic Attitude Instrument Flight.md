@@ -5,19 +5,17 @@ tags:
   - ir
   - lesson
 ---
-### Objective
-Understand and practice instrument scan procedures, instrument interpretation, and common errors in case of system failure. 
+### Introduction
+Instrument flying relies on three fundamentals, listed in order of importance: Cross Check, Instrument Interpretation, and Aircraft Control. This lesson focuses on one of two methods used for effective instrument flight. 
+
+Much as with VFR flying, we use the [[Maneuver - Four Fundamentals|four fundamentals]] as a backbone for all other stages of flying. Mastering these lays the groundwork for future instrument flying.
+.
+**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Builds On:** [[IR.1 Introduction and Instrument Systems]]
+**Schedule:** Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Resources
 - Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[IFH]] such as [[Rectangular Scan.jpeg]])
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
-
-### Builds On
-[[IR.1 Introduction and Instrument Systems]]
-
-### Schedule
-Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Lesson Elements
 1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA|CIA]] as a memory aid)
@@ -56,12 +54,5 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 
 ### Completion Standards
 Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Preflight procedures
-- Postflight procedures
-- Preflight preparation
-
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
