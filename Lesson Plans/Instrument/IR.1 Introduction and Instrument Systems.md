@@ -27,8 +27,9 @@ To set up for success, this lesson is an in-depth review of instrument systems a
 		2. Part of training can be done with an instructor in an [[AATD]] like the PFC1000s at [[WVFC]]
 	4. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	5. Recency of experience [[FAR 61.57 Recent Flight Experience]] and [[FAR 61.51 Pilot Logbooks]]
-		1. Logging [[IAP]], what’s required  ([[InFO 15012]])
-		2. > [!warning] For future commercial pilots
+		1. [[6 HITS]]
+		2. Logging [[IAP]], what’s required  ([[InFO 15012]])
+		3. > [!warning] For future commercial pilots
 		   > This time does NOT automatically satisfy the required instrument training for the commercial certificate, unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](d) and also [[FAR 61.129 CPL Experience Reqs|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.
 	6. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
 	7. Risk avoidance and management 

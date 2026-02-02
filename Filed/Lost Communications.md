@@ -1,5 +1,7 @@
 # Key Takeaways
-![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
+- [[FAR 91.185 Lost Comms|91.185]] defines the process to follow if you loss comms
+	- In VMC, continue the flight under VFR and land as soon as practicable
+	- In IMC, use AVEF, MEA, and know when to leave your [[clearance limit]]
 
 # Details
 1. [[Squawk 7600]]
@@ -14,18 +16,20 @@
 4. In [[IMC]]: 
 	1. For Route, use mnemonic [[AVE-F|AVE-F]] – Assigned, Vectored, Expected, then Filed (in that order of priority) 
 	2. For Altitude on each route segment, use highest of mnemonic [[MEA (Lost Comms)]] – Minimum (MEA), Expected, Assigned 
-	3. Leave Clearance Limit^[See also [[How Far Can You Go]]]
+	3. Leave [[Clearance Limit]]^[See also [[How Far Can You Go]]]
 		1. When at fix from which approach begins, leave at EFC time if given, otherwise commence descent as close as possible to ETA
 		2. When not at a fix from which approach begins, leave clearance limit at the EFC time if received and proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA. Otherwise upon arrival over the clearance limit, proceed to a fix from which an approach begins; commence descent or descent and approach as close as possible to the ETA
 
+![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
+
 # Additional Resources
-- [[AIM 6]]-2
+- [[AIM 6]]-4
 - [Lost Communications Procedures | FAR 91.185](https://www.youtube.com/watch?v=RNVh1QtHrQs) - a really good practical example from [[FlightInsight]]
 - [[Lost Communication Procedure Practice]]
 - Video of [Real Lost Comms in IMC](https://pilotworkshop.com/lost-comm-imc-video/)
 - [[IFR Radio Comm Part 1 General.jpeg]] and [[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 - [[FAR 91.185 Lost Comms]]
-- [[Turri 2011]], [[Turri 2011]], [[Van West 2018]]
+- [[Turri 2011]], [[Van West 2018]]
 - [Handling A Radio Failure In IMC](https://www.boldmethod.com/learn-to-fly/regulations/handling-a-radio-failure-in-imc/) from [[Bold Method]]
 
 #concept
