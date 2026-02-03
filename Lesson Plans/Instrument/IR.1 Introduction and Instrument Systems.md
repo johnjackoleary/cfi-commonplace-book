@@ -6,9 +6,9 @@ tags:
   - lesson
 ---
 ### Introduction
-Instrument flying requires a strong foundation of aviation knowledge. Concepts and procedures already learned for VFR flying become more critical when dealing with [[IMC]].
+Flying on instruments takes everything you've learned so far, and adds a whole new world of procedures and processes. You may have heard IFR described as the other 50% of aviation -- while the flying fundamentals and systems are familiar, the new knowledge required is comparable in size to everything you learned for PPL.
 
-To set up for success, this lesson is an in-depth review of instrument systems and pre-flight, much of which was likely covered in [[PPL]] training. It is additionally meant to explain the [[IFR]] flight training process and requirements.
+To set us up for training success, we'll start with a review of the instrument systems and pre-flight procedures you learned in [[PPL]] training. We'll also cover the [[IFR]] flight training process and requirements, so you know what is coming in the future.
 
 **Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
 **Builds On:** [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]

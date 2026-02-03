@@ -27,6 +27,8 @@
 > ![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 
 ## Expanded Procedures
+#todo :: Complete this section
+
 ### Choosing a Route
 
 ### Choosing an Altitude

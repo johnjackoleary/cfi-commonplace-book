@@ -6,9 +6,9 @@ tags:
   - lesson
 ---
 ### Introduction
-Instrument flying relies on three fundamentals, listed in order of importance: Cross Check, Instrument Interpretation, and Aircraft Control. This lesson focuses on one of two methods used for effective instrument flight. 
+The heart of instrument flying is the "instrument scan." Without visual references outside the cockpit, the instrument pilot must constantly refer to their instruments to be sure the airplane is maintaining the desired heading and altitude. Even a 5-second distraction can leave the plane in an undesired attitude. 
 
-Much as with VFR flying, we use the [[Maneuver - Four Fundamentals|four fundamentals]] as a backbone for all other stages of flying. Mastering these lays the groundwork for future instrument flying.
+So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll discuss several instrument scan techniques, and in the air we'll practice, with the goal of it becoming second nature.
 .
 **Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
 **Builds On:** [[IR.1 Introduction and Instrument Systems]]
