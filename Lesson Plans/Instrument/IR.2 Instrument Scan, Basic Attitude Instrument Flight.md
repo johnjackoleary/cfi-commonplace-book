@@ -5,19 +5,17 @@ tags:
   - ir
   - lesson
 ---
-### Objective
-Understand and practice instrument scan procedures, instrument interpretation, and common errors in case of system failure. 
+### Introduction
+The heart of instrument flying is the "instrument scan." Without visual references outside the cockpit, the instrument pilot must constantly refer to their instruments to be sure the airplane is maintaining the desired heading and altitude. Even a 5-second distraction can leave the plane in an undesired attitude. 
+
+So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll discuss several instrument scan techniques, and in the air we'll practice, with the goal of it becoming second nature.
+.
+**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Builds On:** [[IR.1 Introduction and Instrument Systems]]
+**Schedule:** Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Resources
 - Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[IFH]] such as [[Rectangular Scan.jpeg]])
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
-
-### Builds On
-[[IR.1 Introduction and Instrument Systems]]
-
-### Schedule
-Ground 1 hour; simulator and/or airplane, 1.5 hours 
 
 ### Lesson Elements
 1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA|CIA]] as a memory aid)
@@ -56,12 +54,5 @@ Ground 1 hour; simulator and/or airplane, 1.5 hours
 
 ### Completion Standards
 Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Preflight procedures
-- Postflight procedures
-- Preflight preparation
-
 
 *Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*

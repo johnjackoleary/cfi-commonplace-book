@@ -46,7 +46,7 @@ Hood or foggles
 		2. Reduce power - Level Wings - Pitch Up
 5. Common Errors
 	1. Failure to recognize unusual attitude
-	2. Dependency on sense other than instrument indications
+	2. Dependency on senses other than instrument indications
 	3. Failure to use proper recovery sequence
 
 > [!tip] Power Through Blue; Power Down Brown

@@ -5,23 +5,14 @@ tags:
   - ir
   - lesson
 ---
-### Objective
-Develop understanding of IFR flight training process, and detailed knowledge of instrument systems and pre-flight checks.
+### Introduction
+Flying on instruments takes everything you've learned so far, and adds a whole new world of procedures and processes. You may have heard IFR described as the other 50% of aviation -- while the flying fundamentals and systems are familiar, the new knowledge required is comparable in size to everything you learned for PPL.
 
-> [!note]
-> This lesson is designed as both an introduction to [[IFR]] training and an in-depth review of instrument systems and pre-flight likely covered in [[PPL]] training.
+To set us up for training success, we'll start with a review of the instrument systems and pre-flight procedures you learned in [[PPL]] training. We'll also cover the [[IFR]] flight training process and requirements, so you know what is coming in the future.
 
-### Resources
-- [[IR.A Instrument Rating Flight Experience Requirements]]
-- [[POH]]/[[AFM]] 
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
-
-### Builds On
-[[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-
-### Schedule
-Ground 1-3 hours, depending on recall from [[PPL]]
+**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Builds On:** [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
+**Schedule:** Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Lesson Elements
 1. Overview of [[IFR]] flight training process, syllabus overview
@@ -36,8 +27,9 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 		2. Part of training can be done with an instructor in an [[AATD]] like the PFC1000s at [[WVFC]]
 	4. Airman Certification Standards ([[Instrument ACS]]) and Knowledge (written) test
 	5. Recency of experience [[FAR 61.57 Recent Flight Experience]] and [[FAR 61.51 Pilot Logbooks]]
-		1. Logging [[IAP]], what’s required  ([[InFO 15012]])
-		2. > [!warning] For future commercial pilots
+		1. [[6 HITS]]
+		2. Logging [[IAP]], what’s required  ([[InFO 15012]])
+		3. > [!warning] For future commercial pilots
 		   > This time does NOT automatically satisfy the required instrument training for the commercial certificate, unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](d) and also [[FAR 61.129 CPL Experience Reqs|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.
 	6. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
 	7. Risk avoidance and management 
@@ -94,9 +86,6 @@ Ground 1-3 hours, depending on recall from [[PPL]]
 
 ### Completion Standards
 Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.
-
-### Required Logbook Phraseology
-None
 
 ### Required Homework
 - [ ] TSA, as needed
