@@ -34,13 +34,13 @@
 > Holding "on" a radial gives you the outbound heading, but you'll be flying inbound on it's reciprocal, the inbound course
 
 ## Hold Entries
-| ![[Holding Pattern Entry Procedures.png]] |
-| :-----------------------------------------: |
-| *(a) Parallel, (b) Teardrop, (c) Direct*                                          |
+| ![[Holding Pattern Entry Procedures.png]] | 
+|:-----------------------------------------:|
+| *(a) Parallel, (b) Teardrop, (c) Direct*  |
 
 1. Types
-	1. Parallel: first turn direction is OPPOSITE of hold turns, fly for 1min, turn back to intercept inbound
-		1. VOR vs GPS turning to outbound
+	1. Parallel: first heading to parallel the holding course outbound on the nonholding side, fly for 1min, turn back more than 180° to intercept inbound^[Jack likes to use 180°+45°=225° for intercept, but less may also work]
+		1. Turning to outbound over a VOR may necessitate overshooting the navaid and just flying parallel to the course, while GPS may allow tracking the actual course. Both are ok.
 	2. Teardrop: turn with 30° offset, into the holding side, from outbound leg
 	3. Direct: turn to outbound heading
 2. Tips for determining hold entry
@@ -61,12 +61,18 @@
 	4. Method 4: 'Draw' the entry on the heading indicator
 		1. 'Draw' inbound leg from radial to center of aircraft on [[HI]], so the holding fix is where the airplane is.
 		2. Then build out rest of hold.
-	5. Method 5: Draw the entry in a notebook
+	5. Method 5: Quick math
+		1. Might be most useful for the [[Dot Game for Holds|Dot Game]]
+		2. Visualize method 1 or 2 above to determine most likely sector.
+		3. Add or subtract^[depending on left or right turns] from your heading, either 70° or 110° if teardrop or parallel respectively,
+		4. If the outbound course is in the range for teardrop or parallel, then use that. If not, it's direct.
+	6. Method 6: Draw the entry in a notebook
 		1. Generally too slow to do in flight
-	6. Method 6: [[MFD]] or [[EFB]] plotting
+	7. Method 7: [[MFD]] or [[EFB]] plotting
 		1. Learn to program them efficiently to provide a backup on one of the above
+		2. [[ForeFlight]] example [here](https://foreflight.com/enhancements/hold-advisor)
 
-> [!tip] Though too slow for use in-flight (no time to draw things out), Sheppard Air has a [great video](https://www.sheppardair.com/stream/Holding_Video_2019web.mp4) explaining the backbone of these faster methods.
+> [!tip] Though too slow for use in-flight (no time to draw things out), Sheppard Air has a [great video](https://www.sheppardair.com/stream/Holding_Video_2019web.mp4) explaining the backbone to these methods.
 
 ## Flying the Hold
 1. Notify ATC of both^[See [[designated reporting point]] and [[MARVELOUS VFR C500]]]
@@ -77,7 +83,8 @@
 3. Crosswind correction during pattern
 	1. Determine cross-wind correction on inbound leg, and TRIPLE it on outbound leg ([[AIM 5]]-3-8)
 	2. Results in an avocado-esque shape
-	3. ![[Example Hold Wind Correction.jpeg]]^[Shows an initial direct entry without knowledge of the winds. While flying on the outbound heading, the student realized they had been blown outside the protected area and made a heading change to allow a turn inbound. The next two laps were learning the inbound and outbound headings.]
+	3. May need to fly shorter/longer on outbound leg to ensure a 1-minute inbound leg
+	4. ![[Example Hold Wind Correction.jpeg]]^[Shows an initial direct entry without knowledge of the winds. While flying on the outbound heading, the student realized they had been blown outside the protected area and made a heading change to allow a turn inbound. The next two laps were learning the inbound and outbound headings.]
 
 ## Clearances
 > [!tip] See [[Sample Holding Clearances]] for some examples
