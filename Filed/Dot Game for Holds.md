@@ -17,5 +17,4 @@ Given some scenario, what would ATC see you doing on their radar screen? And rem
 > [!example]- Flying northbound from WRING on V459: "Hold north-west at TTE on radial 230, left turns"
 > Current heading is 327, and outbound course is 230. Direct entry for our heading, since 230 is beyond the teardrop sector between 327 and 257. After crossing TTE, I'll turn left to 230, fly for 1 minute, then turn left again to the inbound heading 50. After reaching TTE, I'll make left turns with 1-minute legs.
 
-
 > [!tip] You can confirm your entry is correct by adding both a point before and holding fix on [[ForeFlight]], and [inputting the hold](https://foreflight.com/enhancements/hold-advisor) information.

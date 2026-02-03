@@ -1,6 +1,6 @@
 # Key Takeaways
-- Holds are used in various areas of IFR flying
-- Standard holds are left turns with 1 minute (green needle) or 4 nm (DME/GPS)
+- Holds are used in several areas of IFR flying
+- Standard holds are right turns with 1 minute (green needle) or 4 nm (DME/GPS) legs
 - Hold entries are either teardrop, parallel, or direct
 
 # Details
@@ -8,7 +8,7 @@
 1. Why Holds?
 	1. Traffic or weather
 	2. Keep aircraft in specified airspace awaiting clearance
-	3. For course reversal: [[HILPT]]
+	3. For course reversal ([[HILPT]]) or at the end of the missed approach
 2. Types of fixes:
 	1. VOR, intersection, VOR/DME, GPS waypoint
 	2. Published vs unpublished
@@ -21,7 +21,7 @@
 			1. If time is not specified, standard inbound leg is 1min below 14,000', 1.5min above. 
 		2. Some holds are distance-based, and require DME/GPS
 			1. Example: [KSPZ RNAV RWY 24](https://cfijack.com/latest-plate-redirect/?plate=09917r24.PDF)
-			2. Distance is measured diagonally. (extra info from IFR-Magazine)
+			2. Distance is measured diagonally. (Extra info in [GPS Holds](https://ifr-magazine.com/avionics/gps-holds/) from [[IFR Magazine]])
 	3. Turns: Standard Rate (3° per second)
 5. Maximum airspeeds in protected airspace
 	1. Slow to proper speed 3 min from hold
@@ -39,10 +39,10 @@
 | *(a) Parallel, (b) Teardrop, (c) Direct*                                          |
 
 1. Types
-	1. Parallel (first turn direction is OPPOSITE of hold turns, fly for 1min, turn back to intercept inbound)
+	1. Parallel: first turn direction is OPPOSITE of hold turns, fly for 1min, turn back to intercept inbound
 		1. VOR vs GPS turning to outbound
-	2. Teardrop (turn with 30° offset from outbound leg)
-	3. Direct (turn to outbound heading)
+	2. Teardrop: turn with 30° offset, into the holding side, from outbound leg
+	3. Direct: turn to outbound heading
 2. Tips for determining hold entry
 	1. Method 1: Cover top right/left with thumb, depending on right/left turns 
 		1. If outbound leg in that 70° section, **teardrop**.
