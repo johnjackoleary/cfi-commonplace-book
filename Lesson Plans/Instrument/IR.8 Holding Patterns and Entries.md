@@ -22,9 +22,13 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 
 
 ### Lesson Elements
-See [[Holding Procedures]]
-
-1. Common Errors
+1. [[Holding Procedures]]
+2. Practice
+	1. Write [[Sample Holding Clearances]]
+	2. [[Dinner Plate Holds Practice]]
+	3. [[Dot Game for Holds]]
+	4. https://practiceholds.com/
+3. Common Errors
 	1. Wasting fuel - use slow cruise or even max endurance speed if fuel is a factor
 	2. GPS confusion
 	3. Incorrect entry choice
