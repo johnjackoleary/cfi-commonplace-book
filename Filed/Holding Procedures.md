@@ -74,6 +74,9 @@
 
 > [!tip] Though too slow for use in-flight (no time to draw things out), Sheppard Air has a [great video](https://www.sheppardair.com/stream/Holding_Video_2019web.mp4) explaining the backbone to these methods.
 
+> [!youtube] Published by [[King Schools]]
+> ![](https://www.youtube.com/watch?v=KPNAOTnjbBg)
+
 ## Flying the Hold
 1. Notify ATC of both^[See [[designated reporting point]] and [[MARVELOUS VFR C500]]]
 	1. "time and altitude... upon reaching a holding fix", and 
