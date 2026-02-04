@@ -5,21 +5,15 @@ tags:
   - ir
   - lesson
 ---
-### Objective
-Develop proficiency in using [[SID]]s, [[STAR]]s, [[ODP]]s, and more. Understand takeoff minimums and required aircraft performance for Departure Procedures. 
+### Introduction
+So far, we've focused on getting from place to place with the en route structure and getting into an airport with an [[IAP]]. The last two puzzle pieces are safely leaving an airport and getting up to and down from the en route structure. Tools like [[ODP]]s and [[SID]]s allow us to leave with guaranteed obstacle clearance, and [[STAR]]s help us get from the airways down to the start of an approach.
 
-### Resources
-- [[TERPS]]
-- [[TPP]] Supplemental
+Although departure procedures are potent solutions to leaving in IMC, they require thoughtful application. Instrument pilots set personal minimums for departures to allow us to address for unexpected situations, such as needing to return to the airport. In operations other than [[Part 91]], these takeoff requirements are even regulatory.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
-
-### Builds On
-[[IR.10 Approach Charts and Procedures]]
-[[IR.9 Communications and Clearances]]
-
-### Schedule
-Ground 1.5 hours, flight 3 hours 
+**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Builds On:** [[IR.9 Communications and Clearances]], [[IR.10 Approach Charts and Procedures]]
+**Schedule:** Ground 1.5 hours, flight 3 hours 
+**Resources:** [[TERPS]], [[TPP]] Supplemental
 
 ### Lesson Elements
 1. Takeoff Minimums
