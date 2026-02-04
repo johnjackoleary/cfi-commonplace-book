@@ -57,15 +57,12 @@ After selecting our route, we select an altitude, ***per segment***, from whiche
 > [!tip] Finding Minimum Altitudes Off Airway
 > When off the airway, the minimum altitude for IFR is 1000' over terrain in non-mountainous areas and 2000' over terrain in mountainous areas.^[[[FAR 91.177 Minimum Altitudes for IFR]]] 
 > 
-> One way to estimate this altitude is look at your VFR chart for the segment, find the highest obstacle on the route, and add 1000' or 2000' (depending on where you are).
-> 
-> Another simple approach is using Profile view in ForeFlight with the two-finger pinch to determine the highest obstacle on a route.
-> 
-> The [[MSA]] for an approach is another reasonable option, once you're close enough.
-> 
-> The [[OROCA]], though tempting, is rarely a good option in mountainous areas because it can be significantly higher than required.^[Consider [V338 between LIN and HNW](https://skyvector.com/?ll=38.3522110786003,-120.93159485079757&chart=302&zoom=2&fpl=%20KSCK%20LIN%20V338%20HNW%20KPVF). The MEA is 5200, while the OROCA is 12700!]
+> 1. One way to estimate this altitude is look at your VFR chart for the segment, find the highest obstacle on the route, and add 1000' or 2000' (depending on where you are).
+> 2. Another simple approach is using Profile view in ForeFlight with the two-finger pinch ([[ForeFlight Highest Point.jpeg|image]]) to determine the highest obstacle on a route.
+> 3. The [[MSA]] for an approach is another reasonable option, once you're close enough.
+> 4. The [[OROCA]], though tempting, is rarely a good option in mountainous areas because it can be significantly higher than required.^[Consider [V338 between LIN and HNW](https://skyvector.com/?ll=38.3522110786003,-120.93159485079757&chart=302&zoom=2&fpl=%20KSCK%20LIN%20V338%20HNW%20KPVF). The MEA is 5200, while the OROCA is 12700!]
 
-> [!example]- On Airways
+> [!example]- On Airways Example
 > Flying from KAST to KALW, we are "Cleared to [KALW via AST3 departure, AST V112 PDT direct](https://skyvector.com/?ll=45.94121877629587,-120.8292846701371&chart=302&zoom=6&fpl=%20KAST%20AST%20V112%20PDT%20KALW), climb and maintain 3000', expect 5000' 5 minutes after departure." Almost immediately after takeoff, we lose our radio.
 > 
 > We are currently on the [[ODP]] from KAST ([AST3.AST](https://cfijack.com/latest-plate-redirect/?plate=00024ASTORIA.PDF)), which does not have specific lost comms procedures.
@@ -84,19 +81,74 @@ After selecting our route, we select an altitude, ***per segment***, from whiche
 > 6. LOAMS to PDT: M is 4100', E is 5000', A is 3000'. So after crossing LOAMS, descend to 5000'.
 > 7. PDT to KALW: M is 4100' on V536, E is 5000', A is 3000'. Maintain 5000' until reaching our [[clearance limit]].
 
-> [!example]- Off Airways
+> [!example]- Off Airways Example
+> Flying from KPAO to KJAQ, we are "Cleared to [KJAQ via 31 ODP, SJC V334 SUNOL LIN direct](https://skyvector.com/?ll=37.92036783985792,-121.45454406952925&chart=302&zoom=2&fpl=%20KPAO%20SJC%20V334%20SUNOL%20LIN%20KJAQ), climb and maintain 3000', expect 4000' 5 minutes after departure." Just after crossing SJC, about 3 minutes after departure, we lose our radio.
 > 
+> 1. The first segment is SJC to SUNOL. 
+> 	1. It is a victor airway, V334 with an MEA of 5000'. We have not yet hit 5 minutes for our expected time.
+> 	2. **Minimum Altitude** is 5000', **Expected** is not yet applicable, and **Assigned** is 3000'. 
+> 	3. 5000' is the highest of the three, so we climb to 5000'.
+> 2. Along V334, before reaching SUNOL, we hit 5 minutes after departure
+> 	1. **M** is still 5000', **E** is now applicable at 4000', and **A** is 3000'.
+> 	2. We are already at the highest of these three, 5000', so no altitude change is needed.
+> 3. Next segment is SUNOL to LIN
+> 	1. The [[MCA]] does not apply since we're not on V301 SE bound
+> 	2. This is an off-airway route in a [[Designated Mountainous Areas|mountainous areas]], so [[FAR 91.177 Minimum Altitudes for IFR|91.177]] requires 2000' clearance above the highest obstacle.
+> 	3. Let's look at four options for finding height (although in practice, almost always use 1 or 2):
+> 		1. Scanning the [[Sectional Highest Point.jpeg|obstacle/terrain height on a sectional]], we see windfarms up to 1970' and terrain colored to 2000'. 2000' is a reasonable highest obstacle, so a minimum altitude of 4000'.
+> 		2. Using ForeFlight, we get a more precise [[ForeFlight Highest Point.jpeg|highest obstacle in the 4nm corridor]] or [[ForeFlight Highest on Route.jpeg|highest terrain/obstacle on a route leg]] of 2411'. This gives a minimum altitude of ~4500'.
+> 		3. We're too far from the destination to use an MSA.
+> 		4. The [[OROCA]] near SUNOL is 6600', then 4900' near LIN. We could plausibly use this, but usually avoid it for reasons we'll see shortly.
+> 	4. In this case, let's use the ForeFlight minimum altitude of ~2500'+2000' = 4500'.
+> 	5. **M** is 4500', **E** is 4000', and **A** is 3000'. Crossing SUNOL, we'll descend to 4500'.
+> 4. Last, LIN to KJAQ
+> 	1. ForeFlight gives us the highest terrain of ~2300'.
+> 	2. M is 4300', E is 4000', A is 3000'. We descend to 4300'.
+^KPAO-to-KJAQ
 
-### Reaching Your Clearance Limit
+### Leaving Your Clearance Limit
+Once you've reached your [[clearance limit]], the next step depends on three questions:
+1. Is the clearance limit a fix from which an approach begins (an [[IAF]])?
+2. Did you receive an [[EFC]] time?
+3. Are you noticeably ahead of your filed or amended ETA?
 
-> [!example]
-> On our way to KSCK, ATC gives us the clearance: "cleared direct OXJEF, expect the [RNAV 29R](https://cfijack.com/latest-plate-redirect/?plate=00407R29R.PDF)". Then our radio fails.
+**In the vast majority of cases**, the answer to all three questions is no. Usually your clearance limit is the airport (not an IAF), you will not have an EFC time, and you will not be ahead of time.
+
+Therefore, in the vast majority of cases,
+> [!quote] From [[FAR 91.185 Lost Comms]]
+> \[L\]eave the clearance limit... upon arrival over the clearance limit, and proceed to a fix from which an approach begins and commence descent or descent and approach....
+
+Said more plainly, you will typically leave your clearance limit right after you arrive there, and head to any [[IAF]]. Once you reach the IAF, you will descend^[perhaps in a holding pattern or a spiral] to an altitude to start the approach, then begin the approach.
+
+> [!example]- Cleared to an airport, on schedule, no EFC
+> Continuing the example from [[#^KPAO-to-KJAQ|KPAO to KJAQ above]], we've just reached KJAQ at 4300'. KJAQ is not an [[IAF]], we do not have an [[EFC]], and we are on time.
 > 
-> We have an **assigned** route, direct, to our [[clearance limit]] of OXJEF. Reaching OXJEF
+> We next choose our preferred approach.^[This may be difficult without a radio to get the local weather.] We'll use the [KJAQ GPS 1](https://cfijack.com/latest-plate-redirect/?plate=09086G1.PDF).
+> 
+> After reaching KJAQ, we turn back to either [[IAF]]. HOYCO is closer and has an easier intercept angle, so we'll turn towards HOYCO still at 4300'.
+> 
+> After reaching HOYCO, we'll start a descent to the initial segment altitude of 4000' and begin the approach.
 
-## Examples
+For all other cases, it's helpful to use a flowchart. Feel free to carry a physical or digital one to reference if you ever need it!
+> [!summary] Leave Clearance Limit Flowchart
+> ![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
+
+
+> [!example]- Cleared to an [[IAF]], on schedule, no EFC
+> On our way to KSCK, 5nm east of OXJEF, ATC gives us the clearance: "cleared direct OXJEF, maintain 3000', expect the [RNAV 29R](https://cfijack.com/latest-plate-redirect/?plate=00407R29R.PDF)". Then our radio fails.
+> 
+> We have an **assigned** route, direct, to our [[clearance limit]] of OXJEF.
+> 
+> This approach is a [[TAA]], so we have those altitudes for Minimum Altitude. We do not have an expected altitude, but we've been assigned 3000'. We're 5nm east of OXJEF, so M is 2000', E is N/A, and A is 3000'. We'll hold 3000'.
+> 
+> Reaching OXJEF, we are not yet at our ETA (since we didn't fly all the way to the airport). We'll enter the published hold at 3000'.^[See [[Holding Procedures]] for how to hold when not given a holding clearance. If there's a published hold, we prefer that.] We'll start the descent and approach as close as possible to our ETA.
+
+## Additional Examples
 > [!youtube] [Lost Communications Procedures | FAR 91.185](https://www.youtube.com/watch?v=RNVh1QtHrQs) is a great practical example from [[FlightInsight]]
 > ![](https://www.youtube.com/watch?v=RNVh1QtHrQs)
+
+> [!example]
+> Several complete examples can be found in [[Lost Communication Procedure Practice]] from [[EAA]]
 
 ## Reality of Lost Comms
 There is a lot of debate about lost comms in a real flight. If it's an emergency, [[FAR 91.3 PIC Responsibility and Authority|91.3]] gives the pilot the authority to deviate from the rules to get down safely.

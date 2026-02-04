@@ -37,7 +37,7 @@ Ground 1.5 hours
 	3. Navaids
 	4. Q,T,V,J Routes, [[COP]]s, mileage
 	5. [[MEA]]s, [[MOCA]]s, [[OROCA]]s
-	6. Off-Route Obstacle Clearance (Mountainous/Non-Mountainous)
+	6. Off-Route Obstacle Clearance ([[Designated Mountainous Areas|Mountainous]]/Non-Mountainous)
 	7. [[MVA]], [[MIA]]
 	8. [[MCA]], [[MRA]]
 	9. Finding airport and [[ARTCC]] frequencies 
