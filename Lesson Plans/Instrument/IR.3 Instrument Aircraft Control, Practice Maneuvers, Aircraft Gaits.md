@@ -24,7 +24,15 @@ Simulator and/or airplane, 1.5 hours
 	3. Turns – standard rate (IFH 7-19) and steep turns (IFH 7-22) 
 	4. Constant rate climbs and descents 
 	5. Combinations of turns during other maneuvers (such as “Oscar Pattern”, shown next page) 
-	6. Simulated [[IFR]] flight example 
+2. Intercepting courses and approaches
+	1. Using GPS/DME or bearing pointers for identifying points along an approach
+	2. Calculating FPM for approach angle
+		1. Altitude select arc
+3. [[Aircraft Gait Charts]], Learn and make table of following values: 
+		1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach)
+		2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
+		3. Or use the [[Aircraft Blank Gait]]
+4. Simulated [[IFR]] flight example 
 		1. Climb Vy to specific altitude, with vectoring turns 
 		2. Transition to cruise climb, with vectoring turns 
 		3. Level off, cruise configuration, vectoring turns 
@@ -33,11 +41,7 @@ Simulator and/or airplane, 1.5 hours
 		6. Slow cruise descent, vectoring turns 
 		7. Simulated MAP, climb, turn, level off, hold at fix 
 		8. Timed Turns (just a demo, cover DG)
-	7. [[Aircraft Gait Charts]], Learn and make table of following values: 
-		1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach)
-		2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
-		3. Or use the [[Aircraft Blank Gait]]
-2. Common Errors
+5. Common Errors
 	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 
 	3. Doing things while turning – should do nothing else until turn is complete 
