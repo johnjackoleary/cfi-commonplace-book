@@ -2,9 +2,7 @@ The Dot Game is a way to practice holds by framing it from ATC's perspective.
 
 Given some scenario, what would ATC see you doing on their radar screen? And remember, you don't have much time. (Definitely not enough time to draw it out!)
 
-> [!example]
-> Flying southbound on V25 from TAILS, you receive this clearance from ATC: "Hold south-east at EUGEN as published. Expect further clearance in 15 minutes."
-> 
+> [!example] Flying southbound on V25 from TAILS, you receive this clearance from ATC: "Hold south-east at EUGEN as published. Expect further clearance in 15 minutes."
 > What would ATC see you doing on their screen?
 > 
 > The answer should sound with something like: 
@@ -16,5 +14,8 @@ Given some scenario, what would ATC see you doing on their radar screen? And rem
 
 > [!example]- Flying northbound from WRING on V459: "Hold south-west at TTE on radial 230, left turns"
 > Current heading is 327, and outbound course is 230. Direct entry for our heading, since 230 is beyond the teardrop sector between 327 and 257. After crossing TTE, I'll turn left to 230, fly for 1 minute, then turn left again to the inbound heading 50. After reaching TTE, I'll make left turns with 1-minute legs.
+
+> [!example]- Flying eastbound from PITER along V112: "Hold south at BTG as published"
+> Inbound heading 094, outbound course 163. Right turns, so teardrop since outbound course is between 094 and 164. After crossing BTG, fly heading 133 for one minute, then right turn to inbound heading 343. Crossing BTG, right turns and 1-minute legs.
 
 > [!tip] You can confirm your entry is correct by adding both a point before and holding fix on [[ForeFlight]], and [inputting the hold](https://foreflight.com/enhancements/hold-advisor) information.
