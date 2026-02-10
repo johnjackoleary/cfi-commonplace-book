@@ -3,5 +3,6 @@
 A set of lights adjacent to the runway which help the pilot adhere to the desired glide path.
 
 ![[VASI.jpeg]]
+^image
 
 #glossary
