@@ -13,7 +13,10 @@ Our body relies on three key systems to track our orientation and movement in sp
 
 In [[VMC]], our eyes are the major orientation source, and will win out if other senses provide conflicting information.
 
-In [[IMC]], however, visual references are unavailable and we become susceptible to many types of illusions. 
+In [[IMC]], however, visual references are unavailable and we become susceptible to many types of illusions.
+
+> [!youtube] Published by [@SmithsonianChannel](https://www.youtube.com/@SmithsonianChannel)
+> ![](https://www.youtube.com/watch?v=-P-3Kl1P0as)
 
 ## Preventing Spatial Disorientation
 If we are unsure of our orientation, we are suffering from [[spatial disorientation]]. This is most likely to occur when we loose visual reference to the horizon.
