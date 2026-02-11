@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
+aliases:
+- IR.9
 ---
 ### Objective
 Learn proper IFR communications techniques, include copying clearances, normal communications
@@ -21,7 +21,7 @@ N/A
 Ground 1.0 hours
 
 > [!note] 
-> Can be completed at the same time as [[IR.10 Approach Charts and Procedures]].
+> Can be completed at the same time as [[IRA2.4 Approach Charts and Procedures]].
 
 ### Lesson Elements
 1. Communications

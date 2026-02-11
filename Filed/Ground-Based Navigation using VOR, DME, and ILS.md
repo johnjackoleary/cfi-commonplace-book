@@ -55,7 +55,7 @@ VOR receivers detect the phase difference between a reference and variable signa
 6. Station passage
 
 #### VOR Holds
-See [[IR.8 Holding Patterns and Entries]]
+See [[IRA2.2 Holding Patterns and Entries]]
 
 ### Regulations and Requirements
 #### VOR Checks

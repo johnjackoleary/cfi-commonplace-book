@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
+aliases:
+- IR.13
 ---
 ### Objective
 Review instrument systems and diagnosis of instrument or system failures. To develop student knowledge and skill in partial panel attitude instrument flight (including instrument approaches), timed turns and magnetic compass turns.
@@ -15,8 +15,8 @@ None
 
 ### Builds On
 - [[PPL5.3 Emergency Operations]]
-- [[IR.6 Unusual Attitude Recoveries, Including Partial Panel]]
-- [[IR.9 Communications and Clearances]]
+- [[IRA1.7 Unusual Attitude Recoveries, Including Partial Panel]]
+- [[IRA2.3 Communications and Clearances]]
 
 ### Schedule
 Ground 0.5 hour, simulator and/or airplane 1 hour

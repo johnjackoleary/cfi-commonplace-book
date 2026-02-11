@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
+aliases:
+- IR.15
 ---
 ### Objective
 Develop the pilot's knowledge, skill and risk management associated with planning an IFR cross-country, choosing an alternate, and filing a flight plan, including [[lost communications]] procedures. Plan and fly instrument cross-country flight to satisfy aeronautical experience in [[FAR 61.65 Instrument Rating Reqs|FAR 61.65]].
@@ -19,9 +19,9 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-[[IR.9 Communications and Clearances]]
-[[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
-[[IR.14 IFR Weather and Weather Services]]
+[[IRA2.3 Communications and Clearances]]
+[[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
+[[IRA3.1 IFR Weather and Weather Services]]
 
 ### Schedule
 Ground 1.5 hours, Flight 3 hours 
@@ -40,7 +40,7 @@ Ground 1.5 hours, Flight 3 hours
 	3. Fuel planning and monitoring, and definitions of [[Minimum Fuel]] and [[Emergency Fuel]] 
 		1. [[InFO 08004]]
 		2. [Avianca Flight 052](https://en.wikipedia.org/wiki/Avianca_Flight_052) #case-study
-	4. Alternate airport selection and planning^[See also [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]])
+	4. Alternate airport selection and planning^[See also [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]])
 		1. Standard and alternate minimums
 		2. [[1-2-3 Rule]]
 		3. Non-WAAS impact on alternate

@@ -11,29 +11,29 @@ tags:
 > [!note] Relevant ground school or home study content to prep before each lesson can be found in [[~ IR Pre-Lesson Reading]].
 
 #### Stage I: Flight by Reference to Instruments
-[[IR.1 Introduction and Instrument Systems]]
-[[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
-[[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
-[[IR.4 Flight Deck Organization, Workload and Automation Management]]
-[[IR.5A Ground-Based Navigation]]
-[[IR.5B Satellite Navigation]]
-[[IR.6 Unusual Attitude Recoveries, Including Partial Panel]]
+[[IRA1.1 Introduction and Roadmap]]
+[[IRA1.2 Instruments and Attitude Flying]]
+[[IRA1.3 Instrument Maneuvers]]
+[[IRA1.4 Simulated IFR Flight]]
+[[IRA1.5 Ground-Based Navigation]]
+[[IRA1.6 Satellite Navigation]]
+[[IRA1.7 Unusual Attitude Recoveries, Including Partial Panel]]
 
 #### Stage II: IFR Charts, Instrument Approaches, Emergencies
-[[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
-[[IR.8 Holding Patterns and Entries]]
-[[IR.9 Communications and Clearances]]
-[[IR.10 Approach Charts and Procedures]]
-[[IR.11A RNAV (GPS) Approaches]]
-[[IR.11B ILS + LOC Approaches]]
-[[IR.11C VOR + DME + Circling Approaches]]
-[[IR.12 IFR Departure Procedures and Terminal Arrival Procedures]]
-[[IR.13 Partial Panel Maneuvers and Approaches]]
+[[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
+[[IRA2.2 Holding Patterns and Entries]]
+[[IRA2.3 Communications and Clearances]]
+[[IRA2.4 Approach Charts and Procedures]]
+[[IRA2.5 RNAV (GPS) Approaches]]
+[[IRA2.6 ILS + LOC Approaches]]
+[[IRA2.7 VOR + DME + Circling Approaches]]
+[[IR2.8 IFR Departure Procedures and Terminal Arrival Procedures]]
+[[IR2.9 Partial Panel Maneuvers and Approaches]]
 
 #### Stage III: Weather, Cross-Country, and Checkride Prep
-[[IR.14 IFR Weather and Weather Services]]
-[[IR.15 Enroute and Cross-Country Instrument Flight, Including Lost Comms]]
-[[IR.16 Review and Checkride Prep]]
+[[IRA3.1 IFR Weather and Weather Services]]
+[[IRA3.2 Enroute and Cross-Country Instrument Flight, Including Lost Comms]]
+[[IRA3.3 Review and Checkride Prep]]
 
 #### Appendices
 [[IR.A Instrument Rating Flight Experience Requirements]]

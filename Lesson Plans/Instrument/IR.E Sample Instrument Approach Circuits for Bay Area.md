@@ -1,5 +1,5 @@
 # Learning
-## [[RNAV]] ([[IR.11A RNAV (GPS) Approaches]])
+## [[RNAV]] ([[IRA2.5 RNAV (GPS) Approaches]])
 | Approach                                                                           | Skill Areas           | XC Distance              |
 | ---------------------------------------------------------------------------------- | --------------------- | ------------------------ |
 | [KOAR RNAV 11](https://cfijack.com/latest-plate-redirect/?plate=05271R11.PDF)      | LNAV Only             | KPAO (50nm), KSQL (55nm) |
@@ -14,7 +14,7 @@
 Suggested Circuits: 
 - [KOAR RNAV 11](https://cfijack.com/latest-plate-redirect/?plate=05271R11.PDF) -> [KSNS RNAV 13](https://cfijack.com/latest-plate-redirect/?plate=00363R13.PDF) -> [KNUQ RNAV 32R](https://cfijack.com/latest-plate-redirect/?plate=00410R32R.PDF)
 
-## [[ILS]] ([[IR.11B ILS + LOC Approaches]])
+## [[ILS]] ([[IRA2.6 ILS + LOC Approaches]])
 | Approach                                                                                   | Skill Areas                        | XC Distance |
 | ------------------------------------------------------------------------------------------ | ---------------------------------- | ----------- |
 | [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF)             |                                    |             |
@@ -36,7 +36,7 @@ Suggested Circuit:
 - [KSCK ILS 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF), turn at IPDEW -> [KLVK ILS 25R](https://cfijack.com/latest-plate-redirect/?plate=06075I25R.PDF), touch and go -> [KHWD LOC/DME 28L](https://cfijack.com/latest-plate-redirect/?plate=05015L28L.PDF)
 - [KSNS ILS 31](https://cfijack.com/latest-plate-redirect/?plate=00363I31.PDF) -> [KWVI LOC 2](https://cfijack.com/latest-plate-redirect/?plate=00805L2.PDF) -> [KNUQ ILS 32R](https://cfijack.com/latest-plate-redirect/?plate=00410IL32R.PDF)
 
-## [[VOR]] ([[IR.11C VOR + DME + Circling Approaches]])
+## [[VOR]] ([[IRA2.7 VOR + DME + Circling Approaches]])
 | Approach                                                                     | Skill Areas             | XC Distance |
 | ---------------------------------------------------------------------------- | ----------------------- | ----------- |
 | [KAPC VOR 6](https://cfijack.com/latest-plate-redirect/?plate=00281V6.PDF)   | PT, VOR Station Passage |             |

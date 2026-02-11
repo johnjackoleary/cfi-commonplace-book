@@ -2,6 +2,8 @@
 tags:
   - ir
   - lesson
+aliases:
+- IR.14
 ---
 ### Objective
 Develop satisfactory knowledge, risk management, and skills associated with obtaining, understanding, and applying weather information for a flight under IFR. 
@@ -14,7 +16,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-- [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
 - [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule

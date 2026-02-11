@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
+aliases:
+- IR.5A
 ---
 ### Objective
 VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction. Autopilot systems and operation.
@@ -16,8 +16,8 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. I
 
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-- [[IR.3 Instrument Aircraft Control, Practice Maneuvers, Aircraft Gaits]]
-- [[IR.4 Flight Deck Organization, Workload and Automation Management]]
+- [[IRA1.3 Instrument Maneuvers]]
+- [[IRA1.4 Simulated IFR Flight]]
 
 ### Schedule
 Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]

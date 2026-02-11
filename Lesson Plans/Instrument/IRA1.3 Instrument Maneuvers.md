@@ -2,9 +2,11 @@
 tags:
   - ir
   - lesson
+aliases:
+- IR.3
 ---
 ### Objective
-Further develop instrument scan procedures, and practice all phases of IFR flight, with transitions between the various maneuvers. Develop and document “gait” chart for the aircraft in use. 
+Further develop instrument scan procedures, and practice all phases of IFR flight, with transitions between the various maneuvers. Build task saturation understanding and ability to recognize.
 
 ### Resources
 None
@@ -12,7 +14,7 @@ None
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-[[IR.2 Instrument Scan, Basic Attitude Instrument Flight]]
+[[IRA1.2 Instruments and Attitude Flying]]
 
 ### Schedule
 Simulator and/or airplane, 1.5 hours 
@@ -23,24 +25,15 @@ Simulator and/or airplane, 1.5 hours
 	2. Straight climbs and descents 
 	3. Turns – standard rate (IFH 7-19) and steep turns (IFH 7-22) 
 	4. Constant rate climbs and descents 
-	5. Combinations of turns during other maneuvers (such as “Oscar Pattern”, shown next page) 
-2. Intercepting courses and approaches
+	5. Combinations of turns during other maneuvers (e.g. "[Oscar Pattern](https://www.aopa.org/news-and-media/all-news/1998/august/flight-training-magazine/instrument-training)") 
+2. Intro to [[SRM]]
+	1. Verbalize flows and checklists, changes, [[VVM]], and "[[Two Most Important Things in Aviation|next two things]]"
+	2. Callouts with 1000', 500', 200', 100' to be before a level off or [[DA]]
+3. Intercepting courses and approaches
 	1. Using GPS/DME or bearing pointers for identifying points along an approach
 	2. Calculating FPM for approach angle
 		1. Altitude select arc
-3. [[Aircraft Gait Charts]], Learn and make table of following values: 
-	1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach)
-	2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
-	3. Or use the [[Aircraft Blank Gait]]
-4. Simulated [[IFR]] flight example 
-	1. Climb Vy to specific altitude, with vectoring turns 
-	2. Transition to cruise climb, with vectoring turns 
-	3. Level off, cruise configuration, vectoring turns 
-	4. Cruise descents, vectoring turns 
-	5. Level off, slow cruise, vectoring turns 
-	6. Slow cruise descent, vectoring turns 
-	7. Simulated MAP, climb, turn, level off, hold at fix 
-	8. Timed Turns (just a demo, cover DG)
+4. Pattern A
 5. Common Errors
 	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 

@@ -4,6 +4,8 @@ cssclasses:
 tags:
   - ir
   - lesson
+aliases:
+- IR.8
 ---
 ### Objective
 Develop proficiency in flying holding patterns, including recommended entry procedures, while satisfying ACS standards. 
@@ -15,8 +17,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-- [[IR.5A Ground-Based Navigation]]
-- [[IR.5B Satellite Navigation]]
+- [[IRA1.5 Ground-Based Navigation]]
+- [[IRA1.6 Satellite Navigation]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 

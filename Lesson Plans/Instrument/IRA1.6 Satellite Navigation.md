@@ -1,9 +1,9 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
+aliases:
+- IR.5B
 ---
 ### Objective
 Develop detailed understanding of GPS system and navigation; become proficient with particular GPS installation, displays, and autopilot interfaces; become proficient at using GPS in-flight, including modifying flight plan and changing approaches. 
@@ -15,7 +15,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-[[IR.5A Ground-Based Navigation]]
+[[IRA1.5 Ground-Based Navigation]]
 
 ### Schedule
 Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]

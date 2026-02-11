@@ -2,6 +2,8 @@
 tags:
   - ir
   - lesson
+aliases:
+- IR.11A
 ---
 ### Objective
 Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
@@ -15,8 +17,8 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-- [[IR.5B Satellite Navigation]]
-- [[IR.10 Approach Charts and Procedures]]
+- [[IRA1.6 Satellite Navigation]]
+- [[IRA2.4 Approach Charts and Procedures]]
 
 ### Schedule
 Ground 30m, Sim/airplane – 2.5 hours 

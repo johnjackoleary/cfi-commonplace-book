@@ -4,6 +4,8 @@ cssclasses:
 tags:
   - ir
   - lesson
+aliases:
+- IR.7
 ---
 ### Objective
 Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight planning, and enroute operations.

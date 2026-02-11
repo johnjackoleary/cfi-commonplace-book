@@ -2,6 +2,8 @@
 tags:
   - ir
   - lesson
+aliases:
+- IR.10
 ---
 ### Objective
 Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
@@ -16,15 +18,15 @@ Develop an understanding to interpret, apply, and brief various types of charted
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
 
 ### Builds On
-- [[IR.4 Flight Deck Organization, Workload and Automation Management]]
-- [[IR.7 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[IR.9 Communications and Clearances]]
+- [[IRA1.4 Simulated IFR Flight]]
+- [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IRA2.3 Communications and Clearances]]
 
 ### Schedule
 Ground 2.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[IR.9 Communications and Clearances]].
+> Can be completed at the same time as [[IRA2.3 Communications and Clearances]].
 
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
