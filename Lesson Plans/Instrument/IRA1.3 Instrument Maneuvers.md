@@ -6,7 +6,9 @@ aliases:
 - IR.3
 ---
 ### Introduction
-Further develop instrument scan procedures, and practice all phases of IFR flight, with transitions between the various maneuvers. Build task saturation understanding and ability to recognize.
+Now that you've mastered the fundamentals, we're starting to learn the standard configurations used in IFR flying. The climb and cruise phases will be familiar, but flight at 90kts, with different flap settings, is common throughout an instrument approach.
+
+Using the gait chart for your airplane allows us to quickly move between these different phases, without chasing our instruments. Depending on the weather of the day, you may need slightly different pitch or power settings, but those changes should be intentional and numeric. (E.g. 2° pitch down is too fast today, let's try 1°.) These changes, as well as any anticipatory countdowns like minutes or miles, are worth verbalizing: you are your own copilot when flying single-pilot IFR.
 
 **Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
 **Builds On:** [[IRA1.2 Instruments and Attitude Flying]]
@@ -15,12 +17,15 @@ Further develop instrument scan procedures, and practice all phases of IFR fligh
 ### Lesson Elements
 1. Intro to [[SRM]]
 	1. CFI models these today
-	2. Verbalize flows and checklists, changes, [[VVM]], and "[[Two Most Important Things in Aviation|next two things]]"
-	3. Callouts with 1000', 500', 200', 100' to be before a level off or [[DA]]
+	2. [[VVM]] and "[[Two Most Important Things in Aviation|next two things]]"
+	3. Verbalize flows and checklists, and any changes
+	4. Callouts with 1000', 500', 200', 100' to be before a level off or [[DA]]
+	5. Callouts for time or miles until the next waypoint or maneuver
 2. Common IFR maneuvers
 	1. Most IFR flights have similar phases
 	2. Gait chart gives initial pitch/power/configuration
-	3. Common maneuvers listed in activity below
+	3. Gait chart also helps us avoid chasing the instruments!
+	4. Common maneuvers listed in activity below
 3. Common Errors
 	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 

@@ -9,7 +9,7 @@ aliases:
 Instrument flying, at its core, is attitude flying. Without visual references outside the cockpit, the instrument pilot must constantly refer to their instruments to be sure the airplane is maintaining the desired heading and altitude. This instrument scan is critical for attitude flying, as even a 5-second distraction can leave the plane in an undesired attitude. 
 
 So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll review the instrument systems and pre-flight procedures you learned in [[PPL]] training, then we'll discuss several instrument scan techniques. The goal is for this scan to become second nature.
-.
+
 **Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
 **Builds On:** [[IRA1.1 Introduction and Roadmap]]
 **Resources:** Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[Rectangular Scan.jpeg|IFH]])
