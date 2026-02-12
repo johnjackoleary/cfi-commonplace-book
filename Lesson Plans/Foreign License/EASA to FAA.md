@@ -31,7 +31,7 @@ Although/Since [[EASA]] treats night flying as a separate rating, unless there i
 
 For this reason, it's a good idea to fly with an instructor before flying alone at night.
 
-> [!info] See [[PPL6.1 Night Operations and Night Cross Country]] for more info.
+> [!info] See [[PPL6.1 Night Operations and Night Cross Country]] and [[WINGS.1+2 ASEL Night Operations]] for more info.
 
 #### PIREPs
 Taught but not frequently used.
