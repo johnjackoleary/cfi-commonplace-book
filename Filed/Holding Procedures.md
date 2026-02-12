@@ -117,6 +117,6 @@ What if you reach a clearance limit without holding instruction?^[E.g. On the [O
 - [Aircraft Holding Procedures, Explained](https://www.boldmethod.com/learn-to-fly/maneuvers/what-you-should-know-about-holding-for-ifr-pilots/) from [[Bold Method]]
 - [Practice problems](https://cdn.shopify.com/s/files/1/0556/5101/files/Holding.pdf?1141) from thebackseatpilot.com
 - [Pilot's Cafe Trainer App](https://www.pilotscafe.com/hold-trainer/)
-- [[IR.8 Holding Patterns and Entries]]
+- [[IRA2.2 Holding Patterns and Entries]]
 
 #concept

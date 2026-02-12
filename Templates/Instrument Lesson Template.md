@@ -22,4 +22,4 @@ tags: [ir, lesson]
 ### Recommended Homework
 - [ ] 
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

@@ -14,7 +14,7 @@ cover: "Media/Axes of Airplane.jpeg"
 ### Student Interested in a Syllabus
 - Private Pilot: [[~ PPL Lesson Plan Outline]]
 - Commercial Pilot: [[~ CPL Lesson Plan Outline]]
-- Instrument Rating: [[~ IR Lesson Plan Outline]]
+- Instrument Rating: [[~ IRA Lesson Plan Outline]]
 - High-Performance Endorsement: [[~ HP Lesson Plan Outline]]
 - Mountain Checkout: [[~ Mountain Lesson Plan Outline]]
 

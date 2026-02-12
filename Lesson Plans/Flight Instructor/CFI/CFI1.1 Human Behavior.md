@@ -91,11 +91,11 @@ See linked page
 	2. ... but more importantly, the instructor should prevent it by making sure learners understand exactly where they are in the process, how well they progress and their deficiencies.
 4. **Physical Discomfort, Illness, Fatigue, and Dehydration**
 	1. Airsickness: No sure cure; but tolerance might be built up over time. Instruction should stop when it manifests.
-	2. Fatigue: one of the most treacherous hazards to flight safety — it may not be apparent until a serious mistake is made
+	2. [[Fatigue]]: one of the most treacherous hazards to flight safety — it may not be apparent until a serious mistake is made
 		1. Acute fatigue: Normal occurrence of everyday living
 		2. Chronic fatigue: Combination of both physiological problems and psychological issues (ex. financial, home life, job stress, etc.)
 		3. If detected, a break in instruction and practice should be given or pacing should be adjusted.
-	3. Dehydration: Critical loss of water from body. It reduce a pilot's level of alertness. *Be alert in hot summer days and high altitude. Carry water on every flight.*
+	3. [[Dehydration]]: Critical loss of water from body. It reduce a pilot's level of alertness. *Be alert in hot summer days and high altitude. Carry water on every flight.*
 	4. Heatstroke: Inability of the body to control its temperature
 5. **Apathy Due to Inadequate Instruction**
 	1. Instructor needs to provide well-planned, appropriate and accurate instruction and adjusted to the learner's level

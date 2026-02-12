@@ -46,10 +46,13 @@ Hood or foggles
 		2. Reduce power - Level Wings - Pitch Up
 5. Common Errors
 	1. Failure to recognize unusual attitude
-	2. Dependency on senses other than instrument indications
+	2. Dependency on senses other than instrument indications (succumbing to [[Illusions Leading to Spatial Disorientation|spatial disorientation]])
 	3. Failure to use proper recovery sequence
 
 > [!tip] Power Through Blue; Power Down Brown
+
+> [!youtube] Published by [@SmithsonianChannel](https://www.youtube.com/@SmithsonianChannel)
+> ![](https://www.youtube.com/watch?v=-P-3Kl1P0as)
 
 ### Completion Standards
 Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.

@@ -28,7 +28,7 @@ From *[Aviation International News](https://www.ainonline.com/aviation-news/gene
 - Several factors lead to runway incursions:
 	- lack of situational awareness (unfamiliar airport or airport markings)
 	- distractions (chatty passengers or being heads down with an electronic device)
-	- fatigue (physical or mental)
+	- [[fatigue]] (physical or mental)
 
 **Mitigations:**
 In short: better planning and preparation.
