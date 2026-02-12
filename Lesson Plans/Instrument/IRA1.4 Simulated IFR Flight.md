@@ -5,19 +5,12 @@ tags:
 aliases:
 - IR.4
 ---
-### Objective
+### Introduction
 Understand the ways to utilize different tools in the flight deck and learn techniques to efficiently manage workflows during IFR flight. 
 
-### Resources
-None
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
-
-### Builds On
-- [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-
-### Schedule
-Ground 1 hour, sim/airplane 1 hour
+**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Builds On:** [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]? [[IRA1.3 Instrument Maneuvers]]
+**Schedule:** Ground 1 hour, sim/airplane 2 hour
 
 ### Lesson Elements
 #### Flight Deck Organization
@@ -56,21 +49,16 @@ Ground 1 hour, sim/airplane 1 hour
 	7. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Set, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
 	8. Before landing: [[GUMPS]]
 	9. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
-3. Pattern B (or Bravo Pattern)
-4. Simulated [[IFR]] flight example
-	1. Climb Vy to specific altitude, with vectoring turns 
-	2. Transition to cruise climb, with vectoring turns 
-	3. Level off, cruise configuration, vectoring turns 
-	4. Cruise descents, vectoring turns 
-	5. Level off, slow cruise, vectoring turns 
-	6. Slow cruise descent, vectoring turns 
-	7. Simulated MAP, climb, turn, level off, hold at fix 
-	8. Timed Turns (just a demo, cover DG)
-4. Common Errors 
+3. [[Pattern B and Vertical S.png|Pattern B]] (CFI talks this through, no need to memorize)
+4. Simulated [[IFR]] flight example (ODP out of PRB, then VOR with HILPT into PRB, don't show the plate just give the instructions. "Notice how I'm constantly tellingyou the net two thingss/ That's what you need to learn to anticipcaet when you read teh plates)
+5. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
 	3. Diverting attention during maneuvers like turning, or before reaching altitude. 
 	4. Not recognizing fatigue and task saturation
+
+#### Sim Activity
+
 
 ### Completion Standards
 The student must demonstrate the ability to prioritize tasks during IFR flight, “stay ahead” of the airplane by using mental checklists and written checklists.

@@ -30,7 +30,7 @@ Ground 1 hour, Flight 3 hours
 2. Emergencies and [[ADM]]
 	1. Instrument or system failures 
 	2. Partial panel, no-gyro approaches (ASR, PAR) 
-	3. [[Lost communications]] review (see [[IR.D Kneeboard Cheatsheets]]). Recognizing loss of communications and attempting to re-establish. 
+	3. [[Lost communications]] review (see [[IRA.D Kneeboard Cheatsheets]]). Recognizing loss of communications and attempting to re-establish. 
 	4. Weather emergencies: [[Ice Hazards and Aircraft Icing]], [[Thunderstorm]] 
 	5. Electrical system failures, [[PFD]] or [[MFD]] failure, [[EFB]] failure
 	6. "[[Minimum Fuel]]" vs "[[Emergency Fuel]]"

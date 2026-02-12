@@ -6,15 +6,13 @@ aliases:
 - IR.2
 ---
 ### Introduction
-The heart of instrument flying is the "instrument scan." Without visual references outside the cockpit, the instrument pilot must constantly refer to their instruments to be sure the airplane is maintaining the desired heading and altitude. Even a 5-second distraction can leave the plane in an undesired attitude. 
+The instrument flying, at it's core, is attitude flying. Without visual references outside the cockpit, the instrument pilot must constantly refer to their instruments to be sure the airplane is maintaining the desired heading and altitude. This instrument scan is critical for attitude flying, as even a 5-second distraction can leave the plane in an undesired attitude. 
 
-So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll discuss several instrument scan techniques, and in the air we'll practice, with the goal of it becoming second nature.
-
-Develop and document "gait" chart for the aircraft in use. Understand the benefits and risks associated with automation management
+So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll a review of the instrument systems and pre-flight procedures you learned in [[PPL]] training. Then we'll discuss several instrument scan techniques, and in the air we'll practice, with the goal of it becoming second nature.
 .
 **Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
 **Builds On:** [[IRA1.1 Introduction and Roadmap]]
-**Schedule:** Ground 1 hour; simulator and/or airplane, 1.5 hours 
+**Schedule:** Ground 1-2 hours, depending on recall from PPL; simulator and/or airplane, 0.5 hours 
 
 > [!note] 
 > Can often be completed at the same time as [[IRA1.1 Introduction and Roadmap]].
@@ -24,7 +22,8 @@ Develop and document "gait" chart for the aircraft in use. Understand the benefi
 
 ### Lesson Elements
 #### Aircraft Systems and Instruments
-[[Aircraft Instruments]] and power sources, flight characteristics, limitations, errors, pre-flight check methods 
+> [!question] 
+> For each system and instrument, what are the relevant power sources, flight characteristics, limitations, errors, pre-flight check methods, etc? 
 
 1. Required equipment for IFR flight, and IFR airworthiness requirements ([[FAR 91.205 Instrument and Equipment Requirements]])
 	1. Mnemonic [[GRABCARDD]]
@@ -73,6 +72,7 @@ Develop and document "gait" chart for the aircraft in use. Understand the benefi
 9. Electrical instruments: ammeter, voltmeter, alternator 
 10. Navigation radios and databases 
 	1. Covered in depth as part of [[IRA1.5 Ground-Based Navigation]] and [[IRA1.6 Satellite Navigation]]
+11. [[Autopilot Systems and Usage]]
 
 #### Attitude Instrument Flight
 1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA|CIA]] as a memory aid)
@@ -104,12 +104,8 @@ Develop and document "gait" chart for the aircraft in use. Understand the benefi
 	1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach)
 	2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
 	3. Or use the [[Aircraft Blank Gait]]
-	4. Easier to build this with an autopilot
-6. [[See and Avoid]] still expected [[IFR]] on [[VMC]] day
-7. Oscar Pattern
-8. [Vertical S](https://ifr-magazine.com/training-sims/ifr-muscle-builders/)
-9. [[Autopilot Systems and Usage]]
-10. Common Errors: 
+	4. > [!tip] It's easiest to find these attitudes while using an autopilot
+6. Common Errors: 
 	1. [[Illusions Leading to Spatial Disorientation|Spatial disorientation]] 
 	2. Distraction 
 	3. Fixation or omission 

@@ -43,7 +43,7 @@ Ground 0.5 hour, simulator and/or airplane 1 hour
 	3. Blocked pitot or static system, affecting A/S, VSI, altimeter 
 		1. Alternate static source
 		2. Pitot heat^[Good example from [this](https://www.youtube.com/watch?v=lZPDfZArP_Q) video]
-	4. G1000 partial panel operations: See Garmin guidance doc ([[IR.C Important References to Study]])
+	4. G1000 partial panel operations: See Garmin guidance doc ([[IRA.C Important References to Study]])
 4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
 5. ATC notification 
 	1. May be required, likely good idea ([[FAR 91.187 IFR Malfunction Reports]])

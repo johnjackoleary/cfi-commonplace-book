@@ -36,12 +36,12 @@ tags:
 [[IRA3.3 Review and Checkride Prep]]
 
 #### Appendices
-[[IR.A Instrument Rating Flight Experience Requirements]]
-[[IR.B IFR Endorsements]]
-[[IR.C Important References to Study]]
-[[IR.D Kneeboard Cheatsheets]]
-[[IR.E Sample Instrument Approach Circuits for Bay Area]]
-[[IR.F Beyond Your Instrument Rating]]
+[[IRA.A Instrument Rating Flight Experience Requirements]]
+[[IRA.B IFR Endorsements]]
+[[IRA.C Important References to Study]]
+[[IRA.D Kneeboard Cheatsheets]]
+[[IRA.E Sample Instrument Approach Circuits for Bay Area]]
+[[IRA.F Beyond Your Instrument Rating]]
 
 #### Logbook Phraseology
 [[~ IR Required Logbook Phraseology]]

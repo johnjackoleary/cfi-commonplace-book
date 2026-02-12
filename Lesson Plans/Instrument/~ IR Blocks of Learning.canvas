@@ -22,7 +22,7 @@
 		{"id":"ed09f70bf0aeac77","type":"text","text":"Procurement and use of aviation weather reports and forecasts and the elements of forecasting...","x":1160,"y":5090,"width":440,"height":60,"color":"4"},
 		{"id":"705e3da973c5100b","type":"text","text":"Recognition of critical weather situations and windshear avoidance","x":1160,"y":5150,"width":440,"height":60,"color":"4"},
 		{"id":"3803cc903a7a2290","type":"file","file":"Lesson Plans/Instrument/IRA3.1 IFR Weather and Weather Services.md","x":40,"y":4920,"width":400,"height":400},
-		{"id":"410f7d60c72d35ae","type":"file","file":"Lesson Plans/Instrument/IR.E Sample Instrument Approach Circuits for Bay Area.md","x":40,"y":6040,"width":400,"height":400},
+		{"id":"410f7d60c72d35ae","type":"file","file":"Lesson Plans/Instrument/IRA.E Sample Instrument Approach Circuits for Bay Area.md","x":40,"y":6040,"width":400,"height":400},
 		{"id":"696674a385d136be","type":"file","file":"Lesson Plans/Instrument/IRA3.2 Enroute and Cross-Country Instrument Flight, Including Lost Comms.md","x":600,"y":5252,"width":400,"height":400},
 		{"id":"760da415188fe367","type":"file","file":"Lesson Plans/Instrument/IRA3.3 Review and Checkride Prep.md","x":600,"y":5720,"width":400,"height":400},
 		{"id":"1cd97fe834dc872d","type":"text","text":"50hr XC PIC, >= 10hr in airplane","x":1160,"y":6520,"width":440,"height":60,"color":"1"},
