@@ -44,8 +44,8 @@ tags:
 [[IRA.F Beyond Your Instrument Rating]]
 
 #### Logbook Phraseology
-[[~ IR Required Logbook Phraseology]]
+[[~ IRA Required Logbook Phraseology]]
 
 ### Blocks of Learning
 ![[~ IRA Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Sep 24, 2025.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Feb 11, 2026.

@@ -58,7 +58,7 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 	3. Simulator Checkout
 
 ### Completion Standards
-Learner must demonstrate understanding of: flight training process, risk management, instrument systems and power sources, pre-flight check procedures, and operation and management of installed instruments and navigation equipment.
+Learner understands the instrument flight training process and roadmap ahead.
 
 ### Required Homework
 - [ ] TSA, as needed

@@ -13,7 +13,7 @@ Today, we're focused on *how* to make those phase changes while staying ahead of
 The CFI will walk you through which gaits to use and when to run certain checklists, all while you hand-fly the aircraft. This will require [[SRM]], mental flow & checklist use, and multitasking skills. You may also experience greater [[task saturation]], an important feeling to identify and address.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]? [[IRA1.3 Instrument Maneuvers]]
+**Builds On:** [[IRA1.3 Instrument Maneuvers]]
 **Schedule:** Ground 1 hour, sim 2 hour
 
 ### Lesson Elements
