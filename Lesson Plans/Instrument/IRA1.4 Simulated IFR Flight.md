@@ -6,40 +6,28 @@ aliases:
 - IR.4
 ---
 ### Introduction
-Understand the ways to utilize different tools in the flight deck and learn techniques to efficiently manage workflows during IFR flight. 
+While attitude flying is the backbone of IFR, flying "in the system" requires seamlessly transitioning between the different phases of flight. At the end of the day, an IFR flight is a series of climbs, descents, S+L, turns, and configuration changes while hitting target airspeeds, headings, and altitudes. 
+
+Today, we're focused on *how* to make those phase changes while staying ahead of the airplane. This starts to bridge the gap between flying on instruments and flying in the system. (In IR2.1-9, you'll learn about IFR infrastructure, charts, and plates to know *when* to transition between the phases of the flight.) 
+
+The CFI will walk you through which gaits to use and when to run certain checklists, all while you hand-fly the aircraft. This will require [[SRM]], mental flow & checklist use, and multitasking skills. You may also experience greater task saturation, an important feeling to identify and address.
 
 **Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
 **Builds On:** [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]? [[IRA1.3 Instrument Maneuvers]]
-**Schedule:** Ground 1 hour, sim/airplane 2 hour
+**Schedule:** Ground 1 hour, sim 2 hour
 
 ### Lesson Elements
-#### Flight Deck Organization
-1. [[Aviate, Navigate, Communicate]]
-2. [[SRM]] and [[CRM]] including crew communication and coordination ([[AC 120-51]])
+1. [[SRM]] and [[CRM]] including crew communication and coordination ([[AC 120-51]])
 	1. CRM Basics
 		1. Communications Processes and Decision Behavior^[Briefings, Inquiry/Advocacy/Assertion, Crew Self-Critique (Decisions and Actions), Conflict Resolution, Communications and Decisionmaking]
 		2. Team Building and Maintenance
 	2. [[SRM]] basics
 		1. appropriate management of all resources (in and out of aircraft) available to the single pilot
 		2. How can resources be organized before the flight for better [[SRM]]?
-3. Digital Charts ([[EFB]])
-	1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
-	2. Cons - Battery, fragile, can’t update inflight, expensive, over heat
-4. Paper Charts
-	1. Pros - Don’t require battery, less fragile than EFB
-	2. Cons - Expire, no search function, take space and weight
-5. Mounting
-	1. Yoke^[weight on controls], kneeboard^[head motion down], suction^[obscures peripheral vision]
-	2. Turbulence
-6. Chart and database currency
-	1. Every 56 days (8 weeks)
-	2. [[FAA]] vs. [[Jeppesen]]
-
-#### IFR Flows
-1. Use of BOTH written and mental checklists 
+2. Use of BOTH written and mental checklists 
 	1. Use mental checklists and flow patterns 
 	2. Double check and back-up with written checklists 
-2. Mental checklists 
+3. Mental checklists 
 	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
 	2. Before taking runway: [[Lights, Camera, Action, Time]]
 	3. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
@@ -49,8 +37,13 @@ Understand the ways to utilize different tools in the flight deck and learn tech
 	7. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Set, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
 	8. Before landing: [[GUMPS]]
 	9. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
-3. [[Pattern B and Vertical S.png|Pattern B]] (CFI talks this through, no need to memorize)
-4. Simulated [[IFR]] flight example (ODP out of PRB, then VOR with HILPT into PRB, don't show the plate just give the instructions. "Notice how I'm constantly tellingyou the net two thingss/ That's what you need to learn to anticipcaet when you read teh plates)
+4. Task saturation
+	1. [[Aviate, Navigate, Communicate]]
+	2. If falling behind airplane or need more time
+		1. Slow the plane down to 90kts instead of cruise speeds
+		2. Request a delay vector or, similarly, request to continue holding
+	3. > [!quote] From [[Standby for Name When Task Saturated|The Finer Points video]]
+	   > There will come a day when I ask you what your name is, and you tell me to standby.
 5. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
@@ -58,15 +51,17 @@ Understand the ways to utilize different tools in the flight deck and learn tech
 	4. Not recognizing fatigue and task saturation
 
 #### Sim Activity
+> [!warning] Diagrams/plates linked below are not meant to be used by the student yet
+>  Feel free to show the diagrams to communicate the goals, but CFI interprets the plates and narrates through each step of these as they're flown (narrating "[[Two Most Important Things in Aviation|the next two things]]")
 
+1. [[Pattern B and Vertical S.png|Pattern B]]
+2. Simulated [[IFR]] flight example
+	1. Wind 200@15 at ~3000'
+	2. [KPRB BRALY 1](https://cfijack.com/latest-plate-redirect/?plate=00858BRALY.PDF) from runway 19
+	3. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from EXUPY using GPS until intercept, green needles inbound, then missed
 
 ### Completion Standards
 The student must demonstrate the ability to prioritize tasks during IFR flight, “stay ahead” of the airplane by using mental checklists and written checklists.
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Safe and efficient operation of aircraft under instrument flight rules and conditions
-- Crew resource management, including crew communication and coordination
 
 ### Required Homework
 - [ ] Memorize flows above and add to kneeboard

@@ -39,7 +39,20 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 		1. Intro to multi-tasking, workload management, checklists
 		2. [[See and Avoid]] still expected [[IFR]] on [[VMC]] day
 		3. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
-2. Plan for required checkouts, as needed
+2. Flight Deck Resources
+	1. Digital Charts ([[EFB]])
+		1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
+		2. Cons - Battery, fragile, can’t update inflight, expensive, over heat
+	2. Paper Charts
+		1. Pros - Don’t require battery, less fragile than EFB
+		2. Cons - Expire, no search function, take space and weight
+	3. Mounting
+		1. Yoke^[weight on controls], kneeboard^[head motion down], suction^[obscures peripheral vision]
+		2. Turbulence
+	4. Chart and database currency
+		1. Every 56 days (8 weeks)
+		2. [[FAA]] vs. [[Jeppesen]]
+3. Plan for required checkouts, as needed
 	1. [[Suggested Aircraft Checkout Process|Aircraft Checkout]]
 	2. [[~ G1000 Lesson Plan Outline|G1000 Checkout]]
 	3. Simulator Checkout
