@@ -12,7 +12,7 @@ Learn proper IFR communications techniques, include copying clearances, normal c
 - [[FAR 91.185 Lost Comms]]
 - [[IFH]] Appendix A (clearance shorthand)
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 N/A
@@ -89,4 +89,4 @@ The student must become proficient at typical IFR communications using standard 
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - Air traffic control clearances and procedures
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

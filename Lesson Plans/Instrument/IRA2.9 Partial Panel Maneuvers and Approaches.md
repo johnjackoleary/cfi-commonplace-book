@@ -11,7 +11,7 @@ Review instrument systems and diagnosis of instrument or system failures. To dev
 ### Resources
 None
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 - [[PPL5.3 Emergency Operations]]
@@ -63,4 +63,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - Emergency operations
 
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

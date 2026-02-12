@@ -8,8 +8,8 @@
 	1. Dual Axis vs. Single Axis
 	2. Flight Directors
 3. Benefits of Autopilot
-	1. Workload reduction
-	2. Fatigue management
+	1. Workload reduction^[[See [[Task Saturation]]]]
+	2. [[Fatigue]] management
 	3. Task Management
 4. [[POH]] and [[AFM]] supplements pertaining to autopilot 
 	1. Preflight check of autopilot 

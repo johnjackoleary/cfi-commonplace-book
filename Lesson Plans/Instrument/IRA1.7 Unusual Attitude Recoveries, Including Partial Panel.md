@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -13,7 +11,7 @@ Develop student knowledge and skill in recognition of and recovery from unusual 
 ### Resources
 None
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 [[PPL5.2 Emergency Flight by Instruments - Unusual Attitude Recovery]]
@@ -61,4 +59,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - Emergency operations
 
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

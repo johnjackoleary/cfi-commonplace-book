@@ -10,7 +10,7 @@ Flying on instruments takes everything you've learned so far, and adds a whole n
 
 To set us up for training success, we'll start with the [[IFR]] flight training process and requirements, so you know what is coming in the future.
 
-**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 **Schedule:** Ground 1 hour
 
@@ -34,7 +34,7 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 		2. Logging [[IAP]], what’s required  ([[InFO 15012]])
 		3. > [!warning] For future commercial pilots
 		   > This time does NOT automatically satisfy the required instrument training for the commercial certificate, unless it was specifically logged to satisfy both [[FAR 61.65 Instrument Rating Reqs|61.65]](d) and also [[FAR 61.129 CPL Experience Reqs|61.129]](a). See [[Hartzell 2010]] and [[Oord 2018]] legal interpretations.
-	6. Stages of training in [[~ IR Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
+	6. Stages of training in [[~ IRA Lesson Plan Outline|syllabus]], Phase checks^[[[WVFC]] phase check published for members [here](https://drive.google.com/drive/folders/1SWFJ0ebOeBLi8jAhSQdilPilrJiuOWzb)]
 	7. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists
 		2. [[See and Avoid]] still expected [[IFR]] on [[VMC]] day
@@ -66,4 +66,4 @@ Learner must demonstrate understanding of: flight training process, risk managem
 ### Recommended Homework
 - [ ] Start doing instrument operational checks each time you fly VFR or IFR
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

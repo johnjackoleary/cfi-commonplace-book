@@ -16,7 +16,7 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 - [[Instrument ACS]] Section 1.C
 - [A good case study and analysis](https://aviationnewstalk.libsyn.com/342-n990pt-cirrus-sr22-fatal-accident-at-kbhb-bar-harbor-maine) by [[Max Trescott]]
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 [[IRA2.3 Communications and Clearances]]
@@ -33,7 +33,7 @@ Ground 1.5 hours, Flight 3 hours
 	3. 3 different kinds of approaches (VOR, GPS, ILS)
 2. Review of FARs and AIM relevant to IFR flight
 	1. FAR 91.167-187
-	2. AIM sections from [[~ IR Pre-Lesson Reading]]
+	2. AIM sections from [[~ IRA Pre-Lesson Reading]]
 3. IFR cross country flight planning: 
 	1. Symbology on IFR enroute and approach charts 
 	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
@@ -73,4 +73,4 @@ To demonstrate knowledge, skill, and judgment in IFR cross country planning to m
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - Federal Aviation Regulations of this chapter that apply to flight operations under IFR
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

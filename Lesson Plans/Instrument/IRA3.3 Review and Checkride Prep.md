@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -14,10 +12,10 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 - [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
 - [[IFR Regulatory Review Assignment]]
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[~ IR Lesson Plan Outline|All Lessons]]
+- [[~ IRA Lesson Plan Outline|All Lessons]]
 - [[PPL7.1 Review and Checkride Preparation]]
 
 ### Schedule
@@ -62,4 +60,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - [[ADM|Aeronautical decision making]] and judgment
 - Appropriate information that applies to flight operations under IFR in the [[AIM]]
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

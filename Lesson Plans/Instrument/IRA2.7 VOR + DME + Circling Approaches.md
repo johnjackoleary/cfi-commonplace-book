@@ -12,7 +12,7 @@ Develop proficiency in flying VOR and circling approaches.
 - [[FAR 91.175 IFR Takeoff and Landing]]
 - POH/AFM
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 [[IRA1.5 Ground-Based Navigation]]
@@ -56,4 +56,4 @@ Student must demonstrate proficiency at flying non-precision approaches to ACS s
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - Instrument approach procedures
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

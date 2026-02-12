@@ -15,7 +15,7 @@ Develop an understanding to interpret, apply, and brief various types of charted
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
 - [[IRA.E Sample Instrument Approach Circuits for Bay Area]]
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 - [[IRA1.4 Simulated IFR Flight]]
@@ -142,4 +142,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - IFR navigation and approaches by use of navigation systems
 - Use of... instrument approach procedure charts
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

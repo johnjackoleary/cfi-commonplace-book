@@ -15,4 +15,4 @@ By completing your instrument checkride, you can claim WINGS credit for all adva
 
 The WINGS program is a great way to keep proficient as a pilot. You can learn more about the program in [[WINGS - Pilot Proficiency Program|WINGS]], [[WINGS.B Requirements]], or on [their website](https://www.faasafety.gov/WINGS/pub/learn_more.aspx).
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

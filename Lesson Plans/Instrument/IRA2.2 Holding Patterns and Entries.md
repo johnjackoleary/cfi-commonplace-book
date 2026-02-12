@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -14,7 +12,7 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 - [[POH]]/[[AFM]]
 - GPS manual
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 - [[IRA1.5 Ground-Based Navigation]]
@@ -46,4 +44,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - Air traffic control clearances and procedures
 
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

@@ -70,7 +70,7 @@ For additional methods to find your wind minimums, see [[Personal Minimums for W
 > 
 > Should you set a maximum work duration that gives you enough energy to fly? We spend almost all our time on weather minima, yet we often blow through [[IMSAFE]] with little more than "I'm good." That's ridiculous.
 > 
-> Fatigue is our most significant risk and, by definition, a blind spot. Approach it with as much rigor as you would any other risk. In [[PAVE]], Pilot comes first.
+> [[Fatigue]] is our most significant risk and, by definition, a blind spot. Approach it with as much rigor as you would any other risk. In [[PAVE]], Pilot comes first.
 
 # Additional Resources
 - [[AIH AppD]]

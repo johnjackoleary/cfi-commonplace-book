@@ -18,12 +18,12 @@
 | [[IRA2.5 RNAV (GPS) Approaches]]                                            | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                   | 8A                                                                                                                        |
 | [[IRA2.6 ILS + LOC Approaches]]                                             | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                   | 8B                                                                                                                        |
 | [[IRA2.7 VOR + DME + Circling Approaches]]                                        | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                   | 8C                                                                                                                        |
-| [[IR2.8 IFR Departure Procedures and Terminal Arrival Procedures]]          | [[AIM 5]]; [[IPH Ch1]]; [[IPH Ch3]]            | 4A-B, 6A-B                                                                                                                |
-| [[IR2.9 Partial Panel Maneuvers and Approaches]]                            | [[IFH]] Ch3, ~~Ch5~~, ~~Ch7~~                  | ~~2C~~                                                                                                                    |
+| [[IRA2.8 IFR Departure Procedures and Terminal Arrival Procedures]]          | [[AIM 5]]; [[IPH Ch1]]; [[IPH Ch3]]            | 4A-B, 6A-B                                                                                                                |
+| [[IRA2.9 Partial Panel Maneuvers and Approaches]]                            | [[IFH]] Ch3, ~~Ch5~~, ~~Ch7~~                  | ~~2C~~                                                                                                                    |
 | [[IRA3.1 IFR Weather and Weather Services]]                                  | [[AIM 7]]; [[AC 91-74]]                        | 9A-E                                                                                                                      |
 | [[IRA3.2 Enroute and Cross-Country Instrument Flight, Including Lost Comms]] | [[AIM 5]]-1, [[IFH]] Ch11;                     | 10A-B                                                                                                                     |
 | [[IRA3.3 Review and Checkride Prep]]                                         | [[IFH]] Ch4                                    | 10C                                                                                                                       |
 
 #todo :: feel free to add other source materials if you're using something else!
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

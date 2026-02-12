@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - lesson
 tags:
   - ir
   - lesson
@@ -14,7 +12,7 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, flight pla
 - [[Instrument ACS]] Section 1.C
 - [Minimum Vectoring/Instrument Altitudes KML Files](https://cfi.thomas-daniel.com/mva/)
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 None
@@ -75,4 +73,4 @@ Learner must be able to plan a cross country flight, including routing, fuel pla
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - Use of IFR en route... charts
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

@@ -16,4 +16,4 @@ I certify that \[First name, MI, Last name\] has received and logged the require
 
 #endorsement 
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

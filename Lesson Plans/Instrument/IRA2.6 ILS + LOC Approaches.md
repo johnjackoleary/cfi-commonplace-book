@@ -12,7 +12,7 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 - [[FAR 91.175 IFR Takeoff and Landing]]
 - POH/AFM
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 [[IRA1.5 Ground-Based Navigation]]
@@ -38,7 +38,6 @@ Ground 30m, simulator – 2.5 hours
 		> In a given situation you either _must_ fly the procedure turn or you _may not_ fly the procedure turn.
 		> ...
 		> Let’s begin by examining those situations where a procedure turn should not be flown. There are five of them: 1) if you are given radar vectors to final, 2) if a segment or area you are flying is labeled NoPT, 3) if there is no procedure turn depicted on the chart (can’t make up your own), 4) if you have been cleared for a “straight-in” approach, and 5) if you have been given a timed approach from a holding fix.^[See also [[FAR 91.175 IFR Takeoff and Landing]]]
-	3. May recognize the shape from the first turn of [[Pattern A.png|Pattern A]]
 3. When to switch to [[VLOC]] if using GPS
 4. When are you established on the LOC
 5. When should you intercept the glideslope?^[Thoughtful analysis in [[Watch Your Step(Down)]] and [[When to Descend on a Precision Approach - How to Fly an ILS Approach]]]
@@ -63,4 +62,4 @@ Student must demonstrate proficiency at understanding ILS approaches and brief a
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - Instrument approach procedures
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

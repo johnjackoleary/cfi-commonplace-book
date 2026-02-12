@@ -10,15 +10,13 @@ Instrument flying, at its core, is attitude flying. Without visual references ou
 
 So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll review the instrument systems and pre-flight procedures you learned in [[PPL]] training, then we'll discuss several instrument scan techniques. The goal is for this scan to become second nature.
 
-**Pre-Lesson Reading/Homework:** [[~ IR Pre-Lesson Reading]]
+**Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[IRA1.1 Introduction and Roadmap]]
 **Resources:** Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[Rectangular Scan.jpeg|IFH]])
 **Schedule:** Ground 1-2 hours, depending on recall from PPL; simulator and/or airplane, 0.5 hours 
 
 > [!note] 
 > Can often be completed at the same time as [[IRA1.1 Introduction and Roadmap]].
-
-### 
 
 ### Lesson Elements
 #### Aircraft Systems and Instruments
@@ -77,7 +75,7 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 #### Attitude Instrument Flight
 1. Fundamentals of instrument flight, in order: <u>C</u>ross check, <u>I</u>nstrument interpretation, <u>A</u>ircraft control ([[CIA]] as a memory aid)
 2. Control/Performance ([[IFH]] Ch6)
-	1.  Pitch + Power = Performance
+	1. Attitude + Power + Config = Performance^[Sometimes simplified "Pitch + Power = Performance"]
 	2. Control Instruments depict immediate attitude and power changes
 		1. Attitude Indicator
 		2. Turn Coordinator
@@ -94,7 +92,6 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 		3. [[Music Scan]] primary instruments 
 		4. [[Rectangular Scan]] all instruments 
 	3. G1000 scan (pitch horizontal line, bank vertical line)
-	4. Instrument interpretation
 4. Common Errors: 
 	1. [[Illusions Leading to Spatial Disorientation|Spatial disorientation]] 
 	2. Distraction 
@@ -107,9 +104,9 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 1. Attitude Instrument Flight Basics 
 	1. Pitch-Power-Trim sequence for climb initiate and level off, Power-Pitch-Trim for descent initiate and level off
 	2. Straight and Level flight ([[IFH]] 7-2)
-	3. Straight climbs and descents ([[IFH]] 7-14)
-	4. Turns ([[IFH]] 7-19)
-2. Learn and make gait chart (see also [[Aircraft Gait Charts]])
+	3. Straight climbs and descents ([[IFH]] 7-14/16)
+	4. Turns ([[IFH]] 7-19) and climbing/descending turns
+2. Learn and make a gait chart (see also [[Aircraft Gait Charts]])
 	1. Make rows of table for Vx, Vy, cruise climb, cruise, cruise descent, slow cruise (holding, initial approach), slow descent (final approach)
 	2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
 	3. Or use the [[Aircraft Blank Gait]]
@@ -122,4 +119,4 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 ### Completion Standards
 Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

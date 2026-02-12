@@ -17,6 +17,6 @@
 		1. #todo :: this article seems to have disappeared. FAA has a semi-useful resource [here](https://www.faasafety.gov/files/events/SO/SO09/2021/SO09104630/G1000_System_Components_QuickRef_Guide.pdf)
 	3. G1000 failure mode guidance for CFIs and DPEs: [[G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
 
-#todo :: would be good to combine this with [[~ IR Pre-Lesson Reading]]
+#todo :: would be good to combine this with [[~ IRA Pre-Lesson Reading]]
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

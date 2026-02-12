@@ -12,7 +12,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. I
 - [[Instrument ACS]] section V
 - [[POH]]/[[AFM]]
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
@@ -36,4 +36,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - Navigation systems
 
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

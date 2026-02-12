@@ -160,7 +160,7 @@ Ground 0.5 hours
 #### Putting It All Together
 1. Multitaksing:
 	1. It is often for granted to mean handling several tasks at the same time but it's generally impossible to do so.
-	2. Increased workload beyond one's capability will lead to task saturation which cause the quality of work to diminish.
+	2. Increased workload beyond one's capability will lead to [[task saturation]] which cause the quality of work to diminish.
 	3. Each skills should be studied and practiced in isolation to a reasonably well level before attempting to combine them.
 2. Distraction: Unexpected event that cause the learner's attention to be momentarily diverted.
 	1. Students needs to learn / decide if one warrants further attention / action

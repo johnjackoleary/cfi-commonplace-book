@@ -13,7 +13,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 - [[Risk Management Handbook]]
 - [[Instrument ACS]] Section 1.B
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 - [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
@@ -73,4 +73,4 @@ For [[FAR 61.65 Instrument Rating Reqs]]:
 - Procurement and use of aviation weather reports and forecasts and the elements of forecasting weather trends based on that information and personal observation of weather conditions
 - Recognition of critical weather situations and windshear avoidance
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

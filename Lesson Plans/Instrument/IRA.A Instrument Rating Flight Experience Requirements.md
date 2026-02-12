@@ -34,4 +34,4 @@ From [[FAR 61.65 Instrument Rating Reqs]]: (d) *Aeronautical experience for the 
 7. Pass Written
 8. Pass Practical
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

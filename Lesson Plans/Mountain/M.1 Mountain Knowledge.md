@@ -42,7 +42,7 @@ Background knowledge required for safe mountain flying.
 		1. Aeromedical Factors
 			1. [[Oxygen Systems]] (legal, practical, and at night)
 			2. [[Dehydration]]
-			3. Fatigue
+			3. [[Fatigue]]
 			4. Impact of sinus issues at altitude
 			5. #Illusions
 		2. Equipment

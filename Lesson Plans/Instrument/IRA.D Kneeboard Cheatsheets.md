@@ -7,4 +7,4 @@ These should be on your kneeboard, and accessible during flight!
 5. Lost Comms cheat sheet [[IFR Radio Comm Part 1 General.jpeg|page 1]] and [[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg|page 2]]
 6. [[METAR]]/[[TAF]] decoder
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

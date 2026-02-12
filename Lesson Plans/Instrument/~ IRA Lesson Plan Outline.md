@@ -8,7 +8,7 @@ tags:
 ### Instrument Rating Airplane Single-Engine, Lesson Plan Outline
 > [!note] "Lessons" will often consist of multiple ground and/or flight sessions.
 
-> [!note] Relevant ground school or home study content to prep before each lesson can be found in [[~ IR Pre-Lesson Reading]].
+> [!note] Relevant ground school or home study content to prep before each lesson can be found in [[~ IRA Pre-Lesson Reading]].
 
 #### Stage I: Flight by Reference to Instruments
 [[IRA1.1 Introduction and Roadmap]]
@@ -27,8 +27,8 @@ tags:
 [[IRA2.5 RNAV (GPS) Approaches]]
 [[IRA2.6 ILS + LOC Approaches]]
 [[IRA2.7 VOR + DME + Circling Approaches]]
-[[IR2.8 IFR Departure Procedures and Terminal Arrival Procedures]]
-[[IR2.9 Partial Panel Maneuvers and Approaches]]
+[[IRA2.8 IFR Departure Procedures and Terminal Arrival Procedures]]
+[[IRA2.9 Partial Panel Maneuvers and Approaches]]
 
 #### Stage III: Weather, Cross-Country, and Checkride Prep
 [[IRA3.1 IFR Weather and Weather Services]]
@@ -47,5 +47,5 @@ tags:
 [[~ IR Required Logbook Phraseology]]
 
 ### Blocks of Learning
-![[~ IR Blocks of Learning.png]]
+![[~ IRA Blocks of Learning.png]]
 > [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on Sep 24, 2025.

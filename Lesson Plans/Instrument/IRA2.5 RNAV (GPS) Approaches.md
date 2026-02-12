@@ -14,7 +14,7 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 - GPS manual 
 - [Required Navigation Performance (RNP) Approaches (APCH)](https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/avs/RNAV_QFSheet.pdf)
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ IR Pre-Lesson Reading]]
+> [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
 - [[IRA1.6 Satellite Navigation]]
@@ -73,4 +73,4 @@ Student must demonstrate proficiency at understanding the different types of RNA
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - Instrument approach procedures
 
-*Return to [[~ IR Lesson Plan Outline|Table of Contents]]^*
+*Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*
