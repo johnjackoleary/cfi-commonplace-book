@@ -109,6 +109,7 @@ Night VFR cross-country from {*select your home airport*} to {*select an airport
 ### Equipment
 - Personal night equipment, aircraft night equipment
 - Required night equipment ([[APES]] or [[FLAPS]])
+- Fueling at night (or before)
 - Use of automation, and particularly [American 965 Crash](https://www.faa.gov/lessons_learned/transport_airplane/accidents/N651AA)
 
 ### Airport and Ground Operations
