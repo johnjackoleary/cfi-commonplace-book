@@ -1,3 +1,8 @@
+---
+aliases:
+- FAA-H-8083-3
+---
+
 ***Meaning*** :: <u>A</u>irplane <u>F</u>lying <u>H</u>andbook
 ***Link***      :: 
 ***Description***      :: `= this.link`

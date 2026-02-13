@@ -1,3 +1,8 @@
+---
+aliases:
+- FAA-H-8083-25
+---
+
 ***Meaning*** :: <u>P</u>ilot's <u>H</u>andbook of <u>A</u>eronautical <u></u>nowledge
 
 ***Chapters***:
