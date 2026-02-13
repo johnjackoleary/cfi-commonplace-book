@@ -40,13 +40,10 @@ Ground 1 hour, flight 3 hours
 	1. Plan a route to maximize time within glide range of an airport
 	2. Pilotage and chart-reading techniques
 	3. Greater reliance on instruments is required
+	4. Fly to airport beacon until runway lights are clearly visible
 6. Pilot considerations
 	1. Physiology of night flight with respect to vision
-		1. [[Illusions Leading to Landing Errors]] are particularly prevalent at night
-			1. [[False Horizon]]
-			2. [[Autokinesis]]
-			3. [[Black-Hole Approach]]
-				1. Importance of [[VASI]] or [[PAPI]] lights
+		1. [[Night Illusions]]
 		2. [[Vision in Flight]] of even greater importance
 	2. Personal lighting equipment
 7. Night emergencies
