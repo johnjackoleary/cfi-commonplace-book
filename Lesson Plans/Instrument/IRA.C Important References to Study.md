@@ -13,7 +13,7 @@
 	2. Pilot Weather – from Solo to the Airlines (published 2018)
 11. For #G1000 pilots:
 	1. [[Max Trescott]]’s [[G1000 Glass Cockpit Handbook with WAAS & Perspective]]
-	2. Article about G1000 failure modes: http://www.fredonflying.com/Articles/IFR_Refresher/1004-G1000-Failure-Modes.pdf
+	2. Article about G1000 failure modes: [[G1000 Failure Modes.pdf]]
 		1. #todo :: this article seems to have disappeared. FAA has a semi-useful resource [here](https://www.faasafety.gov/files/events/SO/SO09/2021/SO09104630/G1000_System_Components_QuickRef_Guide.pdf)
 	3. G1000 failure mode guidance for CFIs and DPEs: [[G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors]]
 

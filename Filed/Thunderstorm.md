@@ -2,7 +2,7 @@
 - [[Convective SIGMET]]s will be issued for expected thunderstorms
 
 # Details
-#todo :: expand on this to highlight dangers, formation, etc
+#todo :: expand on this to highlight dangers, formation, etc, maybe causes of lifting, space around them
 
 ![[Thunderstorm from 37,000 feet.jpeg]]
 ![[Thunderstorm Up and Downdrafts.jpeg]]

@@ -47,7 +47,10 @@ Ground 3 hours, Flight as necessary
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
 		2. [[Scott Rohlfing]], DPE: http://attheready.com/from-my-perspective-
-	3. Books available for preparation (e.g [ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
+	2. Books available for preparation (e.g [ASA Oral Review](https://www.amazon.com/Private-Pilot-Oral-Exam-Guide/dp/164425302X/))
+	3. PPL Prep Guides
+		1. https://goldseal.link/privatecheatsheet (free)
+		2. https://pilotworkshop.com/products/checkride-insights-private-pilot/
 	4. Practice oral exams with other students and instructors
 7. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 8. Simulated practical test (optional) with senior CFI

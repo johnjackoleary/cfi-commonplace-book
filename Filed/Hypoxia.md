@@ -15,8 +15,9 @@ Hypoxia is extremely dangerous for pilots.  Side effects include impaired judgem
 3. Euphoria
 4. Visual Impairment
 5. Drowsiness
-6. Lightheaded
-7. Lips and fingernails: blue for hypoxic hypoxia; red for carbon monoxide poisoning
+6. Tingling, especially of fingertips
+7. Lightheaded
+8. Lips and fingernails: blue for hypoxic hypoxia; red for carbon monoxide poisoning
 
 > [!Note] Numbers 1-5 are the same as [[Hyperventilation]]
 

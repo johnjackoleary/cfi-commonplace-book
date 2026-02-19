@@ -33,7 +33,9 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 	2. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
 	3. Effect of gross weight on performance
 	4. How to calculate
-4. Performance calculations
+		1. By hand
+		2. Online / EFB
+3. Performance calculations
 	1. [[Wind Triangle]] and relevant terminology
 		1. [[Course]] - intended path over the earth
 		2. [[Heading]] - where the plane's nose is pointing
