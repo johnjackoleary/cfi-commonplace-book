@@ -24,15 +24,17 @@ Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights
 
 ### Lesson Elements
 1. Lost procedures
-	1. Might be appropriate to circle and/or gain altitude for better view of landmarks. Some use the [[Lost Procedures (5 C's)|5 C's]]: Confess, Climb, Circle, Conserve (fuel), Communicate/Comply
-	2. Use of charts and pilotage to find location
-	3. Use of [[GPS]] nearest airport feature, or triangulation using [[VOR]]s
-	4. How to get [[ATC]] assistance, and what frequency to use
+	1. What is lost?
+	2. Might be appropriate to circle and/or gain altitude for better view of landmarks. Some use the [[Lost Procedures (5 C's)|5 C's]]: Confess, Climb, Circle, Conserve (fuel), Communicate/Comply
+	3. Use of charts and pilotage to find location
+	4. Use of [[GPS]] nearest airport feature, or triangulation using [[VOR]]s
+	5. How to get [[ATC]] assistance, and what frequency to use
 2. Plan diversion to alternate airport
-	1. Use of GPS direct-to feature
-	2. Use of VOR navigation, such as crossing VOR radials
-	3. Use of charts (paper or electronic) to estimate distance and heading to alternate
-	4. Heading, groundspeed, time estimate, and fuel estimate to alternate airport
+	1. Why might we divert?
+	2. Use of GPS direct-to feature
+	3. Use of VOR navigation, such as crossing VOR radials
+	4. Use of charts (paper or electronic) to estimate distance and heading to alternate
+	5. Heading, groundspeed, time estimate, and fuel estimate to alternate airport
 		1. Time estimate will require a distance, likely
 		2. Ensure a heading will actually work. For example, that it doesn't fly into terrain or obstacles
 		3. Rules of thumb are fine
