@@ -1,3 +1,10 @@
+---
+aliases:
+- automatic pilot
+- autopilot
+- George
+---
+
 # Key Takeaways
 - Typically autopilot can fly either lateral (single axis) or lateral+vertical (dual axis)
 - Valuable tool for workload reduction
@@ -20,7 +27,10 @@
 	3. Ways to disengage
 	4. Limitations from POH
 5. [[VVM]]: Verbalize, Verify, Monitor 
-6. Autopilot Function Demonstrations (Sim or Plane)
+6. [[AFCS]] vs Autopilot
+	1. [[AFCS]] consists of at least a flight director (FD) and an autopilot (AP)
+	2. "Autopilot" used interchangeably, though technically different 
+7. Autopilot Function Demonstrations (Sim or Plane)
 	1. Pitch and Roll
 	2. HDG
 	3. VS, FLC, ALT, VNV
@@ -53,6 +63,7 @@
 - [2015 International Air Transport Association (IATA) FMS Data Entry Error Prevention Best Practices](https://www.iata.org/contentassets/b6eb2adc248c484192101edd1ed36015/fms-data-entry-error-prevention-ed-1-2015.pdf)
 - [Staying ahead of the airplane - automation tips from a human factors expert](https://www.youtube.com/watch?v=VOQcdXE6MPo) from [[AOPA]]
 - [CFIT and Overreliance on Automation](https://medium.com/faa/cfit-and-overreliance-on-automation-48eed783b1e9) from [[FAA Safety Team|FAASTeam]]
+- [AFCS: Friend or Foe?](https://ifr-magazine.com/system/afcs-friend-or-foe/) from [[IFR Magazine]]
 
 
 #concept
