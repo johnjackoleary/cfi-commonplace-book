@@ -1,3 +1,3 @@
 > [!example] By {attribution html}
-> {embed this file HTML, with width removed}
+> <img src="{file URL}"></img>
 ^image

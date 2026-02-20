@@ -8,6 +8,6 @@
 	* A description... of the work performed
 	* The date of completion of the work performed
 	* The signature, and certificate number of the person approving the aircraft for return to service
-* current status of applicable airworthiness directives (AD) including, for each, the method of compliance, the AD number and revision date. If the AD involves recurring action, the time and date when the next action is required.
+* current status of applicable airworthiness directives ([[AD]]) including, for each, the method of compliance, the AD number and revision date. If the AD involves recurring action, the time and date when the next action is required.
 
 #source #far
