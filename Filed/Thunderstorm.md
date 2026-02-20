@@ -22,6 +22,8 @@ Causes:
 
 ## Hazards
 
+## Avoidance
+
 #todo :: expand on this to highlight dangers, formation, etc, maybe causes of lifting, space around them
 
 ![[Thunderstorm from 37,000 feet.jpeg]]
