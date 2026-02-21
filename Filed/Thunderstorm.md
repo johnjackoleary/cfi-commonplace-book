@@ -1,7 +1,7 @@
 # Key Takeaways
 - Too tall to fly over, too dangerous to fly through or under, and can be difficult to circumnavigate
 - Penetration of any thunderstorm **can lead to an aircraft accident and fatalities** to those on board
-- [[Convective SIGMET]]s will be issued for expected thunderstorms
+- Never regard any thunderstorm lightly, even when radar echoes are of light intensity. Avoiding thunderstorms is the best policy.
 
 # Details
 ## 3 Ingredients
@@ -34,15 +34,27 @@ See [[Atmospheric Stability]]
 [[Wind Shear]] and [[Wind Shear#Microbursts]]
 ## Avoidance
 ### Safe Distances
-No closer than 20nm from the storm, although even 40nm away the effects will still be felt for e.g. winds on landing (source)
+> [!quote] [[AIM 7]]-1-29
+> avoid by at least 20 miles any thunderstorm identified as severe or giving an intense radar echo. This is especially true under the anvil of a large cumulonimbus.^[Although anything closer than ~40nm can result in serious winds and turbulence]
 
 ![[Thunderstorm from 37,000 feet.jpeg]]
+^image
 
 ### Forecasting
-![[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
+#todo :: add more info
+
+[[Convective SIGMET]]s will be issued for expected thunderstorms
+
+See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 
 ### In Flight
-Consider diverting
+- Consider diverting and waiting out the storm
+	- May be appropriate to ask for a hangar if hail is expected
+- Go around the storm using radar for large scale planning
+- Never try to use radar to navigate between storm cells
+
+> [!youtube]- Published by [[Air Safety Institute]]
+> ![](https://www.youtube.com/watch?v=83uvKWJS2os)
 
 ## If Unable to Avoid
 > [!quote]- From [[Aviation Weather Handbook]]
