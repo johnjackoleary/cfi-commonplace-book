@@ -21,11 +21,7 @@ GPS/Sentry/ADS-B In
 2. Use [[Maneuvering Speed]] ([[Va]])
 	1. This speed changes with weight -- more weight raises maneuvering speed
 3. Rate of turn and bank angle changes with ground speed -- more ground speed means more bank needed
-4. Finding the wind
-	1. [[ATIS]] / [[AWOS]]
-	2. [[Winds Aloft]] forecast
-	3. Smoke, flags, dust clouds, water fountains
-	4. Wind shadows (great image [here](https://aerialarchives.photoshelter.com/image/I0000lxReAm6J02k))
+4. [[Finding Wind Direction]]
 5. Flying all maneuvers ([[CHAPS]])
 	1. Select location without excessive traffic, and with suitable emergency landing fields
 	2. Select altitude (600'-1000' [[agl]]) and appropriate airspeed for maneuver
