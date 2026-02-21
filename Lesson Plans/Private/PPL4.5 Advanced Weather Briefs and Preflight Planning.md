@@ -42,17 +42,20 @@ Ground 1.5 hour, practice on multiple flights
 			3. Warm, Cold, Stationary, and Occluded Fronts
 			> [!youtube] Published by [@KeithMeldahl](https://www.youtube.com/@KeithMeldahl)
 			> ![](https://www.youtube.com/watch?v=huKYKykjcm0)
-		3. Atmospheric Stability ([[Temp Lapse Rates Effect on Stability.jpeg]]^[The 3°C per 1000ft is the dry adiabatic lapse rate and 0.5°C is the dew point lapse rate, used in this image. See Chap 12/13 of [[Aviation Weather Handbook]] for more info.])
+		3. [[Atmospheric Stability]] ([[Temp Lapse Rates Effect on Stability.jpeg]]^[The 3°C per 1000ft is the dry adiabatic lapse rate and 0.5°C is the dew point lapse rate, used in this image. See Chap 12/13 of [[Aviation Weather Handbook]] for more info.])
 			1. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
 			2. [[Convective Turbulence Avoidance.jpeg]]
-		4. Recognizing [[thunderstorm]]s, [[wind shear]], [[Ice Hazards and Aircraft Icing|ice]], and other critical weather situations
-	3. Interpreting weather radar
-	4. Weather briefings in depth
+		4. [[Thunderstorm]]s
+		5. [[Wind shear]], 
+		6. [[Ice Hazards and Aircraft Icing|ice]]
+		7. Other critical weather situations
+	2. Interpreting weather radar
+	3. Weather briefings in depth
 		1. Structure of weather briefings
 		2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s^[And other [[Inflight Aviation Weather Advisories]]], etc.
 		3. Current weather
 		4. Forecasts: [[Area Forecast Discussion]], [[TAF]]s, [[Winds Aloft]], [[MOS]]
-	5. Types of [[weather brief|weather briefings]] from Flight Service
+	4. Types of [[weather brief|weather briefings]] from Flight Service
 		1. Outlook
 		2. Standard
 		3. Abbreviated

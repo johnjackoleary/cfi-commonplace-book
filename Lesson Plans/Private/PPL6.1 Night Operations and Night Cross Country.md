@@ -27,6 +27,7 @@ Ground 1 hour, flight 3 hours
 2. Bay Area local information
 	1. [[Palo Alto Airport|KPAO]] reverts to Class G, which means only right traffic on 31^[[[FAR 91.126 Class G Airspace Ops Near Airport]]] when tower closed
 	2. Many airports have unique noise abatement procedures at night
+	3. Tower and ground together on ATC
 3. Aircraft lighting and night equipment
 	1. Anti-collision lights -- strobes and/or beacon -- (required day or night, per [[FAR 91.209 Aircraft Lights|§ 91.209]])
 	2. Navigation lights (aka position lights)
@@ -35,6 +36,8 @@ Ground 1 hour, flight 3 hours
 		> Pilots are encouraged to turn on their landing lights when operating within 10 miles of an airport and below 10,000 feet.
 	5. Interior and panel lighting
 	6. Fueling at night or before
+	7. Night lighting personal preferences
+	8. Landing light on as you cross runways
 4. [[Airport Lighting]]
 5. Navigation at night
 	1. Plan a route to maximize time within glide range of an airport

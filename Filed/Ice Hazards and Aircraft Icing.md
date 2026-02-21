@@ -1,3 +1,8 @@
+---
+aliases:
+- icing
+---
+
 # Key Takeaways
 - [Icing](https://www.weather.gov/source/zhu/ZHU_Training_Page/icing_stuff/icing/icing.htm) from [[weather.gov]] does an excellent job summarizing the theory
 - [[Aircraft Icing]] does an excellent job summarizing the impact on aircraft

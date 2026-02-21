@@ -18,7 +18,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 - [[PPL2.6 Aircraft Systems]]
 
 ### Schedule
-1.5 hours ground, flight practice as necessary
+2 hours ground, flight practice as necessary
 
 > [!note] 
 > Can be completed at the same time as [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] or [[PPL5.4 Lost Procedures and Diversion to Alternates]].
@@ -57,7 +57,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 		- Else, take off, and land straight out
 	- Engine Failure!
 		- **(POH)** Abort takeoff, or forced landing straight ahead.^[[Cub Theatre: The-Not-That-Impossible Turn](https://www.youtube.com/watch?v=byBh1Qd6IgA) from [[Paul Bertorelli]] of [[AVweb]]]
-		- See also takeoff brief
+		- See also [[Plans for Rejected Takeoff|takeoff brief]]
 	- Airspeed isn't alive
 		- Abort takeoff, or fly the pattern and land normally
 	- A door opens

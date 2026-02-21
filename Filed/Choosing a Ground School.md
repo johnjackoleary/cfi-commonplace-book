@@ -3,6 +3,7 @@
 | --------------- | ------------------ | -------------------------------------- |
 | King's          | Corny, John/Martha | Corny                                  |
 | Sporty's        | Modern UI/Viz      |                                        |
+| Pilot Institute |                    |                                        |
 | Gleim           |                    |                                        |
 | Rod Machado     |                    |                                        |
 | *other*         | #todo :: add more  |                                        |

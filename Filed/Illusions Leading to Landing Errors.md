@@ -6,7 +6,7 @@ tags:
 > [!tip] Consider [[GARRF]] as a memory aid.
 
 ## Runway Illusions
-> [!tip] Anticipation of this illusions, and using a [[VGSI]], can help combat them.
+> [!tip] Anticipation of this illusions, and using a [[VGSI]] and your altimeter, can help combat them.
 
 - **Upslope/Downslope Runway**: Upsloping runway or terrain may make the aircraft seem higher than it is, resulting in a lower approach. A downslope has the opposite effect.
 - **Wide/Narrow Runway**: Narrower runway may make the aircraft seem higher than it is, resulting in a lower approach. A wide runway has the opposite effect.^[[[Rod Machado]] has a video that can help avoid a high roundout on a wide runway: ["The Runway Expansion Effect"](https://www.youtube.com/watch?v=9JfoZERqM7Q)]

@@ -1,3 +1,9 @@
+---
+aliases:
+- takeoff brief
+- aborted takeoff
+---
+
 Consider what you'll do if you have an issue arise during takeoff.
 
 This may change depending on the particulars of the airport you're departing from, but generally should consider 4 portions of the takeoff.

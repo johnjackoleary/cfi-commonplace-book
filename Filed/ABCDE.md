@@ -6,7 +6,7 @@ A memory aid checklist for executing an emergency landing.
 - **Airspeed** - Establish best glide speed ([[Vg]]), which maximizes your landing options^[Best glide is often achieved by just flying wings level with the horizon. See [Best Glide Simplified](https://pilotworkshop.com/tips/best-glide-simplified/) for more info.]
 - **Best Landing Spot** - Survey the area and choose one^[Hopefully you already had one in mind! Some people think of this like [[Tarzan Swinging Vine to Vine]]]
 	- Turn there immediately!
-	- Land INTO the wind!
+	- Land INTO the wind! (See [[Finding Wind Direction]])
 	- If altitude allows: GPS NRST - what is closest airport?
 	- If you identify a better place on the way, can change this. But should turn to best known option right away.
 	- #rule-of-thumb: Can glide 1.5 NM per 1000 feet altitude in C152/C172S (see also [[POH]])

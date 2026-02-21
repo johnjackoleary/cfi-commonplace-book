@@ -27,12 +27,13 @@ Develop knowledge and skills associated with emergency landings, including choos
 5. Details on flying the approach
 	1. Effects of headwinds/tailwinds 
 		1. ![[Effect of Headwind on Landing Point.jpeg]]
-	2. Aircraft configuration, such as gear and flaps ![[Flaps Effect on Landing Point.jpeg]]
-	3. Keep altitude, and plan to use [[PPL3.3 Forward Slips and No Flap Landings|forward slip]] to control touchdown location
-	4. Don't try to stretch a glide! ![[Stretching a Glide.jpeg]]
-	5. Securing fuel and electrical systems before landing
-	6. Unlatch doors before touchdown
-	7. Maintain aircraft control all the way through the landing -- a controlled landing in bad terrain is better than an uncontrolled landing in good terrain ([[Fly Into The Crash In A Forced Landing]])
+	2. [[Finding Wind Direction]]
+	3. Aircraft configuration, such as gear and flaps ![[Flaps Effect on Landing Point.jpeg]]
+	4. Keep altitude, and plan to use [[PPL3.3 Forward Slips and No Flap Landings|forward slip]] to control touchdown location
+	5. Don't try to stretch a glide! ![[Stretching a Glide.jpeg]]
+	6. Securing fuel and electrical systems before landing
+	7. Unlatch doors before touchdown
+	8. Maintain aircraft control all the way through the landing -- a controlled landing in bad terrain is better than an uncontrolled landing in good terrain ([[Fly Into The Crash In A Forced Landing]])
 6. Considerations for safe landing
 	1. Protect the cabin: Can keep the aircraft cabin in tact by using dispensable structures (wings, landing gear, etc)
 	2. Protect the passengers: Make sure seatbelts are on and secure

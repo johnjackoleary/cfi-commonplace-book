@@ -20,6 +20,11 @@ aliases:
 > [!quote] From [[Pilot-Controller Glossary]]
 > A radar system in which the object to be detected is fitted with cooperative equipment in the form of a radio receiver/transmitter ([[transponder]]). Radar pulses transmitted from the searching transmitter/receiver ([[interrogator]]) site are received in the cooperative equipment and used to trigger a distinctive transmission from the transponder. This reply transmission, rather than a reflected signal, is then received back at the transmitter/receiver site for processing and display at an air traffic control facility.
 
+## Weather Radar
+Related to [[NEXRAD]]
+
+#todo :: Add more info here
+
 # Additional Resources
 - [[AIM 4]]-5
 
