@@ -51,6 +51,7 @@ Ground 1.5 hours
 	6. Clearance available 30min before departure time and 120min after
 4. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach/Departure ([[TRACON]]), Center [[ARTCC]])
+		1. Sectors (see [[The Landline]] for a good example of coordination)
 	2. [[Radar]] and [[transponder]]s 
 	3. [[ADS-B]]
 	4. [[FSS]]
