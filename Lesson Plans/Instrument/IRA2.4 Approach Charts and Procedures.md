@@ -60,17 +60,20 @@ Ground 2.5 hours
 		9. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
 		10. [[NOTAM]]s
 	6. Using ForeFlight Dynamic Procedures
-3. Airport lighting and environment
+3. When to look up
+	1. Different instructors have different preferences, best to ask
+	2. When in doubt, look up when reaching the MDA/DA
+4. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
 	3. Pilot controlled lights
 	4. May need to ask towered airports to turn lights up (or down)
-4. Nav equipment considerations
+5. Nav equipment considerations
 	1. Use of GPS maps and guidance for initial approach ([[AC 90-108]])
 	2. Methods for switching CDI from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
-5. ATC Approach Clearances
+6. ATC Approach Clearances
 	1. [[PTAC]] #memory-aid for an approach clearance
 		1. >[!quote] 81034, you are 5 miles from UUHUT. Fly heading 220. Maintain 3100 until established on the localizer. Cleared ILS 25R approach.
 		2. >[!quote] 5286C, 3 miles from SMONE. Fly direct SMONE. Cross SMONE at 4900. Cleared RNAV 25R.
@@ -83,8 +86,8 @@ Ground 2.5 hours
 			3. How will the approach terminate?
 		2. >[!quote] 81034 requesting the ILS 31 practice approach into Salinas, own navigation, followed by the published missed
 		3. >[!quote] 5286C requesting the ILS 29R practice approach into Stockton, radar vectors, full stop landing
-6. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
-7. Descent Profiles: 
+7. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
+8. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
 		1. Great [[AOPA]] article [here](https://www.aopa.org/news-and-media/all-news/2020/march/pilot/on-instruments-diving-and-driving)
 	2. [[VDP]]
@@ -97,12 +100,12 @@ Ground 2.5 hours
 		2. GPS/DME
 	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
 	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
-8. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) ![[Operation Below DA or MDA]]
-9. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
+9. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) ![[Operation Below DA or MDA]]
+10. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At [[DA]] or [[MAP]], if references above are not visible 
 	2. If below MDA/DA, visibility < min OR lost view of airport references 
 	3. During circling maneuver at or above MDA, airport not visible 
-10. Missed approach 
+11. Missed approach 
 	1. When to execute missed approach?
 	2. Procedure: Cram, Climb, Cool, Configure, Call ([[5 C's (Going Missed)]])
 	3. How to handle MA before MAP 
@@ -112,7 +115,7 @@ Ground 2.5 hours
 		1. May choose to cancel IFR if conditions permit
 		2. In ATC environment - immediately contact ATC to obtain amended clearance
 		3. If unable to contact ATC, attempt to re-intercept published segment of missed approach
-11. Circle to land approaches (AIM 5-4-20)
+12. Circle to land approaches (AIM 5-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
 	3. Which direction to circle? Follow [[FAR 91.126 Class G Airspace Ops Near Airport]] when able
@@ -121,13 +124,13 @@ Ground 2.5 hours
 		2. AIM 5-4-20
 	5. Loss of flight visibility or airport, execute missed 
 	6. Missed approach during circle-to-land procedure (AIM 5-4-21)
-12. Visual and Contact approaches: 
+13. Visual and Contact approaches: 
 	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
 		1. When going missed on a visual approach
 		> [!quote]- From [[AIM 5]]-4-23(f)...
 		> A visual approach is not an [[IAP]] and therefore has no missed approach segment. If a go-around is necessary for any reason, aircraft operating at controlled airports will be issued an appropriate clearance or instruction by the tower to enter the traffic pattern for landing or proceed as otherwise instructed. In either case, the pilot is responsible to maintain terrain and obstruction avoidance until reaching an ATC assigned altitude if issued, and ATC will provide approved separation or visual separation from other IFR aircraft. At uncontrolled airports, aircraft are expected to remain clear of clouds and complete a landing as soon as possible. If a landing cannot be accomplished, the aircraft is expected to remain clear of clouds and contact ATC as soon as possible for further clearance. Separation from other IFR aircraft will be maintained under these circumstances.
 	2. Contact approach (AIM 5-4-25) – pilot must request, vis >1 SM, clear of clouds 
-13. Common errors 
+14. Common errors 
 	1. Getting “behind” the airplane, not ready for missed approach, failing to accomplish checklist items 
 	2. Overcontrolling during final phase of approach, with high [[CDI]] sensitivity 
 	3. Using wrong navigation source during approach 
