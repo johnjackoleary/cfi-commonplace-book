@@ -54,6 +54,9 @@ Other airspaces also exist. Make sure to check for these before you fly!
 - Terminal Radar Service Area ([[TRSA]]) 
 - Special Air Traffic Rules ([[SATR]]) and Special Flight Rules Area ([[SFRA]])
 - [[MTR]]s
+- Wildlife
+	- Agency Areas (e.g. wildlife preserves)^[See [[AC 91-36]]]
+	- National Marine Sanctuaries (1000' AGL minimum, expect fines)
 
 ## Requirements for Airspace Operations
 ### Equipment
@@ -90,6 +93,10 @@ A flight leaving from a busy Charlie in the Bay Area would be handed off from:
 	> - [[FAR 91.141 Presidential TFRs]]
 	> - [[FAR 91.143 Space Flight TFRs]]
 	> - [[FAR 91.145 Aerial Demos and Sporting Event TFRs]]
+
+> [!example]- Other Airspace
+> - [[AIM 3]]-5
+> - [[AC 91-36]]
 
 # Additional Resources
 - [FAA Airspace for VFR Flight](https://youtu.be/wYKI-4XKp1c)
