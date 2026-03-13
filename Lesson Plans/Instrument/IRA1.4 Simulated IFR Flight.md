@@ -34,7 +34,7 @@ The CFI will walk you through which gaits to use and when to run certain checkli
 	3. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
 	4. Non-radar position reports: [[PTATEN]]
 	5. At each IFR waypoint or turn: [[5 Ts]]
-	6. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle)
+	6. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle/flaps)
 	7. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Confirmed, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
 	8. Before landing: [[GUMPS]]
 	9. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed

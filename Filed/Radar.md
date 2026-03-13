@@ -23,6 +23,8 @@ aliases:
 ## Weather Radar
 Related to [[NEXRAD]]
 
+Add video of guy who tried to use radar for tactical navigation
+
 #todo :: Add more info here
 
 # Additional Resources

@@ -91,7 +91,7 @@ Aircraft certified for [[FIKI]] need to have specific tests completed. All equip
 	- Fluids released from leading edge of propeller or wing
 - De-icers remove ice after formation
 	- Rubber boots
-	- Weeping Wing
+	- Weeping Wing (isn't this also listed as anti-ice?)
 - You may be able to knock some ice from a constant-speed propeller by varying the pitch
 
 > [!youtube] Published by [[Air Safety Institute]]
@@ -109,6 +109,6 @@ Aircraft certified for [[FIKI]] need to have specific tests completed. All equip
 - [Aircraft Icing: Everything You Ever Wanted to Know](https://www.youtube.com/watch?v=BNUekm12_xM)
 - From [[Air Safety Institute]]
 	- [Beyond Proficient | IFR Series: Avoiding Icing](https://www.youtube.com/watch?v=gOUkAq8oWy0)
-	- [Accident Case Study: Trapped in Ice](https://www.youtube.com/watch?v=7rryvSQhK7k)
+	- [[Trapped In Ice]]
 
 #concept
