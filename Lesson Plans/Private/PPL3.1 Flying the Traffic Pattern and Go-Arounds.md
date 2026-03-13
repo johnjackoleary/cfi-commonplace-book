@@ -10,27 +10,21 @@ aliases:
   - PPL3.1
 ---
 
-### Objective
-Develop knowledge of towered airport traffic patterns, skill and judgement in approaching and departing various types of patterns, and good procedures while flying the pattern. Additionally develop knowledge, risk management, and skills associated with go-around or rejected landing, with emphasis on landing conditions that may require a go-around.
+### Introduction
+As a student pilot, many lessons will be spent "flying the pattern".  This seemingly simple loop of takeoff and landing, takeoff and landing, is in fact a complex ballet. You'll be learning to hit specific speeds, altitudes, attitudes, and configurations repeatably and precisely, while communicating on the radio, spotting other traffic, judging wind, reacting to commands from the tower, and making risk assessments.
 
-### Resources
-- [[Private Pilot ACS]] Sections III.B, IV.N
-- [[Pattern Precision]]
-- [skyvector.com](http://www.skyvector.com)
-- [flysto.net](http://www.flysto.net)
+Why is this so important? First of all, by hitting these numbers, the pilot sets himself up for an "established" final approach, which is the prerequisite to a safe, smooth landing. Additionally, when we travel to other airports, we'll complete the cross-country flight by "entering the pattern", and hitting these same configurations and speeds as we land.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+The pattern is so important that, at first, we won't even try to land. We'll practice the many steps that, when executed consistently, enable landings, and end each loop with a "go-around", which is another important maneuver that needs to become second nature.
 
-### Builds On
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:**
 - [[PPL1.4 Normal and Crosswind Takeoffs and Climbs]]
 - [[PPL1.5 Towered Airport Operations]]
 - [[PPL2.5 Ground Reference Maneuvers]]
 
-### CFI Equipment
-GPS/Sentry/ADS-B In
-
-### Schedule
-1.5 hour ground, 1.5 hours flight
+**CFI Equipment:** GPS/Sentry/ADS-B In
+**Schedule:** 1.5 hour ground, 1.5 hours flight
 
 ### Lesson Elements
 #### Traffic Pattern
@@ -152,6 +146,12 @@ Client must demonstrate proficiency at planning and flying pattern approaches an
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > - Maintain traffic pattern altitude ±100 feet, and airspeed ±10 knots. 
 > - For go-around, apply takeoff power immediately and transition to climb pitch attitude for [[Vx]] or [[Vx]] as appropriate +10/-5 knots.
+
+### Resources
+- [[Private Pilot ACS]] Sections III.B, IV.N
+- [[Pattern Precision]]
+- [skyvector.com](http://www.skyvector.com)
+- [flysto.net](http://www.flysto.net)
 
 ### Required Homework
 - [ ] Memorize power settings/airspeeds for pattern
