@@ -23,7 +23,7 @@ aliases:
 ## Weather Radar
 Related to [[NEXRAD]]
 
-Add video of guy who tried to use radar for tactical navigation
+[[Time Lapse – misunderstanding in-cockpit weather displays can lead to tragedy]], starting around 8:30
 
 #todo :: Add more info here
 

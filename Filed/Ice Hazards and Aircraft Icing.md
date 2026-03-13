@@ -88,10 +88,9 @@ Aircraft certified for [[FIKI]] need to have specific tests completed. All equip
 	- Pitot heat
 	- Carburetor heat
 	- Windshield defroster
-	- Fluids released from leading edge of propeller or wing
 - De-icers remove ice after formation
 	- Rubber boots
-	- Weeping Wing (isn't this also listed as anti-ice?)
+	- Weeping wing^[Can also be considered anti-icing]
 - You may be able to knock some ice from a constant-speed propeller by varying the pitch
 
 > [!youtube] Published by [[Air Safety Institute]]
