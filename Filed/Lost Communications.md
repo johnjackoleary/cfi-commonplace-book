@@ -147,7 +147,7 @@ For all other cases, it's helpful to use a flowchart. Feel free to carry a physi
 > Reaching OXJEF, we are not yet at our ETA.^[Even though we're on schedule, we not at our ETA since we didn't fly all the way to the airport yet] We'll enter the published hold at 3000'.^[See [[Holding Procedures]] for how to hold when not given a holding clearance. If there's a published hold, we prefer that.] We'll start the descent and approach as close as possible to our ETA.
 
 ## Additional Examples
-> [!youtube] [Lost Communications Procedures | FAR 91.185](https://www.youtube.com/watch?v=RNVh1QtHrQs) is a great practical example from [[FlightInsight]]
+> [!youtube]- [Lost Communications Procedures | FAR 91.185](https://www.youtube.com/watch?v=RNVh1QtHrQs) is a great practical example from [[FlightInsight]]
 > ![](https://www.youtube.com/watch?v=RNVh1QtHrQs)
 
 > [!example]
@@ -159,7 +159,7 @@ There is a lot of debate about lost comms in a real flight. If it's an emergency
 Many pilots would consider losing radio contact in IMC an emergency. The AIM also groups it under the emergency procedures ([[AIM 6]]). However, the FAA has been less committed in their answer.
 
 > [!caution]
-> If you use your [[FAR 91.3 PIC Responsibility and Authority|91.3]] authority to deviate from [[FAR 91.185 Lost Comms|91.185]], **do so in a predictable way** so ATC can accommodate. For example, if an [[IAP]] is along the route, you could decide to hold over the IAP for several minutes to allow ATC to clear traffic away, then start your approach (instead of flying to your clearance limit).
+> If you use your [[FAR 91.3 PIC Responsibility and Authority|91.3]] authority to deviate from [[FAR 91.185 Lost Comms|91.185]], **do so in a predictable way** so ATC can accommodate. For example, if an [[IAF]] is along the route, you could decide to hold over the IAF for several minutes to allow ATC to clear traffic away, then start your approach (instead of flying to your clearance limit).
 
 > [!tip] On your checkride
 > The [[DPE]] is a representative of the FAA, and on the checkride they are looking for a deep understanding and ability to apply [[FAR 91.185 Lost Comms|91.185]]. 

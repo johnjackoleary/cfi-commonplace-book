@@ -1,0 +1,1 @@
+Jack to add to syllabus, three reasons to be higher on teardrop (turbo prop, standard altimeters, departing traffic)
