@@ -3,21 +3,16 @@ tags: [ppl, lesson]
 aliases: [PPL.13, SOLO.13, PPL3.2]
 ---
 
-### Objective
-Develop knowledge, risk management and skills associated with normal and crosswind approach and landing.
+### Introduction
+This is a big one! Now that you've learned to control your speed, altitude, and configuration in the pattern, the next step is learning to land. Landing well requires a lot of practice, and even the most experienced pilot takes pride in a landing that is gentle and smooth. Passengers clap for good reason!
 
-### Resources
-- [[Private Pilot ACS]] Section IV.B
-- [[AFM]]/[[POH]]
+As you take on this challenge, remember to view the quality of your landings on a continuum. You'll achieve landings that are **safe** before landings that are **smooth**. Just work to make every landing as good as you can, and quality will improve over time. Crosswinds add an additional challenge.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+At first we'll learn "normal" landings, and in later lessons we'll learn some additional variations including short-field landings, soft-field landings, and no-flap landings.
 
-### Builds On
-- [[PPL2.1 Slow Flight and Power-Off Stalls]]
-- [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
-
-### Schedule
-1.5 hours ground, 1.5 hours flight, multiple flights to practice as necessary
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL2.1 Slow Flight and Power-Off Stalls]], [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
+**Schedule:** 1.5 hours ground, 1.5 hours flight, multiple flights to practice as necessary
 
 ### Lesson Elements
 1. Goal of landing: Smoothly transfer weight from wings to wheels
@@ -100,6 +95,10 @@ Learner must become proficient at flying stabilized approaches to landing, with 
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Land within 400' of specified point; parallel, on centerline, nose up, no drift
+
+### Resources
+- [[Private Pilot ACS]] Section IV.B
+- [[AFM]]/[[POH]]
 
 ### Required Homework
 - [ ] Read [[FAA P-8740-40 Wind Shear]]

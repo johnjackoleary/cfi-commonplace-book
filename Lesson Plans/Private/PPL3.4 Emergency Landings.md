@@ -2,21 +2,12 @@
 tags: [ppl, lesson]
 aliases: [PPL.15, SOLO.15, PPL3.4]
 ---
-### Objective
-Develop knowledge and skills associated with emergency landings, including choosing an emergency landing location and considerations for a survivable landing.
+### Introduction
+Although it's extremely unlikely, pilots constantly consider the possibility of emergencies that could require a forced landing or precautionary landing. A **forced landing** is the result of a complete loss of engine power-- the pilot needs to choose a landing location, glide there, and manage energy for a controlled landing. A **precautionary landing** assumes you have engine power, but need to put the plane down soon for a variety of reasons. In either case, you'll be practicing a procedure so that these emergencies feel routine, and you're prepared to execute without panic. You'll also practice gliding the plane from altitude all the way to a landing, without power, which is very empowering!
 
-### Resources
-- [[AFM]]/[[POH]]
-- [[Private Pilot ACS]] Section IX.B
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-- [[PPL3.2 Normal and Crosswind Approaches and Landings]]
-- [[PPL3.3 Forward Slips and No Flap Landings]]
-
-### Schedule
-1 hour ground, 2 hour flight, frequent practice on multiple flights
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL3.2 Normal and Crosswind Approaches and Landings]], [[PPL3.3 Forward Slips and No Flap Landings]]
+**Schedule:** 1 hour ground, 2 hour flight, frequent practice on multiple flights
 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]:
@@ -63,6 +54,10 @@ Develop knowledge and skills associated with emergency landings, including choos
 
 ### Completion Standards
 Client should develop knowledge of emergencies and procedures, and demonstrate the ability to maneuver and land the airplane, while following checklist procedures including emergency communications.
+
+### Resources
+- [[AFM]]/[[POH]]
+- [[Private Pilot ACS]] Section IX.B
 
 ### Required Homework
 - [ ] Memorize [[Vg]]
