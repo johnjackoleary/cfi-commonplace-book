@@ -2,21 +2,14 @@
 tags: [ppl, lesson]
 aliases: [PPL.14, SOLO.14, PPL3.3]
 ---
-### Objective
-Develop knowledge, risk management, and skills associated with forward slips to landing and no flap landings.
+### Introduction
+The Forward Slip is a very useful tool in your flying toolbelt. When you find yourself approaching a landing with too much speed, altitude, or both, the forward slip allows you to burn off energy and get yourself positioned for a normal landing. It's also a fun maneuver, because you get to fly a bit sideways!
 
-### Resources
-- [[POH]]
-- [[Private Pilot ACS]] Section IV.M
-- [Slip Solution](https://www.aopa.org/news-and-media/all-news/2009/january/flight-training-magazine/slip-solution) from [[AOPA]]
+This lesson also covers "No-Flap Landings." Although we normally extend flaps for landing, your aircraft is capable of landing without flaps, albeit at a higher approach speed. But without flaps to slow us down, we need to control speed in other ways. We practice this type of landing in case you ever have a problem in flight which keeps you from being able to lower your flaps.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-- [[PPL3.2 Normal and Crosswind Approaches and Landings]]
-
-### Schedule
-Ground 0.5, multiple flights to practice this maneuver frequently
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL3.2 Normal and Crosswind Approaches and Landings]]
+**Schedule:** Ground 0.5, multiple flights to practice this maneuver frequently
 
 ### Lesson Elements
 
@@ -60,6 +53,11 @@ Client must demonstrate smooth entry into a forward slip, with upwind wing down,
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > **Forward slip**: Land within 400' of specified point; parallel, on centerline, nose up, no drift
+
+### Resources
+- [[POH]]
+- [[Private Pilot ACS]] Section IV.M
+- [Slip Solution](https://www.aopa.org/news-and-media/all-news/2009/january/flight-training-magazine/slip-solution) from [[AOPA]]
 
 ### Required Homework
 None
