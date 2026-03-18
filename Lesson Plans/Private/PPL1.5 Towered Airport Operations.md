@@ -65,7 +65,7 @@ Operating out of any airport, towered or untowered, requires an understanding of
 		2. Look for "Tx" on the G1000, or the Tx LED on the radio
 		3. Examine the PPT button-- is it stuck?
 		4. Try tuning the problematic radio to an unused frequency, and using the other radio
-		5. If all else fails, squawk 7600 and decide whether to continue or terminate
+		5. If all else fails, [[squawk 7600]] and decide whether to continue or terminate
 	2. [[Light Gun Signals]]
 		1. Example
 			1. > [!youtube] Published by [FLY8MA.com Flight Training](https://www.youtube.com/@fly8ma.comflighttraining199) 

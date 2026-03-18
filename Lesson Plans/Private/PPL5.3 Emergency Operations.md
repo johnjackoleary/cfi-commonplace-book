@@ -85,6 +85,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 			- Fuel pump failure - Turn on backup pump
 			- Fuel tank running dry - Switch tanks
 			- Ignition switch in 'L' or 'R' - Switch to 'both'
+		- See [[Monterey Flight Emergency Video]]
 	- Electrical failure
 		- The plane still flies; use backup radio or call on cell phone; land as soon as practical
 	- Radio failure (you can't hear them, or they can't hear you)

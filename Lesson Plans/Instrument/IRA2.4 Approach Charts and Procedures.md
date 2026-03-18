@@ -31,7 +31,8 @@ Ground 2.5 hours
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
 
-1. Precision vs. Non Precision
+1. [[Approach Segments and Obstacle Clearance.jpeg]]
+2. Precision vs. Non Precision
 	1. Precision
 		1. [[ILS]] 
 		2. [[PAR]] 
@@ -74,7 +75,7 @@ Ground 2.5 hours
 	3. CDI sensitivity changes during approach 
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 6. ATC Approach Clearances
-	1. [[PTAC]] #memory-aid for an approach clearance
+	1. [[PTAC]] for an approach clearance
 		1. >[!quote] 81034, you are 5 miles from UUHUT. Fly heading 220. Maintain 3100 until established on the localizer. Cleared ILS 25R approach.
 		2. >[!quote] 5286C, 3 miles from SMONE. Fly direct SMONE. Cross SMONE at 4900. Cleared RNAV 25R.
 		3. More examples in [Approach Clearance](https://www.ifr-magazine.com/technique/approach-clearance/) from [[IFR Magazine]]
@@ -129,7 +130,7 @@ Ground 2.5 hours
 		1. When going missed on a visual approach
 		> [!quote]- From [[AIM 5]]-4-23(f)...
 		> A visual approach is not an [[IAP]] and therefore has no missed approach segment. If a go-around is necessary for any reason, aircraft operating at controlled airports will be issued an appropriate clearance or instruction by the tower to enter the traffic pattern for landing or proceed as otherwise instructed. In either case, the pilot is responsible to maintain terrain and obstruction avoidance until reaching an ATC assigned altitude if issued, and ATC will provide approved separation or visual separation from other IFR aircraft. At uncontrolled airports, aircraft are expected to remain clear of clouds and complete a landing as soon as possible. If a landing cannot be accomplished, the aircraft is expected to remain clear of clouds and contact ATC as soon as possible for further clearance. Separation from other IFR aircraft will be maintained under these circumstances.
-	2. Contact approach (AIM 5-4-25) – pilot must request, vis >1 SM, clear of clouds 
+	2. Contact approach ([[AIM 5]]-4-25) – pilot must request, vis >1 SM, clear of clouds^[See [The Contact Approach](https://ifr-magazine.com/technique/the-contact-approach/) for more info]
 14. Common errors 
 	1. Getting “behind” the airplane, not ready for missed approach, failing to accomplish checklist items 
 	2. Overcontrolling during final phase of approach, with high [[CDI]] sensitivity 

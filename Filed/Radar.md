@@ -23,6 +23,8 @@ aliases:
 ## Weather Radar
 Related to [[NEXRAD]]
 
+[[Time Lapse – misunderstanding in-cockpit weather displays can lead to tragedy]], starting around 8:30
+
 #todo :: Add more info here
 
 # Additional Resources

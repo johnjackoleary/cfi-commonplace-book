@@ -36,6 +36,7 @@ Ground 30m, Sim/airplane – 2.5 hours
 	2. Other types offer lateral and vertical guidance (a glideslope) and terminate at a [[DA]]
 	3. Some types make use of [[WAAS]] for higher accuracy
 	4. Some GPS units add an advisory glideslope to lateral-only approaches, under the names LNAV+V and LP+V. These acronyms will not appear on approach charts; they only appear in the GPS system, to assist with flying LNAV and LP approaches.
+		1. Beware of the [Advisory Glidepath Trap](https://aviationnewstalk.com/podcast/414-epic-e1000-n98fk-crash-at-steamboat-springs-lnavv-advisory-glidepath-trap/)
 	5. Other RNAV approaches that are not common in GA: [[GLS]], [[RNP]]
 
 Ordered roughly from most accurate to least accurate:
