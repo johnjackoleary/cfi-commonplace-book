@@ -35,7 +35,7 @@ Overview of short- and soft-field operations
 	2. Position flight controls for existing wind conditions
 	3. Taxi into takeoff position using maximum available runway length, and align on runway centerline
 	4. Apply brakes and hold while applying takeoff power, check gauges
-	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]
+	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]^[This is not actually Vx, since it is a different airspeed when flaps are out. The correct airspeed to use is typically listed in the Performance Section of the [[POH]].]
 	6. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
 	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
 	8. Here's how **NOT** to do it: 

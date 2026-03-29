@@ -7,7 +7,7 @@
 - Leave for the practice area, work on [[PPL2.1 Slow Flight and Power-Off Stalls|slow flight]] and [[PPL1.2 Four Fundamentals of Flight|four fundamentals]], then return to traffic pattern.
 
 # Nearing Checkride
-*Practice everything from the [[Private Pilot ACS]], making sure to understand and achieve all standards.*
+*Practice everything from the [[Private Pilot ACS]], making sure to understand and achieve all standards. [[All Maneuvers Quick Reference]] may be useful for this.*
 
 > [!note] All references to the [[Private Pilot ACS|ACS]] are for the November 2023 version.
 

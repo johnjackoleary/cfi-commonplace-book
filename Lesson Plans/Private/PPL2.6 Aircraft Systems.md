@@ -42,11 +42,12 @@ A pilot is expected to understand all of the systems in the aircraft they fly: h
 	2. Alternator
 	3. Electrical Bus
 	4. Detecting Electrical Failures
+	5. Also see [[C172 G1000 Electrical System Interactive Tool]]
 5. Brakes / Hydraulic System ([Aircraft Systems - 07 - Hydraulic System](https://www.youtube.com/watch?v=M1UddxRAjbc) from [[ERAU SpecialVFR]])
 6. Cabin Heat, Ventilation, and Defrost ([Aircraft Systems - 09 - Enviromental [*sic*] System](https://www.youtube.com/watch?v=MVlEOlM-DPo) from [[ERAU SpecialVFR]])
 	1. [[Carbon Monoxide Poisoning|Carbon Monoxide poisoning]] risk from cabin heat
 7. Equipment Requirements
-	1. [[FAR 91.205 Instrument and Equipment Requirements]] Day/Night VFR
+	1. [[FAR 91.205 Instrument and Equipment Requirements]] Day VFR^[Night covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]]
 		1. Equipment List
 		2. [[KOEL]]
 	2. [[FAR 91.213 Inop Equip|Inoperative Equipment]]
