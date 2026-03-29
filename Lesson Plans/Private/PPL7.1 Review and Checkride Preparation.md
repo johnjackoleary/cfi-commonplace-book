@@ -8,8 +8,9 @@ Prepare for practical test oral and flight portions.
 ### Resources
 - [[Private Pilot ACS]] – all sections
 - [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
-- [[FAR]] [[Part 91]] and [[part 61]]
+- [[FAR]] [[Part 61]] and [[Part 91]]^[[[How to Get Your Certificate and How to Lose Your Certificate]]]
 - [[AIM]]
+- [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]]
 - ["Answers to the ACS" Study App](https://answerstotheacs.com/pages/private.php)
 - Chart Supplements
 
@@ -25,7 +26,7 @@ Ground 3 hours, Flight as necessary
 1. Thorough review of [[ACS]]
 	1. Also helpful to read [[ACS Tips for Evaluators]]
 2. Thoughts on when to discontinue
-	1. Not feeling well, or drained from the oral
+	1. Not feeling well, or drained from the oral, or equipment issues
 	2. Winds or weather beyond personal minimums
 	3. If you wouldn't take your grandma flying today, it's not a good day for a checkride
 3. Odds and Ends FARs (for a general review, see [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]])
@@ -35,14 +36,14 @@ Ground 3 hours, Flight as necessary
 	4. [[Pilot's Bill of Rights]]
 	5. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
 	6. [[ASRS]] Reports^[Informally [NASA reports](https://asrs.arc.nasa.gov)]
-4. [[ADM]] discussion
+4. [[ADM]] and [[Risk Management]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
 	3. [[The Killing Zone]]
-	4. Consider something like "Adhere to these minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
+	4. Consider something like "Adhere to your solo minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
 5. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
-	2. List from 2025 in the Bay on [WVFC Drive](https://drive.google.com/drive/folders/1hH3F2mtutMlbpZ7yaCWb9q1oersNw6tG)
+	2. [List from FSDO for 2026](https://www.faa.gov/about/office_org/field_offices/fsdo/sjc/SJC_FSDO_DPE_List.pdf) in the Bay
 6. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
@@ -52,6 +53,7 @@ Ground 3 hours, Flight as necessary
 		1. https://goldseal.link/privatecheatsheet (free)
 		2. https://pilotworkshop.com/products/checkride-insights-private-pilot/
 	4. Practice oral exams with other students and instructors
+		1. Rachel Webster
 7. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 8. Simulated practical test (optional) with senior CFI
 
