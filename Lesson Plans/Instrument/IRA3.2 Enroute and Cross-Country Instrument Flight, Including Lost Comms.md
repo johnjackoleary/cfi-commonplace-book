@@ -42,9 +42,11 @@ Ground 1.5 hours, Flight 3 hours
 		1. [[InFO 08004]]
 		2. [Avianca Flight 052](https://en.wikipedia.org/wiki/Avianca_Flight_052) #case-study
 	4. Alternate airport selection and planning^[See also [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]]
-		1. Standard and non-standard alternate minimums (link FAR)
+		1. Standard and non-standard alternate minimums ([[FAR 91.169 IFR Flight Plan Info Reqd]])
 		2. [[1-2-3 Rule]]
-		3. Non-WAAS impact on alternate (link FAR)
+		3. Non-WAAS impact on alternate ([[AIM 1]]-1-17, [[AC 90-107]])
+			1. > [!quote] From [[AIM 1]]-1-17
+			> For flight planning purposes, TSO-C129() and TSO-C196()-equipped users (GPS users) whose navigation systems have fault detection and exclusion ([[FDE]]) capability, who perform a preflight [[RAIM]] prediction for the approach integrity at the airport where the RNAV (GPS) approach will be flown, and have proper knowledge and any required training and/or approval to conduct a GPS-based [[IAP]], may file based on a GPS-based IAP at either the destination or the alternate airport, but not at both locations.
 		4. [The Advantage Of Landing On Runways With An ILS](https://www.boldmethod.com/shorts/shorts.ifr.0103/)
 	5. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
 	6. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
