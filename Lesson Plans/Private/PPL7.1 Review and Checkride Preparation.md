@@ -10,7 +10,7 @@ Prepare for practical test oral and flight portions.
 - [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
 - [[FAR]] [[Part 61]] and [[Part 91]]^[[[How to Get Your Certificate and How to Lose Your Certificate]]]
 - [[AIM]]
-- [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]]
+- [[Suggested Study List by Certificate]]
 - ["Answers to the ACS" Study App](https://answerstotheacs.com/pages/private.php)
 - Chart Supplements
 
@@ -29,7 +29,7 @@ Ground 3 hours, Flight as necessary
 	1. Not feeling well, or drained from the oral, or equipment issues
 	2. Winds or weather beyond personal minimums
 	3. If you wouldn't take your grandma flying today, it's not a good day for a checkride
-3. Odds and Ends FARs (for a general review, see [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf) from [[ASA]])
+3. Odds and Ends FARs (for a general review, see [[Suggested Study List by Certificate]])
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]

@@ -34,7 +34,7 @@ Ground 1.5 hours, Flight 3 hours
 2. Review of FARs and AIM relevant to IFR flight
 	1. FAR 91.167-187
 	2. AIM sections from [[~ IRA Pre-Lesson Reading]]
-	3. Suggestions in https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf
+	3. Suggestions in [[Suggested Study List by Certificate]]
 3. IFR cross country flight planning: 
 	1. Symbology on IFR enroute and approach charts 
 	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
