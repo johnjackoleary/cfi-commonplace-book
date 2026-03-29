@@ -31,7 +31,7 @@
 > [!youtube] [Aircraft Magnetic Compass Introduction](https://www.youtube.com/watch?v=4dDKjdj_Dvc) from [[ERAU SpecialVFR]]
 
 1. Construction
-2. [[Compass Errors]]: [[Magnetic Variation|Variation]], [[Magnetic Deviation|Deviation]], [[Magnetic Dip]] and Acceleration Errors
+2. [[Compass Errors]]
 
 ## AHRS and ADC
 1. [[AHRS]] generally replaces the gyroscopic instruments
