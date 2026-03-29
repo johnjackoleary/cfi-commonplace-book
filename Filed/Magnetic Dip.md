@@ -16,7 +16,7 @@ Useful Mnemonics: [[ANDS]]
 > [!summary] From [[PHAK Ch8]]
 > The center of gravity of the float assembly is located lower than the pivotal point. As the aircraft turns, the force that results from the magnetic dip causes the float assembly to swing in the same direction that the float turns.
 
-Useful Mnemonics: [[NOSE]], [[UNOS]]?
+Useful Mnemonics: [[NOSE]], [[UNOS]]
 
 > [!quote] From [[Flight and Ground Instructor Pro-Tips]]: *Molasses in the Compass* by Andrew Godfrey 
 > I shared how I think of the fluid in the compass as molasses instead of a "[[Whiskey Compass]]" where on a northern heading, the molasses is thick, and the compass lags behind. The molasses is like warm syrup on a southern heading and leads the heading.
