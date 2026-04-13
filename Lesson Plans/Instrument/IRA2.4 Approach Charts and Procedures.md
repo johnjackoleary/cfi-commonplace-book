@@ -51,7 +51,7 @@ Ground 2.5 hours
 		1. What can't qualify as a straight in?^[final approach >30° from runway, runway not "clearly defined", or a descent gradient of more than 400 ft/NM from [[FAF]] to [[TCH]]]
 	5. Specific notable elements
 		1. Expiration and amended dates
-		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and Cold Weather^[[KTVL LDA 18](https://cfijack.com/latest-plate-redirect/?plate=05416LDA18.PDF)]
+		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and [[Cold Temperature Airports]]
 		3. Water
 		4. Highest obstacle
 		5. [[MSA]]
