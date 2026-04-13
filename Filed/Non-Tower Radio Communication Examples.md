@@ -1,4 +1,4 @@
-These are [[example radio calls]] for an arrival and departure at a non-tower airport. The exact calls will vary depending on the circumstances. Each call should include your location and altitude, and what you are doing next.
+These are [[Radio Communication Examples]] for an arrival and departure at a non-tower airport. The exact calls will vary depending on the circumstances. Each call should include your location and altitude, and what you are doing next.
 
 >[!tip]
 > When things are confusing or non-standard, it’s OK to get "conversational" on the frequency to make your intentions clear, but try to keep the calls concise.
