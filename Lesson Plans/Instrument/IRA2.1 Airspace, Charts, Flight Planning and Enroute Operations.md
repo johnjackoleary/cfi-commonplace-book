@@ -31,7 +31,12 @@ Ground 1.5 hours
 		1. 8nm width (4nm either side of course centerline)
 	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
 	6. "One in/one out" rule for multiple IFR operations in Class D/E/G^[More info in [this writeup](https://laartcc.org/stm/multiple-ifr-aircraft-approaching-one-airport)]
-2. Enroute Charts: Chart User’s Guide
+2. [[VFR]] Practice Approach Skill vs [[IFR]] Skill
+	1. Essentially developing two skills: one for VFR practice^[How we maintain currency and generally practice] and one for IFR flights^[How we actually fly under IFR]
+	2. Much shared phraseology, but some key differences
+		1. [[VFR Practice Approach Radio Communication Examples]]
+		2. [[IFR Radio Communication Examples]]
+3. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
 	3. Navaids
@@ -42,20 +47,20 @@ Ground 1.5 hours
 	8. [[MCA]], [[MRA]]
 	9. Finding airport and [[ARTCC]] frequencies 
 	10. Compulsory reporting points ([[AIM 5]]-3-2)
-3. Flight planning 
+4. Flight planning 
 	1. Navigation logs, plotters, computers (E6B, etc.), wind computations 
 	2. Fuel planning and requirements ([[FAR 91.167 IFR Fuel Reqs]])
 	3. [[TEC]] routes
 	4. Flight plan forms and filing
 	5. [Equipment codes](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide) on [[ForeFlight]]
 	6. Clearance available 30min before departure time and 120min after
-4. [[ATC]] system 
+5. [[ATC]] system 
 	1. Communication and Navigation facilities (Approach/Departure ([[TRACON]]), Center [[ARTCC]])
 		1. Sectors (see [[The Landline]] for a good example of coordination)
 	2. [[Radar]] and [[transponder]]s 
 	3. [[ADS-B]]
 	4. [[FSS]]
-5. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
+6. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
 	1. When is one needed? ([[1-2-3 Rule]])
 		1. How to get the weather forecasts at airports without a TAF
 	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
