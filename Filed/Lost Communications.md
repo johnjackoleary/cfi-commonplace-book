@@ -35,7 +35,7 @@ We select a route using the items of [[AVE-F]], in that priority order.
 3. **<u>E</u>xpected**: Else, if ATC gave you an expected next instruction, follow that instruction
 4. **<u>F</u>iled**: Else, if none of the other options are available, fly the route you filed^[In practice, it would be impossible or nearly impossible to end up using Filed]
 
-[[SID]]s may include instructions for lost comms, which should be briefed before departure and followed as applicable. (https://aeronav.faa.gov/d-tpp/2603/00162YOSEMITE.PDF)
+[[SID]]s may include instructions for lost comms, which should be briefed before departure and followed as applicable. (E.g. [KFAT YOSE3.NTELL](https://cfijack.com/latest-plate-redirect/?plate=00162YOSEMITE.PDF))
 
 > [!example]-
 > ATC gave us a CRAFT clearance including the route *[PYE V25 PRB](https://skyvector.com/?ll=37.846168006955345,-122.7672930730165&chart=403&zoom=3&fpl=%20O69%20PYE%20V25%20PRB%20KPRB)*. While crossing PYE, we are instructed: "fly heading 130 vectors for traffic". Shortly after, we lose our radio.

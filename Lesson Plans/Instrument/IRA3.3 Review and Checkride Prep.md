@@ -44,8 +44,8 @@ Ground 1 hour, Flight 3 hours
 	4. [[IRA2.2 Holding Patterns and Entries|Holding patterns and entries]] 
 	5. Non-precision and precision approaches to ACS standards 
 	6. Circle to land approaches, risks, and how to fly MAP after circling 
-	7. "Devil’s triangle?" approach practices (SCK/TCY/LVK or OAK/OAK/HWD, etc.) multiple approaches, missed approaches, holding patterns, etc.
-	8. Practice checkride includ?
+	7. Circuit approach practices (SCK/TCY/LVK or OAK/OAK/HWD, [[IRA.E Sample Instrument Approach Circuits for Bay Area#Challenge Circuits|etc]].) multiple approaches, missed approaches, holding patterns, etc.
+	8. Practice checkride including phase check as appropriate
 	9. Logbook entries and endorsements 
 	10. Aircraft prep for checkride, tab MX records, POH/AFM, etc.
 	11. [[Human Factors]] and [[Illusions Leading to Spatial Disorientation]] for instrument flight

@@ -71,13 +71,13 @@ Ground 2.5 hours
 	4. May need to ask towered airports to turn lights up (or down)
 5. Nav equipment considerations
 	1. Use of GPS maps and guidance for initial approach ([[AC 90-108]])
-	2. Methods for switching CDI from GPS to VOR/LOC 
+	2. Methods for switching [[CDI]] from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 6. ATC Approach Clearances
 	1. [[IFR Radio Communication Examples]]
 	2. [[VFR Practice Approach Radio Communication Examples]]
-7.  [[When Are You Established]]?
+7. [[When Are You Established]]? Half-scale CDI deflection
 8. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
 9. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])

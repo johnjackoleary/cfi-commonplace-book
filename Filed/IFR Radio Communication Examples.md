@@ -3,4 +3,6 @@
 2. >[!quote] 5286C, 3 miles from SMONE. Fly direct SMONE. Cross SMONE at 4900. Cleared RNAV 25R.
 3. More examples in [Approach Clearance](https://www.ifr-magazine.com/technique/approach-clearance/) from [[IFR Magazine]]
 
+Related To: [[VFR Practice Approach Radio Communication Examples]]
+
 #radio-comm
