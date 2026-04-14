@@ -79,6 +79,6 @@ Don’t forget to listen to [[ATIS]] prior to first call (before taxi, or before
 
 ---
 
-Related to: [[Non-Tower Radio Communication Examples]], [[Radio Communication Examples]]
+Related to: [[Non-Tower Radio Communication Examples]], [[Radio Communication Examples]], [[Sample Radio Calls]]
 
 #radio-comm

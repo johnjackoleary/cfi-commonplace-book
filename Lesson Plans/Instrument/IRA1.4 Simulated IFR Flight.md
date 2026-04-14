@@ -45,7 +45,7 @@ The CFI will walk you through which gaits to use and when to run certain checkli
 		1. "stop, think, slow down, and prioritize" - [[PHAK Ch2]]
 		2. [[Aviate, Navigate, Communicate]]
 		3. Slow the plane down to 90kts instead of cruise speeds
-		4. Request a delay vector or, similarly, request to continue holding
+		4. Request a [[IFR Radio Communication Examples#Delay Vector|delay vector]] or, similarly, request to continue holding
 	4. > [!quote] From [[Standby for Name When Task Saturated|The Finer Points video]]
 	   > There will come a day when I ask you what your name is, and you tell me to standby.
 5. Common Errors 

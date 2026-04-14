@@ -34,7 +34,7 @@ Ground 1.5 hours
 2. [[VFR]] Practice Approach Skill vs [[IFR]] Skill
 	1. Essentially developing two skills: one for VFR practice^[How we maintain currency and generally practice] and one for IFR flights^[How we actually fly under IFR]
 	2. Much shared phraseology, but some key differences
-		1. [[VFR Practice Approach Radio Communication Examples]]
+		1. [[Practice Approach Radio Communication Examples]]
 		2. [[IFR Radio Communication Examples]]
 3. Enroute Charts: Chart User’s Guide
 	1. High/Low

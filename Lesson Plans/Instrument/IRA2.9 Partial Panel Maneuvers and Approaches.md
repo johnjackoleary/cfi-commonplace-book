@@ -44,7 +44,7 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
 5. ATC notification 
 	1. May be required, likely good idea ([[FAR 91.187 IFR Malfunction Reports]])
-	2. Can also always ask for a delay vector
+	2. Can also always ask for a [[IFR Radio Communication Examples#Delay Vector|delay vector]]
 6. No-gyro [[PAR]] approaches and [[ASR]] approaches 
 7. [[Human Factors]], especially [[Illusions Leading to Spatial Disorientation]]
 8. Sign up for [[WVFC]] [[Safety Pilot]] list, if desired

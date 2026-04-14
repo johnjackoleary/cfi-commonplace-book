@@ -76,7 +76,7 @@ Ground 2.5 hours
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 6. ATC Approach Clearances
 	1. [[IFR Radio Communication Examples]]
-	2. [[VFR Practice Approach Radio Communication Examples]]
+	2. [[Practice Approach Radio Communication Examples]]
 7. [[When Are You Established]]? Half-scale CDI deflection
 8. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
 9. Descent Profiles: 
