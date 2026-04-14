@@ -20,6 +20,7 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 		1. ![[Effect of Headwind on Landing Point.jpeg]]
 	2. [[Finding Wind Direction]]
 	3. Aircraft configuration, such as gear and flaps ![[Flaps Effect on Landing Point.jpeg]]
+		1. [[Flaps, Approach Geometry, Slip]]
 	4. Keep altitude, and plan to use [[PPL3.3 Forward Slips and No Flap Landings|forward slip]] to control touchdown location
 	5. Don't try to stretch a glide! ![[Stretching a Glide.jpeg]]
 	6. Securing fuel and electrical systems before landing

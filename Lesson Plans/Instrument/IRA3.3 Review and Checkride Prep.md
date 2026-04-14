@@ -11,6 +11,7 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 ### Resources
 - [Pilot Cafe Quick Review Guide](https://www.pilotscafe.com/IFR-quick-review-guide/)
 - [[IFR Regulatory Review Assignment]]
+- [[Suggested Study List by Certificate]]
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
@@ -27,7 +28,7 @@ Ground 1 hour, Flight 3 hours
 	2. Instrument phase check
 2. Emergencies and [[ADM]]
 	1. Instrument or system failures 
-	2. Partial panel, no-gyro approaches (ASR, PAR) 
+	2. Partial panel, no-gyro approaches ([[ASR]], [[PAR]]) 
 	3. [[Lost communications]] review (see [[IRA.D Kneeboard Cheatsheets]]). Recognizing loss of communications and attempting to re-establish. 
 	4. Weather emergencies: [[Ice Hazards and Aircraft Icing]], [[Thunderstorm]] 
 	5. Electrical system failures, [[PFD]] or [[MFD]] failure, [[EFB]] failure
@@ -43,8 +44,8 @@ Ground 1 hour, Flight 3 hours
 	4. [[IRA2.2 Holding Patterns and Entries|Holding patterns and entries]] 
 	5. Non-precision and precision approaches to ACS standards 
 	6. Circle to land approaches, risks, and how to fly MAP after circling 
-	7. "Devil’s triangle" approach practices (SCK/TCY/LVK or OAK/OAK/HWD, etc.) multiple approaches, missed approaches, holding patterns, etc.
-	8. Practice checkride including phase check as appropriate 
+	7. Circuit approach practices (SCK/TCY/LVK or OAK/OAK/HWD, [[IRA.E Sample Instrument Approach Circuits for Bay Area#Challenge Circuits|etc]].) multiple approaches, missed approaches, holding patterns, etc.
+	8. Practice checkride including phase check as appropriate
 	9. Logbook entries and endorsements 
 	10. Aircraft prep for checkride, tab MX records, POH/AFM, etc.
 	11. [[Human Factors]] and [[Illusions Leading to Spatial Disorientation]] for instrument flight

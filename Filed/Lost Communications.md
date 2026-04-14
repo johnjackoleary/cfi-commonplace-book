@@ -7,14 +7,14 @@
 
 # Details
 ## Basic Flow
-1. [[Squawk 7600]]
-2. Debug the comms problem
+1. Debug the comms problem
 	1. Try both radios (Com1, Com2)
-	2. Try left and right headsets, which are each triggered by their own PTT switch
+	2. Try left and right headsets, which are each triggered by their own [[PTT]] switch
 	3. Are headset plugs securely inserted?
 	4. Do you see 'TX' on transmit? If not, you may have a stuck mic, or a bad PTT switch
 	5. Consider calling [[TRACON]] or Center on your cell phone!
 	6. Consider using a backup handheld radio
+2. [[Squawk 7600]]
 3. In [[VMC]], continue VFR, land as soon as practicable. 
 4. In [[IMC]]: 
 	1. For Route, use mnemonic [[AVE-F|AVE-F]] – Assigned, Vectored, Expected, then Filed (in that order of priority) 
@@ -35,7 +35,7 @@ We select a route using the items of [[AVE-F]], in that priority order.
 3. **<u>E</u>xpected**: Else, if ATC gave you an expected next instruction, follow that instruction
 4. **<u>F</u>iled**: Else, if none of the other options are available, fly the route you filed^[In practice, it would be impossible or nearly impossible to end up using Filed]
 
-[[SID]]s may include instructions for lost comms, which should be briefed before departure and followed as applicable.
+[[SID]]s may include instructions for lost comms, which should be briefed before departure and followed as applicable. (E.g. [KFAT YOSE3.NTELL](https://cfijack.com/latest-plate-redirect/?plate=00162YOSEMITE.PDF))
 
 > [!example]-
 > ATC gave us a CRAFT clearance including the route *[PYE V25 PRB](https://skyvector.com/?ll=37.846168006955345,-122.7672930730165&chart=403&zoom=3&fpl=%20O69%20PYE%20V25%20PRB%20KPRB)*. While crossing PYE, we are instructed: "fly heading 130 vectors for traffic". Shortly after, we lose our radio.
@@ -132,7 +132,7 @@ Said more plainly, you will typically leave your clearance limit right after you
 > 
 > After reaching HOYCO, we'll start a descent to the initial segment altitude of 4000' and begin the approach.
 
-For all other cases, it's helpful to use a flowchart. Feel free to carry a physical or digital one to reference if you ever need it!
+For all other cases, it's helpful to use a #flowchart. Feel free to carry a physical or digital one to reference if you ever need it!
 > [!summary] Leave Clearance Limit Flowchart
 > ![[IFR Radio Comm Part 2 Two-Way Radio Failure.jpeg]]
 
