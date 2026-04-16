@@ -1,5 +1,16 @@
 This is a complete list of all preflight actions and checks (everything the pilot should do prior to starting the engine) as required either by regulation or best practice.^[At least, as complete as we could get it!]  We recommend that the student distill this into a personal checklist for daily use.
 
+## Flight Planning
+- [ ] Complete a navlog planner, with waypoints, altitudes, fuel requirements, etc.
+	- [ ] Consider performance requirements (eg. climb rates to clear terrain)
+	- [ ] Consider all airspaces, terrain, and obstacles en route
+- [ ] Learn about the destination airport
+	- [ ] Plan for pattern entry
+	- [ ] Read the AF/D entry
+	- [ ] Call ahead to check on fuel, transient parking, and FBO costs
+- [ ] File VFR Flight Plan (if desired)
+- [ ] Be prepared for diversion (money)
+
 ## Pilot
 - [ ] [[IMSAFE|I.M.S.A.F.E.]]
 - [ ] Government-Issued ID, Pilot License, and Medical Certificate[^med] in your possession (§ [[FAR 61.3 Reqs for Certs, Ratings, Etc|61.3]])
@@ -33,14 +44,6 @@ This is a complete list of all preflight actions and checks (everything the pilo
 - [ ] Don't let yourself be rushed
 - [ ] Don't go if something's not right
 - [ ] Consider the [[Three Strikes and You’re Out Rule]]
-
-## Flight Planning
-- [ ] Complete a navlog planner, with waypoints, altitudes, fuel requirements, etc.
-	- [ ] Consider performance requirements (eg. climb rates to clear terrain)
-	- [ ] Consider all airspaces, terrain, and obstacles en route
-- [ ] Call ahead to each airport to check on fuel, transient parking, and FBO costs
-- [ ] File VFR Flight Plan (if desired)
-- [ ] Be prepared for diversion (money)
 
 ## Other
 - [ ] Provide passengers with [[SAFETY]] briefing
