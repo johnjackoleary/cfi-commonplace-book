@@ -8,21 +8,12 @@ aliases:
   - SOLO.16
   - PPL3.5
 ---
-### Objective
-Develop knowledge and skills for soft-field (unpaved) takeoffs and landings, and short-field takeoffs and landings.
+### Introduction
+Up until now, all of our takeoffs and landings have been on a paved surface with more than enough space available. We call these "normal" takeoffs and landings. But it is also possible to land your plane on a soft (unpaved) runway, such as a grass strip, or a short (space-constrained) runway. These takeoffs and landings require special technique, which you'll first learn to demonstrate on a normal runway, and later get to practice on runways where they're really necessary, such as the grass strip at Frasier Lake (1C9), or the 1,875' runway at Lodi Airpark (L53).
 
-### Resources
-- [[Private Pilot ACS]] Sections IV.E&F (Short Field) and IV.C&D (Soft Field)
-- [[Commercial ACS]] Sections IV.E&F (Short Field) and IV.C&D (Soft Field)
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-- [[PPL1.4 Normal and Crosswind Takeoffs and Climbs]]
-- [[PPL3.2 Normal and Crosswind Approaches and Landings]]
-
-### Schedule
-Ground 1.0; Flight – multiple flights, with frequent practice
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.4 Normal and Crosswind Takeoffs and Climbs]], [[PPL3.2 Normal and Crosswind Approaches and Landings]]
+**Schedule:** Ground 1.0; Flight – multiple flights, with frequent practice
 
 ### Lesson Elements
 Overview of short- and soft-field operations
@@ -77,6 +68,10 @@ Client should demonstrate ability to perform short- and soft-field takeoffs and 
 > - **Short Field Landing**: Land w/in 200' of specified point; parallel, centerline, nose up, no drift
 > - **Soft Field Takeoff**: Taxi w/ minimal braking and no stops; Liftoff early; Accelerate in ground effect; At V<sub>X</sub> or V<sub>Y</sub> start climb
 > - **Soft Field Landing**: Minimum sink, parallel, centerline, nose up, no drift; elevator back through exit
+
+### Resources
+- [[Private Pilot ACS]] Sections IV.E&F (Short Field) and IV.C&D (Soft Field)
+- [[Commercial ACS]] Sections IV.E&F (Short Field) and IV.C&D (Soft Field)
 
 ### Required Homework
 - [ ] Complete solo quiz
