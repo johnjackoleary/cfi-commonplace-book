@@ -2,20 +2,12 @@
 tags: [ppl, lesson]
 aliases: [PPL.17, SOLO.17, PPL3.6]
 ---
-### Objective
-Complete the [[FAR 61.87 Student Solo Reqs]] required pre-solo knowledge test, ensure pre-solo documentation is filed, and identify any remaining areas for practice.
+### Introduction
+You're nearly ready to solo! In this lesson we'll identify any remaining areas that need practice. We'll also make sure the required paperwork and quizzes have all been completed. And finally, we'll set up a "Phase Check", which is a lesson with another instructor, just to cross-check and make sure we haven't left any gaps in your training.
 
-### Resources
-- Phase Check Form (if applicable)
-- [[POH]]
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-All pre-solo lessons
-
-### Schedule
-2 hour ground, 1 hour flight
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** All pre-solo lessons
+**Schedule:** 2 hour ground, 1 hour flight
 
 ### Lesson Elements
 1. [[FAR 61.87 Student Solo Reqs]] lists the FAA's requirements before a student solo
@@ -47,6 +39,10 @@ All pre-solo lessons
 
 ### Completion Standards
 Client has completed pre-solo knowledge test and received all necessary endorsements.
+
+### Resources
+- Phase Check Form (if applicable)
+- [[POH]]
 
 ### Required Homework
 - [ ] Read relevant part 61 FARs
