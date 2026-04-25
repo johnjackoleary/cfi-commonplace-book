@@ -18,6 +18,7 @@ At night, however, our night blind spot requires off center scanning to see thin
 
 ![[Night Blind Spot.jpeg]]
 
+https://www.instagram.com/reel/DVW-ORZEmpF/?igsh=NTc4MTIwNjQ2YQ%3D%3D
 
 # Additional Resources
 - [[AIM 8]]
