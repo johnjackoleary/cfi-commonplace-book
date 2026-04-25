@@ -9,6 +9,8 @@
 - high wing plane - lift wing slightly before banking
 - look in direction of likely traffic inbound, such as the 45 of a non-towered airport
 
+
+
 # Additional Resources
 - [[AIM 8]]
 - [[Vision in Flight]]
