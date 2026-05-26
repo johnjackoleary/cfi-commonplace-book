@@ -4,18 +4,18 @@
 - [[ForeFlight]] [Webcam Integration](https://foreflight.com/blog/bringing-real-time-weather-cameras-to-more-pilots)
 
 # Bay Cameras
-| Camera         | URL                                                                               |
-| -------------- | --------------------------------------------------------------------------------- |
-| KSQL           | https://command.verkada.com/view/f9021849-3151-449f-8f31-5a6f108b5703?shard=prod1 | 
-| KHAF           | https://vkda.co/view/2dcce3cb-6a42-4701-bbfe-35cc55c275a5?shard=prod1             |
-| Half Moon Bay  | https://www.samschowderhouse.com/about-sams/samcam.html                           |
-| Sunnyvale      | https://mpcam.marklex.com/webcam/marklex/                                         |
-| Sunol          | https://weathercams.faa.gov/map/cameraSite/696/details/camera/12662/full          |
-| Peninsula      | https://weathercams.faa.gov/map/cameraSite/696/details/camera/12664/full          |
-| San Jose       | http://www.met.sjsu.edu/cam_directory/                                            |
-| Mount Hamilton | https://mthamilton.ucolick.org/hamcam/hamcam1.html                                |
-| Oakland        | https://www.fox10phoenix.com/webcams-sf-bay                                       |
-| Berkeley       | https://lawrence-view.wilderz.workers.dev                                         |
+| Camera                          | URL                                                                               |
+| ------------------------------- | --------------------------------------------------------------------------------- |
+| [[San Carlos Airport\|KSQL]]    | https://command.verkada.com/view/d044df87-5c9c-4029-acde-c37106b7767d?shard=prod1 |
+| [[Half Moon Bay Airport\|KHAF]] | https://command.verkada.com/view/b49bc366-5936-4ae4-b01a-b3aee1beb1f8?shard=prod1 |
+| Half Moon Bay                   | https://www.samschowderhouse.com/about-sams/samcam.html                           |
+| Sunnyvale                       | https://mpcam.marklex.com/webcam/marklex/                                         |
+| Sunol                           | https://weathercams.faa.gov/map/cameraSite/696/details/camera/12662/full          |
+| Peninsula                       | https://weathercams.faa.gov/map/cameraSite/696/details/camera/12664/full          |
+| San Jose                        | http://www.met.sjsu.edu/cam_directory/                                            |
+| Mount Hamilton                  | https://mthamilton.ucolick.org/hamcam/hamcam1.html                                |
+| Oakland                         | https://www.fox10phoenix.com/webcams-sf-bay                                       |
+| Berkeley                        | https://lawrence-view.wilderz.workers.dev                                         |
 
 ## Other Cameras Near the Bay
 - Watsonville: https://www.watsonvillepilots.org/airport
