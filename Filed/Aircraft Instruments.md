@@ -15,7 +15,10 @@
 4. Vertical Speed Indicator
 5. Pitot-Static Failures
 	1. Use and impact of alternative static usage^[Jack always struggled to remember how alternate static impacted static pressure. Recently, he heard a story of an old, disagreeable man who owned a lake resort. He wanted his ashes to be scattered over the lake, so when he died, they took a small plane and poured out the ashes. But, since the air pressure in the cabin is lower than outside, all the ashes were pulled back into the airplane. Thus, he continued to be a pain even after death. Also, alternate static inside the cabin is lower than normal pressure outside.]
-	2. Pitot Heat
+	2. Altimeter Errors
+		1. Not setting altimeter setting
+		2. [[High to Low, Look Out Below]] ([[High to Low, Look Out Below|Hot to Cold, Look Out Below]])
+	3. Pitot Heat
 
 ## Gyroscopic Instruments (Vacuum- and Electric-Driven)
 > [!youtube] [Gyroscopic Instruments](https://www.youtube.com/watch?v=hVsx4XWafXg) from [[ERAU SpecialVFR]]
