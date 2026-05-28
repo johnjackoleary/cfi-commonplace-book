@@ -33,7 +33,7 @@ Operating out of any airport, towered or untowered, requires an understanding of
 			1. Runway #, taxing instructions, hold short, line-up-and-wait, cleared-for-takeoff, cleared-to-land, etc.
 			2. Sometimes specific request for readback in the [[ATIS]]
 	5. After tuning a frequency, PAUSE before talking to make sure you're not stepping on a conversation (counting to 4 seems to be the magic duration)
-	6. Mentally rehearse what you will say before keying the mic.
+	6. Mentally rehearse what you will say before keying the mic
 	7. If in doubt, ask for clarification or request "say again" (or "say again *\<element\>*")
 	8. Don't be afraid to throw in a "student pilot", to get a little extra understanding
 	9. Anticipate the response and pay attention for any unusual elements
