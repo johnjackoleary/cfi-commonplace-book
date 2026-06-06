@@ -2,21 +2,18 @@
 tags: [ppl, lesson]
 aliases: [PPL.20, XC.4, PPL4.4]
 ---
-### Objective
-Develop understanding of aircraft limitations and weight & balance, and how to compute aircraft performance and W&B for a cross country flight.
+### Introduction
+In this lesson, we continue to learn the elements of a safe and efficient cross-country flight.
 
-### Resources
-- [[Private Pilot ACS]] Section I.F
-- [[POH]]/[[AFM]]
-- [SkyVector](https://skyvector.com) for planning online
+An airplane can't fly safely if it is loaded beyond its max gross weight, or if its center of gravity is too far forward or aft.  So we'll learn to compute a plane's Weight & Balance.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+Also, for proper flight planning, we'll need to know how much runway we need to takeoff and land, how quickly the plane can climb, how fast it will cruise, and how much fuel it will use to do these things.  So we'll be learning about airplane performance.
 
-### Builds On
-[[PPL1.3 Weather Briefs and Preflight Planning]]
+Finally, you'll notice that some of these performance stats depend on Groundspeed (GS), not airspeed.  GS and airspeed are different when there's wind.  And there's always wind.  So we'll learn to compute a plane's GS based on expected winds.
 
-### Schedule
-3 hours ground
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.3 Weather Briefs and Preflight Planning]]
+**Schedule:** 3 hours ground
 
 ### CFI Equipment
 - [[E6B]] Calculator or App
@@ -36,6 +33,12 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 		1. By hand
 		2. Online / EFB
 3. Performance calculations
+	1. Takeoff and landing distances for ground roll and obstacle clearance
+	2. Rate of climb and time to climb
+	3. Impact of [[Density Altitude]] on takeoff and climb performance
+	4. Power settings for cruise, airspeed and fuel burn
+		1. Importance of and methods for [[Leaning the Mixture]]
+4. Calculating wind correction and groundspeed
 	1. [[Wind Triangle]] and relevant terminology
 		1. [[Course]] - intended path over the earth
 		2. [[Heading]] - where the plane's nose is pointing
@@ -49,21 +52,18 @@ Develop understanding of aircraft limitations and weight & balance, and how to c
 		1. Finding [[CAS]] and [[TAS]]
 		2. Finding [[WCA]] and [[GS]]
 		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
-	4. Takeoff and landing distances for ground roll and obstacle clearance
-	5. Rate of climb and time to climb
-	6. Impact of [[Density Altitude]] on takeoff and climb performance
-	7. Power settings for cruise, airspeed and fuel burn
-		1. Importance of and methods for [[Leaning the Mixture]]
-	8. [[Personal Minimums]] and other safety factor considerations 
+5. [[Personal Minimums]] and other safety factor considerations 
 
 ### Completion Standards
 Client should develop knowledge of [[POH]]/[[AFM]] organization, including performance and weight & balance calculations.
 
+### Resources
+- [[Private Pilot ACS]] Section I.F
+- [[POH]]/[[AFM]]
+- [SkyVector](https://skyvector.com) for planning online
+
 ### Required Homework
 - [ ] Memorize sections of [[POH]]
 - [ ] Read [[POH]] Section 5, 6
-
-### Recommended Homework
-None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
