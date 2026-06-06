@@ -2,17 +2,10 @@
 tags: [ppl, lesson]
 aliases: [XC.1, PPL4.1]
 ---
-### Objective
-Learner understands the structure and flow of cross-country lessons, including an overview of aspects which make cross country ([[XC]]) flying different.
+### Introduction
+Now that you've soloed, we're going to start working on cross-country ([[XC]]) flying.  "Cross country" just refers to a flight that starts at point A and ends at point B.  Point B could be a lunch stop a half hour away, or a vacation destination where you're carrying friends and luggage.  In all these cases, cross-country flights add a new dimension to flying, and require the pilot to be familiar with many more subjects and procedures.
 
-### Resources
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Schedule
-Ground 0.5 hours
-
-> [!note] 
-> Can be completed at the same time as [[PPL4.2 Advanced Airport Operations]].
+**Schedule:** Ground 0.5 hours
 
 ### Lesson Elements
 #### Cross Country Overview
@@ -50,10 +43,10 @@ Ground 0.5 hours
 ### Completion Standards
 Learner understands scope and flow of XC lessons.
 
+### Resources
+> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+
 ### Required Homework
 - [ ] Purchase items from [[PPL.C When to Acquire Various Equipment]]
-
-### Recommended Homework 
-None
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

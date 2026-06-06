@@ -2,25 +2,12 @@
 tags: [ppl, lesson]
 aliases: [PPL.18, XC.2, PPL4.2]
 ---
-### Objective
-Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and review airport markings and lighting systems.
+### Introduction
+Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and a review of airport markings and lighting systems.
 
-### Resources
-- [AOPA's "Operations at Nontowered Airports"](https://download.aopa.org/epilot/2008/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
-- [[Private Pilot ACS]] Section III.B
-- [[Non-Tower Radio Communication Examples]]
-- [[AC 90-66]]
-- [How to Talk Like a Pilot](https://medium.com/faa/how-to-talk-like-a-pilot-c0d15bd1327f) from [[FAA Safety Team]]
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-- [[PPL1.5 Towered Airport Operations]]
-- [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
-- [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
-
-### Schedule
-Ground 2 hours, 1 hour sim/flight
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.5 Towered Airport Operations]], [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]], [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
+**Schedule:** Ground 2 hours, 1 hour sim/flight
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...
@@ -79,6 +66,13 @@ Ground 2 hours, 1 hour sim/flight
 
 ### Completion Standards
 Client should demonstrate knowledge of non-towered airport operations, including obtaining pre-flight information, airport markings, traffic pattern procedures, radio communications, and awareness of other aircraft.
+
+### Resources
+- [AOPA's "Operations at Nontowered Airports"](https://download.aopa.org/epilot/2008/sa08.pdf) #safety-advisors from [[Air Safety Institute]]
+- [[Private Pilot ACS]] Section III.B
+- [[Non-Tower Radio Communication Examples]]
+- [[AC 90-66]]
+- [How to Talk Like a Pilot](https://medium.com/faa/how-to-talk-like-a-pilot-c0d15bd1327f) from [[FAA Safety Team]]
 
 ### Required Homework
 - [ ] Read [[AC 90-66]]
