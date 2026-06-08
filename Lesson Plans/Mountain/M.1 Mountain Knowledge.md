@@ -40,10 +40,12 @@ Background knowledge required for safe mountain flying.
 3. Preflight Considerations
 	1. Pilot
 		1. Aeromedical Factors
-			1. [[Oxygen Systems]] (legal, practical, and at night)
+			1. [[Hypoxia]]
+				1. [[Oxygen Systems]] (legal, practical, and at night)
 			2. [[Dehydration]]
 			3. [[Fatigue]]
 			4. Impact of sinus issues at altitude
+				1. Viselia (speeling_?) Manuever?
 			5. #Illusions
 		2. Equipment
 			1. Survival
@@ -63,7 +65,7 @@ Background knowledge required for safe mountain flying.
 			2. Takeoff/Landing Calculations
 				1. [[50-70 Rule]]
 				2. Higher [[TAS]] and [[GS]] on landing, same [[IAS]]
-				3. Impact of downslope, grass, etc^[[[AC 91-79]] has more info on this]
+				3. Impact of downslope, grass, etc^[[[AC 91-79]] has more info on this (confirm old link)]
 			3. Climb performance degradation
 				1. May require circling to gain altitude ([[Shuttle Climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
@@ -110,7 +112,8 @@ Background knowledge required for safe mountain flying.
 				2. Venturi Effects
 			3. Clouds
 				1. [[Mountain Wave]] Signs![[Mountain Waves and Associated Clouds.jpeg]]
-				3. [[Kelvin–Helmholtz Cloud]]s
+					1. ![[Mountain Wave Clouds.jpeg]]
+				2. [[Kelvin–Helmholtz Cloud]]s
 			4. [[Thunderstorm]]s
 			5. Winds at peaks
 				1. Rule of thumb for winds >25 kts at peaks (from [[Tips on Mountain Flying]])

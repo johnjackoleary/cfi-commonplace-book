@@ -49,7 +49,7 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 	1. [[Plans for Rejected Takeoff]]. Reasons to reject: nose wheel shimmy, engine RPM, something "doesn't feel right", etc
 	2. Emergency plans must be in mind BEFORE TAKEOFF
 	3. Engine failure on upwind climb below safe altitude -- LAND STRAIGHT AHEAD
-	4. Reasons **not** to reject: an open window or door, or anything that can be fixed easily in the air, or after a prompt landing
+	4. Reasons **not** to reject: an open window or door, or anything that can be fixed easily in the air, or after a prompt landing (?)
 8. Common Errors
 	1. Ignoring crosswind
 	2. Drifting from centerline during takeoff roll

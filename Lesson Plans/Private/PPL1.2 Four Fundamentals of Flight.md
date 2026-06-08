@@ -69,6 +69,7 @@ This follows the topics covered in a demo flight, if not previously flown.
 - It's useful to memorize power settings for repeatable climbs/descents
 - During climb, [[Four Left Turning Tendencies#P-Factor (Asymmetric Loading)|P-Factor]] increases the need for right rudder
 - Q: What happens, during straight-and-level flight, if you add throttle? Why?
+	- move up
 - Q: What happens, during straight-and-level flight, if you extend flaps?  Why?
 
 **In Practice**
