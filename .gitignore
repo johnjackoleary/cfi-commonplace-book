@@ -16,3 +16,4 @@ Thumbs.db
 
 # CFI Commonplace Book
 +*.md
+.obsidian/bookmarks.json
