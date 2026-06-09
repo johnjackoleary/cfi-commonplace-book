@@ -41,7 +41,7 @@ Ground 1.0 hours
 		12. Radio or nav failures
 		13. Compulsory reporting points (no radar)
 		14. 500 FPM climb or descent unable. 
-	3. Position reports^[Good read in [[IFR Magazine]] at [this link](https://www.ifr-magazine.com/technique/position-reports/)]
+	3. Position reports^[Good read in [[IFR Magazine]] at [this link](https://www.flyingmag.com/position-reports/)]
 		1. [[designated reporting point]]s ([[FAR 91.183 IFR Communications]](a) and [[AIM 5]]-3-2, non-radar)
 		2. Position report structure ([[PTATEN]] mnemonic) ([[AIM 5]]-3-2(d))
 			1. Position
@@ -53,7 +53,7 @@ Ground 1.0 hours
 2. Clearances ([[Sample IFR Clearances]])
 	1. When are clearances required? 
 		1. [[FAR 91.173 ATC Clearance Reqd|FAR 91.173]]
-		2. However, see [[Lamb 2016]] [[LOI]], which states operating IFR in uncontrolled airspace can be careless and reckless under [[FAR 91.13 Careless or Reckless Ops|91.13]], depending on the circumstances^[[Legal Interpretations](https://ifr-magazine.com/technique/legal-interpretations/) by [[IFR Magazine]]: "In a 1993 case, George Murphy was tired of waiting for his IFR release from a nontowered airport, so he took off uncontrolled [[IFR]] into low ceilings with passengers, figuring he would reach [[VMC]] before entering controlled airspace at 700 AGL. The violation for operating without a clearance was dismissed, but that did not stop the [[NTSB]] from giving him a 90-day flight vacation for careless and reckless operation."]
+		2. However, see [[Lamb 2016]] [[LOI]], which states operating IFR in uncontrolled airspace can be careless and reckless under [[FAR 91.13 Careless or Reckless Ops|91.13]], depending on the circumstances^[[Legal Interpretations](https://www.flyingmag.com/legal-interpretations/) by [[IFR Magazine]]: "In a 1993 case, George Murphy was tired of waiting for his IFR release from a nontowered airport, so he took off uncontrolled [[IFR]] into low ceilings with passengers, figuring he would reach [[VMC]] before entering controlled airspace at 700 AGL. The violation for operating without a clearance was dismissed, but that did not stop the [[NTSB]] from giving him a 90-day flight vacation for careless and reckless operation."]
 	2. How to obtain clearance
 		1. Clearance Delivery/GND at Towered Airport
 		2. FSS

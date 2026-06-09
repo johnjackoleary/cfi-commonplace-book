@@ -21,7 +21,7 @@
 			1. If time is not specified, standard inbound leg is 1min below 14,000', 1.5min above. 
 		2. Some holds are distance-based, and require DME/GPS
 			1. Example: [KSPZ RNAV RWY 24](https://cfijack.com/latest-plate-redirect/?plate=09917r24.PDF)
-			2. Distance is measured diagonally. (Extra info in [GPS Holds](https://ifr-magazine.com/avionics/gps-holds/) from [[IFR Magazine]])
+			2. Distance is measured diagonally. (Extra info in [GPS Holds](https://www.flyingmag.com/gps-holds/) from [[IFR Magazine]])
 	3. Turns: Standard Rate (3° per second)
 5. Maximum airspeeds in protected airspace
 	1. Slow to proper speed 3 min from hold

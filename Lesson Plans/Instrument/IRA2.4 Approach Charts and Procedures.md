@@ -91,7 +91,7 @@ Ground 2.5 hours
 		1. Timing from [[FAF]] to [[MAP]]
 		2. GPS/DME
 	4. Use of flaps when near minimums^[Adding flaps when breaking out at 200' may be more destabilizing than they are worth. Consider only adding flaps if, for example, you've broken out />1000' AGL.]
-	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information [here](https://www.ifr-magazine.com/avionics/watch-your-stepdown/).
+	5. Using the vertical guidance beyond precision FAF, while convenient, may not keep you above the required step-down altitudes. More information here: [[Watch Your Step(Down)]].
 10. What is required to descend below [[DA]] or [[MDA]]? ([[FAR 91.175 IFR Takeoff and Landing|FAR 91.175]]) ![[Operation Below DA or MDA]]
 11. When is a missed approach required? ([[FAR 91.175 IFR Takeoff and Landing]])
 	1. At [[DA]] or [[MAP]], if references above are not visible 
@@ -121,7 +121,7 @@ Ground 2.5 hours
 		1. When going missed on a visual approach
 		> [!quote]- From [[AIM 5]]-4-23(f)...
 		> A visual approach is not an [[IAP]] and therefore has no missed approach segment. If a go-around is necessary for any reason, aircraft operating at controlled airports will be issued an appropriate clearance or instruction by the tower to enter the traffic pattern for landing or proceed as otherwise instructed. In either case, the pilot is responsible to maintain terrain and obstruction avoidance until reaching an ATC assigned altitude if issued, and ATC will provide approved separation or visual separation from other IFR aircraft. At uncontrolled airports, aircraft are expected to remain clear of clouds and complete a landing as soon as possible. If a landing cannot be accomplished, the aircraft is expected to remain clear of clouds and contact ATC as soon as possible for further clearance. Separation from other IFR aircraft will be maintained under these circumstances.
-	2. Contact approach ([[AIM 5]]-4-25) – pilot must request, vis >1 SM, clear of clouds^[See [The Contact Approach](https://ifr-magazine.com/technique/the-contact-approach/) for more info]
+	2. Contact approach ([[AIM 5]]-4-25) – pilot must request, vis >1 SM, clear of clouds^[See [The Contact Approach](https://www.flyingmag.com/the-contact-approach/) for more info]
 15. Common errors 
 	1. Getting “behind” the airplane, not ready for missed approach, failing to accomplish checklist items 
 	2. Overcontrolling during final phase of approach, with high [[CDI]] sensitivity 

@@ -66,7 +66,7 @@ If a safety pilot cannot or does not want to act as PIC, they may instead log [[
 	- [[Beaty 2013]]
 - [Logging Time: Safety Pilot](https://www.aopa.org/training-and-safety/learn-to-fly/old-pages/logging-cross-country-time/logging-time-safety-pilot) from [[AOPA]]
 - [Safety Pilot Rules](https://www.avweb.com/flight-safety/instrument-flight/safety-pilot-rules/) from [[AVweb]]
-- [BasicMed Safety Pilots](https://ifr-magazine.com/system/basicmed-safety-pilots/) from [[IFR Magazine]]
+- [BasicMed Safety Pilots](https://www.flyingmag.com/basicmed-safety-pilots/) from [[IFR Magazine]]
 
 > [!Warning] 
 > Not all aircraft can be used with a safety pilot. See [[FAR 91.109 Flight Instruction, Sim Instrument, Tests|FAR 91.109]] for more info
