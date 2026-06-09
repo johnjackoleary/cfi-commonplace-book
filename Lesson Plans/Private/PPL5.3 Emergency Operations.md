@@ -89,11 +89,11 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 	- Electrical failure
 		- The plane still flies; use backup radio or call on cell phone; land as soon as practical
 	- Radio failure (you can't hear them, or they can't hear you)
-		- [[Squawk 7600]]; proceed to destination if safe; call tower/[[TRACON]] on cell phone if able ([[ATC Phone Numbers]]); look for light signals
+		- [[Squawk 7600]]; proceed to destination if safe; call tower/[[TRACON]] on cell phone if able ([[ATC Phone Numbers]]); look for light signals; transmit in the blind
 	- Instruments don't seem to be reading correctly
 		- Are the altimeter and VSI "stuck" even when you change altitude?
 			- **(POH)** Static source is blocked; try alternate static source
-		- Does airspeed vary with altitude?
+		- Does airspeed vary with altitude (increases as you climb/works like an altimeter)?
 			- Pitot tube is blocked
 		- Are the vacuum-powered instruments dead? (Which ones are they in your plane?)
 			- Vacuum pump (pumps?) is inop

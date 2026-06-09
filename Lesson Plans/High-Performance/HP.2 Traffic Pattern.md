@@ -19,9 +19,10 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 ### Builds On
 - [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
 - [[PPL2.6 Aircraft Systems]]
+- [[HP.1 Theory, Maneuvers, and Emergencies]]
 
 ### Schedule
-1.5hr ground, flights until proficient
+1.5hr ground^[Primarily for checkout form review, if applicable], flights until proficient
 
 ### Lesson Elements
 - Review of club checkout forms, if applicable

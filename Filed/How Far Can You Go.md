@@ -1,4 +1,4 @@
-***Link***      :: [How Far Can You Go?](https://ifr-magazine.com/system/how-far-can-you-go/)
+***Link***      :: [How Far Can You Go?](https://www.flyingmag.com/how-far-can-you-go/)
 ***Description***      :: `= this.link`
 ***Author*** :: [[Fred Simonds]]
 

@@ -30,7 +30,7 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 			1. An example of a [[WAAS LPV.png|significant outage]].
 	2. Installation approval and operational approval required
 	3. TSO 129/196 (Non-WAAS) requires alternate approved and operational means of navigation
-	4. Expired database - https://www.ifr-magazine.com/charts-plates/is-expired-data-usable/
+	4. Expired database - https://www.flyingmag.com/is-expired-data-usable/
 		1. IFR enroute/terminal - verification of data for correctness
 		2. IFR approach - current database or verification procedure has not been amended since expiration of database ([[AIM 1]]-1-19)
 		3. Checkride - expired DB not allowed per [[Instrument ACS]]

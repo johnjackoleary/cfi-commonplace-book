@@ -1,4 +1,4 @@
-***Link***      :: [Watch your Step(down)](https://ifr-magazine.com/avionics/watch-your-stepdown/)
+***Link***      :: [Watch your Step(down)](https://www.flyingmag.com/watch-your-stepdown/)
 ***Description***      :: `= this.link`
 ***Author*** :: [[IFR Magazine]]
 

@@ -1,4 +1,4 @@
-***Link***      :: [IFR Muscle Builders](https://ifr-magazine.com/training-sims/ifr-muscle-builders/)
+***Link***      :: [IFR Muscle Builders](https://www.flyingmag.com/ifr-muscle-builders/)
 ***Description***      :: `= this.link`
 ***Author*** :: [[IFR Magazine]]
 

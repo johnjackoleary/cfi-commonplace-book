@@ -34,7 +34,7 @@ If the plane is safe to fly, then there's a procedure for starting the engine, a
 		1. Who is responsible for maintaining aircraft in airworthy condition? Owner or Operator - [[FAR 91.403 General Maintenance]]
 		2. Who determines airworthiness? Pilot-In-Command - [[FAR 91.7 Aircraft Airworthiness]]
 		3. Legal vs Safety
-	5. POH sections
+	5. [[POH]] sections
 	6. Fuel sampling and fuel level
 	7. Oil levels - see [[POH]] and club policies
 	8. Required documents on board - [[AR(R)OW]]

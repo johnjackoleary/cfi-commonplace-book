@@ -17,15 +17,14 @@ Practice departing and arriving from the airport, select maneuvers from [[Privat
 
 ### Builds On
 - [[PPL5.3 Emergency Operations]]
-- [[HP.2 Traffic Pattern]]
 
 ### Schedule
-1hr ground^[Primarily for checkout form review, if applicable], flights until proficient
+1hr ground, flights until proficient
 
 ### Lesson Elements
 
 #### Constant Speed Propellers
-- Theory: 
+- Theory
 	- Constant speed prop theory ([Great article](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-a-constant-speed-prop-works/) from [[Bold Method]])
 	- [[MP]] background
 	- Danger of high [[MP]] and low [[RPM]]
@@ -49,6 +48,7 @@ Practice departing and arriving from the airport, select maneuvers from [[Privat
 	- Know engine takeoff limits, e.g. when and how much to reduce MP/RPM after takeoff, if at all.
 	- Pitching for a cruise climb to improve engine cooling
 	- Importance of checklists for each stage of flight, especially with more advanced systems
+	- Drop of MP on climbout from altitude change
 - En Route
 	- Order of changing power settings ("[[Don't Crush The Egg]]" or [[Power Up - 7 Up, Power Down - 7 Down]])
 - Descent

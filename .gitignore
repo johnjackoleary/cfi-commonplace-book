@@ -12,6 +12,7 @@ Thumbs.db
 
 # Obsidian
 .obsidian/workspace*
+.obsidian/bookmarks.json
 .ipad/workspace*
 
 # CFI Commonplace Book
