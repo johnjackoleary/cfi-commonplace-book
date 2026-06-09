@@ -45,7 +45,7 @@ Background knowledge required for safe mountain flying.
 			2. [[Dehydration]]
 			3. [[Fatigue]]
 			4. Impact of sinus issues at altitude
-				1. Viselia (speeling_?) Manuever?
+				1. Valsalva maneuver
 			5. #Illusions
 		2. Equipment
 			1. Survival
@@ -65,7 +65,7 @@ Background knowledge required for safe mountain flying.
 			2. Takeoff/Landing Calculations
 				1. [[50-70 Rule]]
 				2. Higher [[TAS]] and [[GS]] on landing, same [[IAS]]
-				3. Impact of downslope, grass, etc^[[[AC 91-79]] has more info on this (confirm old link)]
+				3. Impact of downslope, grass, etc^[[[AC 91-79]] has more info on this]
 			3. Climb performance degradation
 				1. May require circling to gain altitude ([[Shuttle Climb]])
 				2. May not be able to out climb [[downdraft]] (best to push forward out of it, similar to ocean riptides)
