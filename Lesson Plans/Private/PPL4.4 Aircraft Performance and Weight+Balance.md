@@ -24,35 +24,48 @@ Finally, you'll notice that some of these performance stats depend on Groundspee
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
-1. Organization of [[POH]]
-2. [[Weight and Balance]] calculations
-	1. [[MGW]], [[MRW]], [[MTOW]], and [[MLW]]
-	2. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
-	3. Effect of gross weight on performance
-	4. How to calculate
-		1. By hand
-		2. Online / EFB
-3. Performance calculations
-	1. Takeoff and landing distances for ground roll and obstacle clearance
-	2. Rate of climb and time to climb
-	3. Impact of [[Density Altitude]] on takeoff and climb performance
-	4. Power settings for cruise, airspeed and fuel burn
-		1. Importance of and methods for [[Leaning the Mixture]]
-4. Calculating wind correction and groundspeed
-	1. [[Wind Triangle]] and relevant terminology
-		1. [[Course]] - intended path over the earth
-		2. [[Heading]] - where the plane's nose is pointing
-		3. [[Track]] - actual path over the ground
-		4. Bearing is the angle from you to some point you want to reach.  Generally, you plan a Course based on the Bearing of your destination or new waypoint.
-		5. [[Magnetic Variation]]
-		6. [[Magnetic Deviation]]
-	2. Use of [[ForeFlight]]/[[EFB]] for winds aloft data
-		1. Source of winds aloft [here](https://aviationweather.gov/data/windtemp/?region=sfo&fcst=06&level=low)
-	3. Using an [[E6B]]
-		1. Finding [[CAS]] and [[TAS]]
-		2. Finding [[WCA]] and [[GS]]
-		3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
-5. [[Personal Minimums]] and other safety factor considerations 
+**Organization of [[POH]]**
+Most airplane POHs have the same chapter subjects in the same order. It is very useful to know how the POH is organized and where to find things, starting with the charts and tables referenced below.
+1. POH organization and chapters
+
+**Weight and Balance calculations**
+[[FAR 91.9 Flight Manual, Marking, and Placard Reqs|FAR 91.9]] requires the pilot to comply with the aircraft's operating limitations, which include weight & balance. And it's critical to comply for safety reasons.  Hence, we compute it before each flight.
+
+1. [[MGW]], [[MRW]], [[MTOW]], and [[MLW]]
+2. Effect of CG location on stability and performance ([[Static vs Dynamic Stability and How Trainer Planes Are Designed]])
+3. Effect of gross weight on performance
+4. How to calculate
+	1. By hand
+	2. Online / EFB
+
+**Performance calculations**
+Can this airplane land on that short runway? Can it climb over that mountain? The POH contains tables and charts to help the pilot compute the answers to these and other critical questions.
+
+1. Takeoff and landing distances for ground roll and obstacle clearance
+2. Rate of climb and time to climb
+3. Impact of [[Density Altitude]] on takeoff and climb performance
+4. Power settings for cruise, airspeed and fuel burn
+	1. Importance of and methods for [[Leaning the Mixture]]
+
+**Calculating wind correction and groundspeed**
+In the presence of wind, groundspeed (GS) does not equal airspeed, and the pilot may need to point the airplane's nose away from the intended destination to reach it directly.  We model this problem and its corrections using the "wind triangle".
+
+1. [[Wind Triangle]] and relevant terminology
+	1. [[Course]] - intended path over the earth
+	2. [[Heading]] - where the plane's nose is pointing
+	3. [[Track]] - actual path over the ground
+	4. Bearing is the angle from you to some point you want to reach.  Generally, you plan a Course based on the Bearing of your destination or new waypoint.
+	5. [[Magnetic Variation]]
+	6. [[Magnetic Deviation]]
+2. Use of [[ForeFlight]]/[[EFB]] for winds aloft data
+	1. Source of winds aloft [here](https://aviationweather.gov/data/windtemp/?region=sfo&fcst=06&level=low)
+3. Using an [[E6B]]
+	1. Finding [[CAS]] and [[TAS]]
+	2. Finding [[WCA]] and [[GS]]
+	3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
+
+**Other**
+1. [[Personal Minimums]] and other safety factor considerations**
 
 ### Completion Standards
 Client should develop knowledge of [[POH]]/[[AFM]] organization, including performance and weight & balance calculations.
