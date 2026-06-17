@@ -16,7 +16,7 @@
 	8. Webcams^[[[Useful Bay Area Webcams]]] or calling someone at the airport 
 3. Known traffic delays (https://nasstatus.faa.gov/map)
 4. Runway lengths
-5. Available alternatives
+5. Alternate airports
 6. Fuel requirements ([[FAR 91.151 VFR Fuel Reqs]], [[POH]])
 	1. Some clubs have specific club regulations
 7. Takeoff and landing distance -- aircraft performance vs airport elevation, gross weight, wind and temperatures
