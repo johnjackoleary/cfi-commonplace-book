@@ -6,8 +6,8 @@
 # Bay Cameras
 | Camera                          | URL                                                                               |
 | ------------------------------- | --------------------------------------------------------------------------------- |
-| [[San Carlos Airport\|KSQL]]    | https://command.verkada.com/view/d044df87-5c9c-4029-acde-c37106b7767d?shard=prod1 |
-| [[Half Moon Bay Airport\|KHAF]] | https://command.verkada.com/view/b49bc366-5936-4ae4-b01a-b3aee1beb1f8?shard=prod1 |
+| San Carlos Airport    | https://command.verkada.com/view/d044df87-5c9c-4029-acde-c37106b7767d?shard=prod1 |
+| Half Moon Bay Airport | https://command.verkada.com/view/b49bc366-5936-4ae4-b01a-b3aee1beb1f8?shard=prod1 |
 | Half Moon Bay                   | https://www.samschowderhouse.com/about-sams/samcam.html                           |
 | Sunnyvale                       | https://mpcam.marklex.com/webcam/marklex/                                         |
 | Sunol                           | https://weathercams.faa.gov/map/cameraSite/696/details/camera/12662/full          |

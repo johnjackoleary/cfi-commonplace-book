@@ -33,7 +33,7 @@ From *[Aviation International News](https://www.ainonline.com/aviation-news/gene
 **Mitigations:**
 In short: better planning and preparation.
 - Familiarize yourself with the airport diagram and likely taxi routes through airport
-- Review all NOTAMs for the airport
+- Review all [[NOTAM]]s for the airport
 - Write down taxi instructions as they are given, and read them back
 - Exercise a [[Sterile Cockpit]]
 - Review and understand [[Filed/Hotspot|hotspots]], which can be found in airport diagrams ([[KSNA Airport Diagram with Hotspots.pdf|example]]), the Airport/Facility Directory (A/FD) ([[KSNA Hotspot Descriptions.jpeg|example]]), and instrument approach books

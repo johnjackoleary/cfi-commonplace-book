@@ -9,7 +9,7 @@ aliases:
   - PPL3.5
 ---
 ### Introduction
-Up until now, all of our takeoffs and landings have been on a paved surface with more than enough space available. We call these "normal" takeoffs and landings. But it is also possible to land your plane on a soft (unpaved) runway, such as a grass strip, or a short (space-constrained) runway. These takeoffs and landings require special technique, which you'll first learn to demonstrate on a normal runway, and later get to practice on runways where they're really necessary, such as the grass strip at Frasier Lake (1C9), or the 1,875' runway at Lodi Airpark (L53).
+Up until now, all of our takeoffs and landings have been on a paved surface with more than enough space available. We call these "normal" takeoffs and landings. But it is also possible to land your plane on a soft (unpaved) runway, such as a grass strip, or a short (space-constrained) runway. These takeoffs and landings require special technique, which you'll first learn to demonstrate on a normal runway, and later get to practice on runways where they're really necessary, such as the grass strip at [[Frazier Lake]] (1C9), or the 1,875' runway at [[Lodi Airpark]] (L53).
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.4 Normal and Crosswind Takeoffs and Climbs]], [[PPL3.2 Normal and Crosswind Approaches and Landings]]

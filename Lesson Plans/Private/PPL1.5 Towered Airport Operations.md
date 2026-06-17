@@ -26,7 +26,7 @@ Operating out of any airport, towered or untowered, requires an understanding of
 		2. Special number pronunciations: "Tree", "Fife" and "Niner"
 		3. You can practice by reading license plates out loud as you drive
 	2. Memorize frequencies for training airport ([[Bay Area Radio Frequencies]])
-	3. Format for all initial radio calls: YOU (who you're calling), ME (who you are), WHERE you are (in 3D space), WHAT you want
+	3. Format for all initial radio calls: YOU (who you're calling), ME (who you are), WHERE you are (in 3D space), WANT (what you want)
 	4. Format for responses:
 		1. If in doubt, read back full instructions, followed by your call sign
 		2. You can read back only the key data, but some elements must always be read back:
@@ -46,7 +46,7 @@ Operating out of any airport, towered or untowered, requires an understanding of
 		2. Wilco - I understand and will comply (when a readback is not needed)
 		3. Affirm(ative) / Negative - Yes / No
 		4. (Negative) Contact - I (do not) have the aircraft in sight
-		5. Say Again (*\<element\>*") - Please repeat (*specific info*, e.g. altitude)
+		5. Say Again ("*\<element\>*") - Please repeat (*specific info*, e.g. altitude)
 		6. Standby - Please wait, and there's no need to acknowledge this standby
 		7. Unable, *reason* - I cannot do that request because of *reason*
 	4. Handling traffic advisories: negative contact, looking, or traffic in sight
@@ -57,13 +57,11 @@ Operating out of any airport, towered or untowered, requires an understanding of
 	3. Taxi instructions/clearances
 	4. [[Runway Incursion]]
 5. Takeoff clearances: hold short, line-up-and-wait, cleared for takeoff
-6. Departure and Arrival Procedures and Communication at Home Airport
-	1. Listen to LiveATC for local radio calls
-7. Radio Issues
+6. Radio Issues
 	1. Stuck microphones -- how to detect, how to respond
 		1. Detection: You're not hearing them, or they don't seem to be hearing you
 		2. Look for "Tx" on the G1000, or the Tx LED on the radio
-		3. Examine the PPT button-- is it stuck?
+		3. Examine the [[PPT]] button-- is it stuck?
 		4. Try tuning the problematic radio to an unused frequency, and using the other radio
 		5. If all else fails, [[squawk 7600]] and decide whether to continue or terminate
 	2. [[Light Gun Signals]]
@@ -73,7 +71,9 @@ Operating out of any airport, towered or untowered, requires an understanding of
 		2. Debugging common radio issues (volume low, cable disconnect)
 		3. Study and memorize the signals
 		4. Put a copy onto your kneeboard (people forget in the stress of the moment!)
-9. Common Errors
+7. Departure and Arrival Procedures and Communication at Home Airport
+	1. Listen to LiveATC for local radio calls
+8. Common Errors
 	1. Poor radio etiquette, stepping on others, getting tongue-tied
 	2. Not reading back the required information
 	3. Not [[scanning for traffic]], or keeping traffic to follow in sight
