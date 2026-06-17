@@ -121,7 +121,7 @@ Some of the currently available FIS-B products are:
 - [[TIS-B]] Service Status
 
 > [!warning]
-> In flight weather information will have a delay and can not be used for tactical navigation. See [[NEXRAD]]
+> In flight weather information will have a delay and can not be used for tactical navigation. See [[Time Lapse – Misunderstanding In-Cockpit Weather Displays Can Lead to Tragedy]]
 
 # Additional Resources
 - [[AIM 4]]-5
