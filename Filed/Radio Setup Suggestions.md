@@ -1,4 +1,10 @@
-There are many correct radio setups you might use.
+There are many correct radio setups you might use, and it's largely a matter of personal preference.
+
+A few key ideas, however:
+1. Ensure both COM 1 and COM 2 can [[tx]] and [[rx]] before taking off
+2. When able, monitor guard (121.5)^[[[AIM 6]]-2-4]
+
+The setups below are what Jack uses and may be a helpful starting point.
 
 ## Pre-Solo
 Jack recommends this for pre-solo students or pattern work

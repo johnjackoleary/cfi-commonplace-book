@@ -45,7 +45,7 @@ If the plane is safe to fly, then there's a procedure for starting the engine, a
 	1. Cold start, hot start, flooded start
 	2. What to do if it doesn't start, especially in cold weather
 		1. [[Starter Duty Cycle]]
-7. Suggest a [[Standard Radio Setup]]
+7. [[Radio Setup Suggestions]]
 8. Taxiing Procedure
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)

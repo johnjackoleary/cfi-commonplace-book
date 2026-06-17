@@ -60,7 +60,7 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 5. [[ADS-B]] weather/traffic
 6. Radio
 	1. Look for [[tx]], [[rx]]
-	2. Consider a [[Standard Radio Setup]]
+	2. Consider [[Radio Setup Suggestions]]
 7. #G1000 specific topics: 
 	1. [[AHRS]] vs [[ADC]] – what are they, what do you do if they fail?
 	2. Electrical system – how do you know if the alternator has failed? 
