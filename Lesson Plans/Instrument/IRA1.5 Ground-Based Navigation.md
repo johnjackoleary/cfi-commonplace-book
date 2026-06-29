@@ -16,7 +16,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. I
 
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-- [[IRA1.3 Instrument Maneuvers]]
+- [[IRA1.3 Instrument Maneuvers with Full and Partial Panel]]
 - [[IRA1.4 Simulated IFR Flight]]
 
 ### Schedule
@@ -27,6 +27,8 @@ Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on d
 2. Common Errors 
 	1. Incorrect tuning and identification procedures 
 	2. Failure to set navigation selector for the course to be intercepted (GPS vs VOR/VLOC switch) 
+
+#### Airplane or Sim Activity
 
 ### Completion Standards
 Student must be able to tune and ID VOR navaid, detect failures; check receiver for proper operation; orient to a VOR station or course; intercept assigned course; track course to or from VOR, with crosswind correction; Maintain heading within 10°s, altitude within 100 feet, airspeed within 10 kts. Student must know how to check autopilot operation during preflight, and how to use autopilot during enroute flight.

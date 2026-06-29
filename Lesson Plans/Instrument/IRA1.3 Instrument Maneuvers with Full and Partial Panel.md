@@ -25,7 +25,34 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 	2. Gait chart gives initial pitch/power/configuration
 	3. Gait chart also helps us avoid chasing the instruments!
 	4. Common maneuvers listed in activity below
-3. Common Errors
+3. Unusual Attitudes
+	1. Causes of unusual flight attitudes 
+		1. Failure to properly trim the controls
+		2. Distraction, or fixation
+		3. Turbulence and wake turbulence
+	2. Unusual Attitude Recoveries (IFH 7-26) 
+		1. Unusual attitudes are those not normally required during instrument flight. Recovery includes prompt return to straight-and-level flight 
+		2. Full panel recoveries 
+		3. Partial panel recoveries 
+	3. Recognize **nose-high unusual attitude**: 
+		1. ASI slow or decreasing rapidly 
+		2. VSI shows climb, altimeter shows climb 
+		3. TC shows turn 
+		4. Recovery: 
+			1. Power-Pitch-Bank (must become 2nd nature!) 
+			2. Full-power - Pitch Down - Level Wings 
+	4. Recognize **nose-low unusual attitude**: 
+		1. ASI fast or increasing rapidly 
+		2. VSI negative rate, altimeter shows descent 
+		3. TC shows turn 
+		4. Recovery: 
+			1. Power-Bank-Pitch (must become 2nd nature!) 
+			2. Reduce power - Level Wings - Pitch Up 
+	5. Common errors 
+		1. Failure to recognize unusual attitude 
+		2. Dependence on senses other than instrument indications 
+		3. Failure to use proper recovery sequence, i.e. power-pitch-bank for nose high, and power-bank-pitch for nose low 
+4. Common Errors
 	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 
 	3. Doing things while turning – should do nothing else until turn is complete 
@@ -53,15 +80,24 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 	9. Non-Prec Appr to MDA (90kts, -800 fpm), approach configuration
 	10. Level off, approach configuration
 	11. Full power climb at Vy and clean up^[[[5 C's (Going Missed)]]]
-2. [[Pattern A.png|Pattern A]]
-3. [[Oscar Pattern]]
+2. Unusual Attitudes
+	1. Full Panel
+	2. Partial Panel
+3. Simulated Engine Failure
+4. [[Pattern A.png|Pattern A]]
+5. [[Oscar Pattern]]
 	1. Great [[Oscar Pattern#^the-finer-points|overview video]] from [[The Finer Points]]
 	2. Pattern image at [this timestamp](https://youtu.be/GwymtvCgBOk?si=Y4FsAZx-aEjMNPf9&t=103)
-4. [[Pattern B and Vertical S.png|Vertical S]], description in [[IFR Muscle Builders]]
+6. [[Pattern B and Vertical S.png|Vertical S]], description in [[IFR Muscle Builders]]
 	1. 500 fpm first, then 400, 300, and 200.
 	2. Challenge: Complete this at 90 kts
+7. Time permitting, additional partial panel practice
 
 ### Completion Standards
-Student must become proficient at transitioning between the phases of flight used on a typical IFR flight. Maintain heading within 10°, altitude within 100 feet, airspeed within 10 kts.
+Student must become proficient at transitioning between the phases of flight used on a typical IFR flight. Maintain heading within 10°, altitude within 100 feet, airspeed within 10 kts. Student demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude.
+
+### Required Logbook Phraseology
+For [[FAR 61.65 Instrument Rating Reqs]]:
+- Emergency operations
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

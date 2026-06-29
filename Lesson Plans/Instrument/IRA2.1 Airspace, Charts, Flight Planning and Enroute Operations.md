@@ -60,17 +60,7 @@ Ground 1.5 hours
 	2. [[Radar]] and [[transponder]]s 
 	3. [[ADS-B]]
 	4. [[FSS]]
-6. Alternates ([[FAR 91.169 IFR Flight Plan Info Reqd]])
-	1. When is one needed? ([[1-2-3 Rule]])
-		1. How to get the weather forecasts at airports without a TAF
-	2. Standard alternate minimums: Precision, Non Precision, no published [[IAP]]
-	3. Non-standard alternate minimums
-	4. Alternatives for non-[[WAAS]] GPS cannot use GPS approaches at both destination AND alternate ([[AIM 1]]-1-17)
-	5. Practical advice. The best alternatives:
-		1. Are in a different microclimate than your destination
-		2. Have an [[ILS]], which gives you the best chance of landing in IMC
-		3. Have a [[TAF]], making it easier to forecast the weather specifically at the airport
-	6. Diversions while in flight vs. planned alternate
+6. [[Alternate Airport Selection (IFR)]]
 
 ### Completion Standards
 Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and online).

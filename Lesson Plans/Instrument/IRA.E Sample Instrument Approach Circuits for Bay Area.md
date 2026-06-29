@@ -64,6 +64,7 @@ Suggested Circuit:
 ## Simulator Practice
 - [KLVN DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF)^[Doesn't list anything... what does that mean?] -> [KLVN ILS 30](https://cfijack.com/latest-plate-redirect/?plate=06652IL30.PDF) -> Missed -> [KSGS LOC 34](https://cfijack.com/latest-plate-redirect/?plate=05190L34.PDF) (w/o GPS) -> Missed -> [KSGS RNAV 34](https://cfijack.com/latest-plate-redirect/?plate=05190R34.PDF) -> Full Stop -> [KSGS DP](https://cfijack.com/latest-plate-redirect/?plate=NC1TO.PDF) -> [KRGK RNAV 27](https://cfijack.com/latest-plate-redirect/?plate=06662R27.PDF)
 - [PHNL ILS Z 4R](https://cfijack.com/latest-plate-redirect/?plate=00754IZ4R.PDF)
+- KPRB BRALY 1 rwy 31 (Lost Comms) -> KPRB RNAV 19 (Full stop) -> KPRB PRB2 OPD rwy 31 (no GPS) -> [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) (From Feeder Route, No GPS, Missed) -> [KPRB VOR 19](https://cfijack.com/latest-plate-redirect/?plate=00858V19.PDF) (Partial Panel, With GPS, Missed) -> KPRB RNAV 31 (Circling)
 
 ## In Airplane Practice
 - [KEDU RNAV 17](https://cfijack.com/latest-plate-redirect/?plate=06030R17.PDF) ->  published missed -> vectors to [KSMF ILS 17R](https://cfijack.com/latest-plate-redirect/?plate=05490IL17R.PDF) -> right x-wind departure -> [KVCB RNAV 20](https://cfijack.com/latest-plate-redirect/?plate=06094R20.PDF)

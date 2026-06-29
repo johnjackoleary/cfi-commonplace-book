@@ -9,7 +9,6 @@ aliases:
 Learn proper IFR communications techniques, include copying clearances, normal communications
 
 ### Resources
-- [[FAR 91.185 Lost Comms]]
 - [[IFH]] Appendix A (clearance shorthand)
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]

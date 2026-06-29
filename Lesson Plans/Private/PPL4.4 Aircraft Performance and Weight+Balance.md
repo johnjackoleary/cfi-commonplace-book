@@ -43,7 +43,7 @@ Can this airplane land on that short runway? Can it climb over that mountain? Th
 
 1. Takeoff and landing distances for ground roll and obstacle clearance
 2. Rate of climb and time to climb
-3. Impact of [[Density Altitude]] on takeoff and climb performance
+3. Impact of [[Density Altitude]] ([[Hot, High, and Heavy]]) on takeoff and climb performance
 4. Power settings for cruise, airspeed and fuel burn
 	1. Importance of and methods for [[Leaning the Mixture]]
 

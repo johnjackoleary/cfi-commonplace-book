@@ -22,10 +22,10 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 	2. Electrical system drives T/C (turn coordinator) 
 	3. Pitot-static system 
 	4. Autopilot – rate based (uses turn coordinator) or attitude based?
-2. Diagnosing system failures 
-	1. Inverted-V Scan
-	2. Bank triangle (most critical): A/I, TC, Directional Gyro ([[DG]])
-	3. Pitch triangle: A/I, Altimeter, VSI A/S 
+2. Diagnosing system failures
+	1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
+	2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
+	3. Pitch triangle: [[AI]], Altimeter, [[VSI]] ([[ASI]], vacuum gauge)
 3. Partial Panel operations 
 	1. Lost vacuum – no A/I or HI (HSI) 
 		1. Use T/C and compass for bank, 
@@ -47,8 +47,9 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 	2. Can also always ask for a [[IFR Radio Communication Examples#Delay Vector|delay vector]]
 6. No-gyro [[PAR]] approaches and [[ASR]] approaches 
 7. [[Human Factors]], especially [[Illusions Leading to Spatial Disorientation]]
-8. Sign up for [[WVFC]] [[Safety Pilot]] list, if desired
-9. Common errors: 
+8. Unusual Attitude Recovery
+9. Sign up for [[WVFC]] [[Safety Pilot]] list, if desired
+10. Common errors: 
 	1. Slow to recognize failure could result in an unusual attitude 
 	2. Overcontrolling with partial panel 
 
