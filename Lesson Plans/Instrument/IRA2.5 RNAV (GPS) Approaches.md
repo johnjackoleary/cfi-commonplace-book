@@ -18,7 +18,7 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 
 ### Builds On
 - [[IRA1.6 Satellite Navigation]]
-- [[IRA2.4 Approach Charts and Procedures]]
+- [[IRA2.4 Approach Procedures]]
 
 ### Schedule
 Ground 30m, Sim/airplane – 2.5 hours 

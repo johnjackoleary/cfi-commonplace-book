@@ -16,7 +16,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IRA2.1 Charts and Approach Plates]]
 - [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule

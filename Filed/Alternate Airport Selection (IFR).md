@@ -1,7 +1,7 @@
 # Key Takeaways
 - You are always required to file an IFR alternate (except when not required by the [[1-2-3 Rule]])
 - A filed alternate must be a legal alternate choice
-- Alternate planning is to force a reasonable Plan B, but when actually flying you can go to any airport that makes sense
+- Alternate planning is to force a reasonable Plan B airport and [[FAR 91.167 IFR Fuel Reqs|sufficient fuel]], but when actually flying you can go to any airport that makes sense
 
 # Details
 ## When is an Alternate Required
@@ -25,7 +25,7 @@ According to [[FAR 91.169 IFR Flight Plan Info Reqd|FAR 91.169]], **at the ETA a
 	- Otherwise, *Standard Minimums*
 		- 600-2 for a precision approach^[Note: An LPV is not a precision approach]
 		- 800-2 for a non-precision approach
-- **If there is no IAP at the alternate**, must be able to descend from [[MEA]] to the airport and land under basic [[VFR]]
+- **If there is no IAP at the alternate**, must be able to descend from [[MEA]] to the airport, approach, and land under basic [[VFR]]
 
 ### Weather Forecasts
 1. How to get the weather forecasts at airports without a TAF
@@ -57,7 +57,8 @@ The best alternatives:
 
 # Additional Resources
 - [[FAR 91.169 IFR Flight Plan Info Reqd]]
-- [[AIM 1]]‑1‑17 (GPS/WAAS alternate flight planning)
+- [[FAR 91.167 IFR Fuel Reqs]]
+- [[AIM 1]]‑1‑17/18 (GPS/WAAS alternate flight planning)
 - [[TPP]]
 
 #concept

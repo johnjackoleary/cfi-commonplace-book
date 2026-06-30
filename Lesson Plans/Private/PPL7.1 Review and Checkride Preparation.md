@@ -23,7 +23,7 @@ Prepare for practical test oral and flight portions.
 Ground 3 hours, Flight as necessary
 
 ### Lesson Elements
-1. Thorough review of [[ACS]]
+1. Thorough review of [[Private Pilot ACS]]
 	1. Also helpful to read [[ACS Tips for Evaluators]]
 2. Thoughts on when to discontinue
 	1. Not feeling well, or drained from the oral, or equipment issues
@@ -55,6 +55,7 @@ Ground 3 hours, Flight as necessary
 	4. Practice oral exams with other students and instructors
 		1. [Rachael Webster](https://www.linkedin.com/in/rachael-hanby-webster-0a650b5/)
 7. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
+	1. Also [[All Maneuvers Quick Reference]]
 8. Simulated practical test (optional) with senior CFI
 
 ### Completion Standards

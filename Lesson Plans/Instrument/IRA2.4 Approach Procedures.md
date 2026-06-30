@@ -19,11 +19,11 @@ Develop an understanding to interpret, apply, and brief various types of charted
 
 ### Builds On
 - [[IRA1.4 Simulated IFR Flight]]
-- [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
+- [[IRA2.1 Charts and Approach Plates]]
 - [[IRA2.3 Communications and Clearances]]
 
 ### Schedule
-Ground 2.5 hours
+Ground 1.5 hours, Sim 1.5 hours
 
 > [!note] 
 > Can be completed at the same time as [[IRA2.3 Communications and Clearances]].
@@ -31,8 +31,7 @@ Ground 2.5 hours
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
 
-1. [[Approach Segments and Obstacle Clearance.jpeg]]
-2. Precision vs. Non Precision
+1. Precision vs. Non Precision
 	1. Precision
 		1. [[ILS]] 
 		2. [[PAR]] 
@@ -41,42 +40,31 @@ Ground 2.5 hours
 	2. Non-Precision
 		1. Lateral Guidance Only
 		2. Fly to a Minimum Descent Altitude ([[MDA]])
-2. Approaches ([[Part 97]])
-	1. Briefing a plate
-		1. Top to bottom, left to right
-		2. Other ideas in [this article](https://www.aopa.org/news-and-media/all-news/1996/june/pilot/technique) and in this [video](https://youtu.be/VOQcdXE6MPo?si=c1-1pl_6xJnoNvro&t=923) from [[AOPA]]
-	2. Approach categories: A <91 kts, B <121 kts, C <141 kts, D <166 kts, E >166 kts
-	3. Parts of approach: Initial (IAF->IF), Intermediate (IF->FAF), Final (FAF->MAP), Missed (MAP->...)
-	4. Z, Y, etc and A, B, etc
-		1. What can't qualify as a straight in?^[final approach >30° from runway, runway not "clearly defined", or a descent gradient of more than 400 ft/NM from [[FAF]] to [[TCH]]]
-	5. Specific notable elements
-		1. Expiration and amended dates
-		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and [[Cold Temperature Airports]]
-		3. Water
-		4. Highest obstacle
-		5. [[MSA]]
-		6. [[Feeder Route]]s
-		7. NoPT
-		8. Approach NA for arrivals on ___
-		9. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
-		10. [[NOTAM]]s
-	6. Using ForeFlight Dynamic Procedures
-3. When to look up
+2. Use of BOTH written and mental checklists 
+	1. Use mental checklists and flow patterns 
+	2. Double check and back-up with written checklists 
+3. IFR checklists
+	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
+	2. Before taking runway: [[Lights, Camera, Action, Time]]
+	3. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
+	4. At each IFR waypoint or turn: [[5 Ts]]
+	5. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle/flaps)
+	6. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Confirmed, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
+	7. Before landing: [[GUMPS]]
+	8. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
+4. When to look up
 	1. Different instructors have different preferences, best to ask
-	2. When in doubt, look up when reaching the MDA/DA
-4. Airport lighting and environment
+	2. When in doubt, look up when reaching the [[MDA]]/[[DA]]
+5. Airport lighting and environment
 	1. What are you expecting to see based on the plate? E.g. [[REIL]], [[ALS]], [[PAPI]]
 	2. Inop components impact available in [[TPP]]s
 	3. Pilot controlled lights
 	4. May need to ask towered airports to turn lights up (or down)
-5. Nav equipment considerations
+6. Nav equipment considerations
 	1. Use of GPS maps and guidance for initial approach ([[AC 90-108]])
 	2. Methods for switching [[CDI]] from GPS to VOR/LOC 
 	3. CDI sensitivity changes during approach 
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
-6. ATC Approach Clearances
-	1. [[IFR Radio Communication Examples]]
-	2. [[Practice Approach Radio Communication Examples]]
 7. [[When Are You Established]]? Half-scale CDI deflection
 8. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
 9. Descent Profiles: 
@@ -110,12 +98,7 @@ Ground 2.5 hours
 13. Circle to land approaches (AIM 5-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
-	3. Which direction to circle? Follow [[FAR 91.126 Class G Airspace Ops Near Airport]] when able
-	4. Review circling approach protected areas (maneuvering radius)
-		1. 1.3nm from each runway end for Category A at most altitudes
-		2. AIM 5-4-20
-	5. Loss of flight visibility or airport, execute missed 
-	6. Missed approach during circle-to-land procedure (AIM 5-4-21)
+	3. More details on flying a circling approach in [[IRA2.7 VOR + DME + Circling Approaches]]
 14. Visual and Contact approaches: 
 	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
 		1. When going missed on a visual approach
@@ -129,12 +112,15 @@ Ground 2.5 hours
 	4. Unstable approach, failure to configure for approach and landing 
 	5. Descent below DA (slight dip is allowed)
 
+#### Sim Activity
+1. Fly [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) by hand through the missed
+2. Fly [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF) using AP
+
 ### Completion Standards
 Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:
 - IFR navigation and approaches by use of navigation systems
-- Use of... instrument approach procedure charts
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

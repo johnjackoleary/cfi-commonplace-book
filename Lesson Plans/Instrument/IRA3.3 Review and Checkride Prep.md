@@ -41,7 +41,7 @@ Ground 1 hour, Flight 3 hours
 	2. [[Instrument ACS]] requirements and standards 
 		1. Also helpful to read [[ACS Tips for Evaluators]]
 	3. [[DP]]s, [[STAR]]s 
-	4. [[IRA2.2 Holding Patterns and Entries|Holding patterns and entries]] 
+	4. [[IRA1.7 Holding Patterns and Entries|Holding patterns and entries]] 
 	5. Non-precision and precision approaches to ACS standards 
 	6. Circle to land approaches, risks, and how to fly MAP after circling 
 	7. Circuit approach practices (SCK/TCY/LVK or OAK/OAK/HWD, [[IRA.E Sample Instrument Approach Circuits for Bay Area#Challenge Circuits|etc]].) multiple approaches, missed approaches, holding patterns, etc.

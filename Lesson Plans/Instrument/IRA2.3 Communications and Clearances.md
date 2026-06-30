@@ -20,10 +20,21 @@ N/A
 Ground 1.0 hours
 
 > [!note] 
-> Can be completed at the same time as [[IRA2.4 Approach Charts and Procedures]].
+> Can be completed at the same time as [[IRA2.4 Approach Procedures]].
 
 ### Lesson Elements
-1. Communications
+> [!tip] Practice Approaches in [[VFR]] vs Actual [[IFR]]
+> 1. Essentially developing two skills: one for VFR practice^[How we maintain currency and generally practice] and one for IFR flights^[How we actually fly under IFR]
+> 2. Much shared phraseology, but some key differences
+> 	1. [[Practice Approach Radio Communication Examples]]
+> 	2. [[IFR Radio Communication Examples]]
+
+1. [[ATC]] system 
+	1. Communication and Navigation facilities (Approach/Departure ([[TRACON]]), Center [[ARTCC]])
+		1. Sectors (see [[The Landline]] for a good example of coordination)
+	2. [[Radar]], [[transponder]]s, and [[ADS-B]]
+	3. [[FSS]]
+2. Communications
 	1. Priorities: [[Aviate, Navigate, Communicate]] 
 	2. Required reports ([[MARVELOUS VFR C500]]) - ([[AIM 5]]-3-3)
 		1. Missed approach ([[5 C's (Going Missed)]])
@@ -77,7 +88,9 @@ Ground 1.0 hours
 		6. Good to mention use of [[ODP]] if unclear
 	9. What if I don’t like the clearance? ([[AIM 4]]-4-4)
 	10. Deviation - Emergency or [[TCAS]] alert
-
+3. ATC Approach Clearances
+	1. [[IFR Radio Communication Examples]]
+	2. [[Practice Approach Radio Communication Examples]]
 
 ![[IFR Radio Comm Part 1 General.jpeg]]
 

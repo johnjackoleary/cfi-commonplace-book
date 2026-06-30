@@ -11,7 +11,7 @@ So far, we've focused on getting from place to place with the en route structure
 Although departure procedures are potent solutions to leaving in IMC, they require thoughtful application. Instrument pilots set personal minimums for departures that allow us to handle unexpected situations, such as needing to return to the airport. In operations other than [[Part 91]], these takeoff requirements are even regulatory.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[IRA2.3 Communications and Clearances]], [[IRA2.4 Approach Charts and Procedures]]
+**Builds On:** [[IRA2.3 Communications and Clearances]], [[IRA2.4 Approach Procedures]]
 **Schedule:** Ground 1.5 hours, flight 3 hours 
 **Resources:** [[TERPS]], [[TPP]] Supplemental
 

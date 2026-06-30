@@ -13,16 +13,17 @@ tags:
 #### Stage I: Flight by Reference to Instruments
 [[IRA1.1 Introduction and Roadmap]]
 [[IRA1.2 Instruments and Attitude Flying]]
-[[IRA1.3 Instrument Maneuvers with Full and Partial Panel]]
+[[IRA1.3 Instrument Maneuvers]]
 [[IRA1.4 Simulated IFR Flight]]
 [[IRA1.5 Ground-Based Navigation]]
 [[IRA1.6 Satellite Navigation]]
+[[IRA1.7 Holding Patterns and Entries]]
 
 #### Stage II: IFR Charts, Instrument Approaches, Emergencies
-[[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
-[[IRA2.2 Holding Patterns and Entries]]
+[[IRA2.1 Charts and Approach Plates]]
+
 [[IRA2.3 Communications and Clearances]]
-[[IRA2.4 Approach Charts and Procedures]]
+[[IRA2.4 Approach Procedures]]
 [[IRA2.5 RNAV (GPS) Approaches]]
 [[IRA2.6 ILS + LOC Approaches]]
 [[IRA2.7 VOR + DME + Circling Approaches]]

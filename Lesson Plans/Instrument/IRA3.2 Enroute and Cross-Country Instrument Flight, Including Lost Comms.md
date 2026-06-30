@@ -20,7 +20,7 @@ Develop the pilot's knowledge, skill and risk management associated with plannin
 
 ### Builds On
 [[IRA2.3 Communications and Clearances]]
-[[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
+[[IRA2.1 Charts and Approach Plates]]
 [[IRA3.1 IFR Weather and Weather Services]]
 
 ### Schedule
@@ -35,29 +35,36 @@ Ground 1.5 hours, Flight 3 hours
 	1. FAR 91.167-187
 	2. AIM sections from [[~ IRA Pre-Lesson Reading]]
 	3. Suggestions in [[Suggested Study List by Certificate]]
-3. IFR cross country flight planning: 
-	1. Symbology on IFR enroute and approach charts 
-	2. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
-	3. Fuel planning and monitoring, and definitions of [[Minimum Fuel]] and [[Emergency Fuel]] 
+3. Flight planning 
+	1. Navigation logs, plotters, computers (E6B, etc.), wind computations 
+	2. [[Alternate Airport Selection (IFR)]]
+	3. Fuel planning and requirements ([[FAR 91.167 IFR Fuel Reqs]])
+	4. [[TEC]] routes
+	5. Flight plan forms and filing
+	6. [Equipment codes](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide) on [[ForeFlight]]
+	7. Clearance available 30min before departure time and 120min after
+4. IFR cross country flight planning:
+	1. Preparing navigation log (paper and EFB) and using preferred IFR routing. 
+	2. Fuel planning and monitoring, and definitions of [[Minimum Fuel]] and [[Emergency Fuel]] 
 		1. [[InFO 08004]]
 		2. [Avianca Flight 052](https://en.wikipedia.org/wiki/Avianca_Flight_052) #case-study
-	4. [[Alternate Airport Selection (IFR)]]
-	5. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
-	6. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
-	7. Filing IFR flight plan, and procedures for activating and closing IFR flight plans
+	3. [[Alternate Airport Selection (IFR)]]
+	4. Obtaining weather briefings, including NOTAMS and adverse conditions such as icing, wind shear and turbulence. 
+	5. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
+	6. Filing IFR flight plan, and procedures for activating and closing IFR flight plans
 		1. Useful [ForeFlight resource](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Guide) for equipment codes
-	8. Knowledge of [[GPS]] and [[RAIM]] capability and prediction, and when necessary to check
+	7. Knowledge of [[GPS]] and [[RAIM]] capability and prediction, and when necessary to check
 		1. [[FDE]]
-4. Enroute procedures
+5. Enroute procedures
 	1. Required reports ([[MARVELOUS VFR C500]]) and position report format ([[PTATEN]])
 	2. Fuel planning and monitoring, re-calculating fuel reserves 
 	3. Weather updates 
 	4. Route changes 
 	5. Diversion to alternate 
 	6. Handling VFR traffic in your way
-5. Canceling IFR, visual approaches, and dealing with NA procedures (e.g. KPAO at night)
-6. [[Lost Communications]] ([[FAR 91.185 Lost Comms]])
-7. Common errors 
+6. Canceling IFR, visual approaches, and dealing with NA procedures (e.g. KPAO at night)
+7. [[Lost Communications]] ([[FAR 91.185 Lost Comms]])
+8. Common errors 
 	1. Inadequate preflight planning and briefings 
 	2. Incorrect understanding of non-standard takeoff minimums and alternate minimums
 

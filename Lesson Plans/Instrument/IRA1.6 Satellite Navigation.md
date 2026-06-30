@@ -29,7 +29,7 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 		3. WAAS availability viewable at https://www.nstb.tc.faa.gov/.
 			1. An example of a [[WAAS LPV.png|significant outage]].
 	2. Installation approval and operational approval required
-	3. TSO 129/196 (Non-WAAS) requires alternate approved and operational means of navigation
+	3. TSO 129/196 (Non-WAAS) requires alternate approved and operational means of navigation^[From [[AIM 1]]-1-17: Aircraft using un-augmented GPS (TSO-C129() or TSO-C196()) for navigation under IFR must be equipped with an alternate approved and operational means of navigation suitable for navigating the proposed route of flight. (Examples of alternate navigation equipment include [[VOR]] or DME/DME/IRU capability). Active monitoring of alternative navigation equipment is not required when [[RAIM]] is available for integrity monitoring. Active monitoring of an alternate means of navigation is required when the GPS RAIM capability is lost.]
 	4. Expired database - https://www.flyingmag.com/is-expired-data-usable/
 		1. IFR enroute/terminal - verification of data for correctness
 		2. IFR approach - current database or verification procedure has not been amended since expiration of database ([[AIM 1]]-1-19)

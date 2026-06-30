@@ -16,7 +16,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. I
 
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-- [[IRA1.3 Instrument Maneuvers with Full and Partial Panel]]
+- [[IRA1.3 Instrument Maneuvers]]
 - [[IRA1.4 Simulated IFR Flight]]
 
 ### Schedule

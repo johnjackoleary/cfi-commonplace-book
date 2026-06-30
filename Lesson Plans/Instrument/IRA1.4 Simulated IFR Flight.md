@@ -13,7 +13,7 @@ Today, we're focused on *how* to make those phase changes while staying ahead of
 The CFI will walk you through which gaits to use and when to run certain checklists, all while you hand-fly the aircraft. This will require [[SRM]], mental flow & checklist use, and multitasking skills. You may also experience greater [[task saturation]], an important feeling to identify and address.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[IRA1.3 Instrument Maneuvers with Full and Partial Panel]]
+**Builds On:** [[IRA1.3 Instrument Maneuvers]]
 **Schedule:** Ground 1 hour, sim 2 hour
 
 ### Lesson Elements
@@ -25,19 +25,7 @@ The CFI will walk you through which gaits to use and when to run certain checkli
 		1. appropriate management of all resources (in and out of aircraft) available to the single pilot
 		2. Verbalize thoughts to act as own co-pilot
 		3. How can resources be organized before the flight for better [[SRM]]?
-2. Use of BOTH written and mental checklists 
-	1. Use mental checklists and flow patterns 
-	2. Double check and back-up with written checklists 
-3. Mental checklists 
-	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
-	2. Before taking runway: [[Lights, Camera, Action, Time]]
-	3. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
-	4. At each IFR waypoint or turn: [[5 Ts]]
-	5. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle/flaps)
-	6. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Confirmed, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
-	7. Before landing: [[GUMPS]]
-	8. Missed Approach: [[5 C's (Going Missed)]], then set up avionics for missed
-4. [[Task Saturation]]
+2. [[Task Saturation]]
 	1. ![[Task Load vs Pilot Capabilities.jpeg]]
 	2. Prepare for high workload periods during times of low workload
 	3. If falling behind airplane or need more time
@@ -47,7 +35,7 @@ The CFI will walk you through which gaits to use and when to run certain checkli
 		4. Request a [[IFR Radio Communication Examples#Delay Vector|delay vector]] or, similarly, request to continue holding
 	4. > [!quote] From [[Standby for Name When Task Saturated|The Finer Points video]]
 	   > There will come a day when I ask you what your name is, and you tell me to standby.
-5. Common Errors 
+3. Common Errors 
 	1. Forgetting to use mental checklists 
 	2. Rushing to keep up with the plane 
 	3. Diverting attention during maneuvers like turning, or before reaching altitude. 
@@ -62,6 +50,7 @@ The CFI will walk you through which gaits to use and when to run certain checkli
 	1. Wind 200@15 at ~3000'
 	2. [KPRB BRALY 1](https://cfijack.com/latest-plate-redirect/?plate=00858BRALY.PDF) from runway 19
 	3. [KPRB VOR-B](https://cfijack.com/latest-plate-redirect/?plate=00858VB.PDF) from EXUPY using GPS until intercept, green needles inbound, then missed
+3. Use of [[Autopilot Systems and Usage|autopilot]] for approaches
 
 ### Completion Standards
 The student must demonstrate the ability to prioritize tasks during IFR flight, “stay ahead” of the airplane by using mental checklists and written checklists.

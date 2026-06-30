@@ -25,34 +25,7 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 	2. Gait chart gives initial pitch/power/configuration
 	3. Gait chart also helps us avoid chasing the instruments!
 	4. Common maneuvers listed in activity below
-3. Unusual Attitudes
-	1. Causes of unusual flight attitudes 
-		1. Failure to properly trim the controls
-		2. Distraction, or fixation
-		3. Turbulence and wake turbulence
-	2. Unusual Attitude Recoveries (IFH 7-26) 
-		1. Unusual attitudes are those not normally required during instrument flight. Recovery includes prompt return to straight-and-level flight 
-		2. Full panel recoveries 
-		3. Partial panel recoveries 
-	3. Recognize **nose-high unusual attitude**: 
-		1. ASI slow or decreasing rapidly 
-		2. VSI shows climb, altimeter shows climb 
-		3. TC shows turn 
-		4. Recovery: 
-			1. Power-Pitch-Bank (must become 2nd nature!) 
-			2. Full-power - Pitch Down - Level Wings 
-	4. Recognize **nose-low unusual attitude**: 
-		1. ASI fast or increasing rapidly 
-		2. VSI negative rate, altimeter shows descent 
-		3. TC shows turn 
-		4. Recovery: 
-			1. Power-Bank-Pitch (must become 2nd nature!) 
-			2. Reduce power - Level Wings - Pitch Up 
-	5. Common errors 
-		1. Failure to recognize unusual attitude 
-		2. Dependence on senses other than instrument indications 
-		3. Failure to use proper recovery sequence, i.e. power-pitch-bank for nose high, and power-bank-pitch for nose low 
-4. Common Errors
+3. Common Errors
 	1. Fixation or omission
 	2. Forgetting to check HSI vs compass (non-slaved systems) 
 	3. Doing things while turning – should do nothing else until turn is complete 

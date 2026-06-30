@@ -113,7 +113,7 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 	2. Make columns of table for pitch (# bars on A/I), Manifold Pressure, RPM, airspeed 
 	3. Or use the [[Aircraft Blank Gait]]
 	4. > [!tip] It's easiest to find these settings while using an autopilot
-3. Use of [[Autopilot Systems and Usage|autopilot]]
+3. Use of [[Autopilot Systems and Usage|autopilot]] for en route operations
 
 ### Required Homework
 - [ ] Memorize the [[Aircraft Gait Charts|gait chart]] and/or have printed on kneeboard
