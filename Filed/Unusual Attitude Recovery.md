@@ -12,14 +12,14 @@
 	2. Concern is [[Loss of Control In-Flight|LOC]]
 	3. Full panel recoveries
 	4. Partial panel recoveries
-3. Recognize nose-high unusual attitude
+3. Recognize **nose-high unusual attitude**
 	1. ASI slow or decreasing rapidly
 	2. VSI shows climb, altimeter shows climb
 	3. TC shows turn
 	4. Recovery:
 		1. Power-Pitch-Bank (must become 2nd nature!)
 		2. Full-power - Pitch Down - Level Wings
-4. Recognize nose-low unusual attitude
+4. Recognize **nose-low unusual attitude**
 	1. ASI fast or increasing rapidly
 	2. VSI negative rate, altimeter shows descent
 	3. TC shows turn
