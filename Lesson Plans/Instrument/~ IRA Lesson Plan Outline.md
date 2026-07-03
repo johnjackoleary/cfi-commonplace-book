@@ -18,7 +18,7 @@ tags:
 [[IRA1.5 Satellite Navigation]]
 [[IRA1.6 Holding Patterns and Entries]]
 
-#### Stage II: IFR Charts, Instrument Approaches, Emergencies
+#### Stage II: Instrument Charts and Approaches
 [[IRA2.1 Charts and Approach Plates]]
 [[IRA2.3 Planning and Flying in the System]]
 [[IRA2.4 Approach Procedures]]

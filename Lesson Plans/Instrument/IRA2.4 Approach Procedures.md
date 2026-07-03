@@ -118,8 +118,4 @@ Ground 1.5 hours, Sim 1.5 hours
 ### Completion Standards
 Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- IFR navigation and approaches by use of navigation systems
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

@@ -53,8 +53,4 @@ Ground 1 hour, simulator 2 hours
 ### Completion Standards
 Student must demonstrate proficiency at flying non-precision approaches to ACS standards to landing, including circling approaches, and missed approach procedures.
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Instrument approach procedures
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

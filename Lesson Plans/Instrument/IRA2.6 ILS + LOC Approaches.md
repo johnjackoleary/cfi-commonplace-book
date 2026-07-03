@@ -58,8 +58,4 @@ Ground 30m, simulator – 2.5 hours
 ### Completion Standards
 Student must demonstrate proficiency at understanding ILS approaches and brief an ILS approach plate. Student should be introduced to ILS approaches by flying multiple approaches in an approved simulator
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Instrument approach procedures
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

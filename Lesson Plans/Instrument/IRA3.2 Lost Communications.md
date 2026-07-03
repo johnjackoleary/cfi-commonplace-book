@@ -44,8 +44,4 @@ Ground 2 hours, Sim 1 hours
 ### Completion Standards
 Learner understands and can apply lost communications regulations.
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Federal Aviation Regulations of this chapter that apply to flight operations under IFR
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

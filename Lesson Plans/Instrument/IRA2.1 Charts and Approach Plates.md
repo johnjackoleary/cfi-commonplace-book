@@ -67,8 +67,4 @@ Ground 3.0 hours
 ### Completion Standards
 Learner must be able to read IFR charts and approach plates.
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Use of IFR en route and instrument approach procedure charts
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

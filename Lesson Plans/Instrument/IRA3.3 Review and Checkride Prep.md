@@ -64,9 +64,4 @@ Ground 1 hour, Flight 3 hours
 ### Completion Standards
 The student must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, including ability to complete no precision approach without use of primary flight instruments.
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- [[ADM|Aeronautical decision making]] and judgment
-- Appropriate information that applies to flight operations under IFR in the [[AIM]]
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*
