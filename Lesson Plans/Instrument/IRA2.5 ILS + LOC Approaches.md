@@ -16,7 +16,7 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 
 ### Builds On
 [[IRA1.4 Ground-Based Navigation]]
-[[IRA2.4 Approach Procedures]]
+[[IRA2.3 Approach Procedures]]
 
 ### Schedule
 Ground 30m, simulator – 2.5 hours 

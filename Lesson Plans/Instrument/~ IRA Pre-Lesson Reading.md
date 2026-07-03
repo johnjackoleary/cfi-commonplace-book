@@ -11,13 +11,13 @@
 | [[IRA1.5 Satellite Navigation]]                                              | ~~[[IFH]] Ch9~~; [[AIM 1]]-2; [[AC 90-108]] | ~~2D~~                                       |
 | [[IRA1.6 Holding Patterns and Entries]]                                      | [[AIM 5]]-3-8; [[IFH]] Ch10                 | 5C                                           |
 | [[IRA2.1 Charts and Approach Plates]]                                        | [[AIM 4]]; [[IFH]] Ch1,Ch2; [[IPH Ch2]]     | 3A, 5A-B                                     |
-| [[IRA2.3 Planning and Flying in the System]]                                     | [[AIM 6]]-4                                 | 3B-C                                         |
-| [[IRA2.4 Approach Procedures]]                                               | [[AIM 5]]-4; [[IPH Ch4]]                    | 7A-B                                         |
-| [[IRA2.5 RNAV (GPS) Approaches]]                                             | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8A                                           |
-| [[IRA2.6 ILS + LOC Approaches]]                                              | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8B                                           |
-| [[IRA2.7 VOR + DME + Circling Approaches]]                                   | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8C                                           |
-| [[IRA2.8 IFR Departure Procedures and Terminal Arrival Procedures]]          | [[AIM 5]]; [[IPH Ch1]]; [[IPH Ch3]]         | 4A-B, 6A-B                                   |
-| [[IRA2.9 Partial Panel and Unusual Attitudes]]                            | [[IFH]] Ch3, ~~Ch5~~, Ch7               | ~~2C~~                                       |
+| [[IRA2.2 Planning and Flying in the System]]                                     | [[AIM 6]]-4                                 | 3B-C                                         |
+| [[IRA2.3 Approach Procedures]]                                               | [[AIM 5]]-4; [[IPH Ch4]]                    | 7A-B                                         |
+| [[IRA2.4 RNAV (GPS) Approaches]]                                             | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8A                                           |
+| [[IRA2.5 ILS + LOC Approaches]]                                              | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8B                                           |
+| [[IRA2.6 VOR + DME + Circling Approaches]]                                   | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8C                                           |
+| [[IRA2.7 IFR Departure Procedures and Terminal Arrival Procedures]]          | [[AIM 5]]; [[IPH Ch1]]; [[IPH Ch3]]         | 4A-B, 6A-B                                   |
+| [[IRA2.8 Partial Panel and Unusual Attitudes]]                            | [[IFH]] Ch3, ~~Ch5~~, Ch7               | ~~2C~~                                       |
 | [[IRA3.1 IFR Weather and Weather Services]]                                  | [[AIM 7]]; [[AC 91-74]]                     | 9A-E                                         |
 | [[IRA3.2 Lost Communications]] | [[AIM 5]]-1, [[IFH]] Ch11;                  | 10A-B                                        |
 | [[IRA3.3 Review and Checkride Prep]]                                         | [[IFH]] Ch4                                 | 10C                                          |

@@ -20,7 +20,7 @@ N/A
 Ground 3.0 hours
 
 > [!note] 
-> Can be completed at the same time as [[IRA2.4 Approach Procedures]].
+> Can be completed at the same time as [[IRA2.3 Approach Procedures]].
 
 ### Lesson Elements
 

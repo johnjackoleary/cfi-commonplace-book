@@ -20,7 +20,7 @@ Update
 
 ### Builds On
 [[IRA2.1 Charts and Approach Plates]]
-[[IRA2.3 Planning and Flying in the System]]
+[[IRA2.2 Planning and Flying in the System]]
 
 ### Schedule
 Ground 2 hours, Sim 1 hours 

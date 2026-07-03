@@ -20,13 +20,13 @@ tags:
 
 #### Stage II: Instrument Charts and Approaches
 [[IRA2.1 Charts and Approach Plates]]
-[[IRA2.3 Planning and Flying in the System]]
-[[IRA2.4 Approach Procedures]]
-[[IRA2.5 RNAV (GPS) Approaches]]
-[[IRA2.6 ILS + LOC Approaches]]
-[[IRA2.7 VOR + DME + Circling Approaches]]
-[[IRA2.8 IFR Departure Procedures and Terminal Arrival Procedures]]
-[[IRA2.9 Partial Panel and Unusual Attitudes]]
+[[IRA2.2 Planning and Flying in the System]]
+[[IRA2.3 Approach Procedures]]
+[[IRA2.4 RNAV (GPS) Approaches]]
+[[IRA2.5 ILS + LOC Approaches]]
+[[IRA2.6 VOR + DME + Circling Approaches]]
+[[IRA2.7 IFR Departure Procedures and Terminal Arrival Procedures]]
+[[IRA2.8 Partial Panel and Unusual Attitudes]]
 
 #### Stage III: Weather, Cross-Country, and Checkride Prep
 [[IRA3.1 IFR Weather and Weather Services]]

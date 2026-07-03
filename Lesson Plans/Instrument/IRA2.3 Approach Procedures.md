@@ -19,13 +19,13 @@ Develop an understanding to interpret, apply, and brief various types of charted
 
 ### Builds On
 - [[IRA2.1 Charts and Approach Plates]]
-- [[IRA2.3 Planning and Flying in the System]]
+- [[IRA2.2 Planning and Flying in the System]]
 
 ### Schedule
 Ground 1.5 hours, Sim 1.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[IRA2.3 Planning and Flying in the System]].
+> Can be completed at the same time as [[IRA2.2 Planning and Flying in the System]].
 
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
@@ -97,7 +97,7 @@ Ground 1.5 hours, Sim 1.5 hours
 13. Circle to land approaches (AIM 5-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
-	3. More details on flying a circling approach in [[IRA2.7 VOR + DME + Circling Approaches]]
+	3. More details on flying a circling approach in [[IRA2.6 VOR + DME + Circling Approaches]]
 14. Visual and Contact approaches: 
 	1. Visual approach (AIM 5-4-23) – must have airport or preceding aircraft in sight, ceiling > 1000’ AGL, vis >3 SM 
 		1. When going missed on a visual approach

@@ -11,7 +11,7 @@ We know cross-check is the first of the [[CIA|fundamentals of instrument flight]
 In this lesson, we'll work through identifying, diagnosing, and handling instrument failures. This requires a deep systems knowledge to understand and process symptoms you encounter in flight. After figuring out the source of an issue, you'll need to fly the airplane using your remaining instruments, fix any unusual attitudes, and potentially through to an instrument approach.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[IRA1.3 Instrument Maneuvers]], [[IRA2.4 Approach Procedures]]
+**Builds On:** [[IRA1.3 Instrument Maneuvers]], [[IRA2.3 Approach Procedures]]
 **Schedule:** Ground 0.5 hour, simulator and/or airplane 1 hour
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]

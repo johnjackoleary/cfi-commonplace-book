@@ -1,7 +1,7 @@
 ***Link***      :: [G1000 Guide for Designated Pilot Examiners and Certified Flight Instructors](https://www.faa.gov/sites/faa.gov/files/Garmin-DPE-and-CFI-Avionics-Guide-G1000NXi.pdf)
 ***Description***      :: `= this.link`
 ***Author*** :: [[Garmin]]
-***Related To:*** [[G1000 Integrated Flight Deck Pilot's Guide]], [[G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]], [[IRA2.9 Partial Panel and Unusual Attitudes]]
+***Related To:*** [[G1000 Integrated Flight Deck Pilot's Guide]], [[G1000 Integrated Flight Deck Cockpit Reference Guide for Cessna Nav III]], [[IRA2.8 Partial Panel and Unusual Attitudes]]
 
 > [!tip] The section titled *Recommendation for Failure Simulation: Instrument Training and Checkride* is particularly helpful.
 
