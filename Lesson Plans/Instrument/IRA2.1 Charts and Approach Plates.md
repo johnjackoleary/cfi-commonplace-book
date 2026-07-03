@@ -53,15 +53,17 @@ Ground 3.0 hours
 		1. What can't qualify as a straight in?^[final approach >30° from runway, runway not "clearly defined", or a descent gradient of more than 400 ft/NM from [[FAF]] to [[TCH]]]
 	6. Specific notable elements
 		1. Expiration and amended dates
-		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and [[Cold Temperature Airports]]
-		3. Water
-		4. Highest obstacle
-		5. [[MSA]]
-		6. [[Feeder Route]]s
-		7. NoPT
-		8. Approach NA for arrivals on ___
-		9. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
-		10. [[NOTAM]]s
+		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and 
+		3. [[Cold Temperature Airports]]
+			1. [Temp Comp in G1000 video](https://www.youtube.com/watch?v=gDcpM1nMIGs)
+		4. Water
+		5. Highest obstacle
+		6. [[MSA]]
+		7. [[Feeder Route]]s
+		8. NoPT
+		9. Approach NA for arrivals on ___
+		10. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
+		11. [[NOTAM]]s
 	7. Using ForeFlight Dynamic Procedures
 
 ### Completion Standards
