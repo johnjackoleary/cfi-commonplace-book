@@ -71,7 +71,7 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 8. Power Instruments: Engine gauges, Electronic engine instruments
 9. Electrical instruments: ammeter, voltmeter, alternator 
 10. Navigation radios and databases 
-	1. Covered in depth as part of [[IRA1.5 Ground-Based Navigation]] and [[IRA1.6 Satellite Navigation]]
+	1. Covered in depth as part of [[IRA1.4 Ground-Based Navigation]] and [[IRA1.5 Satellite Navigation]]
 11. [[Autopilot Systems and Usage]]
 
 #### Attitude Instrument Flight
@@ -98,9 +98,10 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 	1. [[Illusions Leading to Spatial Disorientation|Spatial disorientation]] 
 	2. Distraction 
 	3. Fixation or omission 
-	4. Doing things while turning – should do nothing else 
-	5. Heavy touch, over-controlling 
-	6. Improper trim control
+	4. Forgetting to check HSI vs compass (non-slaved systems) 
+	5. Doing things while turning – should do nothing else 
+	6. Heavy touch, over-controlling 
+	7. Improper trim control
 
 #### Airplane or Sim Activity
 1. Attitude Instrument Flight Basics 

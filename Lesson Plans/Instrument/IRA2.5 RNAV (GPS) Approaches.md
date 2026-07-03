@@ -17,7 +17,7 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA1.6 Satellite Navigation]]
+- [[IRA1.5 Satellite Navigation]]
 - [[IRA2.4 Approach Procedures]]
 
 ### Schedule

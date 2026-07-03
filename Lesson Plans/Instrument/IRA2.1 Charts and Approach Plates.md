@@ -18,13 +18,13 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, and approa
 None
 
 ### Schedule
-Ground 1.5 hours 
+Ground 3.0 hours 
 
 ### Lesson Elements
 1. [[National Airspace System]] and Regulations
 	1. Airspace classification 
 	2. VFR minimums ([[Categorical Outlooks]])
-	3. IFR minimums - [[FAR 91.175 IFR Takeoff and Landing]]
+	3. IFR minimums - [[FAR 91.175 IFR Takeoff and Landing]] (move?)
 		1. Departures (standard, non-standard)
 		2. Approaches - [[Operation Below DA or MDA]]
 	4. Federal Airways
@@ -65,7 +65,7 @@ Ground 1.5 hours
 	7. Using ForeFlight Dynamic Procedures
 
 ### Completion Standards
-Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and online).
+Learner must be able to read IFR charts and approach plates.
 
 ### Required Logbook Phraseology
 For [[FAR 61.65 Instrument Rating Reqs]]:

@@ -15,8 +15,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA1.5 Ground-Based Navigation]]
-- [[IRA1.6 Satellite Navigation]]
+- [[IRA1.4 Ground-Based Navigation]]
+- [[IRA1.5 Satellite Navigation]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 

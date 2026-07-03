@@ -15,7 +15,7 @@ Develop proficiency in flying VOR and circling approaches.
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-[[IRA1.5 Ground-Based Navigation]]
+[[IRA1.4 Ground-Based Navigation]]
 [[IRA2.4 Approach Procedures]]
 
 ### Schedule
@@ -25,7 +25,7 @@ Ground 1 hour, simulator 2 hours
 1. [[VOR]] Approaches
 	1. Sensitivity based on VOR location
 2. [[DME]] Arcs: [[Ground-Based Navigation using VOR, DME, and ILS#DME Arcs Procedure]]
-3. Circle to land approaches (AIM 5-4-20)
+3. Circle to land approaches ([[AIM 5]]-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight-in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
 	3. Which direction to circle? Follow [[FAR 91.126 Class G Airspace Ops Near Airport]] when able

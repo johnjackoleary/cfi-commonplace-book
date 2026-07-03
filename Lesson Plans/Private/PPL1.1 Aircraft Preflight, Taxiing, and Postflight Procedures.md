@@ -42,8 +42,9 @@ If the plane is safe to fly, then there's a procedure for starting the engine, a
 	10. Overview of [[Aircraft Instruments]]
 5. Passenger briefing (see [[SAFETY]] and § [[FAR 91.107 Use of Seat Belts|91.107]])
 6. Engine start, including use of primer and propeller safety
-	1. Cold start, hot start, flooded start
-	2. What to do if it doesn't start, especially in cold weather
+	1. [How the Starter Motor Engages](https://youtube.com/shorts/t6A8IaU-vAg?si=UbTiBLdix4PzCZoo)
+	2. Cold start, hot start, flooded start
+	3. What to do if it doesn't start, especially in cold weather
 		1. [[Starter Duty Cycle]]
 7. [[Radio Setup Suggestions]]
 8. Taxiing Procedure

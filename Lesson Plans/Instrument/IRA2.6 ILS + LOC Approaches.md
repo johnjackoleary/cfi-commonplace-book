@@ -15,7 +15,7 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-[[IRA1.5 Ground-Based Navigation]]
+[[IRA1.4 Ground-Based Navigation]]
 [[IRA2.4 Approach Procedures]]
 
 ### Schedule

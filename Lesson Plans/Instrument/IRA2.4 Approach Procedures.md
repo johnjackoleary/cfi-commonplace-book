@@ -18,15 +18,14 @@ Develop an understanding to interpret, apply, and brief various types of charted
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA1.4 Simulated IFR Flight]]
 - [[IRA2.1 Charts and Approach Plates]]
-- [[IRA2.3 Communications and Clearances]]
+- [[IRA2.3 Planning and Flying in the System]]
 
 ### Schedule
 Ground 1.5 hours, Sim 1.5 hours
 
 > [!note] 
-> Can be completed at the same time as [[IRA2.3 Communications and Clearances]].
+> Can be completed at the same time as [[IRA2.3 Planning and Flying in the System]].
 
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
@@ -44,10 +43,10 @@ Ground 1.5 hours, Sim 1.5 hours
 	1. Use mental checklists and flow patterns 
 	2. Double check and back-up with written checklists 
 3. IFR checklists
-	1. Runup/before takeoff: [[CIGARS]] / [[CIGAR TIP]]
-	2. Before taking runway: [[Lights, Camera, Action, Time]]
-	3. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
-	4. At each IFR waypoint or turn: [[5 Ts]]
+	1. Before taking runway: [[Lights, Camera, Action, Time]]
+	2. Approach briefing at 50nm, 30nm, 10nm: [[AIRBAG]] or [[WRIMTMS]]^[This is also a reasonable time to set the destination altimeter. Good writeup [here](https://www.thinkaviation.net/when-should-you-set-the-altimeter/).]
+	3. At each IFR waypoint or turn: [[5 Ts]]
+	4. When cleared for the approach: Activate APR mode on AP
 	5. Before final intercept: Morse (ID nav receivers), Source ([[CDI]] source^[[[1000 Dollar Button]]]), Course (confirm CDI course), Force (throttle/flaps)
 	6. Before [[FAF]]: Baro Mins Set/Confirmed, Baro Altimeter Confirmed, Alt Bug Set, Power / Config Set, [[GUMPS]], Runway Lights 7 Clicks
 	7. Before landing: [[GUMPS]]
