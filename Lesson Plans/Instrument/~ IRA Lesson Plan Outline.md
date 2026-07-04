@@ -26,12 +26,12 @@ tags:
 [[IRA2.5 ILS + LOC Approaches]]
 [[IRA2.6 VOR + DME + Circling Approaches]]
 [[IRA2.7 Departures and Arrivals]]
-[[IRA2.8 Partial Panel and Unusual Attitudes]]
+[[IRA3.2 Partial Panel and Unusual Attitudes]]
 
 #### Stage III: Weather, Lost Comms, and Checkride Prep
 [[IRA3.1 IFR Weather and Weather Services]]
-[[IRA3.2 Lost Communications]]
-[[IRA3.3 Review and Checkride Prep]]
+[[IRA3.3 Lost Communications]]
+[[IRA3.4 Review and Checkride Prep]]
 
 #### Appendices
 [[IRA.A Instrument Rating Flight Experience Requirements]]

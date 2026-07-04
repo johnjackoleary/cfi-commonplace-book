@@ -62,6 +62,12 @@ Ground 2 hours
 	2. How to identify alternates, when to divert to alternate 
 	3. Establishing [[Personal Minimums]]
 
+### Required Homework
+- [ ] Schedule IFR long cross-country requirement ([[IRA.A Instrument Rating Flight Experience Requirements]])
+	1. IFR flight of 250 nm minimum 
+	2. An instrument approach at each airport 
+	3. 3 different kinds of approaches (VOR, GPS, ILS)^[See https://find-an-approach.github.io/ for options]
+
 ### Completion Standards
 The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, and obtain weather updates during flight. 
 

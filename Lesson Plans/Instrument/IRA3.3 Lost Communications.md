@@ -39,12 +39,6 @@ Ground 2 hours, Sim 1 hour
 2. Clearance including "climb maintain 3000', expect 4000' 5 minutes after departure" 
 3. Simulated lost comms ~1 min after takeoff
 
-### Required Homework
-- [ ] Schedule IFR long cross-country requirement ([[IRA.A Instrument Rating Flight Experience Requirements]])
-	1. IFR flight of 250 nm minimum 
-	2. An instrument approach at each airport 
-	3. 3 different kinds of approaches (VOR, GPS, ILS)^[See https://find-an-approach.github.io/ for options]
-
 ### Completion Standards
 Learner understands and can apply lost communications regulations.
 

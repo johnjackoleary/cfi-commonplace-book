@@ -17,10 +17,10 @@
 | [[IRA2.5 ILS + LOC Approaches]]                | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8B                                           |
 | [[IRA2.6 VOR + DME + Circling Approaches]]     | [[AIM 5]]-4; ~~[[IPH Ch4]]~~                | 8C                                           |
 | [[IRA2.7 Departures and Arrivals]]             | [[AIM 5]]; [[IPH Ch1]]; [[IPH Ch3]]         | 4A-B, 6A-B                                   |
-| [[IRA2.8 Partial Panel and Unusual Attitudes]] | [[IFH]] Ch3, ~~Ch5~~, Ch7                   | ~~2C~~                                       |
+| [[IRA3.2 Partial Panel and Unusual Attitudes]] | [[IFH]] Ch3, ~~Ch5~~, Ch7                   | ~~2C~~                                       |
 | [[IRA3.1 IFR Weather and Weather Services]]    | [[AIM 7]]; [[AC 91-74]]                     | 9A-E                                         |
-| [[IRA3.2 Lost Communications]]                 | [[AIM 5]]-1, [[IFH]] Ch11;                  | 10A-B                                        |
-| [[IRA3.3 Review and Checkride Prep]]           | [[IFH]] Ch4                                 | 10C                                          |
+| [[IRA3.3 Lost Communications]]                 | [[AIM 5]]-1, [[IFH]] Ch11;                  | 10A-B                                        |
+| [[IRA3.4 Review and Checkride Prep]]           | [[IFH]] Ch4                                 | 10C                                          |
 
 #todo :: feel free to add other source materials if you're using something else!
 

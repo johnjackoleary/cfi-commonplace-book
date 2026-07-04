@@ -106,7 +106,7 @@ Ground 3.0 hours
 6. Canceling IFR, visual approaches, and dealing with NA procedures (e.g. [[Palo Alto Airport|KPAO]] at night)
 
 > [!note] Lost Communications
-> [[Lost communications]] are covered in [[IRA3.2 Lost Communications]]
+> [[Lost communications]] are covered in [[IRA3.3 Lost Communications]]
 
 ![[IFR Radio Comm Part 1 General.jpeg]]
 
