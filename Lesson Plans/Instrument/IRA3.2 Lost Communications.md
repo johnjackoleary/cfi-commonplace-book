@@ -6,7 +6,7 @@ aliases:
 - IR.15
 ---
 ### Objective
-Update
+Understand how lost communications under IFR is handled.
 
 ### Resources
 - [[FAR 61.65 Instrument Rating Reqs]]

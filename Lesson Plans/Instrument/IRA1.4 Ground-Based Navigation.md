@@ -6,7 +6,7 @@ aliases:
 - IR.5A
 ---
 ### Objective
-VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction. Autopilot systems and operation.
+VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction.
 
 ### Resources
 - [[Instrument ACS]] section V
