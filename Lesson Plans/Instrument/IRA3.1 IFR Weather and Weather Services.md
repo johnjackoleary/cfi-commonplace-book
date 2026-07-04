@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.14
 ---
 ### Objective
 Develop satisfactory knowledge, risk management, and skills associated with obtaining, understanding, and applying weather information for a flight under IFR. 

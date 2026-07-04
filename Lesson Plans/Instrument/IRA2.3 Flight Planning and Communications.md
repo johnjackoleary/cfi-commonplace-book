@@ -2,11 +2,9 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.9
 ---
 ### Objective
-Learn proper IFR planning procedures, communications techniques, include copying clearances, and normal communications
+Learn proper IFR planning procedures and communications techniques, including copying clearances and normal communications
 
 ### Resources
 - [[IFH]] Appendix A (clearance shorthand)
@@ -14,13 +12,10 @@ Learn proper IFR planning procedures, communications techniques, include copying
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-N/A
+[[IRA2.1 Charts and Approach Plates]]
 
 ### Schedule
 Ground 3.0 hours
-
-> [!note] 
-> Can be completed at the same time as [[IRA2.3 Approach Procedures]].
 
 ### Lesson Elements
 

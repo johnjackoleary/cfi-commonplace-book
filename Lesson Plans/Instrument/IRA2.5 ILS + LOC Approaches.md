@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.11B
 ---
 ### Objective
 Develop proficiency in flying LOC and ILS approaches, procedure turns, and demonstrate understanding of landing minimums and missed approach procedures.
@@ -16,7 +14,7 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 
 ### Builds On
 [[IRA1.4 Ground-Based Navigation]]
-[[IRA2.3 Approach Procedures]]
+[[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
 Ground 30m, simulator – 2.5 hours 

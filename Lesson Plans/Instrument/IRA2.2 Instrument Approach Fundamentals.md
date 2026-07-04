@@ -2,14 +2,9 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.10
 ---
 ### Objective
-Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures. 
-
-### Resources
-- [[FAR 91.175 IFR Takeoff and Landing]]
+Develop an understanding to interpret, apply, and brief various types of charted instrument approach procedures.
 
 ### Resources
 - [Instrument Approaches in the Greater San Francisco Bay Area](https://sites.google.com/coyotehillconsulting.com/cfiwes/library/instrument-approaches) by [[Wes Irish]]
@@ -19,13 +14,10 @@ Develop an understanding to interpret, apply, and brief various types of charted
 
 ### Builds On
 - [[IRA2.1 Charts and Approach Plates]]
-- [[IRA2.2 Planning and Flying in the System]]
+- [[IRA2.3 Flight Planning and Communications]]
 
 ### Schedule
 Ground 1.5 hours, Sim 1.5 hours
-
-> [!note] 
-> Can be completed at the same time as [[IRA2.2 Planning and Flying in the System]].
 
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
@@ -119,6 +111,6 @@ Ground 1.5 hours, Sim 1.5 hours
 - [ ] Memorize flows above and add to kneeboard
 
 ### Completion Standards
-Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures and checklists in flight.
+Learner understands the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures and checklists in flight.
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

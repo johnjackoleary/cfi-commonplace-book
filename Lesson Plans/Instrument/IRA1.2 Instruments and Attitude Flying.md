@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.2
 ---
 ### Introduction
 Instrument flying, at its core, is attitude flying. Without visual references outside the cockpit, the instrument pilot must constantly refer to their instruments to be sure the airplane is maintaining the desired heading and altitude. This instrument scan is critical for attitude flying, as even a 5-second distraction can leave the plane in an undesired attitude. 

@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.15
 ---
 ### Objective
 Understand how lost communications under IFR is handled.
@@ -20,10 +18,10 @@ Understand how lost communications under IFR is handled.
 
 ### Builds On
 [[IRA2.1 Charts and Approach Plates]]
-[[IRA2.2 Planning and Flying in the System]]
+[[IRA2.3 Flight Planning and Communications]]
 
 ### Schedule
-Ground 2 hours, Sim 1 hours 
+Ground 2 hours, Sim 1 hour
 
 ### Lesson Elements
 - Many aspects of IFR clearances and procedures are in case of lost comms
@@ -40,6 +38,12 @@ Ground 2 hours, Sim 1 hours
 1. Flight plan from home airport to KPVF
 2. Clearance including "climb maintain 3000', expect 4000' 5 minutes after departure" 
 3. Simulated lost comms ~1 min after takeoff
+
+### Required Homework
+- [ ] Schedule IFR long cross-country requirement ([[IRA.A Instrument Rating Flight Experience Requirements]])
+	1. IFR flight of 250 nm minimum 
+	2. An instrument approach at each airport 
+	3. 3 different kinds of approaches (VOR, GPS, ILS)^[See https://find-an-approach.github.io/ for options]
 
 ### Completion Standards
 Learner understands and can apply lost communications regulations.

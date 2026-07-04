@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.5A
 ---
 ### Objective
 VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction.

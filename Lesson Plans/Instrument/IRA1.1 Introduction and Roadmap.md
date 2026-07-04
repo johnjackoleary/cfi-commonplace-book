@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.1
 ---
 ### Introduction
 Flying on instruments takes everything you've learned so far, and adds a whole new world of procedures and processes. You may have heard IFR described as the other 50% of aviation -- while the flying fundamentals and systems are familiar, the new knowledge required is comparable in size to everything you learned for PPL.

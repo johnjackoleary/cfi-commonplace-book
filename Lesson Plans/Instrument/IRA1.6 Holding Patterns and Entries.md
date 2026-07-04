@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.8
 ---
 ### Objective
 Develop proficiency in flying holding patterns, including recommended entry procedures, while satisfying ACS standards. 

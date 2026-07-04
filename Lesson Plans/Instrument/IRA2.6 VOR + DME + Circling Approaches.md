@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.11C
 ---
 ### Objective
 Develop proficiency in flying VOR and circling approaches. 
@@ -16,7 +14,7 @@ Develop proficiency in flying VOR and circling approaches.
 
 ### Builds On
 [[IRA1.4 Ground-Based Navigation]]
-[[IRA2.3 Approach Procedures]]
+[[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
 Ground 1 hour, simulator 2 hours 

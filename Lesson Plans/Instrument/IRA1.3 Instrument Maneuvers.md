@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.3
 ---
 ### Introduction
 Now that you've mastered the fundamentals, we're tackling transitions between the standard phases of IFR flying. The climb and cruise phases will be familiar, but flight at 90kts, with different flap settings, is common throughout an instrument approach.
@@ -79,9 +77,5 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 
 ### Completion Standards
 Student must become proficient at transitioning between the phases of flight used on a typical IFR flight. Maintain heading within 10°, altitude within 100 feet, airspeed within 10 kts.
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Emergency operations
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

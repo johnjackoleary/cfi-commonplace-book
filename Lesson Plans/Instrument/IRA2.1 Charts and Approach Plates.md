@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.7
 ---
 ### Objective
 Develop working [[IFR]] knowledge of the airspace system, IFR charts, and approaches.
@@ -14,9 +12,6 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, and approa
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
-### Builds On
-None
-
 ### Schedule
 Ground 3.0 hours 
 
@@ -24,13 +19,10 @@ Ground 3.0 hours
 1. [[National Airspace System]] and Regulations
 	1. Airspace classification 
 	2. VFR minimums ([[Categorical Outlooks]])
-	3. IFR minimums - [[FAR 91.175 IFR Takeoff and Landing]] (move?)
-		1. Departures (standard, non-standard)
-		2. Approaches - [[Operation Below DA or MDA]]
-	4. Federal Airways
+	3. Federal Airways
 		1. 8nm width (4nm either side of course centerline)
-	5. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
-	6. "One in/one out" rule for multiple IFR operations in Class D/E/G^[More info in [this writeup](https://laartcc.org/stm/multiple-ifr-aircraft-approaching-one-airport)]
+	4. Flight Levels and switching to standard pressure ([[AIM 7]]-2)
+	5. "One in/one out" rule for multiple IFR operations in Class D/E/G^[More info in [this writeup](https://laartcc.org/stm/multiple-ifr-aircraft-approaching-one-airport)]
 2. Enroute Charts: Chart User’s Guide
 	1. High/Low
 	2. Airports, airspace
@@ -53,7 +45,7 @@ Ground 3.0 hours
 		1. What can't qualify as a straight in?^[final approach >30° from runway, runway not "clearly defined", or a descent gradient of more than 400 ft/NM from [[FAF]] to [[TCH]]]
 	6. Specific notable elements
 		1. Expiration and amended dates
-		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], D, and 
+		2. Inverted T, A, W^[[C83 RNAV 30](https://cfijack.com/latest-plate-redirect/?plate=09141R30.PDF)], C^[This is no longer used, and is [being removed](https://www.faa.gov/air_traffic/flight_info/aeronav/safety_alerts/media/TERM_25-05_Removal_of_Circling_Icon.pdf)], and D
 		3. [[Cold Temperature Airports]]
 			1. [Temp Comp in G1000 video](https://www.youtube.com/watch?v=gDcpM1nMIGs)
 		4. Water
@@ -62,7 +54,7 @@ Ground 3.0 hours
 		7. [[Feeder Route]]s
 		8. NoPT
 		9. Approach NA for arrivals on ___
-		10. Increase MDAs if local Wx not available, e.g. KPAO^[Link]
+		10. Increase MDAs if local Wx not available, e.g. [KPAO RNAV 31](https://cfijack.com/latest-plate-redirect/?plate=09216R31.PDF)
 		11. [[NOTAM]]s
 	7. Using ForeFlight Dynamic Procedures
 

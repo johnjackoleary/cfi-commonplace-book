@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.12
 ---
 ### Introduction
 So far, we've focused on getting from place to place with the en route structure and getting into an airport with an [[IAP]]. The last two puzzle pieces are safely leaving an airport and getting up/down from the en route structure. Tools like [[ODP]]s and [[SID]]s allow us to leave with guaranteed obstacle clearance, and [[STAR]]s help us get from the airways down to the start of an approach.
@@ -11,7 +9,7 @@ So far, we've focused on getting from place to place with the en route structure
 Although departure procedures are potent solutions to leaving in IMC, they require thoughtful application. Instrument pilots set personal minimums for departures that allow us to handle unexpected situations, such as needing to return to the airport. In operations other than [[Part 91]], these takeoff requirements are even regulatory.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[IRA2.2 Planning and Flying in the System]], [[IRA2.3 Approach Procedures]]
+**Builds On:** [[IRA2.3 Flight Planning and Communications]], [[IRA2.2 Instrument Approach Fundamentals]]
 **Schedule:** Ground 1.5 hours, flight 3 hours 
 **Resources:** [[TERPS]], [[TPP]] Supplemental
 
@@ -78,9 +76,5 @@ Although departure procedures are potent solutions to leaving in IMC, they requi
 - [KPRB BRALY 1](https://cfijack.com/latest-plate-redirect/?plate=00858BRALY.PDF)
 - [KPRB PASO ROBLES 2 ODP](https://cfijack.com/latest-plate-redirect/?plate=00858PASOROBLES.PDF)
 - STAR?
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Air traffic control system and procedures for instrument flight operations
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*
