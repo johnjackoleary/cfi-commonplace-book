@@ -118,8 +118,4 @@ Ground 3.0 hours
 ### Completion Standards
 Learner must be able to plan a cross country flight, including routing, fuel planning, and filing an IFR flight plan, and receiving weather briefings (in person and online). They must also become proficient at typical IFR clearances and communications using standard phraseology.
 
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Air traffic control clearances and procedures
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

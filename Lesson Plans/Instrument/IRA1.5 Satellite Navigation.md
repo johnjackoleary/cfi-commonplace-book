@@ -37,7 +37,7 @@ Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on d
 5. GPS Sensitivity ([[RNP Precision per Approach Segment.jpeg]] and [[G1000 Automatic CDI Scaling.png]])
 	1. Enroute  ±2nm (or ±5nm for non-WAAS receivers)
 	2. Terminal - ±1nm
-		1. On arrival - within 30nm of the [[FAF]]
+		1. On arrival - within 30nm of the airport
 		2. On departure - until beyond 30nm from departure
 	3. Approach - ±0.3nm 
 		1. Starting 2.0nm before the [[FAF]]

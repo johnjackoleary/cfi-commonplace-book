@@ -115,7 +115,10 @@ Ground 1.5 hours, Sim 1.5 hours
 1. Fly [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) by hand through the missed
 2. Fly [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF) using AP
 
+### Required Homework
+- [ ] Memorize flows above and add to kneeboard
+
 ### Completion Standards
-Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures in flight.
+Learner understand the information contained in an approach plate and can brief an approach. Learner can describe how various elements of an approach plate will translate to procedures and checklists in flight.
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

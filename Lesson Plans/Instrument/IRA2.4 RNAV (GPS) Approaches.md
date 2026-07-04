@@ -41,13 +41,13 @@ Ground 30m, Sim/airplane – 2.5 hours
 
 Ordered roughly from most accurate to least accurate:
 
-| Abbreviation | Full Name                                    | Minimums | Requires WAAS | Notes                                                          |
-| ------------ | -------------------------------------------- | -------- | ------------- | -------------------------------------------------------------- |
-| [[LPV]]      | Localizer Performance with Vertical Guidance | [[DA]]   | Yes           | Similar performance to an ILS                                  |
-| LNAV/VNAV    | LNAV/VNAV                                    | [[DA]]   | No            | Uncommon in General Aviation; requires approach-approved barometric VNAV |
-| [[LP]]       | Localizer Performance                        | [[MDA]]  | Yes           |                                                                |
-| [[LNAV]]     | Lateral Navigation                           | [[MDA]]  | No            |                                                                |
-| Circling     |                                              | [[MDA]]  | No            | Allows the pilot to approach an airport from one direction and then circle to land on a different runway                                                               |
+| Abbreviation | Full Name                                    | Minimums | Requires WAAS | Notes                                                                                                    |
+| ------------ | -------------------------------------------- | -------- | ------------- | -------------------------------------------------------------------------------------------------------- |
+| [[LPV]]      | Localizer Performance with Vertical Guidance | [[DA]]   | Yes           | Similar performance to an ILS                                                                            |
+| LNAV/VNAV    | LNAV/VNAV                                    | [[DA]]   | No            | Uncommon in General Aviation; requires approach-approved barometric VNAV^[Can be flown with WAAS]        |
+| [[LP]]       | Localizer Performance                        | [[MDA]]  | Yes           |                                                                                                          |
+| [[LNAV]]     | Lateral Navigation                           | [[MDA]]  | No            |                                                                                                          | 
+| Circling     |                                              | [[MDA]]  | No            | Allows the pilot to approach an airport from one direction and then circle to land on a different runway |
 
 3. Other elements of a GPS approach
 	1. Fly Over vs. Fly By Waypoints

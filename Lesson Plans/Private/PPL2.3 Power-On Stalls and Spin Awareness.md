@@ -89,7 +89,7 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
 ### Completion Standards
-Learner must be able to demonstrate power-on stalls, to ACS standards. The client must be able to assess and avoid situations where intentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentional spins.
+Learner must be able to demonstrate power-on stalls, to ACS standards. The client must be able to assess and avoid situations where unintentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentional spins.
 
 > [!success]- Tolerances (Partial) from [[Private Pilot ACS|ACS]]
 > Recovery no lower than 1500' AGL, heading ±10° before stall, or specified bank angle ±10° (and <20°), acknowledge cues of impending stall and recover promptly with proper procedure.

@@ -26,7 +26,7 @@ Ground 1 hour, Flight 3 hours
 1. [[WVFC]] specific
 	1. Instrument knowledge quiz
 	2. Instrument phase check
-2. 1. IFR cross-country requirement before checkride ([[IRA.A Instrument Rating Flight Experience Requirements]])
+2. IFR long cross-country requirement ([[IRA.A Instrument Rating Flight Experience Requirements]])
 	1. IFR flight of 250 nm minimum 
 	2. An instrument approach at each airport 
 	3. 3 different kinds of approaches (VOR, GPS, ILS)^[See https://find-an-approach.github.io/ for options]
@@ -62,6 +62,6 @@ Ground 1 hour, Flight 3 hours
 	1. Use of checklists / resources in the oral portion^[It’s great to create a reference document to use in flight, and it is fine to reference that both in the airplane and during the oral. However, pulling out an unmodified, large document isn’t a great look. In the former case, you’re showing you’ve prepared for the scenario, and that looks great. In the latter case, you’re showing you didn’t prepare and are leaning on someone else's preparation.]
  
 ### Completion Standards
-The student must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, including ability to complete no precision approach without use of primary flight instruments.
+Learner must demonstrate proficiency at IFR flight planning and all phases of IFR flight, to ACS standards, and complete their long IFR XC.
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*
