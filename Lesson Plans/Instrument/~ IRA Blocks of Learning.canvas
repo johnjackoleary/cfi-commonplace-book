@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"e4cdb6f10ee7feb3","type":"group","x":0,"y":2240,"width":1640,"height":2280,"label":"IFR Charts, Instrument Approaches, Emergencies"},
+		{"id":"e4cdb6f10ee7feb3","type":"group","x":0,"y":2240,"width":1640,"height":2280,"label":"Instrument Charts and Approaches"},
 		{"id":"5f35f3ce42bcf0d7","type":"group","x":0,"y":0,"width":1640,"height":2160,"label":"Flight by Reference to Instruments"},
-		{"id":"3526ae4f5622ab7e","type":"group","x":0,"y":4600,"width":1640,"height":1680,"label":"Weather, Cross-Country, and Checkride Prep"},
+		{"id":"3526ae4f5622ab7e","type":"group","x":0,"y":4600,"width":1640,"height":1680,"label":"Weather, Lost Comms, and Checkride Prep"},
 		{"id":"3b402ee41a5f3974","type":"group","x":580,"y":3160,"width":880,"height":900,"label":"Departures, Arrivals, Approaches"},
 		{"id":"621804a24ad7edee","type":"group","x":20,"y":2320,"width":440,"height":940,"color":"#c89c51","label":"Ground-Only"},
 		{"id":"d0db3b99a39b9a36","type":"group","x":360,"y":1200,"width":880,"height":460,"label":"Navigation"},

@@ -28,7 +28,7 @@ tags:
 [[IRA2.7 Departures and Arrivals]]
 [[IRA2.8 Partial Panel and Unusual Attitudes]]
 
-#### Stage III: Weather, Cross-Country, and Checkride Prep
+#### Stage III: Weather, Lost Comms, and Checkride Prep
 [[IRA3.1 IFR Weather and Weather Services]]
 [[IRA3.2 Lost Communications]]
 [[IRA3.3 Review and Checkride Prep]]
