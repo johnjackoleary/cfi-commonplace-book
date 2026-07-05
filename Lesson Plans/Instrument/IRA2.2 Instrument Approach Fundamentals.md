@@ -13,6 +13,7 @@ Develop an understanding to interpret, apply, and brief various types of charted
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
+- [[IRA1.6 Holding Patterns and Entries]]
 - [[IRA2.1 Charts and Approach Plates]]
 
 ### Schedule
