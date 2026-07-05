@@ -46,4 +46,4 @@ tags:
 
 ### Blocks of Learning
 ![[~ IRA Blocks of Learning.png]]
-> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on July 3, 2026.
+> [!warning] This image is manually updated and may not match the latest lesson plans. It was last updated on July 4, 2026.
