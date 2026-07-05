@@ -13,8 +13,8 @@ Develop proficiency in flying VOR and circling approaches.
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-[[IRA1.4 Ground-Based Navigation]]
-[[IRA2.2 Instrument Approach Fundamentals]]
+- [[IRA1.4 Ground-Based Navigation]]
+- [[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
 Ground 1 hour, simulator 2 hours 

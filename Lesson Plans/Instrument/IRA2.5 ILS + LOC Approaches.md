@@ -13,8 +13,8 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-[[IRA1.4 Ground-Based Navigation]]
-[[IRA2.2 Instrument Approach Fundamentals]]
+- [[IRA1.4 Ground-Based Navigation]]
+- [[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
 Ground 30m, simulator – 2.5 hours 

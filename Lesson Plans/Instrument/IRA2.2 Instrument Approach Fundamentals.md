@@ -14,7 +14,6 @@ Develop an understanding to interpret, apply, and brief various types of charted
 
 ### Builds On
 - [[IRA2.1 Charts and Approach Plates]]
-- [[IRA2.3 Flight Planning and Communications]]
 
 ### Schedule
 Ground 1.5 hours, Sim 1.5 hours

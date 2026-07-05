@@ -14,8 +14,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA2.1 Charts and Approach Plates]]
-- [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
+[[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 2 hours 
