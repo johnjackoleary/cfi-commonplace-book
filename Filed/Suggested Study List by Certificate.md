@@ -1,4 +1,4 @@
-***Link***      :: [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2025-ASA%20Study%20by%20Certificate.pdf)
+***Link***      :: [Suggested Study List by Certificate](https://asa2fly.com/content/reader-resources/FARAIM/2026-ASA%20Study%20by%20Certificate.pdf)
 ***Description***      :: FAR Parts and AIM Paragraphs Pertinent to Specific Pilot Certificates
 ***Author*** :: [[ASA]]
 

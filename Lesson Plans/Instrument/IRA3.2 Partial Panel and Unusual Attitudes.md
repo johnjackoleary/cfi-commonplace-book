@@ -2,16 +2,14 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.13
 ---
 ### Introduction
 We know cross-check is the first of the [[CIA|fundamentals of instrument flight]]. A good scanning technique promotes cross-check, and cross-check helps us identify any errors with our instruments or systems. And even if there are errors, we need to continue to fly the airplane, which means figuring out which instruments are still working and how to use them.
 
-In this lesson, we'll work through identifying, diagnosing, and handling instrument failures. This requires a deep systems knowledge to understand and process symptoms you encounter in flight. After figuring out the source of an issue, you'll need to fly the airplane using your remaining instruments, potentially through to an instrument approach.
+In this lesson, we'll work through identifying, diagnosing, and handling instrument failures. This requires a deep systems knowledge to understand and process symptoms you encounter in flight. After figuring out the source of an issue, you'll need to fly the airplane using your remaining instruments, fix any unusual attitudes, and potentially through to an instrument approach.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[IRA1.7 Unusual Attitude Recoveries, Including Partial Panel]]
+**Builds On:** [[IRA1.3 Instrument Maneuvers]], [[IRA2.2 Instrument Approach Fundamentals]]
 **Schedule:** Ground 0.5 hour, simulator and/or airplane 1 hour
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
@@ -22,10 +20,10 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 	2. Electrical system drives T/C (turn coordinator) 
 	3. Pitot-static system 
 	4. Autopilot – rate based (uses turn coordinator) or attitude based?
-2. Diagnosing system failures 
-	1. Inverted-V Scan
-	2. Bank triangle (most critical): A/I, TC, Directional Gyro ([[DG]])
-	3. Pitch triangle: A/I, Altimeter, VSI A/S 
+2. Diagnosing system failures
+	1. [[Inverted-V Scan]] to detect anomalies by comparing vacuum gyro ([[AI]]) to electric gyro ([[TC]]) to pitot/static ([[VSI]])
+	2. Bank triangle (most critical): [[AI]], [[TC]], Compass ([[HI]]) 
+	3. Pitch triangle: [[AI]], Altimeter, [[VSI]] ([[ASI]], vacuum gauge)
 3. Partial Panel operations 
 	1. Lost vacuum – no A/I or HI (HSI) 
 		1. Use T/C and compass for bank, 
@@ -41,23 +39,33 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 		2. Pitot heat^[Good example from [this](https://www.youtube.com/watch?v=lZPDfZArP_Q) video]
 	4. G1000 partial panel operations: See Garmin guidance doc ([[IRA.C Important References to Study]])
 	5. Use of [[EFB]] in an emergency
-4. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
-5. ATC notification 
+4. [[Unusual Attitude Recovery]]
+5. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
+6. ATC notification 
 	1. May be required, likely good idea ([[FAR 91.187 IFR Malfunction Reports]])
 	2. Can also always ask for a [[IFR Radio Communication Examples#Delay Vector|delay vector]]
-6. No-gyro [[PAR]] approaches and [[ASR]] approaches 
-7. [[Human Factors]], especially [[Illusions Leading to Spatial Disorientation]]
-8. Sign up for [[WVFC]] [[Safety Pilot]] list, if desired
-9. Common errors: 
+7. No-gyro [[PAR]] approaches and [[ASR]] approaches 
+8. [[Human Factors]], especially [[Illusions Leading to Spatial Disorientation]]
+9. Sign up for [[WVFC]] [[Safety Pilot]] list, if desired
+10. Common errors: 
 	1. Slow to recognize failure could result in an unusual attitude 
 	2. Overcontrolling with partial panel 
 
+#### Sim and Airplane Activity
+1. Unusual Attitudes
+	1. Full Panel
+	2. Partial Panel
+2. Partial Panel [[IRA1.3 Instrument Maneuvers#Airplane or Sim Activity|Instrument Maneuvers]]
+	1. Failed AHRS
+	2. Failed ADC
+	3. Other failures
+3. Partial Panel Approaches
+	1. Failed PFD
+	2. Failed magnetometer
+	3. Non-precision approach without use of primary flight instruments
+	4. Other failures
+
 ### Completion Standards
-Student must demonstrate understanding of instrument systems and ability to diagnose instrument and system failures. Student must become proficient in partial panel procedures, including enroute and instrument approaches (to be practiced frequently in future lessons).
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Emergency operations
-
+Learner demonstrates the ability to recognize, confirm, and recover from unusual attitudes, applying the appropriate pitch, bank, and power corrections in the correct sequence to return the aircraft to a stabilized level flight attitude. They must demonstrate understanding of instrument systems and ability to diagnose instrument and system failures. Finally, learner must become proficient in partial panel procedures, including enroute and instrument approaches. 
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

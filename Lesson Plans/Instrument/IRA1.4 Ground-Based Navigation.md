@@ -2,11 +2,9 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.5A
 ---
 ### Objective
-VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction. Autopilot systems and operation.
+VOR orientation, course intercepts and tracking, and use of HSI, if available. ILS and DME introduction.
 
 ### Resources
 - [[Instrument ACS]] section V
@@ -17,7 +15,6 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. I
 ### Builds On
 - [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
 - [[IRA1.3 Instrument Maneuvers]]
-- [[IRA1.4 Simulated IFR Flight]]
 
 ### Schedule
 Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
@@ -30,10 +27,5 @@ Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on d
 
 ### Completion Standards
 Student must be able to tune and ID VOR navaid, detect failures; check receiver for proper operation; orient to a VOR station or course; intercept assigned course; track course to or from VOR, with crosswind correction; Maintain heading within 10°s, altitude within 100 feet, airspeed within 10 kts. Student must know how to check autopilot operation during preflight, and how to use autopilot during enroute flight.
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Navigation systems
-
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

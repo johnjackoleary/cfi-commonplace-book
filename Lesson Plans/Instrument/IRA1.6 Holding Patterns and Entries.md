@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.8
 ---
 ### Objective
 Develop proficiency in flying holding patterns, including recommended entry procedures, while satisfying ACS standards. 
@@ -15,8 +13,8 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA1.5 Ground-Based Navigation]]
-- [[IRA1.6 Satellite Navigation]]
+- [[IRA1.4 Ground-Based Navigation]]
+- [[IRA1.5 Satellite Navigation]]
 
 ### Schedule
 Ground 1.5 hour, simulator and/or airplane, 1.5 hours 
@@ -33,15 +31,14 @@ Ground 1.5 hour, simulator and/or airplane, 1.5 hours
 	2. GPS confusion
 	3. Incorrect entry choice
 	4. Insufficient wind correction
-	5. Fuel monitoring and “minimum fuel” situations ([Avianca Flight](https://en.wikipedia.org/wiki/Avianca_Flight_052))
+	5. Fuel monitoring and "[[minimum fuel]]" situations ([Avianca Flight](https://en.wikipedia.org/wiki/Avianca_Flight_052))
 
+#### Airplane or Sim Activity
+1. Hold on green needles, without and with wind
+2. Hold on magenta needles, with OBS and with hold in flight plan
+3. Holds with AP
 
 ### Completion Standards
 Student must demonstrate proficiency in planning, entering, and flying holding patterns, while maintaining +- 10 kts, +- 100 feet, +- 10°s, with < ¾ scale deflection of [[CDI]].
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Air traffic control clearances and procedures
-
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

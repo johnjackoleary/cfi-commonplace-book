@@ -28,7 +28,10 @@ From [[AC 61-98]] Appendix F:
 - [ ] Course to be Flown (§ [[FAR 91.181 Course to Be Flown|91.181]])
 - [ ] IFR Two-Way Communications (§ [[FAR 91.183 IFR Communications|91.183]])
 - [ ] Navigation Aids ([[AIM 1]])
+	- [ ] [[Satellite Navigation using GPS and GNSS]]
+	- [ ] [[Ground-Based Navigation using VOR, DME, and ILS]]
 - [ ] ATC ([[AIM 4]])
+	- [ ] [[Radar|Surveillance Systems]]
 - [ ] Air Traffic Procedures ([[AIM 5]])
 
 ## External Pressure

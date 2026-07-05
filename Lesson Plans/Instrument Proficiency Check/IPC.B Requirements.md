@@ -19,7 +19,8 @@ The [[Instrument ACS]] notes the following areas as minimum required tasks for a
 - IV.B: *Recovery from Unusual Flight Attitudes*
 - V.A: *Intercepting and Tracking Navigational Systems and Arcs*
 - VI (all): *Instrument Approach Procedures*
-- VII.B,C,D (multi-engine only)
+- VII.B,C (multi-engine only)
+- VII.D
 - VIII (all): *Postflight Procedures*
 
 ***See also***: [[AC 61-98]]

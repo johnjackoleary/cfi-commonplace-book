@@ -37,8 +37,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 		2. ![[Power Required Curve.jpeg]]
 	4. Stall warning devices and other indications of impending stall (mushy controls, buffeting)
 	5. Difference between attitude and AOA
-	6. Environmental elements affecting aircraft performance ([[Hot, High, and Heavy]])
-	7. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
+	6. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
 3. Introduction to [[Weight and Balance]]
 	- > [!note] [[WVFC]] requires W&B as part of solo ground review form
 4. Slow flight maneuvering
@@ -46,13 +45,14 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 		1. Clear the area - perform clearing turns
 		2. Heading - choose a heading and set the heading bug
 		3. Altitude - choose a safe altitude and set the bug.
-			1. ACS calls for 1500' minimum recovery, but this is too low to start! -- start at > 3000' AGL
+			1. ACS calls for 1500' AGL minimum recovery, but this is too low to start! -- start at > 2500' AGL (3000' MSL in our local practice areas)
 			2. Be careful of overlaying Bravo
-		4. Position - Identify an emergency landing location
-		5. Settings - Reduce power, maintaining altitude while aircraft slows down, extend gear and flaps at appropriate speeds if applicable
-	3. Reduce speed to ~5 knots above stall or stall-warning^[Can find this speed by continuing to slow until first indication of stall, then flying at 5kts faster]
-	4. Add power as necessary to maintain altitude
-	5. Maintain rudder coordination, adjust trim as necessary
+		4. Place to land - Identify an emergency landing location
+		5. Set power and configuration - Reduce power, maintaining altitude while aircraft slows down, extend gear and flaps at appropriate speeds if applicable
+	2. Reduce speed to ~5 knots above stall or stall-warning^[Can find this speed by continuing to slow until first indication of stall, then flying at 5kts faster]
+	3. Add power as necessary to maintain altitude
+	4. Maintain rudder coordination
+	5. Adjust trim as necessary
 	6. S&L, turns, climbs, descents at various configurations (flaps and power)
 	7. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim

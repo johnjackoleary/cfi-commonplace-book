@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.11A
 ---
 ### Objective
 Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate understanding of landing minimums and missed approach procedures. 
@@ -17,8 +15,8 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA1.6 Satellite Navigation]]
-- [[IRA2.4 Approach Charts and Procedures]]
+- [[IRA1.5 Satellite Navigation]]
+- [[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
 Ground 30m, Sim/airplane – 2.5 hours 
@@ -41,13 +39,13 @@ Ground 30m, Sim/airplane – 2.5 hours
 
 Ordered roughly from most accurate to least accurate:
 
-| Abbreviation | Full Name                                    | Minimums | Requires WAAS | Notes                                                          |
-| ------------ | -------------------------------------------- | -------- | ------------- | -------------------------------------------------------------- |
-| [[LPV]]      | Localizer Performance with Vertical Guidance | [[DA]]   | Yes           | Similar performance to an ILS                                  |
-| LNAV/VNAV    | LNAV/VNAV                                    | [[DA]]   | No            | Uncommon in General Aviation; requires approach-approved barometric VNAV |
-| [[LP]]       | Localizer Performance                        | [[MDA]]  | Yes           |                                                                |
-| [[LNAV]]     | Lateral Navigation                           | [[MDA]]  | No            |                                                                |
-| Circling     |                                              | [[MDA]]  | No            | Allows the pilot to approach an airport from one direction and then circle to land on a different runway                                                               |
+| Abbreviation | Full Name                                    | Minimums | Requires WAAS | Notes                                                                                                    |
+| ------------ | -------------------------------------------- | -------- | ------------- | -------------------------------------------------------------------------------------------------------- |
+| [[LPV]]      | Localizer Performance with Vertical Guidance | [[DA]]   | Yes           | Similar performance to an ILS                                                                            |
+| LNAV/VNAV    | LNAV/VNAV                                    | [[DA]]   | No            | Uncommon in General Aviation; requires approach-approved barometric VNAV^[Can be flown with WAAS]        |
+| [[LP]]       | Localizer Performance                        | [[MDA]]  | Yes           |                                                                                                          |
+| [[LNAV]]     | Lateral Navigation                           | [[MDA]]  | No            |                                                                                                          | 
+| Circling     |                                              | [[MDA]]  | No            | Allows the pilot to approach an airport from one direction and then circle to land on a different runway |
 
 3. Other elements of a GPS approach
 	1. Fly Over vs. Fly By Waypoints
@@ -69,9 +67,5 @@ Ordered roughly from most accurate to least accurate:
 	
 ### Completion Standards
 Student must demonstrate proficiency at understanding the different types of RNAV (GPS) approaches, different landing minimums, and basic shapes of RNAV (GPS) approaches. Student should be introduced to RNAV (GPS) approaches by flying multiple approaches in an approved simulator.
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Instrument approach procedures
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

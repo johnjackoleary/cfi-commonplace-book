@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.3
 ---
 ### Introduction
 Now that you've mastered the fundamentals, we're tackling transitions between the standard phases of IFR flying. The climb and cruise phases will be familiar, but flight at 90kts, with different flap settings, is common throughout an instrument approach.
@@ -15,22 +13,37 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 **Schedule:** Ground 0.5 hour, simulator and/or airplane 2.5 hour 
 
 ### Lesson Elements
-1. Intro to [[SRM]]
+1. [[SRM]] as an instrument pilot
 	1. [[VVM]] and "[[Two Most Important Things in Aviation|next two things]]"
 	2. Verbalize flows and checklists, and any changes
+		1. Verbalize thoughts to act as own co-pilot
 	3. Callouts of 1000', 500', 200', 100' before a level off or [[DA]]
 	4. Callouts for time or miles until the next waypoint or phase change
-2. Common IFR maneuvers
+	5. Appropriate management of all resources (in and out of aircraft) available to the single pilot
+	6. How can resources be organized before the flight for better [[SRM]]?
+2. [[CRM]] including crew communication and coordination ([[AC 120-51]])
+	1. Communications Processes and Decision Behavior^[Briefings, Inquiry/Advocacy/Assertion, Crew Self-Critique (Decisions and Actions), Conflict Resolution, Communications and Decisionmaking]
+	2. Team Building and Maintenance
+3. [[Task Saturation]]
+	1. ![[Task Load vs Pilot Capabilities.jpeg]]
+	2. Prepare for high workload periods during times of low workload
+	3. If falling behind airplane or need more time
+		1. "stop, think, slow down, and prioritize" - [[PHAK Ch2]]
+		2. [[Aviate, Navigate, Communicate]]
+		3. Slow the plane down to 90kts instead of cruise speeds
+		4. Request a [[IFR Radio Communication Examples#Delay Vector|delay vector]] or, similarly, request to continue holding
+	4. > [!quote] From [[Standby for Name When Task Saturated|The Finer Points video]]
+	   > There will come a day when I ask you what your name is, and you tell me to standby.
+4. Common IFR maneuvers
 	1. Most IFR flights have similar phases
 	2. Gait chart gives initial pitch/power/configuration
 	3. Gait chart also helps us avoid chasing the instruments!
 	4. Common maneuvers listed in activity below
-3. Common Errors
-	1. Fixation or omission
-	2. Forgetting to check HSI vs compass (non-slaved systems) 
-	3. Doing things while turning – should do nothing else until turn is complete 
-	4. Heavy touch, over-controlling
-	5. Improper trim control
+5. Common Errors 
+	1. Forgetting to use mental checklists 
+	2. Rushing to keep up with the plane 
+	3. Diverting attention during maneuvers like turning, or before reaching altitude
+	4. Not recognizing [[fatigue]] and [[task saturation]]
 
 #### Airplane or Sim Activity
 > [!quote] From [[IFR Muscle Builders]]
@@ -53,11 +66,12 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 	9. Non-Prec Appr to MDA (90kts, -800 fpm), approach configuration
 	10. Level off, approach configuration
 	11. Full power climb at Vy and clean up^[[[5 C's (Going Missed)]]]
-2. [[Pattern A.png|Pattern A]]
-3. [[Oscar Pattern]]
+2. Simulated Engine Failure
+3. [[Pattern A.png|Pattern A]]
+4. [[Oscar Pattern]]
 	1. Great [[Oscar Pattern#^the-finer-points|overview video]] from [[The Finer Points]]
 	2. Pattern image at [this timestamp](https://youtu.be/GwymtvCgBOk?si=Y4FsAZx-aEjMNPf9&t=103)
-4. [[Pattern B and Vertical S.png|Vertical S]], description in [[IFR Muscle Builders]]
+5. [[Pattern B and Vertical S.png|Pattern B and Vertical S]], description in [[IFR Muscle Builders]]
 	1. 500 fpm first, then 400, 300, and 200.
 	2. Challenge: Complete this at 90 kts
 

@@ -2,8 +2,6 @@
 tags:
   - ir
   - lesson
-aliases:
-- IR.14
 ---
 ### Objective
 Develop satisfactory knowledge, risk management, and skills associated with obtaining, understanding, and applying weather information for a flight under IFR. 
@@ -16,8 +14,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Builds On
-- [[IRA2.1 Airspace, Charts, Flight Planning and Enroute Operations]]
-- [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
+[[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
 Ground 2 hours 
@@ -64,12 +61,13 @@ Ground 2 hours
 	2. How to identify alternates, when to divert to alternate 
 	3. Establishing [[Personal Minimums]]
 
+### Required Homework
+- [ ] Schedule IFR long cross-country requirement ([[IRA.A Instrument Rating Flight Experience Requirements]])
+	1. IFR flight of 250 nm minimum 
+	2. An instrument approach at each airport 
+	3. 3 different kinds of approaches (VOR, GPS, ILS)^[See https://find-an-approach.github.io/ for options]
+
 ### Completion Standards
 The learner must demonstrate the ability to use weather resources to obtain a weather briefing, make a competent go/no-go decision, and obtain weather updates during flight. 
-
-### Required Logbook Phraseology
-For [[FAR 61.65 Instrument Rating Reqs]]:
-- Procurement and use of aviation weather reports and forecasts and the elements of forecasting weather trends based on that information and personal observation of weather conditions
-- Recognition of critical weather situations and windshear avoidance
 
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*
