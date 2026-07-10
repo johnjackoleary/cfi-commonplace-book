@@ -60,14 +60,16 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 5. What aircraft are approved for spins?
 	1. Check [[POH]]. Some airplanes are approved for spins in utility category (e.g. C152, C172, Citabria) but many are not.
 	2. Normal category planes are tested to recover from 1-turn spin only. Any spin further than 1 turn may not be recoverable!
-	3. Note: Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018|Fitzpatrick - Spartan College interpretation from FAA Chief Counsel in Feb 2018]]
-6. Situations where unintentional spins may occur
+6. Parachutes
+	1. Typically parachutes required for bank > 60° or pitch > +/-30° ([[FAR 91.307 Parachutes]]), however...
+	2. Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018]]
+7. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
+8. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide
 	3. Climb-out stall that develops into spin (lots of [[P-factor]] during takeoff/go-around climb)
 	4. Iced up airframe
-	5. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
-7. Practicing Spins and Recoveries (optional)
+9. Practicing Spins and Recoveries (optional)
 	1. Before departure
 		1. Confirm aircraft W&B in utility/acrobatic category approved for spins
 		2. Secure interior - no loose objects
@@ -80,7 +82,7 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 	7. Hold full aft elevator and full rudder for desired number of turns in spin
 	8. Recover with [[POH]] (often [[PARE]]) procedure as described above
 	9. Pull up from dive and add power to regain altitude as necessary
-8. Common errors
+10. Common errors
 	1. Failure to configure aircraft properly (e.g. spinning with flaps down, since recover may exceed flap limit speed)
 	2. Failure to hold full stall, resulting in a steep spiral and high airspeed
 	3. Improper use of controls during recovery, especially neutral ailerons (instinct is to lift the low wing with ailerons)
