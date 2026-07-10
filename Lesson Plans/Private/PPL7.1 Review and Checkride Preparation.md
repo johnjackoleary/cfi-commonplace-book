@@ -12,26 +12,28 @@ With your training complete, this lesson talks about strategies to prepare for t
 ### Lesson Elements
 1. Thorough review of [[Private Pilot ACS]]
 	1. Also helpful to read [[ACS Tips for Evaluators]]
-2. Thoughts on when to discontinue
+2. > [!question]- Do you know the best way to answer a DPE's question?
+  > Yes
+3. Thoughts on when to discontinue
 	1. Not feeling well, or drained from the oral, or equipment issues
 	2. Winds or weather beyond personal minimums
 	3. If you wouldn't take your grandma flying today, it's not a good day for a checkride
-3. Odds and Ends FARs (for a general review, see [[Suggested Study List by Certificate]])
+4. Odds and Ends FARs (for a general review, see [[Suggested Study List by Certificate]])
 	1. [[Pilot Performed Preventive Maintenance]]
 	2. [[FAR 91.213 Inop Equip]] review
 	3. [Be Prepared: Ramp Checks and What You Should Know](https://pilot-protection-services.aopa.org/news/2019/june/01/be-prepared-ramp-checks-and-what-you-should-know) from [[AOPA]]
 	4. [[Pilot's Bill of Rights]]
 	5. [[Accident and Incident Reporting]] to [[NTSB]] ([[Part 830]] review)
 	6. [[ASRS]] Reports^[Informally [NASA reports](https://asrs.arc.nasa.gov)]
-4. [[ADM]] and [[Risk Management]] discussion
+5. [[ADM]] and [[Risk Management]] discussion
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
 	3. [[The Killing Zone]]
 	4. Consider something like "Adhere to your solo minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
-5. Choice of [[DPE]] and location of checkride
+6. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
 	2. [List from FSDO for 2026](https://www.faa.gov/about/office_org/field_offices/fsdo/sjc/SJC_FSDO_DPE_List.pdf) in the Bay
-6. Practice for oral potion of practical test
+7. Practice for oral potion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
 		2. [[Scott Rohlfing]], DPE: http://attheready.com/from-my-perspective-
@@ -41,9 +43,9 @@ With your training complete, this lesson talks about strategies to prepare for t
 		2. https://pilotworkshop.com/products/checkride-insights-private-pilot/
 	4. Practice oral exams with other students and instructors
 		1. [Rachael Webster](https://www.linkedin.com/in/rachael-hanby-webster-0a650b5/)
-7. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
+8. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 	1. Also [[All Maneuvers Quick Reference]]
-8. Simulated practical test (optional) with senior CFI
+9. Simulated practical test (optional) with senior CFI
 
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
