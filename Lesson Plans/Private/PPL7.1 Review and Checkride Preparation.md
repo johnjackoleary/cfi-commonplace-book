@@ -29,7 +29,8 @@ With your training complete, this lesson talks about strategies to prepare for t
 	1. Modeled by [[CFI]] throughout training
 	2. Going forward, be careful of [[Operational Pitfalls]]
 	3. [[The Killing Zone]]
-	4. Consider something like "Adhere to your solo minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
+	4. [[Normalization of Deviance]]
+	5. Consider something like "Adhere to your solo minimums until you have logged at least 150 hours of total time, and at least 50 hours of PIC cross-country time"
 6. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
 	2. [List from FSDO for 2026](https://www.faa.gov/about/office_org/field_offices/fsdo/sjc/SJC_FSDO_DPE_List.pdf) in the Bay

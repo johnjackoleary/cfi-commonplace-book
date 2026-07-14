@@ -40,15 +40,17 @@ GPS/Sentry/ADS-B In
 		1. Select suitable reference
 		2. Enter downwind, 1/4-1/2mi from reference
 		3. Tailwind: Steeper bank; Headwind: Shallower bank
-		4. Note sarting point
+		4. Note starting point
 		5. Use 4 points along circle to help maintain constant radius
+		6. Note: Wngs only point at point on downind and uwind
 	3. S-Turns![[S-Turns.jpeg]]
 		1. Select suitable reference, perpendicular to wind
 		2. Enter downwind
 		4. Tailwind: Steeper bank; Headwind: Shallower bank
 		3. Use 5 points on S-turn to help maintain constant radius
 		4. Wings level and parallel to reference as you cross
-7. Common errors
+7. Places to practice
+8. Common errors
 	1. Forgetting to check for traffic or to locate emergency field
 	2. Failure to divide attention between aircraft control, instrument check, ground references, traffic and situational awareness
 	3. Improper correction for wind drift
