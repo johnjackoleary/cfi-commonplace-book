@@ -29,25 +29,30 @@ Pilots have a saying: "Better to be on the ground, wishing you were in the air, 
 > [!quote] 
 > ![[A Superior Pilot#^quote]]
 
-1. Preflight - [[PAVE]]
-	1. <u>P</u>ilot
-		1. [[IMSAFE]] checklist
-		2. Government ID, pilot license, and medical certificate - in possession ([[FAR 61.3 Reqs for Certs, Ratings, Etc]])
-		4. Currency for carrying passengers (day or night) - met ([[FAR 61.57 Recent Flight Experience]])
-	2. <u>A</u>ircraft
-		1. [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-		2.  Introduction to Weight & Balance
-	3. en<u>V</u>ironment
-		1. Weather, airspace/[[TFR]]s, terrain, etc
-		2. Listen to [[ATIS]]
-		3. [[All Available Information Concerning That Flight]] (most of the lesson is spent on this subpage)
-	4. <u>E</u>xternal Pressures
-		1. [[Personal Minimums]] met
-		2. Early expectation setting with passengers, having backup plans, etc
-		3. Bottom line: Don't let yourself be rushed; Don't go if something's not right
+#### Preflight - [[PAVE]]
+The PAVE checklist is pretty much the most fundamental checklist we use as pilots to determine if a flight is a go or a no-go. It covers not just the airplane's airworthiness, but also the condition of the pilot, the weather, and any other factors that could affect the flight. In future lessons, we will add more bullets to each section, but we'll continue to use this framework.
+
+**<u>P</u>ilot**
+1. [[IMSAFE]] checklist
+2. Government ID, pilot license, and medical certificate - in possession ([[FAR 61.3 Reqs for Certs, Ratings, Etc]])
+3. Currency for carrying passengers (day or night) - met ([[FAR 61.57 Recent Flight Experience]])
+
+**<u>A</u>ircraft**
+1. [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
+2.  Introduction to Weight & Balance
+
+**en<u>V</u>ironment**
+1. Weather, airspace/[[TFR]]s, terrain, etc
+2. Listen to [[ATIS]]
+3. [[All Available Information Concerning That Flight]] (most of the lesson is spent on this subpage)
+
+**<u>E</u>xternal Pressures**
+1. [[Personal Minimums]] met
+2. Early expectation setting with passengers, having backup plans, etc
+3. Bottom line: Don't let yourself be rushed; Don't go if something's not right
 
 > [!note]
-> The 'Preflight' section above is a simplified version of the [[Complete VFR Preflight Checklist]]
+> If we want to peek ahead, the 'PAVE' checklist above is a simplified version of the [[Complete VFR Preflight Checklist]]
 
 
 ### Completion Standards

@@ -2,7 +2,7 @@ This is a complete list of all preflight actions and checks (everything the pilo
 
 ## Flight Planning
 - [ ] Complete a navlog planner, with waypoints, altitudes, fuel requirements, etc.
-	- [ ] Consider performance requirements (eg. climb rates to clear terrain)
+	- [ ] Consider performance requirements (eg. takeoff and landing distances; climb rates to clear terrain)
 	- [ ] Consider all airspaces, terrain, and obstacles en route
 - [ ] Learn about the destination airport
 	- [ ] Plan for pattern entry
