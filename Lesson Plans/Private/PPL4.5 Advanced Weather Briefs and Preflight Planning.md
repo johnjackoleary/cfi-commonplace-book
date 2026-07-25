@@ -7,21 +7,12 @@ aliases:
   - XC.5
   - PPL4.5
 ---
-### Objective
-Develop ability to obtain, process and understand pre-flight weather briefings, and use weather data. 
+### Introduction
+Cross-country flight planning relies on an accurate assessment not only of current weather, but also how the weather will change over over time and across the route of flight. Studying weather theory allows a pilot to understand why certain condition develop, and to make their own predictions about how the situation will evolve. Chapter 12 of the [[PHAK]] is a particularly good resource for understanding weather theory. In this lesson we'll learn how to obtain, process and understand pre-flight weather briefings, and use weather data. 
 
-### Resources
-- [[Private Pilot ACS]] Sections I.C, I.D
-- [[Aviation Weather Handbook]]
-- [[AC 91-92]]
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-- [[PPL1.3 Weather Briefs and Preflight Planning]]
-
-### Schedule
-Ground 1.5 hour, practice on multiple flights
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL1.3 Weather Briefs and Preflight Planning]]
+**Schedule:** Ground 1.5 hour, practice on multiple flights
 
 > [!note] 
 > Can be completed at the same time as with [[PPL4.6 Pilotage and Dead Reckoning]].
@@ -75,10 +66,9 @@ Ground 1.5 hour, practice on multiple flights
 ### Completion Standards
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.
 
-### Required Homework
-None
-
-### Recommended Homework
-None
+### Resources
+- [[Private Pilot ACS]] Sections I.C, I.D
+- [[Aviation Weather Handbook]]
+- [[AC 91-92]]
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*
