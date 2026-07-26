@@ -13,6 +13,10 @@ These are [[Radio Communication Examples|example radio calls]] for an arrival an
 
 # Example Calls
 
+## Weather and Traffic Listening
+30nm-15nm out?
+
+
 ## Awareness Call
 
 10 miles out, inbound for landing
@@ -31,7 +35,7 @@ This is meant to tell local traffic where you are, and how you'll enter the patt
 ## Crossing Overhead
 > <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, overhead at two thousand two hundred feet, teardrop to enter the left forty five runway two zero, Watsonville"</span>
 
-You may also say "turning downwind" instead of "teardrop", although a teardrop entry is preferred.
+You may also say "turning downwind" instead of "teardrop" depending inoj tfuytfx tyus
 
 ![[Non-Towered Pattern Entry.jpeg]]
 

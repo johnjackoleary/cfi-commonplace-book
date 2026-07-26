@@ -6,7 +6,7 @@
 	3. [[Wind Shear from Tempurature Inversion.jpeg|Temperature inversions]]
 	4. Surface obstructions
 - Best ways a pilot can prevent a hazardous encounter with wind shear:
-	- Know wind shear is there.
+	- Know wind shear is there. (How?)
 	- Know the magnitude of the change.
 	- Be prepared to correct or go around immediately.
 - Always be alert to the possibility of wind shear, especially when flying in and around thunderstorms and frontal systems.

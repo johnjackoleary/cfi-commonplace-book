@@ -50,6 +50,7 @@ Cross-country flight planning relies on an accurate assessment not only of curre
 		1. Outlook
 		2. Standard
 		3. Abbreviated
+	5. [Too Much Weather: How to Choose Which Resource to Use and When](https://www.faa.gov/blog/clearedfortakeoff/too-much-weather-how-choose-which-resource-use-and-when) from the [[FAA]]
 2. Review of [[All Available Information Concerning That Flight]]^[Similar to [[NWKRAFT]]]
 	1. Alternate selection
 3. Other topics related to cross-country planning and flying
