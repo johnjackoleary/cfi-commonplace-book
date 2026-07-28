@@ -2,29 +2,18 @@
 tags: [ppl, lesson]
 aliases: [XC.7, PPL4.7]
 ---
-### Objective
-Verify that the learner can fill out a complete navlog correctly on their own.  Understand the process to identify risks and to make an informed go/no-go decision about a flight.
+### Introduction
+The go/no-go decision is the most important decision a pilot makes.
 
-### Resources
-- [[ACS]] Sections
-	- I.A (Pilot Qualifications)
-	- I.B (Airworthiness Requirements)
-	- I.D (Cross-Country Flight Planning)
+Sometimes the answer is obviously 'yes' - clear skies; weather unlikely to change; a route you've flown before.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+Sometimes it's obviously 'no' - stormy conditions; low ceilings.
 
-### Builds On
-- [[PPL4.2 Advanced Airport Operations]]
-- [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-- [[PPL4.4 Aircraft Performance and Weight+Balance]]
-- [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
-- [[PPL4.6 Pilotage and Dead Reckoning]]
+But often it's 'maybe', which is the hardest situation to sort through. In this lesson we'll talk through all the scenarios, and discuss how to make a decision when there are some yellow flags and iffy conditions.
 
-### Schedule
-Ground 1 hours
-
-> [!note] 
-> Can be completed at the same time as [[PPL4.5 Advanced Weather Briefs and Preflight Planning]] or [[PPL4.6 Pilotage and Dead Reckoning]].
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL4.2 Advanced Airport Operations|PPL 4.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL 4.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|PPL 4.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning| PPL 4.5]], [[PPL4.6 Pilotage and Dead Reckoning|PPL 4.6]]
+**Schedule:** Ground 1 hours
 
 ### Lesson Elements
 1. Review the navlog prepared as homework
@@ -40,6 +29,12 @@ Ground 1 hours
 
 ### Completion Standards
 Learner completes a full navlog for a cross-country trip, and makes a wise and informed go/no-go decision about that trip.
+
+### Resources
+- [[ACS]] Sections
+	- I.A (Pilot Qualifications)
+	- I.B (Airworthiness Requirements)
+	- I.D (Cross-Country Flight Planning)
 
 ### Required Homework
 - [ ]  Create your [[personal minimums]]
