@@ -3,7 +3,10 @@ tags: [ppl, lesson]
 aliases: [PPL.27, PPL.2, PPL6.1]
 ---
 ### Introduction
-Your Private Pilot License gives you permission to fly at night as well as in the daytime. Night flying can be really fun, with smooth air and beautiful city lights. But it also brings a new set of challenges and risks, and new regulations to learn ("night" has three different definitions!).
+Your Private Pilot License gives you permission to fly at night as well as in the daytime. Flying at night brings additional risks, but it can also deliver smooth air, beautiful views, and schedule convenience.  Even if you don't plan to fly at night, you need to be prepared-- you never know when a well-planned flight will encounter delays that push your landing into the night hours.
+
+In this lesson we cover all the ways in which night flying is different, including the limitations of night vision, night illusions, a higher bar for the go/no-go decision, and greater reliance on flight instruments.  The FARs also require you to log 3 hours, 10 takeoffs and landings, and a 100NM XC at night ([[FAR 61.109 PPL Experience Reqs|FAR 61.109]]) as part of your private pilot training, so we'll complete that training as well.
+
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.5 Towered Airport Operations]], [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]], [[PPL4.6 Pilotage and Dead Reckoning]]
@@ -13,9 +16,10 @@ Your Private Pilot License gives you permission to fly at night as well as in th
 
 **Regulations pertaining to night flight**
 1. Required equipment ([[FAR 91.205 Instrument and Equipment Requirements|§ 91.205]]) - [[APES]] or [[FLAPS]]
-2. Navigation lights required sunset-to-sunrise ([[FAR 91.209 Aircraft Lights|§ 91.209]])
-3. Logging night flight -- after civil twilight ([[Night - For Logging Time]])
-4. Night currency for carrying passengers -- 3 takeoffs and (fullstop) landings within 90 days, >1 hour after sunset ([[FAR 61.57 Recent Flight Experience|§ 61.57]])
+2. The three definitions of "night" (examiners love to ask about this)
+	1. Navigation lights required sunset-to-sunrise ([[FAR 91.209 Aircraft Lights|§ 91.209]])
+	2. Logging night flight -- after civil twilight ([[Night - For Logging Time]])
+	3. Night currency for carrying passengers -- 3 takeoffs and (fullstop) landings within 90 days, >1 hour after sunset ([[FAR 61.57 Recent Flight Experience|§ 61.57]])
 
 **Bay Area local information**
 1. [[Palo Alto Airport|KPAO]] reverts to Class G, which means only right traffic on 31^[[[FAR 91.126 Class G Airspace Ops Near Airport]]] when tower closed
