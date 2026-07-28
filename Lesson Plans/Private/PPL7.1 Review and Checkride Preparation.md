@@ -2,25 +2,12 @@
 tags: [ppl, lesson]
 aliases: [PPL.28, PPL.3, PPL7.1]
 ---
-### Objective
-Prepare for practical test oral and flight portions.
+### Introduction
+With your training complete, this lesson talks about strategies to prepare for the checkride.
 
-### Resources
-- [[Private Pilot ACS]] – all sections
-- [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
-- [[FAR]] [[Part 61]] and [[Part 91]]^[[[How to Get Your Certificate and How to Lose Your Certificate]]]
-- [[AIM]]
-- [[Suggested Study List by Certificate]]
-- ["Answers to the ACS" Study App](https://answerstotheacs.com/pages/private.php)
-- Chart Supplements
-
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
-
-### Builds On
-[[~ PPL Lesson Plan Outline|All Lessons]]
-
-### Schedule
-Ground 3 hours, Flight as necessary
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[~ PPL Lesson Plan Outline|All Lessons]]
+**Schedule:** Ground 3 hours, Flight as necessary
 
 ### Lesson Elements
 1. Thorough review of [[Private Pilot ACS]]
@@ -60,6 +47,15 @@ Ground 3 hours, Flight as necessary
 
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
+
+### Resources
+- [[Private Pilot ACS]] – all sections
+- [[AFH]] (descriptions of maneuvers), [[POH]]/[[AFM]]
+- [[FAR]] [[Part 61]] and [[Part 91]]^[[[How to Get Your Certificate and How to Lose Your Certificate]]]
+- [[AIM]]
+- [[Suggested Study List by Certificate]]
+- ["Answers to the ACS" Study App](https://answerstotheacs.com/pages/private.php)
+- Chart Supplements
 
 ### Required Homework
 - [ ] Study and practice ([[PPL.D Suggestions for Solo Flight Practice]])
