@@ -3,25 +3,19 @@ tags: [ppl, lesson]
 aliases: [PPL.24, XC.9, PPL5.3]
 ---
 
-### Objective
-Develop knowledge of all abnormal and emergency procedures for the training aircraft in use, including all ACS risk management and skill tasks.
+### Introduction
+We're continuing to learn about things that can go wrong during cross country flights.  Today we're going to talk about emergencies caused by equipment failures.
 
-### Resources
-- [[AFM]]/[[POH]]
-- [[Private Pilot ACS]] Sections IX.A,C,D
-- [[C172 G1000 Electrical System Interactive Tool]]
+The POH has procedures to handle the most urgent emergencies, and you should follow them.  These are:
+1. Emergency Descent.  You need to descend as quickly as possible.  Generally due to a fire, or cabin decompression
+2. Forced Landing.  A landing without engine power.  Generally due to powerplant failure.
+3. Precautionary Landing.  A landing with power, but with urgency.  Generally due to an impending or likely engine failure.
 
-> [!tip] Pre-Lesson Reading/Homework here: [[~ PPL Pre-Lesson Reading]]
+On the checkride, you will need to demonstrate some of these.  But in real life, when would you perform them?  We've organized all the emergencies listed in the POH or AFH Ch 18, in more of a debug-flowchart.  In some cases one of the 3 procedures above is required, but there are many other scenarios worth discussing.
 
-### Builds On
-- [[PPL3.4 Emergency Landings]]
-- [[PPL2.6 Aircraft Systems]]
-
-### Schedule
-2 hours ground, flight practice as necessary
-
-> [!note] 
-> Can be completed at the same time as [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]] or [[PPL5.4 Lost Procedures and Diversion to Alternates]].
+**Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
+**Builds On:** [[PPL3.4 Emergency Landings]], [[PPL2.6 Aircraft Systems]]
+**Schedule:** 2 hours ground, flight practice as necessary
 
 ### Lesson Elements
 > [!summary]
@@ -45,7 +39,7 @@ Develop knowledge of all abnormal and emergency procedures for the training airc
 
 #### Oh no! Something is Wrong!
 > [!note]
-> - "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it -- and in many cases, memorize it. The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
+> - Below, "**(POH)**" means most POHs have a specific procedure for this emergency.  When that procedure exists, you should follow it -- and in many cases, memorize it. The steps after "**(POH)**" summarize the high-level purpose of the POH procedure.
 > - *Procedures in italics* are a reference to [[PPL5.3 Emergency Operations#Key Procedures in Emergencies]] below.
 
 - On the ground...
@@ -164,6 +158,11 @@ Client demonstrates appropriate knowledge of aircraft systems, abnormal and emer
 > - Airspeed >= 100kts to put out fire
 > - +0/-10kts
 > - Level off at specified alt ±100'
+
+### Resources
+- [[AFM]]/[[POH]]
+- [[Private Pilot ACS]] Sections IX.A,C,D
+- [[C172 G1000 Electrical System Interactive Tool]]
 
 ### Required Homework
 - [ ] Memorize emergency flows (you may wish to reserve an aircraft and practice on the ground, although a picture also works)
