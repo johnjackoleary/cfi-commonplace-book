@@ -1,3 +1,8 @@
+---
+aliases:
+  - Radio Usage at Non-Towered Airports
+---
+
 These are [[Radio Communication Examples|example radio calls]] for an arrival and departure at a non-tower airport. The exact calls will vary depending on the circumstances. Each call should include your location and altitude, and what you are doing next.
 
 >[!tip]
