@@ -59,7 +59,6 @@ Although departure procedures are potent solutions to leaving in IMC, they requi
 		2. > [!quote] [[AIM 1]]-1-17(b)(4)
 		> Certain segments of a DP may require some manual intervention by the pilot, especially when radar vectored to a course or required to intercept a specific course to a waypoint. The database may not contain all of the transitions or departures from all runways and some GPS receivers do not contain DPs in the database.
 		3. Great writeup from [[AOPA]]: [Resolving a Database Dilemma](https://www.aopa.org/news-and-media/all-news/2024/august/pilot/instrument-tip-resolving-a-database-dilemma)
-		> 
 3. Standard Terminal Arrivals ([[STAR]]s)
 	1. Examples
 		1. [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)^[Notice the amusing, locally relevant waypoint names]

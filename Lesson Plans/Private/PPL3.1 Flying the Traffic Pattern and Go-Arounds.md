@@ -85,7 +85,7 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	5. Descending when tower delays base turn
 	6. Turning with traffic ahead on final
 	7. How to tell where you're gliding to
-	8. [[High, Low? Fast, Slow?]]
+	8. "[[High, Low? Fast, Slow?]]"
 8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern

@@ -63,7 +63,7 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 6. Parachutes
 	1. Typically parachutes required for bank > 60° or pitch > +/-30° ([[FAR 91.307 Parachutes]]), however...
 	2. Parachutes are NOT required for spin training. See [[Fitzpatrick - Spartan College 2018]]
-7. Q: What is the difference between 'slip' and 'skid'?  Which is more dangerous?
+7. > [!question] What is the difference between 'slip' and 'skid'?  Which is more dangerous?
 8. Situations where unintentional spins may occur
 	1. The classic: Skidding base-to-final turn^[King Air crashed in Brazil due to skidding the base-to-final turn: https://youtu.be/YZIzEtHzbNU]
 	2. Trying to stretch a power-off glide

@@ -34,9 +34,14 @@ This is meant to inform local traffic where you are and that you're intending to
 This is meant to tell local traffic where you are, and how you'll enter the pattern.
 
 ## Crossing Overhead
-> <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, overhead at two thousand two hundred feet, teardrop to enter the left forty five runway two zero, Watsonville"</span>
+> <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, overhead at two thousand two hundred feet, teardrop to enter the left forty-five runway two zero, Watsonville"</span>
 
-You may also say "turning downwind" instead of "teardrop" depending inoj tfuytfx tyus
+You may also say "turning downwind" instead of "teardrop", depending on your entry method.
+
+> [!tip]
+> Some pilots prefer to say "maneuvering to enter on the 45", instead of "teardrop to enter on the 45". 
+> 
+> The former is probably more correct,^[A teardrop entry is a specific IFR maneuver, and implies a different shape] but now that [[ForeFlight]] calls this a "teardrop" as well, you're probably fine to say either.
 
 ![[Non-Towered Pattern Entry.jpeg]]
 
