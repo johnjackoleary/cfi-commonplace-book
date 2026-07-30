@@ -13,7 +13,7 @@ Cones, rods, fovea, etc
 - Dim lighting requires time (~30 min) for our eyes to adjust
 	- Bright lights seen for longer than 1 second impair night vision
 - Red light benefits and drawbacks
-- Consider covering one eye for white light use
+- Consider covering one eye for white light use^[Like a pirate! Maybe we should all start wearing eye patches at night]
 
 ## Altitude Impact
 > [!quote] From [[AFH Ch11]]
