@@ -12,7 +12,7 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]:
 	1. > [!cite] In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet that emergency.
-2. Types of emergency landings: forced landing, precautionary landing, ditching
+2. Types of emergency landings: [[forced landing]], [[precautionary landing]], [[ditching]]
 3. [[Aviate, Navigate, Communicate]]
 4. [[ABCDE]]
 5. Details on flying the approach

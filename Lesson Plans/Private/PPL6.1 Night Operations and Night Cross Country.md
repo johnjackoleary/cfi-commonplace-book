@@ -29,6 +29,7 @@ In this lesson we cover all the ways in which night flying is different, includi
 **Aircraft lighting and night equipment**
 1. Anti-collision lights -- strobes and/or beacon -- (required day or night, per [[FAR 91.209 Aircraft Lights|§ 91.209]])
 2. Navigation lights (aka position lights)
+	1. "[[Green Red Dead]]"
 3. Landing Lights
 	1. > [!quote] From [[AFH Ch11]]
 > Pilots are encouraged to turn on their landing lights when operating within 10 miles of an airport and below 10,000 feet.

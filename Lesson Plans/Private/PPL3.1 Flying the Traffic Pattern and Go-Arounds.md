@@ -81,9 +81,11 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	1. Memorize power settings/airspeeds, use wind correction angle like the [[PPL2.5 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
 	3. Power, Airspeed, and Config for your aircraft in [[Aircraft Gait Charts]]^[If you're unsure what power settings to use, consider this [[Tip on Choosing Pattern Speeds]]]
-	4. Descending when tower delays base turn
-	5. Turning with traffic ahead on final
-	6. How to tell where you're gliding to
+	4. [[Two Most Important Things in Aviation]]
+	5. Descending when tower delays base turn
+	6. Turning with traffic ahead on final
+	7. How to tell where you're gliding to
+	8. "[[High, Low? Fast, Slow?]]"
 8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern

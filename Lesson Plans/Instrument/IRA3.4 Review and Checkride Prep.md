@@ -38,6 +38,7 @@ Ground 1 hour, Flight 3 hours
 		1. Fuel reserves are required at takeoff, it is not illegal to use part of that reserve. 
 		2. Declare "Minimum fuel" when in your judgment, you can accept no undue delay. This is NOT an emergency declaration 
 		3. Declare "fuel emergency" when in your judgment, it is necessary to proceed directly to your destination airport. ATC will give priority. 
+	7. [[Normalization of Deviance]]
 4. Review and practice
 	1. Review knowledge test items 
 	2. [[Instrument ACS]] requirements and standards 

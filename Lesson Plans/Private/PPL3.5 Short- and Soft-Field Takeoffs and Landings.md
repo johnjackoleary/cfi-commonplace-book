@@ -44,16 +44,19 @@ Overview of short- and soft-field operations
 	8. Raise flaps, apply brakes and elevator back-pressure as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
 #### Soft-Field
-1. Takeoff
+1. [[Ground Effect]], [[Wingtip Vortex]], and [[Induced Drag]]
+	1. What actually is happening aerodynamically in ground effect?
+2. Takeoff
 	1. Set flaps according to POH/AFM
 	2. Position flight controls for existing wind conditions
 	3. Elevator aft for light nose wheel
 	4. Taxi into takeoff position without stopping, with smooth power application for takeoff
 	5. Establish pitch attitude to rapidly transfer weight from wheels to wings
 	6. Lift off at lowest possible airspeed, accelerate to [[Vx]] or [[Vy]] in [[Ground Effect]]
+		1. > [!question] What if you try to climb too early?
 	7. Establish pitch attitude and airspeed for [[Vx]] or [[Vy]] climb
 	8. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
-2. Landing
+3. Landing
 	1. Complete pre-landing checklist ([[GUMPS]])
 	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
 	3. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[Gust Factor]] (add half of gust difference) +10/-5 knots

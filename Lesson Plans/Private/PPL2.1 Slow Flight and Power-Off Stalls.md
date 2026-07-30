@@ -32,7 +32,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	2. Types of drag
 		1. [[Parasite Drag]]
 		2. [[Induced Drag]]
-	3. The [[drag]] curve and power curve. Flying "behind the power curve". (“pitch for airspeed, power for altitude”)
+	3. The [[drag]] curve and power curve. Flying "behind the power curve". ("[[pitch for airspeed, power for altitude]]")
 		1. ![[Drag vs Speed.jpeg]]
 		2. ![[Power Required Curve.jpeg]]
 	4. Stall warning devices and other indications of impending stall (mushy controls, buffeting)

@@ -27,7 +27,7 @@ At first we'll learn "normal" landings, and in later lessons we'll learn some ad
 			1. 10° at a time
 			2. Key points in pattern
 		3. [[FAR 91.113 Right-of-Way Rules]]
-		4. [[Runway Incursion]]
+		4. [[Runway Incursion]] (covered in [[PPL1.5 Towered Airport Operations|PPL1.5]])
 		5. Awareness of other operations, such as parachuting
 	2. [[Wake Turbulence]] from helicopters and heavy aircraft
 	3. [[Wind Shear]] avoidance
@@ -50,7 +50,7 @@ At first we'll learn "normal" landings, and in later lessons we'll learn some ad
 	3. Final approach
 		1. Coordinate turn to roll-out on runway centerline, establish cross-wind correction as needed ![[Crabbed Approach.jpeg]]
 		2. Set flaps, trim for final approach speed
-		3. Pitch for airspeed, power for altitude (use glidepath indicator if available). One hand on stick/yoke, other on throttle
+		3. [[Pitch for Airspeed, Power for Altitude]] (use [[VGSI|visual glideslope indicator]] if available). One hand on stick/yoke, other on throttle
 		4. Maintain runway centerline
 		5. Transition to sideslip^[Some pilots prefer to transition a couple hundred feet [[AGL]] to have more time establishing the correct bank angle.] ![[Sideslip Approach.jpeg]]
 		6. Fly to [[aiming point]] ![[Stabilized Approach.jpeg]]

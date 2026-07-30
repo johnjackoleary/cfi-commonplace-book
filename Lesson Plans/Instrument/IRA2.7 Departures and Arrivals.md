@@ -54,19 +54,24 @@ Although departure procedures are potent solutions to leaving in IMC, they requi
 		2. Examples
 			1. [E16](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28)
 			2. [KSTS](https://cfijack.com/latest-plate-redirect/?plate=SW2TO.PDF#page=28)
-4. Standard Terminal Arrivals ([[STAR]]s)
+	6. Use of GPS to fly conventional departures
+		1. If a departure does not say RNAV, it's built for VORs (although it can still be flown by a GPS)
+		2. > [!quote] [[AIM 1]]-1-17(b)(4)
+		> Certain segments of a DP may require some manual intervention by the pilot, especially when radar vectored to a course or required to intercept a specific course to a waypoint. The database may not contain all of the transitions or departures from all runways and some GPS receivers do not contain DPs in the database.
+		3. Great writeup from [[AOPA]]: [Resolving a Database Dilemma](https://www.aopa.org/news-and-media/all-news/2024/august/pilot/instrument-tip-resolving-a-database-dilemma)
+3. Standard Terminal Arrivals ([[STAR]]s)
 	1. Examples
 		1. [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)^[Notice the amusing, locally relevant waypoint names]
 		2. [KSFO - POINT REYES 3](https://cfijack.com/latest-plate-redirect/?plate=00375POINTREYES.PDF)
 		3. [KPIT - JESEY 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00570JESEY.PDF)
 	2. Fly-by vs fly-over points
-5. ATC with SIDs/STARs
+4. ATC with SIDs/STARs
 	1. Accepting
 	2. Charts
 	3. Descend via/Climb via^[vs cleared via, which is only clearance for lateral and not altitudes]/via except maintain
 		1. Climb via [KIAH](https://www.airnav.com/airport/KIAH) - RITAA 7 ([page 1](https://cfijack.com/latest-plate-redirect/?plate=05461RITAA.PDF) and [page 2](https://cfijack.com/latest-plate-redirect/?plate=05461RITAA_C.PDF))
 		2. Descend via [KSFO - BDEGA 4 RNAV](https://cfijack.com/latest-plate-redirect/?plate=00375BDEGA.PDF)
-6. Common errors 
+5. Common errors 
 	1. Accepting a SID or STAR without briefing
 	2. Not knowing performance capability of aircraft to fly any procedure
 
