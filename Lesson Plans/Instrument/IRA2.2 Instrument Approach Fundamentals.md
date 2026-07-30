@@ -58,7 +58,8 @@ Ground 1.5 hours, Sim 1.5 hours
 	4. Missed approach guidance – how to resume GPS guidance for missed approach 
 7. [[When Are You Established]]? Half-scale CDI deflection
 8. [Sample Approach Profile](https://www.aopa.org/-/media/Files/AOPA/Home/Training-and-Safety/Air-Safety/ASI-BeyondPro-IFR_StableApproach_SampleProfile.pdf) from [[AOPA]]
-9. Descent Profiles: 
+9. "[[How Low, Til When, Then What?]]"
+10. Descent Profiles: 
 	1. “Dive & Drive” vs [[CDFA]] (Continuous Descent Final Appr [[AC 120-108]])
 		1. Great [[AOPA]] article [here](https://www.aopa.org/news-and-media/all-news/2020/march/pilot/on-instruments-diving-and-driving)
 	2. [[VDP]]
