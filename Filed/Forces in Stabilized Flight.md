@@ -1,4 +1,4 @@
-![[Forces in Stabilized Flight.pdf]]
+![[Forces in Stabilized Flight.svg]]
 
 ***Source***: [[PHAK Ch5]]
 
