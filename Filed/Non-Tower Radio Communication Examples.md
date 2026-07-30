@@ -14,8 +14,9 @@ These are [[Radio Communication Examples|example radio calls]] for an arrival an
 # Example Calls
 
 ## Weather and Traffic Listening
-30nm-15nm out?
+Roughly 30-15nm out, begin listening to [[CTAF]] and [[AWOS]]/[[ASOS]].^[You may need a second radio for this if currently on flight following. If you have a single radio, you can request a temporary frequency change to listen to weather.]
 
+Determine wind direction and runway in use, as well as any hazards like parachuting operations.
 
 ## Awareness Call
 
