@@ -25,7 +25,7 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 	1. Communications Processes and Decision Behavior^[Briefings, Inquiry/Advocacy/Assertion, Crew Self-Critique (Decisions and Actions), Conflict Resolution, Communications and Decisionmaking]
 	2. Team Building and Maintenance
 3. [[Task Saturation]]
-	1. ![[Task Load vs Pilot Capabilities.jpeg]]
+	1. ![[Task Load vs Pilot Capabilities.svg]]
 	2. Prepare for high workload periods during times of low workload
 	3. If falling behind airplane or need more time
 		1. "stop, think, slow down, and prioritize" - [[PHAK Ch2]]
