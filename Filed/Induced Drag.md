@@ -43,7 +43,7 @@ This is why the aircraft requires so much power to maintain slow flight, and why
 ### Flight in Ground Effect
 [[Ground Effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend down as much. This means the lift vector does not tip backward as much, and there is less induced drag.
 
-![[Difference in Induced Drag at Altitude vs Ground.jpeg]]
+![[Difference in Induced Drag at Altitude vs Ground.svg]]
 
 This improved performance in ground effect is why it's important to rotate and climb out at the [[POH]] recommended speed during takeoff. Otherwise, once you leave ground effect, the performance loss may cause the airplane to settle back on the runway.
 
