@@ -29,7 +29,7 @@
 - [[AC 90-23]]
 - [[PHAK Ch5]]
 - [[AIM 7-4]]
-- [[Wingtip Vortices.jpeg]]
+- [[Wingtip Vortices.svg]]
 - [Example of Accident from Helicopter Wake Turbulence](https://www.youtube.com/watch?v=9YvL62T3Hm0)
 
 ## Related To

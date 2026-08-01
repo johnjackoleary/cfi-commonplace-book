@@ -52,7 +52,7 @@ Ground effect can also cause the airplane to keep floating as you approach to la
 ## How Wingtip Vortices Contribute
 Wingtip vortices are created by the higher pressure air below the wing rushing around the end of the wing to the lower pressure air above the wing. This creates a vortex.
 
-![[Wingtip Vortices.jpeg]]
+![[Wingtip Vortices.svg]]
 
 Wingtip vortices increase downwash, therefore further tipping the lift vector backwards and increasing the rearward component of lift. This rearward component of lift is induced drag, meaning wingtip vortices increase induced drag.
 
