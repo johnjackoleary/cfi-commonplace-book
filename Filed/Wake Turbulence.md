@@ -17,7 +17,7 @@
 > ![](https://www.youtube.com/watch?v=0HIddtgGzDE)
 
 ## Areas To Avoid
-![[Avoid Wake Turbulence Below Path.jpeg]]
+![[Avoid Wake Turbulence Below Path.svg]]
 ![[Avoid Wake At Takeoff or Landing.jpeg]]
 ![[Vortices in Crosswind Linger.jpeg]]
 
@@ -29,7 +29,7 @@
 - [[AC 90-23]]
 - [[PHAK Ch5]]
 - [[AIM 7-4]]
-- [[Wingtip Vortices.jpeg]]
+- [[Wingtip Vortices.svg]]
 - [Example of Accident from Helicopter Wake Turbulence](https://www.youtube.com/watch?v=9YvL62T3Hm0)
 
 ## Related To

@@ -28,8 +28,8 @@ Cross-country flight planning relies on an accurate assessment not only of curre
 		1. > [!youtube] Overview from [[King Schools]]
 		> ![](https://www.youtube.com/watch?v=6Csq8uAUdYI)
 		2. [[Air Mass]]es and [[Front]]s
-			1. [[Winds Around Pressure Systems.jpeg]]
-			2. [[Isobars Reveal Pressure Gradient.jpeg]]
+			1. [[Winds Around Pressure Systems.svg]]
+			2. [[Isobars Reveal Pressure Gradient.svg]]
 			3. Warm, Cold, Stationary, and Occluded Fronts
 			> [!youtube] Published by [@KeithMeldahl](https://www.youtube.com/@KeithMeldahl)
 			> ![](https://www.youtube.com/watch?v=huKYKykjcm0)

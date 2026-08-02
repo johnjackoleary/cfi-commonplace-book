@@ -21,7 +21,7 @@ See [[Atmospheric Stability]]
 	2. The denser cool air will tend to push (i.e., lift) the less dense warm air aloft.
 
 ## Life Cycle
-![[Thunderstorm Life Cycle.jpeg]]
+![[Thunderstorm Life Cycle.svg]]
 
 ## Hazards
 > [!danger] From [[Aviation Weather Handbook]]

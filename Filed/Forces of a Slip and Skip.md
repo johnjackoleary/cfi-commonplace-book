@@ -1,6 +1,6 @@
 A [[slipping turn]] and [[skidding turn]] have unequal [[horizontal lift]] and [[centrifugal force]].
 
-![[Forces in Slips and Skids.jpeg]]
+![[Forces in Slips and Skids.svg]]
 
 ***Source***: [[PHAK Ch5]]
 

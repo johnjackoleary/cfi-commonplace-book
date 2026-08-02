@@ -8,6 +8,6 @@ aliases:
 ***Source***         :: [[PHAK Ch2]]
 ***Related To***: [[Standby for Name When Task Saturated]], [[Fatigue]]
 
-![[Task Load vs Pilot Capabilities.jpeg]]
+![[Task Load vs Pilot Capabilities.svg]]
 
 #glossary

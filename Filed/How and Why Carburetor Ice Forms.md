@@ -3,7 +3,7 @@
 2. the decrease in air pressure in the venturi
 
 If there is moisture in the air, it can condense on internal surfaces of the carburetor, including the throttle valve.
-![[Carburetor Icing.jpeg]]
+![[Carburetor Icing.svg]]
 
 Carburetor icing is most likely to occur at temperatures below 70°F and the relative humidity of >80%. However, ice may form in temperatures as high as 100°F and humidity as low as 50%.
 

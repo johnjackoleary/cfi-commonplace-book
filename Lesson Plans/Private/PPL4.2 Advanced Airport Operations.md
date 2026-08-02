@@ -32,8 +32,8 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	2. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
 3. Possibly overfly before landing
 	1. Airport markings
-		1. Segment circle, pattern indicators ![[Segmented Circle.jpeg]]
-		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.jpeg]]
+		1. Segment circle, pattern indicators ![[Segmented Circle.svg]]
+		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.svg]]
 	2. [[Airport Lighting]] is covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]
 4. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
@@ -46,8 +46,8 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	4. Traffic Pattern
 		1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
 			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airspace Ops Near Airport]])
-			2. ![[Single Runway Traffic.jpeg]]
-	5. Parallel runway operations (see [[AIM 4-3]]) require extra care ![[Parallel Runway Traffic.jpeg]]
+			2. ![[Single Runway Traffic.svg]]
+	5. Parallel runway operations (see [[AIM 4-3]]) require extra care ![[Parallel Runway Traffic.svg]]
 5. Make your radio calls
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios

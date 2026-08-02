@@ -31,7 +31,7 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 	6. What is stall speed at 45°, no flaps, in your airplane?
 2. Significance and effects of exceeding aircraft performance limitations
 	1. [[Maneuvering Speed]]
-	2. [[Vg Diagram.jpg]]
+	2. [[Vg Diagram.svg]]
 3. Accelerated stall procedure
 	1. [[CHAPS]]
 		1. Altitude 3000’ AGL minimum RECOVERY altitude.

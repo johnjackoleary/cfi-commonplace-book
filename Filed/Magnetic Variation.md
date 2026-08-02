@@ -9,7 +9,7 @@ alias: variation
 > 
 > In aerial navigation, the difference between true and magnetic directions is called variation.
 
-![[Compass Variation Across US.jpeg]]
+![[Compass Variation Across US.svg]]
 
 See Also [[Compass Errors]]
 

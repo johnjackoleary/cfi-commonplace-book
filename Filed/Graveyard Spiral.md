@@ -3,6 +3,6 @@
 ***Additional Information***: https://www.aopa.org/news-and-media/all-news/2000/september/pilot/landmark-accidents-vineyard-spiral
 ***Source***         :: [[PHAK Ch17]]
 
-![[Graveyard Spiral.jpeg]]
+![[Graveyard Spiral.svg]]
 
 #glossary #illusions 

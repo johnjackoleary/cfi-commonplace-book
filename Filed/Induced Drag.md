@@ -30,7 +30,7 @@ A downwash exists anytime lift is generated, and so ***anytime lift is generated
 ## How It Impacts Flying
 ### Cruise Speeds
 At high speeds, induced drag drops significantly and is a negligible component of total drag.
-![[Drag vs Speed.jpeg]]
+![[Drag vs Speed.svg]]
 
 ### Slow Flight
 On the flip side, ***induced drag increases rapidly as airspeed decreases.***
@@ -43,7 +43,7 @@ This is why the aircraft requires so much power to maintain slow flight, and why
 ### Flight in Ground Effect
 [[Ground Effect]] changes the airflow of the downwash, since the hard runway surface does not allow the airflow to bend down as much. This means the lift vector does not tip backward as much, and there is less induced drag.
 
-![[Difference in Induced Drag at Altitude vs Ground.jpeg]]
+![[Difference in Induced Drag at Altitude vs Ground.svg]]
 
 This improved performance in ground effect is why it's important to rotate and climb out at the [[POH]] recommended speed during takeoff. Otherwise, once you leave ground effect, the performance loss may cause the airplane to settle back on the runway.
 
@@ -52,7 +52,7 @@ Ground effect can also cause the airplane to keep floating as you approach to la
 ## How Wingtip Vortices Contribute
 Wingtip vortices are created by the higher pressure air below the wing rushing around the end of the wing to the lower pressure air above the wing. This creates a vortex.
 
-![[Wingtip Vortices.jpeg]]
+![[Wingtip Vortices.svg]]
 
 Wingtip vortices increase downwash, therefore further tipping the lift vector backwards and increasing the rearward component of lift. This rearward component of lift is induced drag, meaning wingtip vortices increase induced drag.
 

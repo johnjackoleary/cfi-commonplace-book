@@ -33,8 +33,8 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 		1. [[Parasite Drag]]
 		2. [[Induced Drag]]
 	3. The [[drag]] curve and power curve. Flying "behind the power curve". ("[[pitch for airspeed, power for altitude]]")
-		1. ![[Drag vs Speed.jpeg]]
-		2. ![[Power Required Curve.jpeg]]
+		1. ![[Drag vs Speed.svg]]
+		2. ![[Power Required Curve.svg]]
 	4. Stall warning devices and other indications of impending stall (mushy controls, buffeting)
 	5. Difference between attitude and AOA
 	6. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
@@ -60,8 +60,8 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	1. [[Stall]] occurs when you exceed the **critical angle of attack** ([[AOA]])
 	2. Stall can occur at ANY airspeed, attitude, or power setting!
 	3. Aircraft designed to pitch down at stall 
-		1. ![[Longitudinal Stability.png]]
-		2. ![[Effect of Speed on Downwash.jpeg]]
+		1. ![[Longitudinal Stability.svg]]
+		2. ![[Effect of Speed on Downwash.svg]]
 	4. Discuss effect from
 		1. Change wing shape
 			1. Vs, Vs0
@@ -69,7 +69,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 		2. Change wing loading
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
-	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.jpeg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
+	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.svg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
 6. Situations where risk of stalls increase
 	1. Landing approach, especially skidding base to final turn
 	2. Climb-out, trying to clear an obstacle, especially at high density altitude

@@ -2,6 +2,6 @@
 ***Source***         :: [[PHAK Ch5]]
 ***Media*** :: https://www.youtube.com/watch?v=Irf9ECVg_TA
 
-![[Dihedral.jpeg]]
+![[Dihedral.svg]]
 
 #glossary
