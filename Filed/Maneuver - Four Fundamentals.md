@@ -12,7 +12,7 @@ tags: [maneuver, ppl, cpl]
 | Level Off Descent | lead by 10% of VSI | Power &#x21BA; | wait for natural Pitch &#x21D2; | wait until cruise speed | tune, then trim |
 
 ## Details
-![[Reduced Power Pitches Down.jpeg]]
+![[Reduced Power Pitches Down.svg]]
 
 # References
 - [[AFH Ch3]]

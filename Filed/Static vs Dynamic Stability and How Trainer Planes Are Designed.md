@@ -16,7 +16,7 @@ In a single axis, an aircraft can have:
 - Neutral Static Stability: Initial tendency is to remain in new condition.
 - Negative Static Stability: Initial tendency is to continue away from original state.
 
-![[Static Stability Types.jpeg]]
+![[Static Stability Types.svg]]
 
 #### Dynamic Stability
 Similarly, dynamic stability can be positive, neutral, or negative depending on if it converges to equilibrium, oscillates consistently, or diverges.
@@ -44,7 +44,7 @@ A major goal of [[Longitudinal Stability]] is to have the aircraft's nose return
 
 This is accomplished by having a [[CG]] forward of the [[CL]], and using a downward force from [[Downwash]] on the [[horizontal stabilizer]] while the aircraft is in steady flight.^[This is also why a CG which is too far back can be dangerous: without the tendency for the nose to return to safe flight, the aircraft may try to put itself into an ever-increasing stall.] [[Thrust]] line placement, either below or above the [[CG]], can also effect longitudinal stability when power is changed.
 
-![[Longitudinal Stability.png]]
+![[Longitudinal Stability.svg]]
 
 **How Does Downwash Create Stability?**
 If power is reduced on the aircraft, less downwash is created, and there is less downward force on the horizontal stabilizer. This causes the nose to drop.
@@ -56,7 +56,7 @@ But when the nose drops, the aircraft starts to gain speed until the downwash is
 
 A major goal of [[Directional Stability]] is to minimize yawing at keep the plane pointed into the relative wind. Like an arrow or weather vane, if the plane yaws during flight, the [[fuselage]] and fin will help to keep the airplane return.^[Remember that a body free to rotate always turns about its CG.]
 
-![[Fuselage and Fin for Directional Stability.jpeg]]
+![[Fuselage and Fin for Directional Stability.svg]]
 
 
 ***Source***: [[PHAK Ch5]]

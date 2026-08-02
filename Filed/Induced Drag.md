@@ -30,7 +30,7 @@ A downwash exists anytime lift is generated, and so ***anytime lift is generated
 ## How It Impacts Flying
 ### Cruise Speeds
 At high speeds, induced drag drops significantly and is a negligible component of total drag.
-![[Drag vs Speed.jpeg]]
+![[Drag vs Speed.svg]]
 
 ### Slow Flight
 On the flip side, ***induced drag increases rapidly as airspeed decreases.***

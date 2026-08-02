@@ -1,9 +1,9 @@
 # Key Takeaways
 
 # Details
-![[Airplane Pressurization.png]]
+![[Airplane Pressurization.svg]]
 
-![[Pressurization Instruments.png]]
+![[Pressurization Instruments.svg]]
 
 #todo :: Add more to this
 

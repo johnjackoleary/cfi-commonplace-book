@@ -4,6 +4,6 @@
 
 For [[VASI]].
 
-![[VASI.jpeg]]
+![[VASI.svg]]
 
 #memory-aid 

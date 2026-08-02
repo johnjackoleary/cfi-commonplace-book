@@ -4,7 +4,7 @@
 
 ***Source***         :: [[PHAK Ch5]]
 
-![[Ground Effect on Airflow.jpeg]]
-![[Ground Effect on Drag and Lift.jpeg]]
+![[Ground Effect on Airflow.svg]]
+![[Ground Effect on Drag and Lift.svg]]
 
 #glossary

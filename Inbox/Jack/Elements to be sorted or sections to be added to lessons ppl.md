@@ -3,7 +3,7 @@
 
 Lots pulled into [[PPL3.6 Pre-Solo Knowledge Test and Review]]
 
-![[Vx vs Vy at Higher Altitudes.jpeg]]
+![[Vx vs Vy at Higher Altitudes.svg]]
 
 Figure out if airport lighting should be grouped with markings/wind indicators (from [[PPL1.5 Towered Airport Operations]] and [[PPL4.2 Advanced Airport Operations]]) into a whole new lesson
 

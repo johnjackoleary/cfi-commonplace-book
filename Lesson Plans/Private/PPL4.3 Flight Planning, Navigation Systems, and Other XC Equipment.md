@@ -16,7 +16,7 @@ The crux of cross-country planning is choosing a route, which includes waypoints
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
 1. Planning a cross-country route
-	1. Charting a [[Course]]: [[Sectional Chart with Checkpoints.jpeg]], considering:
+	1. Charting a [[Course]]: [[Sectional Chart with Checkpoints.svg]], considering:
 		1. Hazards and terrain along the course
 		2. Airspaces to avoid
 		3. Good engine-out options

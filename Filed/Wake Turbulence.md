@@ -17,7 +17,7 @@
 > ![](https://www.youtube.com/watch?v=0HIddtgGzDE)
 
 ## Areas To Avoid
-![[Avoid Wake Turbulence Below Path.jpeg]]
+![[Avoid Wake Turbulence Below Path.svg]]
 ![[Avoid Wake At Takeoff or Landing.jpeg]]
 ![[Vortices in Crosswind Linger.jpeg]]
 

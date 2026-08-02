@@ -7,7 +7,7 @@
 ## Overview
 All airspace in the US is classified depending on its uses. These classes carry with them certain restrictions, including things like equipment required and minimum weather allowed for VFR flight.
 
-![[Airspace Cross Section.jpeg]]
+![[Airspace Cross Section.svg]]
 
 Each airspace has a different purpose and definition of it's size and shape. See the [[AIM 3]] for more details on this.
 
@@ -60,7 +60,7 @@ Other airspaces also exist. Make sure to check for these before you fly!
 
 ## Requirements for Airspace Operations
 ### Equipment
-![[Requirements for Airspace Ops.jpeg]]
+![[Requirements for Airspace Ops.svg]]
 
 ### VFR Weather
 See [[FAR 91.155 VFR Weather Minimums]].

@@ -34,7 +34,7 @@ A typical microburst:
 - Lasts about 5–15 minutes during 
 - Can produce downdrafts of up to 6,000 feet per minute (fpm) and headwind losses of 30–90 knots
 
-![[Effect of Microburst.jpeg]]
+![[Effect of Microburst.svg]]
 
 > <a href="https://www.weather.gov/bmx/outreach_microbursts"><img alt="Microburst Animation" src="https://www.weather.gov/images/bmx/Daily/microbursts/animation.gif"></a>
 > <a href="https://www.weather.gov/bmx/outreach_microbursts">Microbursts</a>, <a href="https://www.weather.gov/disclaimert">Public Domain</a>, via [[NWS]] Birmingham, Alabama
