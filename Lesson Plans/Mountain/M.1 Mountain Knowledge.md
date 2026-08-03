@@ -110,6 +110,8 @@ Background knowledge required for safe mountain flying.
 			2. Turbulence
 				1. Mountain Wave
 				2. Venturi Effects
+				3. > [!quote] From [Winter Flying Tips and NORCAL Safety Updates](https://www.faasafety.gov/SPANS/event_details.aspx?eid=140282)
+				> You can expect severe turbulence anytime winds aloft show changing airspeeds of more than 6kts per 1000ft
 			3. Clouds
 				1. [[Mountain Wave]] Signs![[Mountain Waves and Associated Clouds.jpeg]]
 					1. ![[Mountain Wave Clouds.jpeg]]

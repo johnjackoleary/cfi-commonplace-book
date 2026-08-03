@@ -1,5 +1,6 @@
 ---
-aliases: [Left Turning Tendencies,]
+aliases:
+  - Left Turning Tendencies
 ---
 
 
@@ -34,6 +35,9 @@ Use right rudder as needed to align with centerline on takeoff roll.
 > The high-speed rotation of an aircraft propeller gives a corkscrew or spiraling rotation to the slipstream. At high propeller speeds and low forward speed (as in the takeoffs and approaches to power-on stalls), this spiraling rotation is very compact and exerts a strong sideward force on the aircraft’s vertical tail surface.
 
 ![[Spiral Slipstream.svg]]
+
+> [!instagram]- Real Example
+> <iframe class="ig-embed-frame" src="https://www.instagram.com/p/DSu7HLnDs5F/embed/"></iframe>
 
 ### Impact
 Slipstream striking the right side of the vertical fin, especially as slow speeds, yaws the nose left.^[The spiral slipstream also causes a right rolling motion, but notice this is offset by the left rolling motion from the [[Torque Reaction]]. They often counteract each other, but in practice the forces involved vary and the pilot should apply proper corrective action to accommodate.]
