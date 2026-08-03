@@ -45,7 +45,7 @@ This lesson also covers "No-Flap Landings." Although we normally extend flaps fo
 	1. Forward slip may be used to increase drag as needed
 	2. Geometry of the approach (e.g. extend downwind)
 3. Landing attitude will be nose higher than normal to maintain same landing airspeed
-4. Tips on flying a no-flap landing can be found in [this article](https://www.boldmethod.com/blog/learn-to-fly/manuevers/how-to-fly-a-no-flap-landing-pattern-through-touchdown/) from [[Bold Method]]
+4. (move this out of main lesson flow) Tips on flying a no-flap landing can be found in [this article](https://www.boldmethod.com/blog/learn-to-fly/manuevers/how-to-fly-a-no-flap-landing-pattern-through-touchdown/) from [[Bold Method]]
 5. Approach speeds
 
 ### Completion Standards
