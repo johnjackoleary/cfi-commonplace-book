@@ -1,37 +1,29 @@
 ---
 tags: [gait]
-has-carb-heat: true
-Vs:
-Vs0:
-cool-procedure:
-soft-takeoff-flaps :: 25°
-engine-fire-speed: TBD
-power-on-stall-rpm: 2400 RPM
-maneuver-rpm: 2100rpm
-maneuver-speed: 
-speed-units: mph
 ---
 
-| **PA28-181 Gait** v1.1mph |         **Flaps**          | **Pitch** |           **RPM**            | **IAS (`=this.speed-units`)** | **VSI (fpm)** |
-| ------------------------- |:--------------------------:|:---------:|:----------------------------:|:-----------------------------:|:-------------:|
-| ⚠️ V<sub>G</sub>          |                            |           |             idle             |           (Vg::87)            |               |
-| 🛫 V<sub>R</sub>          |                            |           |             max              |           (Vr::68)            |               |
-| V<sub>X</sub>             |                            |           |             max              |           (Vx::74)            |               |
-| 🛫 V<sub>Y</sub>          |                            |   +10°    |             max              |           (Vy::87)            |     +600      |
-| 🛫 V<sub>Climb</sub>      |                            |    +5°    |             max              |              100              |     +500      |
-| Cruise                    |                            |    0°     |             2500             |                               |       0       |
-| Cruise Descent            |                            |  \-2.5°   |             2500             |                               |     \-500     |
-| 🌫️ IAF Inbound Level      |                            |    +2°    |             2400             |              105              |       0       |
-| 🌫️ IAF Inbound Descent    |                            |   \-2°    |             1900              |              105              |     \-700     |
-| 🌫️ Prec Appr to DA        |            10°             |   \-3°    |             2000             |              105              |     \-450     |
-| 🌫️ Non-Prec Appr to MDA   |            10°             |   \-4°    |             2000              |              105              |     \-800     |
-| 🛬 Downwind               |                            |           | (pattern-downwind-rpm::2000) | (pattern-downwind-speed::105) |       0       |
-| 🛬 Abeam Numbers          | (pattern-abeam-flaps::10°) |           |            1400?             |   (pattern-abeam-speed::95)   |               |
-| 🛬 Base                   | (pattern-base-flaps::25°)  |           |            1400?             |   (pattern-base-speed::85)    |               |
-| 🛬 Final                  | (pattern-final-flaps::40°) |           |            1400?             |          (Vref::76)           |               |
-| Short                     | (pattern-short-flaps::40°) |           |            1400?             |         (Vshort::70?)          |               |
+| **PA28-181 MPH Gaits** v2.0                                 | **Flaps** | **Pitch** | **RPM** | **IAS (mph)** | **VSI (fpm)** |
+| ----------------------------------------------------------- | :-------: | :-------: | :-----: | :-----------: | :-----------: |
+| <span class="gait-takeoff"></span>V<sub>R</sub>             | Up        |           | max     | 68            |               |
+| <span class="gait-climb"></span>V<sub>X</sub>               | Up        |           | max     | 74            |               |
+| <span class="gait-climb"></span>V<sub>Y</sub>               | Up        | +10°      | max     | 87            | +600          |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | +5°       | max     | 100           | +500          |
+| <span class="gait-cruise"></span>Cruise                     | Up        | 0°        | 2500    |               | 0             |
+| <span class="gait-cruise"></span>Cruise Descent             | Up        | \-2.5°    | 2500    |               | \-500         |
+| <span class="gait-approach"></span>Clean - 0° Level         | Up        | +2°       | 2400    | 105           | 0             |
+| <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        | TBD       | TBD     | 105           | TBD           |
+| <span class="gait-approach"></span>Clean - 5° Dive          | Up        | \-2°      | 1900    | 105           | \-700         |
+| <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       | TBD       | TBD     | 105           | 0             |
+| <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       | \-3°      | 2000    | 105           | \-450         |
+| <span class="gait-approach"></span>Flaps 10° - 5° Dive      | 10°       | \-4°      | 2000    | 105           | \-800         |
+| <span class="gait-pattern"></span>Downwind                  |           |           | 2000    | 105           | 0             |
+| <span class="gait-pattern"></span>Abeam Numbers             | 10°       |           | 1400?   | 95            |               |
+| <span class="gait-pattern"></span>Base                      | 25°       |           | 1400?   | 85            |               |
+| <span class="gait-pattern"></span>Final                     | 40°       |           | 1400?   | 76            |               |
+| <span class="gait-pattern"></span>Short                     | 40°       |           | 1400?   | 70?           |               |
+| <span class="gait-emergency"></span>V<sub>G</sub>           | Up        |           | idle    | 87            |               |
 
 | Topic         | Details                                                                                                                                              |
 | ------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Leaning       | 100° ROP when above 5000'                                                                                                                            |
-| V<sub>A</sub> | (Va-mgw::124) @ [mgw::2550]lb; (Va-dual::113) @ (dual-weight::2100)lb; (Va-single::108) @ (single-weight::1950)lb -> start with `=this.maneuver-rpm` |
+| V<sub>A</sub> | 124 @ 2550lb; 113 @ 2100lb; 108 @ 1950lb -> start with 2100rpm |

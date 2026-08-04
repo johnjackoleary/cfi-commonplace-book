@@ -1,0 +1,20 @@
+/* Gait chart row colors: a <span class="gait-xxx"></span> in a row's first cell colors the whole row */
+tr:has(.gait-takeoff) > td { background-color: #d0cece !important; }
+tr:has(.gait-climb) > td { background-color: #bdd7ee !important; }
+tr:has(.gait-cruise) > td { background-color: #c6e0b4 !important; }
+tr:has(.gait-approach) > td { background-color: #ffe599 !important; }
+tr:has(.gait-pattern) > td { background-color: #f8cbad !important; }
+tr:has(.gait-emergency) > td { background-color: #f4b6b0 !important; }
+tr:has([class^="gait-"]) > td {
+  color: #1a1a1a !important;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+tr:has([class^="gait-"]) > td * { background: transparent !important; color: inherit !important; }
+table:has([class^="gait-"]) th, table:has([class^="gait-"]) td {
+  border: 1px solid #000 !important;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+table:has([class^="gait-"]) th { background-color: #000 !important; color: #fff !important; }
+table:has([class^="gait-"]) th * { color: inherit !important; }
