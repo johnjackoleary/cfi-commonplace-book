@@ -17,7 +17,7 @@ data: "[[C172S Datasheet]]"
 | Abeam Numbers                  | `=this.data.pattern-abeam-flaps` |    TBD    |  `=this.data.pattern-abeam-rpm`   |  `=this.data.pattern-abeam-speed`   |      TBD      |
 | Base                           | `=this.data.pattern-base-flaps`  |    TBD    |   `=this.data.pattern-base-rpm`   |   `=this.data.pattern-base-speed`   |      TBD      |
 | Final                          | `=this.data.pattern-final-flaps` |    TBD    |  `=this.data.pattern-final-rpm`   |         `= this.data.vref`          |      TBD      |
-| **🌫️ IAP - Precision and CDFA** |                                  |           |                                   |                                     |               |
+| **🌫️ IAP - Precision and [[CDFA]]** |                               |           |                                   |                                     |               |
 | ↘ Clean                        |                                  |   \-1°    |               1800                |                 90                  |     \-500     |
 | ↘ Configured                   |               10°                |   \-3°    |               1900                |                 90                  |     \-500     |
 | **🌫️ IAP - Step-Down**        |                                  |           |                                   |                                     |               |
@@ -30,6 +30,7 @@ data: "[[C172S Datasheet]]"
 
 | Topic         | Details                                                    |
 | ------------- |:---------------------------------------------------------- |
+| [[CDFA]]      | [[AC 120-108]]                                             |
 | Leaning       | 50° ROP when above 3000'                                   |
 | V<sub>A</sub> | `= this.data.Va-mgw` @ max; 98@2200lb; 90@1900lb |
 | Short T.O.    | (short-takeoff-flaps::10°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{51,56}@`=this.data.mgw`lb; {48,54}@2400lb; {44,50}@2200lb                                   |
