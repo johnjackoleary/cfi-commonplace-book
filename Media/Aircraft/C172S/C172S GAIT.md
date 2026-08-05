@@ -30,7 +30,6 @@ data: "[[C172S Datasheet]]"
 
 | Topic         | Details                                                    |
 | ------------- |:---------------------------------------------------------- |
-| [[CDFA]]      | [[AC 120-108]]                                             |
 | Leaning       | 50° ROP when above 3000'                                   |
 | V<sub>A</sub> | `= this.data.Va-mgw` @ max; 98@2200lb; 90@1900lb |
 | Short T.O.    | (short-takeoff-flaps::10°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{51,56}@`=this.data.mgw`lb; {48,54}@2400lb; {44,50}@2200lb                                   |
