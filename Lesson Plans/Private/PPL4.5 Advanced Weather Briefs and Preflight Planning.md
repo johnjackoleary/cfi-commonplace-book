@@ -37,10 +37,10 @@ Cross-country flight planning relies on an accurate assessment not only of curre
 			1. "As air ascends through the atmosphere, the average rate of temperature change is 2 °C (3.5 °F) per 1,000 feet." - [[PHAK Ch12]]
 			2. [[Convective Turbulence Avoidance.jpeg]]
 		4. [[Thunderstorm]]s
-		5. [[Wind shear]], 
-		6. [[Ice Hazards and Aircraft Icing|ice]]
+		5. [[Wind shear]]
+		6. [[Ice Hazards and Aircraft Icing|Ice]]
 		7. Other critical weather situations
-	2. Interpreting weather radar
+	2. Interpreting [[weather radar]]
 	3. Weather briefings in depth
 		1. Structure of weather briefings
 		2. Adverse conditions: [[TFR]]s, [[NOTAM]]s, [[SIGMET]]s, [[AIRMET]]s^[And other [[Inflight Aviation Weather Advisories]]], etc.

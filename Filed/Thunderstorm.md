@@ -54,7 +54,7 @@ See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 - Never try to use radar to navigate between storm cells
 
 > [!youtube]- Published by [[Air Safety Institute]]
-> ![](https://www.youtube.com/watch?v=83uvKWJS2os)
+> ![](https://www.youtube.com/watch?v=83uvKWJS2os&t=510)
 
 ## If Unable to Avoid
 > [!quote]- From [[Aviation Weather Handbook]]

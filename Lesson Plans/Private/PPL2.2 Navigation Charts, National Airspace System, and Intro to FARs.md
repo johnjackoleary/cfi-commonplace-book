@@ -23,7 +23,7 @@ This lesson is a long one, because there are a lot of details to cover. But unde
 ### Lesson Elements
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts
 	1. ![[VFR Chart Legend.pdf|chart symbology]]
-2. Airport/Facility Directory entries ([[KPAO Chart Supplement.pdf|image]]) (found in Foreflight, or in the FAA [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/) publication)
+2. [[AFD|Airport/Facility Directory]] entries ([[KPAO Chart Supplement.pdf|image]]) (found in Foreflight, or in the FAA [Chart Supplement](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/) publication)
 3. [[National Airspace System]] (much of this lesson is spent in this subpage)
 	1. Types of airspace -- Class A, B, C, D, E, G
 	2. [[FAR 91.155 VFR Weather Minimums]] (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums List Memory Aid|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])

@@ -12,7 +12,7 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]:
 	1. > [!cite] In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet that emergency.
-2. Types of emergency landings: [[forced landing]], [[precautionary landing]], [[ditching]]
+2. Types of emergency landings: [[Forced Landing]], [[Precautionary Landing]], [[Ditching]]
 3. [[Aviate, Navigate, Communicate]]
 4. [[ABCDE]]
 5. Details on flying the approach
@@ -38,9 +38,10 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 	2. Read through additional comments from [[FAA]] in [[AFH Ch18]]
 	3. [Emergency Landing: Beach or Breakers?](https://www.youtube.com/watch?v=0LwGYBBhTss) from [[Paul Bertorelli]] of [[AVweb]]
 	4. [How to Crash Land An Airplane On A Freeway With Style and Grace And Survive](https://www.youtube.com/watch?v=99DomTe9JY4) from [[Paul Bertorelli]] of [[AVweb]]
-8. Considerations for ditching
+8. Considerations for [[ditching]]
 	1. High Winds, Heavy Seas - INTO THE WIND 
 	2. Light Winds, Heavy Swells - PARALLEL TO SWELLS
+	3. ![[AIM 6-3-5 Ditching Procedures.svg]]
 9. Psychological Hazards
 	1. Not accepting situation - wasting altitude instead of immediately starting on [[ABCDE]]
 	2. Desire to save airplane - if the engine quits, it's the insurance company's plane now. Your job is to execute a survivable landing, and sacrificing the aircraft for the safety of the passengers may be the best thing to do
