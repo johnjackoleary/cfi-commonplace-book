@@ -53,7 +53,7 @@ See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 - Go around the storm using radar for large scale planning
 - Never try to use radar to navigate between storm cells
 
-> [!youtube]- Published by [[Air Safety Institute]]
+> [!youtube]- Published by [[Air Safety Institute]] (start at 8:30 for visual)
 > ![](https://www.youtube.com/watch?v=83uvKWJS2os)
 
 ## If Unable to Avoid

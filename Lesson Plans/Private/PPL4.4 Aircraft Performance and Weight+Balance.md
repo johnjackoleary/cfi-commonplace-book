@@ -67,7 +67,7 @@ In the presence of wind, groundspeed (GS) does not equal airspeed, and the pilot
 	3. Other practice problems [here](https://e6b.org) or [here](https://flightapprentice.com/resources/exercises/e6b_workbook.pdf)
 
 **Other**
-1. [[Personal Minimums]] and other safety factor considerations**
+1. [[Personal Minimums]] and other safety factor considerations
 
 ### Completion Standards
 Client should develop knowledge of [[POH]]/[[AFM]] organization, including performance and weight & balance calculations.

@@ -2,6 +2,8 @@
 - https://cameras.alertcalifornia.org
 - https://weathercams.faa.gov
 - [[ForeFlight]] [Webcam Integration](https://foreflight.com/blog/bringing-real-time-weather-cameras-to-more-pilots)
+- https://fog.today/
+- [BaySky](https://baysky.zero.flights/)
 
 # Bay Cameras
 | Camera                          | URL                                                                               |
