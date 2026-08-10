@@ -38,9 +38,10 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 	2. Read through additional comments from [[FAA]] in [[AFH Ch18]]
 	3. [Emergency Landing: Beach or Breakers?](https://www.youtube.com/watch?v=0LwGYBBhTss) from [[Paul Bertorelli]] of [[AVweb]]
 	4. [How to Crash Land An Airplane On A Freeway With Style and Grace And Survive](https://www.youtube.com/watch?v=99DomTe9JY4) from [[Paul Bertorelli]] of [[AVweb]]
-8. Considerations for [[Ditching]]
+8. Considerations for [[ditching]]
 	1. High Winds, Heavy Seas - INTO THE WIND 
 	2. Light Winds, Heavy Swells - PARALLEL TO SWELLS
+	3. ![[AIM 6-3-5 Ditching Procedures.svg]]
 9. Psychological Hazards
 	1. Not accepting situation - wasting altitude instead of immediately starting on [[ABCDE]]
 	2. Desire to save airplane - if the engine quits, it's the insurance company's plane now. Your job is to execute a survivable landing, and sacrificing the aircraft for the safety of the passengers may be the best thing to do
