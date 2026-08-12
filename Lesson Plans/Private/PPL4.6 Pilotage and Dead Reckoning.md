@@ -59,8 +59,8 @@ Both require an understanding of compass corrections and wind corrections when p
 	1. Typically the DPE will assign a destination in advance, have you prepare a flight plan, start flying it, and verify en route that you are w/in 3 miles and 5 minutes of checkpoints.
 	2. You may be asked to fly by hand, maintaining altitude +/- 200' and heading +/-15°
 	3. Your iPad may "fail"
-		1. I recommend choosing checkpoints that are **both** GPS waypoints as well as highly visible landmarks.
-		2. I recommend no more than 12 minutes / 25NM apart
+		1. It's best to choose waypoints that are **both** in the GPS database **and** highly visible landmarks, so you can easily switch from GPS to pilotage
+		2. Ideally, waypoints should be no more than 10 minutes / 20NM apart
 		3. Note the 60:1 ratio per 1°
 
 ### Completion Standards
