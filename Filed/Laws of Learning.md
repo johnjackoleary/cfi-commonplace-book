@@ -28,5 +28,3 @@ aliases:
 	2. Exercise is most meaningful and effective when it is practiced in the context of a real-world application
 
 #foi
-
- 
