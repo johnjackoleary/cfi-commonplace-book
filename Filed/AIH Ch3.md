@@ -3,8 +3,6 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* Designed as a basic guide in applied educational psychology, this chapter addresses how people learn.
 
 #source #handbook/aih 
-
-#todo :: add key quotes
