@@ -85,9 +85,11 @@ Ground 0.5 hours
 			2. Cons: If the new information does not fall into the established schema, it will be harder to retain.
 
 #### [[Laws of Learning]]
+![[Laws of Learning]]
 
 #### [[Domains of Learning]]
-1. Summary of Instructor Actions
+1. [[Domains of Learning]]
+2. Summary of Instructor Actions
 	1. Ask learners to recite or practice newly acquired knowledge
 	2. Ask questions that probe learner understanding and prompt them to think about what they have learned in different ways
 	3. Present opportunities for learners to apply what they know to solving problems or making decisions
@@ -228,12 +230,13 @@ Ground 0.5 hours
 		4. Repression or Suppression: Memory that is pushed out of reach due to psychological reason.
 
 #### [[Retention of Learning]]
+![[Retention of Learning]]
 
 #### Transfer of Learning
 1. It is the ability to apply knowledge of procedures learned in one context to new contexts.
 2. Suggestions for promoting positive transfer:
 	1. Plan for transfer as a primary objective
-	2. Ensure that the learners understand that information can be applied to othersituations
+	2. Ensure that the learners understand that information can be applied to other situations
 	3. Maintain high-order learning standards
 	4. Avoid unnecessary rote learning
 	5. Provide meaningful learning experiences that build confidence in their ability to transfer knowledge
