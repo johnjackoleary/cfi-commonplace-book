@@ -3,8 +3,8 @@
 ***Author*** :: [[FAA]]
 
 ***Key Quotes***:
-* 
+* This chapter reviews the planning required by the professional aviation instructor as it relates to four key topics—course of training, [[blocks of learning]], training syllabus, and lesson plans. 
+* It also explains how to integrate [[Scenario-Based Training|SBT]], aeronautical decision-making ([[ADM]]), and [[risk management]] into the aviation training lesson.
 
 #source #handbook/aih 
 
-#todo :: add key quotes
