@@ -20,7 +20,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 		1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 		2. Towered airports become non-towered when tower closed
 	2. Review the runway layout: numbering, lengths, left/right pattern, [[TPA]]
-	3. Read the AF/D Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
+	3. Read the A/FD Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
 	4. Are there [[NOTAM|NOTAMs]]?
 	5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
 	6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
@@ -32,8 +32,10 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	2. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
 3. Possibly overfly before landing
 	1. Airport markings
-		1. Segment circle, pattern indicators ![[Segmented Circle.svg]]
-		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.svg]]
+		1. Segment circle, pattern indicators 
+			1. ![[Segmented Circle.svg]]
+		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons 
+			1. ![[Wind Direction Indicators.svg]]
 	2. [[Airport Lighting]] is covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]
 4. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
