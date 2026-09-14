@@ -7,8 +7,10 @@ Some have NXi
 Weather setting quarks
 Speeding up time
 Pausing with 'P'
+LOA
 
 ### Objective
+Learn the advanced features of the simulators 
 
 ### Reading
 
