@@ -28,7 +28,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 3. Read the A/FD Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
 4. Are there [[NOTAM|NOTAMs]]?
 5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
-6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
+6. Check terrain on Sectional and Google Earth, to get a sense of the surrounding hills
 7. Read [[ForeFlight]] comments
 8. Check the airport's website for local procedures
 9. Where to record this in XC planner
