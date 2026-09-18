@@ -25,7 +25,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
 	2. Towered airports become non-towered when tower closed
 2. Review the runway layout: numbering, lengths, left/right pattern, [[TPA]]
-3. Read the AF/D Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
+3. Read the A/FD Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
 4. Are there [[NOTAM|NOTAMs]]?
 5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
 6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
@@ -49,7 +49,8 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 		1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
 			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airspace Ops Near Airport]])
 			2. ![[Single Runway Traffic.svg]]
-	5. Parallel runway operations (see [[AIM 4-3]]) require extra care ![[Parallel Runway Traffic.svg]]
+	5. Parallel runway operations (see [[AIM 4-3]]) require extra care 
+		1. ![[Parallel Runway Traffic.svg]]
 5. Make your radio calls
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios
@@ -58,8 +59,10 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 #### At the Airport
 1. Possibly overfly before landing
 	1. Airport markings
-		1. Segment circle, pattern indicators ![[Segmented Circle.svg]]
-		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.svg]]
+		1. Segment circle, pattern indicators 
+			1. ![[Segmented Circle.svg]]
+		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons 
+			1. ![[Wind Direction Indicators.svg]]
 	2. [[Airport Lighting]] is covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]
 2. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
 	1. Reminder of safety considerations from [[PPL3.2 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
