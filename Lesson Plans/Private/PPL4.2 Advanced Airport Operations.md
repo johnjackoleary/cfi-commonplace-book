@@ -43,11 +43,8 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	3. Planning pattern entry
 		1. Overhead entries, and standard 45-degree entry to traffic patterns
 		2.  ![[Non-Towered Pattern Entry.jpeg]]
-		3. <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
-		4. <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-teardrop" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
-		5. <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-direct" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
-		6. Straight-Ins? Not illegal, but not usually a good idea
-		7. Use of tools like ForeFlight
+		3. Straight-Ins? Not illegal, but not usually a good idea
+		4. Use of tools like ForeFlight
 	4. Traffic Pattern
 		1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
 			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airspace Ops Near Airport]])
