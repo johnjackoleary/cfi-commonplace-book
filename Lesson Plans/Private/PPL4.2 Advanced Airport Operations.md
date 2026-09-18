@@ -1,6 +1,11 @@
 ---
-tags: [ppl, lesson]
-aliases: [PPL.18, XC.2, PPL4.2]
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.18
+  - XC.2
+  - PPL4.2
 ---
 ### Introduction
 Cross-country trips take us to many new airports, some of which are non-towered.  This lesson builds on [[PPL1.5 Towered Airport Operations]], including general preparation, procedures that are specific to non-towered airports, and a review of airport markings and lighting systems.
@@ -15,26 +20,23 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 > 
 > ![[XC Syllabus Topics On Flight Plan.pdf]]
 
-1. Planning ahead to visit a new airport
-	1. Look up and note all the frequencies you'll need, including weather, tower, ground, and approach/departure
-		1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
-		2. Towered airports become non-towered when tower closed
-	2. Review the runway layout: numbering, lengths, left/right pattern, [[TPA]]
-	3. Read the AF/D Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
-	4. Are there [[NOTAM|NOTAMs]]?
-	5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
-	6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
-	7. Read [[ForeFlight]] comments
-	8. Check the airport's website for local procedures
-	9. Where to record this in XC planner
-2. En route, pick up the weather as soon as it's in range
-	1. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
-	2. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
-3. Possibly overfly before landing
-	1. Airport markings
-		1. Segment circle, pattern indicators ![[Segmented Circle.svg]]
-		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.svg]]
-	2. [[Airport Lighting]] is covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]
+#### Planning Ahead
+1. Look up and note all the frequencies you'll need, including weather, tower, ground, and approach/departure
+	1. Non-towered airport frequencies: [[Unicom]], [[CTAF]]
+	2. Towered airports become non-towered when tower closed
+2. Review the runway layout: numbering, lengths, left/right pattern, [[TPA]]
+3. Read the AF/D Entry: Any disagreements with [[ForeFlight]]?  Are there noise abatement procedures?  Which is the calm wind runway?
+4. Are there [[NOTAM|NOTAMs]]?
+5. Look at it in Google Maps or other satellite view. Get a feel for the layout. Can you identify transient parking? Any old runways that could cause confusion (such as at [New Jerusalem Airport](https://www.google.com/maps/place/37%C2%B040'40.0%22N+121%C2%B018'04.0%22W/@37.677778,-121.301111,5016m/data=!3m1!1e3!4m4!3m3!8m2!3d37.677778!4d-121.301111?hl=en&entry=ttu))
+6. Check terrian on Sectional and Google Earth, to get a sense of the surrounding hills
+7. Read [[ForeFlight]] comments
+8. Check the airport's website for local procedures
+9. Where to record this in XC planner
+
+#### En route
+1. Pick up the weather as soon as it's in range
+2. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
+3. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
 4. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
 	2. Determining the [[Active Runway]] based on wind, current activity, or designated calm wind runway
@@ -52,14 +54,21 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	1. [[Non-Tower Radio Communication Examples]]
 	2. Remember, some aircraft don't have radios
 	3. If you don't know a local landmark or procedure, just say "unfamiliar"!
-6. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
+
+#### At the Airport
+1. Possibly overfly before landing
+	1. Airport markings
+		1. Segment circle, pattern indicators ![[Segmented Circle.svg]]
+		2. Wind indicators: [[Wind Sock]], tees, tetrahedrons ![[Wind Direction Indicators.svg]]
+	2. [[Airport Lighting]] is covered in [[PPL6.1 Night Operations and Night Cross Country|PPL6.1]]
+2. Landing at a non-towered airport requires extra vigilance-- it can be the Wild West.
 	1. Reminder of safety considerations from [[PPL3.2 Normal and Crosswind Approaches and Landings]] ([[Wake Turbulence]], [[FAR 91.113 Right-of-Way Rules|Right-of-Way Rules]], [[Runway Incursion]], awareness of other operations, etc)
-7. On the ground, be vigilant and use the radio to broadcast your movements
-8. Departing the traffic pattern and airport
+3. On the ground, be vigilant and use the radio to broadcast your movements
+4. Departing the traffic pattern and airport
 	1. [[FAA]] endorses only straight-out or 45-degree (L/R matching pattern direction) departure
 	2. Be aware, individuals sometimes depart from crosswind or downwind leg
 	3. Turn enroute when clear of pattern
-9. Common errors
+5. Common errors
 	1. Forgetting radio calls
 	2. Selecting wrong runway or inappropriate entry procedure to pattern
 	3. Lack of awareness of other aircraft

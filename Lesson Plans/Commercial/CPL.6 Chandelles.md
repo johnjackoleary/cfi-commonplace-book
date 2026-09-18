@@ -20,6 +20,8 @@ Understand purpose and procedures of a chandelle. Develop skills required to exe
 Ground 0.5 hours, Flight 2 hours
 
 ### Lesson Elements
+<iframe src="https://maneuvers.cfijack.com/?embed&m=chandelle" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Purpose
 	1. The goal is to gain the most altitude possible for a given bank angle and power setting
 	2. **However**, the standard used to judge the maneuver is not the amount of altitude gained, but rather the pilot’s proficiency in maximizing climb performance
