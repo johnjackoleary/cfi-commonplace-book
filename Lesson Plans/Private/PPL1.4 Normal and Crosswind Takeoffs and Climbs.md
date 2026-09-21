@@ -1,6 +1,11 @@
 ---
-tags: [ppl, lesson]
-aliases: [PPL.4, SOLO.4, PPL1.4]
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.4
+  - SOLO.4
+  - PPL1.4
 ---
 
 ### Introduction
@@ -37,6 +42,8 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 	3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
 	4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing
 
+<iframe src="https://maneuvers.cfijack.com/?embed&m=normal-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 **Additional Considerations for Crosswind Takeoffs**
 1. [[Crosswind Component]] of wind
 2. Max demo'd crosswind ([[POH]])
@@ -44,6 +51,8 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 4. ![[Crosswind Takeoff.jpeg]]
 5. Transition from side-slip to wings-level crab when out of usable runway
 6. ![[Crosswind Slip to Crab.jpeg]]
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=crosswind-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 **Normal Climbs**
 1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
