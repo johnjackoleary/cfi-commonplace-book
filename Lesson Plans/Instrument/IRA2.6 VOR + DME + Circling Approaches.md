@@ -17,7 +17,7 @@ Develop proficiency in flying VOR and circling approaches.
 - [[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
-Ground 1 hour, simulator 2 hours 
+Ground 1.0 hr, Sim 2.0 hr
 
 ### Lesson Elements
 1. [[VOR]] Approaches

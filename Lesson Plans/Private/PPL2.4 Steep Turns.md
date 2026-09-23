@@ -10,7 +10,7 @@ Beyond the the checkride, this maneuver is important for many reasons. It gives 
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
-**Schedule:** Ground 0.5 hours, Flight 1 hour
+**Schedule:** Ground 0.5 hr, Flight 1.0 hr
 
 ### Lesson Elements
 1. Aerodynamics of steep turns

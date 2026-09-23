@@ -17,7 +17,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
-Ground 2 hours 
+Ground 2.0 hr
 
 ### Lesson Elements
 1. Meteorology for IFR flight planning 

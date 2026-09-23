@@ -10,7 +10,7 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[IRA1.3 Instrument Maneuvers]], [[IRA2.2 Instrument Approach Fundamentals]]
-**Schedule:** Ground 0.5 hour, simulator and/or airplane 1 hour
+**Schedule:** Ground 0.5 hr, Sim/Flight 1.0 hr
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 

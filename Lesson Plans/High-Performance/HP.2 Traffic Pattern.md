@@ -21,7 +21,7 @@ Build ground knowledge required to preflight and operate a high-performance (gre
 - [[HP.1 Theory, Maneuvers, and Emergencies]]
 
 ### Schedule
-1.5hr ground^[Primarily for checkout form review, if applicable], flights until proficient
+Ground 1.5 hr^[Primarily for checkout form review, if applicable], Flight until proficient
 
 ### Lesson Elements
 - Review of club checkout forms, if applicable

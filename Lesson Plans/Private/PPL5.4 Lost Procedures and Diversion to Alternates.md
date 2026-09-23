@@ -13,7 +13,9 @@ But we have a procedure to follow for each of these.  Let's look at them.
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL 4.3]], [[PPL4.6 Pilotage and Dead Reckoning|PPL 4.6]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|PPL 4.5]], [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs|PPL 2.2]]
-**Schedule:** Ground 0.5 hour, Flight 1 hour, frequent practice on multiple flights
+**Schedule:** Ground 0.5 hr, Flight 1.0 hr
+
+Frequent practice on multiple flights
 
 ### Lesson Elements
 **Lost Procedures**

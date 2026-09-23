@@ -26,7 +26,7 @@ Background knowledge required for safe mountain flying.
 - [[CPL.12 High Altitude Operations]]
 
 ### Schedule
-2-3hr ground
+Ground 2.0 hr
 
 ### Lesson Elements
 #### Mountain Flying Theory

@@ -22,7 +22,7 @@ Prepare for Practical Test oral and flight portions. Identify any weak areas for
 [[~ CPL Lesson Plan Outline|All Lessons]]
 
 ### Schedule
-Ground 3 hours, Flight as necessary
+Ground 3.0 hr, Flight as necessary
 
 ### Lesson Elements
 1. Thorough review of [[ACS]]

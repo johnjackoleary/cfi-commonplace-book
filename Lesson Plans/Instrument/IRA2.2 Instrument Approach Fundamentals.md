@@ -17,7 +17,7 @@ Develop an understanding to interpret, apply, and brief various types of charted
 - [[IRA2.1 Charts and Approach Plates]]
 
 ### Schedule
-Ground 1.5 hours, Sim 1.5 hours
+Ground 1.5 hr, Sim 1.5 hr
 
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson

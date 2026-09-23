@@ -12,7 +12,7 @@ Pilots have a saying: "Better to be on the ground, wishing you were in the air, 
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-**Schedule:** 3 hour ground
+**Schedule:** Ground 3.0 hr
 
 ### Lesson Elements
 > [!summary]- Expectations on Weather Briefs During Training

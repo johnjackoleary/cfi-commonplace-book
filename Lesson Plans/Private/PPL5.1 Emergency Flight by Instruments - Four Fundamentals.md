@@ -9,7 +9,9 @@ Inadvertent VFR flight into IMC is a real danger, especially due to unexpected w
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
-**Schedule:** Ground 0.5 hour, Flight/Sim 1 hour, practice on multiple flights
+**Schedule:** Ground 0.5 hr, Sim/Flight 1.0 hr
+
+Practice on multiple flights
 
 > [!note] 
 > Can be completed at the same time as [[PPL5.3 Emergency Operations]].

@@ -14,7 +14,9 @@ See [[M.1 Mountain Knowledge#Resources]]
 [[M.1 Mountain Knowledge]]
 
 ### Schedule
-4-6hr flight, depending on route and altitudes used
+Flight 5.0 hr
+
+Depends on route and altitudes used
 
 ### Lesson Elements
 1. Review preflight preparations and route
