@@ -7,7 +7,9 @@ A pilot is expected to understand all of the systems in the aircraft they fly: h
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.1 Aircraft Preflight, Taxiing, and Postflight Procedures]]
-**Schedule:** 3 hour ground (can be completed more quickly with good preparation)
+**Schedule:** Ground 3.0 hr
+
+Can be completed more quickly with good preparation
 
 ### Lesson Elements 
 1. Overview: Excellent video diving into all of a Cessna 172's systems: [Inside a Single-Engine Aircraft | How a Cessna 172 Works](https://www.youtube.com/watch?v=DvCv2SuKCE8)^[Not all pronunciations here are correct, but the overview itself is good]

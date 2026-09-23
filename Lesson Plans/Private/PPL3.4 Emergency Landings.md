@@ -7,7 +7,9 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL3.2 Normal and Crosswind Approaches and Landings]], [[PPL3.3 Forward Slips and No Flap Landings]]
-**Schedule:** 1 hour ground, 2 hour flight, frequent practice on multiple flights
+**Schedule:** Ground 1.0 hr, Flight 2.0 hr
+
+Frequent practice on multiple flights
 
 ### Lesson Elements
 1. [[FAR 91.3 PIC Responsibility and Authority]]:

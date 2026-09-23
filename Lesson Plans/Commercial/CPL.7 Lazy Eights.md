@@ -18,7 +18,7 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 - [[PPL2.1 Slow Flight and Power-Off Stalls]]
 
 ### Schedule
-Ground 0.5 hours, Flight 2 hours
+Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements
 1. Concepts in a lazy eight

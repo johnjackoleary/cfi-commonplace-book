@@ -15,7 +15,7 @@ Understand the characteristic of adult learners, aware of the basic elements of 
 None
 
 ### Schedule
-Ground 0.5 hours
+Ground 0.5 hr
 
 ### Lesson Elements
 1. Teaching the adult learner

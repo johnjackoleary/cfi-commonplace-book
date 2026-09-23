@@ -11,7 +11,9 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[IRA1.1 Introduction and Roadmap]]
 **Resources:** Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[Rectangular Scan.jpeg|IFH]])
-**Schedule:** Ground 1-2 hours, depending on recall from PPL; simulator and/or airplane, 0.5 hours 
+**Schedule:** Ground 1.0 hr, Sim/Flight 0.5 hr
+
+Depends on recall from PPL
 
 > [!note] 
 > Can often be completed at the same time as [[IRA1.1 Introduction and Roadmap]].

@@ -12,7 +12,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.5 Towered Airport Operations]], [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]], [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
-**Schedule:** Ground 2 hours, 1 hour sim/flight
+**Schedule:** Ground 2.0 hr, Sim/Flight 1.0 hr
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...

@@ -13,7 +13,7 @@ Finally, you'll notice that some of these performance stats depend on Groundspee
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.3 Weather Briefs and Preflight Planning]]
-**Schedule:** 3 hours ground
+**Schedule:** Ground 3.0 hr
 
 ### CFI Equipment
 - [[E6B]] Calculator or App

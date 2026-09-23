@@ -18,7 +18,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
-**Schedule:** 1.5 hours ground, 1.5 hours flight
+**Schedule:** Ground 1.5 hr, Flight 1.5 hr
 
 ### Lesson Elements
 1. What is slow flight? Why do we practice this?

@@ -15,7 +15,7 @@ Learner should become acquainted with the theory behind learning and memory and 
 None
 
 ### Schedule
-Ground 0.5 hours
+Ground 0.5 hr
 
 ### Lesson Elements
 

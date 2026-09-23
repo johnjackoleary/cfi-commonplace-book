@@ -15,7 +15,7 @@ Develop the knowledge of how the elements of human behaviors affects instructor 
 None
 
 ### Schedule
-Ground 0.5 hours
+Ground 0.5 hr
 
 ### Lesson Elements
 

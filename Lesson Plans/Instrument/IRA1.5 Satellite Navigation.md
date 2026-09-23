@@ -16,7 +16,7 @@ Develop detailed understanding of GPS system and navigation; become proficient w
 [[IRA1.4 Ground-Based Navigation]]
 
 ### Schedule
-Ground 1-hour, simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
+Ground 1.0 hr, Sim/Flight 2.0 hr^[may need less time based on depth of PPL training]
 
 ### Lesson Elements
 1. [[Satellite Navigation using GPS and GNSS]]

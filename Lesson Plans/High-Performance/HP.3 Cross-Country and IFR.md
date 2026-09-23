@@ -20,7 +20,7 @@ Become familiar with all avionics and instrumentation available for a cross-coun
 - [[HP.2 Traffic Pattern]]
 
 ### Schedule
-0.5hr ground^[this may require more ground time, depending on how prepared the learner is to use the new instruments], 2.5hr flight
+Ground 0.5 hr^[this may require more ground time, depending on how prepared the learner is to use the new instruments], Flight 2.5 hr
 
 ### Lesson Elements
 - Overview of any new avionics or tools in the flight deck

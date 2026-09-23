@@ -12,7 +12,9 @@ At first we'll learn "normal" landings, and in later lessons we'll learn some ad
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL2.1 Slow Flight and Power-Off Stalls]], [[PPL3.1 Flying the Traffic Pattern and Go-Arounds]]
-**Schedule:** 1.5 hours ground, 1.5 hours flight, multiple flights to practice as necessary
+**Schedule:** Ground 1.5 hr, Flight 1.5 hr
+
+Multiple flights to practice as necessary
 
 ### Lesson Elements
 1. Goal of landing: Smoothly transfer weight from wings to wheels

@@ -20,7 +20,7 @@ Practice departing and arriving from the airport, select maneuvers from [[Privat
 - [[PPL5.3 Emergency Operations]]
 
 ### Schedule
-1hr ground, flights until proficient
+Ground 1.0 hr, Flight until proficient
 
 ### Lesson Elements
 
