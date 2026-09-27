@@ -21,6 +21,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 **Schedule:** 1.5 hours ground, 1.5 hours flight
 
 ### Lesson Elements
+#### Slow Flight
 1. What is slow flight? Why do we practice this?
 	1. Flight at high [[AOA]], close to [[stall]], or stall warning
 		1. > [!youtube] Published by [University of Iowa](https://www.youtube.com/@universityofiowa)
@@ -56,7 +57,11 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	6. S&L, turns, climbs, descents at various configurations (flaps and power)
 	7. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
-5.  Aerodynamics of stalls
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=slow-flight" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+#### Power-Off Stalls
+1. Aerodynamics of stalls
 	1. [[Stall]] occurs when you exceed the **critical angle of attack** ([[AOA]])
 	2. Stall can occur at ANY airspeed, attitude, or power setting!
 	3. Aircraft designed to pitch down at stall 
@@ -70,17 +75,17 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
 	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.svg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
-6. Situations where risk of stalls increase
+2. Situations where risk of stalls increase
 	1. Landing approach, especially skidding base to final turn
 	2. Climb-out, trying to clear an obstacle, especially at high density altitude
 	3. Emergency landing, power-off glide, trying to stretch the glide
 	4. Exceeding max gross, CG out of limits
 	5. Ice or frost accumulation on wings
-7. Stall recognition
+3. Stall recognition
 	1. Sight - high pitch attitude (not always)
 	2. Sound - reduced airflow, less wind noise
 	3. Feel - mushy controls, less effective, buffeting
-8. Power Off Stall Maneuver
+4. Power Off Stall Maneuver
 	1. Simulates stall during approach to landing
 	2. Clearing Turns, ID Emergency Field, Outside Reference ([[CHAPS]])
 	3. Enter slow flight in landing configuration
@@ -89,7 +94,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	6. Verbally acknowledge stall horn
 	7. Continue holding pitch to full stall
 	8. Recover: pitch down just below horizon, full power, raise flaps one notch, then incrementally up. Climb [[Vy]].
-9. Common errors
+5. Common errors
 	1. Poor rudder coordination, drifting off altitude, heading, etc
 	2. Using excessive bank angle
 	3. Unintentional stall
@@ -97,6 +102,10 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	5. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry
 	3. Secondary stall due to aggressive pitch up during recovery
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls-turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 **Slow Flight**

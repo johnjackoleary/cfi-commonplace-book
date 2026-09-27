@@ -77,7 +77,8 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 	3. Select altitude to recover above 3000', typically 4500' or above
 	4. Check traffic with clearing turns
 	5. Configure and perform power-off stall (no flaps), stick full aft
-		1. For stalling a Cessna 172S, consider RPM of 
+		1. For stalling a Cessna 172S, consider RPM of 1500 RPM
+		2. Additional tips in [[Teaching Spins in a Cessna 172]]
 	6. As stall breaks, add full rudder in desired direction of spin
 	7. Hold full aft elevator and full rudder for desired number of turns in spin
 	8. Recover with [[POH]] (often [[PARE]]) procedure as described above
