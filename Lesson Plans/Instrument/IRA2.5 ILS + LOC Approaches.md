@@ -17,7 +17,7 @@ Develop proficiency in flying LOC and ILS approaches, procedure turns, and demon
 - [[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
-Ground 30m, simulator – 2.5 hours 
+Ground 0.5 hr, Sim 2.5 hr
 
 ### Lesson Elements
 

@@ -10,7 +10,7 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment]]
-**Schedule:** Ground 1 hour
+**Schedule:** Ground 1.0 hr
 
 > [!note] 
 > Can often be completed at the same time as [[IRA1.2 Instruments and Attitude Flying]].

@@ -17,7 +17,7 @@ Understand purpose and procedures of a chandelle. Develop skills required to exe
 - [[PPL2.1 Slow Flight and Power-Off Stalls]]
 
 ### Schedule
-Ground 0.5 hours, Flight 2 hours
+Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements
 <iframe src="https://maneuvers.cfijack.com/?embed&m=chandelle" width="100%" height="520" style="border:0;border-radius:12px"></iframe>

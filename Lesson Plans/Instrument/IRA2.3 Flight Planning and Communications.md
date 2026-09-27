@@ -15,7 +15,7 @@ Learn proper IFR planning procedures and communications techniques, including co
 [[IRA2.1 Charts and Approach Plates]]
 
 ### Schedule
-Ground 3.0 hours
+Ground 3.0 hr
 
 ### Lesson Elements
 

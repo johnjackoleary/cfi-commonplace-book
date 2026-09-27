@@ -15,7 +15,9 @@ On the checkride, you will need to demonstrate some of these.  But in real life
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL3.4 Emergency Landings]], [[PPL2.6 Aircraft Systems]]
-**Schedule:** 2 hours ground, flight practice as necessary
+**Schedule:** Ground 2.0 hr
+
+Flight practice as necessary
 
 ### Lesson Elements
 > [!summary]

@@ -7,7 +7,7 @@ With your training complete, this lesson talks about strategies to prepare for t
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[~ PPL Lesson Plan Outline|All Lessons]]
-**Schedule:** Ground 3 hours, Flight as necessary
+**Schedule:** Ground 3.0 hr, Flight as necessary
 
 ### Lesson Elements
 1. Thorough review of [[Private Pilot ACS]]

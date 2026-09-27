@@ -9,7 +9,7 @@ On your checkride, the examiner will have you put on the hood, then close your e
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals]]
-**Schedule:** Ground 0.5 hours, sim/airplane 1 hours
+**Schedule:** Ground 0.5 hr, Sim/Flight 1.0 hr
 
 ### CFI Equipment
 Hood or foggles

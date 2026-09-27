@@ -6,7 +6,9 @@ tags: sim, lesson
 Learn to use an [[AATD]] simulator without accidentally breaking it.
 
 **Resources:** [[AC 61-136]]
-**Schedule:** 30 min (15 min in two different simulators)
+**Schedule:** Sim 0.5 hr
+
+15 min in two different simulators
 
 ### Lesson Elements
 - Booking, 'preflighting', and turning on the sim

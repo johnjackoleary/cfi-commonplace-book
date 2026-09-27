@@ -13,7 +13,9 @@ Both require an understanding of compass corrections and wind corrections when p
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]], [[PPL4.4 Aircraft Performance and Weight+Balance]]
-**Schedule:** Ground 1.5 hours, Flight – multiple during dual cross-country flights
+**Schedule:** Ground 1.5 hr
+
+Flight – multiple during dual cross-country flights
 
 ### CFI Equipment
 - [[E6B]] Calculator or App

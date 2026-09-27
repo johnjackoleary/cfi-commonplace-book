@@ -25,7 +25,9 @@ Discussion of differences between commercial and private pilot licenses, and set
 - [[PPL4.2 Advanced Airport Operations]]
 
 ### Schedule
-Ground 1.5-3 hours, depending on memory of concepts from [[PPL]]
+Ground 2.0 hr
+
+Depends on memory of concepts from [[PPL]]
 
 ### Lesson Elements
 1. Overview of [[~ CPL Lesson Plan Outline|Commercial Syllabus]]

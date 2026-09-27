@@ -9,7 +9,7 @@ These maneuvers are designed to demonstrate your command of the aircraft, and re
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
-**Schedule:** 1 hour ground, 2 hours flight
+**Schedule:** Ground 1.0 hr, Flight 2.0 hr
 
 ### CFI Equipment
 GPS/Sentry/ADS-B In

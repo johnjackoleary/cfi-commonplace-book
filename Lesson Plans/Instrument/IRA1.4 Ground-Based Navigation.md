@@ -17,7 +17,7 @@ VOR orientation, course intercepts and tracking, and use of HSI, if available. I
 - [[IRA1.3 Instrument Maneuvers]]
 
 ### Schedule
-Ground 1 hour; simulator and/or airplane, 2 hours^[may need less time based on depth of PPL training]
+Ground 1.0 hr, Sim/Flight 2.0 hr^[may need less time based on depth of PPL training]
 
 ### Lesson Elements
 1. VOR Information from [[Ground-Based Navigation using VOR, DME, and ILS]]

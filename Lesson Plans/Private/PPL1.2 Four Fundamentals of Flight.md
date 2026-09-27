@@ -12,8 +12,7 @@ We often refer to the "Four Fundamentals of Flight", which are
 While these may seem simple, proper technique and practice form a foundation that allows the pilot to fly with precision while focussing on other tasks. We'll be practicing these fundamentals in every flight, but in this lesson we'll talk about the techniques, tips, and tricks that make each maneuver smooth and controlled. We'll also talk about the aerodynamics of flight in all these configurations, which a pilot is expected to understand, and which often comes up in the oral exam.
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
-
-**Schedule:** 1 hour ground, 2 hours flight
+**Schedule:** Ground 1.0 hr, Flight 2.0 hr
 
 ### Lesson Elements
 > [!tip] 

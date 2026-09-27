@@ -10,7 +10,7 @@ Although departure procedures are potent solutions to leaving in IMC, they requi
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[IRA2.2 Instrument Approach Fundamentals]], [[IRA2.3 Flight Planning and Communications]]
-**Schedule:** Ground 1.5 hours, flight 3 hours 
+**Schedule:** Ground 1.5 hr, Flight 3.0 hr
 **Resources:** [[TERPS]], [[TPP]] Supplemental
 
 ### Lesson Elements

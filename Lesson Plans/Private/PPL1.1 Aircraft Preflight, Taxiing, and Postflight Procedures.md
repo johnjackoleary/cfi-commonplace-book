@@ -20,7 +20,9 @@ Safety starts on the ground, by making sure the plane is airworthy.  This gener
 If the plane is safe to fly, then there's a procedure for starting the engine, a procedure for getting permission to taxi, and a procedure for testing the engine under power before flight. Today we'll run through all of these procedures, so they're familiar the first time we actually fly.
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
-**Schedule:** 2.5 hours ground^[From Jack: I've found this lesson often takes a full 3 hours, without including engine start or runup. Perhaps this should be split into two lessons, or the taxi + runup portion added to PPL.2.], 0.5 hour flight (optional)
+**Schedule:** Ground 2.5 hr^[From Jack: I've found this lesson often takes a full 3 hours, without including engine start or runup. Perhaps this should be split into two lessons, or the taxi + runup portion added to PPL.2.], Flight 0.5 hr
+
+Flight is optional
 
 ### Lesson Elements
 1. Onboarding paperwork (new student info/folder, dispatch procedure, aircraft selection and scheduling, [[TSA]] ([citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/us-citizens-seeking-flight-training)/[non-citizen](https://www.aopa.org/advocacy/pilots/alien-flight-training-program/aliens-and-non-us-citizens-seeking-flight-training)), student pilot cert)

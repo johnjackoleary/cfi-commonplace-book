@@ -13,7 +13,7 @@ To develop knowledge of pivotal altitude and the skill to maneuver the airplane 
 [[PPL2.5 Ground Reference Maneuvers]]
 
 ### Schedule
-Ground 0.5 hours, Flight 2 hours
+Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements 
 1. Overview

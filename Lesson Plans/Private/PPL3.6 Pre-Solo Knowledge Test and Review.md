@@ -7,7 +7,7 @@ You're nearly ready to solo! In this lesson we'll identify any remaining areas t
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** All pre-solo lessons
-**Schedule:** 2 hour ground, 1 hour flight
+**Schedule:** Ground 2.0 hr, Flight 1.0 hr
 
 ### Lesson Elements
 1. [[FAR 61.87 Student Solo Reqs]] lists the FAA's requirements before a student solo

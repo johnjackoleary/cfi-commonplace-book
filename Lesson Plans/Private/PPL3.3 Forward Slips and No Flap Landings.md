@@ -9,7 +9,9 @@ This lesson also covers "No-Flap Landings." Although we normally extend flaps fo
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL3.2 Normal and Crosswind Approaches and Landings]]
-**Schedule:** Ground 0.5, multiple flights to practice this maneuver frequently
+**Schedule:** Ground 0.5 hr
+
+Multiple flights to practice this maneuver frequently
 
 ### Lesson Elements
 

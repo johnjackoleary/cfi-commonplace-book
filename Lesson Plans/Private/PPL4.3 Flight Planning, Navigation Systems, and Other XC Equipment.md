@@ -7,7 +7,7 @@ The crux of cross-country planning is choosing a route, which includes waypoints
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]]
-**Schedule:** Ground 2 hours, 1 hour sim
+**Schedule:** Ground 2.0 hr, Sim 1.0 hr
 
 ### Lesson Elements
 > [!info]- Structure of XC Lessons...

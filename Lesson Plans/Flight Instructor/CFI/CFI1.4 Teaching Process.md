@@ -16,7 +16,7 @@ The learner acquires knowledge and skills related to course & lesson development
 None
 
 ### Schedule
-Ground 1.0 hours
+Ground 1.0 hr
 
 ### Lesson Elements
 

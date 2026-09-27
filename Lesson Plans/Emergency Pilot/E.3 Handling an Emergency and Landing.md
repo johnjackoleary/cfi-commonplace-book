@@ -15,7 +15,9 @@ Learner has a process to follow in an emergency and can land the airplane.
 - [[E.2 Radios, Transponders, Navigation, Autopilot]]
 
 ### Schedule
-1hr ground, 2hr flight, subsequent flights as desired
+Ground 1.0 hr, Flight 2.0 hr
+
+Subsequent flights as desired
 
 ### Lesson Elements
 - Handling the Emergency
