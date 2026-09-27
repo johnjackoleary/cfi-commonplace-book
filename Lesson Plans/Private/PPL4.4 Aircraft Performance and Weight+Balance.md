@@ -31,12 +31,12 @@ Most airplane POHs have the same chapter subjects in the same order. It is very 
 **Weight and Balance calculations**
 [[FAR 91.9 Flight Manual, Marking, and Placard Reqs|FAR 91.9]] requires the pilot to comply with the aircraft's operating limitations, which include weight & balance. And it's critical to comply for safety reasons.  Hence, we compute it before each flight.
 
-1. [[MGW]], [[MRW]], [[MTOW]], and [[MLW]]
-2. Effect of CG location on:^[[[Static vs Dynamic Stability and How Trainer Planes Are Designed]]]
+1. [[BEW]], [[MGW]], [[MRW]], [[MTOW]], and [[MLW]]
+2. Effect of gross weight on performance
+3. Effect of CG location on:^[[[Static vs Dynamic Stability and How Trainer Planes Are Designed]]]
 	1. stability
 	2. performance 
-3. Effect of gross weight on performance
-4. How to calculate
+3. How to calculate
 	1. By hand
 	2. Online / EFB
 

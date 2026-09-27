@@ -24,7 +24,7 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 5. How the takeoff reverses the steps of the landing
 
 **Preparation**
-1. Confirm adequate takeoff distance, from aircraft performance charts ([[POH]], section
+1. Confirm adequate takeoff distance, from aircraft performance charts ([[POH]], section 5)
 2. Consider effects of wind, [[density altitude]], weight, runway surface
 
 **Normal Takeoffs**
@@ -40,7 +40,7 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 	1. Feet off brakes / heels on the floor
 	2. [[Smooth Power Application]]
 	3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
-	4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing
+	4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing.
 
 <iframe src="https://maneuvers.cfijack.com/?embed&m=normal-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
