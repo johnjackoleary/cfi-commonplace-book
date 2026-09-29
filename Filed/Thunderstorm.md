@@ -54,7 +54,6 @@ See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 - Never try to use radar to navigate between storm cells (link)
 
 > [!youtube]- Published by [[Air Safety Institute]]
-> color missing
 > ![](https://www.youtube.com/watch?v=83uvKWJS2os&t=510)
 
 ## If Unable to Avoid
