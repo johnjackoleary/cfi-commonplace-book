@@ -22,6 +22,7 @@ See [[Atmospheric Stability]]
 
 ## Life Cycle
 ![[Thunderstorm Life Cycle.svg]]
+More here?
 
 ## Hazards
 > [!danger] From [[Aviation Weather Handbook]]
@@ -51,9 +52,10 @@ See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 - Consider diverting and waiting out the storm
 	- May be appropriate to ask for a hangar if hail is expected
 - Go around the storm using radar for large scale planning
-- Never try to use radar to navigate between storm cells
+- Never try to use radar to navigate between storm cells (link)
 
 > [!youtube]- Published by [[Air Safety Institute]]
+> color missing
 > ![](https://www.youtube.com/watch?v=83uvKWJS2os&t=510)
 
 ## If Unable to Avoid

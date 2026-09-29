@@ -1,6 +1,12 @@
 ---
-tags: [ppl, lesson, maneuver]
-aliases: [PPL.10, SOLO.10, PPL2.5]
+tags:
+  - ppl
+  - lesson
+  - maneuver
+aliases:
+  - PPL.10
+  - SOLO.10
+  - PPL2.5
 ---
 ### Introduction
 In this lesson we'll learn to fly three important maneuvers: rectangular patterns, S-turns, and turns around a point. Collectively, these are known as Ground Reference Maneuvers. These are maneuvers that we demonstrate at relatively low altitude (600'-1000' AGL) while maintaining a fixed distance or relationship from landmarks on the ground.
@@ -15,6 +21,7 @@ These maneuvers are designed to demonstrate your command of the aircraft, and re
 GPS/Sentry/ADS-B In
 
 ### Lesson Elements
+#### Theory
 1. Effect of wind during ground reference maneuvers
 	1. Effects of wind on ground track and crab angle![[Wind Drift.jpeg]]
 	2. Effect of bank angle and groundspeed on rate and radius of turn (relative to ground)![[Effect of Wind on Turn.jpeg]]
@@ -22,35 +29,8 @@ GPS/Sentry/ADS-B In
 	1. This speed changes with weight -- more weight raises maneuvering speed
 3. Rate of turn and bank angle changes with ground speed -- more ground speed means more bank needed
 4. [[Finding Wind Direction]]
-5. Flying all maneuvers ([[CHAPS]])
-	1. Select location without excessive traffic, and with suitable emergency landing fields
-	2. Select altitude (600'-1000' [[agl]]) and appropriate airspeed for maneuver
-		1. Once power is set correctly, shouldn't need to change it in the maneuver
-	3. Check for traffic in area before and between each maneuver
-	4. Divide attention between airplane control, traffic, and ground references
-	5. Be aware of low altitude hazards like wires
-6. Maneuver Specific
-	1. Rectangular Course![[Rectangular Course.jpeg]]
-		1. Select suitable reference
-		2. Enter 45° to the downwind leg, left or right traffic
-		3. Aim for 1/4-1/2 mile from reference, account for wind
-		4. Turn crosswind from downwind when you are abeam the crosswind reference line
-		5. This maneuver simulates flying the traffic pattern
-	2. Turns Around a Point![[Turns Around a Point.jpeg]]
-		1. Select suitable reference
-		2. Enter downwind, 1/4-1/2mi from reference
-		3. Tailwind: Steeper bank; Headwind: Shallower bank
-		4. Note starting point
-		5. Use 4 points along circle to help maintain constant radius
-		6. Note: Wngs only point at point on downind and uwind
-	3. S-Turns![[S-Turns.jpeg]]
-		1. Select suitable reference, perpendicular to wind
-		2. Enter downwind
-		4. Tailwind: Steeper bank; Headwind: Shallower bank
-		3. Use 5 points on S-turn to help maintain constant radius
-		4. Wings level and parallel to reference as you cross
-7. Places to practice
-8. Common errors
+5. Places to practice
+6. Common errors
 	1. Forgetting to check for traffic or to locate emergency field
 	2. Failure to divide attention between aircraft control, instrument check, ground references, traffic and situational awareness
 	3. Improper correction for wind drift
@@ -58,6 +38,46 @@ GPS/Sentry/ADS-B In
 	5. Failure to maintain altitude or airspeed throughout the maneuver
 	6. Changing power during the maneuver
 
+#### Procedures
+1. Flying all maneuvers ([[CHAPS]])
+	1. Select location without excessive traffic, and with suitable emergency landing fields
+	2. Select altitude (600'-1000' [[agl]]) and appropriate airspeed for maneuver
+		1. Once power is set correctly, shouldn't need to change it in the maneuver
+	3. Check for traffic in area before and between each maneuver
+	4. Divide attention between airplane control, traffic, and ground references
+	5. Be aware of low altitude hazards like wires
+
+##### Rectangular Course
+![[Rectangular Course.jpeg]]
+1. Select suitable reference
+2. Enter 45° to the downwind leg, left or right traffic
+3. Aim for 1/4-1/2 mile from reference, account for wind
+4. Turn crosswind from downwind when you are abeam the crosswind reference line
+5. This maneuver simulates flying the traffic pattern
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=rectangular-course" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+##### Turns Around a Point
+![[Turns Around a Point.jpeg]]
+
+1. Select a suitable reference
+2. Enter downwind, 1/4-1/2mi from reference
+3. Tailwind: Steeper bank; Headwind: Shallower bank
+4. Note starting point
+5. Use 4 points along circle to help maintain constant radius
+6. Note: Wings only point at the point on downwind and upwind
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=turns-around-a-point" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+##### S-Turns
+![[S-Turns.jpeg]]
+1. Select suitable reference, perpendicular to wind
+2. Enter downwind
+3. Tailwind: Steeper bank; Headwind: Shallower bank
+4. Use 5 points on S-turn to help maintain constant radius
+5. Wings level and parallel to reference as you cross
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=s-turns" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 Client must demonstrate the ability to choose an appropriate location, select a safe entry speed, and perform the maneuvers to ACS standards.

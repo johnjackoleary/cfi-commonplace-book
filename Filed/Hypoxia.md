@@ -3,7 +3,7 @@ Hypoxia is extremely dangerous for pilots.  Side effects include impaired judgem
 
 # Types of Hypoxia
 1. **Hypoxic Hypoxia**: Not enough available oxygen.  This is most common in pilots flying at higher altitudes
-2. **Hypemic Hypoxia**: Oxygen is available, but the body is not able to take it up.  Carbon Monoxide poisoning falls in this category.
+2. **Hypemic Hypoxia**: Oxygen is available, but the body is not able to take it up. [[Carbon Monoxide Poisoning]] falls in this category.
 3. **Stagnant Hypoxia**: This is due to a blockage that keeps oxygen from flowing. The classic example is an arm or leg "falling asleep".
 4. **Histotoxic Hypoxia**: The inability of cells to make use of the oxygen delivered to them, often due to alcohol or drugs.
 
