@@ -1,5 +1,8 @@
 ---
-tags: [maneuver, ppl, cpl]
+tags:
+  - maneuver
+  - ppl
+  - cpl
 ---
 
 # Procedure
@@ -10,6 +13,8 @@ tags: [maneuver, ppl, cpl]
 | Level Off Climb | lead by 10% of [[VSI]], hand to throttle 20%| Pitch &#x21D2; | wait until cruise speed | Power &#x21BA; | tune, then trim |  
 | Initiate Descent | | Power &#x21D3; | wait for natural Pitch &#x21D3; | wait until stable | tune, then trim |  
 | Level Off Descent | lead by 10% of VSI | Power &#x21BA; | wait for natural Pitch &#x21D2; | wait until cruise speed | tune, then trim |
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=climbs-and-descents" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ## Details
 ![[Reduced Power Pitches Down.svg]]

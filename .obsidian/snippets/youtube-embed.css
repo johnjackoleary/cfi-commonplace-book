@@ -1,4 +1,4 @@
 .callout[data-callout="youtube"] {
-    --callout-color: 255, 0, 0;
+    --callout-color: #ff0000;
     --callout-icon: youtube;
 }

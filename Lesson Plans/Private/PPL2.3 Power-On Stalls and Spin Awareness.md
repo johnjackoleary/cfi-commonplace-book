@@ -37,6 +37,10 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry
 	3. Secondary stall due to aggressive pitch up during recovery
 
+<iframe src="https://maneuvers.cfijack.com/?embed&m=power-on-stall" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=power-on-stall-turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 #### Spins
 1. Spin Recovery Procedure
 	1. Follow the [[POH]]!

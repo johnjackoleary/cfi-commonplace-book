@@ -41,11 +41,12 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	6. [[Static vs Dynamic Stability and How Trainer Planes Are Designed]]
 3. Introduction to [[Weight and Balance]]
 	- > [!note] [[WVFC]] requires W&B as part of solo ground review form
+	- Is this covered earlier already?
 4. Slow flight maneuvering
 	1. Set Up ([[CHAPS]])
 		1. Clear the area - perform clearing turns
-		2. Heading - choose a heading and set the heading bug
-		3. Altitude - choose a safe altitude and set the bug.
+		2. Heading - choose a prominent landmark, and set the heading bug
+		3. Altitude - choose a safe altitude and set the bug
 			1. ACS calls for 1500' AGL minimum recovery, but this is too low to start! -- start at > 2500' AGL (3000' MSL in our local practice areas)
 			2. Be careful of overlaying Bravo
 		4. Place to land - Identify an emergency landing location
@@ -69,9 +70,9 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 		2. ![[Effect of Speed on Downwash.svg]]
 	4. Discuss effect from
 		1. Change wing shape
-			1. Vs, Vs0
-			2. flaps: wing generates more lift -> can fly at lower angle of attack w/ flaps -> lower stall speed
-		2. Change wing loading
+		2. Vs, Vs0
+			1. flaps: wing generates more lift -> can fly at lower angle of attack w/ flaps -> lower stall speed
+		3. Change wing loading
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
 	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.svg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]

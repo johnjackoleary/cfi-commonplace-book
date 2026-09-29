@@ -21,7 +21,7 @@ See [[Atmospheric Stability]]
 	2. The denser cool air will tend to push (i.e., lift) the less dense warm air aloft.
 
 ## Life Cycle
-![[Thunderstorm Life Cycle.svg]]
+![[Thunderstorm Life Cycle.jpeg]]
 
 ## Hazards
 > [!danger] From [[Aviation Weather Handbook]]
@@ -51,7 +51,7 @@ See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 - Consider diverting and waiting out the storm
 	- May be appropriate to ask for a hangar if hail is expected
 - Go around the storm using radar for large scale planning
-- Never try to use radar to navigate between storm cells
+- Never try to use radar to navigate between storm cells (link)
 
 > [!youtube]- Published by [[Air Safety Institute]]
 > ![](https://www.youtube.com/watch?v=83uvKWJS2os&t=510)

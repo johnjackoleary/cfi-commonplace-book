@@ -4,5 +4,3 @@
 
 ***See Also***: [[Oxygen Equipment Use in General Aviation Operations]],  [[FAR 91.211 Supplemental Oxygen]]
 
-#todo :: Add FAR for this
-
