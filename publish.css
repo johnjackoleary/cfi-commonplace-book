@@ -3,13 +3,13 @@
 }
 /* Custom theme for Youtube callouts */
 .callout[data-callout="youtube"] {
-    --callout-color: #ff0000;
+    --callout-color: 255, 0, 0;
     --callout-icon: youtube;
 }
 
 /* Custom theme for Instagram callouts */
 .callout[data-callout="instagram"] {
-    --callout-color: #C13584;
+    --callout-color: 193, 53, 132;
     --callout-icon: instagram;
 }
 
