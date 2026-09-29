@@ -1,6 +1,11 @@
 ---
-tags: [ppl, lesson]
-aliases: [PPL.2, SOLO.2, PPL1.2]
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.2
+  - SOLO.2
+  - PPL1.2
 ---
 ### Introduction
 We often refer to the "Four Fundamentals of Flight", which are
@@ -61,6 +66,8 @@ This follows the topics covered in a demo flight, if not previously flown.
 4. Maintain coordination (counteract [[Adverse Yaw]]) using the rudder ([[Indications of Slip and Skid.jpeg]])
 5. Relax, make adjustments, scan for traffic
 6. Use opposite aileron to roll out, while relaxing back pressure, and staying coordinated
+
+<iframe src="https://maneuvers.cfijack.com/?embed&m=level-flight-and-turns" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Climbs and Descents
 
