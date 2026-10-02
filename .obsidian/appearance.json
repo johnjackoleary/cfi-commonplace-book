@@ -3,8 +3,9 @@
   "enabledCssSnippets": [
     "dataview-inline-fields",
     "radio-comms",
+    "instagram-embed",
     "youtube-embed",
-    "instagram-embed"
+    "maneuver-embed"
   ],
   "baseFontSize": 16,
   "theme": "moonstone",
