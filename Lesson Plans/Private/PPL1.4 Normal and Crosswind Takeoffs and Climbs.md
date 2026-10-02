@@ -42,7 +42,8 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 	3. Make a last check of instruments (RPM good, oil pressure green, airspeed alive)
 	4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing.
 
-<iframe src="https://maneuvers.cfijack.com/?embed&m=normal-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> [!maneuver]- 3D Visualizer: Normal Takeoff
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=normal-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 **Additional Considerations for Crosswind Takeoffs**
 1. [[Crosswind Component]] of wind
@@ -52,7 +53,8 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 5. Transition from side-slip to wings-level crab when out of usable runway
 6. ![[Crosswind Slip to Crab.jpeg]]
 
-<iframe src="https://maneuvers.cfijack.com/?embed&m=crosswind-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> [!maneuver]- 3D Visualizer: Crosswind Takeoff
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=crosswind-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 **Normal Climbs**
 1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline

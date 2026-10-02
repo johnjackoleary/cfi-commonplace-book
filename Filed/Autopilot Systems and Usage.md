@@ -15,7 +15,7 @@ aliases:
 	1. Dual Axis vs. Single Axis
 	2. Flight Directors
 3. Benefits of Autopilot
-	1. Workload reduction^[[See [[Task Saturation]]]]
+	1. Workload reduction^[See [[Task Saturation]]]
 	2. [[Fatigue]] management
 	3. Task Management
 4. [[POH]] and [[AFM]] supplements pertaining to autopilot 

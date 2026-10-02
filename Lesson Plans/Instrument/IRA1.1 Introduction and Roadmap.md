@@ -62,7 +62,4 @@ Learner understands the instrument flight training process and roadmap ahead.
 ### Required Homework
 - [ ] TSA, as needed
 
-### Recommended Homework
-- [ ] Start doing instrument operational checks each time you fly VFR or IFR
-
 *Return to [[~ IRA Lesson Plan Outline|Table of Contents]]^*

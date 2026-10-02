@@ -139,6 +139,9 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	7. Expecting CFI to fix a risky landing attempt (may not be possible!)
 	8. Expecting CFI to call for a go-around
 
+> [!maneuver]- 3D Visualizer: Go-Around
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=go-around" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 > [!youtube] Published by [@FlightATC](https://www.youtube.com/@FlightATC)
 > ![](https://www.youtube.com/watch?v=evE3WmYAvVY)
 

@@ -47,8 +47,9 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 		2. Contains various additional information (maps, weather, engine performance, etc)
 		3. Often can be used as a backup to PFD (e.g. [[reversionary mode]])
 	7. Technically Advanced Aircraft ([[Technically Advanced Aircraft|TAA]]) definition
-4. [[Transponder]] and altitude encoders
+4. [[Transponder]] and altitude encoders ([[Radar|Surveillance Systems]])
 	1. Blind Encoder (cheaper, not integrated with altimeter) vs. Encoding Altimeter (transponder integrated with altimeter)
+		1. look into this more
 	2. Connected to static line
 	3. Mode A (squawk code + position) vs Mode C (squawk code + position + altitude)
 	4. OFF (no power), STBY (no interrogation responses), ON (responses in Mode A), ALT (responds in Mode C), GND
@@ -116,6 +117,9 @@ So, the instrument pilot must develop a habit of continuously scanning the inst
 
 ### Required Homework
 - [ ] Memorize the [[Aircraft Gait Charts|gait chart]] and/or have printed on kneeboard
+
+### Recommended Homework
+- [ ] Start doing instrument operational checks each time you fly VFR or IFR
 
 ### Completion Standards
 Learner must demonstrate understanding of: control and performance instruments; instrument scan methods. Learner should become proficient in S&L flight by reference to instruments, and transitions to straight climbs, descents, and turns. (ACS standards: +/- 10 kts, +/- 10°s, +- 100 feet)

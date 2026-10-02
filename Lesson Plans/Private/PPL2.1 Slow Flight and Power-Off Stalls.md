@@ -59,7 +59,8 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	7. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
 
-<iframe src="https://maneuvers.cfijack.com/?embed&m=slow-flight" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> [!maneuver]- 3D Visualizer: Slow Flight
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=slow-flight" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Power-Off Stalls
 1. Aerodynamics of stalls
@@ -104,9 +105,11 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry
 	3. Secondary stall due to aggressive pitch up during recovery
 
-<iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> [!maneuver]- 3D Visualizer: Power-Off Stall
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
-<iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls-turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> [!maneuver]- 3D Visualizer: Power-Off Stall (Turning)
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls-turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 **Slow Flight**
