@@ -1,0 +1,5 @@
+/* Custom theme for Pocket Maneuver callouts */
+.callout[data-callout="maneuver"] {
+    --callout-color: #7a4a00;
+    --callout-icon: rotate-3d;
+}
