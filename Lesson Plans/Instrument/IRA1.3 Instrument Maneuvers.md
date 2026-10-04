@@ -10,7 +10,7 @@ Using an aircraft [[gait chart]] allows us to quickly change between these diffe
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[IRA1.2 Instruments and Attitude Flying]]
-**Schedule:** Ground 0.5 hour, simulator and/or airplane 2.5 hour 
+**Schedule:** Ground 0.5 hr, Sim/Flight 2.5 hr
 
 ### Lesson Elements
 1. [[SRM]] as an instrument pilot

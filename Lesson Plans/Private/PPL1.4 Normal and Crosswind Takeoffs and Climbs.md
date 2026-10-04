@@ -13,7 +13,9 @@ During takeoff, a lot happens in a short period of time. The pilot needs to make
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.2 Four Fundamentals of Flight]]
-**Schedule:** 1 hour ground, 2 hour flight, practice every flight
+**Schedule:** Ground 1.0 hr, Flight 2.0 hr
+
+Practice every flight
 
 ### Lesson Elements
 **Theory**

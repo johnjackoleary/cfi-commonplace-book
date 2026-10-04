@@ -24,7 +24,7 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 - [[PPL2.5 Ground Reference Maneuvers]]
 
 **CFI Equipment:** GPS/Sentry/ADS-B In
-**Schedule:** 1.5 hour ground, 1.5 hours flight
+**Schedule:** Ground 1.5 hr, Flight 1.5 hr
 
 ### Lesson Elements
 #### Traffic Pattern

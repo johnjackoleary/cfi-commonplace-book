@@ -13,7 +13,7 @@ Develop working [[IFR]] knowledge of the airspace system, IFR charts, and approa
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Schedule
-Ground 3.0 hours 
+Ground 3.0 hr
 
 ### Lesson Elements
 1. [[National Airspace System]] and Regulations

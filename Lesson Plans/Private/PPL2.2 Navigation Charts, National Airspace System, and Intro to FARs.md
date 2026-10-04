@@ -18,7 +18,7 @@ This lesson is a long one, because there are a lot of details to cover. But unde
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.5 Towered Airport Operations]]
-**Schedule:** 2 hours ground
+**Schedule:** Ground 2.0 hr
 
 ### Lesson Elements
 1. Terminal (1:250,000 scale) and Sectional (1:500,000 scale) charts

@@ -21,7 +21,9 @@ The 180° power-off approach is executed by gliding with idle power from a given
 - [[PPL3.4 Emergency Landings]]
 
 ### Schedule
-Ground 0.5 hour, Flight 1.5 hour, practice on many flights
+Ground 0.5 hr, Flight 1.5 hr
+
+Practice on many flights
 
 ### Lesson Elements
 ![[Key Position for Power Off 180.jpeg]] 

@@ -19,7 +19,9 @@ Develop knowledge, risk management and skills associated with accelerated stalls
 - [[PPL2.3 Power-On Stalls and Spin Awareness]]
 
 ### Schedule
-0.5-hour ground, 1.0-hour flight, with practice on multiple flights
+Ground 0.5 hr, Flight 1.0 hr
+
+Practice on multiple flights
 
 ### Lesson Elements
 1. Review the aerodynamic principles

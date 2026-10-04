@@ -14,7 +14,7 @@ N/A
 N/A
 
 ### Schedule
-Ground 30 min, Flight ~1hr
+Ground 0.5 hr, Flight 1.0 hr
 
 ### Lesson Elements
 1. Discussion of any questions before the flight

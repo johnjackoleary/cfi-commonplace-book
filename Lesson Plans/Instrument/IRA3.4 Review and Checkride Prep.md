@@ -18,7 +18,7 @@ Review emergency procedures, review knowledge test items, practice and prepare f
 - [[PPL7.1 Review and Checkride Preparation]]
 
 ### Schedule
-Ground 1 hour, Flight 3 hours 
+Ground 1.0 hr, Flight 3.0 hr
 
 ### Lesson Elements
 1. [[WVFC]] specific

@@ -18,7 +18,7 @@ Understand purpose and procedures of a steep spiral. Develop skills required to 
 - [[PPL3.4 Emergency Landings]]
 
 ### Schedule
-Ground 0.5 hours, Flight 2 hours
+Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements
 1. Purpose

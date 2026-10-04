@@ -18,7 +18,9 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL2.1 Slow Flight and Power-Off Stalls]]
-**Schedule:** 1 hour ground, 2 hour flight, with practice on multiple flights
+**Schedule:** Ground 1.0 hr, Flight 2.0 hr
+
+Practice on multiple flights
 
 ### Lesson Elements
 

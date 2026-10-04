@@ -21,7 +21,7 @@ Understand how lost communications under IFR is handled.
 [[IRA2.3 Flight Planning and Communications]]
 
 ### Schedule
-Ground 2 hours, Sim 1 hour
+Ground 2.0 hr, Sim 1.0 hr
 
 ### Lesson Elements
 - Many aspects of IFR clearances and procedures are in case of lost comms
