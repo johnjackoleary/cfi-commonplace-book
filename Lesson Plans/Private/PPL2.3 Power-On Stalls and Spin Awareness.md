@@ -99,6 +99,9 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 	5. Recovering from dive too abruptly, causing secondary stall
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
+> [!maneuver]- 3D Visualizer: Spins
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=spins" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 ### Completion Standards
 Learner must be able to demonstrate power-on stalls, to ACS standards. The client must be able to assess and avoid situations where unintentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentional spins.
 
