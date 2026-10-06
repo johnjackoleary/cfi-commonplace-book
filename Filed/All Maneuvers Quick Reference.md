@@ -11,6 +11,7 @@ tags: [maneuver]
 ### Private Pilot^[Red text is based on the [[Private Pilot ACS]]]
 [[C152 PPL Maneuver Quick Guide.pdf]]
 [[C172S PPL Maneuver Quick Guide.pdf]]
+C172 Steep Turns > 3000' AGL vs MSL
 [[Archer II KTS PPL Maneuver Quick Guide.pdf]]
 [[PA28-236 PPL Maneuver Quick Guide.pdf]]
 

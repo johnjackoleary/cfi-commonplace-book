@@ -22,6 +22,9 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 
 ### Lesson Elements
 #### Slow Flight
+
+Altitude drop isn't really talked about in this, bit of a loss of g force feeling, like a quick elevator starting
+
 1. What is slow flight? Why do we practice this?
 	1. Flight at high [[AOA]], close to [[stall]], or stall warning
 		1. > [!youtube] Published by [University of Iowa](https://www.youtube.com/@universityofiowa)

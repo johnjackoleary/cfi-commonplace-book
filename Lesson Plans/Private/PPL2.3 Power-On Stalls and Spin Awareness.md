@@ -28,15 +28,17 @@ Additionally we'll be talking about spins. You are not required to demonstrate a
 	2. [[CHAPS]]
 	3. Enter slow flight in takeoff configuration
 	4. At [[Vr]], add >65% power
-	5. Pitch up slowly for full stall, establish gentle turn if needed
+	5. Pitch up slowly for full stall, establish gentle turn if requested
 	6. Verbally acknowledge stall horn
 	7. Continue holding pitch to full stall
 	8. Recover: pitch down to normal climb attitude, full power. Climb [[Vy]].
+	9. If there's a wing drop, pick up wing with rudder
 2. Common errors:
 	1. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
 	2. Delay in stall recovery, causing excessive altitude loss or spin entry
 	3. Secondary stall due to aggressive pitch up during recovery
 
+! Power full on bar but power 2400rpm in the text
 > [!maneuver]- 3D Visualizer: Power-On Stall
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=power-on-stall" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
