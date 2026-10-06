@@ -34,7 +34,9 @@ With your training complete, this lesson talks about strategies to prepare for t
 6. Choice of [[DPE]] and location of checkride
 	1. May require DPE to be scheduled months in advance!
 	2. [List from FSDO for 2026](https://www.faa.gov/about/office_org/field_offices/fsdo/sjc/SJC_FSDO_DPE_List.pdf) in the Bay
-7. Practice for oral potion of practical test
+7. Paperwork
+	1. Apply for your Private Pilot License via [IACRA](https://iacra.faa.gov/)
+8. Practice for oral portion of practical test
 	1. Good video, showing DPE’s expectations for checkride, especially the oral portion
 		1. Andy Munnis, DPE: https://www.youtube.com/watch?v=zVE-gIeZUpk
 		2. [[Scott Rohlfing]], DPE: http://attheready.com/from-my-perspective-
@@ -44,9 +46,9 @@ With your training complete, this lesson talks about strategies to prepare for t
 		2. https://pilotworkshop.com/products/checkride-insights-private-pilot/
 	4. Practice oral exams with other students and instructors
 		1. [Rachael Webster](https://www.linkedin.com/in/rachael-hanby-webster-0a650b5/)
-8. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
+9. Practical test maneuvers to practice and polish - [[PPL.D Suggestions for Solo Flight Practice]]
 	1. Also [[All Maneuvers Quick Reference]]
-9. Simulated practical test (optional) with senior CFI
+10. Simulated practical test (optional) with senior CFI
 
 ### Completion Standards
 Client should be able to answer oral questions on all topics listed in the ACS, and be able to fly all flight maneuvers consistently meeting the ACS standards.
