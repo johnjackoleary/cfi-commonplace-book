@@ -1,6 +1,11 @@
 ---
-tags: [ppl, lesson]
-aliases: [PPL.14, SOLO.14, PPL3.3]
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.14
+  - SOLO.14
+  - PPL3.3
 ---
 ### Introduction
 The Forward Slip is a very useful tool in your flying toolbelt. When you find yourself approaching a landing with too much speed, altitude, or both, the forward slip allows you to burn off energy and get yourself positioned for a normal landing. It's also a fun maneuver, because you get to fly a bit sideways!
@@ -39,6 +44,9 @@ This lesson also covers "No-Flap Landings." Although we normally extend flaps fo
 	3. Failure to track the extended centerline
 	4. Failure to go around if the approach becomes unstable
 
+> [!maneuver]- 3D Visualizer: Forward Slip to Landing
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=forward-slip-to-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 #### No Flap Landings
 1. No flap landings may be needed if electrical system fails (in a C152/C172 or similar) or if flaps otherwise fail to deploy
 2. Requires strict energy management to account for less drag available from flaps^[Similar energy management is needed in a [[CPL.3 Power Off 180 Accuracy Approach and Landing|power off 180]], and the tools of [[Flaps, Approach Geometry, Slip]] are similarly useful here]
@@ -47,6 +55,9 @@ This lesson also covers "No-Flap Landings." Although we normally extend flaps fo
 3. Landing attitude will be nose higher than normal to maintain same landing airspeed
 4. > [!tip] More tips on no-flap landings can be found in [this article](https://www.boldmethod.com/blog/learn-to-fly/manuevers/how-to-fly-a-no-flap-landing-pattern-through-touchdown/) from [[Bold Method]]
 5. Approach speeds
+
+> [!maneuver]- 3D Visualizer: No Flap Landing
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=no-flap-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. They must additionally demonstrate energy management while landing without the use of flaps.

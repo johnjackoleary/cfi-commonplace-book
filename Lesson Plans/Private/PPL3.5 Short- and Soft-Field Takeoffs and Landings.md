@@ -21,47 +21,63 @@ Overview of short- and soft-field operations
 - What if a field is both short and soft?
 
 #### Short-Field
-1. Takeoff
-	1. Set flaps according to POH/AFM
-	2. Position flight controls for existing wind conditions
-	3. Taxi into takeoff position using maximum available runway length, and align on runway centerline
-	4. Apply brakes and hold while applying takeoff power, check gauges
-	5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]^[This is not actually Vx, since it is a different airspeed when flaps are out. The correct airspeed to use is typically listed in the Performance Section of the [[POH]].]
-	6. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
-	7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
-	8. Here's how **NOT** to do it: 
-	   > [!youtube] [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)
-	   > ![](https://www.youtube.com/watch?v=xXz7UyPTytE)
+##### Short-Field Takeoff
+1. Set flaps according to POH/AFM
+2. Position flight controls for existing wind conditions
+3. Taxi into takeoff position using maximum available runway length, and align on runway centerline
+4. Apply brakes and hold while applying takeoff power, check gauges
+5. Release brakes, accelerate with POH recommended pitch technique, rotate at recommended [[IAS]], and accelerate to and climb at [[Vx]]^[This is not actually Vx, since it is a different airspeed when flaps are out. The correct airspeed to use is typically listed in the Performance Section of the [[POH]].]
+6. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
+7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
 
-2. Landing
-	1. Complete pre-landing checklist ([[GUMPS]])
-	2. Identify touchdown target (200' zone for Private Pilot; 100' zone for Commercial Pilot)
-	3. Establish [[POH]]-recommended approach configuration and airspeed, adjust pitch and power as required
-	4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference)
-	5. Aim for a point 200-300 feet short of target ([[Stabilized Approach.jpeg]])
-	6. If you're not stabilized, **go around**
-	7. Touch down smoothly at or beyond target, with minimal float, at or within 200 feet (PPL) or 100' (CPL) beyond the specified touchdown point
-	8. Raise flaps, apply brakes and elevator back-pressure as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
+> [!maneuver]- 3D Visualizer: Short-Field Takeoff
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=short-field-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+   
+
+##### Short-Field Landing
+1. Complete pre-landing checklist ([[GUMPS]])
+2. Identify touchdown target (200' zone for Private Pilot; 100' zone for Commercial Pilot)
+3. Establish [[POH]]-recommended approach configuration and airspeed, adjust pitch and power as required
+4. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[gust factor]] (add half of gust difference)
+5. Aim for a point 200-300 feet short of target ([[Stabilized Approach.jpeg]])
+6. If you're not stabilized, **go around**
+7. Touch down smoothly at or beyond target, with minimal float, at or within 200 feet (PPL) or 100' (CPL) beyond the specified touchdown point
+8. Raise flaps, apply brakes and elevator back-pressure as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
+
+> [!maneuver]- 3D Visualizer: Short-Field Landing
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=short-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Soft-Field
 1. [[Ground Effect]], [[Wingtip Vortex]], and [[Induced Drag]]
 	1. What actually is happening aerodynamically in ground effect?
-2. Takeoff
-	1. Set flaps according to POH/AFM
-	2. Position flight controls for existing wind conditions
-	3. Elevator aft for light nose wheel
-	4. Taxi into takeoff position without stopping, with smooth power application for takeoff
-	5. Establish pitch attitude to rapidly transfer weight from wheels to wings
-	6. Lift off at lowest possible airspeed, accelerate to [[Vx]] or [[Vy]] in [[Ground Effect]]
-		1. > [!question] What if you try to climb too early?
-	7. Establish pitch attitude and airspeed for [[Vx]] or [[Vy]] climb
-	8. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
-3. Landing
-	1. Complete pre-landing checklist ([[GUMPS]])
-	2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
-	3. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[Gust Factor]] (add half of gust difference) +10/-5 knots
-	4. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushion descent and touchdown. ([[Stabilized Approach.jpeg]])
-	5. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions.  Brakes may not be required. Power may be used to keep from bogging down, and to keep the nose wheel unweighted.
+
+##### Soft-Field Takeoff
+1. Set flaps according to POH/AFM
+2. Position flight controls for existing wind conditions
+3. Elevator aft for light nose wheel
+4. Taxi into takeoff position without stopping, with smooth power application for takeoff
+5. Establish pitch attitude to rapidly transfer weight from wheels to wings
+6. Lift off at lowest possible airspeed, accelerate to [[Vx]] or [[Vy]] in [[Ground Effect]]
+	1. > [!question] What if you try to climb too early?
+7. Establish pitch attitude and airspeed for [[Vx]] or [[Vy]] climb
+8. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
+
+> [!maneuver]- 3D Visualizer: Soft-Field Takeoff
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=soft-field-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+##### Soft-Field Landing
+1. Complete pre-landing checklist ([[GUMPS]])
+2. Establish POH-recommended approach and landing configuration (flaps) and airspeed
+3. Maintain stabilized approach and recommended airspeed (not more than 1.3Vso), applying [[Gust Factor]] (add half of gust difference) +10/-5 knots
+4. Make smooth roundout and flare, with minimum sink rate. Use power as necessary to cushion descent and touchdown. ([[Stabilized Approach.jpeg]])
+5. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions.  Brakes may not be required. Power may be used to keep from bogging down, and to keep the nose wheel unweighted.
+
+> [!maneuver]- 3D Visualizer: Soft-Field Landing
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=soft-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+> [!question] What's correct and what's incorrect about this?
+> > [!youtube] [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)
+> > ![](https://www.youtube.com/watch?v=xXz7UyPTytE)
 
 ### Completion Standards
 Client should demonstrate ability to perform short- and soft-field takeoffs and landings to ACS standards.

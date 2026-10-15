@@ -1,6 +1,11 @@
 ---
-tags: [ppl, lesson]
-aliases: [PPL.24, XC.9, PPL5.3]
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.24
+  - XC.9
+  - PPL5.3
 ---
 
 ### Introduction
@@ -107,8 +112,11 @@ On the checkride, you will need to demonstrate some of these.  But in real life
 	- Door or window opens in flight
 		- Not an emergency. Close it, or land normally.
 
+> [!maneuver]- 3D Visualizer: Emergency Descent
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=emergency-descent" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
-NASA report?
+> [!maneuver]- 3D Visualizer: Emergency Descent (Engine Fire)
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=emergency-descent-engine-fire" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Key Procedures in Emergencies
 These are the emergency procedures referenced in the section above.
@@ -136,6 +144,7 @@ These are the emergency procedures referenced in the section above.
 3. [[Intercept Procedures]]
 4. Ballistic parachutes
 5. Auto-land systems and Garmin Smart Glide
+6. NASA Reports ([[ASRS]])
 
 > [!tip] Checkride Tip
 > On the checkride, the examiner wants to see you demonstrate a *Forced Landing* and an *Emergency Descent*.  They'll trigger these scenarios by saying something like:
