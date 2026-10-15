@@ -20,14 +20,14 @@ In this lesson we cover all the ways in which night flying is different, includi
 	1. Navigation lights required sunset-to-sunrise ([[FAR 91.209 Aircraft Lights|§ 91.209]])
 	2. Logging night flight -- after civil twilight ([[Night - For Logging Time]])
 	3. Night currency for carrying passengers -- 3 takeoffs and (fullstop) landings within 90 days, >1 hour after sunset ([[FAR 61.57 Recent Flight Experience|§ 61.57]])
-3. Stop-and-goes
+3. Stop-and-goes vs touch-and-goes
 
 **Bay Area local information**
 1. [[Palo Alto Airport|KPAO]] reverts to Class G, which means only right traffic on 31^[[[FAR 91.126 Class G Airspace Ops Near Airport]]] when tower closed
 2. Many airports have unique noise abatement procedures at night
-3. PAO weather at night
-4. Moffett airspace
-5. Tower and ground together on ATC
+3. Weather at night, especially over Sunol
+4. Moffett airspace LOA not in effect
+5. Tower and ground often combined on ATC
 
 **Aircraft lighting and night equipment**
 1. Anti-collision lights -- strobes and/or beacon -- (required day or night, per [[FAR 91.209 Aircraft Lights|§ 91.209]])

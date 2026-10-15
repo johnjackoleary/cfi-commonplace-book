@@ -23,8 +23,7 @@ Details on each runway can be found in the [[Chart Supplement]].
 ### Taxiway
 - Taxiway Edge Lights, Taxiway Centerline Lights
 	- > [!example]- By <a href="https://commons.wikimedia.org/wiki/File:ATL_TWY_B_-_RWY_Crossing_(13534655025).jpg">John Murphy</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
-	- fix
-	> <a title="John Murphy, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:ATL_TWY_B_-_RWY_Crossing_(13534655025).jpg"><img alt="ATL TWY B - RWY Crossing (13534655025)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ATL_TWY_B_-_RWY_Crossing_%2813534655025%29.jpg/512px-ATL_TWY_B_-_RWY_Crossing_%2813534655025%29.jpg?20141024174425"></a>
+	> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/ATL_TWY_B_-_RWY_Crossing_%2813534655025%29.jpg/1280px-ATL_TWY_B_-_RWY_Crossing_%2813534655025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></img>
 - Taxiway Centerline Lead-Off/On, Clearance Bar, Runway Guard, Stop Bar Lights ([[SMGCS#^image|diagram]])
 
 > [!tip] See [Taxiway Lighting](https://pilotinstitute.com/taxiway-lighting/) from [[Pilot Institute]] for significantly more details

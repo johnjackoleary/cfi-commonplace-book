@@ -26,7 +26,7 @@
 1. Characteristics of a gyroscope - precession and rigidity in space
 2. Vacuum Driven
 	1. Attitude Indicator
-	2. Directional Gyro (Heading Indicatro)
+	2. Directional Gyro (Heading Indicator)
 3. Electrically Driven
 	1. Turn Coordinator
 
