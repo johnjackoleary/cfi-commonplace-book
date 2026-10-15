@@ -25,7 +25,7 @@ Hood or foggles
 4. Trim for level flight, and use fingertip control.  Resist the urge to over-control.  Experiment with letting go of the controls, watching the airplane's behavior, and correcting with trim.
 5. Use autopilot if available.
 6. All turns, climbs, and descents should be very gradual (no more than 10° bank, 2.5° pitch up or down)
-7. Read IFH Chapter 7 for more pro tips
+7. Read [[IFH]] Chapter 7 for more pro tips
 
 **The Continuous Instrument Scan**
 1. Control/performance instruments vs. primary/supporting instruments
@@ -59,7 +59,7 @@ Hood or foggles
 	1. Don't combine with climb/descent-- too complicated
 	2. Aim for a standard-rate turn
 	3. On roll-in, use instrument scan to maintain altitude
-	4. Be aware of compass errors: NOSE etc.
+	4. Be aware of compass errors: [[NOSE]] etc.
 
 **Common errors**
 1. Spatial disorientation (see [[Illusions Leading to Spatial Disorientation]])

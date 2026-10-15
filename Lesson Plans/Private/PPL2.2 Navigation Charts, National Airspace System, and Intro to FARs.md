@@ -28,7 +28,7 @@ This lesson is a long one, because there are a lot of details to cover. But unde
 	1. Types of airspace -- Class A, B, C, D, E, G
 	2. [[FAR 91.155 VFR Weather Minimums]] (see memory aid documents in [table form](https://www.faasafety.gov/files/gslac/courses/content/25/185/vfr%20weather%20minimums.pdf), [[VFR Weather Minimums List Memory Aid|list form]], and [[Cloud Clearance Pyramid.jpeg|pyramid form]])
 	3. Required equipment for each Airspace
-		1. https://www.faa.gov/sites/faa.gov/files/air_traffic/technology/equipadsb/research/airspaceRequirements.jpg
+		1. https://www.faa.gov/sites/faa.gov/files/air_traffic/technology/equipadsb/research/airspaceRequirements.jpg clean up
 		2. https://www.aopa.org/-/media/Files/AOPA/Home/Pilot-Resources/ASI/various-safety-pdfs/airspace2011.pdf
 	4. Altitudes for cruise flight ([[FAR 91.159 VFR Altitudes]])
 	5. Minimum altitudes ([[FAR 91.119 Minimum Altitudes]])

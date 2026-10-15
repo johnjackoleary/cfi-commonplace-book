@@ -10,7 +10,7 @@
 
 **Authorization for Completing WINGS Phases.** An FPM or authorized instructor may endorse the pilot’s logbook upon issuance of a phase of WINGS (as verified by a review of the airman’s WINGS completion certificate) as follows:
 
-*“I certify that (pilot’s name), holder of pilot certificate No. XXXXX, has satisfactorily completed a phase of the WINGS Pilot Proficiency Program on (date) as outlined in the current edition of Advisory Circular (AC) 61-91, WINGS pilot Proficiency Program, which meets the requirements for a flight review as specified in § 61.56(e).”*
+I certify that \[First name, MI, Last name\], \[grade of pilot certificate\], \[certificate number\], has satisfactorily completed Level: \[Basic/Advanced/Master, as appropriate\], PHASE NO. \[..\] OF A WINGS PROGRAM ON \[DATE\].
 
 *“Instructor Name, Certificate Number, Expiration Date, and Signature”*
 

@@ -34,7 +34,7 @@ A pilot is expected to understand all of the systems in the aircraft they fly: h
 		3. Fuel injected vs carburetor
 			1. Priming
 			2. Carb heat use, [[How and Why Carburetor Ice Forms]], and [[Carb Heat Demystified|why Piper and Cessna differ in use]]
-		4. Usable and unusable fuel
+		4. [[Usable]] and [[unusable fuel]]
 	9. Oil ([Aircraft Systems - 06 - Oil System](https://www.youtube.com/watch?v=cWDCXFwPLIs))
 		1. Lubrication, Cleaning, Cooling, Sealing
 4. Electrical System ([Aircraft Systems - 08 - Electrical System](https://www.youtube.com/watch?v=d5sXmNplQHw) from [[ERAU SpecialVFR]])

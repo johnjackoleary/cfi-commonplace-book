@@ -107,10 +107,13 @@ On the checkride, you will need to demonstrate some of these.  But in real life
 	- Door or window opens in flight
 		- Not an emergency. Close it, or land normally.
 
+
+NASA report?
+
 #### Key Procedures in Emergencies
 These are the emergency procedures referenced in the section above.
 
-1. *Emergency Descent*
+1. *Emergency Descent (Engine Fire)*
 	- Goal is to rapidly descend for emergency landing, and possibly put the fire out.
 	- **(POH)**
 		- Cut off fuel flow
