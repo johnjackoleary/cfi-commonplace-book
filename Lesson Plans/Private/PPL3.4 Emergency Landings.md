@@ -1,6 +1,11 @@
 ---
-tags: [ppl, lesson]
-aliases: [PPL.15, SOLO.15, PPL3.4]
+tags:
+  - ppl
+  - lesson
+aliases:
+  - PPL.15
+  - SOLO.15
+  - PPL3.4
 ---
 ### Introduction
 Although it's extremely unlikely, pilots constantly consider the possibility of emergencies that could require a forced landing or precautionary landing. A **forced landing** is the result of a complete loss of engine power-- the pilot needs to choose a landing location, glide there, and manage energy for a controlled landing. A **precautionary landing** assumes you have engine power, but need to put the plane down soon for a variety of reasons. In either case, you'll be practicing a procedure so that these emergencies feel routine, and you're prepared to execute without panic. You'll also practice gliding the plane from altitude all the way to a landing, without power, which is very empowering!
@@ -10,6 +15,13 @@ Although it's extremely unlikely, pilots constantly consider the possibility of 
 **Schedule:** 1 hour ground, 2 hour flight, frequent practice on multiple flights
 
 ### Lesson Elements
+
+> [!maneuver]- 3D Visualizer: Engine Failure at Altitude
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=engine-failure-at-altitude" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+> [!maneuver]- 3D Visualizer: Engine Failure from Key Position
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=engine-failure-from-key-position" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. [[FAR 91.3 PIC Responsibility and Authority]]:
 	1. > [!cite] In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet that emergency.
 2. Types of emergency landings: [[Forced Landing]], [[Precautionary Landing]], [[Ditching]]

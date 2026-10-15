@@ -51,7 +51,7 @@ GPS/Sentry/ADS-B In
 ![[Rectangular Course.jpeg]]
 1. Select suitable reference
 2. Enter 45° to the downwind leg, left or right traffic
-3. Aim for 1/4-1/2 mile from reference, account for wind
+3. Aim for 1/4-1/2 mile from reference; account for wind
 4. Turn crosswind from downwind when you are abeam the crosswind reference line
 5. This maneuver simulates flying the traffic pattern
 

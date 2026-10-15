@@ -92,7 +92,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	2. Clearing Turns, ID Emergency Field, Outside Reference ([[CHAPS]])
 	3. Enter slow flight in landing configuration
 	4. Descend at approach speed
-	5. Pitch up slowly for full stall
+	5. Pitch up slowly for full stall, establish gentle turn if requested
 	6. Verbally acknowledge stall horn
 	7. Continue holding pitch to full stall
 	8. Recover: pitch down just below horizon, full power, raise flaps one notch, then incrementally up. Climb [[Vy]].

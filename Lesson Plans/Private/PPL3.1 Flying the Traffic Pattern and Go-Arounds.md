@@ -101,6 +101,9 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	2. Lack of situation awareness or awareness of other traffic
 	3. Improper radio usage, forgetting radio calls at non-towered airports
 
+> [!maneuver]- 3D Visualizer: Traffic Pattern
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=traffic-pattern" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 #### Go-Arounds
 1. Situations requiring a go-around
 	1. Be prepared constantly for go-around. Every landing is a potential go-around! Go-around sooner, rather than later. Don't let things get out of hand!

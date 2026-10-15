@@ -56,6 +56,15 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	2. Remember, some aircraft don't have radios
 	3. If you don't know a local landmark or procedure, just say "unfamiliar"!
 
+> [!maneuver]- 3D Visualizer: Pattern Entry (45°)
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+> [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, Teardrop)
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-teardrop" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+> [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, Direct)
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-direct" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 #### At the Airport
 1. Possibly overfly before landing
 	1. Airport markings

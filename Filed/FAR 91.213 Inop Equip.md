@@ -11,6 +11,8 @@ tags:
 
 ![[Inop Equipment Flow Chart without MEL.jpeg]]
 
+> [!warning] This image is from the older [[AC 91-67]], although it captures the current [[FAR 91.213 Inop Equip|FAR 91.213]] flow.
+
 ***Additional Info***: https://pilot-protection-services.aopa.org/news/2017/october/01/inoperative-equipment from [[AOPA]], [[AC 91-67]], [[AD]], [[FAR 91.205 Instrument and Equipment Requirements]]
 ***Additional Resources***: https://www.reddit.com/r/flying/comments/8b4caw/91213_inoperative_equipment_flow_chart/, http://www.niceairaviation.com/Documents/MEL%20flow%20chart.pdf, https://flywithhoward.com/wp-content/uploads/2014/12/Understanding-Airworthiness-Rev-5-2022.pdf
 

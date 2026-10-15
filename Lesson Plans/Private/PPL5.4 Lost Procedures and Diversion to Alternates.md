@@ -41,6 +41,7 @@ But we have a procedure to follow for each of these.  Let's look at them.
 		3. Distances / Time Estimate
 			1. Some folks memorize how long the distance from their thumb to index finger is in NM on the sectional/TAC
 			2. Use of the notches along a line of longitude also gives NM at a glance
+			3. VOR radius pretty quick
 		4. Fuel Estimate
 			1. Use a worst case fuel burn to find the fuel required
 			2. Compare to your fuel remaining, either from your navlog or using the fuel gauges.
