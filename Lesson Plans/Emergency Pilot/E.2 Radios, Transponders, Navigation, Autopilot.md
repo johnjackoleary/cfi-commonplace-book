@@ -12,7 +12,9 @@ Learner understands the systems and infrastructure available to help in an emerg
 [[E.1 Flight Controls and Instruments, Approaches to Landing]]
 
 ### Schedule
-1hr ground, 2hr sim in G1000
+Ground 1.0 hr, Sim 2.0 hr
+
+Sim in G1000
 
 ### Lesson Elements
 - Radios and Transponders

@@ -12,7 +12,9 @@ Cross-country flight planning relies on an accurate assessment not only of curre
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.3 Weather Briefs and Preflight Planning]]
-**Schedule:** Ground 1.5 hour, practice on multiple flights
+**Schedule:** Ground 1.5 hr
+
+Practice on multiple flights
 
 > [!note] 
 > Can be completed at the same time as with [[PPL4.6 Pilotage and Dead Reckoning]].

@@ -17,7 +17,7 @@ Develop proficiency in flying holding patterns, including recommended entry proc
 - [[IRA1.5 Satellite Navigation]]
 
 ### Schedule
-Ground 1.5 hour, simulator and/or airplane, 1.5 hours 
+Ground 1.5 hr, Sim/Flight 1.5 hr
 
 ### Lesson Elements
 1. [[Holding Procedures]]

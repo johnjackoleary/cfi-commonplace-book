@@ -19,7 +19,7 @@ Develop proficiency in flying [[RNAV]] (GPS) approaches, and demonstrate underst
 - [[IRA2.2 Instrument Approach Fundamentals]]
 
 ### Schedule
-Ground 30m, Sim/airplane – 2.5 hours 
+Ground 0.5 hr, Sim/Flight 2.5 hr
 
 ### Lesson Elements
 

@@ -10,7 +10,7 @@ In this lesson we cover all the ways in which night flying is different, includi
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL1.5 Towered Airport Operations]], [[PPL2.2 Navigation Charts, National Airspace System, and Intro to FARs]], [[PPL4.6 Pilotage and Dead Reckoning]]
-**Schedule:** Ground 1 hour, flight 3 hours
+**Schedule:** Ground 1.0 hr, Flight 3.0 hr
 
 ### Lesson Elements
 

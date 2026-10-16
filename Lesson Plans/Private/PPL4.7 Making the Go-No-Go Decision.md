@@ -13,7 +13,7 @@ But often it's 'maybe', which is the hardest situation to sort through. In this 
 
 **Pre-Lesson Reading/Homework:** [[~ PPL Pre-Lesson Reading]]
 **Builds On:** [[PPL4.2 Advanced Airport Operations|PPL 4.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL 4.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|PPL 4.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning| PPL 4.5]], [[PPL4.6 Pilotage and Dead Reckoning|PPL 4.6]]
-**Schedule:** Ground 1 hours
+**Schedule:** Ground 1.0 hr
 
 ### Lesson Elements
 1. Review the navlog prepared as homework

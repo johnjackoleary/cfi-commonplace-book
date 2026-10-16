@@ -5,7 +5,7 @@ aliases: [XC.1, PPL4.1]
 ### Introduction
 Now that you've soloed, we're going to start working on cross-country ([[XC]]) flying.  "Cross country" just refers to a flight that starts at point A and ends at point B.  Point B could be a lunch stop a half hour away, or a vacation destination where you're carrying friends and luggage.  In all these cases, cross-country flights add a new dimension to flying, and require the pilot to be familiar with many more subjects and procedures.
 
-**Schedule:** Ground 0.5 hours
+**Schedule:** Ground 0.5 hr
 
 ### Lesson Elements
 #### Cross Country Overview

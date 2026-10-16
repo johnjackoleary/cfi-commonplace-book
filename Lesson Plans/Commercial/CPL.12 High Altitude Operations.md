@@ -17,7 +17,7 @@ Demonstrate satisfactory knowledge, risk management, and skills for flight at hi
 None
 
 ### Schedule
-Ground 1 hour
+Ground 1.0 hr
 
 ### Lesson Elements
 1. Physiological factors ([[Human Factors]])
