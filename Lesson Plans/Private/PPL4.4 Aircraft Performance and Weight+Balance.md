@@ -44,7 +44,7 @@ Most airplane POHs have the same chapter subjects in the same order. It is very 
 Can this airplane land on that short runway? Can it climb over that mountain? The POH contains tables and charts to help the pilot compute the answers to these and other critical questions.
 
 1. Takeoff and landing distances for ground roll and obstacle clearance
-	1. What if not using the 10° of flaps?
+	1. What if not using 10° of flaps?
 2. Rate of climb and time to climb
 3. Impact of [[Density Altitude]] ([[Hot, High, and Heavy]]) on takeoff and climb performance
 4. Power settings for cruise, airspeed and fuel burn

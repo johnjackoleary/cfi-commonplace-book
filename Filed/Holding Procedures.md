@@ -1,6 +1,6 @@
 # Key Takeaways
 - Holds are used in several areas of IFR flying
-- Standard holds are right turns with a 1 minute inbound leg
+- Standard holds are right turns with a 1-minute inbound leg^[below 14000' MSL]
 - Hold entries are either teardrop, parallel, or direct
 
 # Details

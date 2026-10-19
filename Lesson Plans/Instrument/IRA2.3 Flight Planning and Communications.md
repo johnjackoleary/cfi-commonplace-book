@@ -93,7 +93,7 @@ Ground 3.0 hr
 	7. As Filed
 	8. Departure Restrictions ([[AIM 5]]-2-7)
 		1. Clearance void time 
-		2. Advise period if missed clearance void time (no more than 30 min after clearance void)
+		2. Advise ASAP if missed clearance void time (ATC assigned limit, but no more than 30 min after clearance void)^[After limit, [[SAR]] begins]
 		3. Hold for release 
 		4. Release Time
 		5. [[EDCT]] (depart no earlier than 5 min before and no later than 5 min after)

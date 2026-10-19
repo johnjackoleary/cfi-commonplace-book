@@ -61,7 +61,7 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	5. "Make a left 360 for spacing"
 	6. "Number 3 behind a Cessna turning right base; Cleared to land runway 27"
 5. Common terms you'll use to describe your own location on the radio:
-	1. "On the (right?) 45"
+	1. "On the 45"
 	2. "Right downwind"
 	3. "Right base"
 	4. "Final"
