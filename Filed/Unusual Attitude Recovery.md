@@ -1,3 +1,9 @@
+# Key Takeaways
+- Power through blue; power down brown
+- Nose high concerned with stall
+- Nose low concerned with spiral
+
+# Details
 > [!youtube] Published by [@SmithsonianChannel](https://www.youtube.com/@SmithsonianChannel)
 > ![](https://www.youtube.com/watch?v=-P-3Kl1P0as)
 
@@ -18,7 +24,7 @@
 	3. TC shows turn
 	4. Recovery:
 		1. Power-Pitch-Bank (must become 2nd nature!)
-		2. Full-power - Pitch Down - Level Wings
+		2. Add Power - Pitch Down - Level Wings
 4. Recognize **nose-low unusual attitude**
 	1. ASI fast or increasing rapidly
 	2. VSI negative rate, altimeter shows descent
@@ -30,3 +36,8 @@
 	1. Failure to recognize unusual attitude
 	2. Dependency on senses other than instrument indications (succumbing to [[Illusions Leading to Spatial Disorientation|spatial disorientation]])
 	3. Failure to use proper recovery sequence
+
+# Additional Resources
+- [[Illusions Leading to Spatial Disorientation]]
+
+#concept

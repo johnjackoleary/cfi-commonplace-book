@@ -49,8 +49,9 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 		1. Yoke^[weight on controls], kneeboard^[head motion down], suction^[obscures peripheral vision]
 		2. Turbulence
 	4. Chart and database currency
-		1. Every 56 days (8 weeks)
-		2. [[FAA]] vs. [[Jeppesen]]
+		1. Nav databases and d-TPP every 28 days
+		2. Charts and sectionals every 56 days
+		3. [[FAA]] vs. [[Jeppesen]]
 3. Plan for required checkouts, as needed
 	1. [[Suggested Aircraft Checkout Process|Aircraft Checkout]]
 	2. [[~ G1000 Lesson Plan Outline|G1000 Checkout]]

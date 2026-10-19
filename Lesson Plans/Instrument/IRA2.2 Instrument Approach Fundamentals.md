@@ -22,15 +22,19 @@ Ground 1.5 hr, Sim 1.5 hr
 ### Lesson Elements
 > [!tip] [KSCK ILS or LOC 29R](https://cfijack.com/latest-plate-redirect/?plate=00407IL29R.PDF) and [KSCK RNAV 11L](https://cfijack.com/latest-plate-redirect/?plate=00407R11L.PDF), in that order, are good for introducing key ideas from this lesson
 
-1. Precision vs. Non Precision
+1. Precision vs. APV vs. Non-Precision
 	1. Precision
 		1. [[ILS]] 
 		2. [[PAR]] 
-		3. GPS [[LPV]] (technically not a precision approach, but included here because of similarity^[This is not a precision approach because it does not require the same equipment available to transition from IMC to VMC, namely things like the [[ALS]]. Good video on this topic from [[The Finer Points]] is viewable [here](https://www.youtube.com/watch?v=w1a-9KOdxQY).])
+	2. Approach with Vertical Guidance ([[APV]])
+		1. GPS [[LPV]]
+		2. LNAV/VNAV
+		3. Flown similar to a precision approach^[There's a more technical and definitional reason it isn’t one (AIM 5-4-5a7), but it's also worth considering equipment available to transition from IMC to VMC, namely things like the ALS. Good third-party video on this topic from [[The Finer Points]] is viewable [here](https://www.youtube.com/watch?v=w1a-9KOdxQY).]
 		4. Fly to a [[DA]]
-	2. Non-Precision
+	4. Non-Precision
 		1. Lateral Guidance Only
 		2. Fly to a Minimum Descent Altitude ([[MDA]])
+		3. Still non-precision even if advisory glidepath (e.g. LNAV+V)
 2. Use of BOTH written and mental checklists 
 	1. Use mental checklists and flow patterns 
 	2. Double check and back-up with written checklists 

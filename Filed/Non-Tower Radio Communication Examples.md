@@ -34,7 +34,7 @@ This is meant to inform local traffic where you are and that you're intending to
 This is meant to tell local traffic where you are, and how you'll enter the pattern.
 
 ## Crossing Overhead
-> <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, overhead at two thousand two hundred feet, teardrop to enter the left forty-five runway two zero, Watsonville"</span>
+> <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, overhead at two thousand two hundred feet, teardrop to enter the forty-five runway two zero, Watsonville"</span>
 
 You may also say "turning downwind" instead of "teardrop", depending on your entry method.
 
@@ -50,7 +50,7 @@ You may also say "turning downwind" instead of "teardrop", depending on your ent
 ### Entering the 45
 For a teardrop, after flying outbound for about 2 miles, and descending to pattern altitude, on the 45 entry
 
-> <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, left forty five runway two zero, Watsonville"</span>
+> <span class="comm-text">"Watsonville traffic, Cessna Tango India Sierra, joining the forty five runway two zero, Watsonville"</span>
 
 > [!note]
 > If you are on the 45 or downwind, you are assumed to be at pattern altitude, unless you call out something different.

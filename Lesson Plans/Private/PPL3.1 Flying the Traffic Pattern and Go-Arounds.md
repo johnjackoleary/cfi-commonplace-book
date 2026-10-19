@@ -61,7 +61,7 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	5. "Make a left 360 for spacing"
 	6. "Number 3 behind a Cessna turning right base; Cleared to land runway 27"
 5. Common terms you'll use to describe your own location on the radio:
-	1. "On the right 45"
+	1. "On the 45"
 	2. "Right downwind"
 	3. "Right base"
 	4. "Final"
@@ -89,7 +89,7 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 8. [[Palo Alto Airport|Palo Alto]] specifics worth knowing
 	1. Pattern altitude: 800' on east side, 1000' on west side
 	2. Entering Pattern
-		1. Visual Reporting points for calling in to KPAO: [[SLAC]], Woodside [[VOR]], Windy Hill, Leslie Salt, Coyote Hills, Sunol Pass, etc....
+		1. Visual Reporting points for calling in to KPAO: [[SLAC]], Woodside [[VOR]], Lake Elizabeth, Leslie Salt, Coyote Hills, Sunol Pass, etc....
 		2. Approaching from west: maintain 1500' until crossing 101 freeway
 		3. Typically enter on 45° downwind, unless told otherwise by tower
 	3. Leaving the Pattern

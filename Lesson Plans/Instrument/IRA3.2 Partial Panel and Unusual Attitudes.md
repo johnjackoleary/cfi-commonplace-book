@@ -33,7 +33,7 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 		5. Compass turns ([[ANDS]], [[UNOS]] mnemonic)
 	2. Electrical failure – loss of T/C and rate-based autopilots 
 		1. Use A/I and DG to replace turn coordinator 
-		2. Bank angle for standard rate turn: 5 kts + airspeed/10 (120 knots requires 17°s bank angle) 
+		2. Bank angle for standard rate turn: 15% of TAS, or TAS/10 plus half that amount (120 knots requires 12+6=8°s bank angle) 
 	3. Blocked pitot or static system, affecting A/S, VSI, altimeter 
 		1. Alternate static source
 		2. Pitot heat^[Good example from [this](https://www.youtube.com/watch?v=lZPDfZArP_Q) video]

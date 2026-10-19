@@ -76,7 +76,7 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 		3. Change wing loading
 			1. ![[CL and CG and Tail Down Force.jpeg]]
 			2. weight, [[CG]], [[Load Factor]], bank angle, gear
-	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Platforms.svg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
+	5. Our airplane stalls from the inside back ([[Stall Progression for Various Wing Planforms.svg|regular wing]]), but still ailerons will be less effective in a stall^[See [How Wing Washout Makes Your Airplane More Stable](https://www.boldmethod.com/learn-to-fly/aircraft-systems/how-wing-washout-makes-your-airplane-and-wings-more-stable-when-flying/) for additional info.]
 2. Situations where risk of stalls increase
 	1. Landing approach, especially skidding base to final turn
 	2. Climb-out, trying to clear an obstacle, especially at high density altitude
@@ -102,8 +102,8 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	3. Unintentional stall
 	4. Improper use of trim
 	5. Not maintaining rudder coordination, causing wing to drop during stall, entering spin!
-	2. Delay in stall recovery, causing excessive altitude loss or spin entry
-	3. Secondary stall due to aggressive pitch up during recovery
+	6. Delay in stall recovery, causing excessive altitude loss or spin entry
+	7. Secondary stall due to aggressive pitch up during recovery
 
 > [!maneuver]- 3D Visualizer: Power-Off Stall
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>

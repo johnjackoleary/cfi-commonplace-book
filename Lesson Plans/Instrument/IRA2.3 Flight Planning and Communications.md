@@ -32,7 +32,7 @@ Ground 3.0 hr
 7. Flight plan forms and filing
 	1. [Equipment codes](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide) on [[ForeFlight]]
 8. Obtaining clearance
-	1. Clearance available 30min before departure time and 120min after
+	1. Clearance typically available 30min before departure time and 120min after
 	2. Procedures for activating and closing IFR flight plans
 9. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
 10. Common errors 
@@ -92,12 +92,13 @@ Ground 3.0 hr
 	6. [[VFR-On-Top]] ([[AIM 4]]-4-8)
 	7. As Filed
 	8. Departure Restrictions ([[AIM 5]]-2-7)
-		1. Clearance void time (don’t exceed 30min)
-		2. Hold for release 
-		3. Release Time
-		4. [[EDCT]] (depart no earlier than 5 min before and no later than 5 min after)
-		5. Include runway in clearance request
-		6. Good to mention use of [[ODP]] if unclear
+		1. Clearance void time 
+		2. Advise ASAP if missed clearance void time (ATC assigned limit, but no more than 30 min after clearance void)^[After limit, [[SAR]] begins]
+		3. Hold for release 
+		4. Release Time
+		5. [[EDCT]] (depart no earlier than 5 min before and no later than 5 min after)
+		6. Include runway in clearance request
+		7. Good to mention use of [[ODP]] if unclear
 	9. What if I don’t like the clearance? ([[AIM 4]]-4-4)
 	10. Deviation - Emergency or [[TCAS]] alert
 5. ATC Approach Clearances ([[PTAC]])

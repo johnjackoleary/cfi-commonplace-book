@@ -52,9 +52,10 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	5. Parallel runway operations (see [[AIM 4-3]]) require extra care 
 		1. ![[Parallel Runway Traffic.svg]]
 5. Make your radio calls
-	1. [[Non-Tower Radio Communication Examples]]
-	2. Remember, some aircraft don't have radios
-	3. If you don't know a local landmark or procedure, just say "unfamiliar"!
+	1. Figuring out where you are relative to the airport
+	2. [[Non-Tower Radio Communication Examples]]
+	3. Remember, some aircraft don't have radios
+	4. If you don't know a local landmark or procedure, just say "unfamiliar"!
 
 > [!maneuver]- 3D Visualizer: Pattern Entry (45°)
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>

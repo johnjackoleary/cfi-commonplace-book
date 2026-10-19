@@ -60,6 +60,7 @@ Hood or foggles
 3. Turns (IFH 7-19)
 	1. Don't combine with climb/descent-- too complicated
 	2. Aim for a standard-rate turn
+		1. How to check this on your avionics?
 	3. On roll-in, use instrument scan to maintain altitude
 	4. Be aware of compass errors: [[NOSE]] etc.
 

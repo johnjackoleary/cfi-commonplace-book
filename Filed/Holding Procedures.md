@@ -1,6 +1,6 @@
 # Key Takeaways
 - Holds are used in several areas of IFR flying
-- Standard holds are right turns with 1 minute (green needle) or 4 nm (DME/GPS) legs
+- Standard holds are right turns with a 1-minute inbound leg^[below 14000' MSL]
 - Hold entries are either teardrop, parallel, or direct
 
 # Details
@@ -31,7 +31,7 @@
 	5. Or as depicted/given by ATC
 
 > [!note] 
-> Holding "on" a radial gives you the outbound heading, but you'll be flying inbound on it's reciprocal, the inbound course
+> Holding "on" a radial gives you the outbound heading, but you'll be flying inbound on its reciprocal, the inbound course
 
 ## Hold Entries
 | ![[Holding Pattern Entry Procedures.png]] | 

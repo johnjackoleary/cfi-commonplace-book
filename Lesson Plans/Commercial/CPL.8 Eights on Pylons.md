@@ -39,7 +39,7 @@ Ground 0.5 hr, Flight 2.0 hr
 	2. Determine PA to use for downwind entry to figure eight pattern, and practice maintaining PA while circling a single pylon.
 6. Flying the maneuver
 	1. Configure and set power for ~100 knots (see [[All Maneuvers Quick Reference]])
-	2. Enter from upwind side, at expected PA for estimated groundspeed. This is the highest altitude part of the maneuver.
+	2. Enter from upwind side, flying diagonally crosswind between the pylons, at expected PA for estimated groundspeed. This is the highest altitude part of the maneuver.
 	3. Roll into turn as reference line aligns with pylon, approx. 30-40° bank.
 	4. Expect to descend as turn continues and groundspeed decreases.
 	5. During turn: When pylon gets behind wing, climb. When pylon gets ahead of wing, descend. Use primarily PITCH to maintain the pivot point, and bank as necessary to keep reference line pointing at the pylon

@@ -23,7 +23,7 @@ In this lesson we cover all the ways in which night flying is different, includi
 3. Stop-and-goes vs touch-and-goes
 
 **Bay Area local information**
-1. [[Palo Alto Airport|KPAO]] reverts to Class G, which means only right traffic on 31^[[[FAR 91.126 Class G Airspace Ops Near Airport]]] when tower closed
+1. [[Palo Alto Airport|KPAO]] reverts to Class G, which means only the indicated pattern direction (right traffic) on 31^[[[FAR 91.126 Class G Airspace Ops Near Airport]]] when tower closed
 2. Many airports have unique noise abatement procedures at night
 3. Weather at night, especially over Sunol
 4. Moffett airspace LOA not in effect
@@ -84,7 +84,6 @@ Client demonstrates the knowledge and skills to fly and navigate at night safely
 > 	- (ii) 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the traffic pattern) at an airport.
 
 ### Required Homework
- 
 - [ ] Plan >101nm night cross-country flight
 
 ### Recommended Homework
