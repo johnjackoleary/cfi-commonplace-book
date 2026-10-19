@@ -3,6 +3,6 @@
 ***Additional Info:*** The critical angle of attack is typically about 15°-18°.
 
  ![[Airflow Separation at Critical AOA.jpg]]
- ![[Stall Progression for Various Wing Platforms.svg]]
+ ![[Stall Progression for Various Wing Planforms.svg]]
 
 #glossary

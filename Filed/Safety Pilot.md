@@ -45,7 +45,7 @@ If a safety pilot cannot or does not want to act as PIC, they may instead log [[
 
 ## Logging
 - The pilot "under the hood" is required to log the name of the safety pilot.^[[[FAR 61.51 Pilot Logbooks]]] [[AOPA]] suggests the safety pilot also log the name of the other pilot.
-- The safety pilot may not log cross-country time, since they are not required for the entire flight.
+- The safety pilot may not log cross-country time, since they are not required for the entire flight.^[[[Gebhart 2009]]]
 
 ## Sample Conversation Before Departure
 > [!quote] Sample

@@ -5,7 +5,7 @@ aliases: [PPL.7, SOLO.7, PPL2.2]
 ### Introduction
 We live in one of the most complicated airspaces in the nation.  Just getting in and out of PAO requires a solid understanding of airspaces.  But good news: once you know how to fly here, you can fly anywhere.
 
-Airspaces also really matter for trip-planning, where you're be required to know what permissions you need to traverse each airspace, and which ones to avoid.
+Airspace also matters for trip planning, where you'll need to know what permissions you need to traverse each airspace and which ones to avoid.
 
 This lesson starts by looking at the six main types of airspace, specifically
 - Who is allowed into each one

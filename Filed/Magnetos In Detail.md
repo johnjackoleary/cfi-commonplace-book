@@ -1,7 +1,7 @@
 ## What Are They
 From the [[PHAK Glossary]], a [[Magneto]] is:
 
-> `= [[Magento]].definition`
+![[Magneto#^definition]]
 
 The FAA requires the engine ignition to be a separate system from the rest of the electrical system, and magnetos are a great solution.
 

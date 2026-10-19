@@ -49,7 +49,7 @@ Ground 2.0 hr
 			5. #Illusions
 		2. Equipment
 			1. Survival
-				1. Air Search and Rescue won' begin until daylight; chances are good of spending at least one night outdoors
+				1. Air Search and Rescue won't begin until daylight; chances are good of spending at least one night outdoors
 				2. [Striving to Survive](https://www.faa.gov/pilots/training/airman_education/topics_of_interest/survive) has a good list of equipment to consider
 				3. Priorities and survival techniques
 				4. [[PLB]]s

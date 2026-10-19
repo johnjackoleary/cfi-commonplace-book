@@ -31,7 +31,7 @@
 	5. Or as depicted/given by ATC
 
 > [!note] 
-> Holding "on" a radial gives you the outbound heading, but you'll be flying inbound on it's reciprocal, the inbound course
+> Holding "on" a radial gives you the outbound heading, but you'll be flying inbound on its reciprocal, the inbound course
 
 ## Hold Entries
 | ![[Holding Pattern Entry Procedures.png]] | 

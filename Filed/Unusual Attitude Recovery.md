@@ -1,3 +1,9 @@
+# Key Takeaways
+- Power Through Blue; Power Down Brown
+- Nose high concerned with stall
+- Nose low concerned with spiral
+
+# Details
 > [!youtube] Published by [@SmithsonianChannel](https://www.youtube.com/@SmithsonianChannel)
 > ![](https://www.youtube.com/watch?v=-P-3Kl1P0as)
 
@@ -30,3 +36,8 @@
 	1. Failure to recognize unusual attitude
 	2. Dependency on senses other than instrument indications (succumbing to [[Illusions Leading to Spatial Disorientation|spatial disorientation]])
 	3. Failure to use proper recovery sequence
+
+# Additional Resources
+- [[Illusions Leading to Spatial Disorientation]]
+
+#concept

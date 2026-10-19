@@ -38,6 +38,11 @@ When using a non-[[WAAS]] GPS, either your destination or your alternate can pla
 > [!quote] From [[AIM 1]]-1-17
 > For flight planning purposes, TSO-C129() and TSO-C196()-equipped users (GPS users) whose navigation systems have fault detection and exclusion ([[FDE]]) capability, who perform a preflight [[RAIM]] prediction for the approach integrity at the airport where the RNAV (GPS) approach will be flown, and have proper knowledge and any required training and/or approval to conduct a GPS-based [[IAP]], may file based on a GPS-based IAP at either the destination or the alternate airport, but not at both locations.
 
+When using a WAAS GPS, your alternate plan must be for [[LNAV]] or circling minimums.
+
+> [!quote] From [[AIM 1]]-1-18
+> Pilots with [[WAAS]] receivers may flight plan to use any instrument approach procedure authorized for use with their WAAS avionics as the planned approach at a required alternate, with the following restrictions. When using WAAS at an alternate airport, flight planning must be based on flying the [[RNAV]] (GPS) [[LNAV]] or circling minima line, or minima on a [[GPS]] approach procedure, or conventional approach procedure with “or GPS” in the title.
+
 ## Difference Between Planning and Actual Flight
 Alternate selection is meant to ensure you've considered a Plan B and have sufficient fuel to execute it.
 

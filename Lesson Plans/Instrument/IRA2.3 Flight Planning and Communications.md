@@ -32,7 +32,7 @@ Ground 3.0 hr
 7. Flight plan forms and filing
 	1. [Equipment codes](https://support.foreflight.com/hc/en-us/articles/360049193173-ICAO-Equipment-and-PBN-Code-Setup-Guide) on [[ForeFlight]]
 8. Obtaining clearance
-	1. Clearance available 30min before departure time and 120min after
+	1. Clearance typically available 30min before departure time and 120min after
 	2. Procedures for activating and closing IFR flight plans
 9. [[Personal minimums]] and go/no-go decisions ([[Complete IFR Preflight Checklist]])
 10. Common errors 
