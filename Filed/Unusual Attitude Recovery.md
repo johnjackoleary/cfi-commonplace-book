@@ -1,5 +1,5 @@
 # Key Takeaways
-- Power Through Blue; Power Down Brown
+- Power through blue; power down brown
 - Nose high concerned with stall
 - Nose low concerned with spiral
 
@@ -24,7 +24,7 @@
 	3. TC shows turn
 	4. Recovery:
 		1. Power-Pitch-Bank (must become 2nd nature!)
-		2. Full-power - Pitch Down - Level Wings
+		2. Add Power - Pitch Down - Level Wings
 4. Recognize **nose-low unusual attitude**
 	1. ASI fast or increasing rapidly
 	2. VSI negative rate, altimeter shows descent
