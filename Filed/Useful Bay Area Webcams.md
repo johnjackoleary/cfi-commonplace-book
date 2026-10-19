@@ -17,7 +17,7 @@
 | San Jose                        | http://www.met.sjsu.edu/cam_directory/                                            |
 | Mount Hamilton                  | https://mthamilton.ucolick.org/hamcam/hamcam1.html                                |
 | Oakland                         | https://www.fox10phoenix.com/webcams-sf-bay                                       |
-| Berkeley                        | https://lawrence-view.wilderz.workers.dev                                         |
+| Berkeley                        | https://lawrencehallofscience.org/play/view/                                    |
 
 ## Other Cameras Near the Bay
 - Watsonville: https://www.watsonvillepilots.org/airport

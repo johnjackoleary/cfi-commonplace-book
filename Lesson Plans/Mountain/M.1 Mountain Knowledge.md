@@ -137,7 +137,7 @@ Ground 2.0 hr
 	1. Survival for off-airport landing
 	2. Value of using flight plans (and issues closing them at remote airports)
 > [!quote] [Search and Rescue](https://www.faa.gov/pilots/training/airman_education/topics_of_interest/search_rescue) by Rogers V. Shaw, III
-> If a flight plan is filed, the air traffic control system will automatically initiate a plan to locate overdue flights. When an aircraft on a VFR flight plan is overdue by 1 hour, or by 30 minutes on a IFR flight plan, the Flight Service Station servicing the destination airport issues an INREQ (Information Request). If a flight plan was not filed, there is no designated time limit before a search is initiated, thus greatly delaying the onset of Search and Rescue.
+> If a flight plan is filed, the air traffic control system will automatically initiate a plan to locate overdue flights. When an aircraft on a VFR flight plan is overdue by 1 hour,^[Note [[AIM 6-2-4]] says 30 min overdue on a VFR flight plan as well] or by 30 minutes on a IFR flight plan, the Flight Service Station servicing the destination airport issues an INREQ (Information Request). If a flight plan was not filed, there is no designated time limit before a search is initiated, thus greatly delaying the onset of Search and Rescue.
 2. Planning
 	1. Detailed route plan to avoid [[box canyon]]s or other dangerous locations
 	2. Consider emergency landing options

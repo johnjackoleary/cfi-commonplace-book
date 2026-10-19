@@ -65,7 +65,7 @@ Ground 1.0 hr, Flight until proficient
 	- Smooth power application
 	- [[4 C's (Go-Around)]], [[5 C's (Going Missed)]], [[Power, Pedal, Pitch]], or [[Power Up, Pitch Up, Clean Up]]
 - Emergency Considerations
-	- Feather for power off glide, if able
+	- Prop full aft (low RPM) for power-off glide, if oil pressure permits
 - IFR Considerations
 	- Slow to an approach speed early -- a couple miles before [[IAF]]
 	- If you're falling behind the plane, go missed and try again

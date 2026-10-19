@@ -6,7 +6,7 @@ The most important privilege of a Commercial Pilot is that they may fly for hire
 A Private Pilot generally CANNOT fly for compensation or hire ([[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]]). But that FAR also lists seven exceptions! Some of the most interesting ones are:
 
 1. They can be paid by their business, to fly, without passengers or property, as long as it is incidental to the business ([[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]](b))
-2. They can share expenses (only fuel, oil, rental costs) with passengers, as long as there is [[Common Purpose]], and as long as they do not [[Holding Out|Hold Out]] ([[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]](c))
+2. They can share expenses (only fuel, oil, airport expenditures, or rental fees) with passengers, as long as there is [[Common Purpose]], and as long as they do not [[Holding Out|Hold Out]] ([[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]](c))
 3. Can fly and carry passengers for a charitable event described in [[FAR 91.146 Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event|§ 91.146]]
 4. Can be reimbursed for search and rescue expenses ([[FAR 61.113 Private Pilot Privileges and Limitations|§ 61.113]](e))
 

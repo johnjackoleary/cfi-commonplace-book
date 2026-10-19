@@ -1,6 +1,6 @@
 # Key Takeaways
 - Holds are used in several areas of IFR flying
-- Standard holds are right turns with 1 minute (green needle) or 4 nm (DME/GPS) legs
+- Standard holds are right turns with a 1 minute inbound leg
 - Hold entries are either teardrop, parallel, or direct
 
 # Details

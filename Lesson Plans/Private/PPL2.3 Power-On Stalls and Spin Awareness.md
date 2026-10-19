@@ -119,7 +119,7 @@ Learner must be able to demonstrate power-on stalls, to ACS standards. The clien
 None
  
 ### Recommended Homework 
-- [ ] Chair fly power-off stalls
+- [ ] Chair fly power-on stalls
 - [ ] Chair fly spin recovery
 
 *Return to [[~ PPL Lesson Plan Outline|Table of Contents]]^*

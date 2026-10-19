@@ -1,0 +1,1 @@
+Like first tower contact or first norcal call

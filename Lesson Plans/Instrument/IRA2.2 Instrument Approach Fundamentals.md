@@ -26,7 +26,7 @@ Ground 1.5 hr, Sim 1.5 hr
 	1. Precision
 		1. [[ILS]] 
 		2. [[PAR]] 
-		3. GPS [[LPV]] (technically not a precision approach, but included here because of similarity^[This is not a precision approach because it does not require the same equipment available to transition from IMC to VMC, namely things like the [[ALS]]. Good video on this topic from [[The Finer Points]] is viewable [here](https://www.youtube.com/watch?v=w1a-9KOdxQY).])
+		3. GPS [[LPV]] (technically not a precision approach, but included here because of similarity^[This is not a precision approach because it does not meet the ICAO/FAA defintion. Consider for instance equipment available to transition from IMC to VMC, namely things like the [[ALS]]. Good video on this topic from [[The Finer Points]] is viewable [here](https://www.youtube.com/watch?v=w1a-9KOdxQY).])
 		4. Fly to a [[DA]]
 	2. Non-Precision
 		1. Lateral Guidance Only
