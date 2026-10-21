@@ -1,41 +1,33 @@
 ---
 tags: [gait]
-has-carb-heat:
-Vs:
-Vs0:
-soft-takeoff-flaps:
-cool-procedure:
-engine-fire-speed:
-power-on-stall-rpm:
-maneuver-rpm:
-maneuver-speed:
-speed-units:
 ---
 
-| **(model::) Gaits** v0.0 | **Flaps** | **Pitch** | **RPM** | **IAS (`=this.speed-units`)** | **FPM** |
-| ------------------------ |:---------:| --------- |:-------:|:-----------------------------:| ------- |
-| ⚠️ V<sub>G</sub>         |           |           |  idle   |           (Vg::68)            |         |
-| 🛫 V<sub>R</sub>         |           |           |   max   |           (Vr::55)            |         |
-| V<sub>X</sub>            |           |           |   max   |           (Vx::62)            |         |
-| 🛫 V<sub>Y</sub>         |           | 10°       |   max   |           (Vy::74)            |         |
-| 🛫 V<sub>Climb</sub>     |           | 7°        |   max   |              90               | 1100    |
-| Cruise                   |           |           |         |                               |         |
-| Cruise Descent           |           |           |         |                               |         |
-| 🌫️ IAF Inbound Level     |           | 2°        |  2100   |              90               | 0       |
-| 🌫️ IAF Inbound Descent   |           | -4°       |  1600   |              90               | -800    |
-| 🌫️ Prec Appr to DA       |    10°    | -3°       |  1900   |              90               | -450    |
-| 🌫️ Non-Prec Appr to MDA  |    10°    | -6°       |  1800   |              90               | -800    |
-| 🛬 Downwind              |           |           |         |                               |         |
-| 🛬 Abeam Numbers         |           |           |         |                               |         |
-| 🛬 Base                  |           |           |         |                               |         |
-| 🛬 Final                 |           |           |         |           (Vref::)            |         |
-| Short                    |           |           |         |          (Vshort::)           |         |
+| **C172SP X-Plane Gaits** v2.0                               | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
+| ----------------------------------------------------------- | :-------: | :-------: | :-----: | :-----------: | :-----------: |
+| <span class="gait-takeoff"></span>V<sub>R</sub>             | Up        |           | max     | 55            |               |
+| <span class="gait-climb"></span>V<sub>X</sub>               | Up        |           | max     | 62            |               |
+| <span class="gait-climb"></span>V<sub>Y</sub>               | Up        | +10°      | max     | 74            |               |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | +7°       | max     | 90            | +1100         |
+| <span class="gait-cruise"></span>Cruise                     | Up        |           |         |               |               |
+| <span class="gait-cruise"></span>Cruise Descent             | Up        |           |         |               |               |
+| <span class="gait-approach"></span>Clean - 0° Level         | Up        | +2°       | 2100    | 90            | 0             |
+| <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        |           |         | 90            | -500          |
+| <span class="gait-approach"></span>Clean - 5° Dive          | Up        | -4°       | 1600    | 90            | -800          |
+| <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       |           |         | 90            | 0             |
+| <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       | -3°       | 1900    | 90            | -500          |
+| <span class="gait-approach"></span>Flaps 10° - 5° Dive      | 10°       | -6°       | 1800    | 90            | -800          |
+| <span class="gait-pattern"></span>Downwind                  | Up        |           |         |               |               |
+| <span class="gait-pattern"></span>Abeam Numbers             |           |           |         |               |               |
+| <span class="gait-pattern"></span>Base                      |           |           |         |               |               |
+| <span class="gait-pattern"></span>Final                     |           |           |         |               |               |
+| <span class="gait-pattern"></span>Short                     |           |           |         |               |               |
+| <span class="gait-emergency"></span>V<sub>G</sub>           | Up        |           | idle    | 68            |               |
 
 <br>
 
-| Topic          | Details                                                                                      |
-| -------------- |:-------------------------------------------------------------------------------------------- |
-| Leaning        | TBD                                                                                          |
-| V<sub>A</sub>  | (Va-mgw::) @ [mgw::]; (Va-dual::) @ (dual-weight::) lb; (Va-single::) @ (single-weight::) lb |
-| Short T.O.     | (short-takeoff-flaps::) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{, }@`=this.mgw`lb; {,}@lb    |
-| Fuel Burn Est. |                                                                                              |
+| Topic          | Details |
+| -------------- | :------ |
+| Leaning        |         |
+| V<sub>A</sub>  |         |
+| Short T.O.     |         |
+| Fuel Burn Est. |         |

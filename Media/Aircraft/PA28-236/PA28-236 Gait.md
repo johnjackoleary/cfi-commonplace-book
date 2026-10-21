@@ -1,42 +1,33 @@
 ---
-tags:
-  - gait
-has-carb-heat: true
-Vs: 
-Vs0: 
-soft-takeoff-flaps: 25°
-cool-procedure: 
-engine-fire-speed: 
-power-on-stall-rpm: 
-maneuver-rpm: 
-maneuver-speed: 
-speed-units: kts
+tags: [gait]
 ---
 
-| **(model::PA28-236) Gaits** v2.1 | **Flaps** | **MP** | **RPM** | **IAS (`=this.speed-units`)** |
-| -------------------------------- |:---------:|:------:|:-------:|:-----------------------------:|
-| ⚠️ V<sub>G</sub>                 |           |        |  idle   |           (Vg::85)            |
-| 🛫 V<sub>R</sub>                 |           |  max   |   max   |           (Vr::65)            |
-| V<sub>X</sub>                    |           |  max   |   max   |           (Vx::73)            |
-| 🛫 V<sub>Y</sub>                 |           |  max   |   max   |           (Vy::85)            |
-| 🛫 V<sub>Climb</sub>             |           |  max   |   max   |              100              |
-| Cruise                           |           |  23"   |  2200   |              120              |
-| Cruise Descent                   |           |  16"   |  2200   |            110-120            |
-| 🌫️ IAF Inbound Level             |           |        |         |                               |
-| 🌫️ IAF Inbound Descent           |           |        |         |                               |
-| 🌫️ Prec Appr to DA               |    10°    |  13"   |   max   |              90               |
-| 🌫️ Non-Prec Appr to MDA          |    10°    |        |         |                               |
-| 🛬 Downwind                      |    10°    |  16"   |   max   |              90               |
-| 🛬 Abeam Numbers                 |    10°    |  13"   |   max   |              90               |
-| 🛬 Base                          |    25°    |  13"   |   max   |              80               |
-| 🛬 Final                         |    25°-40°    | as req |   max   |          (Vref::72)           |
-| Short                            |    40°    |  as req      |   max   |        (Vshort::59-72)        |
+| **PA28-236 Gaits** v2.0                                     | **Flaps** | **MP** | **RPM** | **IAS (kts)** |
+| ----------------------------------------------------------- | :-------: | :----: | :-----: | :-----------: |
+| <span class="gait-takeoff"></span>V<sub>R</sub>             | Up        | max    | max     | 65            |
+| <span class="gait-climb"></span>V<sub>X</sub>               | Up        | max    | max     | 73            |
+| <span class="gait-climb"></span>V<sub>Y</sub>               | Up        | max    | max     | 85            |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | max    | max     | 100           |
+| <span class="gait-cruise"></span>Cruise                     | Up        | 23"    | 2200    | 120           |
+| <span class="gait-cruise"></span>Cruise Descent             | Up        | 16"    | 2200    | 110-120       |
+| <span class="gait-approach"></span>Clean - 0° Level         | Up        |        |         | 90            |
+| <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        |        |         | 90            |
+| <span class="gait-approach"></span>Clean - 5° Dive          | Up        |        |         | 90            |
+| <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       |        |         | 90            |
+| <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       | 13"    | max     | 90            |
+| <span class="gait-approach"></span>Flaps 10° - 5° Dive      | 10°       |        |         | 90            |
+| <span class="gait-pattern"></span>Downwind                  | 10°       | 16"    | max     | 90            |
+| <span class="gait-pattern"></span>Abeam Numbers             | 10°       | 13"    | max     | 90            |
+| <span class="gait-pattern"></span>Base                      | 25°       | 13"    | max     | 80            |
+| <span class="gait-pattern"></span>Final                     | 25°-40°   | as req | max     | 72            |
+| <span class="gait-pattern"></span>Short                     | 40°       | as req | max     | 59-72         |
+| <span class="gait-emergency"></span>V<sub>G</sub>           | Up        |        | idle    | 85            |
 
 <br>
 
-| Topic          | Details                                                                                   |
-| -------------- |:----------------------------------------------------------------------------------------- |
-| Leaning        | Peak EGT for economy cruise                                                                                       |
-| V<sub>A</sub>  | (Va-mgw::124)kts @ [mgw::3000]lb; 96kts @ 1761lb                                          |
-| Short T.O.     | (short-takeoff-flaps::25°) Flaps, {*Rotate*, *50ft*}@*weight*:<br>{59, 63}@`=this.mgw`lb; {48,52}@2000lb |
-| Fuel Burn Est. | 15 gph @ 75% power economy cruise                                                                                        |
+| Topic          | Details                                                                              |
+| -------------- | :----------------------------------------------------------------------------------- |
+| Leaning        | Peak EGT for economy cruise                                                          |
+| V<sub>A</sub>  | 124 @ 3000 lb; 96 @ 1761 lb                                                          |
+| Short T.O.     | 25° Flaps, {*Rotate*, *50 ft*} @ *weight*:<br>{59, 63} @ 3000 lb; {48, 52} @ 2000 lb |
+| Fuel Burn Est. | 15 GPH @ 75% power economy cruise                                                    |

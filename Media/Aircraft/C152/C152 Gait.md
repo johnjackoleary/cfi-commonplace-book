@@ -1,36 +1,27 @@
 ---
 tags: [gait]
-has-carb-heat: true
-Vs: 40
-Vs0: 35
-soft-takeoff-flaps :: 10°
-cool-procedure: N/A for C152
-engine-fire-speed: 85
-power-on-stall-rpm: 2300
-maneuver-rpm: ~2300
-maneuver-speed: 90
-speed-units: kts
 ---
 
-| **(model::C152) Gaits** v1.4 |         **Flaps**          |           **RPM**            |          **IAS (kts)**           |
-| ---------------------------- |:--------------------------:|:----------------------------:|:--------------------------------:|
-| ⚠️ V<sub>G</sub>             |                            |             idle             |             (Vg::60)             |
-| 🛫 V<sub>R</sub>             |                            |             max              |             (Vr::50)             |
-| V<sub>X(10°)</sub>           |   (short-takeoff-flaps::10°)    |             max              |            (Vx-short::54)            |
-| V<sub>X</sub>                |                            |             max              |             (Vx::55)             |
-| 🛫 V<sub>Y</sub>             |                            |             max              |             (Vy::67)             |
-| 🛫 V<sub>Climb</sub>         |                            |             max              |        (cruise-climb::80)        |
-| Cruise                       |                            |      (cruise-rpm::2400)      |       (cruise-speed::100)        |
-| Cruise Descent               |                            |      `=this.cruise-rpm`      |   (cruise-descent-speed::TBD)    |
-| 🛬 Downwind                  |                            | (pattern-downwind-rpm::2100) | (pattern-downwind-speed::80) |
-| 🛬 Abeam Numbers             | (pattern-abeam-flaps::10°) |  (pattern-abeam-rpm::1700)   |    (pattern-abeam-speed::70)     |
-| 🛬 Base                      | (pattern-base-flaps::20°)  |   (pattern-base-rpm::1700)   |     (pattern-base-speed::65)     |
-| 🛬 Final                     | (pattern-final-flaps::30°) | (pattern-final-rpm::as req)  |            (Vref::60)            |
-| Short                        | (pattern-short-flaps::30°) | (pattern-short-rpm::as req)  |           (Vshort::54)           |
+| **C152 Gaits** v2.0                                | **Flaps** | **RPM** | **IAS (kts)** |
+| -------------------------------------------------- | :-------: | :-----: | :-----------: |
+| <span class="gait-takeoff"></span>V<sub>R</sub>    | Up        | max     | 50            |
+| <span class="gait-climb"></span>V<sub>X(10°)</sub> | 10°       | max     | 54            |
+| <span class="gait-climb"></span>V<sub>X</sub>      | Up        | max     | 55            |
+| <span class="gait-climb"></span>V<sub>Y</sub>      | Up        | max     | 67            |
+| <span class="gait-climb"></span>Cruise Climb       | Up        | max     | 80            |
+| <span class="gait-cruise"></span>Cruise            | Up        | 2400    | 100           |
+| <span class="gait-cruise"></span>Cruise Descent    | Up        | 2400    |               |
+| <span class="gait-pattern"></span>Downwind         | Up        | 2100    | 80            |
+| <span class="gait-pattern"></span>Abeam Numbers    | 10°       | 1700    | 70            |
+| <span class="gait-pattern"></span>Base             | 20°       | 1700    | 65            |
+| <span class="gait-pattern"></span>Final            | 30°       | as req  | 60            |
+| <span class="gait-pattern"></span>Short            | 30°       | as req  | 54            |
+| <span class="gait-emergency"></span>V<sub>G</sub>  | Up        | idle    | 60            |
 
+<br>
 
-| Topic         | Details                                                                                                         |
-| ------------- |:--------------------------------------------------------------------------------------------------------------- |
-| Leaning       | Lean to RPM drop when above 3000'                                                                               |
-| V<sub>A</sub> | ~2300 RPM -- (Va-mgw::104) @ [mgw::1670]; (Va-single::93) @ (single-weight::1350) lb |
-| Magnetos      | 125 RPM max drop; 50 RPM diff                                                                                                                |
+| Topic         | Details                                         |
+| ------------- | :---------------------------------------------- |
+| Leaning       | Lean to RPM drop above 3000'                    |
+| V<sub>A</sub> | 104 @ 1670 lb; 93 @ 1350 lb; start at ~2300 RPM |
+| Magnetos      | 125 RPM max drop; 50 RPM diff                   |
