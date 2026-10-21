@@ -1,6 +1,6 @@
 Referencing [[Getting to Know a New Plane]] and [[C172S Gait]]
 
-___ = to be determined in plane
+Blank = to be determined in plane
 \* = to be confirmed in plane
 
 Plane Used: N___
@@ -10,9 +10,9 @@ Plane Used: N___
 
 | Altitude  | FFlow | Rough Measurement       |
 | --------- | ----- | ----------------------- |
-| Sea Level | ___   | Thumb to first knuckle? | 
-| 4000' MSL | TBD   |                         |
-| 8000' MSL | TBD   |                         |
+| Sea Level |       | Thumb to first knuckle? |
+| 4000' MSL |       |                         |
+| 8000' MSL |       |                         |
 
 ### 2) Leave for practice area
 
@@ -21,25 +21,27 @@ Simulate what it will be like to land
 
 ### 4) Complete GAIT below
 
-| **C172S Gaits**          | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
-| ------------------------ |:---------:|:---------:|:-------:|:-------------:|:-------------:|
-| ⚠️ V<sub>G</sub> (9:1\*) |           |    ___    |  idle   |      68       |      ___      |
-| 🛫 V<sub>R</sub>         |    10°    |    ___    |   max   |      55       |      ___      |
-| V<sub>X(10°)</sub>       |    10°    |    ___    |   max   |      56       |      ___      |
-| V<sub>X</sub>            |           |    ___    |   max   |      62       |      ___      |
-| 🛫 V<sub>Y</sub>         |           |   +10°\*    |   max   |      74       |     +600\*      |
-| 🛫 Cruise Climb          |           |    +5°\*    |   max   |      90       |     +500\*      |
-| Cruise (75% Power)       |           |    0°     |  2500   |     105\*     |       0       |
-| Cruise Descent           |           |  \-2.5°   |  2500   |      115\*      |     \-500\*     |
-| 🌫️ IAF Inbound Level     |           |    +2°\*    |  2200\*   |      90       |       0       |
-| 🌫️ IAF Inbound Descent   |           |   \-2°\*    |  1700   |      90       |     \-800\*     |
-| 🌫️ Prec Appr to DA       |    10°    |   \-3°\*    |  1900   |      90       |     \-450\*     |
-| 🌫️ Non-Prec Appr to MDA  |    10°    |   \-4°\*    |  1500   |      90       |     \-800\*     |
-| 🛬 Downwind              |           |    ___    |  2000   |      90\*       |       0       |
-| 🛬 Abeam Numbers         |    10°    |    ___    |  1500   |      80       |      ___      |
-| 🛬 Base                  |    20°    |    ___    |  1500   |      70       |      ___      |
-| 🛬 Final                 |    30°    |    ___    |  1500   |      65       |      ___      |
-| Short                    |    30°    |    ___    |  1500   |      61       |      ___      |
+| **C172S Gaits** v2.0                                        | **Flaps** | **Pitch** | **RPM** | **IAS (kts)** | **VSI (fpm)** |
+| ----------------------------------------------------------- | :-------: | :-------: | :-----: | :-----------: | :-----------: |
+| <span class="gait-takeoff"></span>V<sub>R</sub>             | 10°       |           | max     | 55            |               |
+| <span class="gait-climb"></span>V<sub>X(10°)</sub>          | 10°       |           | max     | 56            |               |
+| <span class="gait-climb"></span>V<sub>X</sub>               | Up        |           | max     | 62            |               |
+| <span class="gait-climb"></span>V<sub>Y</sub>               | Up        | +10°\*    | max     | 74            | +600\*        |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | +5°\*     | max     | 90            | +500\*        |
+| <span class="gait-cruise"></span>Cruise (75% Power)         | Up        | 0°        | 2500    | 105\*         | 0             |
+| <span class="gait-cruise"></span>Cruise Descent             | Up        | -2.5°     | 2500    | 115\*         | -500\*        |
+| <span class="gait-approach"></span>Clean - 0° Level         | Up        | +2°\*     | 2200\*  | 90            | 0             |
+| <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        |           |         | 90            | -500          |
+| <span class="gait-approach"></span>Clean - 5° Dive          | Up        | -2°\*     | 1700    | 90            | -800          |
+| <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       |           |         | 90            | 0             |
+| <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       | -3°\*     | 1900    | 90            | -500          |
+| <span class="gait-approach"></span>Flaps 10° - 5° Dive      | 10°       | -4°\*     | 1500    | 90            | -800          |
+| <span class="gait-pattern"></span>Downwind                  | Up        |           | 2000    | 90\*          | 0             |
+| <span class="gait-pattern"></span>Abeam Numbers             | 10°       |           | 1500    | 80            |               |
+| <span class="gait-pattern"></span>Base                      | 20°       |           | 1500    | 70            |               |
+| <span class="gait-pattern"></span>Final                     | 30°       |           | 1500    | 65            |               |
+| <span class="gait-pattern"></span>Short                     | 30°       |           | 1500    | 61            |               |
+| <span class="gait-emergency"></span>V<sub>G</sub> (9:1\*)   | Up        |           | idle    | 68            |               |
 
 Recommended: 50°F Rich of Peak EGT (For Best Economy, use Peak EGT)
 

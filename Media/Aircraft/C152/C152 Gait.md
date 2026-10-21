@@ -10,8 +10,8 @@ tags: [gait]
 | <span class="gait-climb"></span>V<sub>Y</sub>      | Up        | max     | 67            |
 | <span class="gait-climb"></span>Cruise Climb       | Up        | max     | 80            |
 | <span class="gait-cruise"></span>Cruise            | Up        | 2400    | 100           |
-| <span class="gait-cruise"></span>Cruise Descent    | Up        | 2400    | TBD           |
-| <span class="gait-pattern"></span>Downwind         |           | 2100    | 80            |
+| <span class="gait-cruise"></span>Cruise Descent    | Up        | 2400    |               |
+| <span class="gait-pattern"></span>Downwind         | Up        | 2100    | 80            |
 | <span class="gait-pattern"></span>Abeam Numbers    | 10°       | 1700    | 70            |
 | <span class="gait-pattern"></span>Base             | 20°       | 1700    | 65            |
 | <span class="gait-pattern"></span>Final            | 30°       | as req  | 60            |

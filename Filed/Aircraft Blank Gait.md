@@ -16,7 +16,7 @@ tags: [gait]
 | <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       |           |        |         | 90            | 0             |
 | <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       |           |        |         | 90            | -500          |
 | <span class="gait-approach"></span>Flaps 10° - 5° Dive      | 10°       |           |        |         | 90            | -800          |
-| <span class="gait-pattern"></span>Downwind                  |           |           |        |         |               | 0             |
+| <span class="gait-pattern"></span>Downwind                  | Up        |           |        |         |               | 0             |
 | <span class="gait-pattern"></span>Abeam Numbers             |           |           |        |         |               |               |
 | <span class="gait-pattern"></span>Base                      |           |           |        |         |               |               |
 | <span class="gait-pattern"></span>Final                     |           |           |        |         |               |               |

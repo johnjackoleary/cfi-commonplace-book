@@ -3,18 +3,18 @@ tags: [gait]
 ---
 <br>
 
-| **DA40 XLS Gaits** v2.0                                     | Flaps | Pitch | MP<br/>" | RPM  | A/S<br/>(KIAS) | VSI<br/>(fpm) |
-| ----------------------------------------------------------- | :---: | :---: | :------: | :--: | :------------: | :-----------: |
-| <span class="gait-climb"></span>Initial Climb Vy            | 50%   | +10°  | max      | max  | 67             | +1000         |
-| <span class="gait-climb"></span>Cruise Climb                | Up    | +6°   | max      | 2400 | 73             | +1000         |
-| <span class="gait-cruise"></span>Cruise                     | Up    | 0°    | Typ. 24  | 2400 | 137 Tr         | 0             |
-| <span class="gait-cruise"></span>Cruise Descent             | Up    | -2°   | Typ. 22  | 2000 | 137 Tr         | -500          |
-| <span class="gait-approach"></span>Clean - 0° Level         | Up    | TBD   | TBD      | TBD  | 90             | 0             |
-| <span class="gait-approach"></span>Clean - 3° Glidepath     | Up    | TBD   | TBD      | TBD  | 90             | TBD           |
-| <span class="gait-approach"></span>Clean - 5° Dive          | Up    | TBD   | TBD      | TBD  | 90             | TBD           |
-| <span class="gait-approach"></span>Flaps T/O - 0° Level     | 50%   | -2°   | 20"      | 2000 | 90             | 0             |
-| <span class="gait-approach"></span>Flaps T/O - 3° Glidepath | 50%   | -4°   | 12"      | 2000 | 90             | -500          |
-| <span class="gait-approach"></span>Flaps T/O - 5° Dive      | 50%   | -5°   | 10"      | 1800 | 90             | -800          |
+| **DA40 XLS Gaits** v2.0                                     | **Flaps** | **Pitch** | **MP**  | **RPM** | **IAS (kts)** | **VSI (fpm)** |
+| ----------------------------------------------------------- | :-------: | :-------: | :-----: | :-----: | :-----------: | :-----------: |
+| <span class="gait-climb"></span>Initial Climb Vy            | 50%       | +10°      | max     | max     | 67            | +1000         |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | +6°       | max     | 2400    | 73            | +1000         |
+| <span class="gait-cruise"></span>Cruise                     | Up        | 0°        | Typ. 24 | 2400    | 137 Tr        | 0             |
+| <span class="gait-cruise"></span>Cruise Descent             | Up        | -2°       | Typ. 22 | 2000    | 137 Tr        | -500          |
+| <span class="gait-approach"></span>Clean - 0° Level         | Up        |           |         |         | 90            | 0             |
+| <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        |           |         |         | 90            | -500          |
+| <span class="gait-approach"></span>Clean - 5° Dive          | Up        |           |         |         | 90            | -800          |
+| <span class="gait-approach"></span>Flaps T/O - 0° Level     | 50%       | -2°       | 20"     | 2000    | 90            | 0             |
+| <span class="gait-approach"></span>Flaps T/O - 3° Glidepath | 50%       | -4°       | 12"     | 2000    | 90            | -500          |
+| <span class="gait-approach"></span>Flaps T/O - 5° Dive      | 50%       | -5°       | 10"     | 1800    | 90            | -800          |
 
 <br>
 

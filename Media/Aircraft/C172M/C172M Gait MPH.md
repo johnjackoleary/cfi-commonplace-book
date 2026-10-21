@@ -6,15 +6,15 @@ tags: [gait]
 | ------------------------------------------------- | :-------: | :-------: | :-----: | :-----------: | :-----------: |
 | <span class="gait-takeoff"></span>V<sub>R</sub>   | Up        |           | max     | 63            |               |
 | <span class="gait-climb"></span>V<sub>X</sub>     | Up        |           | max     | 68            |               |
-| <span class="gait-climb"></span>V<sub>Y</sub>     | Up        | +10°      | max     | 84            | +tbd          |
-| <span class="gait-climb"></span>Cruise Climb      | Up        | +5°       | max     | tbd           | +tbd          |
-| <span class="gait-cruise"></span>Cruise           | Up        | 0°        | tbd     | tbd           | 0             |
-| <span class="gait-cruise"></span>Cruise Descent   | Up        | \-2.5°    | tbd     |               | \-500         |
-| <span class="gait-pattern"></span>Downwind        |           |           | tbd     | 104           | 0             |
-| <span class="gait-pattern"></span>Abeam Numbers   | 10°       |           | tbd     | tbd           |               |
-| <span class="gait-pattern"></span>Base            | 25°       |           | tbd     | 86            |               |
-| <span class="gait-pattern"></span>Final           | 30°       |           | tbd     | 75            |               |
-| <span class="gait-pattern"></span>Short           | 40°       |           | tbd     | 69            |               |
+| <span class="gait-climb"></span>V<sub>Y</sub>     | Up        | +10°      | max     | 84            |               |
+| <span class="gait-climb"></span>Cruise Climb      | Up        | +5°       | max     |               |               |
+| <span class="gait-cruise"></span>Cruise           | Up        | 0°        |         |               | 0             |
+| <span class="gait-cruise"></span>Cruise Descent   | Up        | -2.5°     |         |               | -500          |
+| <span class="gait-pattern"></span>Downwind        | Up        |           |         | 104           | 0             |
+| <span class="gait-pattern"></span>Abeam Numbers   | 10°       |           |         |               |               |
+| <span class="gait-pattern"></span>Base            | 25°       |           |         | 86            |               |
+| <span class="gait-pattern"></span>Final           | 30°       |           |         | 75            |               |
+| <span class="gait-pattern"></span>Short           | 40°       |           |         | 69            |               |
 | <span class="gait-emergency"></span>V<sub>G</sub> | Up        |           | idle    | 75            |               |
 
 <br>

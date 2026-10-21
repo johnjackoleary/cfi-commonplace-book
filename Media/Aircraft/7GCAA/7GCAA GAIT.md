@@ -4,19 +4,19 @@ tags: [gait]
 
 | **7GCAA Gaits** v2.0                                  | **RPM** | **IAS (mph)** | **VSI (fpm)** |
 | ----------------------------------------------------- | :-----: | :-----------: | :-----------: |
-| <span class="gait-takeoff"></span>V<sub>R</sub>       | max     | 55-60         | TBD           |
-| <span class="gait-climb"></span>V<sub>X</sub>         | max     | 58            | TBD           |
-| <span class="gait-climb"></span>V<sub>Y</sub>         | max     | 69            | TBD           |
-| <span class="gait-climb"></span>Cruise Climb          | max     | 85            | TBD           |
-| <span class="gait-cruise"></span>Cruise               | 2600    | 126           | TBD           |
-| <span class="gait-cruise"></span>Cruise Descent       | TBD     | green arc     | TBD           |
-| <span class="gait-pattern"></span>Downwind            | 2000    | 85            | TBD           |
-| <span class="gait-pattern"></span>Abeam Numbers       | TBD     | 75            | TBD           |
-| <span class="gait-pattern"></span>Base                | TBD     | 70            | TBD           |
-| <span class="gait-pattern"></span>Final (three point) | TBD     | 65            | TBD           |
-| <span class="gait-pattern"></span>Final (wheel)       | TBD     | 70-75         | TBD           |
-| <span class="gait-pattern"></span>Short               | TBD     | 60            | TBD           |
-| <span class="gait-emergency"></span>V<sub>G</sub>     | idle    | 65            | TBD           |
+| <span class="gait-takeoff"></span>V<sub>R</sub>       | max     | 55-60         |               |
+| <span class="gait-climb"></span>V<sub>X</sub>         | max     | 58            |               |
+| <span class="gait-climb"></span>V<sub>Y</sub>         | max     | 69            |               |
+| <span class="gait-climb"></span>Cruise Climb          | max     | 85            |               |
+| <span class="gait-cruise"></span>Cruise               | 2600    | 126           |               |
+| <span class="gait-cruise"></span>Cruise Descent       |         | green arc     |               |
+| <span class="gait-pattern"></span>Downwind            | 2000    | 85            |               |
+| <span class="gait-pattern"></span>Abeam Numbers       |         | 75            |               |
+| <span class="gait-pattern"></span>Base                |         | 70            |               |
+| <span class="gait-pattern"></span>Final (three point) |         | 65            |               |
+| <span class="gait-pattern"></span>Final (wheel)       |         | 70-75         |               |
+| <span class="gait-pattern"></span>Short               |         | 60            |               |
+| <span class="gait-emergency"></span>V<sub>G</sub>     | idle    | 65            |               |
 
 | Topic         | Details                                                               |
 | ------------- |:--------------------------------------------------------------------- |
