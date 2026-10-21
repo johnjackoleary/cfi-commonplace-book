@@ -6,11 +6,11 @@ tags: [gait]
 | ----------------------------------------------------------- | :-------: | :-------: | :-----: | :-----------: | :-----------: |
 | <span class="gait-takeoff"></span>V<sub>R</sub>             | Up        |           | max     | 55            |               |
 | <span class="gait-climb"></span>V<sub>X</sub>               | Up        |           | max     | 62            |               |
-| <span class="gait-climb"></span>V<sub>Y</sub>               | Up        | 10°       | max     | 74            |               |
-| <span class="gait-climb"></span>Cruise Climb                | Up        | 7°        | max     | 90            | 1100          |
+| <span class="gait-climb"></span>V<sub>Y</sub>               | Up        | +10°      | max     | 74            |               |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | +7°       | max     | 90            | +1100         |
 | <span class="gait-cruise"></span>Cruise                     | Up        |           |         |               |               |
 | <span class="gait-cruise"></span>Cruise Descent             | Up        |           |         |               |               |
-| <span class="gait-approach"></span>Clean - 0° Level         | Up        | 2°        | 2100    | 90            | 0             |
+| <span class="gait-approach"></span>Clean - 0° Level         | Up        | +2°       | 2100    | 90            | 0             |
 | <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        |           |         | 90            | -500          |
 | <span class="gait-approach"></span>Clean - 5° Dive          | Up        | -4°       | 1600    | 90            | -800          |
 | <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       |           |         | 90            | 0             |

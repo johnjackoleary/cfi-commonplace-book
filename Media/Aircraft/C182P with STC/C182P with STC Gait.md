@@ -8,24 +8,26 @@ tags: [gait]
 | <span class="gait-climb"></span>V<sub>X(20°)</sub>          | 20°       |        | max     | 63            |               |
 | <span class="gait-climb"></span>V<sub>X</sub>               | Up        |        | max     | 73            |               |
 | <span class="gait-climb"></span>V<sub>Y</sub>               | Up        |        | max     | 91            |               |
-| <span class="gait-climb"></span>Cruise Climb                | Up        | 23     | 2450    | 105           |               |
-| <span class="gait-cruise"></span>Cruise                     | Up        | 23     | 2300    |               |               |
-| <span class="gait-cruise"></span>Cruise Descent             | Up        | 23     | 2300    |               |               |
+| <span class="gait-climb"></span>Cruise Climb                | Up        | 23"    | 2450    | 105           |               |
+| <span class="gait-cruise"></span>Cruise                     | Up        | 23"    | 2300    |               |               |
+| <span class="gait-cruise"></span>Cruise Descent             | Up        | 23"    | 2300    |               |               |
 | <span class="gait-approach"></span>Clean - 0° Level         | Up        |        |         | 105           | 0             |
 | <span class="gait-approach"></span>Clean - 3° Glidepath     | Up        |        |         | 105           | -500          |
 | <span class="gait-approach"></span>Clean - 5° Dive          | Up        |        |         | 105           | -800          |
 | <span class="gait-approach"></span>Flaps 10° - 0° Level     | 10°       |        |         | 105           | 0             |
-| <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       | 14     |         | 105           | -500          |
+| <span class="gait-approach"></span>Flaps 10° - 3° Glidepath | 10°       | 14"    |         | 105           | -500          |
 | <span class="gait-approach"></span>Flaps 10° - 5° Dive      | 10°       |        |         | 105           | -800          |
-| <span class="gait-pattern"></span>Downwind                  | Up        | 18     |         | 100           | 0             |
-| <span class="gait-pattern"></span>Abeam Numbers             | 10°       | 15     |         | 100           |               |
-| <span class="gait-pattern"></span>Base                      | 20°       | 15     |         | 90            |               |
-| <span class="gait-pattern"></span>Final                     | 40°       | 17     | max     | 80            | -350          |
+| <span class="gait-pattern"></span>Downwind                  | Up        | 18"    |         | 100           | 0             |
+| <span class="gait-pattern"></span>Abeam Numbers             | 10°       | 15"    |         | 100           |               |
+| <span class="gait-pattern"></span>Base                      | 20°       | 15"    |         | 90            |               |
+| <span class="gait-pattern"></span>Final                     | 40°       | 17"    | max     | 80            | -350          |
 | <span class="gait-pattern"></span>Short                     | 40°       | as req | max     | 70            |               |
 | <span class="gait-emergency"></span>V<sub>G</sub>           | Up        |        | idle    | 86            |               |
 
-| Topic         | Details                                                                                                           |
-| ------------- |:----------------------------------------------------------------------------------------------------------------- |
-| Leaning       | Peak EGT –75° F                                                                                                   |
-| Cooling       | 23", <2450RPM, cowl open, CHT <380 (max 400)                                                                                                                  |
-| V<sub>A</sub> | 128 @ 3100; 115 @ 2500 lb; 105 @ 2100 lb -> start with 18"-2300RPM |
+<br>
+
+| Topic         | Details                                                              |
+| ------------- | :------------------------------------------------------------------- |
+| Leaning       | Peak EGT -75°F                                                       |
+| Cooling       | 23", <2450 RPM, cowl open, CHT <380°F (max 400°F)                    |
+| V<sub>A</sub> | 128 @ 3100 lb; 115 @ 2500 lb; 105 @ 2100 lb; start at 18" / 2300 RPM |

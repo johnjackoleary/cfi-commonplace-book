@@ -25,10 +25,10 @@ tags: [gait]
 
 <br>
 
-| Topic          | Details                                                                                                       |
-| -------------- |:------------------------------------------------------------------------------------------------------------- |
-| Leaning        | 50°F ROP, or lean until rough then enrich to smooth                                                           |
-| V<sub>A</sub>  | 111 @ 2440 lb; 88 @ 1531 lb                                                                  |
-| Short T.O.     | 25° Flaps, {*Rotate*, *50ft*} @ *weight*:<br>{52, 57}@2440 lb; {48, 53}@ 2200lb |
-| Fuel Burn Est. | ~10 GPH (pessimistic)                                                                                         |
-| Magnetos  | 175 RPM max; 50 RPM diff                                                                                                               |
+| Topic          | Details                                                                              |
+| -------------- | :----------------------------------------------------------------------------------- |
+| Leaning        | 50°F ROP, or lean until rough then enrich to smooth                                  |
+| V<sub>A</sub>  | 111 @ 2440 lb; 88 @ 1531 lb                                                          |
+| Short T.O.     | 25° Flaps, {*Rotate*, *50 ft*} @ *weight*:<br>{52, 57} @ 2440 lb; {48, 53} @ 2200 lb |
+| Fuel Burn Est. | ~10 GPH (pessimistic)                                                                |
+| Magnetos       | 175 RPM max drop; 50 RPM diff                                                        |

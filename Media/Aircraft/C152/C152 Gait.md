@@ -18,9 +18,10 @@ tags: [gait]
 | <span class="gait-pattern"></span>Short            | 30°       | as req  | 54            |
 | <span class="gait-emergency"></span>V<sub>G</sub>  | Up        | idle    | 60            |
 
+<br>
 
-| Topic         | Details                                                                                                         |
-| ------------- |:--------------------------------------------------------------------------------------------------------------- |
-| Leaning       | Lean to RPM drop when above 3000'                                                                               |
-| V<sub>A</sub> | ~2300 RPM -- 104 @ 1670; 93 @ 1350 lb |
-| Magnetos      | 125 RPM max drop; 50 RPM diff                                                                                                                |
+| Topic         | Details                                         |
+| ------------- | :---------------------------------------------- |
+| Leaning       | Lean to RPM drop above 3000'                    |
+| V<sub>A</sub> | 104 @ 1670 lb; 93 @ 1350 lb; start at ~2300 RPM |
+| Magnetos      | 125 RPM max drop; 50 RPM diff                   |

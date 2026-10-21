@@ -19,8 +19,8 @@ tags: [gait]
 
 <br>
 
-| Topic         | Details                                                                                                     |
-| ------------- |:----------------------------------------------------------------------------------------------------------- |
-| Leaning       | Lean for peak RPM                                                                                           |
-| V<sub>A</sub> | 112 @ 2300lb; 92 @ 1600lb -> start with 2200RPM | 
-| Short T.O.    | 0° Flaps, {*Rotate*, *50ft*}@*weight*:<br>{63, 68}@2300lb; {63,63}@2000lb        |
+| Topic         | Details                                                                             |
+| ------------- | :---------------------------------------------------------------------------------- |
+| Leaning       | Lean for peak RPM                                                                   |
+| V<sub>A</sub> | 112 @ 2300 lb; 92 @ 1600 lb; start at 2200 RPM                                      |
+| Short T.O.    | 0° Flaps, {*Rotate*, *50 ft*} @ *weight*:<br>{63, 68} @ 2300 lb; {63, 63} @ 2000 lb |

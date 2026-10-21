@@ -25,9 +25,9 @@ tags: [gait]
 
 <br>
 
-| Topic          | Details                                                                                   |
-| -------------- |:----------------------------------------------------------------------------------------- |
-| Leaning        | Peak EGT for economy cruise                                                                                       |
-| V<sub>A</sub>  | 124kts @ 3000lb; 96kts @ 1761lb                                          |
-| Short T.O.     | 25° Flaps, {*Rotate*, *50ft*}@*weight*:<br>{59, 63}@3000lb; {48,52}@2000lb |
-| Fuel Burn Est. | 15 gph @ 75% power economy cruise                                                                                        |
+| Topic          | Details                                                                              |
+| -------------- | :----------------------------------------------------------------------------------- |
+| Leaning        | Peak EGT for economy cruise                                                          |
+| V<sub>A</sub>  | 124 @ 3000 lb; 96 @ 1761 lb                                                          |
+| Short T.O.     | 25° Flaps, {*Rotate*, *50 ft*} @ *weight*:<br>{59, 63} @ 3000 lb; {48, 52} @ 2000 lb |
+| Fuel Burn Est. | 15 GPH @ 75% power economy cruise                                                    |

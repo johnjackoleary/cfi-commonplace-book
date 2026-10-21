@@ -19,9 +19,10 @@ tags: [gait]
 | <span class="gait-pattern"></span>Soft             | 20°       |           | 1200    | 65            |               |
 | <span class="gait-emergency"></span>V<sub>G</sub>  | Up        |           | idle    | 65            |               |
 
+<br>
 
-| Topic         | Details                              |
-| ------------- |:------------------------------------ |
-| Leaning       | 50°F ROP                             |
-| V<sub>A</sub> | 97 @ max; 89 @ 1950 lb; 80 @ 1600 lb |
-| Pivotal Alt   | 800'@95kts; 640'@85kts; 980'@105kts  | 
+| Topic         | Details                                      |
+| ------------- | :------------------------------------------- |
+| Leaning       | 50°F ROP                                     |
+| V<sub>A</sub> | 97 @ MGW; 89 @ 1950 lb; 80 @ 1600 lb         |
+| Pivotal Alt   | 800' @ 95 kts; 640' @ 85 kts; 980' @ 105 kts |
