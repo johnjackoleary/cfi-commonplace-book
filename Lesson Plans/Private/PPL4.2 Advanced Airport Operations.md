@@ -34,6 +34,8 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 9. Where to record this in XC planner
 
 #### En route
+![[Midfield Crossing to the 45 at TPA + 1000.svg]]
+
 1. Pick up the weather as soon as it's in range
 2. Pick up [[ATIS]]/[[AWOS]]/[[ASOS]] on the radio
 3. Note the time on hourly broadcasts (normally updated ~55 minutes after the hour).  Will there be a newer report before you arrive?
