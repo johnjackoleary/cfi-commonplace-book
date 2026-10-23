@@ -40,7 +40,7 @@ Ground 1.0 hr, Flight until proficient
 	- Preparing speed, power, and configurations for key stages of flight (see [[Aircraft Gait Charts]] for examples)
 	- [[MGW]] vs [[MRW]] vs [[MTOW]] vs [[MLW]]
 		- Consider water ballasts for testing at MGW
-		- Oddly shaped envelopes
+		- It is possible to leave the envelope during cruise as fuel burns
 - Preflight testing
 	- Careful with wrap-around covers to avoid touching the ground
 	- Inspecting the propeller blades and hub^[Great video from [[Hartzell]] can be found [here](https://youtu.be/WVfr_aexedg?t=361)]
@@ -62,7 +62,7 @@ Ground 1.0 hr, Flight until proficient
 - Pattern
 	- Many HP aircraft require flaps deployed before entry into the traffic pattern -- abeam the numbers may not give time to slow down
 	- Impact of heavier nose in round out -- lack of airspeed over threshold ('chop and drop') may not give enough energy to round out
-	- Closing cowl flaps for landing
+	- Closing cowl flaps for descent and landing to prevent rapid engine cooling
 - Go-Arounds
 	- Smooth power application
 	- [[4 C's (Go-Around)]], [[5 C's (Going Missed)]], [[Power, Pedal, Pitch]], or [[Power Up, Pitch Up, Clean Up]]

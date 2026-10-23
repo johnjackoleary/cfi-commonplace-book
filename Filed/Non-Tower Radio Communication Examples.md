@@ -22,14 +22,14 @@ Determine wind direction and runway in use, as well as any hazards like parachut
 
 10 miles out, inbound for landing
 
-> [!quote] "Watsonville traffic, Cessna Tango India Sierra, ten miles north east, 3000 feet, inbound for landing, Watsonville"
+> [!quote] "Watsonville traffic, Cessna Tango India Sierra, ten miles northeast, 3000 feet, inbound for landing, Watsonville"
 
 This is meant to inform local traffic where you are and that you're intending to land.
 
 ## Intention Call
 5 miles out, closer in, when you have determined what runway other traffic is using
 
-> [!quote] "Watsonville traffic, Cessna Tango India Sierra, five miles north east, will cross midfield at two thousand two hundred will enter on the forty-five, runway two zero, Watsonville"
+> [!quote] "Watsonville traffic, Cessna Tango India Sierra, five miles northeast, will cross midfield at two thousand two hundred and will enter on the forty-five, runway two zero, Watsonville"
 
 This is meant to tell local traffic where you are, and how you'll enter the pattern.
 
@@ -48,7 +48,7 @@ Plan to cross at least 500' above pattern altitude, although 1000' above may be 
 > 
 > > [!info] Photo courtesy of [Ben Eater](https://eater.net/cfi)
 > > If the FAA photo was drawn to match the textual description, it would look something like this:
-> > ![[AFH Figure 8-3 Pattern Entry Revised.png]]
+> > ![[AFH Figure 8-3 Pattern Entry Revised by Ben Eater.png]]
 
 Instead, an midfield cross and entry on the 45 looks something like this:
 ![[Midfield Crossing to the 45 at TPA + 1000.svg]]
@@ -64,7 +64,7 @@ If using direct entry (also called the "*alternate midfield entry*") instead:
 ## The pattern
 
 ### On the 45
-After crossing midfield, fly outbound about 2 miles, descend to pattern altitude, then turn back onto the 45
+After crossing midfield, fly outbound about 3 miles, descend to pattern altitude, then turn back onto the 45
 
 > [!quote] "Watsonville traffic, Cessna Tango India Sierra, on the forty-five, runway two zero, Watsonville"
 
@@ -72,15 +72,15 @@ After crossing midfield, fly outbound about 2 miles, descend to pattern altitude
 > If you are on the 45 or downwind, you are assumed to be at pattern altitude, unless you call out something different.
 
 ### On Downwind
-> [!quote] "Watsonville traffic, Cessna Tango India Sierra, entering downwind, runway two zero, Watsonville"
+> [!quote] "Watsonville traffic, Cessna Tango India Sierra, left downwind, runway two zero, Watsonville"
 
 >[!tip]
-> We leave off "left" or "right" by default, since everyone should know the traffic pattern direction.
+> There's a case to be made that 'left' is not needed here, since everyone should know the traffic pattern direction.
 > 
-> Add it when it's genuinely needed, such as when other traffic is flying the opposite pattern (IFR practice approaches sometimes do).
+> However, IFR practice approaches sometimes fly opposite traffic, so it's good to get in the habit of announcing.
 
 ### On Base
-> [!quote] "Watsonville traffic, Cessna Tango India Sierra, base, runway two zero, Watsonville"
+> [!quote] "Watsonville traffic, Cessna Tango India Sierra, left base, runway two zero, Watsonville"
 
 ### On Final
 > [!quote] "Watsonville traffic, Cessna Tango India Sierra, final approach, two zero, full-stop landing, Watsonville"

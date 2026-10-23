@@ -11,7 +11,7 @@
 [[PA28-236 Gait.pdf]]
 [[PA32-301 Gait.pdf]]
 [[DA40 XLS Gait.pdf]]
-[[C182T Gait.pdf]] (fix this one!)
+[[C182T Gait.pdf]]
 [[C182P with STC Gait.pdf]]
 
 > [!tip] If you're unsure which speeds to use in the traffic pattern, consider this [[Tip on Choosing Pattern Speeds]]
