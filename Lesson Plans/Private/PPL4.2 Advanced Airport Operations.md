@@ -42,11 +42,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 4. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
 	2. Determining the [[Active Runway]] based on wind, current activity, or designated calm wind runway
-	3. Planning pattern entry
-		1. Overhead entries, and standard 45-degree entry to traffic patterns
-		2.  ![[Non-Towered Pattern Entry.jpeg]]
-		3. Straight-Ins? Not illegal, but not usually a good idea
-		4. Use of tools like ForeFlight
+	3. [[Traffic Pattern Entry and Exit]]
 	4. Traffic Pattern
 		1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
 			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airspace Ops Near Airport]])
@@ -62,8 +58,8 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 > [!maneuver]- 3D Visualizer: Pattern Entry (45°)
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
-> [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, Teardrop)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-teardrop" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, 45)
+> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, Direct)
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-direct" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
