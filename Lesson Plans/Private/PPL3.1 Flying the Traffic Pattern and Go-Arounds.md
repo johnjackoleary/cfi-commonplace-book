@@ -74,9 +74,10 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	11. "Departing right downwind"
 	12. "Landing straight in on runway 27" (only if no one else is in the pattern, and even then be careful)
 6. At an un-towered airport, the default is to enter on the 45.  What if that's not the direction you're coming from?
-	1. Circle wide
-	2. Cross midfield above the pattern, and teardrop onto the 45
-	3. More in [[PPL4.2 Advanced Airport Operations]]
+	1. Circle wide to the 45
+	2. Cross midfield 500' or more above pattern altitude, fly about 2 miles clear, descend, and come back to enter on the 45
+	3. Cross midfield at pattern altitude and enter downwind directly
+	4. More in [[PPL4.2 Advanced Airport Operations]]
 7. Flying the pattern
 	1. Memorize power settings/airspeeds, use wind correction angle like the [[PPL2.5 Ground Reference Maneuvers|rectangular course]] ![[Rectangular Course.jpeg]]
 	2. Should do a [[GUMPS]] check on downwind, and may consider a [[Final Check When Turning Final]]
