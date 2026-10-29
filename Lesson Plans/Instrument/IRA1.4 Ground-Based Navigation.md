@@ -21,7 +21,9 @@ Ground 1.0 hr, Sim/Flight 2.0 hr^[may need less time based on depth of PPL train
 
 ### Lesson Elements
 1. VOR Information from [[Ground-Based Navigation using VOR, DME, and ILS]]
-2. Common Errors 
+2. Sim Exercises
+	1. Using HDG mode and pitch mode to fly an ILS using pitch and heading with winds to emphasize flying 'by the numbers' 
+3. Common Errors 
 	1. Incorrect tuning and identification procedures 
 	2. Failure to set navigation selector for the course to be intercepted (GPS vs VOR/VLOC switch) 
 

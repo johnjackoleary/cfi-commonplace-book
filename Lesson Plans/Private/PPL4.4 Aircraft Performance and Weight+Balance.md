@@ -19,6 +19,8 @@ Finally, you'll notice that some of these performance stats depend on Groundspee
 - [[E6B]] Calculator or App
 
 ### Lesson Elements
+Consider adding a sort of worksheet of how to fill it out sort of thing
+
 > [!info]- Structure of XC Lessons...
 > Lessons [[PPL4.2 Advanced Airport Operations|PPL4.2]], [[PPL4.3 Flight Planning, Navigation Systems, and Other XC Equipment|PPL4.3]], [[PPL4.4 Aircraft Performance and Weight+Balance|PPL4.4]], [[PPL4.5 Advanced Weather Briefs and Preflight Planning|PPL4.5]], & [[PPL4.6 Pilotage and Dead Reckoning|PPL4.6]] can be thought of as building out each part of a flight plan.
 > 

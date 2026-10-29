@@ -35,7 +35,7 @@ Multiple flights to practice as necessary
 			2. Key points in pattern
 		3. [[FAR 91.113 Right-of-Way Rules]]
 		4. [[Runway Incursion]] (covered in [[PPL1.5 Towered Airport Operations|PPL1.5]])
-		5. Awareness of other operations, such as parachuting
+		5. Awareness of other operations, such as parachuting (they have right of way, right??)
 	2. [[Wake Turbulence]] from helicopters and heavy aircraft
 	3. [[Wind Shear]] avoidance
 	4. [[Gust Factor]] for final approach speed
@@ -88,7 +88,7 @@ Multiple flights to practice as necessary
 		2. Stop and complete after-landing checklist
 		3. Contact ground frequency (unless staying with tower)
 6. Landing Issues to Avoid
-	1. Multiple bounces may be a sign of [[Porpoising.jpeg|Porpoising]], go-around and don't let this develop!
+	1. Multiple bounces may be a sign of [[Porpoising.jpeg|Porpoising]], go-around and don't let this develop!^[[Example of porpoising](https://www.youtube.com/watch?v=NMmHYWjEmkY) after coming in too fast]
 7. Common Errors
 	1. Getting "behind the airplane", missing radio calls, missing traffic, etc.
 	2. Forgetting checklists

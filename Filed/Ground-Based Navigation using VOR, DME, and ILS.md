@@ -64,7 +64,7 @@ See [[Holding Procedures]]
 | Method            | Max Error |
 | ----------------- | --------- |
 | VOT               | 4°        |
-| Ground Checkpoint | 4°        |
+| Ground Checkpoint (add pic) | 4°        |
 | Dual              | 4°        |
 | Airborne          | 6°        |
 

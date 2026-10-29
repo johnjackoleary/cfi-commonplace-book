@@ -1,6 +1,8 @@
 # Key Takeaways
 
 # Details
+What if you arrive overhead the airport, then what?
+
 ## Entry
 1. Overhead entries, and standard 45-degree entry to traffic patterns
 2. Straight-Ins? Not illegal, but not usually a good idea
