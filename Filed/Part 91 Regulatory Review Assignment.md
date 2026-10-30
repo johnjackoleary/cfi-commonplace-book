@@ -40,7 +40,7 @@ From [[AC 61-98]] Appendix F:
 
 ## Environment
 - [ ] **Airports**:
-	- [ ] Markings ([[AIM 2]]-3)
+	- [ ] Markings ([[AIM 2]]-3, [[Airport Signs and Markings]], [[Airport Lighting]])
 	- [ ] Operations ([[AIM 4]]-3; §§ [[FAR 91.125 ATC Light Signals|91.125]] and [[FAR 91.126 Class G Airspace Ops Near Airport|91.126]])
 	- [ ] Traffic Patterns (§ [[FAR 91.126 Class G Airspace Ops Near Airport|91.126]])
 - [ ] **Airspace**:
