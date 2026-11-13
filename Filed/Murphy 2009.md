@@ -7,5 +7,4 @@
 * Section [[FAR 91.126 Class G Airspace Ops Near Airport|91. 126]](a) states, in relevant part, that each person operating an aircraft on or in the vicinity of an airport in Class G airspace area must comply with the requirements of section 91.126 "\[u\]nless otherwise authorized or required." Section 91. 126(b)(1) states, in relevant part, that when approaching to land at an airport without an operating control tower in Class G airspace, "\[e\]ach pilot of an airplane must make all turns of that airplane to the left unless the airport displays approved light signals or visual markings indicating that turns should be made to the right, in which case the pilot must make all turns to the right."
 * The use of "must" in sections 91.126(b)(1) and 91.126(a) do not permit a pilot's discretion in determining in which direction to make turns when approaching the airport.
 
-
 #source #legal-interpretation 
