@@ -26,7 +26,8 @@ Ground 1.0 hr, Sim 2.0 hr
 3. Circle to land approaches ([[AIM 5]]-4-20)
 	1. Approach chart named with letter instead of runway number OR a circling approach might be preferred if the straight-in runway is not usable because of wind or other reasons
 	2. Review circling minimums and notes on approach chart 
-	3. Which direction to circle? Follow [[FAR 91.126 Class G Airspace Ops Near Airport]] when able
+	3. Which direction to circle? 
+		1. Follow [[FAR 91.126 Class G Airspace Ops Near Airport]] when able^[[See [[Murphy 2009]] if curious]]
 	4. Review circling approach protected areas (maneuvering radius)
 		1. 1.3nm from each runway end for Category A at most altitudes
 		2. AIM 5-4-20
