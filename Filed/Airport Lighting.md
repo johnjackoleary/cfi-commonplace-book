@@ -41,6 +41,8 @@ Details on each runway can be found in the [[Chart Supplement]].
 | <span style="background-color:whitesmoke;">White</span> / <span style="background-color:Yellow;">Yellow</span>         | Lighted water airport   |
 | <span style="background-color:lightgreen;">Green</span> / <span style="background-color:Yellow;">Yellow</span> / <span style="background-color:whitesmoke;">White</span> | Lighted heliport        |
 
+![[Rotating Beacon.jpeg]]
+
 ### Obstacles
 - Berms
 - Wind farms

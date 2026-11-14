@@ -38,12 +38,14 @@ Multiple flights to practice as necessary
 		5. Awareness of other operations, such as parachuting
 	2. [[Wake Turbulence]] from helicopters and heavy aircraft
 	3. [[Wind Shear]] avoidance
-	4. [[Gust Factor]] for final approach speed
-4. Importance of Stabilized Approach to landing
+4. Gusty conditions
+	1. [[Gust Factor]] for final approach speed
+	2. Consider less flaps
+5. Importance of Stabilized Approach to landing
 	1. [[Aiming point]]
 	2. ![[Runway Shape in Stabilized Approach.jpeg]]
 	3. [[White Over White, Red Over White, Red Over Red]]
-5. In the Pattern
+6. In the Pattern
 	1. Downwind leg
 		1. Awareness of traffic
 		2. Power setting, configuration, airspeed for downwind
@@ -87,9 +89,9 @@ Multiple flights to practice as necessary
 		1. Exit runway, completely beyond hold-short lines
 		2. Stop and complete after-landing checklist
 		3. Contact ground frequency (unless staying with tower)
-6. Landing Issues to Avoid
-	1. Multiple bounces may be a sign of [[Porpoising.jpeg|Porpoising]], go-around and don't let this develop!
-7. Common Errors
+7. Landing Issues to Avoid
+	1. Multiple bounces may be a sign of [[Porpoising.jpeg|Porpoising]], go-around and don't let this develop!^[[Example of porpoising](https://www.youtube.com/watch?v=NMmHYWjEmkY) after coming in too fast]
+8. Common Errors
 	1. Getting "behind the airplane", missing radio calls, missing traffic, etc.
 	2. Forgetting checklists
 	3. Non-stabilized approach

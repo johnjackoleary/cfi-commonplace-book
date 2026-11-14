@@ -53,7 +53,7 @@ Flight is optional
 	1. Steer with feet
 	2. Minimum use of brakes (don't use power if using brakes)
 	3. Position of controls relative to wind while taxiing ([[AileronsForWindWhileTaxing.jpeg|image]])
-	4. Lights (see [[AC 91-73]] and [[Wes Irish]]'s writeup [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/lessons/lights))
+	4. Lights (see [[AC 91-73]], [[Operation Lights On]], and [[Wes Irish]]'s writeup [here](https://sites.google.com/coyotehillconsulting.com/cfiwes/lessons/lights))
 		1. Beacon before starting engine
 		2. Nav, anti-collision (beacon/strobe), and taxi light before taxi
 		3. Landing light before takeoff or before crossing runways

@@ -14,4 +14,6 @@
 	* dual system VOR... Both systems shall be tuned to the same VOR ground facility and note the indicated bearings to that station.... 4 degrees
 	* Each person making the VOR operational check... shall enter the date, place, bearing error, and sign the aircraft log or other record.
 
+![[VOR Ground Receiver Checkpoint Marking.svg]]
+
 #source #far
