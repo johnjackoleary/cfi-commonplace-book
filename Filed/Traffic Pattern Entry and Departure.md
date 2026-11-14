@@ -1,4 +1,7 @@
 # Key Takeaways
+- All turns in the traffic pattern at an uncontrolled airport must be in the pattern direction
+- Entry is done on a leg 45° to the downwind, or sometimes when crossing midfield, with a direct turn to the downwind
+- Departure is either straight out, or after a 45° turn in the pattern direction
 
 # Details
 ## Procedures

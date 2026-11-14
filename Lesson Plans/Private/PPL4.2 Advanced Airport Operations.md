@@ -42,7 +42,7 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 4. Plan your arrival and entry
 	1. Computing [[TOD]]: [[Stabilized Approach|3-1 Principle]] or assume 500 [[FPM]]
 	2. Determining the [[Active Runway]] based on wind, current activity, or designated calm wind runway
-	3. [[Traffic Pattern Entry and Exit]]
+	3. [[Traffic Pattern Entry and Departure]]
 	4. Traffic Pattern
 		1. Standard traffic patterns to the left, unless charts indicate Right traffic (See "RP 31" for KPAO on sectional)
 			1. All turns must be to the left (or right, if right traffic) while in pattern! ([[FAR 91.126 Class G Airspace Ops Near Airport]])
