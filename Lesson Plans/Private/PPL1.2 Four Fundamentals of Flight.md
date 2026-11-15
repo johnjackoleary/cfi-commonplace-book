@@ -54,9 +54,9 @@ This follows the topics covered in a demo flight, if not previously flown.
 	1. Apply back-pressure to the controls, increasing lift
 	2. Sometimes add power, to overcome increased drag
 3. [[Adverse Yaw]] requires using the rudder to maintain coordinated flight
-4. [[Overbanking Tendency]] means you need to apply a bit of opposite aileron to keep the bank angle constant.
-5. Back-pressure results in load factor > 1.0, and increased stall speed
-6. Sight picture differs slightly in left vs right turns
+4. Back-pressure results in load factor > 1.0, and increased stall speed
+5. Sight picture differs slightly in left vs right turns
+	1. Using a reference point directly in front of you, however, and not the nose, should allow you to 'slice' the horizon in either direction
 
 **In Practice**
 1. Check for traffic (high wing plane - lift wing slightly before banking)
