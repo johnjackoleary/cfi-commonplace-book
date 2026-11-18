@@ -24,6 +24,9 @@ Ground 0.5 hr, Flight 1.0 hr
 Practice on multiple flights
 
 ### Lesson Elements
+> [!maneuver]- 3D Visualizer: Accelerated Stall
+> <iframe src="https://maneuvers.cfijack.com/m/accelerated-stalls?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Review the aerodynamic principles
 	1. Stall background same as [[PPL2.3 Power-On Stalls and Spin Awareness]]
 	2. Why do we experience increased load factor in a level banked turn?

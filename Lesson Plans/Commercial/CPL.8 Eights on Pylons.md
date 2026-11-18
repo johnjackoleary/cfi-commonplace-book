@@ -16,6 +16,9 @@ To develop knowledge of pivotal altitude and the skill to maneuver the airplane 
 Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements 
+> [!maneuver]- 3D Visualizer: Eights on Pylons
+> <iframe src="https://maneuvers.cfijack.com/m/eights-on-pylons?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Overview
 	1. This is the most advanced ground reference maneuver.
 	2. It requires the pilot to demonstrate ability to plan and select an appropriate location, the skill to fly the maneuver precisely, and the situational awareness to divide attention between the ground references, instruments, traffic, and emergency field location.

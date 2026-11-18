@@ -49,6 +49,9 @@ Overview of short- and soft-field operations
 > [!maneuver]- 3D Visualizer: Short-Field Landing
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=short-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
+> [!maneuver]- 3D Visualizer: Short-Field Landing (Over an Obstacle)
+> <iframe src="https://maneuvers.cfijack.com/m/short-field-landing/steep-over-obstacle?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 #### Soft-Field
 1. [[Ground Effect]], [[Wingtip Vortex]], and [[Induced Drag]]
 	1. What actually is happening aerodynamically in ground effect?

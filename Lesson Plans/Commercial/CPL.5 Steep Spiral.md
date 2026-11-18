@@ -21,6 +21,9 @@ Understand purpose and procedures of a steep spiral. Develop skills required to 
 Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements
+> [!maneuver]- 3D Visualizer: Steep Spiral
+> <iframe src="https://maneuvers.cfijack.com/m/steep-spiral?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Purpose
 	1. A steep spiral allows for rapidly dissipating altitude while remaining over a selected spot
 	2. May be useful during an emergency landing. 

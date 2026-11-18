@@ -23,6 +23,9 @@ Beyond the the checkride, this maneuver is important for many reasons. It gives 
 > [!maneuver]- 3D Visualizer: Steep Turns
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=steep-turns" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
+> [!maneuver]- 3D Visualizer: Steep Turns (Both Directions)
+> <iframe src="https://maneuvers.cfijack.com/m/steep-turns/both-directions?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Aerodynamics of steep turns
 	1. [[Adverse yaw]] and rudder usage to compensate for it
 	2. Rudder usage during turn entry, steady turn, and turn exit
