@@ -59,8 +59,11 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	7. Emphasize rudder coordination, and divide attention between aircraft control, traffic avoidance, and orientation
 	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
 
-> [!maneuver]- 3D Visualizer: Slow Flight
+> [!maneuver]- 3D Visualizer: Slow Flight (Low Drag)
 > <iframe src="https://maneuvers.cfijack.com/?embed&m=slow-flight" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+> [!maneuver]- 3D Visualizer: Slow Flight (High Drag)
+> <iframe src="https://maneuvers.cfijack.com/m/slow-flight/high-drag?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Power-Off Stalls
 1. Aerodynamics of stalls
