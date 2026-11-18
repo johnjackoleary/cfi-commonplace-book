@@ -1,0 +1,20 @@
+{
+  "MergeParagraph_Newlines": true,
+  "MergeParagraph_Spaces": true,
+  "LowercaseFirst": false,
+  "RemoveBlanksWhenChinese": false,
+  "ZoteroNoteRegExp": "“(?<text>.*)” \\((?<item>.*?)\\) \\(\\[pdf\\]\\((?<pdf_url>.*?)\\)\\)",
+  "ZoteroNoteTemplate": "{text} [🔖]({pdf_url})",
+  "wrapperList": [
+    {
+      "name": "underline",
+      "prefix": "<u>",
+      "suffix": "</u>"
+    },
+    {
+      "name": "weight",
+      "prefix": "***",
+      "suffix": "***"
+    }
+  ]
+}
