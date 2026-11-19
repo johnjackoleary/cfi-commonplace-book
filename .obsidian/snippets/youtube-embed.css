@@ -1,4 +1,7 @@
 .callout[data-callout="youtube"] {
-    --callout-color: #ff0000;
+    --callout-color: #cc0000;
     --callout-icon: square-play;
+}
+.theme-dark .callout[data-callout="youtube"] {
+    --callout-color: #ff4e45;
 }

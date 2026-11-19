@@ -3,20 +3,29 @@
 }
 /* Custom theme for Youtube callouts */
 .callout[data-callout="youtube"] {
-    --callout-color: #ff0000;
+    --callout-color: #cc0000;
     --callout-icon: square-play;
+}
+.theme-dark .callout[data-callout="youtube"] {
+    --callout-color: #ff4e45;
 }
 
 /* Custom theme for Instagram callouts */
 .callout[data-callout="instagram"] {
-    --callout-color: #c13584;
+    --callout-color: #a62b70;
     --callout-icon: camera;
+}
+.theme-dark .callout[data-callout="instagram"] {
+    --callout-color: #f06ba8;
 }
 
 /* Custom theme for Pocket Maneuver callouts */
 .callout[data-callout="maneuver"] {
     --callout-color: #7a4a00;
     --callout-icon: rotate-3d;
+}
+.theme-dark .callout[data-callout="maneuver"] {
+    --callout-color: #f2b134;
 }
 
 /* Base styling for the iframe itself */

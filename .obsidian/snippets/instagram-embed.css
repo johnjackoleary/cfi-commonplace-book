@@ -1,6 +1,9 @@
 .callout[data-callout="instagram"] {
-    --callout-color: #C13584;
+    --callout-color: #a62b70;
     --callout-icon: camera;
+}
+.theme-dark .callout[data-callout="instagram"] {
+    --callout-color: #f06ba8;
 }
 
 /* Base styling for the iframe itself */
