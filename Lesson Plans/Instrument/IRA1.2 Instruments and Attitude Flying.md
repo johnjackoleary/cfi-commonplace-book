@@ -9,7 +9,7 @@ Instrument flying, at its core, is attitude flying. Without visual references ou
 So, the instrument pilot must develop a habit of continuously scanning the instruments, while also multitasking to perform every other action required in flight. In this lesson, we'll review the instrument systems and pre-flight procedures you learned in [[PPL]] training, then we'll discuss several instrument scan techniques. The goal is for this scan to become second nature.
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
-**Builds On:** [[IRA1.1 Introduction and Roadmap]]
+**Builds On:** [[IRA1.1 Introduction and Roadmap]], [[PPL2.6 Aircraft Systems]]
 **Resources:** Flight Deck Poster/Diagram ([Sporty's](https://www.sportys.com/cessna-172r-cockpit-poster.html) or from [[Rectangular Scan.jpeg|IFH]])
 **Schedule:** Ground 1.0 hr, Sim/Flight 0.5 hr
 

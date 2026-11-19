@@ -37,7 +37,7 @@ To set us up for training success, we'll start with the [[IFR]] flight training 
 	7. Risk avoidance and management 
 		1. Intro to multi-tasking, workload management, checklists
 		2. [[See and Avoid]] still expected [[IFR]] on [[VMC]] day
-		3. [[Personal Minimums]], [[Operational Pitfalls]], proficiency vs currency, [[PAVE]]
+		3. [[Personal Minimums]], [[Operational Pitfalls]], [[proficiency vs currency]], [[PAVE]]
 2. Flight Deck Resources
 	1. Digital Charts ([[EFB]])
 		1. Pros - lighter, backlighting, digital updates, GPS integration, EFB can include more than just charts (TIS-B, Datalink weather, W+B, Chart supplements)
