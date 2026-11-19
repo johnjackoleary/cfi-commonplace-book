@@ -11,5 +11,6 @@
   "baseFontSize": 16,
   "theme": "moonstone",
   "accentColor": "#0097a7",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
