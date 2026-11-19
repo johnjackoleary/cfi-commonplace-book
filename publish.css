@@ -3,19 +3,19 @@
 }
 /* Custom theme for Youtube callouts */
 .callout[data-callout="youtube"] {
-    --callout-color: 255, 0, 0;
+    --callout-color: #ff0000;
     --callout-icon: square-play;
 }
 
 /* Custom theme for Instagram callouts */
 .callout[data-callout="instagram"] {
-    --callout-color: 193, 53, 132;
+    --callout-color: #c13584;
     --callout-icon: camera;
 }
 
 /* Custom theme for Pocket Maneuver callouts */
 .callout[data-callout="maneuver"] {
-    --callout-color: 122, 74, 0;
+    --callout-color: #7a4a00;
     --callout-icon: rotate-3d;
 }
 
