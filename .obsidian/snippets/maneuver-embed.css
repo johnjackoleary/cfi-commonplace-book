@@ -3,3 +3,6 @@
     --callout-color: #7a4a00;
     --callout-icon: rotate-3d;
 }
+.theme-dark .callout[data-callout="maneuver"] {
+    --callout-color: #f2b134;
+}
