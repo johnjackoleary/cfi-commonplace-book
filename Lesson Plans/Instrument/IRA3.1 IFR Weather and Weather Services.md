@@ -17,7 +17,7 @@ Develop satisfactory knowledge, risk management, and skills associated with obta
 [[PPL4.5 Advanced Weather Briefs and Preflight Planning]]
 
 ### Schedule
-Ground 2.0 hr
+Ground 3.0 hr
 
 ### Lesson Elements
 1. Meteorology for IFR flight planning 
@@ -27,6 +27,7 @@ Ground 2.0 hr
 	4. [[Thunderstorm]]s and [[Wind Shear#Microbursts|microbursts]] 
 	5. [[Fog]]
 	6. Ice hazards, [[Aircraft Icing]], including frost, conditions conducive to icing
+		1. [[Ice Hazards and Aircraft Icing]] - Stalls, tailplane stall, roll upset stall, [[Freezing Rain]], [[SLD]]
 	7. Wind 
 	8. Moisture and precipitation 
 	9. [[Area Forecast Discussion]]
@@ -39,20 +40,19 @@ Ground 2.0 hr
 3. Enroute weather Services 
 	1. Onboard weather information 
 	2. Inflight [[FSS]] weather 
-4. Hazardous Inflight Weather
-	1. Turbulence
-	2. Thunderstorms / Hail
-	3. [[Ice Hazards and Aircraft Icing]] - Stalls, tailplane stall, roll upset stall, [[Freezing Rain]], [[SLD]]
-	4. What to do if any of these are encountered or forecast
+		1. This is changing
+	3. Available services from ATC
+4. Hazardous Inflight Weather: What to do if any of these are encountered or forecast
 5. Anti-ice/deicing and weather detection equipment and their operating characteristics to include—
-	1. Airframe and/or induction Icing
+	1. merge htis
+	2. Airframe and/or induction Icing
 		1. De-ice: rubber boots, weeping wings
 		2. Anti-Ice: thermal (bleed air), electro thermal, weeping wings, propeller anti-ice
-	2. air intake: carb heat, alternate intake (often connected to carb heat, but can be automatically vacuum activated)
-	3. fuel system: carb heat
-	4. pitot-static system: pitot heat, alternate static source
-	5. radar/lightning detection system: FIS-B provides as one source, or a stormscope
-	6. other inflight weather systems
+	3. air intake: carb heat, alternate intake (often connected to carb heat, but can be automatically vacuum activated)
+	4. fuel system: carb heat
+	5. pitot-static system: pitot heat, alternate static source
+	6. radar/lightning detection system: FIS-B provides as one source, or a stormscope
+	7. other inflight weather systems
 		1. [[FIS-B]] 
 		2. Onboard radar
 		3. Sirius XM

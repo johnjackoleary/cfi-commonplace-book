@@ -51,7 +51,7 @@ See also [[Thunderstorm Alerts in Forecast Before Lightning Strikes]]
 - Consider diverting and waiting out the storm
 	- May be appropriate to ask for a hangar if hail is expected
 - Go around the storm using radar for large scale planning
-- Never try to use radar to navigate between storm cells (link)
+- Never try to use radar to navigate between storm cells
 
 > [!youtube]- Published by [[Air Safety Institute]]
 > ![](https://www.youtube.com/watch?v=83uvKWJS2os&t=510)

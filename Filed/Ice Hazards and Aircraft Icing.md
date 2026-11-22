@@ -44,7 +44,8 @@ A plane that is certified for [[FIKI]] can operate in up to moderate icing (foll
 | Severe    | De-icing/anti-icing equipment fails to reduce or control the hazard. Immediate flight diversion is necessary|                                                                                                                         |
 
 ## Categories of Aircraft Icing
-- Structural Icing: Icing on aircraft structures.
+- Structural Icing: Icing on aircraft structures
+	- Tailplane icing
 - Induction System Icing
 	- Air intake icing and alternative intake solutions
 	- [[How and Why Carburetor Ice Forms|Carburetor Icing]]
@@ -60,6 +61,8 @@ In general, any time^[This is really common advice, but Jack could not find a sp
 Certain fronts and atmospheric structures are more likely to cause icing conditions.
 
 Typically, ice only forms within a 2000'-3000' layer,^[From [Aircraft Icing: Everything You Ever Wanted to Know](https://www.youtube.com/watch?v=BNUekm12_xM)] so descending may help. (Climbing may also help, but also increases the risk of [[SLD]].) A key initial goal is to stop the accumulation.
+
+FInd image of band and send to Stella later
 
 > [!tip] The best course of action might be to turn around.
 
@@ -91,7 +94,10 @@ Aircraft certified for [[FIKI]] need to have specific tests completed. All equip
 - De-icers remove ice after formation
 	- Rubber boots
 	- Weeping wing^[Can also be considered anti-icing]
+		- Add pic for Stella!
 - You may be able to knock some ice from a constant-speed propeller by varying the pitch
+	- Heating leading edges
+- What does the airliners do? Ask Ed
 
 > [!youtube] Published by [[Air Safety Institute]]
 > ![](https://www.youtube.com/watch?v=J3GkaICxiPw)
