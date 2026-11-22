@@ -100,10 +100,10 @@ Multiple flights to practice as necessary
 	6. Excessive braking!
 
 > [!maneuver]- 3D Visualizer: Normal Landing
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=normal-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/normal-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Crosswind Landing
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=crosswind-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/crosswind-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 Learner must become proficient at flying stabilized approaches to landing, with smooth control application and safe touchdown and rollout in first third of runway length, with proper control application relative to crosswind.

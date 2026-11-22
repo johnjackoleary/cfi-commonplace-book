@@ -19,14 +19,18 @@ Frequent practice on multiple flights
 ### Lesson Elements
 
 > [!maneuver]- 3D Visualizer: Engine Failure at Altitude
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=engine-failure-at-altitude" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/engine-failure-at-altitude" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Engine Failure from Key Position
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=engine-failure-from-key-position" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/engine-failure-from-key-position" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 1. [[FAR 91.3 PIC Responsibility and Authority]]:
 	1. > [!cite] In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet that emergency.
-2. Types of emergency landings: [[Forced Landing]], [[Precautionary Landing]], [[Ditching]]
+2. Types of emergency landings: 
+	1. [[Forced Landing]]
+	2. [[Precautionary Landing]]
+	3. [[Ditching]]
+	4. [[Plans for Rejected Takeoff|Engine Failure on Takeoff]]
 3. [[Aviate, Navigate, Communicate]]
 4. [[ABCDE]]
 5. Details on flying the approach

@@ -37,6 +37,10 @@
   box-shadow: 0 6px 24px rgba(0,0,0,.15);
 }
 
+/* Match Pocket Maneuver embeds to the vault's light/dark theme */
+.theme-dark iframe[src*="maneuvers.cfijack.com"] { color-scheme: dark; }
+.theme-light iframe[src*="maneuvers.cfijack.com"] { color-scheme: light; }
+
 .published-container {  
   /* ... CSS variables for Publish that do not change when light or dark mode is enabled. They sometimes link to color variables in .theme-light or .theme-dark */
 }

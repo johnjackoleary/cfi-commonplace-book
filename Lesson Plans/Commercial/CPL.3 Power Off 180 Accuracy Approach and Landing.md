@@ -28,6 +28,12 @@ Practice on many flights
 ### Lesson Elements
 ![[Key Position for Power Off 180.jpeg]] 
 
+> [!maneuver]- 3D Visualizer: Power-Off 180° (Calm Wind)
+> <iframe src="https://maneuvers.cfijack.com/embed/m/power-off-180/calm-wind" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
+> [!maneuver]- 3D Visualizer: Power-Off 180° (Strong Wind)
+> <iframe src="https://maneuvers.cfijack.com/embed/m/power-off-180/strong-wind" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Tips
 	1. Practicing judging your glidepath is key -- practice seeing your glide from progressively further back in the pattern
 	2. Pick an “aiming point” on the runway about 200’ short of your touchdown target

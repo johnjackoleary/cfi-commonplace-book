@@ -41,10 +41,10 @@ Practice on multiple flights
 	3. Secondary stall due to aggressive pitch up during recovery
 
 > [!maneuver]- 3D Visualizer: Power-On Stall
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=power-on-stall" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/power-on-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Power-On Stall (Turning)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=power-on-stall-turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/power-on-stalls/turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Spins
 1. Spin Recovery Procedure
@@ -101,10 +101,10 @@ Practice on multiple flights
 	6. Spinning an airplane not approved for spins, or out of utility limits. This could be fatal!
 
 > [!maneuver]- 3D Visualizer: Spins (Recovery at Wing Drop)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=spins" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/spins" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Spins (Developed)
-> <iframe src="https://maneuvers.cfijack.com/m/spins/developed?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/spins/developed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 Learner must be able to demonstrate power-on stalls, to ACS standards. The client must be able to assess and avoid situations where unintentional spins may occur, and must be able to explain (and optionally demonstrate) procedures to recover from unintentional spins.

@@ -67,7 +67,7 @@ This follows the topics covered in a demo flight, if not previously flown.
 6. Use opposite aileron to roll out, while relaxing back pressure, and staying coordinated
 
 > [!maneuver]- 3D Visualizer: Level Flight and Turns
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=level-flight-and-turns" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/level-flight-and-turns" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Climbs and Descents
 

@@ -2,6 +2,6 @@
 ***Source***: [[AC 61-98]]
 
 > [!maneuver]- 3D Visualizer: CHAPS
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=chaps" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/chaps" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #acronym

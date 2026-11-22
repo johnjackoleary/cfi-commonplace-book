@@ -33,7 +33,7 @@ Overview of short- and soft-field operations
 7. Maintain [[Vx]] until obstacle is cleared (or 50' AGL), then accelerate to [[Vy]]
 
 > [!maneuver]- 3D Visualizer: Short-Field Takeoff
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=short-field-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/short-field-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
    
 
 ##### Short-Field Landing
@@ -47,10 +47,10 @@ Overview of short- and soft-field operations
 8. Raise flaps, apply brakes and elevator back-pressure as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
 > [!maneuver]- 3D Visualizer: Short-Field Landing
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=short-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/short-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Short-Field Landing (Over an Obstacle)
-> <iframe src="https://maneuvers.cfijack.com/m/short-field-landing/steep-over-obstacle?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/short-field-landing/steep-over-obstacle" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Soft-Field
 1. [[Ground Effect]], [[Wingtip Vortex]], and [[Induced Drag]]
@@ -68,7 +68,7 @@ Overview of short- and soft-field operations
 8. Retract gear/flaps after positive rate of climb, clear of obstacles and >200', and in accordance with POH/AFM
 
 > [!maneuver]- 3D Visualizer: Soft-Field Takeoff
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=soft-field-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/soft-field-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ##### Soft-Field Landing
 1. Complete pre-landing checklist ([[GUMPS]])
@@ -78,7 +78,7 @@ Overview of short- and soft-field operations
 5. Maintain full up elevator during rollout, and exit the runway without stopping and safe taxi speed, using proper control deflections for existing wind conditions.  Brakes may not be required. Power may be used to keep from bogging down, and to keep the nose wheel unweighted.
 
 > [!maneuver]- 3D Visualizer: Soft-Field Landing
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=soft-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/soft-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!question] What's correct and what's incorrect about this?
 > > [!youtube] [Tom Cruise, in American Made](https://www.youtube.com/watch?v=xXz7UyPTytE)

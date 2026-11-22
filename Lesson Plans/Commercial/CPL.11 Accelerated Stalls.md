@@ -25,7 +25,7 @@ Practice on multiple flights
 
 ### Lesson Elements
 > [!maneuver]- 3D Visualizer: Accelerated Stall
-> <iframe src="https://maneuvers.cfijack.com/m/accelerated-stalls?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/accelerated-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 1. Review the aerodynamic principles
 	1. Stall background same as [[PPL2.3 Power-On Stalls and Spin Awareness]]
