@@ -15,7 +15,7 @@ For example:
 | Ground Roll         | Power Idle; Brake; Taxi Off                                                                |
 | Runway Remaining    | Power Idle; Land; Brake; Taxi Off                                                          |
 | No Runway Remaining | Pitch for [[Vg\|Best Glide]]; Land Ahead                                                   |
-| Within Glide Range | Pitch for [[Vg\|Best Glide]]; 180° Turn (45° bank, likely into wind); Land Back at Airport |
+| Within Glide Range  | Pitch for [[Vg\|Best Glide]]; 180° Turn (45° bank, likely into wind); Land Back at Airport |
 
 > [!maneuver]- 3D Visualizer: Engine Failure on Takeoff (Runway Remaining)
 > <iframe src="https://maneuvers.cfijack.com/embed/m/engine-failure-on-takeoff/runway-ahead" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
