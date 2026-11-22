@@ -56,13 +56,13 @@ Cross-country trips take us to many new airports, some of which are non-towered.
 	4. If you don't know a local landmark or procedure, just say "unfamiliar"!
 
 > [!maneuver]- 3D Visualizer: Pattern Entry (45°)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-entry" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, 45)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-entry/midfield-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Pattern Entry (Cross Midfield, Direct)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=pattern-entry-midfield-direct" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-entry/midfield-direct" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### At the Airport
 1. Possibly overfly before landing

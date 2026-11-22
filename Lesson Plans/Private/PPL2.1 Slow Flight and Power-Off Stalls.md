@@ -60,10 +60,10 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	8. Reestablish cruise flight: Full power, reduce pitch, hold altitude as plane accelerates, set cruise power, trim
 
 > [!maneuver]- 3D Visualizer: Slow Flight (Low Drag)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=slow-flight" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/slow-flight" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Slow Flight (High Drag)
-> <iframe src="https://maneuvers.cfijack.com/m/slow-flight/high-drag?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/slow-flight/high-drag" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Power-Off Stalls
 1. Aerodynamics of stalls
@@ -109,10 +109,10 @@ This lesson also covers Power-Off Stalls, another maneuver you're required to de
 	7. Secondary stall due to aggressive pitch up during recovery
 
 > [!maneuver]- 3D Visualizer: Power-Off Stall
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/power-off-stalls" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Power-Off Stall (Turning)
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=power-off-stalls-turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/power-off-stalls/turning" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 **Slow Flight**

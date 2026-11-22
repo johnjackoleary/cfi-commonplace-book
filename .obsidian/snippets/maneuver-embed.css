@@ -1,3 +1,7 @@
+/* Match Pocket Maneuver embeds to the vault's light/dark theme */
+.theme-dark iframe[src*="maneuvers.cfijack.com"] { color-scheme: dark; }
+.theme-light iframe[src*="maneuvers.cfijack.com"] { color-scheme: light; }
+
 /* Custom theme for Pocket Maneuver callouts */
 .callout[data-callout="maneuver"] {
     --callout-color: #7a4a00;

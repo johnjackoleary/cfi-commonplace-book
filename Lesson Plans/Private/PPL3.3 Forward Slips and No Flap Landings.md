@@ -47,7 +47,7 @@ Multiple flights to practice this maneuver frequently
 	4. Failure to go around if the approach becomes unstable
 
 > [!maneuver]- 3D Visualizer: Forward Slip to Landing
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=forward-slip-to-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/forward-slip-to-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### No Flap Landings
 1. No flap landings may be needed if electrical system fails (in a C152/C172 or similar) or if flaps otherwise fail to deploy
@@ -59,7 +59,7 @@ Multiple flights to practice this maneuver frequently
 5. Approach speeds
 
 > [!maneuver]- 3D Visualizer: No Flap Landing
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=no-flap-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/no-flap-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Completion Standards
 Client must demonstrate smooth entry into a forward slip, with upwind wing down, maintaining runway centerline and safe airspeed, with smooth recovery from slip prior to round out. They must additionally demonstrate energy management while landing without the use of flaps.

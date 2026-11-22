@@ -21,6 +21,9 @@ Understand purpose and procedures of a lazy eight. Develop skills required to ex
 Ground 0.5 hr, Flight 2.0 hr
 
 ### Lesson Elements
+> [!maneuver]- 3D Visualizer: Lazy Eight
+> <iframe src="https://maneuvers.cfijack.com/embed/m/lazy-eights" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+
 1. Concepts in a lazy eight
 	1. The lazy eight is a maneuver that is designed to develop the proper coordination of the flight controls across a wide range of airspeeds and attitudes.
 	2. Similar to an S-Turn, a lazy eight is two or more opposing 180° turns. The lazy eight adds both a climb and descent to each 180° segment (first 90° is the climb, the second 90° is the descent).

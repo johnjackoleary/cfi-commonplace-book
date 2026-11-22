@@ -16,7 +16,7 @@ tags:
 - Use 50° bank
 
 > [!maneuver]- 3D Visualizer: Steep Turns (Commercial)
-> <iframe src="https://maneuvers.cfijack.com/m/steep-turns-commercial?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/steep-turns-commercial" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 ### Required Logbook Phraseology
 [[FAR 61.127 CPL Flight Reqs]]: 

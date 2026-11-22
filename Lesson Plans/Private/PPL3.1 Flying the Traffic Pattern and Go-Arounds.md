@@ -103,7 +103,7 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	3. Improper radio usage, forgetting radio calls at non-towered airports
 
 > [!maneuver]- 3D Visualizer: Traffic Pattern
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=traffic-pattern" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/traffic-pattern" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 #### Go-Arounds
 1. Situations requiring a go-around
@@ -144,13 +144,13 @@ The pattern is so important that, at first, we won't even try to land. We'll pra
 	8. Expecting CFI to call for a go-around
 
 > [!maneuver]- 3D Visualizer: Go-Around
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=go-around" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/go-around" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Go-Around (Traffic on Runway)
-> <iframe src="https://maneuvers.cfijack.com/m/go-around/traffic-on-runway?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/go-around/traffic-on-runway" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Go-Around (Unstabilized Approach)
-> <iframe src="https://maneuvers.cfijack.com/m/go-around/unstabilized-approach?embed" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/go-around/unstabilized-approach" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!youtube] Published by [@FlightATC](https://www.youtube.com/@FlightATC)
 > ![](https://www.youtube.com/watch?v=evE3WmYAvVY)

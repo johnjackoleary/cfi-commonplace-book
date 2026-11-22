@@ -45,7 +45,7 @@ Practice every flight
 	4. Use rudder pedals to maintain directional control.  Right rudder as necessary to offset left-turning tendency, more like flying than taxiing.
 
 > [!maneuver]- 3D Visualizer: Normal Takeoff
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=normal-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/normal-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 **Additional Considerations for Crosswind Takeoffs**
 1. [[Crosswind Component]] of wind
@@ -56,7 +56,7 @@ Practice every flight
 6. ![[Crosswind Slip to Crab.jpeg]]
 
 > [!maneuver]- 3D Visualizer: Crosswind Takeoff
-> <iframe src="https://maneuvers.cfijack.com/?embed&m=crosswind-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/crosswind-takeoff" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 **Normal Climbs**
 1. Climb out at [[Vy]], set trim, correct for wind to maintain runway centerline
