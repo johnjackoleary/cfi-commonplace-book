@@ -15,12 +15,12 @@
 > Pick a sequence for that day’s flight. Read the referenced ACS section.  Build a detailed flight plan that covers all the tasks listed in the sequence, making note of the tolerances listed in the ACS. Go fly the plan. Keep a record of your performance on the flight - notably, was the execution of the task within ACS standards? Record results in your flight diary. Keep working through the sequences until you can’t get them wrong!
 
 ## For Every Practice Flight
-| Task                                                                                                                                  | ACS Code        |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Pilotage and Dead Reckoning^[Remembering to [[Lights, Camera, Action, Time\|start a timer]] is a particular pain point.] | PA.VI.A.S1-S7   |
-| Straight and Level Flight                                                                                                             | PA.IX.D.S1-S2   |
-| Brief on Emergency Equipment                                                                                                          | PA.VIII.S1-S2   |
-| Radio Comms, Nav Systems, and Radar Svcs                                                                                              | PA.VIII.F.S1-S2 |
+| Task                                                                                                                     | ACS Code        | Lesson                                                                         | Visual                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| Pilotage and Dead Reckoning^[Remembering to [[Lights, Camera, Action, Time\|start a timer]] is a particular pain point.] | PA.VI.A.S1-S7   | [[PPL4.6 Pilotage and Dead Reckoning\|PPL4.6]]                                 |                                                                  |
+| Straight and Level Flight                                                                                                | PA.VIII.A.S1-S2 | [[PPL1.2 Four Fundamentals of Flight#Straight and Level\|PPL1.2]]              | [Visual](https://maneuvers.cfijack.com/m/level-flight-and-turns) |
+| Brief on Emergency Equipment                                                                                             | PA.IX.D.S1-S2   | [[PPL5.3 Emergency Operations#Other important topics for emergencies\|PPL5.3]] |                                                                  |
+| Radio Comms, Nav Systems, and Radar Svcs                                                                                 | PA.VIII.F.S1-S2 | [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals\|PPL5.1]]         |                                                                  |
 
 ## Targeted Flights
 ### Sequence A: Simulated Instrument Maneuvers
@@ -28,55 +28,55 @@
 > This is only meant to practice the procedures, not using only instruments. You should maintain full visibility outside.
 
 
-| Task                      | ACS Code        |
-| ------------------------- | --------------- |
-| Normal Takeoff & Climb    | PA.IV.A.S1-S15  |
-| Constant Speed Climbs     | PA.VIII.B.S1-S3 |
-| Constant Speed Descents   | PA.VIII.C.S1-S3 |
-| Turns to Headings         | PA.VIII.D.S1    |
-| Normal Approach & landing | PA.IV.B.S1-S12  |
+| Task                      | ACS Code        | Lesson                                                                 | Visual                                                           |
+| ------------------------- | --------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Normal Takeoff & Climb    | PA.IV.A.S1-S15  | [[PPL1.4 Normal and Crosswind Takeoffs and Climbs\|PPL1.4]]            | [Visual](https://maneuvers.cfijack.com/m/normal-takeoff)         |
+| Constant Speed Climbs     | PA.VIII.B.S1-S3 | [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals\|PPL5.1]] | [Visual](https://maneuvers.cfijack.com/m/climbs-and-descents)    |
+| Constant Speed Descents   | PA.VIII.C.S1-S3 | [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals\|PPL5.1]] | [Visual](https://maneuvers.cfijack.com/m/climbs-and-descents)    |
+| Turns to Headings         | PA.VIII.D.S1    | [[PPL5.1 Emergency Flight by Instruments - Four Fundamentals\|PPL5.1]] | [Visual](https://maneuvers.cfijack.com/m/level-flight-and-turns) |
+| Normal Approach & landing | PA.IV.B.S1-S12  | [[PPL3.2 Normal and Crosswind Approaches and Landings\|PPL3.2]]        | [Visual](https://maneuvers.cfijack.com/m/normal-landing)         |
 
 ### Sequence B: Slow Flight
-| Task                                                                                                                                                                  | ACS Code       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| Soft Field Takeoff & Climb                                                                                                                                            | PA.IV.C.S1-S14 |
-| Slow Flight^[Especially: Reaction to horn / Reaction to break; Coordinated flight; Manage pitch/power to avoid stall/horn; Straight & Level, Turns, Climbs, Descents] | PA.VII.A.S1-S5 |
-| Soft Field Approach & Landing                                                                                                                                         | PA.IV.D.S1-S13 |
+| Task                                                                                                                                                                  | ACS Code       | Lesson                                                                            | Visual                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Soft Field Takeoff & Climb                                                                                                                                            | PA.IV.C.S1-S14 | [[PPL3.5 Short- and Soft-Field Takeoffs and Landings#Soft-Field Takeoff\|PPL3.5]] | [Visual](https://maneuvers.cfijack.com/m/soft-field-takeoff)   |
+| Slow Flight^[Especially: Reaction to horn / Reaction to break; Coordinated flight; Manage pitch/power to avoid stall/horn; Straight & Level, Turns, Climbs, Descents] | PA.VII.A.S1-S5 | [[PPL2.1 Slow Flight and Power-Off Stalls#Slow Flight\|PPL2.1]]                   | [Visual](https://maneuvers.cfijack.com/m/slow-flight/low-drag) |
+| Soft Field Approach & Landing                                                                                                                                         | PA.IV.D.S1-S13 | [[PPL3.5 Short- and Soft-Field Takeoffs and Landings#Soft-Field Landing\|PPL3.5]] | [Visual](https://maneuvers.cfijack.com/m/soft-field-landing)   |
 
 ### Sequence C: Traffic Pattern and Landings
-| Task                                                                                      | ACS Code       |
-| ----------------------------------------------------------------------------------------- | -------------- |
-| Short Field Takeoff & Climb                                                               | PA.IV.E.S1-S15 | 
-| Forward Slip to Landing^[Though not required for the ACS, consider also no flap landings] | PA.IV.M.S1-S9  |
-| Go Arounds                                                                                | PA.IV.N.S1-S9  |
-| Short Field Approach & Landing                                                            | PA.IV.F.S1-S13 |
+| Task                                                                                      | ACS Code       | Lesson                                                                             | Visual                                                                         |
+| ----------------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Short Field Takeoff & Climb                                                               | PA.IV.E.S1-S15 | [[PPL3.5 Short- and Soft-Field Takeoffs and Landings#Short-Field Takeoff\|PPL3.5]] | [Visual](https://maneuvers.cfijack.com/m/short-field-takeoff)                  |
+| Forward Slip to Landing^[Though not required for the ACS, consider also no flap landings] | PA.IV.M.S1-S9  | [[PPL3.3 Forward Slips and No Flap Landings#Forward Slips\|PPL3.3]]                | [Visual](https://maneuvers.cfijack.com/m/forward-slip-to-landing)              |
+| Go Arounds                                                                                | PA.IV.N.S1-S9  | [[PPL3.1 Flying the Traffic Pattern and Go-Arounds#Go-Arounds\|PPL3.1]]            | [Visual](https://maneuvers.cfijack.com/m/go-around/in-the-flare)               |
+| Short Field Approach & Landing                                                            | PA.IV.F.S1-S13 | [[PPL3.5 Short- and Soft-Field Takeoffs and Landings#Short-Field Landing\|PPL3.5]] | [Visual](https://maneuvers.cfijack.com/m/short-field-landing/without-obstacle) |
 
 ### Sequence D: Steep Turns, Stalls, Sim Engine Failures
-| Task                                        | ACS Code        |
-| ------------------------------------------- | --------------- |
-| Choice of Performance Takeoff & Climb       | PA.IV.A/C/E     |
-| Steep Turns                                 | PA.V.A.S1-S5    |
-| Power-on Stalls (turning and not)           | PA.VII.A.S1-S5  |
-| Power-off Stalls (turning and not)          | PA.VII.B.S1-S11 |
-| Emergency Descent                           | PA.IX.A.S1-S8   |
-| Sim Emergency/Engine Out Approach & Landing | PA.IX.B.S1-S6   |
-| Choice of Performance Approach & Landing    | PA.IV.B/D/F     |
+| Task                                        | ACS Code        | Lesson                                                                                                                          | Visual                                                                                                                                                                                              |
+| ------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Choice of Performance Takeoff & Climb       | PA.IV.A/C/E     | [[PPL1.4 Normal and Crosswind Takeoffs and Climbs\|PPL1.4]], [[PPL3.5 Short- and Soft-Field Takeoffs and Landings\|PPL3.5]]     | [Normal](https://maneuvers.cfijack.com/m/normal-takeoff), [Soft](https://maneuvers.cfijack.com/m/soft-field-takeoff), [Short](https://maneuvers.cfijack.com/m/short-field-takeoff)                  |
+| Steep Turns                                 | PA.V.A.S1-S5    | [[PPL2.4 Steep Turns\|PPL2.4]]                                                                                                  | [Visual](https://maneuvers.cfijack.com/m/steep-turns/both-directions)                                                                                                                               |
+| Power-on Stalls (turning and not)           | PA.VII.C.S1-S11 | [[PPL2.3 Power-On Stalls and Spin Awareness#Power On Stall Maneuver\|PPL2.3]]                                                   | [Straight](https://maneuvers.cfijack.com/m/power-on-stalls/full-break), [Turning](https://maneuvers.cfijack.com/m/power-on-stalls/turning)                                                          |
+| Power-off Stalls (turning and not)          | PA.VII.B.S1-S11 | [[PPL2.1 Slow Flight and Power-Off Stalls#Power-Off Stalls\|PPL2.1]]                                                            | [Straight](https://maneuvers.cfijack.com/m/power-off-stalls/full-break), [Turning](https://maneuvers.cfijack.com/m/power-off-stalls/turning)                                                        |
+| Emergency Descent                           | PA.IX.A.S1-S8   | [[PPL5.3 Emergency Operations#Key Procedures in Emergencies\|PPL5.3]]                                                           | [Visual](https://maneuvers.cfijack.com/m/emergency-descent/high-drag)                                                                                                                               |
+| Sim Emergency/Engine Out Approach & Landing | PA.IX.B.S1-S6   | [[PPL3.4 Emergency Landings\|PPL3.4]]                                                                                           | [Visual](https://maneuvers.cfijack.com/m/engine-failure-at-altitude)                                                                                                                                |
+| Choice of Performance Approach & Landing    | PA.IV.B/D/F     | [[PPL3.2 Normal and Crosswind Approaches and Landings\|PPL3.2]], [[PPL3.5 Short- and Soft-Field Takeoffs and Landings\|PPL3.5]] | [Normal](https://maneuvers.cfijack.com/m/normal-landing), [Soft](https://maneuvers.cfijack.com/m/soft-field-landing), [Short](https://maneuvers.cfijack.com/m/short-field-landing/without-obstacle) |
 
 ### Sequence E: Ground Reference Maneuvers
-| Task                                                                                 | ACS Code     |
-| ------------------------------------------------------------------------------------ | ------------ |
-| Choice of Performance Takeoff & Climb                                                | PA.IV.A/C/E  |
-| Ground Reference Maneuvers^[S-Turns; Turns Around a Point (left turns); Rect Course] | PA.V.B.S1-S7 |
-| Choice of Performance Approach & Landing                                             | PA.IV.B/D/F  |
+| Task                                                                                 | ACS Code     | Lesson                                                                                                                          | Visual                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Choice of Performance Takeoff & Climb                                                | PA.IV.A/C/E  | [[PPL1.4 Normal and Crosswind Takeoffs and Climbs\|PPL1.4]], [[PPL3.5 Short- and Soft-Field Takeoffs and Landings\|PPL3.5]]     | [Normal](https://maneuvers.cfijack.com/m/normal-takeoff), [Soft](https://maneuvers.cfijack.com/m/soft-field-takeoff), [Short](https://maneuvers.cfijack.com/m/short-field-takeoff)                  |
+| Ground Reference Maneuvers^[S-Turns; Turns Around a Point (left turns); Rect Course] | PA.V.B.S1-S7 | [[PPL2.5 Ground Reference Maneuvers\|PPL2.5]]                                                                                   | [S-Turns](https://maneuvers.cfijack.com/m/s-turns), [Turns Around a Point](https://maneuvers.cfijack.com/m/turns-around-a-point), [Rect Course](https://maneuvers.cfijack.com/m/rectangular-course) |
+| Choice of Performance Approach & Landing                                             | PA.IV.B/D/F  | [[PPL3.2 Normal and Crosswind Approaches and Landings\|PPL3.2]], [[PPL3.5 Short- and Soft-Field Takeoffs and Landings\|PPL3.5]] | [Normal](https://maneuvers.cfijack.com/m/normal-landing), [Soft](https://maneuvers.cfijack.com/m/soft-field-landing), [Short](https://maneuvers.cfijack.com/m/short-field-landing/without-obstacle) |
 
 ### Sequence F: Unplanned Situations
-| Task                                     | ACS Code                                 |
-| ---------------------------------------- | ---------------------------------------- |
-| Choice of Performance Takeoff & Climb    | PA.IV.A/C/E                              |
-| Diversion Procedures                     | PA.VI.C.S1-S6                            |
-| Lost Procedures                          | PA.VI.D.S1-S5                            |
-| Emergency Procedures (all)               | PA.IX.C.S1-S3^[Random choice from K1-K5] |
-| Choice of Performance Approach & Landing | PA.IV.B/D/F                              |
+| Task                                     | ACS Code                                 | Lesson                                                                                                                          | Visual                                                                                                                                                                                              |
+| ---------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Choice of Performance Takeoff & Climb    | PA.IV.A/C/E                              | [[PPL1.4 Normal and Crosswind Takeoffs and Climbs\|PPL1.4]], [[PPL3.5 Short- and Soft-Field Takeoffs and Landings\|PPL3.5]]     | [Normal](https://maneuvers.cfijack.com/m/normal-takeoff), [Soft](https://maneuvers.cfijack.com/m/soft-field-takeoff), [Short](https://maneuvers.cfijack.com/m/short-field-takeoff)                  |
+| Diversion Procedures                     | PA.VI.C.S1-S6                            | [[PPL5.4 Lost Procedures and Diversion to Alternates\|PPL5.4]]                                                                  |                                                                                                                                                                                                     |
+| Lost Procedures                          | PA.VI.D.S1-S5                            | [[PPL5.4 Lost Procedures and Diversion to Alternates\|PPL5.4]]                                                                  |                                                                                                                                                                                                     |
+| Emergency Procedures (all)               | PA.IX.C.S1-S3^[Random choice from K1-K5] | [[PPL5.3 Emergency Operations\|PPL5.3]]                                                                                         |                                                                                                                                                                                                     |
+| Choice of Performance Approach & Landing | PA.IV.B/D/F                              | [[PPL3.2 Normal and Crosswind Approaches and Landings\|PPL3.2]], [[PPL3.5 Short- and Soft-Field Takeoffs and Landings\|PPL3.5]] | [Normal](https://maneuvers.cfijack.com/m/normal-landing), [Soft](https://maneuvers.cfijack.com/m/soft-field-landing), [Short](https://maneuvers.cfijack.com/m/short-field-landing/without-obstacle) |
 
 
 > [!note]

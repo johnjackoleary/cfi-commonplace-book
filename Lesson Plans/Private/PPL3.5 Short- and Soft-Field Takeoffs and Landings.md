@@ -47,7 +47,7 @@ Overview of short- and soft-field operations
 8. Raise flaps, apply brakes and elevator back-pressure as necessary to stop in the shortest distance consistent with safety, using proper control deflections for existing wind conditions
 
 > [!maneuver]- 3D Visualizer: Short-Field Landing
-> <iframe src="https://maneuvers.cfijack.com/embed/m/short-field-landing" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/short-field-landing/without-obstacle" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Short-Field Landing (Over an Obstacle)
 > <iframe src="https://maneuvers.cfijack.com/embed/m/short-field-landing/steep-over-obstacle" width="100%" height="520" style="border:0;border-radius:12px"></iframe>

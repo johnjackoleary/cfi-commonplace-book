@@ -21,7 +21,7 @@ Beyond the the checkride, this maneuver is important for many reasons. It gives 
 ### Lesson Elements
 
 > [!maneuver]- 3D Visualizer: Steep Turns
-> <iframe src="https://maneuvers.cfijack.com/embed/m/steep-turns" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/steep-turns/one-direction" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Steep Turns (Both Directions)
 > <iframe src="https://maneuvers.cfijack.com/embed/m/steep-turns/both-directions" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
