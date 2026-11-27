@@ -24,10 +24,11 @@ Ground 3.0 hr
 	1. Weather system formation, including [[air mass]]es and [[front]]s 
 	2. Cloud types and hazards 
 	3. [[Turbulence]] 
+		1. Turbulence forecasts ([[CAT]] and [[MTW]])
 	4. [[Thunderstorm]]s and [[Wind Shear#Microbursts|microbursts]] 
 	5. [[Fog]]
-	6. Ice hazards, [[Aircraft Icing]], including frost, conditions conducive to icing
-		1. [[Ice Hazards and Aircraft Icing]] - Stalls, tailplane stall, roll upset stall, [[Freezing Rain]], [[SLD]]
+	6. [[Ice Hazards and Aircraft Icing]]
+		1. Recommend reading [[Aircraft Icing]], especially the story at the end
 	7. Wind 
 	8. Moisture and precipitation 
 	9. [[Area Forecast Discussion]]

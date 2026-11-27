@@ -65,6 +65,8 @@ Practice on multiple flights
 		3. How to activate and close
 	5. Estimating visibility in flight^[Some suggestions from [[AOPA]] in [this article](https://www.aopa.org/news-and-media/all-news/2008/april/flight-training-magazine/basic-vfr)]
 
+> [!instagram]- Just for fun, this should all look familiar now
+> <iframe class="ig-embed-frame" src="https://www.instagram.com/p/DgHubyNNoA_/embed/"></iframe>
 
 ### Completion Standards
 Learner should develop working knowledge of weather theory, and understand sources of weather information for pre-flight planning.

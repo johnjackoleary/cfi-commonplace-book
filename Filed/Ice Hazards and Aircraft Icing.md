@@ -15,7 +15,12 @@ aliases:
 > [!quote] From [[Aviation Weather Handbook]]
 > Structural icing degrades an aircraft’s performance. It destroys the smooth flow of air, increasing drag while decreasing the ability of the airfoil to create lift.^[The actual weight of ice on an airplane is insignificant when compared to the airflow disruption it causes.]
 
-Ice can form on any exposed surface, and different locations cause different issues. See [[Aircraft Icing]] for more details e.g. tail stalls.
+Ice can form on any exposed surface, and different locations cause different issues. 
+
+With the change in airfoil shape, there is an increased risk of stalls. Particularly dangerous a tailplane stalls and roll upset stalls. See [[Aircraft Icing]] for more details.
+
+> [!tip]
+> Consider disconnecting the [[Autopilot Systems and Usage|autopilot]] to avoid masking the need for increased trim.
 
 ## Types of Icing
 - [[Rime Ice]]
@@ -23,6 +28,7 @@ Ice can form on any exposed surface, and different locations cause different iss
 - [[Mixed Ice]]
 - [[SLD]]
 - [[Frost]]
+- [[Freezing Rain]]
 
 ## Accumulation Rates
 

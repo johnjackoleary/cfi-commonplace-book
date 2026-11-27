@@ -10,13 +10,15 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 
 **Pre-Lesson Reading/Homework:** [[~ IRA Pre-Lesson Reading]]
 **Builds On:** [[IRA1.3 Instrument Maneuvers]], [[IRA2.2 Instrument Approach Fundamentals]]
-**Schedule:** Ground 0.5 hr, Sim/Flight 1.0 hr
+**Schedule:** Ground 0.5 hr, Sim/Flight 2.0 hr
 
 > [!tip] Pre-Lesson Reading/Homework here: [[~ IRA Pre-Lesson Reading]]
 
 ### Lesson Elements
 1. Review instrument systems and power sources 
 	1. Vacuum pump drives A/I and HI (or HSI) 
+		1. Where is magnatometter in 81034 (for stella)
+			1. true for most planes
 	2. Electrical system drives T/C (turn coordinator) 
 	3. Pitot-static system 
 	4. Autopilot – rate based (uses turn coordinator) or attitude based?
@@ -41,6 +43,7 @@ In this lesson, we'll work through identifying, diagnosing, and handling instrum
 	5. Use of [[EFB]] in an emergency
 4. [[Unusual Attitude Recovery]]
 5. GPS Failure^[Tips for CFI on this in [[GPS Simulated Failure]]]
+	1. Can you downgrade to LNAV?
 6. ATC notification 
 	1. May be required, likely good idea ([[FAR 91.187 IFR Malfunction Reports]])
 	2. Can also always ask for a [[IFR Radio Communication Examples#Delay Vector|delay vector]]

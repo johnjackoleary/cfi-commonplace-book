@@ -18,11 +18,3 @@ tags: [gait]
 | <span class="gait-approach"></span>Flaps 10° - 5° Dive      |    10°    |    -6°    |  1800   |      90       |     -800      |
 | <span class="gait-emergency"></span>V<sub>G</sub>           |    Up     |           |  idle   |      68       |               |
 
-<br>
-
-| Topic          | Details |
-| -------------- | :------ |
-| Leaning        |         |
-| V<sub>A</sub>  |         |
-| Short T.O.     |         |
-| Fuel Burn Est. |         |
