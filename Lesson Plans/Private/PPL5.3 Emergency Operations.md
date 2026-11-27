@@ -115,7 +115,7 @@ Flight practice as necessary
 		- Not an emergency. Close it, or land normally.
 
 > [!maneuver]- 3D Visualizer: Emergency Descent
-> <iframe src="https://maneuvers.cfijack.com/embed/m/emergency-descent" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/emergency-descent/high-drag" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Emergency Descent (Engine Fire)
 > <iframe src="https://maneuvers.cfijack.com/embed/m/emergency-descent-engine-fire" width="100%" height="520" style="border:0;border-radius:12px"></iframe>

@@ -12,7 +12,7 @@
 3. Use of tools like ForeFlight
 
 > [!maneuver]- 3D Visualizer: Entry on the 45°
-> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-entry" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-entry/45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Cross Midfield, Entry on the 45°
 > <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-entry/midfield-45" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
@@ -31,7 +31,7 @@
 > <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-exit/straight-out" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: 45° Turn
-> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-exit" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
+> <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-exit/45-turn" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
 
 > [!maneuver]- 3D Visualizer: Downwind^[Generally not recommended unless required by terrain, e.g. at [[Half Moon Bay Airport|KHAF]]]
 > <iframe src="https://maneuvers.cfijack.com/embed/m/pattern-exit/left-downwind" width="100%" height="520" style="border:0;border-radius:12px"></iframe>
